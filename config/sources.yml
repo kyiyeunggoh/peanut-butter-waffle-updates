@@ -1,0 +1,8 @@
+sources:
+  - name: Example AI News
+    url: https://example.com/feed.xml
+    enabled: false
+
+  - name: OpenAI Blog
+    url: https://openai.com/news/rss.xml
+    enabled: true

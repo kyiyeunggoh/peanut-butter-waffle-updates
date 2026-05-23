@@ -1,0 +1,48 @@
+name: Daily Telegram Digest
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.1-flash-lite' }}
+          MAX_DAILY_GEMINI_COST_USD: ${{ vars.MAX_DAILY_GEMINI_COST_USD || '0.10' }}
+          GEMINI_INPUT_PRICE_PER_1M: ${{ vars.GEMINI_INPUT_PRICE_PER_1M || '0.25' }}
+          GEMINI_OUTPUT_PRICE_PER_1M: ${{ vars.GEMINI_OUTPUT_PRICE_PER_1M || '1.50' }}
+          GEMINI_MAX_OUTPUT_TOKENS: ${{ vars.GEMINI_MAX_OUTPUT_TOKENS || '600' }}
+          DIGEST_CANDIDATE_COUNT: ${{ vars.DIGEST_CANDIDATE_COUNT || '50' }}
+          DIGEST_SHORTLIST_COUNT: ${{ vars.DIGEST_SHORTLIST_COUNT || '20' }}
+          DIGEST_MAX_ITEMS: ${{ vars.DIGEST_MAX_ITEMS || '10' }}
+        run: python src/main.py
+
+      - name: Save seen items
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seen.json data/cost_log.json
+          git diff --cached --quiet || git commit -m "Update seen digest items"
+          git push
