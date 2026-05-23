@@ -2868,20 +2868,31 @@ def format_no_items_message() -> str:
     )
 
 
-def send_telegram_message(text: str) -> None:
-    token = os.environ["TELEGRAM_BOT_TOKEN"]
-    channel_id = os.getenv("TELEGRAM_CHANNEL_ID") or os.environ["TELEGRAM_CHAT_ID"]
+def send_telegram_message(message: str) -> None:
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID") or os.environ.get("TELEGRAM_CHANNEL_ID")
+
+    if not token:
+        raise ValueError("Missing TELEGRAM_BOT_TOKEN")
+    if not chat_id:
+        raise ValueError("Missing TELEGRAM_CHAT_ID")
+
+    print(f"Telegram message length: {len(message)} characters")
+
     url = f"https://api.telegram.org/bot{token}/sendMessage"
 
-    response = requests.post(
-        url,
-        json={
-            "chat_id": channel_id,
-            "text": text,
-            "disable_web_page_preview": False,
-        },
-        timeout=30,
-    )
+    payload = {
+        "chat_id": chat_id,
+        "text": message,
+        "disable_web_page_preview": False,
+    }
+
+    response = requests.post(url, json=payload, timeout=30)
+
+    if not response.ok:
+        print("Telegram API error status:", response.status_code)
+        print("Telegram API error body:", response.text)
+
     response.raise_for_status()
 
 
