@@ -1,3 +1,190 @@
 {
-  "items": []
+  "titles": {
+    "deepfake scam defrauds victim 4 9m singapore": {
+      "article_type": "News report",
+      "normalised_title": "deepfake scam defrauds victim 4 9m singapore",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "deepfake scam defrauds victim 4 9m singapore",
+      "usefulness_category": "Scam development"
+    },
+    "over 130 arrested singapore crackdown transnational scams linked 963m losses": {
+      "article_type": "Enforcement report",
+      "normalised_title": "over 130 arrested singapore crackdown transnational scams linked 963m losses",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "over 130 arrested singapore crackdown transnational scams linked 963m losses",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "paynow nickname feature cease jun 6 2026 combat impersonation scams": {
+      "article_type": "News report",
+      "normalised_title": "paynow nickname feature cease jun 6 2026 combat impersonation scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "paynow nickname feature cease jun 6 2026 combat impersonation scams",
+      "usefulness_category": "Platform policy / product change"
+    },
+    "singapore police launch dedicated cyber command july combat online crimes scams": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police launch dedicated cyber command july combat online crimes scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "singapore police launch dedicated cyber command july combat online crimes scams",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "singapore police set up unit better combat scams cybercrime": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police set up unit better combat scams cybercrime",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "singapore police set up unit better combat scams cybercrime",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "sri lanka arrests more than 260 foreigners over cyberscams": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka arrests more than 260 foreigners over cyberscams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "sri lanka arrests more than 260 foreigners over cyberscams",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "thai police arrest 11 scam linked weapons cache probe": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police arrest 11 scam linked weapons cache probe",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "thai police arrest 11 scam linked weapons cache probe",
+      "usefulness_category": "Scam development"
+    },
+    "thai police raid luxury condo arrest six nigerians over romance scams": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police raid luxury condo arrest six nigerians over romance scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "thai police raid luxury condo arrest six nigerians over romance scams",
+      "usefulness_category": "Scam development"
+    }
+  },
+  "urls": {
+    "02264736afa0942a591a1d2e87d2343ddcc405b4c017b94e90c16d2e74060452": {
+      "article_type": "Enforcement report",
+      "normalised_title": "over 130 arrested singapore crackdown transnational scams linked 963m losses",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Over 130 arrested in Singapore in crackdown on transnational scams linked to $963m in losses - The Straits Times",
+      "url": "https://www.straitstimes.com/singapore/more-than-130-arrested-in-spore-in-transnational-scam-crackdown-linked-to-963m-in-losses",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "0321540e0f81a378b0325c54a694e16c819709fad784882eb0ae2685bdd5b630": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka arrests more than 260 foreigners over cyberscams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Sri Lanka arrests more than 260 foreigners over cyberscams - CNA",
+      "url": "https://www.channelnewsasia.com/asia/sri-lanka-cyberscam-arrest-260-foreigners-6110756",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "1243fc56f34a9be2db0dd52c53713b24c6dfc776849ee813bf05822d6bec59f7": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police set up unit better combat scams cybercrime",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Singapore police to set up new unit to better combat scams and cybercrime - CNA",
+      "url": "https://www.channelnewsasia.com/singapore/police-new-unit-combat-scams-cybercrime-6112606",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "33f90355a6eb3618a884c8eb66081d43fa464409d3258b7cb9325408dea38ce7": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police raid luxury condo arrest six nigerians over romance scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Thai police raid luxury condo, arrest six Nigerians over romance scams - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGVHRDkzSDNjU1N2NFQ4XzNjN0w2VEEwbngteERwVjhSbGtTM0lENVhmRGhPb3AzNnFpc2xRRUpPOHdjQXRjbFV2VGtUSmp5c1Z3OFpCLTVPVUJUbzA1ZVFwNG1sd09uVVVVeG1QU0FuSzRJYXRaY3pDVFUyMGR0S1pCS1ZWYk1WWWJkVVE2VkZGNjZaY1B6bzFjMm4wVFRObjdielBxNk5DWHJjRWFNMw?oc=5",
+      "usefulness_category": "Scam development"
+    },
+    "3e7cf2eeb4e9aa9bf057cc7b558caf386cc0653f5b3654cfda95dbf5817bafdc": {
+      "article_type": "Enforcement report",
+      "normalised_title": "over 130 arrested singapore crackdown transnational scams linked 963m losses",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Over 130 arrested in Singapore in crackdown on transnational scams linked to $963m in losses - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVjdpcE85NUlLb1FnMG13cjVMdzFGU1JTd2RLTDIyNEdnVG5Cc1FuTjJiQzV4OGI1UnFSX0ZVZzFaRUZjbTdIejNFaDZWY01PcUZmQ0dIazBlRVhGQzlBWllOSXR1VTVJNXp3NHBuaXpoeEZ4VTZOTXVvSG1MWVpVcV9Wb2FfUEF3NUNxS240aVFEbF9WXzd4Wk5YSU5jS3FjcmJiRTdHc3pJc0xZZ01BNm1HYXU3QVB3MzM5NHBjbnJJeHI1S3c?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "6e1e4474b1ce574cd492031daaf0952097a4f092445f67cb97e0f0e1c131fa95": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka arrests more than 260 foreigners over cyberscams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Sri Lanka arrests more than 260 foreigners over cyberscams - CNA",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1hMVkJJXzNQQU9tWXZta0pNcldQU202X2hILU95bXVsTlBaQ3Y3bHJXZHVPNzhONU9DOTlkTHVrcjMxSFhVbjRQQktKM2xaZDVEc1ZhQk5ydzlPYzVuYzBlY1pYaDN6YzBnVmozSElMZ2RUOFoyOWpydkRQaGFTdUpYNEhsOTRGUGNSSG1lWQ?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "770798a4557b7cb1a17618b60083cdfb6f3332bf7495395e7a98beeff3b77fd6": {
+      "article_type": "News report",
+      "normalised_title": "paynow nickname feature cease jun 6 2026 combat impersonation scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "PayNow nickname feature to cease from Jun. 6, 2026 to combat impersonation scams",
+      "url": "https://mothership.sg/2026/04/paynow-nickname-feature-cease/",
+      "usefulness_category": "Platform policy / product change"
+    },
+    "7a4bb88ba20972b336add80eeeaf9421395f0e04cc0c48df765aeffad5d151a5": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police launch dedicated cyber command july combat online crimes scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Singapore police to launch dedicated Cyber Command in July to combat online crimes, scams - The Straits Times",
+      "url": "https://www.straitstimes.com/singapore/new-cyber-command-to-be-launched-brings-together-police-anti-scam-cybercrime-assets",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "c76cd88b5450ff4c6579367e12d9d98752704a6055f30105ff1a2e8d7cb3ae8c": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police arrest 11 scam linked weapons cache probe",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Thai police arrest 11 in scam-linked weapons cache probe - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQW9pdE1QYmFEY2x4VjBzeE1wRnYyekdCaWdBbHBmc1FyZXhhbzQ2VEJKMTFyRnltZGhwNGw3S2h4cjNZU2dvR2laeUhQX3dzTVdfMWJ3Y0ZzWDNDOVo3MHlKMUVDQUJYVEpTNHVyX3ZIVDY0d2FPVmZoY3ZLU0N2ZHdPT0ZiaHR0U05MbFFBaW9Wd3RnWk5FRGl3ZE1KWXM?oc=5",
+      "usefulness_category": "Scam development"
+    },
+    "cc972cb70681cba9427d0b30c8f6843901f27fccc0c625dbfff0a81a273f07a3": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police set up unit better combat scams cybercrime",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Singapore police to set up new unit to better combat scams and cybercrime - CNA",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSjlrUHA2SG5sN2UyeDlYU3FOTkdRY3lCdUh5UW5wVGxEMHZEdl9PeVJQWHdZUEhRUlh5dGdQbHdUczlHNng4dm9Hck5rUV9kUDM3SzJKLWNJM01Sblh5Wk1ReTF2X3AzNXVWUUtrTW5yeE9JbkdaS190aTh0bnA3YVJTUTN0RkVIQVo5YXBuUE9LVlE?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "ce80e4611d62353f1c795ecdb4328e141d253cc88d2e3ca82a4f5ba781414244": {
+      "article_type": "News report",
+      "normalised_title": "deepfake scam defrauds victim 4 9m singapore",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Deepfake scam defrauds victim of $4.9m in Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNEg3cUlkZVZ1MTVUTEdmY1c0ZjFJUWtmc0tVRHE3dEpOSm5JR0ZEaDBzME9zdWNpV3BYcHN0WXRsZ1lObFhTRjAxeVR3N2g5Z1hrVDVzVzg2djJGa1ZteDNnN0xDMW9EM0VNb24zRzYzaExaZDhRRmxqNHctWXBQenlRZnlXazItQXpMLWZJd1pXelFlTGV5M2stS0dXYk0tNk5vakt4MHZ3TWxxdENqa0VPVWdjS3FRbk05UFZzejdsaWc?oc=5",
+      "usefulness_category": "Scam development"
+    },
+    "d29576a682f1f377b3831eba84bd69f9ecac45f8e59d43637eb71a4252f70757": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police raid luxury condo arrest six nigerians over romance scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Thai police raid luxury condo, arrest six Nigerians over romance scams - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/se-asia/thai-police-raid-luxury-condo-arrest-six-nigerians-over-romance-scams",
+      "usefulness_category": "Scam development"
+    },
+    "d48ac6991b18c71a4eff31c962d513ad745de31af122eba2cdec2989f2d7b8fe": {
+      "article_type": "Enforcement report",
+      "normalised_title": "singapore police launch dedicated cyber command july combat online crimes scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Singapore police to launch dedicated Cyber Command in July to combat online crimes, scams - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONHlVREZtNE4wZ0FrcVZkdmlUdTNtaWtyVkduM19CTmM4VFRTOUVoRnJ0anB5R25LYVlqLUgtN2tMVEg5Z1FXZTQwb0JJdDh2amk0bTFkMC1Zdk1vaS0zbm1nOFh4SnUwazVOMGVqTTR4cVpIdTR1c0RodEQtNWVTNktzREhfSUhQVDdWb20tSDlUYUg4bjloWHduVGk1dVJldHVVVFgxRmZETWlTQ0RXdGRNb3lSQldhSlFsUjRVNA?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "e83db6953f7e6b4cb7f5321d2a252dcb02f079e3a4f28bd72b7fd1f070484482": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thai police arrest 11 scam linked weapons cache probe",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Thai police arrest 11 in scam-linked weapons cache probe - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/se-asia/thai-police-arrest-11-in-scam-linked-weapons-cache-probe",
+      "usefulness_category": "Scam development"
+    },
+    "e8c390a673d4c469a029e623873186f40b2af877293bce1871ec213dd291af7c": {
+      "article_type": "News report",
+      "normalised_title": "paynow nickname feature cease jun 6 2026 combat impersonation scams",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "PayNow nickname feature to cease from Jun. 6, 2026 to combat impersonation scams",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aZW56NEIxN2FhTWxCXzMtQkxMdUdfMFdvcWw2T0NxSkxnNlRGZjJQMXBBeXhPcmM3T0pJQjJXaUppaVdWRnducE1OVHRLRFMzVENVdW5tdGozejd1ZC1jN3hLZGR1bjMwQ0VoRQ?oc=5",
+      "usefulness_category": "Platform policy / product change"
+    },
+    "f39b243b5846e6fed9cc7e2db008c0112bb93017b1eebd300f5c14620b8e6115": {
+      "article_type": "News report",
+      "normalised_title": "deepfake scam defrauds victim 4 9m singapore",
+      "sent_at": "2026-05-24T00:07:21+08:00",
+      "title": "Deepfake scam defrauds victim of $4.9m in Singapore",
+      "url": "https://www.straitstimes.com/singapore/victim-loses-at-least-4-9m-in-scam-involving-deepfakes-of-pm-wong-government-officials",
+      "usefulness_category": "Scam development"
+    }
+  }
 }

@@ -1,3 +1,105 @@
+lookback_days: 90
+max_article_age_days: 90
+max_candidates_for_llm: 20
+min_articles_to_send: 3
+max_articles_to_send: 10
+min_final_quality_score: 80
+min_direct_anti_scam_items: 3
+seen_retention_days: 365
+max_rss_queries_per_run: 120
+max_google_news_candidates: 3000
+max_arxiv_candidates: 300
+max_watchlist_candidates: 50
+max_official_feed_candidates: 500
+request_timeout_seconds: 8
+
+quality_filters:
+  min_word_count_default: 600
+  min_word_count_research_or_report: 800
+  min_word_count_news: 400
+  inspect_top_n_candidates: 40
+  max_vendor_blog_items_final: 1
+  require_at_least_one_technical: true
+  require_at_least_one_deep_analysis: true
+
+high_reputation_sources:
+  - anthropic.com
+  - openai.com
+  - cloud.google.com
+  - mandiant.com
+  - microsoft.com
+  - aisi.gov.uk
+  - cetas.turing.ac.uk
+  - turing.ac.uk
+  - fbi.gov
+  - ic3.gov
+  - europol.europa.eu
+  - interpol.int
+  - cisa.gov
+  - nist.gov
+  - wired.com
+  - reuters.com
+  - ft.com
+  - theguardian.com
+  - bbc.com
+  - therecord.media
+  - restofworld.org
+  - 404media.co
+  - krebsonsecurity.com
+  - datasociety.net
+  - graphika.com
+  - bellingcat.com
+  - technologyreview.com
+  - hai.stanford.edu
+  - arxiv.org
+  - theverge.com
+  - techcrunch.com
+  - c4ads.org
+  - straitstimes.com
+  - channelnewsasia.com
+  - cna.com.sg
+  - mothership.sg
+  - todayonline.com
+  - gov.sg
+  - csa.gov.sg
+  - police.gov.sg
+  - mas.gov.sg
+  - imda.gov.sg
+  - developers.cloudflare.com
+  - cloudflare.com
+  - security.googleblog.com
+  - blog.google
+  - deepmind.google
+  - meta.com
+  - about.fb.com
+  - whatsapp.com
+  - blog.whatsapp.com
+  - telegram.org
+  - signal.org
+  - apple.com
+  - apple.com/newsroom
+  - dl.acm.org
+  - usenix.org
+  - ndss-symposium.org
+  - ieee.org
+  - ssrn.com
+  - osf.io
+
+vendor_or_low_priority_sources:
+  - cybersecurity-insiders.com
+  - securitybrief
+  - helpnetsecurity.com
+  - malwarebytes.com
+  - securitymagazine.com
+  - securityjournaluk.com
+  - bizcommunity.com
+  - chainstoreage.com
+  - digitaljournal.com
+  - firstpost.com
+  - ftnnews.com
+  - yellowhammernews.com
+  - 256today.com
+
 sources:
   - name: Example AI News
     url: https://example.com/feed.xml
@@ -5,4 +107,108 @@ sources:
 
   - name: OpenAI Blog
     url: https://openai.com/news/rss.xml
+    enabled: true
+
+  - name: arXiv
+    domain: arxiv.org
+    enabled: true
+
+  - name: The Verge
+    domain: theverge.com
+    enabled: true
+
+  - name: TechCrunch
+    domain: techcrunch.com
+    enabled: true
+
+  - name: C4ADS
+    domain: c4ads.org
+    enabled: true
+
+  - name: Straits Times
+    domain: straitstimes.com
+    enabled: true
+
+  - name: Channel NewsAsia
+    domain: channelnewsasia.com
+    enabled: true
+
+  - name: CNA
+    domain: cna.com.sg
+    enabled: true
+
+  - name: Mothership
+    domain: mothership.sg
+    enabled: true
+
+  - name: Today
+    domain: todayonline.com
+    enabled: true
+
+  - name: Gov.sg
+    domain: gov.sg
+    enabled: true
+
+  - name: Cyber Security Agency of Singapore
+    domain: csa.gov.sg
+    enabled: true
+
+  - name: Singapore Police Force
+    domain: police.gov.sg
+    enabled: true
+
+  - name: Monetary Authority of Singapore
+    domain: mas.gov.sg
+    enabled: true
+
+  - name: IMDA
+    domain: imda.gov.sg
+    enabled: true
+
+  - name: Cloudflare Developers
+    domain: developers.cloudflare.com
+    enabled: true
+
+  - name: Cloudflare
+    domain: cloudflare.com
+    enabled: true
+
+  - name: Google Security Blog
+    domain: security.googleblog.com
+    enabled: true
+
+  - name: Google Blog
+    domain: blog.google
+    enabled: true
+
+  - name: Google DeepMind
+    domain: deepmind.google
+    enabled: true
+
+  - name: Meta
+    domain: meta.com
+    enabled: true
+
+  - name: About Facebook
+    domain: about.fb.com
+    enabled: true
+
+  - name: WhatsApp
+    domain: whatsapp.com
+    enabled: true
+
+  - name: WhatsApp Blog
+    domain: blog.whatsapp.com
+    enabled: true
+
+  - name: Telegram
+    domain: telegram.org
+    enabled: true
+
+  - name: Signal
+    domain: signal.org
+    enabled: true
+
+  - name: Apple Newsroom
+    domain: apple.com/newsroom
     enabled: true

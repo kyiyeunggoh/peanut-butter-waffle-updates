@@ -2,7 +2,7 @@ name: Daily Telegram Digest
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "43 23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,6 +11,7 @@ permissions:
 jobs:
   send-digest:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
       - name: Check out repository
@@ -30,19 +31,22 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-3.1-flash-lite' }}
-          MAX_DAILY_GEMINI_COST_USD: ${{ vars.MAX_DAILY_GEMINI_COST_USD || '0.10' }}
+          MAX_DAILY_GEMINI_COST_USD: ${{ vars.MAX_DAILY_GEMINI_COST_USD || '0.02' }}
           GEMINI_INPUT_PRICE_PER_1M: ${{ vars.GEMINI_INPUT_PRICE_PER_1M || '0.25' }}
           GEMINI_OUTPUT_PRICE_PER_1M: ${{ vars.GEMINI_OUTPUT_PRICE_PER_1M || '1.50' }}
           GEMINI_MAX_OUTPUT_TOKENS: ${{ vars.GEMINI_MAX_OUTPUT_TOKENS || '600' }}
-          DIGEST_CANDIDATE_COUNT: ${{ vars.DIGEST_CANDIDATE_COUNT || '50' }}
+          LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS || '90' }}
+          MAX_ARTICLE_AGE_DAYS: ${{ vars.MAX_ARTICLE_AGE_DAYS || '90' }}
+          SEEN_RETENTION_DAYS: ${{ vars.SEEN_RETENTION_DAYS || '365' }}
           DIGEST_SHORTLIST_COUNT: ${{ vars.DIGEST_SHORTLIST_COUNT || '20' }}
-          DIGEST_MAX_ITEMS: ${{ vars.DIGEST_MAX_ITEMS || '10' }}
+          MIN_ARTICLES_TO_SEND: ${{ vars.MIN_ARTICLES_TO_SEND || '3' }}
+          MAX_ARTICLES_TO_SEND: ${{ vars.MAX_ARTICLES_TO_SEND || '10' }}
         run: python src/main.py
 
       - name: Save seen items
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/seen.json data/cost_log.json
+          git add data/seen.json data/cost_log.json data/url_cache.json data/quality_cache.json
           git diff --cached --quiet || git commit -m "Update seen digest items"
           git push

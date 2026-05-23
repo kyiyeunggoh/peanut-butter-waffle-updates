@@ -84,23 +84,6 @@
       "candidate_count": 26,
       "shortlist_count": 20,
       "sent_count": 10
-    },
-    {
-      "date": "2026-05-23",
-      "mode": "send",
-      "model": "gemini-3.1-flash-lite",
-      "used_llm": true,
-      "estimated_input_tokens": 4539,
-      "estimated_output_tokens": 600,
-      "estimated_cost_usd": 0.002035,
-      "actual_prompt_tokens": 6332,
-      "actual_output_tokens": 520,
-      "actual_thoughts_tokens": null,
-      "actual_total_tokens": 6852,
-      "actual_cost_usd": 0.002363,
-      "candidate_count": 25,
-      "shortlist_count": 20,
-      "sent_count": 8
     }
   ]
 }
