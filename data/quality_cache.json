@@ -458,6 +458,28 @@
     ],
     "word_count": 763
   },
+  "428ee5d26d6f3a1ba03e77ce01cff5489b143ef21fda5c6d04fc464ba4bdd5b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 3,
+    "checked_at": "2026-05-23T16:58:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "4d83b770a7c60b5c37a01a7f72263dd7c50d2cac08a91707762ca23f34764eb7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1329,7 +1351,8 @@
   "ec41d2abbc77c4734bb05f2829331a1f05f4bffb627eb0b45dfc496b7cd7bb8d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "checked_at": "2026-05-23T15:56:07+00:00",
+    "cache_version": 3,
+    "checked_at": "2026-05-23T16:58:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -1343,10 +1366,11 @@
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 822
+    "word_count": 820
   },
   "efe0921aee8cbcbf61d8541efeba64ba4343fba242ff48615d2b24481cf43dc1": {
     "access_status": "available",
@@ -1414,6 +1438,35 @@
       "fraud"
     ],
     "word_count": 1860
+  },
+  "f532b522e57915a42784ccde6f569abfae4cb33e64eecf47c0494e98407c4fb5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 3,
+    "checked_at": "2026-05-23T16:58:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 10373
   },
   "f583c2e68db5b2422250df782e5607ad953ef3f1a600de16a23702365deb967c": {
     "access_status": "unknown",
