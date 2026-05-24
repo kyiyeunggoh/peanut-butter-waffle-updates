@@ -49,6 +49,49 @@
     ],
     "word_count": 1259
   },
+  "02264736afa0942a591a1d2e87d2343ddcc405b4c017b94e90c16d2e74060452": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:22:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud"
+    ],
+    "word_count": 2760
+  },
   "0321540e0f81a378b0325c54a694e16c819709fad784882eb0ae2685bdd5b630": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -510,6 +553,44 @@
     ],
     "word_count": 4497
   },
+  "31d45d3aa86aab153c79bfeee9ace31908a36fda29b4114714afb50abedfe1b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:22:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 19742
+  },
   "3a36fd5ae9e5bc6f4b0be07a1088cea276acf67522c27fca09e8e09db828fa0c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -533,6 +614,28 @@
       "trust"
     ],
     "word_count": 2742
+  },
+  "3d9fde5e47815c5e6b0147ec58a6cda9cdf8bb4c544530d15f455a6f653fca8c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:22:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "41a81796507333049772ee5a98ae463a62ffa1619130b84da3859d91d52e332e": {
     "access_status": "available",
@@ -690,6 +793,28 @@
       "trust"
     ],
     "word_count": 2646
+  },
+  "5bf4ea5abc6e9490701666073f6ff879aee8b8ed0e1ac0594021d8028eee5355": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:22:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "626997000e0c5c928a64aba7516e1b6806298b3f8aa18edfa4a7242404f5f496": {
     "access_status": "available",
@@ -877,6 +1002,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2203
+  },
+  "79f2c9f7c529b160d0d507029261983bea884d33b287f77abf9e3c65b6c7aad5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:22:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity"
+    ],
+    "word_count": 1937
   },
   "7a4bb88ba20972b336add80eeeaf9421395f0e04cc0c48df765aeffad5d151a5": {
     "access_status": "available",
