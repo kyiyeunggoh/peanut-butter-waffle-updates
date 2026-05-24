@@ -9,9 +9,55 @@ seen_retention_days: 365
 max_rss_queries_per_run: 120
 max_google_news_candidates: 3000
 max_arxiv_candidates: 300
-max_watchlist_candidates: 50
+max_reference_url_candidates: 50
 max_official_feed_candidates: 500
 request_timeout_seconds: 8
+
+reference_examples:
+  - url: https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/
+    title: '“HELLO BOSS”: Inside the Chinese Realtime Deepfake Software Powering Scams Around the World'
+    summary: Longform investigation into realtime deepfake software used by scammers, impersonation operations, and scam infrastructure.
+    include_as_candidate: false
+  - url: https://arxiv.org/abs/2605.21246
+    title: Profiling User Vulnerability to Phishing Through Psychological and Behavioral Factors
+    summary: Academic research on phishing victim vulnerability, psychological and behavioral factors, social engineering, and scam prevention.
+    include_as_candidate: false
+  - url: https://arxiv.org/abs/2510.23927
+    title: "Victim as a Service: Designing a System for Engaging with Interactive Scammers"
+    summary: Academic research describing an anti-scam system for engaging interactive scammers, scammer-victim conversations, intervention workflows, and product ideas.
+    include_as_candidate: false
+  - url: https://arxiv.org/abs/2602.16800
+    title: Large-scale online deanonymization with LLMs
+    summary: Research on LLM-enabled deanonymization, identity risk, adversarial misuse, victim targeting, privacy abuse, and scammer reconnaissance.
+    include_as_candidate: false
+  - url: https://c4ads.org/commentary/hot-lines/
+    title: Hot Lines
+    summary: C4ADS operational intelligence on hotline infrastructure, call routing, scam networks, human trafficking, and cross-border cyber scam ecosystems.
+    include_as_candidate: false
+  - url: https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks
+    title: Taylor Swift deepfakes are pushing scams on TikTok
+    summary: News report on celebrity deepfake scam ads, impersonation, social platform abuse, and fraud campaigns on TikTok.
+    include_as_candidate: false
+
+monitored_sources:
+  - 404media.co
+  - wired.com
+  - c4ads.org
+  - restofworld.org
+  - graphika.com
+  - bellingcat.com
+  - therecord.media
+  - krebsonsecurity.com
+  - technologyreview.com
+  - arxiv.org
+  - ssrn.com
+  - osf.io
+  - dl.acm.org
+  - ieee.org
+  - usenix.org
+  - ndss-symposium.org
+  - techcrunch.com
+  - theverge.com
 
 quality_filters:
   min_word_count_default: 600
