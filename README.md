@@ -1,60 +1,40 @@
-# Telegram Channel Digest Bot
+# AI Abuse & Scam Radar
 
-A simple one-way Telegram Channel digest bot. It builds Google News RSS searches from the source domains in `config/sources.yml`, adds broad fallback searches, posts new items to one Telegram channel, and records sent items in `data/seen.json`.
+A one-way Telegram Channel bot that monitors scam, fraud, and AI-abuse signals across news, research, investigations, official sources, developer updates, and targeted search queries.
 
-There is no subscriber management. The bot only sends messages to the configured channel.
+The bot is designed as a lightweight adversarial product radar for anti-scam work. It prioritises articles that reveal scammer methods, victim psychology, scam infrastructure, deepfake and impersonation abuse, phishing and social-engineering techniques, platform/telco/bank controls, and product-relevant research.
 
-## Setup
+It posts a daily digest to a configured Telegram Channel and records sent items so the same story is not repeated.
 
-1. Create a Telegram bot with BotFather.
-2. Add the bot as an admin in your Telegram channel.
-3. Copy `.env.example` to `.env` and fill in:
+## What it does
 
-```env
-TELEGRAM_BOT_TOKEN=123456:replace_me
-TELEGRAM_CHANNEL_ID=@your_channel_username
-GEMINI_API_KEY=replace_me
-MAX_DAILY_GEMINI_COST_USD=0.02
-MAX_ARTICLES_TO_SEND=8
-```
+- Fetches candidates from Google News RSS, arXiv-style research sources, monitored domains, and configured source queries.
+- Filters for recency, source quality, anti-scam relevance, and duplicate stories.
+- Ranks items by usefulness for anti-scam product work.
+- Uses Gemini only as a final selector over a compact shortlist.
+- Sends a plain-text Telegram message grouped by article category.
+- Tracks sent URLs and title fingerprints in `data/seen.json`.
+- Logs Gemini cost estimates and usage metadata in `data/cost_log.json`.
+- Supports cached reranking so ranking changes can be tested without repeatedly refetching the web.
 
-4. Add or enable source domains in `config/sources.yml`.
-5. Install dependencies and run:
+## Example output
 
-```bash
-pip install -r requirements.txt
-python src/main.py
-```
+```text
+🕵️ AI Abuse & Scam Radar
+24 May 2026
 
-For fetch diagnostics without sending to Telegram:
+━━━━━━━━━━━━━━━━
+🧠 VICTIM PSYCHOLOGY & PERSUASION
+━━━━━━━━━━━━━━━━
+1. 【Research paper · Research / novel method】
+Profiling User Vulnerability to Phishing Through Psychological and Behavioral Factors
+https://arxiv.org/abs/2605.21246
 
-```bash
-python src/main.py --dry-run
-```
+━━━━━━━━━━━━━━━━
+🕵️ INVESTIGATIONS & OPERATIONAL INTELLIGENCE
+━━━━━━━━━━━━━━━━
+2. 【News report · Operational intelligence】
+Sri Lanka becomes next hub for scam networks
+https://...
 
-## GitHub Actions
-
-`.github/workflows/daily.yml` runs once per day at `01:00 UTC` and can also be started manually.
-
-Add these repository secrets:
-
-- `TELEGRAM_BOT_TOKEN`
-- `TELEGRAM_CHANNEL_ID`
-- `GEMINI_API_KEY`
-
-Optional repository variables:
-
-- `MAX_ARTICLES_TO_SEND`
-- `MAX_DAILY_GEMINI_COST_USD`
-- `GEMINI_MODEL`
-- `GEMINI_INPUT_PRICE_PER_1M`
-- `GEMINI_OUTPUT_PRICE_PER_1M`
-- `GEMINI_MAX_OUTPUT_TOKENS`
-- `LOOKBACK_DAYS`
-- `MAX_ARTICLE_AGE_DAYS`
-- `SEEN_RETENTION_DAYS`
-- `DIGEST_SHORTLIST_COUNT`
-
-The workflow commits updates to `data/seen.json` so already-sent links are skipped on future runs. It also commits `data/cost_log.json`, keeping only the latest 180 runs.
-
-Gemini cost estimates and usage metadata are logged to the console and summarized in the GitHub Actions job summary. Cost details are not included in the Telegram channel message.
+Access note: If a link has access issues, try the official source, author-hosted copy, institutional repository, arXiv/SSRN/OSF version, or reputable secondary coverage.
