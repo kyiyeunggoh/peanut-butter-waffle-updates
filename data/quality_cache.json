@@ -1368,6 +1368,31 @@
     ],
     "word_count": 4744
   },
+  "a235a1b9695069494f2b10928af37e682f99634071d44fbae6e7480e128a4de8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 3,
+    "checked_at": "2026-05-24T03:38:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity"
+    ],
+    "word_count": 1221
+  },
   "af4b67944aa619dd4ec2b419c9d5220f4130b470e84e05059e194ec234e123ff": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",

@@ -1,1 +1,21 @@
-{"runs": []}
+{
+  "runs": [
+    {
+      "date": "2026-05-24",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": true,
+      "estimated_input_tokens": 2060,
+      "estimated_output_tokens": 600,
+      "estimated_cost_usd": 0.001415,
+      "actual_prompt_tokens": 2346,
+      "actual_output_tokens": 359,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": 2705,
+      "actual_cost_usd": 0.001125,
+      "candidate_count": 24,
+      "shortlist_count": 5,
+      "sent_count": 5
+    }
+  ]
+}
