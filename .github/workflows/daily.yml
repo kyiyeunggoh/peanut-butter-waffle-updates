@@ -1,9 +1,9 @@
 name: Daily Telegram Digest
 
 on:
-  schedule:
-    - cron: "43 23 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -47,6 +47,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/seen.json data/cost_log.json data/url_cache.json data/quality_cache.json
+          git add data/seen.json data/cost_log.json data/url_cache.json data/quality_cache.json data/candidate_cache.json data/ranking_runs.json
           git diff --cached --quiet || git commit -m "Update seen digest items"
           git push

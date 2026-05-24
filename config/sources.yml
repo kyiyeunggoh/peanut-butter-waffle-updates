@@ -40,8 +40,21 @@ high_reputation_sources:
   - wired.com
   - reuters.com
   - ft.com
+  - economist.com
+  - bloomberg.com
+  - wsj.com
   - theguardian.com
   - bbc.com
+  - apnews.com
+  - propublica.org
+  - icij.org
+  - occrp.org
+  - semafor.com
+  - nikkei.com
+  - asia.nikkei.com
+  - scmp.com
+  - aljazeera.com
+  - time.com
   - therecord.media
   - restofworld.org
   - 404media.co
@@ -211,4 +224,84 @@ sources:
 
   - name: Apple Newsroom
     domain: apple.com/newsroom
+    enabled: true
+
+  - name: 404 Media
+    domain: 404media.co
+    enabled: true
+
+  - name: Rest of World
+    domain: restofworld.org
+    enabled: true
+
+  - name: Graphika
+    domain: graphika.com
+    enabled: true
+
+  - name: Bellingcat
+    domain: bellingcat.com
+    enabled: true
+
+  - name: The Record
+    domain: therecord.media
+    enabled: true
+
+  - name: KrebsOnSecurity
+    domain: krebsonsecurity.com
+    enabled: true
+
+  - name: MIT Technology Review
+    domain: technologyreview.com
+    enabled: true
+
+  - name: Data & Society
+    domain: datasociety.net
+    enabled: true
+
+  - name: ACM Digital Library
+    domain: dl.acm.org
+    enabled: true
+
+  - name: IEEE
+    domain: ieee.org
+    enabled: true
+
+  - name: USENIX
+    domain: usenix.org
+    enabled: true
+
+  - name: NDSS Symposium
+    domain: ndss-symposium.org
+    enabled: true
+
+  - name: SSRN
+    domain: ssrn.com
+    enabled: true
+
+  - name: OSF
+    domain: osf.io
+    enabled: true
+
+  - name: Reuters
+    domain: reuters.com
+    enabled: true
+
+  - name: AP News
+    domain: apnews.com
+    enabled: true
+
+  - name: BBC
+    domain: bbc.com
+    enabled: true
+
+  - name: The Guardian
+    domain: theguardian.com
+    enabled: true
+
+  - name: Financial Times
+    domain: ft.com
+    enabled: true
+
+  - name: Asia Nikkei
+    domain: asia.nikkei.com
     enabled: true

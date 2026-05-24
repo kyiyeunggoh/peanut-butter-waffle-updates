@@ -31,7 +31,10 @@ SEEN_PATH = ROOT / "data" / "seen.json"
 COST_LOG_PATH = ROOT / "data" / "cost_log.json"
 URL_CACHE_PATH = ROOT / "data" / "url_cache.json"
 QUALITY_CACHE_PATH = ROOT / "data" / "quality_cache.json"
+CANDIDATE_CACHE_PATH = ROOT / "data" / "candidate_cache.json"
+RANKING_RUNS_PATH = ROOT / "data" / "ranking_runs.json"
 CACHE_TTL_DAYS = 7
+CANDIDATE_CACHE_TTL_HOURS = 12
 CACHE_MAX_ENTRIES = 5000
 QUALITY_CACHE_VERSION = 3
 DOMAIN_QUERY_TERMS = (
@@ -59,10 +62,87 @@ GLOBAL_FALLBACK_QUERIES = (
     "scam compound",
     "pig butchering",
     "romance scam AI",
+    "scam victim psychology",
+    "scam victim persuasion",
+    "scam victim vulnerability",
+    "scam victim grooming",
+    "fraud victim decision making",
+    "online deception victim psychology",
+    "social engineering persuasion study",
+    "harmful persuasion LLM benchmark",
+    "LLM scam assistance benchmark",
+    "LLM phishing benchmark",
+    "LLM social engineering benchmark",
+    "romance scam victim psychology",
+    "pig butchering victim psychology",
+    "investment scam persuasion",
+    "scammer victim conversation analysis",
+    "scammer scripts LLM",
+    "interactive scammers",
+    "victim as a service",
+    "scam detection intervention study",
+    "scam reporting triage research",
+    "scam compounds Southeast Asia investigation",
+    "cyber scam compounds investigation",
+    "pig butchering scam compound investigation",
+    "scam call centre investigation",
+    "scam syndicate investigation",
+    "online fraud network investigation",
+    "romance scam network investigation",
+    "investment scam network investigation",
+    "fake job scam investigation",
+    "human trafficking scam compound investigation",
+    "cyber slavery scam compound investigation",
+    "Cambodia scam compound investigation",
+    "Myanmar scam compound investigation",
+    "Laos scam compound investigation",
+    "Philippines scam compound investigation",
+    "Sri Lanka scam network investigation",
+    "mule network fraud investigation",
+    "SIM box scam investigation",
+    "VoIP scam infrastructure",
+    "phishing kit investigation",
+    "scam kit underground market",
+    "fake website scam infrastructure",
+    "fake ad scam network",
+    "deepfake scam investigation",
+    "voice clone scam investigation",
+    "synthetic identity fraud investigation",
+    "AI scam investigation",
+    "LLM scam automation investigation",
+    "platform abuse scam investigation",
+    "WhatsApp scam network",
+    "Telegram scam network",
+    "Facebook ad scam investigation",
+    "TikTok deepfake scam ads",
+    "crypto scam network investigation",
+    "payment fraud network investigation",
 )
 SPECIFIC_PRODUCT_RADAR_QUERIES = (
     '"Victim as a Service" scammers',
     '"Designing a System for Engaging with Interactive Scammers"',
+    "site:arxiv.org scam victim psychology",
+    "site:arxiv.org social engineering persuasion LLM",
+    "site:arxiv.org harmful persuasion fraud scam",
+    "site:arxiv.org LLM scam phishing benchmark",
+    "site:arxiv.org scammer victim conversation",
+    "site:arxiv.org online deception victim",
+    "site:arxiv.org interactive scammers",
+    "site:arxiv.org victim as a service",
+    "site:arxiv.org scam detection intervention",
+    "site:ssrn.com scam victim psychology",
+    "site:arxiv.org fraud victim decision making",
+    "site:arxiv.org LLM social engineering benchmark",
+    "site:arxiv.org deepfake scam detection",
+    "site:arxiv.org synthetic identity fraud",
+    "site:ssrn.com fraud victim decision making",
+    "site:ssrn.com social engineering fraud",
+    "site:osf.io scam victim psychology",
+    "site:dl.acm.org phishing social engineering scam",
+    "site:dl.acm.org online fraud victim psychology",
+    "site:ieee.org scam detection phishing social engineering",
+    "site:usenix.org phishing social engineering scam",
+    "site:ndss-symposium.org phishing social engineering scam",
     "site:arxiv.org scam LLM fraud deepfake synthetic identity phishing",
     "site:arxiv.org AI scam detection social engineering agent abuse",
     "site:arxiv.org interactive scammers victim as a service",
@@ -77,6 +157,26 @@ SPECIFIC_PRODUCT_RADAR_QUERIES = (
     "site:security.googleblog.com AI abuse phishing fraud deepfake",
     "site:blog.whatsapp.com spam scams messaging limits",
     "site:about.fb.com scams fraud messaging limits",
+    "site:c4ads.org scam fraud trafficking hotline",
+    "site:c4ads.org cyber scam network Southeast Asia",
+    "site:wired.com scam deepfake fraud AI",
+    "site:wired.com scam compound fraud network",
+    "site:wired.com phishing kit scammer AI abuse",
+    "site:404media.co scam deepfake fraud AI",
+    "site:404media.co phishing kit scammer cybercrime",
+    "site:restofworld.org scam compound fraud Southeast Asia",
+    "site:restofworld.org online fraud workers scam",
+    "site:graphika.com scam fraud influence operation AI",
+    "site:bellingcat.com scam network fraud cyber",
+    "site:therecord.media scam network phishing kit fraud AI",
+    "site:krebsonsecurity.com phishing kit scam fraud",
+    "site:technologyreview.com scam deepfake AI fraud",
+    "site:reuters.com scam compound fraud cyber",
+    "site:apnews.com scam compound fraud trafficking",
+    "site:bbc.com scam compound fraud trafficking",
+    "site:theguardian.com scam compound fraud trafficking",
+    "site:ft.com scam fraud cybercrime AI",
+    "site:asia.nikkei.com scam fraud Southeast Asia cyber",
 )
 ALLOWED_ARTICLE_TYPES = (
     "News report",
@@ -495,6 +595,26 @@ RESEARCH_DIRECT_TITLE_TERMS = (
     "account takeover",
     "bank fraud",
     "payment fraud",
+    "online deception",
+    "victim protection",
+    "real-time scam warning",
+    "scam message",
+    "scam call",
+    "scam compliance",
+    "fraud decision making",
+    "victim decision making",
+    "digital fraud detection",
+    "entity verification",
+    "phishing detection",
+    "user vulnerability to phishing",
+    "psychological and behavioral factors",
+    "fake website detection",
+    "vishing detection",
+    "smishing detection",
+    "scam reporting",
+    "llm scam",
+    "llm phishing",
+    "llm social engineering",
     "deanonymization",
     "de-anonymization",
     "identity verification bypass",
@@ -605,32 +725,55 @@ DEEP_ANALYSIS_TYPES = {"Deep analysis", "Investigative report", "Research paper"
 PLATFORM_PRODUCT_TYPES = {"Policy / platform update", "Product / developer changelog"}
 DEEP_ANALYSIS_SOURCE_HINTS = (
     "wired.com",
+    "404media.co",
+    "restofworld.org",
+    "c4ads.org",
     "datasociety.net",
     "cetas.turing.ac.uk",
     "technologyreview.com",
     "bellingcat.com",
     "graphika.com",
+    "therecord.media",
+    "krebsonsecurity.com",
 )
-INTRO_LINES = (
-    "Signals worth turning into product decisions.",
-    "Adversarial intelligence for scam detection, abuse ops, and product strategy.",
-    "Research, platform shifts, and scam infrastructure signals to watch.",
+HIGH_VALUE_INVESTIGATIVE_DOMAINS = (
+    "wired.com",
+    "404media.co",
+    "c4ads.org",
+    "restofworld.org",
+    "graphika.com",
+    "bellingcat.com",
+    "therecord.media",
+    "krebsonsecurity.com",
+    "technologyreview.com",
+    "datasociety.net",
+    "cetas.turing.ac.uk",
 )
-CLOSING_LINES = (
-    "Use the signal, ignore the noise.",
-    "Prioritised for product relevance, not general newsworthiness.",
-    "Keep the loop tight between intelligence, detection, and enforcement.",
+HIGH_VALUE_PRODUCT_DOMAINS = (
+    "techcrunch.com",
+    "theverge.com",
+    "developers.cloudflare.com",
+    "cloudflare.com",
+    "security.googleblog.com",
+    "blog.google",
+    "about.fb.com",
+    "meta.com",
+    "blog.whatsapp.com",
+    "whatsapp.com",
+    "openai.com",
+    "anthropic.com",
+    "microsoft.com",
 )
 SECTION_ORDER = (
-    "🇸🇬 Singapore / Southeast Asia",
-    "🧨 Scam trends",
+    "🧠 Victim psychology & persuasion",
+    "📚 Research & novel methods",
     "🕵️ Investigations & operational intelligence",
+    "🧨 Scam trends",
     "🧬 Deepfakes, synthetic identity & impersonation",
     "🛠️ Technical abuse & vulnerabilities",
-    "📚 Research & novel methods",
     "📱 Platform, telco & bank controls",
-    "🧠 Victim psychology & persuasion",
     "🧰 Product ideas & data sources",
+    "🇸🇬 Singapore / Southeast Asia",
     "🚨 Advisories & enforcement",
 )
 
@@ -645,7 +788,7 @@ def load_sources(config: dict[str, Any]) -> list[dict[str, Any]]:
 
 
 def empty_seen() -> dict[str, dict[str, Any]]:
-    return {"urls": {}, "titles": {}}
+    return {"urls": {}, "titles": {}, "stories": {}}
 
 
 def load_seen() -> dict[str, dict[str, Any]]:
@@ -662,6 +805,7 @@ def load_seen() -> dict[str, dict[str, Any]]:
         return {
             "urls": data.get("urls", {}) if isinstance(data.get("urls"), dict) else {},
             "titles": data.get("titles", {}) if isinstance(data.get("titles"), dict) else {},
+            "stories": data.get("stories", {}) if isinstance(data.get("stories"), dict) else {},
         }
 
     migrated = empty_seen()
@@ -695,6 +839,106 @@ def save_cache(path: Path, data: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as file:
         json.dump(dict(trimmed_items), file, indent=2, sort_keys=True)
+        file.write("\n")
+
+
+def fetch_config_hash(config: dict[str, Any]) -> str:
+    payload = {
+        "sources": [
+            {"name": source.get("name"), "domain": source.get("domain"), "url": source.get("url"), "enabled": source.get("enabled", True)}
+            for source in config.get("sources", [])
+        ],
+        "domain_terms": DOMAIN_QUERY_TERMS,
+        "fallback_queries": GLOBAL_FALLBACK_QUERIES,
+        "specific_queries": SPECIFIC_PRODUCT_RADAR_QUERIES,
+        "lookback_days": config.get("lookback_days"),
+        "max_article_age_days": config.get("max_article_age_days"),
+        "max_rss_queries_per_run": config.get("max_rss_queries_per_run"),
+    }
+    return stable_hash(json.dumps(payload, sort_keys=True, default=str))
+
+
+def candidate_for_cache(candidate: dict[str, Any]) -> dict[str, Any]:
+    cached = dict(candidate)
+    parsed_date = cached.get("parsed_date")
+    if isinstance(parsed_date, datetime):
+        cached["parsed_date"] = parsed_date.isoformat()
+    cached["source_name"] = cached.get("source", "")
+    cached["source_domain"] = article_domain(cached)
+    return cached
+
+
+def candidate_from_cache(candidate: dict[str, Any]) -> dict[str, Any]:
+    restored = dict(candidate)
+    parsed_date = restored.get("parsed_date")
+    if isinstance(parsed_date, str) and parsed_date:
+        try:
+            restored["parsed_date"] = date_parser.parse(parsed_date)
+        except (TypeError, ValueError, OverflowError):
+            restored["parsed_date"] = None
+    restored.setdefault("source", restored.get("source_name", "candidate_cache"))
+    restored.setdefault("canonical_url", restored.get("url", ""))
+    restored.setdefault("original_url", restored.get("canonical_url") or restored.get("url", ""))
+    restored.setdefault("canonical_url_hash", url_hash(restored.get("canonical_url") or restored.get("url", "")))
+    restored.setdefault("original_url_hash", url_hash(restored.get("original_url", "")))
+    restored.setdefault("id", restored.get("canonical_url_hash"))
+    restored.setdefault("title_fingerprint", title_fingerprint(restored.get("title", "")))
+    restored.setdefault("normalised_title", normalised_title(restored.get("title", "")))
+    return restored
+
+
+def load_candidate_cache(config: dict[str, Any], require_fresh: bool = True) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+    if not CANDIDATE_CACHE_PATH.exists():
+        return [], {"used_candidate_cache": False, "candidate_cache_age_minutes": None, "reason": "missing"}
+    try:
+        with CANDIDATE_CACHE_PATH.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+    except (json.JSONDecodeError, OSError):
+        return [], {"used_candidate_cache": False, "candidate_cache_age_minutes": None, "reason": "invalid"}
+
+    created_at_text = data.get("created_at")
+    try:
+        created_at = date_parser.parse(created_at_text)
+    except (TypeError, ValueError, OverflowError):
+        return [], {"used_candidate_cache": False, "candidate_cache_age_minutes": None, "reason": "invalid_created_at"}
+    if created_at.tzinfo is None:
+        created_at = created_at.replace(tzinfo=timezone.utc)
+    age_minutes = (datetime.now(timezone.utc) - created_at.astimezone(timezone.utc)).total_seconds() / 60
+    expires_at_text = data.get("expires_at")
+    fresh = age_minutes <= CANDIDATE_CACHE_TTL_HOURS * 60
+    if expires_at_text:
+        try:
+            expires_at = date_parser.parse(expires_at_text)
+            if expires_at.tzinfo is None:
+                expires_at = expires_at.replace(tzinfo=timezone.utc)
+            fresh = datetime.now(timezone.utc) <= expires_at.astimezone(timezone.utc)
+        except (TypeError, ValueError, OverflowError):
+            pass
+    if require_fresh and not fresh:
+        return [], {"used_candidate_cache": False, "candidate_cache_age_minutes": round(age_minutes, 1), "reason": "expired"}
+
+    candidates = [candidate_from_cache(candidate) for candidate in data.get("candidates", []) if isinstance(candidate, dict)]
+    return candidates, {
+        "used_candidate_cache": True,
+        "candidate_cache_age_minutes": round(age_minutes, 1),
+        "candidate_cache_candidate_count": len(candidates),
+        "fetch_config_hash": data.get("fetch_config_hash"),
+        "fresh": fresh,
+    }
+
+
+def save_candidate_cache(candidates: list[dict[str, Any]], config: dict[str, Any]) -> None:
+    now = datetime.now(timezone.utc)
+    payload = {
+        "created_at": now.isoformat(timespec="seconds"),
+        "expires_at": (now + timedelta(hours=CANDIDATE_CACHE_TTL_HOURS)).isoformat(timespec="seconds"),
+        "fetch_config_hash": fetch_config_hash(config),
+        "candidate_count": len(candidates),
+        "candidates": [candidate_for_cache(candidate) for candidate in candidates],
+    }
+    CANDIDATE_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with CANDIDATE_CACHE_PATH.open("w", encoding="utf-8") as file:
+        json.dump(payload, file, indent=2, sort_keys=True)
         file.write("\n")
 
 
@@ -813,6 +1057,25 @@ def build_rss_queries(sources: list[dict[str, Any]]) -> list[dict[str, str]]:
     return queries
 
 
+def query_group_for_query(query: str, priority: str = "") -> str:
+    lowered = query.lower()
+    if any(term in lowered for term in ("victim psychology", "victim persuasion", "victim vulnerability", "grooming", "harmful persuasion", "decision making", "conversation analysis")):
+        return "psychology"
+    if any(term in lowered for term in ("arxiv.org", "ssrn.com", "osf.io", "dl.acm.org", "ieee.org", "usenix.org", "ndss-symposium.org", "benchmark", "research", "study")):
+        return "academic"
+    if any(term in lowered for term in ("c4ads.org", "wired.com", "404media.co", "restofworld.org", "graphika.com", "bellingcat.com", "investigation", "investigative", "longform")):
+        return "investigative"
+    if any(term in lowered for term in ("compound", "syndicate", "mule", "sim box", "voip", "phishing kit", "scam kit", "fake website", "fake ad", "call centre", "call center", "infrastructure")):
+        return "international"
+    if any(term in lowered for term in ("developer", "cloudflare", "whatsapp", "telegram", "meta", "platform", "messaging limits", "bank controls", "telco")):
+        return "platform_product"
+    if any(term in lowered for term in ("singapore", "cambodia", "myanmar", "southeast asia", "south-east asia", "straitstimes", "channelnewsasia", "mothership", "cna.com.sg")):
+        return "singapore_sea"
+    if priority == "watchlist":
+        return "watchlist"
+    return "broad"
+
+
 def entry_datetime(entry: Any) -> datetime | None:
     for parsed_key in ("published_parsed", "updated_parsed"):
         parsed_value = entry.get(parsed_key)
@@ -879,6 +1142,13 @@ def strip_publisher_suffix(title: str) -> str:
     return cleaned
 
 
+def display_title(title: str) -> str:
+    cleaned = strip_publisher_suffix(str(title or "Untitled"))
+    cleaned = re.sub(r"\s*This work was conducted.*$", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s*Supported solely by.*$", "", cleaned, flags=re.IGNORECASE)
+    return re.sub(r"\s+", " ", cleaned).strip() or "Untitled"
+
+
 def title_fingerprint(title: str) -> str:
     words = normalised_title(title).split()
     return " ".join(words[:14])
@@ -890,6 +1160,130 @@ def normalised_title(title: str) -> str:
     words = stripped.translate(translator).split()
     meaningful_words = [word for word in words if word not in STOPWORDS]
     return " ".join(meaningful_words)
+
+
+def normalize_title_for_dedupe(title: str) -> str:
+    cleaned = strip_publisher_suffix(str(title or "")).lower()
+    replacements = {
+        "spam links": "spam",
+        "spam link": "spam",
+        "email address": "email",
+        "e-mail address": "email",
+        "microsoft account": "microsoft",
+        "microsoft email": "microsoft",
+        "official microsoft": "microsoft",
+        "internal microsoft": "microsoft",
+        "government officials": "government official",
+        "fake zoom meeting": "fake zoom",
+    }
+    for old, new in replacements.items():
+        cleaned = cleaned.replace(old, new)
+    translator = str.maketrans({char: " " for char in string.punctuation})
+    cleaned = cleaned.translate(translator)
+    filler_words = STOPWORDS | {
+        "official",
+        "internal",
+        "address",
+        "links",
+        "link",
+        "story",
+        "says",
+        "said",
+        "over",
+        "after",
+        "about",
+        "into",
+        "using",
+        "use",
+    }
+    words = [word for word in cleaned.split() if word not in filler_words]
+    return re.sub(r"\s+", " ", " ".join(words)).strip()
+
+
+def title_token_set(title: str) -> set[str]:
+    return {token for token in normalize_title_for_dedupe(title).split() if len(token) >= 3}
+
+
+def url_slug_token_set(url: str) -> set[str]:
+    parsed = urlparse(url or "")
+    slug = parsed.path.rstrip("/").split("/")[-1]
+    slug = re.sub(r"\.[a-z0-9]+$", "", slug.lower())
+    return {
+        token
+        for token in normalize_title_for_dedupe(slug.replace("-", " ")).split()
+        if len(token) >= 3 and any(char.isalpha() for char in token) and token not in {"html", "pdf", "abs"}
+    }
+
+
+def token_similarity(left: set[str], right: set[str]) -> float:
+    if not left or not right:
+        return 0.0
+    return len(left & right) / len(left | right)
+
+
+def parsed_date_key(item: dict[str, Any]) -> str:
+    parsed_date = item.get("parsed_date")
+    if isinstance(parsed_date, datetime):
+        return parsed_date.strftime("%Y-%m-%d")
+    if isinstance(parsed_date, str) and parsed_date:
+        try:
+            return date_parser.parse(parsed_date).strftime("%Y-%m-%d")
+        except (TypeError, ValueError, OverflowError):
+            return parsed_date[:10]
+    return ""
+
+
+def same_story_key(candidate: dict[str, Any]) -> str:
+    domain = article_domain(candidate)
+    date_key = parsed_date_key(candidate)
+    title_tokens = title_token_set(candidate.get("title", ""))
+    slug_tokens = url_slug_token_set(candidate.get("canonical_url") or candidate.get("url") or "")
+    meaningful = sorted((title_tokens | slug_tokens) - {"article", "story", "news"})[:10]
+    return "|".join([domain, date_key, " ".join(meaningful[:8])])
+
+
+def near_duplicate_reason(left: dict[str, Any], right: dict[str, Any]) -> str | None:
+    left_canonical = canonicalize_url_text(left.get("canonical_url") or left.get("url") or "")
+    right_canonical = canonicalize_url_text(right.get("canonical_url") or right.get("url") or "")
+    if left_canonical and right_canonical and left_canonical == right_canonical:
+        return "same_canonical_url"
+    left_original = canonicalize_url_text(left.get("original_url", ""))
+    right_original = canonicalize_url_text(right.get("original_url", ""))
+    if left_original and right_original and left_original == right_original:
+        return "same_original_url"
+
+    left_fingerprint = left.get("title_fingerprint") or title_fingerprint(left.get("title", ""))
+    right_fingerprint = right.get("title_fingerprint") or title_fingerprint(right.get("title", ""))
+    if left_fingerprint and right_fingerprint and left_fingerprint == right_fingerprint:
+        return "same_title_fingerprint"
+
+    left_title_tokens = title_token_set(left.get("title", ""))
+    right_title_tokens = title_token_set(right.get("title", ""))
+    title_similarity = token_similarity(left_title_tokens, right_title_tokens)
+    same_domain = article_domain(left) == article_domain(right)
+    same_date = parsed_date_key(left) and parsed_date_key(left) == parsed_date_key(right)
+    if same_domain and same_date and title_similarity >= 0.55:
+        return f"same_domain_date_title_similarity:{title_similarity:.2f}"
+
+    left_slug_tokens = url_slug_token_set(left.get("canonical_url") or left.get("url") or "")
+    right_slug_tokens = url_slug_token_set(right.get("canonical_url") or right.get("url") or "")
+    slug_similarity = token_similarity(left_slug_tokens, right_slug_tokens)
+    if same_domain and slug_similarity >= 0.55:
+        return f"same_domain_slug_similarity:{slug_similarity:.2f}"
+    if title_similarity >= 0.70:
+        return f"title_similarity:{title_similarity:.2f}"
+
+    left_normalized = normalize_title_for_dedupe(left.get("title", ""))
+    right_normalized = normalize_title_for_dedupe(right.get("title", ""))
+    if left_normalized and right_normalized:
+        shorter, longer = sorted((left_normalized, right_normalized), key=len)
+        if len(shorter) >= 24 and shorter in longer:
+            return "title_containment"
+    return None
+
+
+def near_duplicate(left: dict[str, Any], right: dict[str, Any]) -> bool:
+    return near_duplicate_reason(left, right) is not None
 
 
 def fingerprints_similar(left: str, right: str) -> bool:
@@ -906,6 +1300,8 @@ def fingerprints_similar(left: str, right: str) -> bool:
 
 
 def article_domain(item: dict[str, Any]) -> str:
+    if item.get("source_domain"):
+        return str(item.get("source_domain", "")).lower().removeprefix("www.")
     url = item.get("canonical_url") or item.get("url") or item.get("original_url") or item.get("link", "")
     return (urlparse(url).hostname or "").lower().removeprefix("www.")
 
@@ -964,15 +1360,40 @@ def classify_article_type(item: dict[str, Any]) -> str:
         if any(term in haystack for term in ("limit", "limits", "spam", "scam", "fraud", "abuse", "deepfake", "synthetic", "messaging")):
             return "Policy / platform update"
 
-    if any(domain.endswith(host) for host in ("wired.com", "404media.co", "restofworld.org", "bellingcat.com", "graphika.com")):
-        if any(term in haystack for term in INVESTIGATIVE_TERMS):
+    if any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS):
+        if any(term in haystack for term in INVESTIGATIVE_TERMS + ("network", "operation", "infrastructure", "compound", "syndicate", "underworld", "scammer")):
             return "Investigative report"
 
-    if any(domain.endswith(host) for host in ("wired.com", "technologyreview.com", "datasociety.net", "cetas.turing.ac.uk", "hai.stanford.edu", "fulcrum.sg", "c4ads.org")):
-        if any(term in haystack for term in DEEP_ANALYSIS_TERMS):
+    if any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS + ("hai.stanford.edu", "fulcrum.sg")):
+        if any(term in haystack for term in DEEP_ANALYSIS_TERMS + ("ecosystem", "method", "methods", "playbook", "how scammers", "how fraudsters")):
             if any(term in haystack for term in ("policy", "regulation", "governance", "law")):
                 return "Policy analysis"
             return "Deep analysis"
+
+    if any(domain.endswith(host) for host in ("techcrunch.com", "theverge.com")) and any(
+        term in haystack
+        for term in (
+            "scammer",
+            "scammers",
+            "abusing",
+            "abuse",
+            "phishing",
+            "spam",
+            "messaging limits",
+            "limits",
+            "deepfake",
+            "identity verification",
+            "platform",
+            "microsoft",
+            "whatsapp",
+            "telegram",
+            "tiktok",
+            "meta",
+        )
+    ):
+        if any(term in haystack for term in ("limits", "policy", "platform", "verification", "messaging", "whatsapp", "meta", "tiktok")):
+            return "Policy / platform update"
+        return "Technical article"
 
     if any(term in haystack for term in ("reverse engineered", "vulnerability", "exploit", "bypass", "watermarking", "prompt injection")):
         return "Technical article"
@@ -995,7 +1416,7 @@ def classify_article_type(item: dict[str, Any]) -> str:
     if any(term in haystack for term in ENFORCEMENT_TERMS):
         return "Enforcement report"
 
-    if any(domain.endswith(host) for host in ("wired.com", "reuters.com", "ft.com", "theguardian.com", "bbc.com", "therecord.media", "restofworld.org", "404media.co")):
+    if any(domain.endswith(host) for host in ("wired.com", "reuters.com", "ft.com", "theguardian.com", "bbc.com", "therecord.media", "restofworld.org", "404media.co", "techcrunch.com", "theverge.com")):
         return "News report"
 
     if any(domain.endswith(host) for host in ("datasociety.net", "cetas.turing.ac.uk", "graphika.com", "bellingcat.com", "technologyreview.com", "hai.stanford.edu")):
@@ -1236,6 +1657,15 @@ def relevance_fields(candidate: dict[str, Any], extra_text: str = "") -> dict[st
         "Operational intelligence",
     } and tech_terms:
         anti_scam_relevance = "adjacent"
+    elif article_type in {"Research paper", "Technical article", "Threat intelligence report"} and terms_found(
+        title_context_text, RESEARCH_DIRECT_TITLE_TERMS
+    ) and research_category not in {
+        "generic_fraud_ml",
+        "generic_cybersecurity",
+        "generic_ai_security",
+        "irrelevant_or_adjacent",
+    }:
+        anti_scam_relevance = "direct"
     elif article_type in {"Research paper", "Technical article", "Threat intelligence report"}:
         anti_scam_relevance = "weak"
     elif any(term in text for term in ("fraud", "cybercrime", "platform abuse", "identity", "ai misuse", "misinformation")):
@@ -1419,6 +1849,125 @@ def inspect_article_quality(
     return quality_data
 
 
+def candidate_signal_text(item: dict[str, Any]) -> str:
+    values = [
+        item.get("title", ""),
+        item.get("source", ""),
+        item.get("summary", ""),
+        article_domain(item),
+        " ".join(item.get("strong_scam_anchor_terms_found", []) or []),
+        " ".join(item.get("weak_generic_terms_found", []) or []),
+        " ".join(item.get("technology_modus_terms_found", []) or []),
+    ]
+    return " ".join(str(value) for value in values if value).lower()
+
+
+def item_domain_matches(item: dict[str, Any], domains: tuple[str, ...]) -> bool:
+    domain = article_domain(item)
+    return any(domain == host or domain.endswith(f".{host}") for host in domains)
+
+
+def is_psychology_item(item: dict[str, Any]) -> bool:
+    text = candidate_relevance_text(item)
+    return any(
+        term in text
+        for term in (
+            "victim psychology",
+            "victim vulnerability",
+            "user vulnerability",
+            "psychological",
+            "behavioral factors",
+            "behavioural factors",
+            "fraud victim",
+            "scam victim",
+            "persuasion",
+            "grooming",
+            "trust-building",
+            "harmful persuasion",
+            "decision making",
+            "deception victim",
+            "social engineering",
+            "scammer victim conversation",
+            "scam conversation",
+        )
+    )
+
+
+def is_llm_adverse_use_item(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    return any(term in text for term in ("llm", "large language model", "benchmark", "evaluation", "eval")) and any(
+        term in text
+        for term in (
+            "scam",
+            "phishing",
+            "fraud assistance",
+            "harmful persuasion",
+            "social engineering",
+            "deception",
+            "scammer",
+        )
+    )
+
+
+def is_direct_research_item(item: dict[str, Any]) -> bool:
+    return item.get("article_type", classify_article_type(item)) == "Research paper" and item.get(
+        "anti_scam_relevance"
+    ) == "direct"
+
+
+def is_investigative_or_operational_item(item: dict[str, Any]) -> bool:
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return article_type in {"Investigative report", "Deep analysis", "Policy analysis"} or usefulness_category == "Operational intelligence" or item_domain_matches(
+        item,
+        (
+            "c4ads.org",
+            "wired.com",
+            "404media.co",
+            "restofworld.org",
+            "graphika.com",
+            "bellingcat.com",
+            "therecord.media",
+            "krebsonsecurity.com",
+            "datasociety.net",
+            "cetas.turing.ac.uk",
+            "technologyreview.com",
+        ),
+    )
+
+
+def is_modus_infrastructure_item(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    return any(
+        term in text
+        for term in (
+            "modus operandi",
+            "scam infrastructure",
+            "scam compound",
+            "scam farm",
+            "fraud syndicate",
+            "fraud ring",
+            "money mule",
+            "mule account",
+            "mule network",
+            "sim box",
+            "sim farm",
+            "voip abuse",
+            "bulk messaging",
+            "fake accounts",
+            "phishing kit",
+            "scam kit",
+            "fake website",
+            "fake domains",
+            "fake ad",
+            "call centre",
+            "call center",
+            "platform abuse",
+            "payment rails",
+        )
+    )
+
+
 def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> int:
     now = datetime.now(timezone.utc)
     quality_score = int(candidate.get("original_score", score_item(candidate, now)))
@@ -1433,14 +1982,14 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     domain = article_domain(candidate)
 
     usefulness_boosts = {
-        "Research / novel method": 55,
-        "Product idea / data source": 50,
-        "Technical abuse / vulnerability": 50,
-        "Operational intelligence": 45,
-        "Detection / analytics / engineering insight": 45,
-        "Platform policy / product change": 40,
-        "Local Singapore / Southeast Asia relevance": 40,
-        "Scam development": 35,
+        "Research / novel method": 75,
+        "Product idea / data source": 65,
+        "Technical abuse / vulnerability": 65,
+        "Operational intelligence": 65,
+        "Detection / analytics / engineering insight": 55,
+        "Platform policy / product change": 65,
+        "Local Singapore / Southeast Asia relevance": 25,
+        "Scam development": 30,
         "General context": 15,
     }
     quality_score += usefulness_boosts.get(usefulness_category, 15)
@@ -1455,6 +2004,21 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score += research_score
 
     has_scam_anchor = bool(candidate.get("strong_scam_anchor_terms_found"))
+    if is_psychology_item(candidate):
+        quality_score += 90
+    if is_investigative_or_operational_item(candidate):
+        quality_score += 85
+    if is_direct_research_item(candidate):
+        quality_score += 90
+    if is_llm_adverse_use_item(candidate):
+        quality_score += 85
+    if is_modus_infrastructure_item(candidate):
+        quality_score += 80
+    if is_platform_product_item(candidate):
+        quality_score += 65
+    if is_modus_infrastructure_item(candidate) and not is_local_sea_item(candidate):
+        quality_score += 70
+
     if has_scam_anchor and candidate.get("technology_modus_terms_found"):
         quality_score += 35
     if has_scam_anchor and any(term in candidate.get("weak_generic_terms_found", []) + candidate.get("direct_relevance_terms_found", []) for term in ("persuasion", "grooming", "trust-building", "manipulation", "deception", "harmful persuasion")):
@@ -1462,17 +2026,19 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     if has_scam_anchor and any(term in candidate.get("technology_modus_terms_found", []) for term in ("sim box", "mule networks", "phishing kits", "scam kits", "platform abuse", "fake accounts", "bulk messaging")):
         quality_score += 45
     if anti_scam_relevance == "direct" and usefulness_category == "Local Singapore / Southeast Asia relevance":
-        quality_score += 45
+        quality_score += 10
     if usefulness_category == "Platform policy / product change" and anti_scam_relevance == "direct":
-        quality_score += 40
+        quality_score += 65
     if usefulness_category == "Product idea / data source" and anti_scam_relevance == "direct":
-        quality_score += 40
+        quality_score += 65
 
     if any(domain.endswith(host) for host in ("arxiv.org", "dl.acm.org", "ieee.org", "usenix.org", "ndss-symposium.org", "ssrn.com", "osf.io")):
-        quality_score += 40
-    elif any(domain.endswith(host) for host in ("c4ads.org", "bellingcat.com", "graphika.com", "datasociety.net", "cetas.turing.ac.uk", "aisi.gov.uk")):
-        quality_score += 35
-    elif any(domain.endswith(host) for host in ("wired.com", "404media.co", "restofworld.org", "therecord.media", "krebsonsecurity.com", "theverge.com", "techcrunch.com")):
+        quality_score += 90 if is_direct_research_item(candidate) else 10
+    elif any(domain.endswith(host) for host in ("c4ads.org", "wired.com", "404media.co", "restofworld.org", "graphika.com", "bellingcat.com")):
+        quality_score += 85
+    elif any(domain.endswith(host) for host in ("datasociety.net", "cetas.turing.ac.uk", "technologyreview.com", "aisi.gov.uk")):
+        quality_score += 45
+    elif any(domain.endswith(host) for host in ("therecord.media", "krebsonsecurity.com", "theverge.com", "techcrunch.com")):
         quality_score += 30
     elif any(domain.endswith(host) for host in ("police.gov.sg", "mas.gov.sg", "imda.gov.sg", "gov.sg", "csa.gov.sg", "fbi.gov", "europol.europa.eu", "interpol.int", "cisa.gov", "nist.gov")):
         quality_score += 30
@@ -1481,7 +2047,7 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     elif any(domain.endswith(host) for host in ("developers.cloudflare.com", "cloudflare.com")) and usefulness_category == "Product idea / data source":
         quality_score += 25
     elif any(domain.endswith(host) for host in ("straitstimes.com", "channelnewsasia.com", "cna.com.sg", "todayonline.com", "mothership.sg")) and usefulness_category == "Local Singapore / Southeast Asia relevance":
-        quality_score += 25
+        quality_score += 10
 
     if article_type in {"Research paper", "Threat intelligence report", "Product / developer changelog"}:
         quality_score += 10
@@ -1542,16 +2108,24 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
     research_category = candidate.get("research_relevance_category")
     usefulness_category = candidate.get("usefulness_category", classify_usefulness_category(candidate))
     title_context = candidate_relevance_text(candidate)
+    direct_title_terms = terms_found(title_context, RESEARCH_DIRECT_TITLE_TERMS)
     if candidate.get("hard_rejected"):
         return candidate.get("hard_rejection_reason") or "hard_rejected"
     if anti_scam_relevance == "irrelevant":
         return "irrelevant_anti_scam_relevance"
-    if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not terms_found(
-        title_context, RESEARCH_DIRECT_TITLE_TERMS
-    ):
+    if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not direct_title_terms:
         return "generic_research_or_technical"
+    positive_research_category = research_category not in {
+        "generic_fraud_ml",
+        "generic_cybersecurity",
+        "generic_ai_security",
+        "irrelevant_or_adjacent",
+    }
+    has_direct_research_signal = bool(candidate.get("strong_scam_anchor_terms_found")) or (
+        bool(direct_title_terms) and positive_research_category
+    )
     if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and (
-        anti_scam_relevance != "direct" or not candidate.get("strong_scam_anchor_terms_found")
+        anti_scam_relevance != "direct" or not has_direct_research_signal
     ):
         return "generic_research_or_technical"
     if research_category in {"generic_fraud_ml", "generic_cybersecurity", "generic_ai_security", "irrelevant_or_adjacent"}:
@@ -1574,7 +2148,8 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         return "adjacent_without_product_value"
     if candidate.get("rejection_reason") == "fetch_failed" and not is_high_reputation_source(candidate, config):
         return "fetch_failed"
-    if isinstance(word_count, int) and word_count < 300:
+    high_rep_paywalled = candidate.get("access_status") == "paywalled_or_login" and is_high_reputation_source(candidate, config)
+    if isinstance(word_count, int) and word_count < 300 and not high_rep_paywalled:
         return "thin_article"
     if candidate.get("salesy_vendor_pitch"):
         return "salesy_vendor_pitch"
@@ -1582,7 +2157,7 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         return "press_release_or_sponsored"
     if article_type == "Vendor blog" and int(candidate.get("quality_score", 0)) < 20:
         return "low_quality_vendor_blog"
-    if is_vendor_or_low_priority_source(candidate, config) and isinstance(word_count, int) and word_count < 800:
+    if is_vendor_or_low_priority_source(candidate, config) and isinstance(word_count, int) and word_count < 800 and not high_rep_paywalled:
         return "low_priority_thin_article"
     return None
 
@@ -1712,8 +2287,73 @@ def is_local_sea_item(item: dict[str, Any]) -> bool:
     return usefulness_category == "Local Singapore / Southeast Asia relevance" or any(term in haystack for term in LOCAL_SEA_TERMS)
 
 
+def is_local_current_affairs_item(item: dict[str, Any]) -> bool:
+    return is_local_sea_item(item) and item.get("article_type", classify_article_type(item)) in {
+        "News report",
+        "Enforcement report",
+        "Official report",
+        "Advisory / guidance",
+    }
+
+
 def is_plain_news_item(item: dict[str, Any]) -> bool:
     return item.get("article_type", classify_article_type(item)) == "News report"
+
+
+def is_high_value_domain_item(item: dict[str, Any]) -> bool:
+    domain = article_domain(item)
+    return any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS + HIGH_VALUE_PRODUCT_DOMAINS)
+
+
+def has_strong_product_radar_signal(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    return item.get("anti_scam_relevance") == "direct" and (
+        bool(item.get("strong_scam_anchor_terms_found"))
+        or bool(item.get("technology_modus_terms_found"))
+        or any(
+            term in text
+            for term in (
+                "scammer",
+                "scammers",
+                "scam compound",
+                "phishing kit",
+                "scam kit",
+                "deepfake",
+                "voice clone",
+                "synthetic identity",
+                "platform abuse",
+                "messaging limits",
+                "identity verification",
+                "infrastructure",
+                "operation",
+                "network",
+                "abusing",
+                "abuse",
+            )
+        )
+    )
+
+
+def is_high_value_product_radar_item(item: dict[str, Any]) -> bool:
+    if not is_high_value_domain_item(item) or not has_strong_product_radar_signal(item):
+        return False
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return article_type in {
+        "Investigative report",
+        "Deep analysis",
+        "Technical article",
+        "Policy / platform update",
+        "Product / developer changelog",
+        "News report",
+    } or usefulness_category in {
+        "Operational intelligence",
+        "Technical abuse / vulnerability",
+        "Platform policy / product change",
+        "Product idea / data source",
+        "Detection / analytics / engineering insight",
+        "Scam development",
+    }
 
 
 def is_research_item(item: dict[str, Any]) -> bool:
@@ -1732,6 +2372,54 @@ def is_final_allowed_relevance(item: dict[str, Any]) -> bool:
             "Technical abuse / vulnerability",
         }
     return False
+
+
+def corrected_final_item(item: dict[str, Any]) -> dict[str, Any]:
+    corrected = dict(item)
+    title_text = candidate_relevance_text(corrected)
+    article_type = corrected.get("article_type", classify_article_type(corrected))
+    if article_type == "Technical article" and any(term in title_text for term in ENFORCEMENT_TERMS):
+        technical_markers = (
+            "phishing kit",
+            "scam kit",
+            "malware",
+            "vulnerability",
+            "api",
+            "dataset",
+            "detection method",
+            "reverse engineered",
+            "architecture",
+        )
+        if not any(term in title_text for term in technical_markers):
+            corrected["article_type"] = "Enforcement report"
+            if corrected.get("usefulness_category") == "Technical abuse / vulnerability":
+                corrected["usefulness_category"] = "Scam development"
+    return corrected
+
+
+def final_selection_score(item: dict[str, Any]) -> int:
+    score = int(item.get("quality_score") or 0)
+    if is_direct_research_item(item):
+        score += 90
+    if is_psychology_item(item):
+        score += 90
+    if is_llm_adverse_use_item(item):
+        score += 85
+    if is_investigative_or_operational_item(item):
+        score += 85
+    if is_modus_infrastructure_item(item):
+        score += 80
+    if is_platform_product_item(item):
+        score += 65
+    if is_high_value_product_radar_item(item):
+        score += 45
+    if is_local_sea_item(item):
+        score += 35
+    if item.get("article_type", classify_article_type(item)) == "Enforcement report":
+        score -= 20
+    if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
+        score -= 15
+    return score
 
 
 def dedupe_items_by_url(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -1792,7 +2480,7 @@ def dedupe_final_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
             continue
         if any(fingerprints_similar(fingerprint, seen_fingerprint) for seen_fingerprint in seen_fingerprints):
             continue
-        if any(same_story_by_signature(item, seen_item) for seen_item in deduped):
+        if any(same_story_by_signature(item, seen_item) or near_duplicate(item, seen_item) for seen_item in deduped):
             continue
         seen_urls.update(url for url in urls if url)
         seen_fingerprints.append(fingerprint)
@@ -1800,49 +2488,145 @@ def dedupe_final_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return deduped
 
 
+def dedupe_near_duplicates(
+    items: list[dict[str, Any]],
+    stats: dict[str, Any] | None = None,
+    prefix: str = "duplicates",
+    examples_limit: int = 5,
+) -> list[dict[str, Any]]:
+    ordered = sorted(
+        items,
+        key=lambda item: (int(item.get("quality_score") or 0), int(item.get("original_score") or 0), item.get("title", "")),
+        reverse=True,
+    )
+    kept: list[dict[str, Any]] = []
+    removed_examples: list[dict[str, str]] = []
+    removed_count = 0
+    for item in ordered:
+        duplicate_of = None
+        duplicate_reason = None
+        for kept_item in kept:
+            duplicate_reason = near_duplicate_reason(item, kept_item)
+            if duplicate_reason:
+                duplicate_of = kept_item
+                break
+        if duplicate_of:
+            removed_count += 1
+            if len(removed_examples) < examples_limit:
+                removed_examples.append(
+                    {
+                        "removed_title": display_title(item.get("title", "")),
+                        "kept_title": display_title(duplicate_of.get("title", "")),
+                        "reason": duplicate_reason or "near_duplicate",
+                    }
+                )
+            continue
+        kept.append(item)
+    if stats is not None:
+        stats[f"{prefix}_duplicates_removed_count"] = stats.get(f"{prefix}_duplicates_removed_count", 0) + removed_count
+        stats.setdefault(f"{prefix}_duplicate_examples", []).extend(removed_examples)
+    return kept
+
+
+def near_duplicate_pairs(items: list[dict[str, Any]]) -> list[dict[str, str]]:
+    pairs: list[dict[str, str]] = []
+    for left_index, left in enumerate(items):
+        for right in items[left_index + 1 :]:
+            reason = near_duplicate_reason(left, right)
+            if reason:
+                pairs.append(
+                    {
+                        "left_title": display_title(left.get("title", "")),
+                        "right_title": display_title(right.get("title", "")),
+                        "reason": reason,
+                    }
+                )
+    return pairs
+
+
 def build_quality_shortlist(
     ranked_candidates: list[dict[str, Any]],
     shortlist_count: int,
     config: dict[str, Any],
 ) -> list[dict[str, Any]]:
-    qconfig = quality_config(config)
-    shortlist = list(ranked_candidates[:shortlist_count])
-    inspected_candidates = [item for item in ranked_candidates if item.get("quality_checked")]
-    candidate_pool = dedupe_items_by_url(inspected_candidates + ranked_candidates)
+    pool = [
+        item
+        for item in dedupe_final_items(ranked_candidates)
+        if not item.get("quality_rejected")
+        and not item.get("hard_rejected")
+        and not item.get("rejection_reason")
+        and is_final_allowed_relevance(item)
+    ]
+    pool = sorted(pool, key=final_selection_score, reverse=True)
+    shortlist: list[dict[str, Any]] = []
+    domain_counts: dict[str, int] = {}
+    local_current_affairs_count = 0
+    plain_news_count = 0
 
-    if qconfig.get("require_at_least_one_technical", True) and not any(is_technical_item(item) for item in shortlist):
-        match = next((item for item in candidate_pool if is_technical_item(item)), None)
-        if match:
-            shortlist.insert(0, match)
+    def can_add(item: dict[str, Any], *, strict: bool = True) -> bool:
+        if item in shortlist:
+            return False
+        if len(dedupe_final_items(shortlist + [item])) == len(shortlist):
+            return False
+        if not strict:
+            return True
+        domain = article_domain(item)
+        domain_limit = 4 if any(domain.endswith(host) for host in ("arxiv.org", "ssrn.com", "osf.io", "dl.acm.org", "ieee.org", "usenix.org", "ndss-symposium.org")) else 2
+        if is_high_value_product_radar_item(item):
+            domain_limit = max(domain_limit, 3)
+        if domain_counts.get(domain, 0) >= domain_limit:
+            return False
+        if is_local_current_affairs_item(item) and local_current_affairs_count >= 2:
+            return False
+        if is_plain_news_item(item) and plain_news_count >= 4 and not is_high_value_product_radar_item(item):
+            return False
+        return True
 
-    if qconfig.get("require_at_least_one_deep_analysis", True) and not any(is_deep_analysis_item(item) for item in shortlist):
-        match = next((item for item in candidate_pool if is_deep_analysis_item(item)), None)
-        if match:
-            shortlist.insert(0, match)
+    def add_item(item: dict[str, Any]) -> None:
+        nonlocal local_current_affairs_count, plain_news_count
+        shortlist.append(item)
+        domain = article_domain(item)
+        domain_counts[domain] = domain_counts.get(domain, 0) + 1
+        if is_local_current_affairs_item(item):
+            local_current_affairs_count += 1
+        if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
+            plain_news_count += 1
 
-    for predicate in (is_scam_development_item, is_platform_product_item, is_local_sea_item):
-        if not any(predicate(item) for item in shortlist):
-            match = next((item for item in candidate_pool if predicate(item)), None)
-            if match:
-                shortlist.insert(0, match)
+    def add_bucket(predicate: Any, target: int, *, strict: bool = True) -> None:
+        added = 0
+        for item in pool:
+            if added >= target or len(shortlist) >= shortlist_count:
+                break
+            if predicate(item) and can_add(item, strict=strict):
+                add_item(item)
+                added += 1
 
-    shortlist = dedupe_final_items(dedupe_items_by_url(shortlist))
-    non_research_available = sum(1 for item in ranked_candidates if not is_research_item(item))
-    max_research = 4 if non_research_available >= shortlist_count - 4 else shortlist_count
-    capped: list[dict[str, Any]] = []
-    research_count = 0
-    for item in shortlist + ranked_candidates:
-        if item in capped:
-            continue
-        if is_research_item(item):
-            if research_count >= max_research:
-                continue
-            research_count += 1
-        capped.append(item)
-        if len(capped) >= shortlist_count:
+    add_bucket(lambda item: is_direct_research_item(item) or is_psychology_item(item), 5)
+    add_bucket(is_investigative_or_operational_item, 5)
+    add_bucket(is_high_value_product_radar_item, 4)
+    add_bucket(is_modus_infrastructure_item, 4)
+    add_bucket(lambda item: is_platform_product_item(item) or item.get("usefulness_category") == "Product idea / data source", 4)
+    add_bucket(lambda item: is_technical_item(item) or item.get("usefulness_category") == "Technical abuse / vulnerability", 4)
+    add_bucket(is_local_sea_item, 2)
+
+    for item in pool:
+        if len(shortlist) >= shortlist_count:
             break
+        if can_add(item):
+            add_item(item)
 
-    return capped[:shortlist_count]
+    return dedupe_final_items(shortlist)[:shortlist_count]
+
+
+def build_pre_gemini_shortlist(
+    ranked_candidates: list[dict[str, Any]],
+    shortlist_count: int,
+    config: dict[str, Any],
+    stats: dict[str, Any],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    deduped_candidates = dedupe_near_duplicates(ranked_candidates, stats, "pre_gemini")
+    shortlist = build_quality_shortlist(deduped_candidates, shortlist_count, config)
+    return deduped_candidates, shortlist
 
 
 def article_type_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
@@ -1872,30 +2656,70 @@ def shortlist_source_domains(items: list[dict[str, Any]]) -> list[str]:
 
 def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_items: int) -> list[dict[str, Any]]:
     min_quality_score = int(config.get("min_final_quality_score", 80))
+    items = [corrected_final_item(item) for item in items]
     eligible_items = [
         item
         for item in items
         if is_final_allowed_relevance(item) and int(item.get("quality_score") or 0) >= min_quality_score
     ]
-    items = dedupe_final_items(eligible_items)
+    items = sorted(dedupe_final_items(eligible_items), key=final_selection_score, reverse=True)
     selected: list[dict[str, Any]] = []
 
-    def add_match(predicate: Any) -> None:
+    def can_add(item: dict[str, Any], *, strict: bool = True) -> bool:
+        if item in selected:
+            return False
+        trial = dedupe_final_items(selected + [item])
+        if len(trial) == len(selected):
+            return False
+        article_type = item.get("article_type", classify_article_type(item))
+        domain = article_domain(item)
+        if strict:
+            if is_local_current_affairs_item(item) and sum(1 for selected_item in selected if is_local_current_affairs_item(selected_item)) >= 2:
+                return False
+            if article_type == "Enforcement report" and sum(
+                1 for selected_item in selected if selected_item.get("article_type", classify_article_type(selected_item)) == "Enforcement report"
+            ) >= 2:
+                return False
+            if (
+                is_plain_news_item(item)
+                and not is_high_value_product_radar_item(item)
+                and sum(1 for selected_item in selected if is_plain_news_item(selected_item) and not is_high_value_product_radar_item(selected_item)) >= 2
+            ):
+                return False
+            domain_limit = 3 if is_high_value_product_radar_item(item) else 2
+            if sum(1 for selected_item in selected if article_domain(selected_item) == domain) >= domain_limit:
+                return False
+        return True
+
+    def add_match(predicate: Any, *, strict: bool = True) -> None:
         if any(predicate(item) for item in selected):
             return
-        match = next((item for item in items if predicate(item) and item not in selected), None)
+        match = next((item for item in items if predicate(item) and can_add(item, strict=strict)), None)
         if match:
             selected.append(match)
 
+    add_match(is_psychology_item)
+    add_match(is_direct_research_item)
+    add_match(is_investigative_or_operational_item)
+    add_match(is_platform_product_item)
+    add_match(is_modus_infrastructure_item)
     add_match(is_technical_item)
     add_match(is_deep_analysis_item)
-    add_match(is_scam_development_item)
     add_match(is_platform_product_item)
-    add_match(is_local_sea_item)
+    add_match(is_scam_development_item)
+    add_match(is_local_sea_item, strict=True)
 
     max_vendor_items = int(quality_config(config).get("max_vendor_blog_items_final", 1))
     vendor_count = sum(1 for item in selected if item.get("article_type", classify_article_type(item)) == "Vendor blog")
-    plain_news_count = sum(1 for item in selected if is_plain_news_item(item))
+    plain_news_count = sum(1 for item in selected if is_plain_news_item(item) and not is_high_value_product_radar_item(item))
+    enforcement_count = sum(
+        1 for item in selected if item.get("article_type", classify_article_type(item)) == "Enforcement report"
+    )
+    local_current_affairs_count = sum(1 for item in selected if is_local_current_affairs_item(item))
+    source_domain_counts: dict[str, int] = {}
+    for item in selected:
+        domain = article_domain(item)
+        source_domain_counts[domain] = source_domain_counts.get(domain, 0) + 1
     generic_advisory_count = sum(
         1
         for item in selected
@@ -1909,6 +2733,9 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             continue
         article_type = item.get("article_type", classify_article_type(item))
         usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+        domain = article_domain(item)
+        if not can_add(item, strict=True):
+            continue
         if article_type == "Vendor blog":
             if vendor_count >= max_vendor_items or usefulness_category not in {
                 "Technical abuse / vulnerability",
@@ -1927,14 +2754,22 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
                 continue
         if is_research_item(item):
             research_count += 1
-        if is_plain_news_item(item) and plain_news_count >= 2:
-            higher_value_remaining = any(
-                not is_plain_news_item(other) and other not in selected for other in items[items.index(item) + 1 :]
-            )
-            if higher_value_remaining:
-                continue
-        if is_plain_news_item(item):
+        if is_plain_news_item(item) and not is_high_value_product_radar_item(item) and plain_news_count >= 2:
+            continue
+        if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
             plain_news_count += 1
+        if article_type == "Enforcement report":
+            if enforcement_count >= 2:
+                continue
+            enforcement_count += 1
+        if is_local_current_affairs_item(item):
+            if local_current_affairs_count >= 2:
+                continue
+            local_current_affairs_count += 1
+        domain_limit = 3 if is_high_value_product_radar_item(item) else 2
+        if source_domain_counts.get(domain, 0) >= domain_limit:
+            continue
+        source_domain_counts[domain] = source_domain_counts.get(domain, 0) + 1
         if article_type == "Advisory / guidance" and usefulness_category == "General context":
             if generic_advisory_count >= 1:
                 continue
@@ -1989,9 +2824,11 @@ def score_item(item: dict[str, Any], now: datetime | None = None) -> int:
 def is_seen(candidate: dict[str, Any], seen: dict[str, dict[str, Any]]) -> bool:
     seen_urls = seen.get("urls", {})
     seen_titles = seen.get("titles", {})
+    seen_stories = seen.get("stories", {})
     original_url = candidate.get("original_url", "")
     canonical_url = candidate.get("canonical_url") or candidate.get("url", "")
     fingerprint = candidate.get("title_fingerprint") or title_fingerprint(candidate.get("title", ""))
+    story_key = candidate.get("same_story_key") or same_story_key(candidate)
 
     url_hashes = {candidate.get("canonical_url_hash"), candidate.get("original_url_hash")}
     if canonical_url:
@@ -1999,7 +2836,31 @@ def is_seen(candidate: dict[str, Any], seen: dict[str, dict[str, Any]]) -> bool:
     if original_url:
         url_hashes.add(url_hash(original_url))
 
-    return any(item_hash in seen_urls for item_hash in url_hashes if item_hash) or fingerprint in seen_titles
+    if any(item_hash in seen_urls for item_hash in url_hashes if item_hash) or fingerprint in seen_titles or story_key in seen_stories:
+        return True
+
+    recent_cutoff = datetime.now(timezone.utc) - timedelta(days=30)
+    for record in list(seen_titles.values()) + list(seen_stories.values()):
+        sent_at = record.get("sent_at")
+        if sent_at:
+            try:
+                sent_at_datetime = date_parser.parse(sent_at)
+                if sent_at_datetime.tzinfo is None:
+                    sent_at_datetime = sent_at_datetime.replace(tzinfo=timezone.utc)
+                if sent_at_datetime.astimezone(timezone.utc) < recent_cutoff:
+                    continue
+            except (TypeError, ValueError, OverflowError):
+                pass
+        seen_candidate = {
+            "title": record.get("raw_title") or record.get("title") or record.get("normalised_title", ""),
+            "canonical_url": record.get("url", ""),
+            "original_url": record.get("original_url", ""),
+            "parsed_date": record.get("parsed_date", ""),
+            "source_domain": record.get("source_domain", ""),
+        }
+        if near_duplicate(candidate, seen_candidate):
+            return True
+    return False
 
 
 def prune_seen(seen: dict[str, dict[str, Any]], retention_days: int) -> dict[str, dict[str, Any]]:
@@ -2036,6 +2897,21 @@ def prune_seen(seen: dict[str, dict[str, Any]], retention_days: int) -> dict[str
         if sent_at_datetime.astimezone(timezone.utc) >= cutoff:
             pruned["titles"][title_key] = record
 
+    for story_key, record in seen.get("stories", {}).items():
+        sent_at = record.get("sent_at")
+        if not sent_at:
+            pruned["stories"][story_key] = record
+            continue
+        try:
+            sent_at_datetime = date_parser.parse(sent_at)
+        except (TypeError, ValueError, OverflowError):
+            pruned["stories"][story_key] = record
+            continue
+        if sent_at_datetime.tzinfo is None:
+            sent_at_datetime = sent_at_datetime.replace(tzinfo=timezone.utc)
+        if sent_at_datetime.astimezone(timezone.utc) >= cutoff:
+            pruned["stories"][story_key] = record
+
     return pruned
 
 
@@ -2054,6 +2930,9 @@ def mark_sent_items_seen(
         canonical_url = item.get("canonical_url", "")
         original_url = item.get("original_url", "")
         fingerprint = item.get("title_fingerprint") or title_fingerprint(title)
+        story_key = item.get("same_story_key") or same_story_key(item)
+        source_domain = article_domain(item)
+        parsed_date = parsed_date_key(item)
 
         for item_url in {canonical_url, original_url}:
             if not item_url:
@@ -2062,6 +2941,10 @@ def mark_sent_items_seen(
                 "url": item_url,
                 "title": title,
                 "normalised_title": normalised_title(title),
+                "normalized_title_fingerprint": fingerprint,
+                "same_story_key": story_key,
+                "source_domain": source_domain,
+                "parsed_date": parsed_date,
                 "sent_at": sent_at,
                 "article_type": article_type,
                 "usefulness_category": usefulness_category,
@@ -2069,7 +2952,26 @@ def mark_sent_items_seen(
 
         updated_seen["titles"][fingerprint] = {
             "title": normalised_title(title),
+            "raw_title": title,
             "normalised_title": normalised_title(title),
+            "normalized_title_fingerprint": fingerprint,
+            "same_story_key": story_key,
+            "source_domain": source_domain,
+            "parsed_date": parsed_date,
+            "sent_at": sent_at,
+            "article_type": article_type,
+            "usefulness_category": usefulness_category,
+        }
+        updated_seen["stories"][story_key] = {
+            "title": normalised_title(title),
+            "raw_title": title,
+            "normalised_title": normalised_title(title),
+            "normalized_title_fingerprint": fingerprint,
+            "same_story_key": story_key,
+            "source_domain": source_domain,
+            "parsed_date": parsed_date,
+            "url": canonical_url,
+            "original_url": original_url,
             "sent_at": sent_at,
             "article_type": article_type,
             "usefulness_category": usefulness_category,
@@ -2146,6 +3048,8 @@ def fetch_candidates(
                 "summary": entry.get("summary", ""),
                 "parsed_date": parsed_date,
                 "fetcher": "watchlist" if query.get("priority") == "watchlist" else "arxiv" if "site:arxiv.org" in query_text else "google_news",
+                "query_group": query_group_for_query(query.get("query", ""), query.get("priority", "")),
+                "query": query.get("query", ""),
             }
             date_filtered_count += 1
 
@@ -2471,7 +3375,14 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     stats = pipeline["stats"]
     timing = pipeline.get("timing", {})
     ranked_candidates = pipeline.get("quality_ranked_candidates") or pipeline["ranked_candidates"]
+    config = pipeline.get("config", {})
 
+    cache_info = pipeline.get("cache_info", {})
+    print(f"candidate_cache_used: {bool(cache_info.get('used_candidate_cache', False))}")
+    print(f"candidate_cache_age_minutes: {cache_info.get('candidate_cache_age_minutes')}")
+    print(f"candidate_cache_candidate_count: {cache_info.get('candidate_cache_candidate_count', 0)}")
+    print(f"fetch_skipped: {bool(cache_info.get('fetch_skipped', False))}")
+    print(f"cache_fallback_used: {bool(cache_info.get('cache_fallback_used', False))}")
     print(f"Total RSS queries run: {stats['rss_queries_run']}")
     print(f"Total raw candidates fetched: {stats['raw_candidate_count']}")
     print(f"Total candidates after date filter: {stats['date_filtered_candidate_count']}")
@@ -2487,6 +3398,16 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"negative_domain_context_rejected_count: {stats.get('negative_domain_context_rejected_count', 0)}")
     print(f"weak_generic_only_rejected_count: {stats.get('weak_generic_only_rejected_count', 0)}")
     print(f"product_launch_rejected_count: {stats.get('product_launch_rejected_count', 0)}")
+    print(f"pre_gemini_duplicates_removed_count: {stats.get('pre_gemini_duplicates_removed_count', 0)}")
+    print(f"post_gemini_duplicates_removed_count: {stats.get('post_gemini_duplicates_removed_count', 0)}")
+    print(f"final_duplicates_removed_count: {stats.get('final_duplicates_removed_count', 0)}")
+    for prefix in ("pre_gemini", "post_gemini", "final"):
+        examples = stats.get(f"{prefix}_duplicate_examples", [])
+        for example in examples[:5]:
+            print(
+                f"{prefix}_duplicate_example: removed_title={example.get('removed_title')} | "
+                f"kept_title={example.get('kept_title')} | reason={example.get('reason')}"
+            )
     print(f"query cap reached: {bool(stats.get('query_cap_reached', 0))}")
     print(
         "candidate caps reached by fetcher: "
@@ -2502,6 +3423,9 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"Google News URLs resolved: {resolved}/{attempted}")
     print(f"unresolved_google_news_url: {stats.get('unresolved_google_news_url_count', 0)}")
     print(f"Shortlist count: {len(pipeline['shortlist'])}")
+    print(f"query group distribution before shortlist: {query_group_distribution(ranked_candidates)}")
+    print(f"source domain distribution before shortlist: {source_domain_distribution(ranked_candidates)}")
+    print(f"source domain distribution in shortlist: {source_domain_distribution(pipeline['shortlist'])}")
     print(f"Final shortlist article_type distribution: {article_type_distribution(pipeline['shortlist'])}")
     print(f"Final shortlist usefulness_category distribution: {usefulness_category_distribution(pipeline['shortlist'])}")
     print(f"Final shortlist source domains: {', '.join(shortlist_source_domains(pipeline['shortlist']))}")
@@ -2512,6 +3436,12 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"investigative_or_deep_analysis_count: {sum(1 for item in pipeline['shortlist'] if is_deep_analysis_item(item))}")
     print(f"platform_or_product_data_source_count: {sum(1 for item in pipeline['shortlist'] if is_platform_product_item(item))}")
     print(f"singapore_or_southeast_asia_count: {sum(1 for item in pipeline['shortlist'] if is_local_sea_item(item))}")
+    print(f"psychology_victim_persuasion_count: {sum(1 for item in pipeline['shortlist'] if is_psychology_item(item))}")
+    print(f"longform_analysis_count: {sum(1 for item in pipeline['shortlist'] if is_investigative_or_operational_item(item))}")
+    print(f"international_scam_infrastructure_count: {sum(1 for item in pipeline['shortlist'] if is_modus_infrastructure_item(item) and not is_local_sea_item(item))}")
+    print(f"singapore_sea_current_affairs_count: {sum(1 for item in pipeline['shortlist'] if is_local_current_affairs_item(item))}")
+    print(f"enforcement_report_count: {sum(1 for item in pipeline['shortlist'] if item.get('article_type', classify_article_type(item)) == 'Enforcement report')}")
+    print(f"paywalled_high_reputation_kept_count: {count_paywalled_high_reputation(pipeline['shortlist'], config)}")
     print(f"plain_news_report_count: {sum(1 for item in pipeline['shortlist'] if is_plain_news_item(item))}")
     print("Top 30 quality-ranked candidates:")
 
@@ -2551,7 +3481,7 @@ def print_selected_articles(items: list[dict[str, Any]]) -> None:
     for index, item in enumerate(items, start=1):
         article_type = item.get("article_type", classify_article_type(item))
         usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
-        print(f"{index}. [{article_type} · {usefulness_category}] {item['title']}")
+        print(f"{index}. [{article_type} · {usefulness_category}] {display_title(item['title'])}")
         print(item["canonical_url"])
 
 
@@ -2584,15 +3514,22 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
     )
     return (
         "You are selecting articles for a product leader building national-scale anti-scam products. "
+        "You are not producing a local scam current-affairs digest. You are producing a balanced adversarial product radar for anti-scam product work. "
         "Do not optimise for general newsworthiness. Optimise for product-relevant adversarial intelligence: "
         "scam developments, attacker methods, technical vulnerabilities, research, operational intelligence, "
         "platform changes, local Singapore/Southeast Asia developments, product ideas, and data-source opportunities. "
+        "Select 3 to 10 genuinely strong articles. Do not pad the list. Do not over-select enforcement/current-affairs stories. Singapore and Southeast Asia items are useful, but they must not dominate. "
+        "Prioritise scammer modus operandi, scam infrastructure, victim psychology, scam methodology, LLM adverse-use research, academic studies, deep investigations, platform/telco/bank controls, and product-relevant technical insights. "
+        "Prefer one excellent WIRED / C4ADS / 404 Media / arXiv / academic item over several similar local enforcement updates. "
+        "If there are multiple Singapore enforcement stories, choose only the most operationally useful or novel one. Leave room for research, investigations, platform/product changes, and methodology pieces. "
         "Select for direct anti-scam product relevance. Do not select generic AI/cybersecurity articles unless they clearly help understand scammer modus operandi, victim manipulation, monetary-loss fraud, account takeover, scam infrastructure, platform/telco/bank controls, or technologies used by scammers to scale. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
         "Do not select research merely because it is technical or about fraud generally. Research should be selected only if it directly helps anti-scam product work: scammer methods, victim psychology, harmful persuasion, LLM-enabled scam abuse, scam detection, scam intervention, deepfake scams, synthetic identity, social engineering, or adverse-use benchmarks. "
         "Exclude generic cybersecurity, generic enterprise agent security, generic fraud ML, or unrelated technical domains unless there is a direct scam/social-engineering link. "
         f"You may select between 3 and {sent_count} articles. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
         "Do not pad the list with weak or generic items. If only 4 strong items exist, return 4. Never include duplicates or near-duplicates. Prefer direct anti-scam relevance over general AI/cyber news. "
+        "Do not select duplicate or near-duplicate stories. If two items are from the same publisher, same date, and cover the same event, select only the stronger one. For example, two TechCrunch articles about scammers abusing a Microsoft email/account to send spam links are the same story; pick one. "
+        "Hard balance targets: maximum 2 Singapore/Southeast Asia current-affairs items, maximum 2 enforcement reports, maximum 2 plain news reports. Include at least one deep investigation/deep analysis/operational intelligence item if available, one directly relevant academic research paper if available, one psychology/persuasion/victimology/scam-methodology item if available, one technical/platform/product/data-source item if available, and one scam modus-operandi/infrastructure item if available. "
         "Correct any wrong article labels. Do not label enforcement or arrest stories as Technical articles unless they contain technical mechanisms. "
         "Prioritise articles like 'Victim as a Service' that reveal novel anti-scam product ideas, research methods, scam engagement systems, detection approaches, or engineering workflows. "
         "Avoid vendor pitch, product announcements without anti-scam or engineering relevance, thin posts, and generic consumer advice. "
@@ -2625,6 +3562,13 @@ def call_gemini(prompt: str, model: str, max_output_tokens: int) -> tuple[str, d
     parts = data.get("candidates", [{}])[0].get("content", {}).get("parts", [])
     text = "\n".join(part.get("text", "") for part in parts)
     return text, data.get("usageMetadata")
+
+
+def safe_request_error(exc: requests.RequestException) -> str:
+    status_code = exc.response.status_code if exc.response is not None else None
+    if status_code is not None:
+        return f"{exc.__class__.__name__}: HTTP {status_code}"
+    return exc.__class__.__name__
 
 
 def rank_with_gemini(
@@ -2667,7 +3611,7 @@ def rank_with_gemini(
     try:
         text, usage = call_gemini(prompt, model, max_output_tokens)
     except requests.RequestException as exc:
-        print(f"Gemini skipped after request failure: {exc}")
+        print(f"Gemini skipped after request failure: {safe_request_error(exc)}")
         return items, cost_data
 
     cost_data["used_llm"] = True
@@ -2793,24 +3737,24 @@ def telegram_section(item: dict[str, Any]) -> str:
     usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
     article_type = item.get("article_type", classify_article_type(item))
     terms = set(item.get("strong_scam_anchor_terms_found", [])) | set(item.get("technology_modus_terms_found", []))
-    if usefulness_category == "Local Singapore / Southeast Asia relevance":
-        return "🇸🇬 Singapore / Southeast Asia"
-    if usefulness_category == "Scam development":
-        return "🧨 Scam trends"
+    if any(term in terms for term in ("grooming", "persuasion", "manipulation", "deception", "trust-building", "harmful persuasion")) or is_psychology_item(item):
+        return "🧠 Victim psychology & persuasion"
+    if usefulness_category == "Research / novel method" or is_direct_research_item(item):
+        return "📚 Research & novel methods"
     if usefulness_category == "Operational intelligence" or article_type == "Investigative report":
         return "🕵️ Investigations & operational intelligence"
+    if usefulness_category == "Scam development":
+        return "🧨 Scam trends"
     if any(term in terms for term in ("deepfake scam", "voice cloning scam", "synthetic identity fraud", "impersonation scam", "voice clone", "synthetic identity", "deepfake video call")):
         return "🧬 Deepfakes, synthetic identity & impersonation"
     if usefulness_category == "Technical abuse / vulnerability":
         return "🛠️ Technical abuse & vulnerabilities"
-    if usefulness_category == "Research / novel method":
-        return "📚 Research & novel methods"
     if usefulness_category == "Platform policy / product change":
         return "📱 Platform, telco & bank controls"
-    if any(term in terms for term in ("grooming", "persuasion", "manipulation", "deception", "trust-building", "harmful persuasion")):
-        return "🧠 Victim psychology & persuasion"
     if usefulness_category == "Product idea / data source":
         return "🧰 Product ideas & data sources"
+    if usefulness_category == "Local Singapore / Southeast Asia relevance":
+        return "🇸🇬 Singapore / Southeast Asia"
     if article_type in {"Advisory / guidance", "Enforcement report", "Official report"}:
         return "🚨 Advisories & enforcement"
     return "🧨 Scam trends"
@@ -2827,14 +3771,106 @@ def section_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
     return {section: len(section_items) for section, section_items in grouped_items_by_section(items).items()}
 
 
+def source_domain_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
+    distribution: dict[str, int] = {}
+    for item in items:
+        domain = article_domain(item) or "unknown"
+        distribution[domain] = distribution.get(domain, 0) + 1
+    return dict(sorted(distribution.items()))
+
+
+def query_group_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
+    distribution: dict[str, int] = {}
+    for item in items:
+        group = item.get("query_group", "unknown")
+        distribution[group] = distribution.get(group, 0) + 1
+    return dict(sorted(distribution.items()))
+
+
+def count_paywalled_high_reputation(items: list[dict[str, Any]], config: dict[str, Any]) -> int:
+    return sum(
+        1
+        for item in items
+        if item.get("access_status") == "paywalled_or_login" and is_high_reputation_source(item, config)
+    )
+
+
+def final_mix_constraint_failures(
+    items: list[dict[str, Any]],
+    min_items: int,
+    max_items: int,
+    available_items: list[dict[str, Any]] | None = None,
+) -> list[str]:
+    failures: list[str] = []
+    available = available_items or items
+    if len(items) < min_items:
+        failures.append(f"below_min_articles:{len(items)}<{min_items}")
+    if len(items) > max_items:
+        failures.append(f"above_max_articles:{len(items)}>{max_items}")
+    if sum(1 for item in items if is_local_current_affairs_item(item)) > 2:
+        failures.append("too_many_singapore_sea_current_affairs")
+    if sum(1 for item in items if item.get("article_type", classify_article_type(item)) == "Enforcement report") > 2:
+        failures.append("too_many_enforcement_reports")
+    if sum(1 for item in items if is_plain_news_item(item) and not is_high_value_product_radar_item(item)) > 2:
+        failures.append("too_many_plain_news_reports")
+    if any(count > 2 for count in source_domain_distribution(items).values()):
+        failures.append("too_many_from_same_source_domain")
+    if any(is_investigative_or_operational_item(item) for item in available) and not any(is_investigative_or_operational_item(item) for item in items):
+        failures.append("missing_investigation_deep_analysis_or_operational_intelligence_if_available")
+    if any(is_direct_research_item(item) for item in available) and not any(is_direct_research_item(item) for item in items):
+        failures.append("missing_direct_academic_research_if_available")
+    if any(is_psychology_item(item) for item in available) and not any(is_psychology_item(item) for item in items):
+        failures.append("missing_psychology_persuasion_victimology_if_available")
+    if any(is_platform_product_item(item) or is_technical_item(item) for item in available) and not any(is_platform_product_item(item) or is_technical_item(item) for item in items):
+        failures.append("missing_technical_platform_product_or_data_source_if_available")
+    if any(is_modus_infrastructure_item(item) for item in available) and not any(is_modus_infrastructure_item(item) for item in items):
+        failures.append("missing_modus_operandi_or_infrastructure_if_available")
+    return failures
+
+
+def load_ranking_runs() -> dict[str, list[dict[str, Any]]]:
+    if not RANKING_RUNS_PATH.exists():
+        return {"runs": []}
+    try:
+        with RANKING_RUNS_PATH.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+    except (json.JSONDecodeError, OSError):
+        return {"runs": []}
+    if not isinstance(data, dict) or not isinstance(data.get("runs"), list):
+        return {"runs": []}
+    return data
+
+
+def save_ranking_run(pipeline: dict[str, Any], selected_items: list[dict[str, Any]], failures: list[str]) -> None:
+    cache_info = pipeline.get("cache_info", {})
+    run = {
+        "timestamp": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "used_candidate_cache": bool(cache_info.get("used_candidate_cache", False)),
+        "candidate_cache_age_minutes": cache_info.get("candidate_cache_age_minutes"),
+        "candidate_count": len(pipeline.get("ranked_candidates", [])),
+        "shortlist_count": len(pipeline.get("shortlist", [])),
+        "query_group_distribution": query_group_distribution(pipeline.get("ranked_candidates", [])),
+        "source_domain_distribution": source_domain_distribution(pipeline.get("shortlist", [])),
+        "article_type_distribution": article_type_distribution(selected_items),
+        "usefulness_category_distribution": usefulness_category_distribution(selected_items),
+        "final_mix_constraints_satisfied": not failures,
+        "failed_constraints": failures,
+    }
+    data = load_ranking_runs()
+    data["runs"].append(run)
+    data["runs"] = data["runs"][-50:]
+    RANKING_RUNS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with RANKING_RUNS_PATH.open("w", encoding="utf-8") as file:
+        json.dump(data, file, indent=2, sort_keys=True)
+        file.write("\n")
+
+
 def format_digest(items: list[dict[str, Any]]) -> str:
     today_datetime = datetime.now(timezone.utc)
     today = today_datetime.strftime("%d %b %Y")
     lines = [
         "🕵️ AI Abuse & Scam Radar",
         today,
-        "",
-        rotating_line(INTRO_LINES, today_datetime),
         "",
     ]
 
@@ -2844,13 +3880,11 @@ def format_digest(items: list[dict[str, Any]]) -> str:
         for item in section_items:
             article_type = item.get("article_type", classify_article_type(item))
             usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
-            lines.append(f"{item_number}. [{article_type} · {usefulness_category}] {item['title']}")
+            lines.append(f"{item_number}. [{article_type} · {usefulness_category}] {display_title(item['title'])}")
             lines.append(item["canonical_url"])
             lines.append("")
             item_number += 1
 
-    lines.append(rotating_line(CLOSING_LINES, today_datetime))
-    lines.append("")
     lines.append(ACCESS_NOTE)
 
     return "\n".join(lines)
@@ -2896,11 +3930,112 @@ def send_telegram_message(message: str) -> None:
     response.raise_for_status()
 
 
+def rerank_cached_candidates(
+    cached_candidates: list[dict[str, Any]],
+    config: dict[str, Any],
+    seen: dict[str, dict[str, Any]],
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]], dict[str, int]]:
+    stats = {
+        "rss_queries_run": 0,
+        "raw_candidate_count": len(cached_candidates),
+        "date_filtered_candidate_count": len(cached_candidates),
+        "seen_filtered_candidate_count": 0,
+        "ranked_unseen_candidate_count": 0,
+        "query_cap_reached": 0,
+        "queries_available_count": 0,
+        "google_news_candidate_cap_reached": 0,
+        "arxiv_candidate_cap_reached": 0,
+        "watchlist_candidate_cap_reached": 0,
+    }
+    filtered: list[dict[str, Any]] = []
+    reranked_all: list[dict[str, Any]] = []
+    for cached in cached_candidates:
+        candidate = candidate_from_cache(cached)
+        if is_seen(candidate, seen):
+            stats["seen_filtered_candidate_count"] += 1
+            continue
+        candidate["article_type"] = classify_article_type(candidate)
+        candidate["usefulness_category"] = classify_usefulness_category(candidate)
+        candidate["source_reputation"] = source_reputation(candidate, config)
+        cached_relevance = {
+            key: candidate.get(key)
+            for key in (
+                "anti_scam_relevance",
+                "strong_scam_anchor_terms_found",
+                "title_scam_anchor_terms_found",
+                "weak_generic_terms_found",
+                "direct_relevance_terms_found",
+                "technology_modus_terms_found",
+                "direct_scam_relevance_terms_found",
+                "research_relevance_category",
+                "research_relevance_score",
+                "downrank_reason",
+                "hard_rejected",
+                "hard_rejection_reason",
+            )
+        }
+        updated_relevance = relevance_fields(candidate)
+        candidate.update(updated_relevance)
+        for key in (
+            "strong_scam_anchor_terms_found",
+            "title_scam_anchor_terms_found",
+            "weak_generic_terms_found",
+            "direct_relevance_terms_found",
+            "technology_modus_terms_found",
+            "direct_scam_relevance_terms_found",
+        ):
+            merged = list(dict.fromkeys((candidate.get(key) or []) + (cached_relevance.get(key) or [])))
+            candidate[key] = merged[:12]
+        if cached_relevance.get("anti_scam_relevance") == "direct":
+            candidate["anti_scam_relevance"] = "direct"
+        current_research_category = candidate.get("research_relevance_category")
+        cached_research_category = cached_relevance.get("research_relevance_category")
+        if (
+            current_research_category in {None, "irrelevant_or_adjacent", "generic_fraud_ml", "generic_cybersecurity", "generic_ai_security"}
+            and cached_research_category
+            and cached_research_category
+            not in {"irrelevant_or_adjacent", "generic_fraud_ml", "generic_cybersecurity", "generic_ai_security"}
+        ):
+            candidate["research_relevance_category"] = cached_relevance["research_relevance_category"]
+            candidate["research_relevance_score"] = cached_relevance.get("research_relevance_score")
+        if cached_relevance.get("hard_rejected"):
+            candidate["hard_rejected"] = cached_relevance.get("hard_rejected")
+            candidate["hard_rejection_reason"] = cached_relevance.get("hard_rejection_reason")
+        candidate["original_score"] = score_item(candidate, datetime.now(timezone.utc))
+        candidate["quality_score"] = compute_quality_score(candidate, config)
+        rejection_reason = quality_rejection_reason(candidate, config)
+        candidate["quality_rejected"] = bool(rejection_reason)
+        if rejection_reason:
+            candidate["rejection_reason"] = rejection_reason
+            stats["quality_rejected_candidate_count"] = stats.get("quality_rejected_candidate_count", 0) + 1
+        else:
+            candidate["rejection_reason"] = None
+            filtered.append(candidate)
+        reranked_all.append(candidate)
+
+    pre_gemini_deduped = dedupe_near_duplicates(filtered, stats, "pre_gemini")
+    ranked = sorted(
+        pre_gemini_deduped,
+        key=lambda item: (int(item.get("quality_score", 0)), int(item.get("original_score", 0)), item.get("title", "")),
+        reverse=True,
+    )
+    quality_ranked = sorted(
+        reranked_all,
+        key=lambda item: (int(item.get("quality_score", 0)), int(item.get("original_score", 0)), item.get("title", "")),
+        reverse=True,
+    )
+    stats["ranked_unseen_candidate_count"] = len(ranked)
+    return ranked, quality_ranked, stats
+
+
 def run_pipeline(
     config: dict[str, Any],
     seen: dict[str, dict[str, Any]],
     resolve_urls: bool = True,
     debug: bool = False,
+    use_cache: bool = False,
+    refresh_cache: bool = False,
+    rerank_cache: bool = False,
 ) -> dict[str, Any]:
     lookback_days = int(os.getenv("LOOKBACK_DAYS", config.get("lookback_days", "90")))
     max_article_age_days = int(os.getenv("MAX_ARTICLE_AGE_DAYS", config.get("max_article_age_days", "90")))
@@ -2909,8 +4044,98 @@ def run_pipeline(
     sources = load_sources(config)
 
     timing: dict[str, float] = {}
+    cache_info: dict[str, Any] = {
+        "used_candidate_cache": False,
+        "candidate_cache_age_minutes": None,
+        "candidate_cache_candidate_count": 0,
+        "fetch_skipped": False,
+        "cache_fallback_used": False,
+    }
+    if rerank_cache or (use_cache and not refresh_cache):
+        cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=True)
+        cache_info.update(loaded_cache_info)
+        if cached_candidates:
+            cache_info["fetch_skipped"] = True
+            rerank_started = time.monotonic()
+            ranked_candidates, quality_ranked_candidates, stats = rerank_cached_candidates(cached_candidates, config, seen)
+            timing["fetch_runtime_seconds"] = 0.0
+            timing["url_resolution_runtime_seconds"] = 0.0
+            timing["quality_inspection_runtime_seconds"] = time.monotonic() - rerank_started
+            shortlist = build_quality_shortlist(ranked_candidates, shortlist_count, config)
+            return {
+                "rss_queries_run": 0,
+                "raw_candidates": cached_candidates,
+                "date_filtered_candidates": cached_candidates,
+                "seen_filtered_count": stats["seen_filtered_candidate_count"],
+                "ranked_candidates": ranked_candidates,
+                "quality_ranked_candidates": quality_ranked_candidates,
+                "shortlist": shortlist,
+                "stats": stats,
+                "timing": timing,
+                "cache_info": cache_info,
+                "config": config,
+            }
+        if rerank_cache:
+            print(f"Candidate cache unavailable for rerank: {cache_info.get('reason')}")
+            stats = {
+                "rss_queries_run": 0,
+                "raw_candidate_count": 0,
+                "date_filtered_candidate_count": 0,
+                "seen_filtered_candidate_count": 0,
+                "ranked_unseen_candidate_count": 0,
+                "query_cap_reached": 0,
+                "queries_available_count": 0,
+                "google_news_candidate_cap_reached": 0,
+                "arxiv_candidate_cap_reached": 0,
+                "watchlist_candidate_cap_reached": 0,
+            }
+            return {
+                "rss_queries_run": 0,
+                "raw_candidates": [],
+                "date_filtered_candidates": [],
+                "seen_filtered_count": 0,
+                "ranked_candidates": [],
+                "quality_ranked_candidates": [],
+                "shortlist": [],
+                "stats": stats,
+                "timing": {
+                    "fetch_runtime_seconds": 0.0,
+                    "url_resolution_runtime_seconds": 0.0,
+                    "quality_inspection_runtime_seconds": 0.0,
+                },
+                "cache_info": cache_info,
+                "config": config,
+            }
+
     fetch_started = time.monotonic()
-    ranked_candidates, stats = fetch_candidates(sources, seen, lookback_days, max_article_age_days, debug, config)
+    try:
+        ranked_candidates, stats = fetch_candidates(sources, seen, lookback_days, max_article_age_days, debug, config)
+    except Exception as exc:
+        cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=True)
+        if not cached_candidates:
+            raise
+        print(f"Fresh fetch failed; using fresh candidate cache fallback: {exc}")
+        cache_info.update(loaded_cache_info)
+        cache_info["fetch_skipped"] = True
+        cache_info["cache_fallback_used"] = True
+        ranked_candidates, quality_ranked_candidates, stats = rerank_cached_candidates(cached_candidates, config, seen)
+        timing["fetch_runtime_seconds"] = time.monotonic() - fetch_started
+        timing["url_resolution_runtime_seconds"] = 0.0
+        timing["quality_inspection_runtime_seconds"] = 0.0
+        shortlist = build_quality_shortlist(ranked_candidates, shortlist_count, config)
+        return {
+            "rss_queries_run": 0,
+            "raw_candidates": cached_candidates,
+            "date_filtered_candidates": cached_candidates,
+            "seen_filtered_count": stats["seen_filtered_candidate_count"],
+            "ranked_candidates": ranked_candidates,
+            "quality_ranked_candidates": quality_ranked_candidates,
+            "shortlist": shortlist,
+            "stats": stats,
+            "timing": timing,
+            "cache_info": cache_info,
+            "config": config,
+        }
     timing["fetch_runtime_seconds"] = time.monotonic() - fetch_started
     raw_candidates = list(ranked_candidates)
 
@@ -2940,8 +4165,9 @@ def run_pipeline(
     ranked_candidates, quality_ranked_candidates = apply_quality_filters(ranked_candidates, config, stats, quality_cache)
     timing["quality_inspection_runtime_seconds"] = time.monotonic() - quality_started
     save_cache(QUALITY_CACHE_PATH, quality_cache)
+    ranked_candidates, shortlist = build_pre_gemini_shortlist(ranked_candidates, shortlist_count, config, stats)
     stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
-    shortlist = build_quality_shortlist(ranked_candidates, shortlist_count, config)
+    save_candidate_cache(quality_ranked_candidates, config)
 
     return {
         "rss_queries_run": stats["rss_queries_run"],
@@ -2953,6 +4179,8 @@ def run_pipeline(
         "shortlist": shortlist,
         "stats": stats,
         "timing": timing,
+        "cache_info": cache_info,
+        "config": config,
     }
 
 
@@ -2983,17 +4211,33 @@ def main() -> None:
     dry_run_no_resolve = "--dry-run-no-resolve" in sys.argv
     dry_run = dry_run_no_resolve or "--dry-run" in sys.argv or os.getenv("DRY_RUN", "").lower() in {"1", "true", "yes"}
     dry_run_with_llm = "--dry-run-with-llm" in sys.argv
+    refresh_cache = "--refresh-cache" in sys.argv
+    rerank_cache = "--rerank-cache" in sys.argv
+    use_cache = "--use-cache" in sys.argv
+    if rerank_cache or (refresh_cache and not dry_run_with_llm):
+        dry_run = True
+        dry_run_with_llm = False
     debug = "--debug" in sys.argv or os.getenv("DEBUG", "").lower() in {"1", "true", "yes"}
     max_items = int(os.getenv("MAX_ARTICLES_TO_SEND", config.get("max_articles_to_send", "8")))
     min_items = int(os.getenv("MIN_ARTICLES_TO_SEND", config.get("min_articles_to_send", "3")))
     seen_retention_days = int(os.getenv("SEEN_RETENTION_DAYS", config.get("seen_retention_days", "365")))
     seen = prune_seen(load_seen(), seen_retention_days)
-    pipeline = run_pipeline(config, seen, resolve_urls=not dry_run_no_resolve, debug=debug)
+    pipeline = run_pipeline(
+        config,
+        seen,
+        resolve_urls=not dry_run_no_resolve,
+        debug=debug,
+        use_cache=use_cache,
+        refresh_cache=refresh_cache,
+        rerank_cache=rerank_cache,
+    )
     ranked_candidates = pipeline["ranked_candidates"]
     shortlist = pipeline["shortlist"]
 
     if dry_run and not dry_run_with_llm:
         print_pipeline_report(pipeline)
+        failures = final_mix_constraint_failures([], min_items, max_items, pipeline.get("ranked_candidates", []))
+        save_ranking_run(pipeline, [], failures)
         print(f"total runtime seconds: {time.monotonic() - total_started:.2f}")
         return
 
@@ -3014,7 +4258,18 @@ def main() -> None:
     gemini_runtime = time.monotonic() - gemini_started
     pipeline["timing"]["gemini_runtime_seconds"] = gemini_runtime
     selected_items = select_final_items(ranked_items, config, max_items)
-    final_dedupe_count = len(ranked_items) - len(dedupe_final_items(ranked_items))
+    selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "post_gemini")
+    selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "final")
+    duplicate_pairs = near_duplicate_pairs(selected_items)
+    if duplicate_pairs:
+        first_pair = duplicate_pairs[0]
+        raise ValueError(
+            "Final duplicate guard failed: "
+            f"{first_pair['left_title']} / {first_pair['right_title']} ({first_pair['reason']})"
+        )
+    final_dedupe_count = pipeline["stats"].get("post_gemini_duplicates_removed_count", 0) + pipeline["stats"].get(
+        "final_duplicates_removed_count", 0
+    )
 
     if dry_run_with_llm:
         run = build_cost_run(
@@ -3026,10 +4281,28 @@ def main() -> None:
         )
         save_cost_log(run)
         print_pipeline_report(pipeline)
+        final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, ranked_items)
+        print(f"final article count: {len(selected_items)}")
         print(f"number of final selected articles: {len(selected_items)}")
+        print(f"final article_type distribution: {article_type_distribution(selected_items)}")
+        print(f"final usefulness_category distribution: {usefulness_category_distribution(selected_items)}")
         print(f"article count below min: {len(selected_items) < min_items}")
         print(f"article count above max: {len(selected_items) > max_items}")
         print(f"final section distribution: {section_distribution(selected_items)}")
+        print(f"final source domain distribution: {source_domain_distribution(selected_items)}")
+        print(
+            "final enforcement report count: "
+            f"{sum(1 for item in selected_items if item.get('article_type', classify_article_type(item)) == 'Enforcement report')}"
+        )
+        print(f"final Singapore / Southeast Asia item count: {sum(1 for item in selected_items if is_local_sea_item(item))}")
+        print(f"final research paper count: {sum(1 for item in selected_items if is_research_item(item))}")
+        print(f"final psychology / persuasion / victimology item count: {sum(1 for item in selected_items if is_psychology_item(item))}")
+        print(f"final investigative/deep analysis item count: {sum(1 for item in selected_items if is_investigative_or_operational_item(item))}")
+        print(f"final platform/product/data-source item count: {sum(1 for item in selected_items if is_platform_product_item(item))}")
+        print(f"final mix constraints satisfied: {not final_failures}")
+        if final_failures:
+            print(f"final mix constraint failures: {', '.join(final_failures)}")
+        save_ranking_run(pipeline, selected_items, final_failures)
         print(f"final dedupe count: {final_dedupe_count}")
         print("Telegram preview:")
         print(format_digest(selected_items) if len(selected_items) >= min_items else format_no_items_message())
