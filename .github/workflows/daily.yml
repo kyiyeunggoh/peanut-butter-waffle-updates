@@ -3,7 +3,7 @@ name: Daily Telegram Digest
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "43 23 * * *"
 
 permissions:
   contents: write
