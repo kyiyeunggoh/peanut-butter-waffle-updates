@@ -1,8 +1,12 @@
 lookback_days: 90
 max_article_age_days: 90
+academic_research_max_article_age_days: 365
+investigative_longform_max_article_age_days: 365
 max_candidates_for_llm: 20
 min_articles_to_send: 3
 max_articles_to_send: 10
+preferred_min_articles_to_send: 5
+preferred_max_articles_to_send: 8
 min_final_quality_score: 80
 min_direct_anti_scam_items: 3
 seen_retention_days: 365

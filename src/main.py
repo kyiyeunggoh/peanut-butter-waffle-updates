@@ -54,6 +54,14 @@ MONITORED_SOURCE_QUERY_TERMS = (
     "fraud",
     "deepfake",
 )
+INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS = (
+    "scam investigation",
+    "scam compound",
+    "fraud network",
+    "phishing kit",
+    "deepfake scam",
+    "scam infrastructure",
+)
 GLOBAL_FALLBACK_QUERIES = (
     "deepfake",
     "AI fraud",
@@ -124,6 +132,16 @@ GLOBAL_FALLBACK_QUERIES = (
     "payment fraud network investigation",
 )
 SPECIFIC_PRODUCT_RADAR_QUERIES = (
+    '"Profiling User Vulnerability to Phishing Through Psychological and Behavioral Factors"',
+    '"My Parents’ Expectations Were Overwhelming" "Online Dating Romance Scams"',
+    '"My Parents" "Expectations Were Overwhelming" "Online Dating Romance Scams"',
+    '"HELLO BOSS" "deepfake" "scams"',
+    '"Inside the Chinese Realtime Deepfake Software Powering Scams Around the World"',
+    '"Deepfakes on Demand" "Fraud as a Service"',
+    '"Victim as a Service" "Interactive Scammers"',
+    '"Large-scale online deanonymization with LLMs"',
+    '"visa-exemption policy" "global scam rings"',
+    '"Chinese nationals" "cyberscam compound" Myanmar',
     '"Victim as a Service" scammers',
     '"Designing a System for Engaging with Interactive Scammers"',
     "site:arxiv.org scam victim psychology",
@@ -197,6 +215,7 @@ ALLOWED_ARTICLE_TYPES = (
     "Policy / platform update",
     "Product / developer changelog",
     "Product/company profile",
+    "Sponsored / vendor content",
     "Policy analysis",
     "Advisory / guidance",
     "Opinion / newsletter",
@@ -356,7 +375,11 @@ ENFORCEMENT_TERMS = (
     "prosecution",
     "prosecuted",
     "charged",
+    "charges",
     "seized",
+    "crackdown",
+    "sanction",
+    "sanctions",
 )
 RESEARCH_METHOD_TERMS = (
     "victim as a service",
@@ -365,6 +388,9 @@ RESEARCH_METHOD_TERMS = (
     "dataset",
     "benchmark",
     "measurement",
+    "empirical",
+    "ecosystem",
+    "advertising ecosystem",
     "system",
     "framework",
 )
@@ -391,6 +417,8 @@ DIRECT_ANTI_SCAM_TERMS = (
     "fake job",
     "fake recruiter",
     "fake officer",
+    "fake government official",
+    "fake government officials",
     "fake investment",
     "romance scam",
     "investment scam",
@@ -436,6 +464,8 @@ DIRECT_ANTI_SCAM_TERMS = (
     "bank fraud",
     "payment fraud",
     "fraud ring",
+    "scam ring",
+    "scam rings",
     "fraud syndicate",
     "law enforcement disruption",
     "scam reporting",
@@ -729,6 +759,20 @@ LOW_SIGNAL_ENTERTAINMENT_TERMS = (
     "premiere date",
     "hollywood",
 )
+FINAL_DISALLOWED_REJECTION_REASONS = {
+    "generic_research_or_technical",
+    "weak_generic_only_no_scam_anchor",
+    "generic_cybersecurity",
+    "generic_ai_security",
+    "generic_fraud_ml",
+    "irrelevant_or_adjacent",
+    "generic_enterprise_security",
+    "generic_healthcare_ai_cyber",
+    "negative_domain_context_no_scam_anchor",
+    "vendor_product_launch_no_scam_anchor",
+    "irrelevant_anti_scam_relevance",
+}
+SOFT_FINAL_REJECTION_REASONS = {"fetch_failed", "fetch_timeout"}
 TECHNICAL_TYPES = {"Technical article", "Threat intelligence report", "Official report", "Research paper"}
 DEEP_ANALYSIS_TYPES = {"Deep analysis", "Investigative report", "Research paper", "Policy analysis"}
 PLATFORM_PRODUCT_TYPES = {"Policy / platform update", "Product / developer changelog"}
@@ -932,7 +976,8 @@ def load_candidate_cache(config: dict[str, Any], require_fresh: bool = True) -> 
 
     expected_hash = fetch_config_hash(config)
     cached_hash = data.get("fetch_config_hash")
-    if cached_hash and cached_hash != expected_hash:
+    config_hash_matches = not cached_hash or cached_hash == expected_hash
+    if require_fresh and not config_hash_matches:
         return [], {
             "used_candidate_cache": False,
             "candidate_cache_age_minutes": round(age_minutes, 1),
@@ -946,6 +991,7 @@ def load_candidate_cache(config: dict[str, Any], require_fresh: bool = True) -> 
         "candidate_cache_age_minutes": round(age_minutes, 1),
         "candidate_cache_candidate_count": len(candidates),
         "fetch_config_hash": data.get("fetch_config_hash"),
+        "config_hash_matches": config_hash_matches,
         "fresh": fresh,
     }
 
@@ -1072,10 +1118,41 @@ def reference_example_queries(config: dict[str, Any]) -> list[str]:
     return queries
 
 
+def is_longform_query_text(query: str) -> bool:
+    lowered = query.lower()
+    return any(
+        term in lowered
+        for term in (
+            "404media.co",
+            "wired.com",
+            "c4ads.org",
+            "restofworld.org",
+            "graphika.com",
+            "bellingcat.com",
+            "therecord.media",
+            "krebsonsecurity.com",
+            "technologyreview.com",
+            "investigation",
+            "investigative",
+            "scam compound",
+            "fraud network",
+            "scam infrastructure",
+            "phishing kit",
+            "scam kit",
+            "cyber slavery",
+            "human trafficking",
+        )
+    )
+
+
 def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | None = None) -> list[dict[str, str]]:
     queries: list[dict[str, str]] = []
 
-    for query in SPECIFIC_PRODUCT_RADAR_QUERIES:
+    targeted_queries = sorted(
+        SPECIFIC_PRODUCT_RADAR_QUERIES,
+        key=lambda query: (0 if is_longform_query_text(query) else 1, query.lower()),
+    )
+    for query in targeted_queries:
         queries.append(
             {
                 "name": "Google News",
@@ -1098,7 +1175,12 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
     seen_source_domains: set[str] = set()
     for domain in configured_monitored_sources(config or {}):
         seen_source_domains.add(domain)
-        for term in MONITORED_SOURCE_QUERY_TERMS:
+        terms = (
+            INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS + MONITORED_SOURCE_QUERY_TERMS
+            if any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS)
+            else MONITORED_SOURCE_QUERY_TERMS
+        )
+        for term in terms:
             query = f"site:{domain} {term}"
             queries.append(
                 {
@@ -1194,6 +1276,13 @@ def parsed_date_text(item: dict[str, Any]) -> str:
     if isinstance(parsed_date, datetime):
         return parsed_date.strftime("%Y-%m-%d")
     return "missing"
+
+
+def item_age_days(item: dict[str, Any], now: datetime) -> int | None:
+    parsed_date = item.get("parsed_date")
+    if not isinstance(parsed_date, datetime):
+        return None
+    return max(0, (now - parsed_date).days)
 
 
 def is_within_lookback(
@@ -1307,7 +1396,18 @@ def fetch_reference_url_candidate(
     now = datetime.now(timezone.utc)
     if parsed_date is None and not (debug or evergreen):
         return None
-    if parsed_date is not None and not evergreen and parsed_date < now - timedelta(days=max_article_age_days):
+    recency_probe = {
+        "title": title,
+        "summary": summary,
+        "url": canonical_url,
+        "canonical_url": canonical_url,
+        "parsed_date": parsed_date,
+        "query_group": "reference_url",
+        "evergreen_reference": evergreen,
+    }
+    recency_probe["article_type"] = classify_article_type(recency_probe)
+    recency_probe["usefulness_category"] = classify_usefulness_category(recency_probe)
+    if not is_within_candidate_recency_window(recency_probe, config, now, debug, None, max_article_age_days):
         return None
 
     canonical_hash = url_hash(canonical_url)
@@ -1469,6 +1569,15 @@ def near_duplicate_reason(left: dict[str, Any], right: dict[str, Any]) -> str | 
     title_similarity = token_similarity(left_title_tokens, right_title_tokens)
     same_domain = article_domain(left) == article_domain(right)
     same_date = parsed_date_key(left) and parsed_date_key(left) == parsed_date_key(right)
+    left_story_text = f"{left.get('title', '')} {left.get('canonical_url') or left.get('url') or ''}".lower()
+    right_story_text = f"{right.get('title', '')} {right.get('canonical_url') or right.get('url') or ''}".lower()
+    if same_domain and article_domain(left).endswith("404media.co"):
+        both_deepfake_software = all(
+            "deepfake" in text and ("scam" in text or "scammer" in text or "scams" in text)
+            for text in (left_story_text, right_story_text)
+        )
+        if both_deepfake_software and any(marker in f"{left_story_text} {right_story_text}" for marker in ("hello boss", "podcast", "chinese realtime")):
+            return "same_longform_investigation_prefer_full_article"
     if same_domain and same_date and title_similarity >= 0.55:
         return f"same_domain_date_title_similarity:{title_similarity:.2f}"
 
@@ -1514,6 +1623,8 @@ def article_domain(item: dict[str, Any]) -> str:
 
 
 def suggests_product_announcement(text: str) -> bool:
+    if any(term in text for term in ("crackdown", "sanction", "sanctions", "charged", "arrest", "arrested", "raid", "raids")):
+        return False
     direct_terms = ("launches", "announces", "partners with", "unveils", "introduces tool", "new product", "opens beta")
     if any(term in text for term in direct_terms):
         return True
@@ -1526,11 +1637,20 @@ def suggests_product_announcement(text: str) -> bool:
     )
 
 
+def is_sponsored_vendor_content_signal(item: dict[str, Any]) -> bool:
+    url = str(item.get("canonical_url") or item.get("url") or item.get("original_url") or "").lower()
+    text = f"{item.get('title', '')} {item.get('source', '')} {url}".lower()
+    return any(marker in text for marker in ("sponsor", "sponsored", "partner content", "/sponsor/"))
+
+
 def classify_article_type(item: dict[str, Any]) -> str:
     domain = article_domain(item)
     source = item.get("source", "").lower()
     title = item.get("title", "").lower()
     haystack = f"{title} {source}"
+
+    if is_sponsored_vendor_content_signal(item):
+        return "Sponsored / vendor content"
 
     if any(domain.endswith(host) for host in ("developers.cloudflare.com", "cloudflare.com")) and any(
         term in haystack for term in PRODUCT_DATA_SOURCE_TERMS
@@ -1610,6 +1730,11 @@ def classify_article_type(item: dict[str, Any]) -> str:
             return "Policy / platform update"
         return "Technical article"
 
+    if any(term in haystack for term in ("visa-exemption", "visa exemption", "scam ring", "scam rings", "syndicate")) and any(
+        term in haystack for term in ("malaysia", "myanmar", "cambodia", "southeast asia", "transnational")
+    ):
+        return "News report"
+
     if any(term in haystack for term in ("reverse engineered", "vulnerability", "exploit", "bypass", "watermarking", "prompt injection")):
         return "Technical article"
 
@@ -1678,17 +1803,57 @@ def classify_usefulness_category(item: dict[str, Any]) -> str:
         if any(term in haystack for term in ("api", "dataset", "architecture", "detection method", "data source", "platform")):
             return "Product idea / data source"
         return "General context"
+    if article_type == "Sponsored / vendor content":
+        if any(term in haystack for term in ("fraud as a service", "faas", "deepfakes on demand", "deepfake", "phishing kit", "scam kit", "identity fraud")):
+            return "Technical abuse / vulnerability"
+        if any(term in haystack for term in PRODUCT_DATA_SOURCE_TERMS):
+            return "Product idea / data source"
+        if any(term in haystack for term in ("scam", "fraud", "phishing", "synthetic identity", "impersonation")):
+            return "Scam development"
+        return "General context"
     if any(term in haystack for term in ("deepfake scam", "voice cloning scam", "voice clone", "synthetic identity fraud", "impersonation scam")) or (
         "deepfake" in haystack and any(term in haystack for term in ("scam", "scams", "fraud"))
     ):
         return "Deepfakes, synthetic identity & impersonation"
+    if any(
+        term in haystack
+        for term in (
+            "visa-exemption",
+            "visa exemption",
+            "scam ring",
+            "scam rings",
+            "syndicate",
+            "fake government official",
+            "fake government officials",
+        )
+    ) and any(term in haystack for term in ("malaysia", "myanmar", "cambodia", "southeast asia", "transnational")):
+        return "Operational intelligence"
     if any(term in haystack for term in ("reverse engineered", "vulnerability", "exploit", "bypass", "watermarking", "prompt injection", "rootkit", "scam kit", "attack tooling")):
         return "Technical abuse / vulnerability"
     if any(term in haystack for term in PRODUCT_DATA_SOURCE_TERMS):
         return "Product idea / data source"
     if article_type in {"Technical article", "Threat intelligence report"}:
         return "Detection / analytics / engineering insight"
-    if any(term in haystack for term in ("hotline", "hot line", "compound", "trafficking", "infrastructure", "operation", "network", "call routing")):
+    if any(
+        term in haystack
+        for term in (
+            "hotline",
+            "hot line",
+            "compound",
+            "trafficking",
+            "infrastructure",
+            "operation",
+            "network",
+            "call routing",
+            "visa-exemption",
+            "visa exemption",
+            "scam ring",
+            "scam rings",
+            "syndicate",
+            "fake government official",
+            "fake government officials",
+        )
+    ):
         return "Operational intelligence"
     if any(term in haystack for term in LOCAL_SEA_TERMS):
         return "Local Singapore / Southeast Asia relevance"
@@ -2090,6 +2255,42 @@ def item_domain_matches(item: dict[str, Any], domains: tuple[str, ...]) -> bool:
     return any(domain == host or domain.endswith(f".{host}") for host in domains)
 
 
+def is_sponsored_vendor_item(item: dict[str, Any]) -> bool:
+    return item.get("article_type", classify_article_type(item)) in {"Sponsored / vendor content", "Vendor blog"} or bool(
+        item.get("press_release_or_sponsored")
+    )
+
+
+def is_relevant_sponsored_vendor_item(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return is_sponsored_vendor_item(item) and (
+        usefulness_category
+        in {
+            "Technical abuse / vulnerability",
+            "Scam development",
+            "Product idea / data source",
+            "Detection / analytics / engineering insight",
+        }
+        or any(
+            term in text
+            for term in (
+                "fraud as a service",
+                "faas",
+                "deepfakes on demand",
+                "deepfake abuse",
+                "scam infrastructure",
+                "scam methods",
+                "phishing kit",
+                "scam kit",
+                "identity fraud",
+                "synthetic identity",
+                "platform abuse",
+            )
+        )
+    )
+
+
 def is_psychology_item(item: dict[str, Any]) -> bool:
     text = candidate_relevance_text(item)
     return any(
@@ -2112,6 +2313,9 @@ def is_psychology_item(item: dict[str, Any]) -> bool:
             "social engineering",
             "scammer victim conversation",
             "scam conversation",
+            "parental pressure",
+            "expectations were overwhelming",
+            "online dating romance scams",
         )
     )
 
@@ -2191,6 +2395,46 @@ def is_modus_infrastructure_item(item: dict[str, Any]) -> bool:
     )
 
 
+def is_sea_operational_intelligence_item(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    return is_local_sea_item(item) and any(
+        term in text
+        for term in (
+            "scam compound",
+            "compound",
+            "scam ring",
+            "scam rings",
+            "syndicate",
+            "visa-exemption",
+            "visa exemption",
+            "policy abuse",
+            "travel policy",
+            "mule",
+            "call centre",
+            "call center",
+            "fake government official",
+            "fake government officials",
+            "fake officer",
+            "impersonation",
+            "cross-border",
+            "transnational",
+            "trafficking",
+            "cyber slavery",
+            "myanmar",
+            "cambodia",
+            "malaysia",
+        )
+    )
+
+
+def is_podcast_video_or_summary_item(item: dict[str, Any]) -> bool:
+    text = candidate_signal_text(item)
+    url = str(item.get("canonical_url") or item.get("url") or "").lower()
+    return any(term in text for term in ("podcast", "video", "watch ", "summary", "roundup")) or any(
+        marker in url for marker in ("/podcast", "/video", "/watch/")
+    )
+
+
 def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> int:
     now = datetime.now(timezone.utc)
     quality_score = int(candidate.get("original_score", score_item(candidate, now)))
@@ -2203,6 +2447,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     reputation = source_reputation(candidate, config)
     haystack = f"{candidate.get('title', '')} {candidate.get('source', '')}".lower()
     domain = article_domain(candidate)
+
+    quality_score += category_recency_adjustment(candidate, config, now)
 
     usefulness_boosts = {
         "Research / novel method": 75,
@@ -2238,6 +2484,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score += 85
     if is_modus_infrastructure_item(candidate):
         quality_score += 80
+    if is_sea_operational_intelligence_item(candidate):
+        quality_score += 60
     if is_platform_product_item(candidate):
         quality_score += 65
     if is_modus_infrastructure_item(candidate) and not is_local_sea_item(candidate):
@@ -2277,6 +2525,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score += 10
     if article_type in {"Investigative report", "Deep analysis", "Policy analysis", "Technical article"}:
         quality_score += 8
+    if article_type == "Sponsored / vendor content" and is_relevant_sponsored_vendor_item(candidate):
+        quality_score += 25
     if isinstance(word_count, int):
         if word_count >= 1500:
             quality_score += 20
@@ -2299,6 +2549,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score -= 40
     if article_type == "Vendor blog":
         quality_score -= 20
+    if article_type == "Sponsored / vendor content":
+        quality_score -= 20
     if article_type == "Product/company profile":
         quality_score -= 55
     if article_type == "Opinion / newsletter" and reputation != "high":
@@ -2306,7 +2558,7 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     if suggests_product_announcement(haystack) and usefulness_category not in {"Platform policy / product change", "Product idea / data source"}:
         quality_score -= 35
     if candidate.get("press_release_or_sponsored") or "press release" in haystack or "sponsored" in haystack or "partner content" in haystack:
-        quality_score -= 30
+        quality_score -= 10 if is_relevant_sponsored_vendor_item(candidate) else 45
     if any(term in haystack for term in LOW_SIGNAL_ENTERTAINMENT_TERMS):
         quality_score -= 35
     if "ai scams are rising" in haystack or "ai scam are rising" in haystack:
@@ -2335,6 +2587,8 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
     usefulness_category = candidate.get("usefulness_category", classify_usefulness_category(candidate))
     title_context = candidate_relevance_text(candidate)
     direct_title_terms = terms_found(title_context, RESEARCH_DIRECT_TITLE_TERMS)
+    if not is_within_candidate_recency_window(candidate, config, datetime.now(timezone.utc), False):
+        return "outdated_article"
     if candidate.get("hard_rejected"):
         return candidate.get("hard_rejection_reason") or "hard_rejected"
     if anti_scam_relevance == "irrelevant":
@@ -2379,9 +2633,9 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         return "thin_article"
     if candidate.get("salesy_vendor_pitch"):
         return "salesy_vendor_pitch"
-    if candidate.get("press_release_or_sponsored") and not is_high_reputation_source(candidate, config):
+    if candidate.get("press_release_or_sponsored") and not is_high_reputation_source(candidate, config) and not is_relevant_sponsored_vendor_item(candidate):
         return "press_release_or_sponsored"
-    if article_type == "Vendor blog" and int(candidate.get("quality_score", 0)) < 20:
+    if article_type in {"Vendor blog", "Sponsored / vendor content"} and int(candidate.get("quality_score", 0)) < 20:
         return "low_quality_vendor_blog"
     if is_vendor_or_low_priority_source(candidate, config) and isinstance(word_count, int) and word_count < 800 and not high_rep_paywalled:
         return "low_priority_thin_article"
@@ -2423,6 +2677,8 @@ def apply_quality_filters(
         if rejection_reason:
             candidate["rejection_reason"] = rejection_reason
             candidate["quality_rejected"] = True
+            if not soft_final_rejection_allowed(candidate, config):
+                candidate["quality_score"] = -999
             stats["quality_rejected_candidate_count"] = stats.get("quality_rejected_candidate_count", 0) + 1
             if rejection_reason == "fetch_failed":
                 stats["rejected_fetch_failed_count"] = stats.get("rejected_fetch_failed_count", 0) + 1
@@ -2449,8 +2705,16 @@ def apply_quality_filters(
                 candidate["rejection_reason"] = None
             else:
                 candidate["rejection_reason"] = candidate.get("rejection_reason")
-            candidate["quality_rejected"] = False
-            accepted.append(candidate)
+            final_reason = final_ineligibility_reason(candidate, config, allow_adjacent=True)
+            if final_reason:
+                candidate["final_ineligibility_reason"] = final_reason
+                candidate["rejection_reason"] = final_reason
+                candidate["quality_rejected"] = True
+                candidate["quality_score"] = -999
+                stats["quality_rejected_candidate_count"] = stats.get("quality_rejected_candidate_count", 0) + 1
+            else:
+                candidate["quality_rejected"] = False
+                accepted.append(candidate)
 
         quality_ranked.append(candidate)
 
@@ -2514,6 +2778,8 @@ def is_local_sea_item(item: dict[str, Any]) -> bool:
 
 
 def is_local_current_affairs_item(item: dict[str, Any]) -> bool:
+    if is_sea_operational_intelligence_item(item):
+        return False
     return is_local_sea_item(item) and item.get("article_type", classify_article_type(item)) in {
         "News report",
         "Enforcement report",
@@ -2542,15 +2808,70 @@ def is_research_psychology_item(item: dict[str, Any]) -> bool:
 def is_longform_investigative_item(item: dict[str, Any]) -> bool:
     article_type = item.get("article_type", classify_article_type(item))
     usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
-    return article_type in {"Investigative report", "Deep analysis", "Policy analysis"} or (
+    text = candidate_signal_text(item)
+    scam_anchors = (
+        "scam",
+        "fraud",
+        "phishing",
+        "impersonation",
+        "deepfake scam",
+        "voice clone",
+        "synthetic identity",
+        "mule",
+        "scam compound",
+        "scam farm",
+        "call centre",
+        "call center",
+        "cyber slavery",
+        "pig butchering",
+        "romance scam",
+        "investment scam",
+        "fake job",
+        "fake ad",
+        "fake website",
+        "scammer",
+        "victim",
+        "social engineering",
+    )
+    operational_markers = (
+        "network",
+        "infrastructure",
+        "syndicate",
+        "compound",
+        "operation",
+        "modus operandi",
+        "playbook",
+        "platform abuse",
+        "enforcement",
+        "investigation",
+        "victim journey",
+        "payments",
+        "mule",
+        "sim",
+        "voip",
+        "phishing kit",
+        "scam kit",
+        "data source",
+        "detection",
+        "intervention",
+    )
+    has_investigative_shape = article_type in {"Investigative report", "Deep analysis", "Policy analysis"} or (
         usefulness_category != "General context"
         and is_investigative_or_operational_item(item)
         and item_domain_matches(item, HIGH_VALUE_INVESTIGATIVE_DOMAINS)
     )
+    return has_investigative_shape and any(term in text for term in scam_anchors) and any(
+        term in text for term in operational_markers
+    )
 
 
 def is_technical_platform_product_item(item: dict[str, Any]) -> bool:
-    return is_technical_item(item) or is_platform_product_item(item)
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return is_technical_item(item) or is_platform_product_item(item) or usefulness_category in {
+        "Technical abuse / vulnerability",
+        "Detection / analytics / engineering insight",
+        "Product idea / data source",
+    }
 
 
 def is_high_value_domain_item(item: dict[str, Any]) -> bool:
@@ -2615,8 +2936,109 @@ def is_research_item(item: dict[str, Any]) -> bool:
     return item.get("article_type", classify_article_type(item)) == "Research paper"
 
 
+def is_research_or_product_idea_item(item: dict[str, Any]) -> bool:
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return is_research_item(item) or usefulness_category == "Product idea / data source"
+
+
+def is_exceptional_research_item(item: dict[str, Any]) -> bool:
+    if not is_research_item(item):
+        return False
+    if item.get("anti_scam_relevance") != "direct":
+        return False
+    text = candidate_signal_text(item)
+    exceptional_markers = (
+        "victim as a service",
+        "interactive scammers",
+        "scam victim",
+        "victim psychology",
+        "persuasion",
+        "grooming",
+        "harmful persuasion",
+        "romance scam",
+        "pig butchering",
+        "scammer victim conversation",
+        "scam detection",
+        "scam intervention",
+        "fraud as a service",
+        "deepfake scam",
+        "voice clone",
+        "synthetic identity fraud",
+    )
+    return (
+        int(item.get("quality_score") or 0) >= 450
+        and int(item.get("research_relevance_score") or 0) >= 55
+        and (is_psychology_item(item) or any(marker in text for marker in exceptional_markers))
+    )
+
+
+def is_non_academic_longform_operational_item(item: dict[str, Any]) -> bool:
+    if is_research_item(item):
+        return False
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return (
+        is_longform_investigative_item(item)
+        or usefulness_category == "Operational intelligence"
+        or article_type in {"Investigative report", "Deep analysis"}
+    )
+
+
+def soft_final_rejection_allowed(item: dict[str, Any], config: dict[str, Any] | None = None) -> bool:
+    reason = item.get("rejection_reason")
+    if reason not in SOFT_FINAL_REJECTION_REASONS:
+        return False
+    return not config or is_high_reputation_source(item, config)
+
+
+def final_ineligibility_reason(
+    item: dict[str, Any],
+    config: dict[str, Any] | None = None,
+    *,
+    allow_adjacent: bool = False,
+) -> str | None:
+    item = corrected_final_item(item)
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    relevance = item.get("anti_scam_relevance", "weak")
+    rejection_reason = item.get("rejection_reason")
+    if item.get("hard_rejected"):
+        return item.get("hard_rejection_reason") or "hard_rejected"
+    if rejection_reason:
+        if rejection_reason in FINAL_DISALLOWED_REJECTION_REASONS:
+            return rejection_reason
+        if not soft_final_rejection_allowed(item, config):
+            return rejection_reason
+    if usefulness_category == "General context":
+        return "general_context"
+    if article_type == "Other":
+        return "other_article_type"
+    if config and is_vendor_or_low_priority_source(item, config) and is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
+        return "low_quality_vendor_spam"
+    if relevance == "direct":
+        return None
+    if allow_adjacent and relevance == "adjacent" and usefulness_category in {
+        "Platform policy / product change",
+        "Operational intelligence",
+        "Technical abuse / vulnerability",
+        "Product idea / data source",
+    }:
+        return None
+    return f"{relevance}_anti_scam_relevance"
+
+
+def is_strict_final_eligible(item: dict[str, Any], config: dict[str, Any] | None = None) -> bool:
+    return final_ineligibility_reason(item, config, allow_adjacent=False) is None
+
+
+def is_relaxed_final_eligible(item: dict[str, Any], config: dict[str, Any] | None = None) -> bool:
+    return final_ineligibility_reason(item, config, allow_adjacent=True) is None
+
+
 def is_final_allowed_relevance(item: dict[str, Any]) -> bool:
     relevance = item.get("anti_scam_relevance", "weak")
+    if is_relevant_sponsored_vendor_item(item):
+        return item.get("anti_scam_relevance") in {"direct", "adjacent"} or bool(item.get("strong_scam_anchor_terms_found"))
     if relevance == "direct":
         return True
     if relevance == "adjacent":
@@ -2633,6 +3055,10 @@ def corrected_final_item(item: dict[str, Any]) -> dict[str, Any]:
     corrected = dict(item)
     title_text = candidate_relevance_text(corrected)
     article_type = corrected.get("article_type", classify_article_type(corrected))
+    if is_sponsored_vendor_content_signal(corrected):
+        corrected["article_type"] = "Sponsored / vendor content"
+        if corrected.get("usefulness_category") == "General context":
+            corrected["usefulness_category"] = classify_usefulness_category(corrected)
     if article_type == "Technical article" and any(term in title_text for term in ENFORCEMENT_TERMS):
         technical_markers = (
             "phishing kit",
@@ -2649,6 +3075,12 @@ def corrected_final_item(item: dict[str, Any]) -> dict[str, Any]:
             corrected["article_type"] = "Enforcement report"
             if corrected.get("usefulness_category") == "Technical abuse / vulnerability":
                 corrected["usefulness_category"] = "Scam development"
+    if "visa" in title_text and "scam" in title_text and any(term in title_text for term in ("ring", "rings", "syndicate", "policy", "exemption")):
+        corrected["usefulness_category"] = "Operational intelligence"
+    if "fake" in title_text and any(term in title_text for term in ("government official", "government officials", "officer")):
+        corrected["article_type"] = "Enforcement report"
+        if corrected.get("usefulness_category") == "General context":
+            corrected["usefulness_category"] = "Scam development"
     return corrected
 
 
@@ -2664,18 +3096,26 @@ def final_selection_score(item: dict[str, Any]) -> int:
         score += 85
     if is_modus_infrastructure_item(item):
         score += 80
+    if is_sea_operational_intelligence_item(item):
+        score += 60
     if is_platform_product_item(item):
         score += 65
     if is_high_value_product_radar_item(item):
         score += 45
     if is_local_sea_item(item):
         score += 35
+    if is_relevant_sponsored_vendor_item(item):
+        score += 25
     if item.get("article_type", classify_article_type(item)) == "Enforcement report":
         score -= 20
     if is_company_profile_item(item):
         score -= 70
     if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
         score -= 15
+    if is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
+        score -= 80
+    if is_podcast_video_or_summary_item(item):
+        score -= 45
     return score
 
 
@@ -2753,7 +3193,7 @@ def dedupe_near_duplicates(
 ) -> list[dict[str, Any]]:
     ordered = sorted(
         items,
-        key=lambda item: (int(item.get("quality_score") or 0), int(item.get("original_score") or 0), item.get("title", "")),
+        key=lambda item: (final_selection_score(item), int(item.get("quality_score") or 0), int(item.get("original_score") or 0), item.get("title", "")),
         reverse=True,
     )
     kept: list[dict[str, Any]] = []
@@ -2769,6 +3209,9 @@ def dedupe_near_duplicates(
                 break
         if duplicate_of:
             removed_count += 1
+            if duplicate_reason == "same_longform_investigation_prefer_full_article":
+                if stats is not None:
+                    stats["duplicate_podcast_or_summary_removed_count"] = stats.get("duplicate_podcast_or_summary_removed_count", 0) + 1
             if len(removed_examples) < examples_limit:
                 removed_examples.append(
                     {
@@ -2812,7 +3255,7 @@ def build_quality_shortlist(
         if not item.get("quality_rejected")
         and not item.get("hard_rejected")
         and not item.get("rejection_reason")
-        and is_final_allowed_relevance(item)
+        and is_strict_final_eligible(item, config)
     ]
     pool = sorted(pool, key=final_selection_score, reverse=True)
     shortlist: list[dict[str, Any]] = []
@@ -2821,6 +3264,7 @@ def build_quality_shortlist(
     local_total_count = 0
     plain_news_count = 0
     company_profile_count = 0
+    sponsored_vendor_count = 0
 
     def can_add(item: dict[str, Any], *, strict: bool = True) -> bool:
         if item in shortlist:
@@ -2835,7 +3279,8 @@ def build_quality_shortlist(
             domain_limit = max(domain_limit, 3)
         if domain_counts.get(domain, 0) >= domain_limit:
             return False
-        if is_local_sea_item(item) and local_total_count >= 2:
+        local_limit = 3 if is_sea_operational_intelligence_item(item) else 2
+        if is_local_sea_item(item) and local_total_count >= local_limit:
             return False
         if is_local_current_affairs_item(item) and local_current_affairs_count >= 2:
             return False
@@ -2843,10 +3288,14 @@ def build_quality_shortlist(
             return False
         if is_company_profile_item(item) and company_profile_count >= 1:
             return False
+        if is_sponsored_vendor_item(item) and sponsored_vendor_count >= 1:
+            return False
+        if is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
+            return False
         return True
 
     def add_item(item: dict[str, Any]) -> None:
-        nonlocal local_current_affairs_count, local_total_count, plain_news_count, company_profile_count
+        nonlocal local_current_affairs_count, local_total_count, plain_news_count, company_profile_count, sponsored_vendor_count
         shortlist.append(item)
         domain = article_domain(item)
         domain_counts[domain] = domain_counts.get(domain, 0) + 1
@@ -2858,6 +3307,8 @@ def build_quality_shortlist(
             plain_news_count += 1
         if is_company_profile_item(item):
             company_profile_count += 1
+        if is_sponsored_vendor_item(item):
+            sponsored_vendor_count += 1
 
     def add_bucket(predicate: Any, target: int, *, strict: bool = True) -> None:
         added = 0
@@ -2868,10 +3319,11 @@ def build_quality_shortlist(
                 add_item(item)
                 added += 1
 
-    add_bucket(is_research_psychology_item, 3)
+    add_bucket(is_non_academic_longform_operational_item, 4)
     add_bucket(is_longform_investigative_item, 3)
     add_bucket(lambda item: is_modus_infrastructure_item(item) or item.get("usefulness_category") == "Operational intelligence", 3)
     add_bucket(is_technical_platform_product_item, 3)
+    add_bucket(is_research_psychology_item, 2)
     add_bucket(is_local_sea_item, 2)
 
     for item in pool:
@@ -2883,12 +3335,13 @@ def build_quality_shortlist(
     return dedupe_final_items(shortlist)[:shortlist_count]
 
 
-def eligible_for_shortlist(item: dict[str, Any]) -> bool:
+def eligible_for_shortlist(item: dict[str, Any], config: dict[str, Any] | None = None, *, relaxed: bool = False) -> bool:
+    final_eligible = is_relaxed_final_eligible(item, config) if relaxed else is_strict_final_eligible(item, config)
     return (
         not item.get("quality_rejected")
         and not item.get("hard_rejected")
-        and not item.get("rejection_reason")
-        and is_final_allowed_relevance(item)
+        and (not item.get("rejection_reason") or soft_final_rejection_allowed(item, config))
+        and final_eligible
     )
 
 
@@ -2896,11 +3349,15 @@ def candidate_identity(item: dict[str, Any]) -> str:
     return canonicalize_url_text(item.get("canonical_url") or item.get("url") or item.get("original_url") or item.get("id", ""))
 
 
-def identify_must_include_candidates(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
-    pool = sorted((item for item in items if eligible_for_shortlist(item)), key=final_selection_score, reverse=True)
+def identify_must_include_candidates(items: list[dict[str, Any]], config: dict[str, Any]) -> list[dict[str, Any]]:
+    pool = sorted((item for item in items if eligible_for_shortlist(item, config)), key=final_selection_score, reverse=True)
     chosen: list[dict[str, Any]] = []
     chosen_keys: set[str] = set()
     buckets: list[tuple[Any, str]] = [
+        (
+            is_non_academic_longform_operational_item,
+            "Best available non-academic longform / investigative / operational-intelligence item",
+        ),
         (is_research_psychology_item, "Best available directly relevant research / psychology / victimology item"),
         (is_longform_investigative_item, "Best available longform investigative / deep analysis item"),
         (
@@ -2979,10 +3436,11 @@ def build_pre_gemini_shortlist(
 ) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
     deduped_candidates = dedupe_near_duplicates(ranked_candidates, stats, "pre_gemini")
     shortlist = build_quality_shortlist(deduped_candidates, shortlist_count, config)
-    must_include = identify_must_include_candidates(deduped_candidates)
+    must_include = identify_must_include_candidates(deduped_candidates, config)
     shortlist = ensure_must_include_in_shortlist(shortlist, must_include, shortlist_count)
     category_predicates: dict[str, Any] = {
         "research_psychology": is_research_psychology_item,
+        "non_academic_longform_operational": is_non_academic_longform_operational_item,
         "longform_investigative": is_longform_investigative_item,
         "modus_infrastructure": lambda item: is_modus_infrastructure_item(item) or item.get("usefulness_category") == "Operational intelligence",
         "technical_platform_product": is_technical_platform_product_item,
@@ -2993,10 +3451,13 @@ def build_pre_gemini_shortlist(
         for name, predicate in category_predicates.items()
     }
     stats["category_candidate_available_counts"] = {
-        name: sum(1 for item in deduped_candidates if eligible_for_shortlist(item) and predicate(item))
+        name: sum(1 for item in deduped_candidates if eligible_for_shortlist(item, config) and predicate(item))
         for name, predicate in category_predicates.items()
     }
     stats["research_candidates_available_count"] = stats["category_candidate_available_counts"].get("research_psychology", 0)
+    stats["non_academic_longform_operational_candidates_available_count"] = stats["category_candidate_available_counts"].get(
+        "non_academic_longform_operational", 0
+    )
     stats["longform_investigative_candidates_available_count"] = stats["category_candidate_available_counts"].get("longform_investigative", 0)
     stats["must_include_candidates"] = [
         {
@@ -3043,7 +3504,7 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
     eligible_items = [
         item
         for item in items
-        if is_final_allowed_relevance(item) and int(item.get("quality_score") or 0) >= min_quality_score
+        if is_strict_final_eligible(item, config) and int(item.get("quality_score") or 0) >= min_quality_score
     ]
     items = sorted(dedupe_final_items(eligible_items), key=final_selection_score, reverse=True)
     selected: list[dict[str, Any]] = []
@@ -3059,11 +3520,12 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         if strict:
             if is_local_current_affairs_item(item) and sum(1 for selected_item in selected if is_local_current_affairs_item(selected_item)) >= 1:
                 return False
-            if is_local_sea_item(item) and sum(1 for selected_item in selected if is_local_sea_item(selected_item)) >= 2:
+            local_limit = 3 if is_sea_operational_intelligence_item(item) else 2
+            if is_local_sea_item(item) and sum(1 for selected_item in selected if is_local_sea_item(selected_item)) >= local_limit:
                 return False
             if article_type == "Enforcement report" and sum(
                 1 for selected_item in selected if selected_item.get("article_type", classify_article_type(selected_item)) == "Enforcement report"
-            ) >= 1:
+            ) >= 2:
                 return False
             if (
                 is_plain_news_item(item)
@@ -3072,6 +3534,16 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             ):
                 return False
             if is_company_profile_item(item) and sum(1 for selected_item in selected if is_company_profile_item(selected_item)) >= 1:
+                return False
+            if is_sponsored_vendor_item(item) and sum(1 for selected_item in selected if is_sponsored_vendor_item(selected_item)) >= 1:
+                return False
+            if is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
+                return False
+            if (
+                is_research_item(item)
+                and sum(1 for selected_item in selected if is_research_item(selected_item)) >= 2
+                and not is_exceptional_research_item(item)
+            ):
                 return False
             if sum(1 for selected_item in selected if article_domain(selected_item) == domain) >= 2:
                 return False
@@ -3084,9 +3556,10 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         if match:
             selected.append(match)
 
+    add_match(is_non_academic_longform_operational_item)
     add_match(is_psychology_item)
-    add_match(is_direct_research_item)
     add_match(is_investigative_or_operational_item)
+    add_match(is_direct_research_item)
     add_match(is_platform_product_item)
     add_match(is_modus_infrastructure_item)
     add_match(is_technical_item)
@@ -3104,6 +3577,8 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
     local_current_affairs_count = sum(1 for item in selected if is_local_current_affairs_item(item))
     local_total_count = sum(1 for item in selected if is_local_sea_item(item))
     company_profile_count = sum(1 for item in selected if is_company_profile_item(item))
+    sponsored_vendor_count = sum(1 for item in selected if is_sponsored_vendor_item(item))
+    research_product_count = sum(1 for item in selected if is_research_or_product_idea_item(item))
     source_domain_counts: dict[str, int] = {}
     for item in selected:
         domain = article_domain(item)
@@ -3124,7 +3599,7 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         domain = article_domain(item)
         if not can_add(item, strict=True):
             continue
-        if usefulness_category == "General context" and len(selected) >= min_items:
+        if usefulness_category == "General context":
             continue
         if article_type == "Vendor blog":
             if vendor_count >= max_vendor_items or usefulness_category not in {
@@ -3134,23 +3609,24 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             }:
                 continue
         if is_research_item(item) and research_count >= 2:
-            exceptional_direct_research = (
-                item.get("anti_scam_relevance") == "direct"
-                and int(item.get("research_relevance_score") or 0) >= 55
-                and int(item.get("quality_score") or 0) >= 120
-            )
-            if not exceptional_direct_research:
+            if not is_exceptional_research_item(item):
                 continue
+        if is_research_or_product_idea_item(item) and research_product_count >= 2 and len(selected) < 5:
+            continue
         if is_plain_news_item(item) and not is_high_value_product_radar_item(item) and plain_news_count >= 2:
             continue
         if article_type == "Enforcement report":
-            if enforcement_count >= 1:
+            if enforcement_count >= 2:
                 continue
         if is_local_current_affairs_item(item):
             if local_current_affairs_count >= 1:
                 continue
         if is_local_sea_item(item):
-            if local_total_count >= 2:
+            local_limit = 3 if is_sea_operational_intelligence_item(item) else 2
+            if local_total_count >= local_limit:
+                continue
+        if is_sponsored_vendor_item(item):
+            if sponsored_vendor_count >= 1 or not is_relevant_sponsored_vendor_item(item):
                 continue
         if is_company_profile_item(item):
             if company_profile_count >= 1:
@@ -3162,6 +3638,8 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             vendor_count += 1
         if is_research_item(item):
             research_count += 1
+        if is_research_or_product_idea_item(item):
+            research_product_count += 1
         if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
             plain_news_count += 1
         if article_type == "Enforcement report":
@@ -3172,6 +3650,8 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             local_total_count += 1
         if is_company_profile_item(item):
             company_profile_count += 1
+        if is_sponsored_vendor_item(item):
+            sponsored_vendor_count += 1
         if article_type == "Advisory / guidance" and usefulness_category == "General context":
             if generic_advisory_count >= 1:
                 continue
@@ -3183,18 +3663,46 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
     return dedupe_final_items(selected)[:max_items]
 
 
+def research_cap_exceeded(items: list[dict[str, Any]]) -> bool:
+    research_items = [item for item in items if is_research_item(item)]
+    if len(research_items) <= 2:
+        return False
+    return any(not is_exceptional_research_item(item) for item in research_items)
+
+
+def short_research_product_cap_exceeded(items: list[dict[str, Any]]) -> bool:
+    return 3 <= len(items) <= 5 and sum(1 for item in items if is_research_or_product_idea_item(item)) > 2
+
+
 def final_cap_failures(items: list[dict[str, Any]]) -> list[str]:
     failures: list[str] = []
+    if any(final_ineligibility_reason(item) for item in items):
+        failures.append("contains_final_ineligible_items")
+    if any(item.get("usefulness_category", classify_usefulness_category(item)) == "General context" for item in items):
+        failures.append("contains_general_context")
+    if any(item.get("anti_scam_relevance") == "weak" for item in items):
+        failures.append("contains_weak_anti_scam_relevance")
+    if any(item.get("rejection_reason") for item in items):
+        failures.append("contains_rejected_items")
     if sum(1 for item in items if is_local_current_affairs_item(item)) > 1:
         failures.append("too_many_singapore_current_affairs")
-    if sum(1 for item in items if is_local_sea_item(item)) > 2:
+    if sum(1 for item in items if is_local_sea_item(item)) > 3 or (
+        sum(1 for item in items if is_local_sea_item(item)) > 2
+        and not any(is_sea_operational_intelligence_item(item) for item in items if is_local_sea_item(item))
+    ):
         failures.append("too_many_singapore_sea_items")
-    if sum(1 for item in items if item.get("article_type", classify_article_type(item)) == "Enforcement report") > 1:
+    if sum(1 for item in items if item.get("article_type", classify_article_type(item)) == "Enforcement report") > 2:
         failures.append("too_many_enforcement_reports")
     if sum(1 for item in items if is_plain_news_item(item) and not is_high_value_product_radar_item(item)) > 2:
         failures.append("too_many_plain_news_reports")
     if sum(1 for item in items if is_company_profile_item(item)) > 1:
         failures.append("too_many_company_profiles")
+    if sum(1 for item in items if is_sponsored_vendor_item(item)) > 1:
+        failures.append("too_many_sponsored_vendor_items")
+    if research_cap_exceeded(items):
+        failures.append("too_many_research_items")
+    if short_research_product_cap_exceeded(items):
+        failures.append("too_many_research_or_product_idea_items_for_short_digest")
     if any(count > 2 for count in source_domain_distribution(items).values()):
         failures.append("too_many_from_same_source_domain")
     return failures
@@ -3204,10 +3712,20 @@ def removal_score(item: dict[str, Any]) -> int:
     score = final_selection_score(item)
     if item.get("must_include_if_available"):
         score += 500
-    if is_research_psychology_item(item) or is_longform_investigative_item(item):
-        score += 250
+    if is_non_academic_longform_operational_item(item):
+        score += 320
+    elif is_longform_investigative_item(item):
+        score += 280
+    elif is_research_psychology_item(item):
+        score += 170 if is_exceptional_research_item(item) else 110
     if is_modus_infrastructure_item(item) or is_technical_platform_product_item(item):
         score += 150
+    if is_sea_operational_intelligence_item(item):
+        score += 120
+    if is_relevant_sponsored_vendor_item(item):
+        score += 40
+    if is_podcast_video_or_summary_item(item):
+        score -= 220
     if is_company_profile_item(item):
         score -= 160
     if is_local_current_affairs_item(item):
@@ -3216,6 +3734,10 @@ def removal_score(item: dict[str, Any]) -> int:
         score -= 120
     if is_plain_news_item(item) and not is_high_value_product_radar_item(item):
         score -= 80
+    if is_sponsored_vendor_item(item):
+        score -= 80 if is_relevant_sponsored_vendor_item(item) else 180
+    if is_research_or_product_idea_item(item) and not is_exceptional_research_item(item):
+        score -= 40
     return score
 
 
@@ -3262,10 +3784,12 @@ def trim_final_caps(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], 
     removed: list[dict[str, Any]] = []
     cap_rules: list[tuple[Any, int]] = [
         (is_local_current_affairs_item, 1),
-        (is_local_sea_item, 2),
-        (lambda item: item.get("article_type", classify_article_type(item)) == "Enforcement report", 1),
+        (lambda item: is_local_sea_item(item) and not is_sea_operational_intelligence_item(item), 2),
+        (is_local_sea_item, 3),
+        (lambda item: item.get("article_type", classify_article_type(item)) == "Enforcement report", 2),
         (lambda item: is_plain_news_item(item) and not is_high_value_product_radar_item(item), 2),
         (is_company_profile_item, 1),
+        (is_sponsored_vendor_item, 1),
     ]
     for predicate, limit in cap_rules:
         while sum(1 for item in trimmed if predicate(item)) > limit:
@@ -3273,6 +3797,21 @@ def trim_final_caps(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], 
             if removed_item is None:
                 break
             removed.append(removed_item)
+
+    while research_cap_exceeded(trimmed):
+        trimmed, removed_item = remove_weakest_item(
+            trimmed,
+            predicate=lambda item: is_research_item(item) and not is_exceptional_research_item(item),
+        )
+        if removed_item is None:
+            break
+        removed.append(removed_item)
+
+    while short_research_product_cap_exceeded(trimmed):
+        trimmed, removed_item = remove_weakest_item(trimmed, predicate=is_research_or_product_idea_item)
+        if removed_item is None:
+            break
+        removed.append(removed_item)
 
     while True:
         distribution = source_domain_distribution(trimmed)
@@ -3286,6 +3825,45 @@ def trim_final_caps(items: list[dict[str, Any]]) -> tuple[list[dict[str, Any]], 
     return trimmed, removed
 
 
+def preferred_final_max_items(config: dict[str, Any], max_items: int) -> int:
+    return min(max_items, int(config.get("preferred_max_articles_to_send", 8)))
+
+
+def trim_to_preferred_final_count(
+    items: list[dict[str, Any]],
+    config: dict[str, Any],
+    available_items: list[dict[str, Any]],
+    max_items: int,
+) -> tuple[list[dict[str, Any]], list[dict[str, Any]]]:
+    preferred_max = preferred_final_max_items(config, max_items)
+    min_items = int(config.get("min_articles_to_send", 3))
+    trimmed = list(items)
+    removed: list[dict[str, Any]] = []
+    while len(trimmed) > preferred_max and len(trimmed) > min_items:
+        protected: set[str] = set()
+        for predicate in (
+            is_psychology_item,
+            is_longform_investigative_item,
+            is_modus_infrastructure_item,
+            is_technical_platform_product_item,
+        ):
+            if any(predicate(item) for item in available_items):
+                best_present = next((item for item in sorted(trimmed, key=final_selection_score, reverse=True) if predicate(item)), None)
+                if best_present:
+                    protected.add(candidate_identity(best_present))
+        trial, removed_item = remove_weakest_item(trimmed, protected)
+        if removed_item is None:
+            break
+        if final_mix_constraint_failures(trial, min_items, max_items, available_items):
+            unprotected_trial, removed_item = remove_weakest_item(trimmed)
+            if removed_item is None:
+                break
+            trial = unprotected_trial
+        trimmed = trial
+        removed.append(removed_item)
+    return trimmed, removed
+
+
 def repair_final_selection(
     selected_items: list[dict[str, Any]],
     available_items: list[dict[str, Any]],
@@ -3294,23 +3872,54 @@ def repair_final_selection(
     stats: dict[str, Any],
 ) -> list[dict[str, Any]]:
     min_quality_score = int(config.get("min_final_quality_score", 80))
-    available = sorted(
+    strict_available = sorted(
         dedupe_final_items(
             [
                 corrected_final_item(item)
                 for item in available_items
-                if eligible_for_shortlist(item) and int(item.get("quality_score") or 0) >= min_quality_score
+                if eligible_for_shortlist(item, config) and int(item.get("quality_score") or 0) >= min_quality_score
             ]
         ),
         key=final_selection_score,
         reverse=True,
     )
-    repaired = dedupe_final_items([corrected_final_item(item) for item in selected_items])
+    relaxed_available = sorted(
+        dedupe_final_items(
+            [
+                corrected_final_item(item)
+                for item in available_items
+                if eligible_for_shortlist(item, config, relaxed=True) and int(item.get("quality_score") or 0) >= min_quality_score
+            ]
+        ),
+        key=final_selection_score,
+        reverse=True,
+    )
+    available = strict_available
+    corrected_selected = [corrected_final_item(item) for item in selected_items]
+    invalid_selected: list[dict[str, Any]] = []
+    valid_selected: list[dict[str, Any]] = []
+    for item in corrected_selected:
+        reason = final_ineligibility_reason(item, config)
+        if reason:
+            invalid_selected.append({**item, "final_ineligibility_reason": reason})
+            continue
+        valid_selected.append(item)
+    stats["post_gemini_invalid_removed_count"] = stats.get("post_gemini_invalid_removed_count", 0) + len(invalid_selected)
+    stats.setdefault("post_gemini_invalid_removed_examples", []).extend(
+        {
+            "title": display_title(item.get("title", "")),
+            "reason": item.get("final_ineligibility_reason", "ineligible"),
+            "url": item.get("canonical_url") or item.get("url") or "",
+        }
+        for item in invalid_selected[:5]
+    )
+    repaired = dedupe_final_items(valid_selected)
     inserted: list[dict[str, Any]] = []
-    removed: list[dict[str, Any]] = []
+    removed: list[dict[str, Any]] = invalid_selected[:]
     required_buckets: list[tuple[str, Any]] = [
-        ("research_or_psychology", is_research_psychology_item),
+        ("non_academic_longform_or_operational", is_non_academic_longform_operational_item),
         ("longform_or_investigative", is_longform_investigative_item),
+        ("research_or_psychology", is_research_psychology_item),
         ("modus_or_infrastructure", lambda item: is_modus_infrastructure_item(item) or item.get("usefulness_category") == "Operational intelligence"),
         ("technical_platform_product", is_technical_platform_product_item),
     ]
@@ -3327,9 +3936,41 @@ def repair_final_selection(
             inserted.append({**candidate, "repair_reason": f"missing_{label}"})
             removed.extend(removed_for_candidate)
 
+    min_items = int(config.get("min_articles_to_send", 3))
+    refill_count = 0
+    for pool_name, pool in (("strict_refill", strict_available), ("relaxed_refill", relaxed_available)):
+        if len(repaired) >= min_items:
+            break
+        for candidate in pool:
+            if len(repaired) >= min_items:
+                break
+            reason = final_ineligibility_reason(candidate, config, allow_adjacent=(pool_name == "relaxed_refill"))
+            if reason:
+                continue
+            trial, removed_for_candidate = make_room_for_candidate(repaired, candidate, max_items)
+            if {candidate_identity(item) for item in trial} != {candidate_identity(item) for item in repaired}:
+                repaired = trial
+                refill_count += 1
+                inserted.append({**candidate, "repair_reason": pool_name})
+                removed.extend(removed_for_candidate)
+
     repaired, cap_removed = trim_final_caps(repaired)
     removed.extend(cap_removed)
     repaired = dedupe_near_duplicates(repaired, stats, "final")
+    repaired, preferred_removed = trim_to_preferred_final_count(repaired, config, available, max_items)
+    removed.extend(preferred_removed)
+    final_invalid = [
+        {**item, "final_ineligibility_reason": final_ineligibility_reason(item, config) or ""}
+        for item in repaired
+        if final_ineligibility_reason(item, config)
+    ]
+    if final_invalid:
+        repaired = [item for item in repaired if not final_ineligibility_reason(item, config)]
+    stats["refill_candidates_added_count"] = stats.get("refill_candidates_added_count", 0) + refill_count
+    stats["final_ineligible_items_count"] = len(final_invalid)
+    stats["final_general_context_count"] = sum(1 for item in repaired if item.get("usefulness_category", classify_usefulness_category(item)) == "General context")
+    stats["final_weak_relevance_count"] = sum(1 for item in repaired if item.get("anti_scam_relevance") == "weak")
+    stats["final_rejected_item_count"] = sum(1 for item in repaired if item.get("rejection_reason"))
     stats["post_gemini_repair_applied"] = bool(inserted or removed)
     stats["post_gemini_repair_inserted"] = [
         {
@@ -3355,7 +3996,7 @@ def limit_vendor_blog_items(items: list[dict[str, Any]], config: dict[str, Any],
     vendor_count = 0
 
     for item in items:
-        if item.get("article_type", classify_article_type(item)) == "Vendor blog":
+        if is_sponsored_vendor_item(item):
             if vendor_count >= max_vendor_items:
                 continue
             vendor_count += 1
@@ -3369,18 +4010,17 @@ def limit_vendor_blog_items(items: list[dict[str, Any]], config: dict[str, Any],
 def recency_boost(item: dict[str, Any], now: datetime) -> int:
     if item.get("evergreen_reference"):
         return 0
-    parsed_date = item.get("parsed_date")
-    if not isinstance(parsed_date, datetime):
+    age_days = item_age_days(item, now)
+    if age_days is None:
         return 0
 
-    age_days = (now - parsed_date).days
     if age_days <= 7:
         return 9
     if age_days <= 30:
         return 6
     if age_days <= 90:
         return 3
-    return -10_000
+    return 0
 
 
 def score_item(item: dict[str, Any], now: datetime | None = None) -> int:
@@ -3389,6 +4029,111 @@ def score_item(item: dict[str, Any], now: datetime | None = None) -> int:
     if now is not None:
         score += recency_boost(item, now)
     return score
+
+
+def is_academic_or_research_recency_exception(item: dict[str, Any]) -> bool:
+    domain = article_domain(item)
+    article_type = item.get("article_type", classify_article_type(item))
+    query_group = item.get("query_group", "")
+    academic_domains = (
+        "arxiv.org",
+        "dl.acm.org",
+        "ieee.org",
+        "usenix.org",
+        "ndss-symposium.org",
+        "ssrn.com",
+        "osf.io",
+    )
+    return (
+        article_type == "Research paper"
+        or query_group in {"academic", "psychology"}
+        or any(domain.endswith(host) for host in academic_domains)
+        or is_direct_research_item(item)
+        or is_research_psychology_item(item)
+    )
+
+
+def is_investigative_longform_recency_exception(item: dict[str, Any]) -> bool:
+    domain = article_domain(item)
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category") or classify_usefulness_category(item)
+    query_group = item.get("query_group", "")
+    longform_domains = (
+        "c4ads.org",
+        "wired.com",
+        "404media.co",
+        "restofworld.org",
+        "graphika.com",
+        "bellingcat.com",
+        "technologyreview.com",
+        "datasociety.net",
+        "cetas.turing.ac.uk",
+        "therecord.media",
+        "krebsonsecurity.com",
+    )
+    return (
+        article_type in {"Investigative report", "Deep analysis", "Policy analysis"}
+        or usefulness_category == "Operational intelligence"
+        or query_group == "investigative"
+        or (
+            any(domain.endswith(host) for host in longform_domains)
+            and (is_investigative_or_operational_item(item) or usefulness_category in {"Operational intelligence", "Technical abuse / vulnerability"})
+        )
+    )
+
+
+def recency_window_days(
+    item: dict[str, Any],
+    config: dict[str, Any],
+    lookback_days: int | None = None,
+    max_article_age_days: int | None = None,
+) -> int:
+    default_window = int(max_article_age_days or config.get("max_article_age_days", 90))
+    if lookback_days is not None:
+        default_window = min(int(lookback_days), default_window)
+    if item.get("evergreen_reference"):
+        return int(config.get("evergreen_reference_max_article_age_days", 3650))
+    if is_academic_or_research_recency_exception(item):
+        return int(config.get("academic_research_max_article_age_days", 365))
+    if is_investigative_longform_recency_exception(item):
+        return int(config.get("investigative_longform_max_article_age_days", 365))
+    return default_window
+
+
+def is_within_candidate_recency_window(
+    item: dict[str, Any],
+    config: dict[str, Any],
+    now: datetime,
+    debug: bool,
+    lookback_days: int | None = None,
+    max_article_age_days: int | None = None,
+) -> bool:
+    age_days = item_age_days(item, now)
+    if age_days is None:
+        return debug
+    return age_days <= recency_window_days(item, config, lookback_days, max_article_age_days)
+
+
+def category_recency_adjustment(item: dict[str, Any], config: dict[str, Any], now: datetime) -> int:
+    if item.get("evergreen_reference"):
+        return 0
+    age_days = item_age_days(item, now)
+    if age_days is None:
+        return 0
+    window_days = recency_window_days(item, config)
+    if age_days > window_days:
+        return -10_000
+
+    if is_academic_or_research_recency_exception(item) or is_investigative_longform_recency_exception(item):
+        if age_days <= 90:
+            return 0
+        if age_days <= 180:
+            return -4
+        return -10
+
+    if age_days > int(config.get("max_article_age_days", 90)):
+        return -10_000
+    return 0
 
 
 def is_seen(candidate: dict[str, Any], seen: dict[str, dict[str, Any]]) -> bool:
@@ -3609,7 +4354,7 @@ def fetch_candidates(
 
         for entry in feed.entries:
             parsed_date = entry_datetime(entry)
-            if not is_within_lookback(entry, lookback_days, max_article_age_days, now, debug):
+            if parsed_date is None and not debug:
                 continue
 
             original_url = entry.get("link", query["url"])
@@ -3639,6 +4384,10 @@ def fetch_candidates(
                 "query_group": query_group_for_query(query.get("query", ""), query.get("priority", "")),
                 "query": query.get("query", ""),
             }
+            candidate["article_type"] = classify_article_type(candidate)
+            candidate["usefulness_category"] = classify_usefulness_category(candidate)
+            if not is_within_candidate_recency_window(candidate, config, now, debug, lookback_days, max_article_age_days):
+                continue
             date_filtered_count += 1
 
             if is_seen(candidate, seen):
@@ -3974,6 +4723,7 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"candidate_cache_candidate_count: {cache_info.get('candidate_cache_candidate_count', 0)}")
     print(f"fetch_skipped: {bool(cache_info.get('fetch_skipped', False))}")
     print(f"cache_fallback_used: {bool(cache_info.get('cache_fallback_used', False))}")
+    print(f"cache_fallback_allowed: {bool(cache_info.get('cache_fallback_allowed', True))}")
     print(f"Total RSS queries run: {stats['rss_queries_run']}")
     print(f"Total raw candidates fetched: {stats['raw_candidate_count']}")
     print(f"Total candidates after date filter: {stats['date_filtered_candidate_count']}")
@@ -3992,6 +4742,7 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"pre_gemini_duplicates_removed_count: {stats.get('pre_gemini_duplicates_removed_count', 0)}")
     print(f"post_gemini_duplicates_removed_count: {stats.get('post_gemini_duplicates_removed_count', 0)}")
     print(f"final_duplicates_removed_count: {stats.get('final_duplicates_removed_count', 0)}")
+    print(f"duplicate_podcast_or_summary_removed_count: {stats.get('duplicate_podcast_or_summary_removed_count', 0)}")
     print(f"reference examples loaded count: {stats.get('reference_examples_loaded_count', len(configured_reference_examples(config)))}")
     print(f"monitored sources queried count: {stats.get('monitored_sources_queried_count', len(configured_monitored_sources(config)))}")
     print(f"reference URLs included as candidates count: {stats.get('reference_urls_included_as_candidates_count', 0)}")
@@ -4003,6 +4754,10 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
         )
     print(f"category slot fill counts: {stats.get('category_slot_fill_counts', {})}")
     print(f"research candidates available: {stats.get('research_candidates_available_count', 0)}")
+    print(
+        "non-academic longform/operational candidates available: "
+        f"{stats.get('non_academic_longform_operational_candidates_available_count', 0)}"
+    )
     print(f"longform/investigative candidates available: {stats.get('longform_investigative_candidates_available_count', 0)}")
     for prefix in ("pre_gemini", "post_gemini", "final"):
         examples = stats.get(f"{prefix}_duplicate_examples", [])
@@ -4119,6 +4874,47 @@ def print_must_include_final_status(
         print(f"category_slot_final_status: title={item.get('title')} | made_final={made_final} | reason={reason}")
 
 
+CALIBRATION_CANDIDATE_PATTERNS = (
+    ("Profiling User Vulnerability to Phishing Through Psychological and Behavioral Factors", ("profiling user vulnerability to phishing",)),
+    ("Cybersecurity Risks of Online Piracy Websites in Malaysia", ("cybersecurity risks of online piracy websites in malaysia",)),
+    ("US charges 2 Chinese nationals with managing cyberscam compound in Myanmar", ("chinese nationals", "cyberscam compound", "myanmar")),
+    ("HELLO BOSS 404 Media article", ("hello boss", "chinese realtime deepfake")),
+    ("Malaysia visa-exemption policy exploited by global scam rings", ("visa-exemption", "global scam rings")),
+    ("Deepfakes on Demand / Fraud as a Service", ("deepfakes on demand", "fraud as a service")),
+)
+
+
+def high_value_candidate_diagnostics(selected_items: list[dict[str, Any]], available_items: list[dict[str, Any]]) -> list[dict[str, str]]:
+    selected_ids = {candidate_identity(item) for item in selected_items}
+    diagnostics: list[dict[str, str]] = []
+    for label, patterns in CALIBRATION_CANDIDATE_PATTERNS:
+        matches = [
+            item
+            for item in available_items
+            if all(pattern in candidate_signal_text(item) for pattern in patterns)
+        ]
+        if not matches:
+            diagnostics.append({"label": label, "status": "not_in_candidate_pool", "reason": "not discovered or filtered before ranking"})
+            continue
+        best = max(matches, key=final_selection_score)
+        if candidate_identity(best) in selected_ids:
+            diagnostics.append({"label": label, "status": "selected", "reason": "included in final output"})
+            continue
+        reason = str(best.get("rejection_reason") or best.get("hard_rejection_reason") or "not selected after scoring/Gemini/repair")
+        if any(near_duplicate(best, selected) for selected in selected_items):
+            reason = "near_duplicate_of_selected_item"
+        diagnostics.append(
+            {
+                "label": label,
+                "status": "dropped",
+                "reason": reason,
+                "title": display_title(best.get("title", "")),
+                "url": best.get("canonical_url") or best.get("url") or "",
+            }
+        )
+    return diagnostics
+
+
 def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
     candidates = json.dumps(
         [
@@ -4141,6 +4937,8 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
                 "access_status": item.get("access_status", "unknown"),
                 "source_reputation": item.get("source_reputation", "medium"),
                 "salesy_vendor_pitch": bool(item.get("salesy_vendor_pitch", False)),
+                "sponsored_vendor_content": is_sponsored_vendor_item(item),
+                "relevant_sponsored_vendor_content": is_relevant_sponsored_vendor_item(item),
                 "category_slot_candidate": bool(item.get("must_include_if_available", False)),
                 "category_slot_reason": item.get("must_include_reason"),
                 "reference_url_candidate": bool(item.get("reference_url_candidate", False)),
@@ -4165,13 +4963,24 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "The reference examples are examples of desired editorial quality and relevance. They are not mandatory URLs. Do not include a reference example merely because it appears in the config. Select current, relevant, non-duplicate articles from the candidate pool. "
         "Items marked category_slot_candidate are the current best representatives of category diversity; they are not mandatory URLs, but dropping an entire category when strong candidates are available is a failed mix constraint. "
         "Select for direct anti-scam product relevance. Do not select generic AI/cybersecurity articles unless they clearly help understand scammer modus operandi, victim manipulation, monetary-loss fraud, account takeover, scam infrastructure, platform/telco/bank controls, or technologies used by scammers to scale. "
+        "You must not select generic AI/cybersecurity context items. Every final item must be directly useful for anti-scam product work. "
+        "Never select an item with usefulness_category='General context', anti_scam_relevance='weak', or rejection_reason set. Do not let category quotas rescue these items. "
+        "Do not fill category quotas with weak items. If only 3 strong items exist, return 3. A balanced list with weak items is worse than a shorter list of strong items. "
+        "Do not assign items to a specialist section unless the item actually matches that section. Generic AI cybersecurity does not belong under Deepfakes, synthetic identity & impersonation. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
         "Do not select research merely because it is technical or about fraud generally. Research should be selected only if it directly helps anti-scam product work: scammer methods, victim psychology, harmful persuasion, LLM-enabled scam abuse, scam detection, scam intervention, deepfake scams, synthetic identity, social engineering, or adverse-use benchmarks. "
         "Exclude generic cybersecurity, generic enterprise agent security, generic fraud ML, or unrelated technical domains unless there is a direct scam/social-engineering link. "
         f"You may select between 3 and {sent_count} articles. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
         "Do not pad the list with weak or generic items. If only 4 strong items exist, return 4. Never include duplicates or near-duplicates. Prefer direct anti-scam relevance over general AI/cyber news. "
         "Do not select duplicate or near-duplicate stories. If two items are from the same publisher, same date, and cover the same event, select only the stronger one. For example, two TechCrunch articles about scammers abusing a Microsoft email/account to send spam links are the same story; pick one. "
-        "Hard balance targets: maximum 2 Singapore/Southeast Asia current-affairs items, maximum 2 enforcement reports, maximum 2 plain news reports. Include at least one deep investigation/deep analysis/operational intelligence item if available, one directly relevant academic research paper if available, one psychology/persuasion/victimology/scam-methodology item if available, one technical/platform/product/data-source item if available, and one scam modus-operandi/infrastructure item if available. "
+        "A good digest usually has 5 to 8 high-signal items, not always 10. It should feel balanced across victim psychology or persuasion research, empirical scam-risk research, operational intelligence on scam compounds/syndicates/infrastructure, longform investigations into scam-enabling technology, technical or platform abuse, and selected regional developments. "
+        "Do not simply maximise research count or recency. Prefer 1-2 research/psychology items, 1-2 longform investigations or deep analyses, 1-2 operational intelligence/scam infrastructure items, one technical/platform/product/data-source item, and 0-2 Singapore/Southeast Asia items unless the SEA items reveal operational patterns. "
+        "Do not over-select simple local arrest stories. But do not drop Southeast Asia items if they reveal operational patterns, scam infrastructure, visa/travel policy abuse, compounds, mule networks, call centres, fake-official impersonation workflows, or syndicate migration. "
+        "Cap final research papers at two unless a third is clearly exceptional direct anti-scam research. When selecting only 3 to 5 articles, do not let research papers or product-idea items take most of the slots. "
+        "If a non-academic longform investigation, deep analysis, or operational-intelligence item is available, include at least one. Prefer that over adding another research/product-idea item. "
+        "Sponsored/vendor content is not automatically banned, but select at most one and only when it is directly relevant to scam methods, fraud-as-a-service, deepfake abuse, phishing kits, identity fraud, platform abuse, or scam infrastructure. Label it honestly as Sponsored / vendor content. Do not use sponsored content to satisfy the investigative-report slot. "
+        "Do not select both a podcast/video/summary and the full article about the same investigation. Prefer the full original article, especially for longform investigations. "
+        "Hard balance targets: maximum 2 Singapore/Southeast Asia current-affairs items, maximum 3 Singapore/Southeast Asia items only when the extra item is operationally useful, maximum 1 sponsored/vendor item, maximum 2 enforcement reports, maximum 2 plain news reports. Include at least one deep investigation/deep analysis/operational intelligence item if available, one directly relevant academic research paper if available, one psychology/persuasion/victimology/scam-methodology item if available, one technical/platform/product/data-source item if available, and one scam modus-operandi/infrastructure item if available. "
         "Correct any wrong article labels. Do not label enforcement or arrest stories as Technical articles unless they contain technical mechanisms. "
         "Prioritise articles like 'Victim as a Service' that reveal novel anti-scam product ideas, research methods, scam engagement systems, detection approaches, or engineering workflows. "
         "Avoid vendor pitch, product announcements without anti-scam or engineering relevance, thin posts, and generic consumer advice. "
@@ -4213,6 +5022,10 @@ def safe_request_error(exc: requests.RequestException) -> str:
     return exc.__class__.__name__
 
 
+def gemini_retry_delay_seconds(attempt_index: int) -> float:
+    return min(8.0, 2.0 ** max(0, attempt_index - 1))
+
+
 def rank_with_gemini(
     items: list[dict[str, Any]],
     sent_count: int,
@@ -4220,6 +5033,7 @@ def rank_with_gemini(
     model = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
     max_output_tokens = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "600"))
     max_cost = float(os.getenv("MAX_DAILY_GEMINI_COST_USD", "0.02"))
+    max_attempts = max(1, int(os.getenv("GEMINI_MAX_ATTEMPTS", "3")))
     prompt = build_gemini_prompt(items, sent_count)
     estimated_input_tokens = len(prompt) // 4
     estimated_output_tokens = max_output_tokens
@@ -4240,6 +5054,9 @@ def rank_with_gemini(
         "actual_thoughts_tokens": None,
         "actual_total_tokens": None,
         "actual_cost_usd": None,
+        "gemini_attempts": 0,
+        "gemini_max_attempts": max_attempts,
+        "gemini_failed_attempts": [],
     }
 
     if estimated_cost_usd > max_cost:
@@ -4250,13 +5067,51 @@ def rank_with_gemini(
         print("Gemini skipped: GEMINI_API_KEY is not set.")
         return items, cost_data
 
-    try:
-        text, usage = call_gemini(prompt, model, max_output_tokens)
-    except requests.RequestException as exc:
-        print(f"Gemini skipped after request failure: {safe_request_error(exc)}")
+    payload: dict[str, Any] = {"items": []}
+    usage: dict[str, Any] | None = None
+    text = ""
+    for attempt in range(1, max_attempts + 1):
+        cost_data["gemini_attempts"] = attempt
+        try:
+            print(f"Gemini attempt {attempt}/{max_attempts}")
+            text, usage = call_gemini(prompt, model, max_output_tokens)
+        except requests.RequestException as exc:
+            error = safe_request_error(exc)
+            cost_data["gemini_failed_attempts"].append({"attempt": attempt, "reason": error})
+            print(f"Gemini attempt {attempt}/{max_attempts} failed: {error}")
+            if attempt < max_attempts:
+                time.sleep(gemini_retry_delay_seconds(attempt))
+                continue
+            print("Gemini skipped after all request attempts failed.")
+            return items, cost_data
+
+        cost_data["used_llm"] = True
+        try:
+            parsed_payload = json.loads(text)
+        except json.JSONDecodeError:
+            cost_data["gemini_failed_attempts"].append({"attempt": attempt, "reason": "invalid_json"})
+            print(f"Gemini attempt {attempt}/{max_attempts} returned invalid JSON.")
+            if attempt < max_attempts:
+                time.sleep(gemini_retry_delay_seconds(attempt))
+                continue
+            payload = {"items": []}
+            break
+
+        if not isinstance(parsed_payload, dict):
+            cost_data["gemini_failed_attempts"].append({"attempt": attempt, "reason": "non_object_json"})
+            print(f"Gemini attempt {attempt}/{max_attempts} returned non-object JSON.")
+            if attempt < max_attempts:
+                time.sleep(gemini_retry_delay_seconds(attempt))
+                continue
+            payload = {"items": []}
+            break
+
+        payload = parsed_payload
+        break
+
+    if not cost_data["used_llm"]:
         return items, cost_data
 
-    cost_data["used_llm"] = True
     if usage:
         prompt_tokens = usage.get("promptTokenCount")
         output_tokens = usage.get("candidatesTokenCount")
@@ -4279,10 +5134,6 @@ def rank_with_gemini(
     else:
         print("Actual token usage was unavailable.")
 
-    try:
-        payload = json.loads(text)
-    except json.JSONDecodeError:
-        payload = {"items": []}
     cost_data["rejected_must_include"] = payload.get("rejected_must_include", []) if isinstance(payload, dict) else []
     cost_data["mix_constraints_satisfied"] = payload.get("mix_constraints_satisfied") if isinstance(payload, dict) else None
     cost_data["failed_constraints"] = payload.get("failed_constraints", []) if isinstance(payload, dict) else []
@@ -4362,6 +5213,7 @@ def write_github_summary(run: dict[str, Any]) -> None:
         f"- Model: {run['model']}",
         f"- Mode: {run['mode']}",
         f"- Used Gemini: {run['used_llm']}",
+        f"- Gemini attempts: {run.get('gemini_attempts', 0)}/{run.get('gemini_max_attempts', 1)}",
         f"- Estimated tokens: {run['estimated_input_tokens']} input, {run['estimated_output_tokens']} output",
         f"- Estimated cost: ${run['estimated_cost_usd']:.6f}",
         f"- Actual tokens: {run['actual_prompt_tokens']} input, {run['actual_output_tokens']} output, {run['actual_thoughts_tokens']} thoughts, {run['actual_total_tokens']} total",
@@ -4382,6 +5234,8 @@ def telegram_section(item: dict[str, Any]) -> str:
     usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
     article_type = item.get("article_type", classify_article_type(item))
     terms = set(item.get("strong_scam_anchor_terms_found", [])) | set(item.get("technology_modus_terms_found", []))
+    if usefulness_category == "General context":
+        return "🧨 SCAM TRENDS"
     if any(term in terms for term in ("grooming", "persuasion", "manipulation", "deception", "trust-building", "harmful persuasion")) or is_psychology_item(item):
         return "🧠 VICTIM PSYCHOLOGY & PERSUASION"
     if usefulness_category == "Research / novel method" or is_direct_research_item(item):
@@ -4455,20 +5309,41 @@ def final_mix_constraint_failures(
         failures.append(f"below_min_articles:{len(items)}<{min_items}")
     if len(items) > max_items:
         failures.append(f"above_max_articles:{len(items)}>{max_items}")
+    if any(final_ineligibility_reason(item) for item in items):
+        failures.append("contains_final_ineligible_items")
+    if any(item.get("usefulness_category", classify_usefulness_category(item)) == "General context" for item in items):
+        failures.append("contains_general_context")
+    if any(item.get("anti_scam_relevance") == "weak" for item in items):
+        failures.append("contains_weak_anti_scam_relevance")
+    if any(item.get("rejection_reason") for item in items):
+        failures.append("contains_rejected_items")
     if sum(1 for item in items if is_local_current_affairs_item(item)) > 1:
         failures.append("too_many_singapore_sea_current_affairs")
-    if sum(1 for item in items if is_local_sea_item(item)) > 2:
+    if sum(1 for item in items if is_local_sea_item(item)) > 3 or (
+        sum(1 for item in items if is_local_sea_item(item)) > 2
+        and not any(is_sea_operational_intelligence_item(item) for item in items if is_local_sea_item(item))
+    ):
         failures.append("too_many_singapore_sea_items")
-    if sum(1 for item in items if item.get("article_type", classify_article_type(item)) == "Enforcement report") > 1:
+    if sum(1 for item in items if item.get("article_type", classify_article_type(item)) == "Enforcement report") > 2:
         failures.append("too_many_enforcement_reports")
     if sum(1 for item in items if is_plain_news_item(item) and not is_high_value_product_radar_item(item)) > 2:
         failures.append("too_many_plain_news_reports")
     if sum(1 for item in items if is_company_profile_item(item)) > 1:
         failures.append("too_many_company_profiles")
+    if sum(1 for item in items if is_sponsored_vendor_item(item)) > 1:
+        failures.append("too_many_sponsored_vendor_items")
+    if research_cap_exceeded(items):
+        failures.append("too_many_research_items")
+    if short_research_product_cap_exceeded(items):
+        failures.append("too_many_research_or_product_idea_items_for_short_digest")
     if any(count > 2 for count in source_domain_distribution(items).values()):
         failures.append("too_many_from_same_source_domain")
-    if any(is_investigative_or_operational_item(item) for item in available) and not any(is_investigative_or_operational_item(item) for item in items):
+    if any(is_longform_investigative_item(item) for item in available) and not any(is_longform_investigative_item(item) for item in items):
         failures.append("missing_investigation_deep_analysis_or_operational_intelligence_if_available")
+    if any(is_non_academic_longform_operational_item(item) for item in available) and not any(
+        is_non_academic_longform_operational_item(item) for item in items
+    ):
+        failures.append("missing_non_academic_longform_investigative_or_operational_if_available")
     if any(is_research_psychology_item(item) for item in available) and not any(is_research_psychology_item(item) for item in items):
         failures.append("missing_research_psychology_or_victimology_if_available")
     if any(is_platform_product_item(item) or is_technical_item(item) for item in available) and not any(is_platform_product_item(item) or is_technical_item(item) for item in items):
@@ -4666,10 +5541,21 @@ def rerank_cached_candidates(
         candidate["quality_rejected"] = bool(rejection_reason)
         if rejection_reason:
             candidate["rejection_reason"] = rejection_reason
+            if not soft_final_rejection_allowed(candidate, config):
+                candidate["quality_score"] = -999
             stats["quality_rejected_candidate_count"] = stats.get("quality_rejected_candidate_count", 0) + 1
         else:
             candidate["rejection_reason"] = None
-            filtered.append(candidate)
+            final_reason = final_ineligibility_reason(candidate, config, allow_adjacent=True)
+            if final_reason:
+                candidate["final_ineligibility_reason"] = final_reason
+                candidate["rejection_reason"] = final_reason
+                candidate["quality_rejected"] = True
+                candidate["quality_score"] = -999
+                stats["quality_rejected_candidate_count"] = stats.get("quality_rejected_candidate_count", 0) + 1
+            else:
+                candidate["quality_rejected"] = False
+                filtered.append(candidate)
         reranked_all.append(candidate)
 
     pre_gemini_deduped = dedupe_near_duplicates(filtered, stats, "pre_gemini")
@@ -4695,6 +5581,7 @@ def run_pipeline(
     use_cache: bool = False,
     refresh_cache: bool = False,
     rerank_cache: bool = False,
+    allow_cache_fallback: bool = True,
 ) -> dict[str, Any]:
     lookback_days = int(os.getenv("LOOKBACK_DAYS", config.get("lookback_days", "90")))
     max_article_age_days = int(os.getenv("MAX_ARTICLE_AGE_DAYS", config.get("max_article_age_days", "90")))
@@ -4709,9 +5596,10 @@ def run_pipeline(
         "candidate_cache_candidate_count": 0,
         "fetch_skipped": False,
         "cache_fallback_used": False,
+        "cache_fallback_allowed": allow_cache_fallback,
     }
     if rerank_cache or (use_cache and not refresh_cache):
-        cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=True)
+        cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=not rerank_cache)
         cache_info.update(loaded_cache_info)
         if cached_candidates:
             cache_info["fetch_skipped"] = True
@@ -4779,6 +5667,9 @@ def run_pipeline(
     try:
         ranked_candidates, stats = fetch_candidates(sources, seen, lookback_days, max_article_age_days, debug, config)
     except Exception as exc:
+        if not allow_cache_fallback:
+            print(f"Fresh fetch failed and candidate cache fallback is disabled: {exc}")
+            raise
         cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=True)
         if not cached_candidates:
             raise
@@ -4888,6 +5779,11 @@ def main() -> None:
     refresh_cache = "--refresh-cache" in sys.argv
     rerank_cache = "--rerank-cache" in sys.argv
     use_cache = "--use-cache" in sys.argv
+    disable_cache_fallback = "--no-cache-fallback" in sys.argv or os.getenv("DISABLE_CANDIDATE_CACHE_FALLBACK", "").lower() in {
+        "1",
+        "true",
+        "yes",
+    }
     if rerank_cache or (refresh_cache and not dry_run_with_llm):
         dry_run = True
         dry_run_with_llm = False
@@ -4904,6 +5800,7 @@ def main() -> None:
         use_cache=use_cache,
         refresh_cache=refresh_cache,
         rerank_cache=rerank_cache,
+        allow_cache_fallback=not disable_cache_fallback,
     )
     ranked_candidates = pipeline["ranked_candidates"]
     shortlist = pipeline["shortlist"]
@@ -4931,6 +5828,7 @@ def main() -> None:
     ranked_items, cost_data = rank_with_gemini(shortlist, max_items)
     gemini_runtime = time.monotonic() - gemini_started
     pipeline["timing"]["gemini_runtime_seconds"] = gemini_runtime
+    pipeline["stats"]["gemini_selected_count"] = len(ranked_items)
     selected_items = select_final_items(ranked_items, config, max_items)
     selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "post_gemini")
     selected_items = repair_final_selection(selected_items, pipeline.get("ranked_candidates", ranked_items), config, max_items, pipeline["stats"])
@@ -4980,11 +5878,34 @@ def main() -> None:
             "final research/longform organic discovery count: "
             f"{sum(1 for item in selected_items if (is_research_psychology_item(item) or is_longform_investigative_item(item)) and not item.get('reference_url_candidate'))}"
         )
+        print(f"final_research_count: {sum(1 for item in selected_items if is_research_item(item))}")
+        print(f"final_victim_psychology_count: {sum(1 for item in selected_items if is_psychology_item(item))}")
+        print(f"final_longform_investigative_count: {sum(1 for item in selected_items if is_longform_investigative_item(item))}")
+        print(f"final_non_academic_longform_operational_count: {sum(1 for item in selected_items if is_non_academic_longform_operational_item(item))}")
+        print(f"final_operational_intelligence_count: {sum(1 for item in selected_items if item.get('usefulness_category', classify_usefulness_category(item)) == 'Operational intelligence')}")
+        print(f"final_sea_operational_intelligence_count: {sum(1 for item in selected_items if is_sea_operational_intelligence_item(item))}")
+        print(f"final_sponsored_vendor_count: {sum(1 for item in selected_items if is_sponsored_vendor_item(item))}")
+        print(f"duplicate_podcast_or_summary_removed_count: {pipeline['stats'].get('duplicate_podcast_or_summary_removed_count', 0)}")
+        print(f"gemini_selected_count: {pipeline['stats'].get('gemini_selected_count', 0)}")
+        print(f"post_gemini_invalid_removed_count: {pipeline['stats'].get('post_gemini_invalid_removed_count', 0)}")
+        for item in pipeline["stats"].get("post_gemini_invalid_removed_examples", []):
+            print(f"post_gemini_invalid_removed_example: title={item.get('title')} | reason={item.get('reason')} | url={item.get('url')}")
+        print(f"refill_candidates_added_count: {pipeline['stats'].get('refill_candidates_added_count', 0)}")
+        print(f"final_ineligible_items_count: {pipeline['stats'].get('final_ineligible_items_count', 0)}")
+        print(f"final_general_context_count: {pipeline['stats'].get('final_general_context_count', 0)}")
+        print(f"final_weak_relevance_count: {pipeline['stats'].get('final_weak_relevance_count', 0)}")
+        print(f"final_rejected_item_count: {pipeline['stats'].get('final_rejected_item_count', 0)}")
         print(f"post_gemini_repair_applied: {bool(pipeline['stats'].get('post_gemini_repair_applied', False))}")
         for item in pipeline["stats"].get("post_gemini_repair_inserted", []):
             print(f"item_inserted_by_repair: title={item.get('title')} | reason={item.get('reason')} | url={item.get('url')}")
         for item in pipeline["stats"].get("post_gemini_repair_removed", []):
             print(f"item_removed_by_repair: title={item.get('title')} | url={item.get('url')}")
+        for item in high_value_candidate_diagnostics(selected_items, pipeline.get("quality_ranked_candidates") or pipeline.get("ranked_candidates", [])):
+            print(
+                "high_value_candidate_status: "
+                f"label={item.get('label')} | status={item.get('status')} | reason={item.get('reason')} | "
+                f"title={item.get('title', '')} | url={item.get('url', '')}"
+            )
         print_must_include_final_status(pipeline["stats"], selected_items, cost_data)
         print(f"final mix constraints satisfied: {not final_failures}")
         if final_failures:
