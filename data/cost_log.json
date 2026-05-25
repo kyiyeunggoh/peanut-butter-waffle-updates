@@ -36,6 +36,26 @@
       "candidate_count": 14,
       "shortlist_count": 12,
       "sent_count": 9
+    },
+    {
+      "date": "2026-05-25",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": true,
+      "estimated_input_tokens": 2954,
+      "estimated_output_tokens": 600,
+      "estimated_cost_usd": 0.001638,
+      "actual_prompt_tokens": 3335,
+      "actual_output_tokens": 470,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": 3805,
+      "actual_cost_usd": 0.001539,
+      "rejected_must_include": [],
+      "mix_constraints_satisfied": true,
+      "failed_constraints": [],
+      "candidate_count": 12,
+      "shortlist_count": 7,
+      "sent_count": 5
     }
   ]
 }

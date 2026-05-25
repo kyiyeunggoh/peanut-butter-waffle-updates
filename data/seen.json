@@ -42,6 +42,20 @@
       "url": "https://apnews.com/article/myanmar-scam-compound-chinese-nationals-charges-4b6a987f7af1d0ec4fd893e57b07c351",
       "usefulness_category": "Operational intelligence"
     },
+    "apnews.com|2026-04-24|asia cambodia cambodian crackdown cybercrime cyberscams d72dfed7b7da123d7ad0d26527cd7adb kok": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "normalized_title_fingerprint": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "original_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlR2SmNLdXFtaS1zZGtPXzBpdk5zcTd1ZW1neE8zcGhCcGhfcXB3NVk3ZG5EVWZnMkdjUThlMWpiLVNRbndBYTJDMi1NV2ZIbkhobXV3bGV6V1lYaGh1T0xLbGZpLVJkdmZUcmhvd210Y3lpLUtBQklJbmExODZGUnVTZ0d2c1NDSkxXbkw0N25RanI5VFZnM2czOUJpcEMyTkE?oc=5",
+      "parsed_date": "2026-04-24",
+      "raw_title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
+      "same_story_key": "apnews.com|2026-04-24|asia cambodia cambodian crackdown cybercrime cyberscams d72dfed7b7da123d7ad0d26527cd7adb kok",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "apnews.com",
+      "title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "url": "https://apnews.com/article/cambodia-myanmar-scams-cybercrime-kok-an-d72dfed7b7da123d7ad0d26527cd7adb",
+      "usefulness_category": "Platform policy / product change"
+    },
     "arxiv.org|2026-05-04|02502 2605 african analysis connection context detection digital": {
       "article_type": "Research paper",
       "normalised_title": "2605 02502 guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis african context",
@@ -54,6 +68,20 @@
       "source_domain": "arxiv.org",
       "title": "2605 02502 guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis african context",
       "url": "https://arxiv.org/abs/2605.02502",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-05-14|analysis connection detection digital entity fraud guardsec modal": {
+      "article_type": "Research paper",
+      "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
+      "normalized_title_fingerprint": "guardsec multi modal web platform real time digital fraud detection entity verification connection security",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zT0hSTERHdmVWVElvSnpmZWQ3bVZYMUtHS1ZqYnBmMUdRUWVwblhyNFFYT0hUOFlaM3c2UVdKMHR1Q1NuaWZhZjlYYw?oc=5",
+      "parsed_date": "2026-05-14",
+      "raw_title": "GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis",
+      "same_story_key": "arxiv.org|2026-05-14|analysis connection detection digital entity fraud guardsec modal",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "arxiv.org",
+      "title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
+      "url": "https://arxiv.org/html/2605.02502v4",
       "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-05-21|21246 2605 behavioral factors phishing profiling psychological through": {
@@ -97,6 +125,34 @@
       "title": "cybersecurity risks online piracy websites malaysia empirical comparison scam risk malware exposure advertising ecosystems",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6309900",
       "usefulness_category": "Product idea / data source"
+    },
+    "papers.ssrn.com|2026-05-23|artificial detection email framework intelligence modern phishing practical": {
+      "article_type": "Research paper",
+      "normalised_title": "artificial intelligence phishing detection practical framework modern email security",
+      "normalized_title_fingerprint": "artificial intelligence phishing detection practical framework modern email security",
+      "original_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdnlnSWtfS2lKM29hQno1dDRFbTRCSHhVcFVNSVhoZ2NnSDlkMi13S3RiMmotdEFmUVhtRVhBQm00NGNXaElzTWxiY21ObHNoY05OZDR2RG1USllMb2MxcVZ6MFh0U3VNNzU5MXdPTU95ckJHR0pIWEF4RTFZS3BYek9mMVhnZ0E?oc=5",
+      "parsed_date": "2026-05-23",
+      "raw_title": "Artificial Intelligence in Phishing Detection - A Practical Framework for Modern Email Security",
+      "same_story_key": "papers.ssrn.com|2026-05-23|artificial detection email framework intelligence modern phishing practical",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "artificial intelligence phishing detection practical framework modern email security",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6738818.pdf?abstractid=6738818&mirid=1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered": {
+      "article_type": "News report",
+      "normalised_title": "global cybersecurity gap deepens ai powered attacks surge",
+      "normalized_title_fingerprint": "global cybersecurity gap deepens ai powered attacks surge",
+      "original_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wS3VsQmxyb2hLdnN5WmVUVWJFbHFGUlQ2dktfWV9oOVotZGpzRllRdE9aalhqZDBnWldWREtDNTdKWWhoTUdWOWg4b2VLYTlOdV9aVjBxbEM0Yjlicm5tQ0dDN1JqR3c5bW04NWl5c2k?oc=5",
+      "parsed_date": "2026-05-05",
+      "raw_title": "The global cybersecurity gap deepens as AI-powered attacks surge",
+      "same_story_key": "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "restofworld.org",
+      "title": "global cybersecurity gap deepens ai powered attacks surge",
+      "url": "https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/",
+      "usefulness_category": "General context"
     },
     "straitstimes.com|2026-05-14|deepfakes government involving least loses scam victim wong": {
       "article_type": "News report",
@@ -153,6 +209,20 @@
       "title": "scammers abusing official microsoft email address send spam",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-official-microsoft-email-address-to-send-spam/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "techcrunch.com|2026-05-21|deepfakes demand era faas fraud service welcome": {
+      "article_type": "News report",
+      "normalised_title": "deepfakes demand welcome era fraud service faas",
+      "normalized_title_fingerprint": "deepfakes demand welcome era fraud service faas",
+      "original_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHdJbFpsWjJZcHJPLXhVbzRjZlVhNDVkSUxFWUpNWjJVYndhVGE4VnA5ZUpoODBWa2x2SDNobnI2MWlWLVFCQVNZUWlfN1FmYjdqQzh1Y1NKUGdxM2N1SW1UOHFBbHZPWGlfNXMxd3JNTXdOWVJhOXQ0b2lNclllLTFvRUhsYkxGeEpNekdSVy1RcktYV0p4V3dUUEdRVUFmSDZHZnZVRQ?oc=5",
+      "parsed_date": "2026-05-21",
+      "raw_title": "Deepfakes on Demand: Welcome to the Era of Fraud as a Service (FaaS) - TechCrunch",
+      "same_story_key": "techcrunch.com|2026-05-21|deepfakes demand era faas fraud service welcome",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "techcrunch.com",
+      "title": "deepfakes demand welcome era fraud service faas",
+      "url": "https://techcrunch.com/sponsor/incode/deepfakes-on-demand-welcome-to-the-era-of-fraud-as-a-service-faas/",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
     "therecord.media|2026-05-18|200 aimed arrested cyber east interpol middle more": {
       "article_type": "Investigative report",
@@ -222,6 +292,18 @@
       "title": "2605 21246 profiling user vulnerability phishing through psychological behavioral factors",
       "usefulness_category": "Research / novel method"
     },
+    "artificial intelligence phishing detection practical framework modern email security": {
+      "article_type": "Research paper",
+      "normalised_title": "artificial intelligence phishing detection practical framework modern email security",
+      "normalized_title_fingerprint": "artificial intelligence phishing detection practical framework modern email security",
+      "parsed_date": "2026-05-23",
+      "raw_title": "Artificial Intelligence in Phishing Detection - A Practical Framework for Modern Email Security",
+      "same_story_key": "papers.ssrn.com|2026-05-23|artificial detection email framework intelligence modern phishing practical",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "artificial intelligence phishing detection practical framework modern email security",
+      "usefulness_category": "Product idea / data source"
+    },
     "cybersecurity risks online piracy websites malaysia empirical comparison scam risk malware exposure advertising ecosystems": {
       "article_type": "Research paper",
       "normalised_title": "cybersecurity risks online piracy websites malaysia empirical comparison scam risk malware exposure advertising ecosystems",
@@ -232,6 +314,42 @@
       "sent_at": "2026-05-24T10:12:41+00:00",
       "source_domain": "papers.ssrn.com",
       "title": "cybersecurity risks online piracy websites malaysia empirical comparison scam risk malware exposure advertising ecosystems",
+      "usefulness_category": "Product idea / data source"
+    },
+    "deepfakes demand welcome era fraud service faas": {
+      "article_type": "News report",
+      "normalised_title": "deepfakes demand welcome era fraud service faas",
+      "normalized_title_fingerprint": "deepfakes demand welcome era fraud service faas",
+      "parsed_date": "2026-05-21",
+      "raw_title": "Deepfakes on Demand: Welcome to the Era of Fraud as a Service (FaaS) - TechCrunch",
+      "same_story_key": "techcrunch.com|2026-05-21|deepfakes demand era faas fraud service welcome",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "techcrunch.com",
+      "title": "deepfakes demand welcome era fraud service faas",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "global cybersecurity gap deepens ai powered attacks surge": {
+      "article_type": "News report",
+      "normalised_title": "global cybersecurity gap deepens ai powered attacks surge",
+      "normalized_title_fingerprint": "global cybersecurity gap deepens ai powered attacks surge",
+      "parsed_date": "2026-05-05",
+      "raw_title": "The global cybersecurity gap deepens as AI-powered attacks surge",
+      "same_story_key": "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "restofworld.org",
+      "title": "global cybersecurity gap deepens ai powered attacks surge",
+      "usefulness_category": "General context"
+    },
+    "guardsec multi modal web platform real time digital fraud detection entity verification connection security": {
+      "article_type": "Research paper",
+      "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
+      "normalized_title_fingerprint": "guardsec multi modal web platform real time digital fraud detection entity verification connection security",
+      "parsed_date": "2026-05-14",
+      "raw_title": "GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis",
+      "same_story_key": "arxiv.org|2026-05-14|analysis connection detection digital entity fraud guardsec modal",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "arxiv.org",
+      "title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
       "usefulness_category": "Product idea / data source"
     },
     "more than 200 arrested cyber raids aimed middle east scam networks": {
@@ -342,6 +460,18 @@
       "title": "us charges 2 chinese nationals managing cyberscam compound myanmar",
       "usefulness_category": "Operational intelligence"
     },
+    "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "normalized_title_fingerprint": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "parsed_date": "2026-04-24",
+      "raw_title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
+      "same_story_key": "apnews.com|2026-04-24|asia cambodia cambodian crackdown cybercrime cyberscams d72dfed7b7da123d7ad0d26527cd7adb kok",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "apnews.com",
+      "title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "usefulness_category": "Platform policy / product change"
+    },
     "victim loses least 4 9m scam involving deepfakes pm wong government officials": {
       "article_type": "News report",
       "normalised_title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
@@ -404,6 +534,18 @@
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-official-microsoft-email-address-to-send-spam/",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "1341b55383f730860f470bfa131fc8e0d729ae01da003da94d50602f7d66cc59": {
+      "article_type": "Research paper",
+      "normalised_title": "artificial intelligence phishing detection practical framework modern email security",
+      "normalized_title_fingerprint": "artificial intelligence phishing detection practical framework modern email security",
+      "parsed_date": "2026-05-23",
+      "same_story_key": "papers.ssrn.com|2026-05-23|artificial detection email framework intelligence modern phishing practical",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "Artificial Intelligence in Phishing Detection - A Practical Framework for Modern Email Security",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdnlnSWtfS2lKM29hQno1dDRFbTRCSHhVcFVNSVhoZ2NnSDlkMi13S3RiMmotdEFmUVhtRVhBQm00NGNXaElzTWxiY21ObHNoY05OZDR2RG1USllMb2MxcVZ6MFh0U3VNNzU5MXdPTU95ckJHR0pIWEF4RTFZS3BYek9mMVhnZ0E?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "1a206d8b50ae7f2368dc38379aed55c8e190c707f9e5195eed4af8cf62e46f74": {
       "article_type": "Technical article",
       "normalised_title": "scammers abusing official microsoft email address send spam",
@@ -464,6 +606,18 @@
       "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "3381b61b665f1dd654bde726ca30f12e68cf82d1ce2bc87c70d60482dc38d132": {
+      "article_type": "News report",
+      "normalised_title": "global cybersecurity gap deepens ai powered attacks surge",
+      "normalized_title_fingerprint": "global cybersecurity gap deepens ai powered attacks surge",
+      "parsed_date": "2026-05-05",
+      "same_story_key": "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "restofworld.org",
+      "title": "The global cybersecurity gap deepens as AI-powered attacks surge",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wS3VsQmxyb2hLdnN5WmVUVWJFbHFGUlQ2dktfWV9oOVotZGpzRllRdE9aalhqZDBnWldWREtDNTdKWWhoTUdWOWg4b2VLYTlOdV9aVjBxbEM0Yjlicm5tQ0dDN1JqR3c5bW04NWl5c2k?oc=5",
+      "usefulness_category": "General context"
+    },
     "3676e74e5de90ee0a96cf55d7ea5214544029ccd16a7b15db07f199dd3c7b4ea": {
       "article_type": "News report",
       "normalised_title": "sri lanka becomes next hub scam networks",
@@ -476,6 +630,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzhxVGR3MUIxUXEzOTdSSEROSHJZT01HSFRQTlhOUEdjVTRjWllDNmc1aDFDUU1URG90V2JyeUFhWTcxVUVpUmxYS0c0UjQxOXFCd3cxZ1F2cnk0cXZsWEZwMjlNWDU5UUFsaS1EQVU2SVI5MkxZNndpUUJsRTN4REM1WkZVSTNmVVRndjVBSUtEREFnUzl3RG5CQjBLZ3YwWFJkNW5iR0Vsdw?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "3aa7171b50102a7f43d441ffef73d4a11724fad36caf7e80c9105e2c02686c67": {
+      "article_type": "Research paper",
+      "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
+      "normalized_title_fingerprint": "guardsec multi modal web platform real time digital fraud detection entity verification connection security",
+      "parsed_date": "2026-05-14",
+      "same_story_key": "arxiv.org|2026-05-14|analysis connection detection digital entity fraud guardsec modal",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "arxiv.org",
+      "title": "GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zT0hSTERHdmVWVElvSnpmZWQ3bVZYMUtHS1ZqYnBmMUdRUWVwblhyNFFYT0hUOFlaM3c2UVdKMHR1Q1NuaWZhZjlYYw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "3abb7837a8cab712af5e032dd280ac0f09d7c95a0a13de3eab368bac88ca3c03": {
       "article_type": "Research paper",
       "normalised_title": "2605 02502 guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis african context",
@@ -486,6 +652,18 @@
       "source_domain": "arxiv.org",
       "title": "[2605.02502] GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context - arXiv",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ic0VxMk1uWVZzSXFMbTJpWnh0d20yMVhsaWRwanp0WkIyVUtnTHJIcXNpQmh6VU5aejZjaEFhRzZqMzJLQWpv?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
+    "425e916845012b5b2061eef20fdccba26cb3ff35775df0b8d63361a87869e239": {
+      "article_type": "Research paper",
+      "normalised_title": "artificial intelligence phishing detection practical framework modern email security",
+      "normalized_title_fingerprint": "artificial intelligence phishing detection practical framework modern email security",
+      "parsed_date": "2026-05-23",
+      "same_story_key": "papers.ssrn.com|2026-05-23|artificial detection email framework intelligence modern phishing practical",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "Artificial Intelligence in Phishing Detection - A Practical Framework for Modern Email Security",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6738818.pdf?abstractid=6738818&mirid=1",
       "usefulness_category": "Product idea / data source"
     },
     "4aa1347c0774fd6175d5f34a800f716d886a9c18a1494d6eb9ed22fa84407c19": {
@@ -511,6 +689,18 @@
       "title": "Social Engineering Threats in Cybersecurity: Risk Mitigation through Behavioral Insights - ieeexplore.ieee.org",
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
+    },
+    "600be6f111a5228f35daf5c18db76e25b3657633f03012f05e2663467f5bc021": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "normalized_title_fingerprint": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "parsed_date": "2026-04-24",
+      "same_story_key": "apnews.com|2026-04-24|asia cambodia cambodian crackdown cybercrime cyberscams d72dfed7b7da123d7ad0d26527cd7adb kok",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "apnews.com",
+      "title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlR2SmNLdXFtaS1zZGtPXzBpdk5zcTd1ZW1neE8zcGhCcGhfcXB3NVk3ZG5EVWZnMkdjUThlMWpiLVNRbndBYTJDMi1NV2ZIbkhobXV3bGV6V1lYaGh1T0xLbGZpLVJkdmZUcmhvd210Y3lpLUtBQklJbmExODZGUnVTZ0d2c1NDSkxXbkw0N25RanI5VFZnM2czOUJpcEMyTkE?oc=5",
+      "usefulness_category": "Platform policy / product change"
     },
     "63314b3ac45320eeaa9f8703f905b0dbd5cec281a54d44bedb1fdf942b4cf980": {
       "article_type": "Research paper",
@@ -572,6 +762,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydjY3WDh2LTRwSGVQVVVhX01wWWlHeHlRbDdMZktsYklTd0R2aFc4NzNhMkpnNVVyU3RUcWhxTlpPSGsxd3VRbUY3QWdxQW9sUjlZTElqekRDOTdzWndyRzY0bzZtdlZ3blpZdWtiZ00?oc=5",
       "usefulness_category": "Research / novel method"
     },
+    "801aef2dc1b0899703dfc6f1403fc002d5937b882cbc4f1450f9dc5caf23f07f": {
+      "article_type": "News report",
+      "normalised_title": "deepfakes demand welcome era fraud service faas",
+      "normalized_title_fingerprint": "deepfakes demand welcome era fraud service faas",
+      "parsed_date": "2026-05-21",
+      "same_story_key": "techcrunch.com|2026-05-21|deepfakes demand era faas fraud service welcome",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "techcrunch.com",
+      "title": "Deepfakes on Demand: Welcome to the Era of Fraud as a Service (FaaS) - TechCrunch",
+      "url": "https://techcrunch.com/sponsor/incode/deepfakes-on-demand-welcome-to-the-era-of-fraud-as-a-service-faas/",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
     "844625a88acc4d7a15954e222c55e214326c8fc511010566bf3259c75da4c943": {
       "article_type": "News report",
       "normalised_title": "two americans plead guilty assisting india based tech support scam centers",
@@ -583,6 +785,18 @@
       "title": "Two Americans plead guilty to assisting India-based tech support scam centers - The Record from Recorded Future News",
       "url": "https://therecord.media/two-americans-plead-guilty-india-call-center-scams",
       "usefulness_category": "Scam development"
+    },
+    "8d3d291b1f8193b92f35bff17d35723fb2a3eda482ae09ddc2673d4ecd797dfe": {
+      "article_type": "Research paper",
+      "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
+      "normalized_title_fingerprint": "guardsec multi modal web platform real time digital fraud detection entity verification connection security",
+      "parsed_date": "2026-05-14",
+      "same_story_key": "arxiv.org|2026-05-14|analysis connection detection digital entity fraud guardsec modal",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "arxiv.org",
+      "title": "GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis",
+      "url": "https://arxiv.org/html/2605.02502v4",
+      "usefulness_category": "Product idea / data source"
     },
     "8dba53bc7737b131f0d46d8df0eeb96fcd20494907a3c80228e71924d3bc4961": {
       "article_type": "Investigative report",
@@ -644,6 +858,18 @@
       "url": "https://arxiv.org/abs/2605.02502",
       "usefulness_category": "Product idea / data source"
     },
+    "bddef0f8bad0f01bf83b071da68409047ead71c0407a8976c3a98974981a0132": {
+      "article_type": "News report",
+      "normalised_title": "global cybersecurity gap deepens ai powered attacks surge",
+      "normalized_title_fingerprint": "global cybersecurity gap deepens ai powered attacks surge",
+      "parsed_date": "2026-05-05",
+      "same_story_key": "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "restofworld.org",
+      "title": "The global cybersecurity gap deepens as AI-powered attacks surge",
+      "url": "https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/",
+      "usefulness_category": "General context"
+    },
     "bdea344349a39adbd26642a2ae70d8799a0a1a2c20d03865d1331474a0c9b170": {
       "article_type": "Technical article",
       "normalised_title": "teen hacker iron dome researcher founder raised 28m fight ai phishing",
@@ -691,6 +917,30 @@
       "title": "US charges 2 Chinese nationals with managing cyberscam compound in Myanmar - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVFBUThGUkJlMkpmOG1BVmJZV21hT3czajZRVElhbHZBcmZaNjM0Vm5ZNUJ2R25IaGZPUlVGeVo1OUFsSWVXNS0tQ3BUUXVoU1l4UEFrby1Ia09SLVI1ZHluanZyajh4c3ZJaVJRME1HWlRyZV9UV2pjR0pienNudjFKQ0pQWXFmNjd3UmY0b2dMQnR3MW1mRUV5TkRadmhYeTRvNnh5VE9UWk0?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "ede2b97dc6bac46f7fbce3f3d474a4dcb2ce13513c6f50c7c6dacf3fa8e1b7af": {
+      "article_type": "News report",
+      "normalised_title": "deepfakes demand welcome era fraud service faas",
+      "normalized_title_fingerprint": "deepfakes demand welcome era fraud service faas",
+      "parsed_date": "2026-05-21",
+      "same_story_key": "techcrunch.com|2026-05-21|deepfakes demand era faas fraud service welcome",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "techcrunch.com",
+      "title": "Deepfakes on Demand: Welcome to the Era of Fraud as a Service (FaaS) - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHdJbFpsWjJZcHJPLXhVbzRjZlVhNDVkSUxFWUpNWjJVYndhVGE4VnA5ZUpoODBWa2x2SDNobnI2MWlWLVFCQVNZUWlfN1FmYjdqQzh1Y1NKUGdxM2N1SW1UOHFBbHZPWGlfNXMxd3JNTXdOWVJhOXQ0b2lNclllLTFvRUhsYkxGeEpNekdSVy1RcktYV0p4V3dUUEdRVUFmSDZHZnZVRQ?oc=5",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "edf41fb578f3731cf4100aa539839299b7f7204d4ae77c1d78e6db2607d71bd1": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "normalized_title_fingerprint": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
+      "parsed_date": "2026-04-24",
+      "same_story_key": "apnews.com|2026-04-24|asia cambodia cambodian crackdown cybercrime cyberscams d72dfed7b7da123d7ad0d26527cd7adb kok",
+      "sent_at": "2026-05-25T00:48:07+00:00",
+      "source_domain": "apnews.com",
+      "title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
+      "url": "https://apnews.com/article/cambodia-myanmar-scams-cybercrime-kok-an-d72dfed7b7da123d7ad0d26527cd7adb",
+      "usefulness_category": "Platform policy / product change"
     },
     "f39b243b5846e6fed9cc7e2db008c0112bb93017b1eebd300f5c14620b8e6115": {
       "article_type": "News report",
