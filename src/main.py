@@ -829,7 +829,7 @@ SECTION_ORDER = (
     "🇸🇬 SINGAPORE / SOUTHEAST ASIA",
     "🚨 ADVISORIES & ENFORCEMENT",
 )
-SECTION_DIVIDER = "━━━━━━━━━━━━━━━━"
+SECTION_MARKER = "▸"
 
 
 def load_config() -> dict[str, Any]:
@@ -5190,8 +5190,9 @@ def build_cost_run(
     candidate_count: int,
     shortlist_count: int,
     sent_count: int,
+    pipeline: dict[str, Any] | None = None,
 ) -> dict[str, Any]:
-    return {
+    run = {
         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "mode": mode,
         **cost_data,
@@ -5199,6 +5200,22 @@ def build_cost_run(
         "shortlist_count": shortlist_count,
         "sent_count": sent_count,
     }
+    if pipeline:
+        cache_info = pipeline.get("cache_info", {})
+        stats = pipeline.get("stats", {})
+        run.update(
+            {
+                "candidate_cache_used": bool(cache_info.get("used_candidate_cache", False)),
+                "cache_fallback_used": bool(cache_info.get("cache_fallback_used", False)),
+                "cache_fallback_allowed": bool(cache_info.get("cache_fallback_allowed", True)),
+                "fetch_skipped": bool(cache_info.get("fetch_skipped", False)),
+                "rss_queries_run": stats.get("rss_queries_run", 0),
+                "raw_candidate_count": stats.get("raw_candidate_count", candidate_count),
+                "date_filtered_candidate_count": stats.get("date_filtered_candidate_count", candidate_count),
+                "ranked_unseen_candidate_count": stats.get("ranked_unseen_candidate_count", candidate_count),
+            }
+        )
+    return run
 
 
 def write_github_summary(run: dict[str, Any]) -> None:
@@ -5219,6 +5236,11 @@ def write_github_summary(run: dict[str, Any]) -> None:
         f"- Actual tokens: {run['actual_prompt_tokens']} input, {run['actual_output_tokens']} output, {run['actual_thoughts_tokens']} thoughts, {run['actual_total_tokens']} total",
         f"- Actual cost: {run['actual_cost_usd']}",
         f"- Counts: {run['candidate_count']} candidates, {run['shortlist_count']} shortlisted, {run['sent_count']} sent",
+        f"- Candidate cache used: {run.get('candidate_cache_used', False)}",
+        f"- Cache fallback used: {run.get('cache_fallback_used', False)}",
+        f"- Fetch skipped: {run.get('fetch_skipped', False)}",
+        f"- RSS queries run: {run.get('rss_queries_run', 'unknown')}",
+        f"- Raw candidates fetched: {run.get('raw_candidate_count', 'unknown')}",
         "",
     ]
 
@@ -5404,9 +5426,8 @@ def format_digest(items: list[dict[str, Any]]) -> str:
     for section_index, (section, section_items) in enumerate(grouped_sections.items()):
         if section_index > 0 and lines[-1] != "":
             lines.append("")
-        lines.append(SECTION_DIVIDER)
-        lines.append(section)
-        lines.append(SECTION_DIVIDER)
+        lines.append(f"{SECTION_MARKER} {section}")
+        lines.append("")
         for item in section_items:
             article_type = item.get("article_type", classify_article_type(item))
             usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
@@ -5851,6 +5872,7 @@ def main() -> None:
             candidate_count=len(ranked_candidates),
             shortlist_count=len(shortlist),
             sent_count=len(selected_items),
+            pipeline=pipeline,
         )
         save_cost_log(run)
         print_pipeline_report(pipeline)
@@ -5927,9 +5949,13 @@ def main() -> None:
         candidate_count=len(ranked_candidates),
         shortlist_count=len(shortlist),
         sent_count=len(selected_items),
+        pipeline=pipeline,
     )
     save_cost_log(run)
     write_github_summary(run)
+    print_pipeline_report(pipeline)
+    final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, pipeline.get("ranked_candidates", ranked_items))
+    save_ranking_run(pipeline, selected_items, final_failures)
 
     telegram_started = time.monotonic()
     message = format_digest(selected_items) if len(selected_items) >= min_items else format_no_items_message()
