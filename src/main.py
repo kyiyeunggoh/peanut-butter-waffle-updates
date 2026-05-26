@@ -1077,6 +1077,30 @@ def source_domain(source: dict[str, Any]) -> str | None:
     return hostname.removeprefix("www.")
 
 
+def domain_from_url(url: str) -> str:
+    return (urlparse(url).hostname or "").lower().removeprefix("www.")
+
+
+def google_news_entry_source(entry: Any, fallback_name: str) -> tuple[str, str]:
+    source = entry.get("source") or entry.get("source_detail") or {}
+    source_name = fallback_name
+    source_url = ""
+    if isinstance(source, dict):
+        source_name = str(source.get("title") or source.get("name") or fallback_name)
+        source_url = str(source.get("href") or source.get("url") or "")
+    elif source:
+        source_name = str(source)
+
+    source_domain_value = domain_from_url(source_url)
+    if not source_domain_value:
+        title = str(entry.get("title", ""))
+        if " - " in title:
+            publisher = title.rsplit(" - ", 1)[1].strip()
+            if publisher:
+                source_name = publisher
+    return source_name, source_domain_value
+
+
 def configured_reference_examples(config: dict[str, Any]) -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for raw_entry in config.get("reference_examples", []) or config.get("reference_urls", []) or config.get("watchlist", []) or []:
@@ -4361,6 +4385,7 @@ def fetch_candidates(
             original_url_hash = url_hash(original_url)
             title = entry.get("title", "Untitled")
             query_text = query.get("query", "").lower()
+            source_name, source_domain_value = google_news_entry_source(entry, query["name"])
             if "site:arxiv.org" in query_text and sum(1 for item in deduped_by_url.values() if item.get("fetcher") == "arxiv") >= max_arxiv_candidates:
                 cap_reached_by_fetcher["arxiv"] = True
                 continue
@@ -4374,7 +4399,9 @@ def fetch_candidates(
                 "original_url_hash": original_url_hash,
                 "canonical_url": original_url,
                 "canonical_url_hash": original_url_hash,
-                "source": query["name"],
+                "source": source_name,
+                "source_name": source_name,
+                "source_domain": source_domain_value,
                 "title": title,
                 "normalised_title": normalised_title(title),
                 "title_fingerprint": title_fingerprint(title),
@@ -4726,6 +4753,8 @@ def canonicalise_top_candidates(
                     }
             candidate["url"] = candidate["canonical_url"]
             candidate["url_decode_method"] = method
+            if not candidate.get("source_domain"):
+                candidate["source_domain"] = domain_from_url(candidate["canonical_url"])
             candidate["canonical_url_hash"] = url_hash(candidate["canonical_url"])
             candidate["id"] = candidate["canonical_url_hash"]
             if was_google_news and stats is not None:
@@ -5706,6 +5735,18 @@ def run_pipeline(
                 config,
                 stats,
             )
+            if resolve_urls and shortlist:
+                resolve_started = time.monotonic()
+                url_cache = load_cache(URL_CACHE_PATH)
+                shortlist = canonicalise_top_candidates(
+                    shortlist,
+                    limit=len(shortlist),
+                    max_google_news_to_resolve=len(shortlist),
+                    stats=stats,
+                    url_cache=url_cache,
+                )
+                timing["url_resolution_runtime_seconds"] = time.monotonic() - resolve_started
+                save_cache(URL_CACHE_PATH, url_cache)
             stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
             return {
                 "rss_queries_run": 0,
@@ -5779,6 +5820,18 @@ def run_pipeline(
             config,
             stats,
         )
+        if resolve_urls and shortlist:
+            resolve_started = time.monotonic()
+            url_cache = load_cache(URL_CACHE_PATH)
+            shortlist = canonicalise_top_candidates(
+                shortlist,
+                limit=len(shortlist),
+                max_google_news_to_resolve=len(shortlist),
+                stats=stats,
+                url_cache=url_cache,
+            )
+            timing["url_resolution_runtime_seconds"] = time.monotonic() - resolve_started
+            save_cache(URL_CACHE_PATH, url_cache)
         stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
         return {
             "rss_queries_run": 0,
@@ -5823,13 +5876,20 @@ def run_pipeline(
         seen,
         stats,
     )
-    if resolve_urls:
-        ranked_candidates = filter_unresolved_google_news_candidates(ranked_candidates, stats)
     quality_started = time.monotonic()
     ranked_candidates, quality_ranked_candidates = apply_quality_filters(ranked_candidates, config, stats, quality_cache)
     timing["quality_inspection_runtime_seconds"] = time.monotonic() - quality_started
     save_cache(QUALITY_CACHE_PATH, quality_cache)
     ranked_candidates, shortlist = build_pre_gemini_shortlist(ranked_candidates, shortlist_count, config, stats)
+    if resolve_urls and shortlist:
+        shortlist = canonicalise_top_candidates(
+            shortlist,
+            limit=len(shortlist),
+            max_google_news_to_resolve=len(shortlist),
+            stats=stats,
+            url_cache=url_cache,
+        )
+        save_cache(URL_CACHE_PATH, url_cache)
     stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
     save_candidate_cache(quality_ranked_candidates, config)
 
