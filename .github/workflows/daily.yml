@@ -9,7 +9,9 @@ on:
         default: "true"
         type: boolean
   schedule:
-    - cron: "0 0 * * *"
+    # 08:13 Asia/Singapore. Avoid the 00:00 UTC top-of-hour queue where
+    # GitHub scheduled workflows can be delayed or dropped.
+    - cron: "13 0 * * *"
 
 permissions:
   contents: write
