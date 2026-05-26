@@ -586,6 +586,30 @@
         "Research / novel method": 1,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 2,
+      "failed_constraints": [
+        "below_min_articles:2<3"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "singapore_sea": 2
+      },
+      "shortlist_count": 2,
+      "source_domain_distribution": {
+        "straitstimes.com": 2
+      },
+      "timestamp": "2026-05-26T01:30:53+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 1,
+        "Scam development": 1
+      }
     }
   ]
 }
