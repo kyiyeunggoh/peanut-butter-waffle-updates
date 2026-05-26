@@ -4621,17 +4621,88 @@ def resolve_google_news_url(url: str) -> str:
     return decoded_url
 
 
+PRIORITY_RESOLUTION_QUERY_GROUPS = {
+    "targeted",
+    "psychology",
+    "academic",
+    "investigative",
+    "international",
+    "platform_product",
+    "monitored_source",
+    "singapore_sea",
+}
+
+
+def should_prioritise_url_resolution(candidate: dict[str, Any]) -> bool:
+    query_group = str(candidate.get("query_group", "")).lower()
+    query = str(candidate.get("query", "")).lower()
+    title = str(candidate.get("title", "")).lower()
+    if query_group in PRIORITY_RESOLUTION_QUERY_GROUPS:
+        return True
+    if '"' in query or "site:" in query:
+        return True
+    if any(domain in query for domain in HIGH_VALUE_INVESTIGATIVE_DOMAINS + HIGH_VALUE_PRODUCT_DOMAINS):
+        return True
+    return any(term in title for term in STRONG_SCAM_ANCHOR_TERMS) and any(
+        term in title for term in TECHNOLOGY_MODUS_TERMS
+    )
+
+
+def url_resolution_priority(candidate: dict[str, Any], now: datetime) -> tuple[int, int, int, str]:
+    query_group = str(candidate.get("query_group", "")).lower()
+    query = str(candidate.get("query", "")).lower()
+    group_weight = {
+        "targeted": 120,
+        "psychology": 110,
+        "academic": 105,
+        "investigative": 105,
+        "international": 100,
+        "platform_product": 95,
+        "monitored_source": 90,
+        "singapore_sea": 70,
+    }.get(query_group, 0)
+    exact_or_site_weight = 20 if ('"' in query or "site:" in query) else 0
+    return (
+        group_weight + exact_or_site_weight,
+        score_item(candidate, now),
+        recency_boost(candidate, now),
+        str(candidate.get("title", "")),
+    )
+
+
 def canonicalise_top_candidates(
     ranked: list[dict[str, Any]],
     limit: int = 50,
+    max_google_news_to_resolve: int | None = None,
     stats: dict[str, int] | None = None,
     url_cache: dict[str, Any] | None = None,
 ) -> list[dict[str, Any]]:
     canonicalised: list[dict[str, Any]] = []
+    now = datetime.now(timezone.utc)
+    max_resolutions = max_google_news_to_resolve or limit
+    selected_indexes = set(range(min(limit, len(ranked))))
+    priority_indexes = sorted(
+        (
+            (url_resolution_priority(item, now), index)
+            for index, item in enumerate(ranked)
+            if index not in selected_indexes
+            and is_google_news_url(item.get("url") or item.get("canonical_url") or "")
+            and should_prioritise_url_resolution(item)
+        ),
+        reverse=True,
+    )
+    for _priority, index in priority_indexes:
+        if len(selected_indexes) >= max_resolutions:
+            break
+        selected_indexes.add(index)
+    if stats is not None:
+        stats["google_news_url_resolution_budget"] = max_resolutions
+        stats["google_news_priority_resolution_candidate_count"] = len(priority_indexes)
+        stats["google_news_url_selected_for_resolution_count"] = len(selected_indexes)
 
     for index, item in enumerate(ranked):
         candidate = dict(item)
-        if index < limit:
+        if index in selected_indexes:
             candidate["original_url"] = candidate["url"]
             was_google_news = is_google_news_url(candidate["original_url"])
             method = "not_google_news"
@@ -5729,9 +5800,16 @@ def run_pipeline(
     quality_cache = load_cache(QUALITY_CACHE_PATH)
     if resolve_urls:
         resolve_started = time.monotonic()
+        max_google_news_to_resolve = int(
+            os.getenv(
+                "MAX_GOOGLE_NEWS_URLS_TO_RESOLVE",
+                config.get("max_google_news_urls_to_resolve", max(160, inspect_count * 4)),
+            )
+        )
         ranked_candidates = canonicalise_top_candidates(
             ranked_candidates,
             limit=max(50, inspect_count),
+            max_google_news_to_resolve=max_google_news_to_resolve,
             stats=stats,
             url_cache=url_cache,
         )

@@ -1,7 +1,8 @@
 lookback_days: 90
 max_article_age_days: 90
-academic_research_max_article_age_days: 365
-investigative_longform_max_article_age_days: 365
+academic_research_max_article_age_days: 730
+investigative_longform_max_article_age_days: 730
+max_google_news_urls_to_resolve: 100
 max_candidates_for_llm: 20
 min_articles_to_send: 3
 max_articles_to_send: 10
