@@ -8,6 +8,11 @@ on:
         required: false
         default: "true"
         type: boolean
+      force_send_even_if_already_sent_today:
+        description: "Bypass the daily send guard and allow another real Telegram send today"
+        required: false
+        default: "false"
+        type: boolean
   schedule:
     # Staggered attempts for 08:13, 08:43, and 09:13 Asia/Singapore.
     # GitHub scheduled workflows can be delayed or occasionally dropped;
@@ -19,6 +24,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-telegram-digest-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   send-digest:
@@ -48,7 +57,7 @@ jobs:
           from pathlib import Path
           from zoneinfo import ZoneInfo
 
-          is_schedule = os.environ.get("GITHUB_EVENT_NAME") == "schedule"
+          force_send = os.environ.get("FORCE_SEND_EVEN_IF_ALREADY_SENT_TODAY", "").lower() == "true"
           today_sg = datetime.now(ZoneInfo("Asia/Singapore")).date()
           already_sent = False
           reasons = []
@@ -89,14 +98,16 @@ jobs:
               except json.JSONDecodeError:
                   pass
 
-          skip = is_schedule and already_sent
+          skip = already_sent and not force_send
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
               output.write(f"skip={'true' if skip else 'false'}\n")
               output.write(f"today_sg={today_sg.isoformat()}\n")
               output.write(f"reason={'; '.join(reasons) if reasons else 'not previously sent today'}\n")
 
-          print(f"daily_guard skip={skip} today_sg={today_sg.isoformat()} reason={'; '.join(reasons) if reasons else 'not previously sent today'}")
+          print(f"daily_guard skip={skip} force_send={force_send} today_sg={today_sg.isoformat()} reason={'; '.join(reasons) if reasons else 'not previously sent today'}")
           PY
+        env:
+          FORCE_SEND_EVEN_IF_ALREADY_SENT_TODAY: ${{ github.event_name == 'workflow_dispatch' && inputs.force_send_even_if_already_sent_today && 'true' || 'false' }}
 
       - name: Install dependencies
         if: steps.daily_guard.outputs.skip != 'true'
