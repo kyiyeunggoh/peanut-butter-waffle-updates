@@ -19,6 +19,10 @@
     "canonical_url": "https://therecord.media/ukraine-says-russia-using-ai-malware-on-battlefield",
     "resolved_at": "2026-05-24T10:11:50+00:00"
   },
+  "04130c1653ad2fcde0d5e09d8c112db21cb0b363fdeb92ee8773b31c8b1218b1": {
+    "canonical_url": "https://www.ft.com/content/38460669-0efc-49fa-9638-8c6e52f7904c?syn-25a6b1a6=1",
+    "resolved_at": "2026-05-27T02:37:32+00:00"
+  },
   "0421e53866e7b2a57a7637b0edb073ac42e26471256bb1d0e1811e121557ac19": {
     "canonical_url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
     "resolved_at": "2026-05-24T01:34:45+00:00"
@@ -43,6 +47,10 @@
     "canonical_url": "https://therecord.media/more-than-200-arrested-interpol-middle-east-scams",
     "resolved_at": "2026-05-24T10:11:30+00:00"
   },
+  "068115b7af0fa5bd18c96686b7c67e7ce0cfbdba397cd06fb25d3f3c2127fe07": {
+    "canonical_url": "https://ieeexplore.ieee.org/iel7/10395909/10396851/10397016.pdf",
+    "resolved_at": "2026-05-27T02:38:48+00:00"
+  },
   "0696543c7ecebadd39baafee569b1fd4cb78a05c7ff7902333b54440ab33c105": {
     "canonical_url": "https://www.straitstimes.com/singapore/malaysian-woman-nabbed-over-role-in-scam-with-fake-government-officials-26th-arrested-since-march",
     "resolved_at": "2026-05-23T16:11:58+00:00"
@@ -66,6 +74,10 @@
   "0f132cc091d8d17d45d010f38e2b35259447d5c05a00467d7bbe916b61245ca6": {
     "canonical_url": "https://arxiv.org/html/2605.23243v1",
     "resolved_at": "2026-05-26T01:30:14+00:00"
+  },
+  "108fe427382408f5077a11bfde2fc4eaf59f1c298ad133331e41b7813b23a281": {
+    "canonical_url": "https://arxiv.org/html/2605.12243v1",
+    "resolved_at": "2026-05-27T02:38:41+00:00"
   },
   "10a96a78e271b018a1905e00f1d35ef7c89ab43e4e1c083216688dd31b573bf3": {
     "canonical_url": "https://www.channelnewsasia.com/business/trump-sign-order-ai-oversight-security-fears-mount-among-supporters-6132846",
@@ -99,9 +111,17 @@
     "canonical_url": "https://www.straitstimes.com/asia/us-imposes-sanctions-on-cambodian-senator-and-28-others-for-alleged-crypto-romance-scams",
     "resolved_at": "2026-05-25T01:06:48+00:00"
   },
+  "15285bb797980ef87e0d23f602c93a50ca25f51f4fbeb3879f14d4cff12fc950": {
+    "canonical_url": "https://dl.acm.org/doi/10.1016/j.cose.2022.102937",
+    "resolved_at": "2026-05-27T02:37:20+00:00"
+  },
   "1588f34bd82c1a787d96279d496cf41c87c41442ac2ae540fb56ca4ff430f68b": {
     "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3772318.3791198",
     "resolved_at": "2026-05-24T10:11:39+00:00"
+  },
+  "1683e8e316d32a35dddfe1e64c35606d83bad621287e5f845f09341576316382": {
+    "canonical_url": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
+    "resolved_at": "2026-05-27T02:37:26+00:00"
   },
   "1888b6df433248bab4a330e7694ae8527868a37c806f1b1bec38820bb2b58974": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663219",
@@ -111,6 +131,10 @@
     "canonical_url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-official-microsoft-email-address-to-send-spam/",
     "resolved_at": "2026-05-23T15:51:32+00:00"
   },
+  "1aaf6ad061e478e44d233b96cb3cb2b40bffdb2af31fba57e3a126ada98e0df1": {
+    "canonical_url": "https://arxiv.org/html/2505.15017v1",
+    "resolved_at": "2026-05-27T02:38:35+00:00"
+  },
   "1ad9a02c8bf3a27ace8a32e19612521557c16a3d090c9bea59902d2c0b323cd6": {
     "canonical_url": "https://therecord.media/two-americans-plead-guilty-india-call-center-scams",
     "resolved_at": "2026-05-24T10:11:59+00:00"
@@ -119,9 +143,21 @@
     "canonical_url": "https://www.csa.gov.sg/our-programmes/cybersecurity-outreach/sg-cyber-safe-students/events-and-activities/cyber-quest/",
     "resolved_at": "2026-05-24T03:15:00+00:00"
   },
+  "1ea7934946acce1bb645e26f95587f7f5b3ed3bc64a696b24d5a623eec47220e": {
+    "canonical_url": "https://www.nytimes.com/2026/03/17/opinion/ai-economy-trump-future.html",
+    "resolved_at": "2026-05-27T02:37:35+00:00"
+  },
   "1ebfd0fa0bfa410ecb7322b39f3cbbd64d4bdba1a08dd8d279ab1fbaa4c1b2f6": {
     "canonical_url": "https://www.straitstimes.com/singapore/i-feel-something-so-right-doing-the-wrong-thing-scam-worker-brainwashed-by-pop-songs-threats",
     "resolved_at": "2026-05-25T01:06:39+00:00"
+  },
+  "20a689076bae443acb7cb0ba798eef0d5c5ba1a766d8b73391d892917f428ed7": {
+    "canonical_url": "https://www.wired.com/story/household-chores-training-robots/",
+    "resolved_at": "2026-05-27T02:37:14+00:00"
+  },
+  "20efb989376d6f1e8bbaf19e21a899ef916c79314444d5f871dcdbbc27858057": {
+    "canonical_url": "https://ieeexplore.ieee.org/document/10692765/",
+    "resolved_at": "2026-05-27T02:38:45+00:00"
   },
   "215143efe6582fcc6e624a9d791580bb1efae66c1d44743f01048acfc31ad902": {
     "canonical_url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
@@ -131,6 +167,10 @@
     "canonical_url": "https://www.straitstimes.com/world/united-states/us-enforces-law-to-crack-down-on-sexual-deepfakes",
     "resolved_at": "2026-05-23T15:51:04+00:00"
   },
+  "2669fb25d53c604f8a2c54972a7063cbf56c6cf7f05a930638426c758f21acea": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
+    "resolved_at": "2026-05-27T02:37:09+00:00"
+  },
   "29fe8102404ab4983554a9315b1fd309fac484493bd1366f0c49a76f335fbd33": {
     "canonical_url": "https://mothership.sg/2026/05/pm-wong-zoom-deepfake-scam/",
     "resolved_at": "2026-05-23T15:50:44+00:00"
@@ -138,6 +178,10 @@
   "2c90897ea38a344901a27a398ca133af1e884e1aa5eb1a06834d6aadb8f18722": {
     "canonical_url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
     "resolved_at": "2026-05-26T01:30:27+00:00"
+  },
+  "2ed1c4ac8b7d54e2afb4343805b265dfbaba5423e602e65fa9073eb8d336981b": {
+    "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6139207",
+    "resolved_at": "2026-05-27T02:38:40+00:00"
   },
   "31a8641f65fa8850b06160fda4ebf53614a96fd56e638b34afbf9f98250412d9": {
     "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3772318.3790902",
@@ -227,13 +271,25 @@
     "canonical_url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
     "resolved_at": "2026-05-26T01:30:30+00:00"
   },
+  "46b64fa2ff0e0132771b2e053fd117169d301a98e9f311f76581c85a20a8a978": {
+    "canonical_url": "https://www.ndss-symposium.org/wp-content/uploads/s2522-pang-slides.pdf",
+    "resolved_at": "2026-05-27T02:38:38+00:00"
+  },
   "4720241252e61b8fcad55b4300a7637ed80740bedae4e191d49ca4044765549a": {
     "canonical_url": "https://arxiv.org/html/2605.21246v1",
     "resolved_at": "2026-05-23T16:58:18+00:00"
   },
+  "476f25377347a121e7e464a8d17b4144de082e6d02f91a9b41b3c7ec0c62720a": {
+    "canonical_url": "https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/",
+    "resolved_at": "2026-05-27T02:38:20+00:00"
+  },
   "47a4484f26626a4b3b36a17fd40bd6383f105da5d2c4bee6224eb0f02762c30d": {
     "canonical_url": "https://www.wired.com/story/the-department-of-labors-faith-leader-is-now-also-in-charge-of-its-civil-rights-enforcement/",
     "resolved_at": "2026-05-26T01:30:28+00:00"
+  },
+  "48405276028d79f87d75844a6f7fff920398376fbf44b19d8bf5b8e669a8fd28": {
+    "canonical_url": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
+    "resolved_at": "2026-05-27T02:37:28+00:00"
   },
   "4a24ff84d99f9cdcb4bf7f2ef664e75b9d553a74f5f403f76cd8d41c52b273fb": {
     "canonical_url": "https://arxiv.org/pdf/2605.12075",
@@ -259,6 +315,10 @@
     "canonical_url": "https://www.channelnewsasia.com/asia/malaysia-police-transnational-scam-syndicate-visa-policy-6125416",
     "resolved_at": "2026-05-23T15:52:01+00:00"
   },
+  "5154f13f036441e643429b76970b5025ba3d7a7750d4f10cbc494e23a704541c": {
+    "canonical_url": "https://graphika.com/reports/scams-fraud",
+    "resolved_at": "2026-05-27T02:38:31+00:00"
+  },
   "518b970f1e8bd77ee050991390fef408b2219dcb3e0517e48661a5c5e272fccf": {
     "canonical_url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
     "resolved_at": "2026-05-23T16:12:00+00:00"
@@ -275,9 +335,21 @@
     "canonical_url": "https://arxiv.org/abs/2605.20759",
     "resolved_at": "2026-05-23T15:50:38+00:00"
   },
+  "54af5a45e49ede74f1da21dc1104fd6fa111092ec30d0ce63ca7230251049173": {
+    "canonical_url": "https://www.business-standard.com/technology/tech-news/tech-wrap-march-9-sandisk-flash-drive-galaxy-m17e-5g-playstation-store-126030900859_1.html",
+    "resolved_at": "2026-05-27T02:37:36+00:00"
+  },
   "55c742e9ae95867e1de1884cf0fbae5bb998abc50cc2f20e2fd873ca06eff403": {
     "canonical_url": "https://arxiv.org/html/2604.23563v1",
     "resolved_at": "2026-05-24T03:14:59+00:00"
+  },
+  "56ea3e0f3f6d8fa2e50c47544e0d2b9dd8a7e1fd306fbbb47407d63c2338a3dc": {
+    "canonical_url": "https://www.business-standard.com/technology/tech-news/llms-may-help-fact-checkers-track-who-s-behind-pseudonymous-accounts-study-126030900823_1.html",
+    "resolved_at": "2026-05-27T02:37:38+00:00"
+  },
+  "591238ca0e3e89820c79b3f86f1c757a74e4f07f1469082acba0938b652c6b8c": {
+    "canonical_url": "https://arxiv.org/html/2508.21457v1",
+    "resolved_at": "2026-05-27T02:38:43+00:00"
   },
   "5b7babef04965d1436c432f1eda80651ca58ac88b16032d788163f4a28fa7fd7": {
     "canonical_url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
@@ -294,6 +366,14 @@
   "5ce35ad3df3ae2cfce405996c04e5448d7cb9ae83574b564eee3802b8c63d9ba": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5249574.pdf?abstractid=5249574&mirid=1",
     "resolved_at": "2026-05-24T10:12:06+00:00"
+  },
+  "5d6bba2c29704b51d972097be42cc6e2468e0616628cb91cc51277fc441c695f": {
+    "canonical_url": "https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/",
+    "resolved_at": "2026-05-27T02:38:22+00:00"
+  },
+  "5f5a48b07f87dda17d0f2f503bcda6f0f10e7b35521e04d19b8de0b90c65e26e": {
+    "canonical_url": "https://therecord.media/nigeria-raccoon-developer-tip",
+    "resolved_at": "2026-05-27T02:38:17+00:00"
   },
   "600be6f111a5228f35daf5c18db76e25b3657633f03012f05e2663467f5bc021": {
     "canonical_url": "https://apnews.com/article/cambodia-myanmar-scams-cybercrime-kok-an-d72dfed7b7da123d7ad0d26527cd7adb",
@@ -339,6 +419,10 @@
     "canonical_url": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
     "resolved_at": "2026-05-25T01:06:43+00:00"
   },
+  "69ebe4ac2dd332a4db25044c7df2e06973c2ee53b34af3829eec4e3ae4bd25f0": {
+    "canonical_url": "https://www.technologyreview.com/2025/03/27/1113782/scam-compound-meta-facebook-pig-butchering-wechat/",
+    "resolved_at": "2026-05-27T02:38:26+00:00"
+  },
   "6aeb8d3618c0229ef1f89176870b29335c638a2003865b15f69b506a9cd131cd": {
     "canonical_url": "https://www.straitstimes.com/asia/se-asia/us-charges-three-malaysian-state-telecoms-officials-for-multimillion-dollar-fraud",
     "resolved_at": "2026-05-23T15:51:07+00:00"
@@ -355,6 +439,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5241759.pdf?abstractid=5241759&mirid=1",
     "resolved_at": "2026-05-25T00:47:38+00:00"
   },
+  "702f1ceac60d39d630148a96d365aedbab273bc824fcf793387e389d922cccd0": {
+    "canonical_url": "https://therecord.media/japan-orgs-targeted-by-cogui-phishing",
+    "resolved_at": "2026-05-27T02:38:24+00:00"
+  },
   "70c14812b797916621f283cee61aef05789904d6f39dd6c9b9ffde0f9a8001f5": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5719943.pdf?abstractid=5719943&mirid=1",
     "resolved_at": "2026-05-24T10:11:35+00:00"
@@ -362,6 +450,10 @@
   "755b375b86e76a68393053806ad410cdd9af06eb41e47da86431e68b48edb2da": {
     "canonical_url": "https://www.404media.co/township-leader-resigns-in-tears-over-openai-data-center-death-threats/",
     "resolved_at": "2026-05-26T01:30:25+00:00"
+  },
+  "7719c9e1cf9e2d43c9c2e10f99d8024645a22df2a30e869745de6cfdda3ec535": {
+    "canonical_url": "https://maketecheasier.com/stay-anonymous-age-of-online-deanonymization-llms/",
+    "resolved_at": "2026-05-27T02:37:41+00:00"
   },
   "7976e256db60eaaae47cbe71693bfd92eddf5f9cf202288da37f1997dc1bd1d8": {
     "canonical_url": "https://asia.nikkei.com/spotlight/cybersecurity/cambodian-compound-found-with-new-type-of-scam-malware-researchers",
@@ -390,6 +482,10 @@
   "8007d35737db108c89ecf915f6d1ce46fc5fbe9cdeda7a5a928d0c30ec7050da": {
     "canonical_url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
     "resolved_at": "2026-05-24T10:11:26+00:00"
+  },
+  "801b59532f2874c237b8cc299bfa0802464babe27de0c4a58fbadfce5d1875ce": {
+    "canonical_url": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+    "resolved_at": "2026-05-27T02:37:23+00:00"
   },
   "80f29b199a5616ba6e387a5110faf03a9338d3dcedfce2acc81bcd192fcf85c3": {
     "canonical_url": "https://www.channelnewsasia.com/watch/governments-and-tech-firms-urged-balance-ai-innovation-safety-and-regulation-google-6133696",
@@ -439,6 +535,10 @@
     "canonical_url": "https://arxiv.org/html/2601.17887v2",
     "resolved_at": "2026-05-24T10:11:44+00:00"
   },
+  "96e095b5b9093d3874a4071199be369367dc061bf4deaabc75d996d724885165": {
+    "canonical_url": "https://www.404media.co/millions-of-people-are-installing-malware-on-their-partners-phones-with-zack-whittaker/",
+    "resolved_at": "2026-05-27T02:37:13+00:00"
+  },
   "98a933cef21fd7b6aea58faad649f45454e29e9788b97be59303e637372bea2d": {
     "canonical_url": "https://therecord.media/uk-regulator-to-require-tech-firms-to-tackle-deepfakes-nudification-ai",
     "resolved_at": "2026-05-24T10:11:54+00:00"
@@ -455,6 +555,10 @@
     "canonical_url": "https://arxiv.org/pdf/2605.17891",
     "resolved_at": "2026-05-24T03:14:56+00:00"
   },
+  "9f670f2001de52f8c332688717c4b04519454ca2893a63ea5af10e336416ee0b": {
+    "canonical_url": "https://techxplore.com/news/2026-03-ai-online-anonymity.html",
+    "resolved_at": "2026-05-27T02:37:39+00:00"
+  },
   "9ffd071412e4672f223860cd5a777425de9a336f6299510cbcc6532dd848409c": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6778759",
     "resolved_at": "2026-05-24T10:12:00+00:00"
@@ -470,6 +574,10 @@
   "a511f0ff9ec8d265cfb0fd30625c58dd29e3ff00b3c2f35595b7cc901258bbf7": {
     "canonical_url": "https://www.404media.co/hello-boss-inside-the-chinese-realtime-deepfake-software-powering-scams-around-the-world/",
     "resolved_at": "2026-05-24T10:11:41+00:00"
+  },
+  "a8377dd3f744c945ed3e1f6f0e6b3f43e93250afd9fc78d2dddd49e70b0e8afe": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3772318.3791492",
+    "resolved_at": "2026-05-27T02:37:18+00:00"
   },
   "a8d707a9fd4c6eb8b2a13515e567476f2b2f5d386918bc09bf1143572dc456b8": {
     "canonical_url": "https://www.channelnewsasia.com/business/us-hhs-launches-ai-initiative-detect-fraud-and-waste-in-health-programs-6135131",
@@ -503,6 +611,10 @@
     "canonical_url": "https://openai.com/index/cybersecurity-in-the-intelligence-age/",
     "resolved_at": "2026-05-24T03:14:58+00:00"
   },
+  "b12b9ebdfe114ffd85aef96a73727f252cfbcc62636a897bf67dd9d01f1db1f7": {
+    "canonical_url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
+    "resolved_at": "2026-05-27T02:38:19+00:00"
+  },
   "b274aa47bf4e22023b23312904cb71f003fea6cb7db2619ef0231710735a2808": {
     "canonical_url": "https://www.straitstimes.com/asia/east-asia/cyberattacks-against-japan-drastically-down-during-lunar-new-year-holidays-us-cybersecurity-firm",
     "resolved_at": "2026-05-24T03:38:38+00:00"
@@ -535,13 +647,25 @@
     "canonical_url": "https://www.channelnewsasia.com/listen/cna938-rewind/groks-sexualised-ai-deepfakes-keeping-safe-ai-generated-explicit-content-5857581?field_season_value=620426&page=73",
     "resolved_at": "2026-05-24T01:34:41+00:00"
   },
+  "bc47872ef51153b6eef48c13cab8cdbad6962776cf7239c5cdfb64867014b47a": {
+    "canonical_url": "https://www.wired.com/story/the-big-interview-podcast-jason-rezaian/",
+    "resolved_at": "2026-05-27T02:37:24+00:00"
+  },
   "bdea344349a39adbd26642a2ae70d8799a0a1a2c20d03865d1331474a0c9b170": {
     "canonical_url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
     "resolved_at": "2026-05-24T01:34:47+00:00"
   },
+  "c03b3d081e968311d05d6addc83bb25bdd90c998a4a7223b89572027449004b3": {
+    "canonical_url": "https://ieeexplore.ieee.org/document/10754710/",
+    "resolved_at": "2026-05-27T02:38:47+00:00"
+  },
   "c2aa2c0ec603d3b1d8def2ba817c7b35953971bd6c700a6a71826ed95fde2e64": {
     "canonical_url": "https://arxiv.org/pdf/2605.20759",
     "resolved_at": "2026-05-23T15:56:02+00:00"
+  },
+  "c4d0c7eaaed0250a2adf1fab3ce4c868adb4c3b6159d67207bf9dc62248f2af5": {
+    "canonical_url": "https://arxiv.org/pdf/2512.16856",
+    "resolved_at": "2026-05-27T02:37:16+00:00"
   },
   "c76cd88b5450ff4c6579367e12d9d98752704a6055f30105ff1a2e8d7cb3ae8c": {
     "canonical_url": "https://www.straitstimes.com/asia/se-asia/thai-police-arrest-11-in-scam-linked-weapons-cache-probe",
@@ -562,6 +686,10 @@
   "c86e183b01d2b69e34e3ed68a3846824505758c0dfef7ec2482d3ea2f73e4cef": {
     "canonical_url": "https://arxiv.org/html/2605.21164v1",
     "resolved_at": "2026-05-24T10:11:29+00:00"
+  },
+  "c9cf07fd9209587062586be1f73ef565edf083122e17f1748105d45d0665ebea": {
+    "canonical_url": "https://graphika.com/reports/fauxmantic-overtures",
+    "resolved_at": "2026-05-27T02:38:27+00:00"
   },
   "c9dc383e6595c52f0587f022256ae978edf69efac87cb8fa77afbbd1cf2db403": {
     "canonical_url": "https://www.theverge.com/news/935204/uber-av-lab-self-driving-data-collection",
@@ -599,6 +727,10 @@
     "canonical_url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
     "resolved_at": "2026-05-25T01:07:00+00:00"
   },
+  "cfbc060f9796bcf73ea3d40d44e9d162c36b8ded5affd385d7b3808a772ef184": {
+    "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3719027.3760708",
+    "resolved_at": "2026-05-27T02:38:29+00:00"
+  },
   "d0ce6e07fd32588d900c84ab6d5371bdf3ed3df5349d7c3d9d33b906f8b3d6ba": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5718122.pdf?abstractid=5718122&mirid=1",
     "resolved_at": "2026-05-24T10:12:16+00:00"
@@ -615,6 +747,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6787358",
     "resolved_at": "2026-05-24T10:11:48+00:00"
   },
+  "d45e3c5f85cd1babd57d09776605afd8f866339f855d12ea3d70c3fde85e04a0": {
+    "canonical_url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10850908.pdf",
+    "resolved_at": "2026-05-27T02:38:36+00:00"
+  },
   "d48ac6991b18c71a4eff31c962d513ad745de31af122eba2cdec2989f2d7b8fe": {
     "canonical_url": "https://www.straitstimes.com/singapore/new-cyber-command-to-be-launched-brings-together-police-anti-scam-cybercrime-assets",
     "resolved_at": "2026-05-23T15:51:27+00:00"
@@ -622,6 +758,10 @@
   "d580e6228e1b2df6939f63929b07abb323d2a8bf504ee44ca61ff124b197aa89": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5259359.pdf?abstractid=5259359&mirid=1",
     "resolved_at": "2026-05-25T01:06:52+00:00"
+  },
+  "d66e6100fd7fd7b4936fc916534db5514d6ec9cc7dc3cf669466a2567f365214": {
+    "canonical_url": "https://www.ft.com/video/559af121-23b2-423f-8703-ddf42818ac09",
+    "resolved_at": "2026-05-27T02:37:34+00:00"
   },
   "d6a6a41a5bfab2fa2989aaf59c53789de3645a71b2325c6eee95b6f42199d21c": {
     "canonical_url": "https://www.straitstimes.com/world/minnesota-hunger-non-profit-leader-gets-41-years-in-prison-for-250-million-fraud-scheme",
@@ -638,6 +778,10 @@
   "db8cbcebb9aef88dd19df9efbb7d4e9d159d56ef072b5bdde9402af658d7602a": {
     "canonical_url": "https://arxiv.org/abs/2605.17039",
     "resolved_at": "2026-05-23T15:55:57+00:00"
+  },
+  "dbabdc373087e96da39cb9b743b4a24988dd717cada3313a92d77031407ddc03": {
+    "canonical_url": "https://arxiv.org/pdf/2604.23148",
+    "resolved_at": "2026-05-27T02:38:33+00:00"
   },
   "dbb2ee781be82d4d07afeb56a3aef78b07d3d9cbdd5990986e3af084bb7b1cf1": {
     "canonical_url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
@@ -659,9 +803,17 @@
     "canonical_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/vietnam-unveils-ai-law-regulating-chatgpt-like-tools",
     "resolved_at": "2026-05-25T01:06:47+00:00"
   },
+  "dfb304b7afeec7c31319325ed73d607bacbf185380d3d8b01e5041f3381451fc": {
+    "canonical_url": "https://www.straitstimes.com/asia/se-asia/187-arrested-as-malaysian-police-bust-global-scam-rings",
+    "resolved_at": "2026-05-27T02:37:31+00:00"
+  },
   "e0a0ea7e6585551e26bfbffef8d859e230715c617bd0f24f979c766ad2fcd221": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6646438",
     "resolved_at": "2026-05-24T10:12:05+00:00"
+  },
+  "e14b7d05c38ba6a6ede38971c56167a7a4129914576059520145f5580a7f9701": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6479820.pdf?abstractid=6479820&mirid=1",
+    "resolved_at": "2026-05-27T02:37:11+00:00"
   },
   "e224f5e857ced2c0a3b24cb43f30bd4bcb049932561d5fa3b184f2fdbefece5e": {
     "canonical_url": "https://arxiv.org/html/2605.22604v1",
@@ -711,9 +863,17 @@
     "canonical_url": "https://www.404media.co/streamer-realtime-deepfakes-himself-into-mr-beast-says-he-loves-touching-little-boys/",
     "resolved_at": "2026-05-24T10:12:11+00:00"
   },
+  "ee7a00eaf736a01dd997d49fcb05401fa68ce88472841c52c7e01121e723a1bb": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3706599.3720152",
+    "resolved_at": "2026-05-27T02:37:21+00:00"
+  },
   "f011cfd5dd07a4f99006a600d0a1d0038c30e52d30abdf42dcf146ea5b004a2c": {
     "canonical_url": "https://arxiv.org/abs/2605.22529",
     "resolved_at": "2026-05-23T15:50:37+00:00"
+  },
+  "f04979735f7a86c8f2ce402a02f7fac42fc9d5d19abed384a258b6792ebbe12a": {
+    "canonical_url": "https://www.thestar.com.my/news/nation/2026/05/16/global-scam-rings-busted",
+    "resolved_at": "2026-05-27T02:37:29+00:00"
   },
   "f2e8eaf174955daede13eea849046d8b708b249882ae595fb77b4aa734e6d588": {
     "canonical_url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",

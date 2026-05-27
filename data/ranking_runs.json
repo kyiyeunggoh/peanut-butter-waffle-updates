@@ -610,6 +610,48 @@
         "Operational intelligence": 1,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Deep analysis": 1,
+        "Investigative report": 3,
+        "News report": 1,
+        "Research paper": 1,
+        "Technical article": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 314,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 124,
+        "international": 35,
+        "investigative": 79,
+        "platform_product": 1,
+        "psychology": 45,
+        "singapore_sea": 25,
+        "targeted": 5
+      },
+      "shortlist_count": 20,
+      "source_domain_distribution": {
+        "arxiv.org": 4,
+        "asia.nikkei.com": 1,
+        "dl.acm.org": 1,
+        "graphika.com": 2,
+        "ieeexplore.ieee.org": 4,
+        "ndss-symposium.org": 1,
+        "papers.ssrn.com": 1,
+        "technologyreview.com": 1,
+        "therecord.media": 2,
+        "wired.com": 3
+      },
+      "timestamp": "2026-05-27T02:39:04+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Detection / analytics / engineering insight": 1,
+        "Operational intelligence": 5,
+        "Product idea / data source": 2
+      }
     }
   ]
 }
