@@ -5580,6 +5580,22 @@ def send_telegram_message(message: str) -> None:
         print("Telegram API error body:", response.text)
 
     response.raise_for_status()
+    try:
+        response_data = response.json()
+    except ValueError as exc:
+        raise ValueError("Telegram API returned non-JSON response") from exc
+
+    if not response_data.get("ok"):
+        raise ValueError(f"Telegram API returned ok=false: {response_data}")
+
+    result = response_data.get("result") or {}
+    delivered_chat = result.get("chat") or {}
+    print(f"Telegram API ok: {response_data.get('ok')}")
+    print(f"Telegram delivered message_id: {result.get('message_id')}")
+    print(f"Telegram delivered chat id: {delivered_chat.get('id')}")
+    print(f"Telegram delivered chat type: {delivered_chat.get('type')}")
+    print(f"Telegram delivered chat title: {delivered_chat.get('title')}")
+    print(f"Telegram delivered chat username: {delivered_chat.get('username')}")
 
 
 def rerank_cached_candidates(
