@@ -140,6 +140,20 @@
       "url": "https://arxiv.org/abs/2605.21246",
       "usefulness_category": "Research / novel method"
     },
+    "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
+      "article_type": "News report",
+      "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
+      "normalized_title_fingerprint": "foreign workers flee phnom penh after mass exits scam compounds",
+      "original_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpnSjRQekRJOWpDQ0x1cThVQ3lNUzJKV3NiZUZmVmk4dlpqY19JMHJBRURIYUpFTGlSZC1Hemt0QTFfSGxoSW1oSUZvVnJOTGpRTmd1anZ3U29QX3A5aEk1dkxCYXM1THVOUDU4cG9qemlOSzlpanBLM0w4Z29CY2UzaGVXUnYtcnJBRHgxMXlXbjJxWXlIUG1MbVR5cUJPT1hUbGItOVVuM2FTNDhvdlJtR2x5WDFEcHFN?oc=5",
+      "parsed_date": "2026-01-23",
+      "raw_title": "Foreign workers flee to Phnom Penh after mass exits from scam compounds - Nikkei Asia",
+      "same_story_key": "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "asia.nikkei.com",
+      "title": "foreign workers flee phnom penh after mass exits scam compounds",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/foreign-workers-flee-to-phnom-penh-after-mass-exits-from-scam-compounds",
+      "usefulness_category": "Operational intelligence"
+    },
     "asia.nikkei.com|2026-04-24|cambodian compound found malware researchers scam type": {
       "article_type": "News report",
       "normalised_title": "cambodian compound found type scam malware researchers",
@@ -210,6 +224,20 @@
       "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10850908.pdf",
       "usefulness_category": "Product idea / data source"
     },
+    "ieeexplore.ieee.org|2025-05-23|approach detection engineering learning machine phishing social threat": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering threat phishing detection using machine learning approach",
+      "normalized_title_fingerprint": "social engineering threat phishing detection using machine learning approach",
+      "original_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXR2Z5b0t4TW9uclZHenhoWUlPUEZyeWtFUURZak45dS1fUXVoVXBfUEZfaVdrQzl4dUJGU1RveUFISVBWaXdQOXdsWml4OUFwSnpBZzFsN2tZQVBIYi1xRlJmQnp6cjV2LWVfZTVtRS0?oc=5",
+      "parsed_date": "2025-05-23",
+      "raw_title": "Social Engineering Threat: Phishing Detection using Machine Learning Approach - ieeexplore.ieee.org",
+      "same_story_key": "ieeexplore.ieee.org|2025-05-23|approach detection engineering learning machine phishing social threat",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "social engineering threat phishing detection using machine learning approach",
+      "url": "https://ieeexplore.ieee.org/iel7/10395909/10396851/10397016.pdf",
+      "usefulness_category": "Product idea / data source"
+    },
     "ieeexplore.ieee.org|2026-02-23|approach based cybersecurity detection engineering integrating intelligence lescant": {
       "article_type": "Research paper",
       "normalised_title": "integrating sociocultural intelligence cybersecurity lescant based approach phishing social engineering detection",
@@ -251,6 +279,20 @@
       "title": "social engineering threats cybersecurity risk mitigation through behavioral insights",
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
+    },
+    "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin": {
+      "article_type": "Research paper",
+      "normalised_title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "normalized_title_fingerprint": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss",
+      "original_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13ODZhbmdsVkxQaUE1c1lCWGJoNzJtVTFKTjZabHZPQWJrcGthaDAyV0JCTF9xYnpPOGJBVVZCT0hLTnUxWjdMVVBTS2N3cjJicE9WWUE5SHhHamQ5aGJ6YjI3X3kyOWJEaHBVUEZpUHd1UGotVGJiSVY2dw?oc=5",
+      "parsed_date": "2026-03-03",
+      "raw_title": "Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm - Network and Distributed System Security (NDSS) Symposium",
+      "same_story_key": "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/s2522-pang-slides.pdf",
+      "usefulness_category": "Product idea / data source"
     },
     "papers.ssrn.com|2026-02-09|analytical decision engineering framework making papers social uncertainty": {
       "article_type": "Research paper",
@@ -308,6 +350,20 @@
       "url": "https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/",
       "usefulness_category": "General context"
     },
+    "reuters.com|2024-10-01|arrests cambodia charges compounds dara exposed incitement investigative": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "normalized_title_fingerprint": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "original_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3U3czlnNWJfV294alp0ZkZSV0NNOGVsNWVqUmNLYW4tcERtTF9ocE5QdTN3UTNlbU03ME1sYUNVdW1KcjFrcVVqVVFQUUZ3aTJsUTFJNVlGR1ZwUktEa3Y2bWdMMzhod1RWdXlQWGZ6aXBfR28xNjI1T2NmMW0wVVRKalNfRnp5Tkd2UDBITnZUa3d2QmZvWnhHcTZWa1k3VlR3QU5tQmdBaWJtbzQ1NDlXR2Ftd2hnOEY0by1lanE2MUtfQTVWTlNVYWxXMzVn?oc=5",
+      "parsed_date": "2024-10-01",
+      "raw_title": "Cambodia charges investigative journalist Mech Dara, who exposed trafficking and scam compounds, with incitement - Reuters",
+      "same_story_key": "reuters.com|2024-10-01|arrests cambodia charges compounds dara exposed incitement investigative",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "url": "https://www.reuters.com/world/asia-pacific/cambodia-arrests-investigative-journalist-who-exposed-trafficking-scam-compounds-2024-10-01/",
+      "usefulness_category": "Operational intelligence"
+    },
     "reuters.com|2026-02-03|cambodian compound evidence fraud military scam thai trove": {
       "article_type": "News report",
       "normalised_title": "cambodian scam compound yields trove fraud evidence thai military says",
@@ -320,6 +376,20 @@
       "source_domain": "reuters.com",
       "title": "cambodian scam compound yields trove fraud evidence thai military says",
       "url": "https://www.reuters.com/world/asia-pacific/cambodian-scam-compound-yields-trove-fraud-evidence-thai-military-says-2026-02-02/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "reuters.com|2026-02-06|abandoned cambodian compound exposes fraudsters idrw321106022026rp1 scam scheming": {
+      "article_type": "News report",
+      "normalised_title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "normalized_title_fingerprint": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "original_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTWEyUWdxaWlDb3doU3EzTUNQME1pYklHNDZsdTVMaXNUQ0JYd0hQcjB6Yk9qb1ZVdlE4NzlLRlMxSkVfbi10VWFpZTNac1dMQ08yVjI2aWcxMGZlVGxzZHAwakZzS00?oc=5",
+      "parsed_date": "2026-02-06",
+      "raw_title": "Abandoned Cambodian scam compound exposes fraudsters' scheming - Reuters",
+      "same_story_key": "reuters.com|2026-02-06|abandoned cambodian compound exposes fraudsters idrw321106022026rp1 scam scheming",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "url": "https://www.reuters.com/video/watch/idRW321106022026RP1/",
       "usefulness_category": "Operational intelligence"
     },
     "straitstimes.com|2025-10-30|arrest avoided cambodia off receiving scam singapore spore": {
@@ -532,6 +602,20 @@
       "url": "https://therecord.media/two-americans-plead-guilty-india-call-center-scams",
       "usefulness_category": "Scam development"
     },
+    "therecord.media|2026-05-28|2026 chinese could cup fans fifa fraud gang": {
+      "article_type": "News report",
+      "normalised_title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "normalized_title_fingerprint": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "original_url": "https://therecord.media/chinese-speaking-fraud-gang-fifa-world-cup-scam",
+      "parsed_date": "2026-05-28",
+      "raw_title": "Chinese-speaking fraud gang could be stealing millions from 2026 World Cup fans - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-05-28|2026 chinese could cup fans fifa fraud gang",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "url": "https://therecord.media/chinese-speaking-fraud-gang-fifa-world-cup-scam",
+      "usefulness_category": "Scam development"
+    },
     "theverge.com|2026-04-29|ads celebrity copyleaks deepfake deepfakes pushing scams swift": {
       "article_type": "Policy / platform update",
       "normalised_title": "taylor swift deepfakes pushing scams tiktok",
@@ -558,6 +642,20 @@
       "source_domain": "wired.com",
       "title": "493 cases sextortion against children linked notorious scam compounds",
       "url": "https://www.wired.com/story/child-sextorition-scam-compounds-southeast-asia/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2025-09-23|farm farms\u2019 feds giant infrastructure one plague say": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "normalized_title_fingerprint": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "original_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXk1MUp5VmNKMm05eWRjREdQVXo2QzhucTVmejYwYnlwMm1jbjhlYnBXTnUxWEdnbGRTdjYwS1haMW1YZFZyTjg1SVMtcmNtTEpEUGRzU281alFPaEpFRlVaMjZGSFlNd2I0SkN2WFJuaUhzaHJnZ05BSnI2QURraUJSMVd3WDRING51NA?oc=5",
+      "parsed_date": "2025-09-23",
+      "raw_title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say - WIRED",
+      "same_story_key": "wired.com|2025-09-23|farm farms\u2019 feds giant infrastructure one plague say",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "url": "https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/",
       "usefulness_category": "Operational intelligence"
     },
     "wired.com|2025-11-14|compound compounds doj internet issued satellite scam seizure": {
@@ -657,6 +755,20 @@
       "title": "\u2018reservation hijacking\u2019 scams target travelers here\u2019s stay safe",
       "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
       "usefulness_category": "Scam development"
+    },
+    "wired.com|2026-05-28|attacks booking caught hotel hotels hundreds phishing real": {
+      "article_type": "Investigative report",
+      "normalised_title": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "normalized_title_fingerprint": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "original_url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+      "parsed_date": "2026-05-28",
+      "raw_title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks - WIRED",
+      "same_story_key": "wired.com|2026-05-28|attacks booking caught hotel hotels hundreds phishing real",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -696,6 +808,18 @@
       "title": "493 cases sextortion against children linked notorious scam compounds",
       "usefulness_category": "Operational intelligence"
     },
+    "abandoned cambodian scam compound exposes fraudsters scheming": {
+      "article_type": "News report",
+      "normalised_title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "normalized_title_fingerprint": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "parsed_date": "2026-02-06",
+      "raw_title": "Abandoned Cambodian scam compound exposes fraudsters' scheming - Reuters",
+      "same_story_key": "reuters.com|2026-02-06|abandoned cambodian compound exposes fraudsters idrw321106022026rp1 scam scheming",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "usefulness_category": "Operational intelligence"
+    },
     "analytical framework social engineering decision making under uncertainty": {
       "article_type": "Research paper",
       "normalised_title": "analytical framework social engineering decision making under uncertainty",
@@ -720,6 +844,18 @@
       "title": "artificial intelligence phishing detection practical framework modern email security",
       "usefulness_category": "Product idea / data source"
     },
+    "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "normalized_title_fingerprint": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "parsed_date": "2024-10-01",
+      "raw_title": "Cambodia charges investigative journalist Mech Dara, who exposed trafficking and scam compounds, with incitement - Reuters",
+      "same_story_key": "reuters.com|2024-10-01|arrests cambodia charges compounds dara exposed incitement investigative",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "usefulness_category": "Operational intelligence"
+    },
     "cambodian compound found type scam malware researchers": {
       "article_type": "News report",
       "normalised_title": "cambodian compound found type scam malware researchers",
@@ -743,6 +879,18 @@
       "source_domain": "reuters.com",
       "title": "cambodian scam compound yields trove fraud evidence thai military says",
       "usefulness_category": "Operational intelligence"
+    },
+    "chinese speaking fraud gang could stealing millions 2026 world cup fans": {
+      "article_type": "News report",
+      "normalised_title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "normalized_title_fingerprint": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "parsed_date": "2026-05-28",
+      "raw_title": "Chinese-speaking fraud gang could be stealing millions from 2026 World Cup fans - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-05-28|2026 chinese could cup fans fifa fraud gang",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "usefulness_category": "Scam development"
     },
     "cyberscammers bypassing banks\u2019 security illicit tools sold telegram": {
       "article_type": "Investigative report",
@@ -814,6 +962,18 @@
       "sent_at": "2026-05-27T02:49:18+00:00",
       "source_domain": "graphika.com",
       "title": "fauxmantic overtures ai dating profiles driving romance scam networks",
+      "usefulness_category": "Operational intelligence"
+    },
+    "foreign workers flee phnom penh after mass exits scam compounds": {
+      "article_type": "News report",
+      "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
+      "normalized_title_fingerprint": "foreign workers flee phnom penh after mass exits scam compounds",
+      "parsed_date": "2026-01-23",
+      "raw_title": "Foreign workers flee to Phnom Penh after mass exits from scam compounds - Nikkei Asia",
+      "same_story_key": "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "asia.nikkei.com",
+      "title": "foreign workers flee phnom penh after mass exits scam compounds",
       "usefulness_category": "Operational intelligence"
     },
     "global cybersecurity gap deepens ai powered attacks surge": {
@@ -924,6 +1084,18 @@
       "title": "nigeria arrests suspected raccoono365 phishing kit developer tip microsoft fbi",
       "usefulness_category": "Product idea / data source"
     },
+    "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss": {
+      "article_type": "Research paper",
+      "normalised_title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "normalized_title_fingerprint": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss",
+      "parsed_date": "2026-03-03",
+      "raw_title": "Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm - Network and Distributed System Security (NDSS) Symposium",
+      "same_story_key": "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "usefulness_category": "Product idea / data source"
+    },
     "physe psychological framework real time ar llm social engineering attacks": {
       "article_type": "Research paper",
       "normalised_title": "physe psychological framework real time ar llm social engineering attacks",
@@ -996,6 +1168,18 @@
       "title": "scammers abusing official microsoft email address send spam",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "scammers using your real hotel reservations trick you spear phishing attacks": {
+      "article_type": "Investigative report",
+      "normalised_title": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "normalized_title_fingerprint": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "parsed_date": "2026-05-28",
+      "raw_title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks - WIRED",
+      "same_story_key": "wired.com|2026-05-28|attacks booking caught hotel hotels hundreds phishing real",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "usefulness_category": "Operational intelligence"
+    },
     "scams fraud social engineering scale": {
       "article_type": "Deep analysis",
       "normalised_title": "scams fraud social engineering scale",
@@ -1030,6 +1214,18 @@
       "sent_at": "2026-05-27T02:49:18+00:00",
       "source_domain": "ieeexplore.ieee.org",
       "title": "social engineering analysis framework comprehensive playbook human hacking",
+      "usefulness_category": "Product idea / data source"
+    },
+    "social engineering threat phishing detection using machine learning approach": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering threat phishing detection using machine learning approach",
+      "normalized_title_fingerprint": "social engineering threat phishing detection using machine learning approach",
+      "parsed_date": "2025-05-23",
+      "raw_title": "Social Engineering Threat: Phishing Detection using Machine Learning Approach - ieeexplore.ieee.org",
+      "same_story_key": "ieeexplore.ieee.org|2025-05-23|approach detection engineering learning machine phishing social threat",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "social engineering threat phishing detection using machine learning approach",
       "usefulness_category": "Product idea / data source"
     },
     "social engineering threats cybersecurity risk mitigation through behavioral insights": {
@@ -1212,6 +1408,18 @@
       "title": "\u2018reservation hijacking\u2019 scams target travelers here\u2019s stay safe",
       "usefulness_category": "Scam development"
     },
+    "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "normalized_title_fingerprint": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "parsed_date": "2025-09-23",
+      "raw_title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say - WIRED",
+      "same_story_key": "wired.com|2025-09-23|farm farms\u2019 feds giant infrastructure one plague say",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "usefulness_category": "Operational intelligence"
+    },
     "\u2018uncanny valley\u2019 tech elites epstein files musk\u2019s mega merger crypto scam compound": {
       "article_type": "Investigative report",
       "normalised_title": "\u2018uncanny valley\u2019 tech elites epstein files musk\u2019s mega merger crypto scam compound",
@@ -1285,6 +1493,18 @@
       "title": "More than 200 arrested in cyber raids aimed at Middle East scam networks - The Record from Recorded Future News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JeGRSbFdfZl9IOE9zX2RQMWhCR1pjNmJIb2N1elFfanh1dGE5N1FUTExINVdFOG5fZVhZWUxkZGJrSTlqejNKZlAzeldCUDIwN0dMeE02QlA0YktqNGJQa2tBemNOVkNXY3NfZzhlTC10RDQyOHlrUFlnY0ktQQ?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "068115b7af0fa5bd18c96686b7c67e7ce0cfbdba397cd06fb25d3f3c2127fe07": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering threat phishing detection using machine learning approach",
+      "normalized_title_fingerprint": "social engineering threat phishing detection using machine learning approach",
+      "parsed_date": "2025-05-23",
+      "same_story_key": "ieeexplore.ieee.org|2025-05-23|approach detection engineering learning machine phishing social threat",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "Social Engineering Threat: Phishing Detection using Machine Learning Approach - ieeexplore.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXR2Z5b0t4TW9uclZHenhoWUlPUEZyeWtFUURZak45dS1fUXVoVXBfUEZfaVdrQzl4dUJGU1RveUFISVBWaXdQOXdsWml4OUFwSnpBZzFsN2tZQVBIYi1xRlJmQnp6cjV2LWVfZTVtRS0?oc=5",
+      "usefulness_category": "Product idea / data source"
     },
     "095c18b9bf53f5d8737b6529f96b3147b6d8c35fdd289b3439f3623b23a1e7b9": {
       "article_type": "News report",
@@ -1490,6 +1710,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wS3VsQmxyb2hLdnN5WmVUVWJFbHFGUlQ2dktfWV9oOVotZGpzRllRdE9aalhqZDBnWldWREtDNTdKWWhoTUdWOWg4b2VLYTlOdV9aVjBxbEM0Yjlicm5tQ0dDN1JqR3c5bW04NWl5c2k?oc=5",
       "usefulness_category": "General context"
     },
+    "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
+      "article_type": "News report",
+      "normalised_title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "normalized_title_fingerprint": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
+      "parsed_date": "2026-05-28",
+      "same_story_key": "therecord.media|2026-05-28|2026 chinese could cup fans fifa fraud gang",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "Chinese-speaking fraud gang could be stealing millions from 2026 World Cup fans - The Record from Recorded Future News",
+      "url": "https://therecord.media/chinese-speaking-fraud-gang-fifa-world-cup-scam",
+      "usefulness_category": "Scam development"
+    },
     "3676e74e5de90ee0a96cf55d7ea5214544029ccd16a7b15db07f199dd3c7b4ea": {
       "article_type": "News report",
       "normalised_title": "sri lanka becomes next hub scam networks",
@@ -1500,6 +1732,18 @@
       "source_domain": "straitstimes.com",
       "title": "Sri Lanka becomes next hub for scam networks",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzhxVGR3MUIxUXEzOTdSSEROSHJZT01HSFRQTlhOUEdjVTRjWllDNmc1aDFDUU1URG90V2JyeUFhWTcxVUVpUmxYS0c0UjQxOXFCd3cxZ1F2cnk0cXZsWEZwMjlNWDU5UUFsaS1EQVU2SVI5MkxZNndpUUJsRTN4REM1WkZVSTNmVVRndjVBSUtEREFnUzl3RG5CQjBLZ3YwWFJkNW5iR0Vsdw?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "3727f341dcf3357684b683349cd69725ce856c128d7f2b4dd0702ce241013a4a": {
+      "article_type": "Investigative report",
+      "normalised_title": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "normalized_title_fingerprint": "scammers using your real hotel reservations trick you spear phishing attacks",
+      "parsed_date": "2026-05-28",
+      "same_story_key": "wired.com|2026-05-28|attacks booking caught hotel hotels hundreds phishing real",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks - WIRED",
+      "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
       "usefulness_category": "Operational intelligence"
     },
     "37e2cc2be76c256325a76fd945f0f7e789a22674da4092fd25a541112abe266a": {
@@ -1574,6 +1818,18 @@
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6738818.pdf?abstractid=6738818&mirid=1",
       "usefulness_category": "Product idea / data source"
     },
+    "46b64fa2ff0e0132771b2e053fd117169d301a98e9f311f76581c85a20a8a978": {
+      "article_type": "Research paper",
+      "normalised_title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "normalized_title_fingerprint": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss",
+      "parsed_date": "2026-03-03",
+      "same_story_key": "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm - Network and Distributed System Security (NDSS) Symposium",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13ODZhbmdsVkxQaUE1c1lCWGJoNzJtVTFKTjZabHZPQWJrcGthaDAyV0JCTF9xYnpPOGJBVVZCT0hLTnUxWjdMVVBTS2N3cjJicE9WWUE5SHhHamQ5aGJ6YjI3X3kyOWJEaHBVUEZpUHd1UGotVGJiSVY2dw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "476f25377347a121e7e464a8d17b4144de082e6d02f91a9b41b3c7ec0c62720a": {
       "article_type": "Investigative report",
       "normalised_title": "destruction notorious myanmar scam compound appears have been \u2018performative\u2019",
@@ -1597,6 +1853,18 @@
       "title": "US \u2018leading the fight\u2019 against South-east Asian scam compounds, FBI official says - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHJqNjlsU3p1cjR1YmEzWjBjTkotLXl3OTR0QzI3M0N0MGd5NUdueTlzdzVuaXlESjBkTW5NYkNDVHUwWl9BTFlvQ3pJWmlUejhUTmxnWllOMEpZdUl2eElsRUZkN2hma3RxMGRoNjlmTnYzcnl3aXNVd1dIV3dvOTRBb3ZLT012RS16YXNoZF9XV00tbmpOZXdiZkhDeUFsY240V1poY3J2bnlYSWZLb08wWVJkUjctSDFLZg?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "48e0160c95d4ef1246838e69d44836fda7587de0751263ed6842695801727c24": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering threat phishing detection using machine learning approach",
+      "normalized_title_fingerprint": "social engineering threat phishing detection using machine learning approach",
+      "parsed_date": "2025-05-23",
+      "same_story_key": "ieeexplore.ieee.org|2025-05-23|approach detection engineering learning machine phishing social threat",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "Social Engineering Threat: Phishing Detection using Machine Learning Approach - ieeexplore.ieee.org",
+      "url": "https://ieeexplore.ieee.org/iel7/10395909/10396851/10397016.pdf",
+      "usefulness_category": "Product idea / data source"
     },
     "494622d51bbb0742c5e8eba46fb87f212adf964ccc6cdd292fb64dfe9e047e4d": {
       "article_type": "News report",
@@ -1681,6 +1949,18 @@
       "title": "493 Cases of Sextortion Against Children Linked to Notorious Scam Compounds - WIRED",
       "url": "https://www.wired.com/story/child-sextorition-scam-compounds-southeast-asia/",
       "usefulness_category": "Operational intelligence"
+    },
+    "565075feaf4e6d0078a65955618089d4328cc4bbd0e143e7d49f859b76608ad1": {
+      "article_type": "Research paper",
+      "normalised_title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
+      "normalized_title_fingerprint": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss",
+      "parsed_date": "2026-03-03",
+      "same_story_key": "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm - Network and Distributed System Security (NDSS) Symposium",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/s2522-pang-slides.pdf",
+      "usefulness_category": "Product idea / data source"
     },
     "57427af10fa5edbe4e6937cf21a31bd73d985255ea225a1a9c28225330bfa9bb": {
       "article_type": "Investigative report",
@@ -1814,6 +2094,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TcUpWWXNtX0NEVHhOQmNwc3k5SlE2MkZkRUtCZ0s0eTlZVmJaYXdzQzRCbUJGWjRIMEtKbzFqYnhzbTJtazZuOFgzVU9nNTd4a1lidy0wS2NmN0UySGpSUkwyVFNfeFB3a0RRWmt3?oc=5",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "716bd79b466fd2d3fdf7d85592da86e4f715831c6e40cb0f046d7f86d35676e3": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "normalized_title_fingerprint": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "parsed_date": "2024-10-01",
+      "same_story_key": "reuters.com|2024-10-01|arrests cambodia charges compounds dara exposed incitement investigative",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "Cambodia charges investigative journalist Mech Dara, who exposed trafficking and scam compounds, with incitement - Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/cambodia-arrests-investigative-journalist-who-exposed-trafficking-scam-compounds-2024-10-01/",
+      "usefulness_category": "Operational intelligence"
+    },
     "7483be1d63f9f98129f9b0df99a3d186c489994d407caffa9c04beed085cddbb": {
       "article_type": "Investigative report",
       "normalised_title": "fauxmantic overtures ai dating profiles driving romance scam networks",
@@ -1934,6 +2226,18 @@
       "url": "https://techcrunch.com/sponsor/incode/deepfakes-on-demand-welcome-to-the-era-of-fraud-as-a-service-faas/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "8031a26a81ad5c70bc194304fa0f8ea1c303d6e47bbd67fcf2118dc1e2bb6e0c": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "normalized_title_fingerprint": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "parsed_date": "2025-09-23",
+      "same_story_key": "wired.com|2025-09-23|farm farms\u2019 feds giant infrastructure one plague say",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXk1MUp5VmNKMm05eWRjREdQVXo2QzhucTVmejYwYnlwMm1jbjhlYnBXTnUxWEdnbGRTdjYwS1haMW1YZFZyTjg1SVMtcmNtTEpEUGRzU281alFPaEpFRlVaMjZGSFlNd2I0SkN2WFJuaUhzaHJnZ05BSnI2QURraUJSMVd3WDRING51NA?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "844625a88acc4d7a15954e222c55e214326c8fc511010566bf3259c75da4c943": {
       "article_type": "News report",
       "normalised_title": "two americans plead guilty assisting india based tech support scam centers",
@@ -1956,6 +2260,18 @@
       "source_domain": "technologyreview.com",
       "title": "Inside a romance scam compound\u2014and how people get tricked into being there - MIT Technology Review",
       "url": "https://www.technologyreview.com/2025/03/27/1113782/scam-compound-meta-facebook-pig-butchering-wechat/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "893e669dd6c3a046eb63bb6cca85613b711fe736f9e58d0a50e0f7f03abefad1": {
+      "article_type": "News report",
+      "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
+      "normalized_title_fingerprint": "foreign workers flee phnom penh after mass exits scam compounds",
+      "parsed_date": "2026-01-23",
+      "same_story_key": "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "asia.nikkei.com",
+      "title": "Foreign workers flee to Phnom Penh after mass exits from scam compounds - Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/society/crime/foreign-workers-flee-to-phnom-penh-after-mass-exits-from-scam-compounds",
       "usefulness_category": "Operational intelligence"
     },
     "89e42ffbc8b0b618145cd90281ad934bcbed14ce2a7caaff9bc9dbc9fde99567": {
@@ -2090,6 +2406,18 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZieXA1bW9FNTRYbnd6d2h0VVZpRGpUUXRmQWRvZlctZ3Z6VGYwQVRJRk1KS29xeEI0ZFQtcGFLWlE3WFNHWHhQX3lWSXp3WkRpNzk0eVBXdEhTNDNGZC1hNHlFOTNvS1BPN3ZHeEVsTEotbEIzc3ZYVmFxZUtnX2F4dGJiUlc3ZG8tVjk1N3RtdlFINkdJanlUYlFpaXhLZHJjMVltN2NFb2daaG1zS0w0NA?oc=5",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "a75827bd866acf3a9b0c06daaca0dc23d50f2376df1cceaaa8c50dcd8bdebcc2": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "normalized_title_fingerprint": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "parsed_date": "2024-10-01",
+      "same_story_key": "reuters.com|2024-10-01|arrests cambodia charges compounds dara exposed incitement investigative",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "Cambodia charges investigative journalist Mech Dara, who exposed trafficking and scam compounds, with incitement - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3U3czlnNWJfV294alp0ZkZSV0NNOGVsNWVqUmNLYW4tcERtTF9ocE5QdTN3UTNlbU03ME1sYUNVdW1KcjFrcVVqVVFQUUZ3aTJsUTFJNVlGR1ZwUktEa3Y2bWdMMzhod1RWdXlQWGZ6aXBfR28xNjI1T2NmMW0wVVRKalNfRnp5Tkd2UDBITnZUa3d2QmZvWnhHcTZWa1k3VlR3QU5tQmdBaWJtbzQ1NDlXR2Ftd2hnOEY0by1lanE2MUtfQTVWTlNVYWxXMzVn?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "ab7d1c8d79f3e9cc86ecfbba6109951143b6d02cf3e0291e0b1fd88a8e5db3b6": {
       "article_type": "Investigative report",
       "normalised_title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
@@ -2125,6 +2453,18 @@
       "title": "[2605.02502] GuardSec: A Multi-Modal Web Platform for Real-Time Digital Fraud Detection, Entity Verification, and Connection Security Analysis in the African Context - arXiv",
       "url": "https://arxiv.org/abs/2605.02502",
       "usefulness_category": "Product idea / data source"
+    },
+    "bddece980abb11e0261ae3961a0723f8e0a5412984dd7df7f129fbcf2a68dba1": {
+      "article_type": "News report",
+      "normalised_title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "normalized_title_fingerprint": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "parsed_date": "2026-02-06",
+      "same_story_key": "reuters.com|2026-02-06|abandoned cambodian compound exposes fraudsters idrw321106022026rp1 scam scheming",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "Abandoned Cambodian scam compound exposes fraudsters' scheming - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BTWEyUWdxaWlDb3doU3EzTUNQME1pYklHNDZsdTVMaXNUQ0JYd0hQcjB6Yk9qb1ZVdlE4NzlLRlMxSkVfbi10VWFpZTNac1dMQ08yVjI2aWcxMGZlVGxzZHAwakZzS00?oc=5",
+      "usefulness_category": "Operational intelligence"
     },
     "bddef0f8bad0f01bf83b071da68409047ead71c0407a8976c3a98974981a0132": {
       "article_type": "News report",
@@ -2184,6 +2524,18 @@
       "source_domain": "graphika.com",
       "title": "Fauxmantic Overtures: AI Dating Profiles Driving Romance Scam Networks",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlYl8zdXItemRQbDhZVlN0VXVYNFdVd1EwbnFXMS1hd0pEalBYc092WE5MV1JWRHhRLW5xU3R0N0JRWmM3M0FTcVc2V1RaNkI5a2VVdWx1ekt2M2lnTUE?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "cae732f825c805b61c7c41d6f27264fbaf1c0198290a2a1024ad293739b96bcc": {
+      "article_type": "News report",
+      "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
+      "normalized_title_fingerprint": "foreign workers flee phnom penh after mass exits scam compounds",
+      "parsed_date": "2026-01-23",
+      "same_story_key": "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "asia.nikkei.com",
+      "title": "Foreign workers flee to Phnom Penh after mass exits from scam compounds - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpnSjRQekRJOWpDQ0x1cThVQ3lNUzJKV3NiZUZmVmk4dlpqY19JMHJBRURIYUpFTGlSZC1Hemt0QTFfSGxoSW1oSUZvVnJOTGpRTmd1anZ3U29QX3A5aEk1dkxCYXM1THVOUDU4cG9qemlOSzlpanBLM0w4Z29CY2UzaGVXUnYtcnJBRHgxMXlXbjJxWXlIUG1MbVR5cUJPT1hUbGItOVVuM2FTNDhvdlJtR2x5WDFEcHFN?oc=5",
       "usefulness_category": "Operational intelligence"
     },
     "cb311c68533639a2334a20453b852a64883fe2995bdf168d3a2bd1c9c7f6b8b9": {
@@ -2306,6 +2658,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVFBUThGUkJlMkpmOG1BVmJZV21hT3czajZRVElhbHZBcmZaNjM0Vm5ZNUJ2R25IaGZPUlVGeVo1OUFsSWVXNS0tQ3BUUXVoU1l4UEFrby1Ia09SLVI1ZHluanZyajh4c3ZJaVJRME1HWlRyZV9UV2pjR0pienNudjFKQ0pQWXFmNjd3UmY0b2dMQnR3MW1mRUV5TkRadmhYeTRvNnh5VE9UWk0?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "e93cb28ed1805cf939df7c8358b8e6291f2ccc209240c31ab4930988a0dcf3ce": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "normalized_title_fingerprint": "\u2018sim farms\u2019 spam plague giant one york threatened us infrastructure feds say",
+      "parsed_date": "2025-09-23",
+      "same_story_key": "wired.com|2025-09-23|farm farms\u2019 feds giant infrastructure one plague say",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "wired.com",
+      "title": "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say - WIRED",
+      "url": "https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/",
+      "usefulness_category": "Operational intelligence"
+    },
     "ede2b97dc6bac46f7fbce3f3d474a4dcb2ce13513c6f50c7c6dacf3fa8e1b7af": {
       "article_type": "News report",
       "normalised_title": "deepfakes demand welcome era fraud service faas",
@@ -2329,6 +2693,18 @@
       "title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
       "url": "https://apnews.com/article/cambodia-myanmar-scams-cybercrime-kok-an-d72dfed7b7da123d7ad0d26527cd7adb",
       "usefulness_category": "Platform policy / product change"
+    },
+    "ee9092b59fe9e1a6d89ac719f941e2ab9ac3b068227e2fc9b7a6ed880338d4d0": {
+      "article_type": "News report",
+      "normalised_title": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "normalized_title_fingerprint": "abandoned cambodian scam compound exposes fraudsters scheming",
+      "parsed_date": "2026-02-06",
+      "same_story_key": "reuters.com|2026-02-06|abandoned cambodian compound exposes fraudsters idrw321106022026rp1 scam scheming",
+      "sent_at": "2026-05-29T02:28:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "Abandoned Cambodian scam compound exposes fraudsters' scheming - Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW321106022026RP1/",
+      "usefulness_category": "Operational intelligence"
     },
     "f3082ab6dd39ec43d749fc6b529fb06e714e0d01360fa3c7bfdd49211d32fa72": {
       "article_type": "Technical article",
