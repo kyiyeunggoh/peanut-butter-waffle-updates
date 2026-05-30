@@ -1228,6 +1228,30 @@
     ],
     "word_count": 4098
   },
+  "3bbb770fc18a913b88aed6a9abb80e9cd6be27a1c9d0e4e2fed48a25d1ce89a0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 5,
+    "checked_at": "2026-05-30T03:17:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 3739
+  },
   "3d9fde5e47815c5e6b0147ec58a6cda9cdf8bb4c544530d15f455a6f653fca8c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1928,6 +1952,36 @@
       "trust"
     ],
     "word_count": 802
+  },
+  "670ba324442172eb15bb2822e880c38c5011017edaf9fa51e707dabfd9ac9fed": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "cache_version": 5,
+    "checked_at": "2026-05-30T03:17:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "67857f5c64d558e9e734992532089c98a2b61865ba7e9e6eff76e6cc38b9b13b": {
     "access_status": "available",
@@ -3012,6 +3066,28 @@
       "identity"
     ],
     "word_count": 3625
+  },
+  "98f468bd8b12ee2564e03ab77a841cf3c619a41ad0e0ea2237ff8f330d8e83b2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 5,
+    "checked_at": "2026-05-30T03:17:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5068
   },
   "9d4c335a0a8d2a9655f9484c65a1fb353849dcdbbbaa93d685eea0cdbe49ee5a": {
     "access_status": "unknown",
@@ -4427,6 +4503,31 @@
       "trust"
     ],
     "word_count": 2403
+  },
+  "e22fcbfe96ff12af12147165d3040a78859bbcc72e1c3b10aec7a885dc8965e1": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-05-30T03:17:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "identity"
+    ],
+    "word_count": 4668
   },
   "e268b01f992bd790707619749a8405aea5bd92bd3d7fa96beba8ef067dd947f4": {
     "access_status": "available",

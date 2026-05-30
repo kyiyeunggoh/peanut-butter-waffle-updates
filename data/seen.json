@@ -1,5 +1,19 @@
 {
   "stories": {
+    "404media.co|2026-03-05|credentials emails ice phishing scammers sending steal support": {
+      "article_type": "Investigative report",
+      "normalised_title": "ice phishing scammers sending support ice emails steal credentials",
+      "normalized_title_fingerprint": "ice phishing scammers sending support ice emails steal credentials",
+      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVh1RkNJZUpNWEQ2THZ5SWVUNEN0VUJJaHo1b0pRMDRSY3hOaU42QXVfZW5NUEFMUGNiWHM4aXpzTEpLRHFoTERYME9LLVdDN1NHb2xKQXk1NDloLTU2TVpmVE02OHdkNVpsOHc5UFI0RGx1aDhiMzFPangxVzg4OG1iUDNTbUQ1Z1p5cm53SlV6eEdkQlNZLUc0VFlrdUE?oc=5",
+      "parsed_date": "2026-03-05",
+      "raw_title": "ICE Phishing: Scammers Are Sending 'Support ICE' Emails to Steal Credentials - 404 Media",
+      "same_story_key": "404media.co|2026-03-05|credentials emails ice phishing scammers sending steal support",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "404media.co",
+      "title": "ice phishing scammers sending support ice emails steal credentials",
+      "url": "https://www.404media.co/ice-phishing-scammers-are-sending-support-ice-emails-to-steal-credentials/",
+      "usefulness_category": "Operational intelligence"
+    },
     "404media.co|2026-05-07|around boss boss\u2019 chinese deepfake hello inside powering": {
       "article_type": "Investigative report",
       "normalised_title": "\u2018hello boss\u2019 inside chinese realtime deepfake software powering scams around world",
@@ -27,6 +41,20 @@
       "title": "podcast chinese deepfake software powering scams",
       "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
+      "article_type": "News report",
+      "normalised_title": "people detained myanmar after release scam compounds attempt escape",
+      "normalized_title_fingerprint": "people detained myanmar after release scam compounds attempt escape",
+      "original_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTBkRWxzRk04SEVKRndxcV9LbjhZc0ZReTZSM1VxQU9EYmlmY1l3QldFckx6QzhnTEFKekpTb2t3VEhjQU1wRkJDUXF3Z1g0LWh6NU95OF93WW5WTndFdGM3WV9pMTRodzV5U3BYcUZPTWJ1VjVFVEhBLUF6SG5QYzNWb3dOVTRYOXJDM0ZuNG05LVg1SnotdTB6N0kwMU1ib2s0LThkSmt1SjBULXNBMXBJdGlPR1Fk?oc=5",
+      "parsed_date": "2025-04-15",
+      "raw_title": "People detained in Myanmar after release from scam compounds attempt an escape - AP News",
+      "same_story_key": "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "apnews.com",
+      "title": "people detained myanmar after release scam compounds attempt escape",
+      "url": "https://apnews.com/article/thailand-myanmar-scam-center-forced-labor-escape-ethiopia-d44c9f74d3b40ee88dd7e3a33eced8a3",
+      "usefulness_category": "Operational intelligence"
     },
     "apnews.com|2026-04-24|4b6a987f7af1d0ec4fd893e57b07c351 charges chinese compound cyberscam managing myanmar nationals": {
       "article_type": "News report",
@@ -68,6 +96,34 @@
       "source_domain": "arxiv.org",
       "title": "psyscam benchmark psychological techniques real world scams",
       "url": "https://arxiv.org/html/2505.15017v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2025-08-29|analysis campaigns characteristics detection end generated generation language": {
+      "article_type": "Research paper",
+      "normalised_title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "normalized_title_fingerprint": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0N3hhck5vdU1mdmYta2JEeWdGUjR2V1QySGVLSkZuV2RQZldzOUpkNTA1c21fV3M0NUttSmVRbTFsQ3pCSGYzeHJsdw?oc=5",
+      "parsed_date": "2025-08-29",
+      "raw_title": "SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection",
+      "same_story_key": "arxiv.org|2025-08-29|analysis campaigns characteristics detection end generated generation language",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "url": "https://arxiv.org/html/2508.21457v1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack": {
+      "article_type": "Research paper",
+      "normalised_title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "normalized_title_fingerprint": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "original_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BcHRwZlBoZmtwaVM0eEQzMWtHejVRbDg2bXR5RkVtamRmSm53MmR2OXFWcXRpNTR6U0RUSUhDbUVPVVRFZ2x3?oc=5",
+      "parsed_date": "2026-04-25",
+      "raw_title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
+      "same_story_key": "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "url": "https://arxiv.org/pdf/2604.23141",
       "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-04-25|attacks engineering framework llm physe psychological real social": {
@@ -180,6 +236,20 @@
       "source_domain": "bbc.com",
       "title": "myanmar s army says wants eradicate scam compounds really doing",
       "url": "https://www.bbc.com/news/articles/cr7l0ljvvejo",
+      "usefulness_category": "Operational intelligence"
+    },
+    "bbc.com|2026-04-06|australian bbc brazilian chinese cjenpy8gx71o compound fake goes": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "normalized_title_fingerprint": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdU9HOWhaN0F3akZzRGN2eTUtUUhmWXNZZk9sN2themRtNlNTbHA5N2tYdk44V3hjMFZFelVCaUVrYjRoQjdjWDEyVHFjR1J6VUtuakNSb1ZFZw?oc=5",
+      "parsed_date": "2026-04-06",
+      "raw_title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound - BBC",
+      "same_story_key": "bbc.com|2026-04-06|australian bbc brazilian chinese cjenpy8gx71o compound fake goes",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "bbc.com",
+      "title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "url": "https://www.bbc.com/news/articles/cjenpy8gx71o",
       "usefulness_category": "Operational intelligence"
     },
     "graphika.com|2025-04-17|engineering fraud scale scams social": {
@@ -546,6 +616,34 @@
       "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
       "usefulness_category": "Technical abuse / vulnerability"
     },
+    "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar": {
+      "article_type": "News report",
+      "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "normalized_title_fingerprint": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "original_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0pRcHJzaEI3MGJOazVVZlhaX2VVdHRCdGx3bi1lSVNReUhkUU83LWpSdm5qYXJzajI3VS02c1JzSkpKdjZCaXc3MTVQTGhfVmFfcGpQY2psMzhkRVVGcjdIdmJYeFhwSzB6Mlp1X1RaSHRGSHZDNnlyMmJkTzJGcXRBNTFUQ21NamRxei1NY2tHTXcwSWozWlI4ZjhaUENpQXo4NU1MTFpZbm5FX0F2bTBHSlJnS05tOEJtVjlxTnBQblN5eVlCN2JFU00?oc=5",
+      "parsed_date": "2025-02-24",
+      "raw_title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
+      "same_story_key": "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "url": "https://www.theguardian.com/world/2025/feb/25/beatings-torture-and-electric-shocks-freed-scam-compound-workers-allege-horrific-abuse",
+      "usefulness_category": "Operational intelligence"
+    },
+    "theguardian.com|2025-09-09|africa asia asia\u2019s being broke centres completely\u2019 compounds": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "normalized_title_fingerprint": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "original_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmtudFZ1NUM5bDlpbHBrZ1l1LTdobTVDeUVqTVJ2MTMteHdscGp1LTNuaFcwemRBaS01STJFaUktd25hMnRCMmxwaUJPM2t4cUVkV015emlncjJHSnJ3X3NfTm5OdHM1eDZibnptNm9OTnEzUEJvUzBUZG9VS0hCUlBrd3B2QkFNaTBSVUt4cm9Pb1RKeFhGSjlLb0xpV0NvUmhnSE1pY181ejFYOUI5LXFYdWw1SnFvdlUtNkdENERRVURpZjhlYw?oc=5",
+      "parsed_date": "2025-09-09",
+      "raw_title": "\u2018I broke completely\u2019: how jobseekers from Africa are being tricked into slavery in Asia\u2019s cyberscam compounds",
+      "same_story_key": "theguardian.com|2025-09-09|africa asia asia\u2019s being broke centres completely\u2019 compounds",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "url": "https://www.theguardian.com/global-development/2025/sep/09/cyberslavery-kenya-uganda-ethiopia-southeast-asia-myanmar-scam-centres",
+      "usefulness_category": "Operational intelligence"
+    },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -629,6 +727,20 @@
       "title": "taylor swift deepfakes pushing scams tiktok",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
       "usefulness_category": "Platform policy / product change"
+    },
+    "wired.com|2024-08-08|duped hacked his operation scam scammers smishing text": {
+      "article_type": "Investigative report",
+      "normalised_title": "usps text scammers duped his wife so he hacked their operation",
+      "normalized_title_fingerprint": "usps text scammers duped his wife so he hacked their operation",
+      "original_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pTkxQZkJHdTNPRXBDV0VmQ2dOemFmc2s0aEFtSUdMekszUGVlZmlPQkp0c0doM2M3MDNNUkJGOTY3U0E5RE1OZkpnVU5LS1VVcElvcE5iU1h4bFdSR0RQbGpmVnlrQVBWcXc?oc=5",
+      "parsed_date": "2024-08-08",
+      "raw_title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+      "same_story_key": "wired.com|2024-08-08|duped hacked his operation scam scammers smishing text",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "wired.com",
+      "title": "usps text scammers duped his wife so he hacked their operation",
+      "url": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+      "usefulness_category": "Operational intelligence"
     },
     "wired.com|2025-08-19|493 against asia cases child children compounds linked": {
       "article_type": "Investigative report",
@@ -844,6 +956,18 @@
       "title": "artificial intelligence phishing detection practical framework modern email security",
       "usefulness_category": "Product idea / data source"
     },
+    "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar": {
+      "article_type": "News report",
+      "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "normalized_title_fingerprint": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "parsed_date": "2025-02-24",
+      "raw_title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
+      "same_story_key": "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "usefulness_category": "Operational intelligence"
+    },
     "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
@@ -952,6 +1076,18 @@
       "title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
       "usefulness_category": "Operational intelligence"
     },
+    "fake australian chinese brazilian police stations bbc goes inside seized scam compound": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "normalized_title_fingerprint": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "parsed_date": "2026-04-06",
+      "raw_title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound - BBC",
+      "same_story_key": "bbc.com|2026-04-06|australian bbc brazilian chinese cjenpy8gx71o compound fake goes",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "bbc.com",
+      "title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "usefulness_category": "Operational intelligence"
+    },
     "fauxmantic overtures ai dating profiles driving romance scam networks": {
       "article_type": "Investigative report",
       "normalised_title": "fauxmantic overtures ai dating profiles driving romance scam networks",
@@ -1010,6 +1146,18 @@
       "sent_at": "2026-05-27T02:39:05+00:00",
       "source_domain": "wired.com",
       "title": "he leaked secrets southeast asian scam compound then he had get out alive",
+      "usefulness_category": "Operational intelligence"
+    },
+    "ice phishing scammers sending support ice emails steal credentials": {
+      "article_type": "Investigative report",
+      "normalised_title": "ice phishing scammers sending support ice emails steal credentials",
+      "normalized_title_fingerprint": "ice phishing scammers sending support ice emails steal credentials",
+      "parsed_date": "2026-03-05",
+      "raw_title": "ICE Phishing: Scammers Are Sending 'Support ICE' Emails to Steal Credentials - 404 Media",
+      "same_story_key": "404media.co|2026-03-05|credentials emails ice phishing scammers sending steal support",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "404media.co",
+      "title": "ice phishing scammers sending support ice emails steal credentials",
       "usefulness_category": "Operational intelligence"
     },
     "inside romance scam compound\u2014and people get tricked being there": {
@@ -1095,6 +1243,18 @@
       "source_domain": "ndss-symposium.org",
       "title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
       "usefulness_category": "Product idea / data source"
+    },
+    "people detained myanmar after release scam compounds attempt escape": {
+      "article_type": "News report",
+      "normalised_title": "people detained myanmar after release scam compounds attempt escape",
+      "normalized_title_fingerprint": "people detained myanmar after release scam compounds attempt escape",
+      "parsed_date": "2025-04-15",
+      "raw_title": "People detained in Myanmar after release from scam compounds attempt an escape - AP News",
+      "same_story_key": "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "apnews.com",
+      "title": "people detained myanmar after release scam compounds attempt escape",
+      "usefulness_category": "Operational intelligence"
     },
     "physe psychological framework real time ar llm social engineering attacks": {
       "article_type": "Research paper",
@@ -1240,6 +1400,18 @@
       "title": "social engineering threats cybersecurity risk mitigation through behavioral insights",
       "usefulness_category": "Research / novel method"
     },
+    "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection": {
+      "article_type": "Research paper",
+      "normalised_title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "normalized_title_fingerprint": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "parsed_date": "2025-08-29",
+      "raw_title": "SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection",
+      "same_story_key": "arxiv.org|2025-08-29|analysis campaigns characteristics detection end generated generation language",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "sri lanka becomes next hub scam networks": {
       "article_type": "News report",
       "normalised_title": "sri lanka becomes next hub scam networks",
@@ -1287,6 +1459,18 @@
       "source_domain": "therecord.media",
       "title": "two americans plead guilty assisting india based tech support scam centers",
       "usefulness_category": "Scam development"
+    },
+    "unseen cross stack llm unlearning defense against ar llm social engineering attacks": {
+      "article_type": "Research paper",
+      "normalised_title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "normalized_title_fingerprint": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "parsed_date": "2026-04-25",
+      "raw_title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
+      "same_story_key": "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "usefulness_category": "Research / novel method"
     },
     "us charges 2 chinese nationals managing cyberscam compound myanmar": {
       "article_type": "News report",
@@ -1348,6 +1532,18 @@
       "title": "us \u2018leading fight\u2019 against south east asian scam compounds fbi official says",
       "usefulness_category": "Operational intelligence"
     },
+    "usps text scammers duped his wife so he hacked their operation": {
+      "article_type": "Investigative report",
+      "normalised_title": "usps text scammers duped his wife so he hacked their operation",
+      "normalized_title_fingerprint": "usps text scammers duped his wife so he hacked their operation",
+      "parsed_date": "2024-08-08",
+      "raw_title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+      "same_story_key": "wired.com|2024-08-08|duped hacked his operation scam scammers smishing text",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "wired.com",
+      "title": "usps text scammers duped his wife so he hacked their operation",
+      "usefulness_category": "Operational intelligence"
+    },
     "victim loses least 4 9m scam involving deepfakes pm wong government officials": {
       "article_type": "News report",
       "normalised_title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
@@ -1395,6 +1591,18 @@
       "source_domain": "404media.co",
       "title": "\u2018hello boss\u2019 inside chinese realtime deepfake software powering scams around world",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "normalized_title_fingerprint": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "parsed_date": "2025-09-09",
+      "raw_title": "\u2018I broke completely\u2019: how jobseekers from Africa are being tricked into slavery in Asia\u2019s cyberscam compounds",
+      "same_story_key": "theguardian.com|2025-09-09|africa asia asia\u2019s being broke centres completely\u2019 compounds",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "usefulness_category": "Operational intelligence"
     },
     "\u2018reservation hijacking\u2019 scams target travelers here\u2019s stay safe": {
       "article_type": "News report",
@@ -1614,6 +1822,18 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRaHg5S1o0NDdLSXBtSWNaNHI0V2ZhSHRSLUI0ekNJcjc3WVBVUXVta2NiTXhTaWUwT2w5d3cyMDNIQ3FodGo0SFdzNFotQ2xvUmVvOUxBaldyM0hxWHJ1TkdXMHVpUVdveDZCQzVudkFHWVVLVWpSTGpQalk2c1U?oc=5",
       "usefulness_category": "Scam development"
     },
+    "1dfa13b7b92fc467cf9584402e33b6761ffed47bd7309e0bcd81e0362d84ceac": {
+      "article_type": "Research paper",
+      "normalised_title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "normalized_title_fingerprint": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "parsed_date": "2026-04-25",
+      "same_story_key": "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BcHRwZlBoZmtwaVM0eEQzMWtHejVRbDg2bXR5RkVtamRmSm53MmR2OXFWcXRpNTR6U0RUSUhDbUVPVVRFZ2x3?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
     "21a951d4d6402b512c81057c7578b1f8eef553e7cc522a3289107182b14451ef": {
       "article_type": "Investigative report",
       "normalised_title": "destruction notorious myanmar scam compound appears have been \u2018performative\u2019",
@@ -1649,6 +1869,18 @@
       "title": "Social Engineering Analysis Framework: A Comprehensive Playbook for Human Hacking",
       "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10850908.pdf",
       "usefulness_category": "Product idea / data source"
+    },
+    "271abd129f529fa6156fb9707d73a441769675d6ae728bc5c10984fcada24870": {
+      "article_type": "News report",
+      "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "normalized_title_fingerprint": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "parsed_date": "2025-02-24",
+      "same_story_key": "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
+      "url": "https://www.theguardian.com/world/2025/feb/25/beatings-torture-and-electric-shocks-freed-scam-compound-workers-allege-horrific-abuse",
+      "usefulness_category": "Operational intelligence"
     },
     "2b71a041c97dd1409c20fa8ff6ed106463c81b5916c94841c28bad21c81b6b54": {
       "article_type": "Policy / platform update",
@@ -1794,6 +2026,42 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ic0VxMk1uWVZzSXFMbTJpWnh0d20yMVhsaWRwanp0WkIyVUtnTHJIcXNpQmh6VU5aejZjaEFhRzZqMzJLQWpv?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "3ac67a03ea8cb3a370cf04b1f4e71011b219d644bbcd6353482fe60eadbda117": {
+      "article_type": "Investigative report",
+      "normalised_title": "usps text scammers duped his wife so he hacked their operation",
+      "normalized_title_fingerprint": "usps text scammers duped his wife so he hacked their operation",
+      "parsed_date": "2024-08-08",
+      "same_story_key": "wired.com|2024-08-08|duped hacked his operation scam scammers smishing text",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "wired.com",
+      "title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+      "url": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "3d7b181c5aa2eb092add059654dc6b118e06921c1e89f58d68676f898da4e5ba": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "normalized_title_fingerprint": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "parsed_date": "2025-09-09",
+      "same_story_key": "theguardian.com|2025-09-09|africa asia asia\u2019s being broke centres completely\u2019 compounds",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018I broke completely\u2019: how jobseekers from Africa are being tricked into slavery in Asia\u2019s cyberscam compounds",
+      "url": "https://www.theguardian.com/global-development/2025/sep/09/cyberslavery-kenya-uganda-ethiopia-southeast-asia-myanmar-scam-centres",
+      "usefulness_category": "Operational intelligence"
+    },
+    "3e64609ee4d2b447769db592fb0f4168b5dbbaa0981f8376f3551b88c6d0b734": {
+      "article_type": "Investigative report",
+      "normalised_title": "usps text scammers duped his wife so he hacked their operation",
+      "normalized_title_fingerprint": "usps text scammers duped his wife so he hacked their operation",
+      "parsed_date": "2024-08-08",
+      "same_story_key": "wired.com|2024-08-08|duped hacked his operation scam scammers smishing text",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "wired.com",
+      "title": "USPS Text Scammers Duped His Wife, So He Hacked Their Operation",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pTkxQZkJHdTNPRXBDV0VmQ2dOemFmc2s0aEFtSUdMekszUGVlZmlPQkp0c0doM2M3MDNNUkJGOTY3U0E5RE1OZkpnVU5LS1VVcElvcE5iU1h4bFdSR0RQbGpmVnlrQVBWcXc?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "3ed399ef1795cb0288011d8f670681a04fcac76598b6d485fb0f798a7754c052": {
       "article_type": "News report",
       "normalised_title": "myanmar s army says wants eradicate scam compounds really doing",
@@ -1804,6 +2072,18 @@
       "source_domain": "bbc.com",
       "title": "Myanmar's army says it wants to eradicate scam compounds. Is it really doing that? - BBC",
       "url": "https://www.bbc.com/news/articles/cr7l0ljvvejo",
+      "usefulness_category": "Operational intelligence"
+    },
+    "40a4c8842890ae508756f04a492c543ba50f5f7fd5ba1e0833ab7d11551b6a12": {
+      "article_type": "News report",
+      "normalised_title": "people detained myanmar after release scam compounds attempt escape",
+      "normalized_title_fingerprint": "people detained myanmar after release scam compounds attempt escape",
+      "parsed_date": "2025-04-15",
+      "same_story_key": "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "apnews.com",
+      "title": "People detained in Myanmar after release from scam compounds attempt an escape - AP News",
+      "url": "https://apnews.com/article/thailand-myanmar-scam-center-forced-labor-escape-ethiopia-d44c9f74d3b40ee88dd7e3a33eced8a3",
       "usefulness_category": "Operational intelligence"
     },
     "425e916845012b5b2061eef20fdccba26cb3ff35775df0b8d63361a87869e239": {
@@ -1972,6 +2252,30 @@
       "source_domain": "wired.com",
       "title": "493 Cases of Sextortion Against Children Linked to Notorious Scam Compounds - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnVxUmJDQ1RTcDJwdENXOFo1bV9ZMTJnYkdiNkFPR2R1SUZBVUJNMm9GaXdOYXREalNadE9NRWw4ZVR0VmJPaDJrX2dwdGZpUDUtcU12c05HZ3BVVmFYSGtVaTlWZUE3YVpnLWk5cEd0RGpKa1hXYU1SNlZqX2JGZzdn?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "591238ca0e3e89820c79b3f86f1c757a74e4f07f1469082acba0938b652c6b8c": {
+      "article_type": "Research paper",
+      "normalised_title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "normalized_title_fingerprint": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "parsed_date": "2025-08-29",
+      "same_story_key": "arxiv.org|2025-08-29|analysis campaigns characteristics detection end generated generation language",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0N3hhck5vdU1mdmYta2JEeWdGUjR2V1QySGVLSkZuV2RQZldzOUpkNTA1c21fV3M0NUttSmVRbTFsQ3pCSGYzeHJsdw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
+    "5cd27dadfa7e27b8d81704f96911162226d3da2449df079c7eba3899ab50bd75": {
+      "article_type": "Investigative report",
+      "normalised_title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "normalized_title_fingerprint": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
+      "parsed_date": "2025-09-09",
+      "same_story_key": "theguardian.com|2025-09-09|africa asia asia\u2019s being broke centres completely\u2019 compounds",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018I broke completely\u2019: how jobseekers from Africa are being tricked into slavery in Asia\u2019s cyberscam compounds",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmtudFZ1NUM5bDlpbHBrZ1l1LTdobTVDeUVqTVJ2MTMteHdscGp1LTNuaFcwemRBaS01STJFaUktd25hMnRCMmxwaUJPM2t4cUVkV015emlncjJHSnJ3X3NfTm5OdHM1eDZibnptNm9OTnEzUEJvUzBUZG9VS0hCUlBrd3B2QkFNaTBSVUt4cm9Pb1RKeFhGSjlLb0xpV0NvUmhnSE1pY181ejFYOUI5LXFYdWw1SnFvdlUtNkdENERRVURpZjhlYw?oc=5",
       "usefulness_category": "Operational intelligence"
     },
     "5d6bba2c29704b51d972097be42cc6e2468e0616628cb91cc51277fc441c695f": {
@@ -2164,6 +2468,18 @@
       "source_domain": "arxiv.org",
       "title": "PsyScam: A Benchmark for Psychological Techniques in Real-World Scams",
       "url": "https://arxiv.org/html/2505.15017v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "7839c977a24b4235858fafcd758e17b50a4d3c12786d8526e941ddade8818aa2": {
+      "article_type": "Research paper",
+      "normalised_title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "normalized_title_fingerprint": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
+      "parsed_date": "2026-04-25",
+      "same_story_key": "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
+      "url": "https://arxiv.org/pdf/2604.23141",
       "usefulness_category": "Research / novel method"
     },
     "7976e256db60eaaae47cbe71693bfd92eddf5f9cf202288da37f1997dc1bd1d8": {
@@ -2406,6 +2722,18 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMDZieXA1bW9FNTRYbnd6d2h0VVZpRGpUUXRmQWRvZlctZ3Z6VGYwQVRJRk1KS29xeEI0ZFQtcGFLWlE3WFNHWHhQX3lWSXp3WkRpNzk0eVBXdEhTNDNGZC1hNHlFOTNvS1BPN3ZHeEVsTEotbEIzc3ZYVmFxZUtnX2F4dGJiUlc3ZG8tVjk1N3RtdlFINkdJanlUYlFpaXhLZHJjMVltN2NFb2daaG1zS0w0NA?oc=5",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "a618f6a32945332940a7eb132ffd5745a8e1bcf8eb68bfb9f8abefa6b643d415": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "normalized_title_fingerprint": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "parsed_date": "2026-04-06",
+      "same_story_key": "bbc.com|2026-04-06|australian bbc brazilian chinese cjenpy8gx71o compound fake goes",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "bbc.com",
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound - BBC",
+      "url": "https://www.bbc.com/news/articles/cjenpy8gx71o",
+      "usefulness_category": "Operational intelligence"
+    },
     "a75827bd866acf3a9b0c06daaca0dc23d50f2376df1cceaaa8c50dcd8bdebcc2": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
@@ -2440,6 +2768,18 @@
       "source_domain": "wired.com",
       "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjJhUkQ2LU1LaGNIbzB2eUNMVzZ6eXhhYlVHRUNncjRVSGoxbEJySGxBNE9jdXhwa3pzMTk5V2tKLXZmTGllSjhMWFh1aE1CZzFINnc0NDlvVnB1RlNTM1FFM181bVVqaWdvbXJKb2dfYWl6MTBhQk1lODM4LS1NOFlnX0pvblR2RWxSaVplSWNOV09RRGlTSThXc0drV1JUS1FCU1ZRSXV1dw?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "b49eb7c9bd470265dee6cffdbe6696c1e04901dfbf9194045bc4ee4517faf53f": {
+      "article_type": "News report",
+      "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "normalized_title_fingerprint": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "parsed_date": "2025-02-24",
+      "same_story_key": "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0pRcHJzaEI3MGJOazVVZlhaX2VVdHRCdGx3bi1lSVNReUhkUU83LWpSdm5qYXJzajI3VS02c1JzSkpKdjZCaXc3MTVQTGhfVmFfcGpQY2psMzhkRVVGcjdIdmJYeFhwSzB6Mlp1X1RaSHRGSHZDNnlyMmJkTzJGcXRBNTFUQ21NamRxei1NY2tHTXcwSWozWlI4ZjhaUENpQXo4NU1MTFpZbm5FX0F2bTBHSlJnS05tOEJtVjlxTnBQblN5eVlCN2JFU00?oc=5",
       "usefulness_category": "Operational intelligence"
     },
     "ba616a6803a885aace1c879e2fb3d1029f51fb2d2f6fc1d51b64ed46e4197e7f": {
@@ -2634,6 +2974,18 @@
       "url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
       "usefulness_category": "Operational intelligence"
     },
+    "dfb8033d353fd0b8cc41c26a842d9f934991de17dd011463da8b6ed942287773": {
+      "article_type": "News report",
+      "normalised_title": "people detained myanmar after release scam compounds attempt escape",
+      "normalized_title_fingerprint": "people detained myanmar after release scam compounds attempt escape",
+      "parsed_date": "2025-04-15",
+      "same_story_key": "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "apnews.com",
+      "title": "People detained in Myanmar after release from scam compounds attempt an escape - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTBkRWxzRk04SEVKRndxcV9LbjhZc0ZReTZSM1VxQU9EYmlmY1l3QldFckx6QzhnTEFKekpTb2t3VEhjQU1wRkJDUXF3Z1g0LWh6NU95OF93WW5WTndFdGM3WV9pMTRodzV5U3BYcUZPTWJ1VjVFVEhBLUF6SG5QYzNWb3dOVTRYOXJDM0ZuNG05LVg1SnotdTB6N0kwMU1ib2s0LThkSmt1SjBULXNBMXBJdGlPR1Fk?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "e05d64c84cc991e93a5f5b3e8972245af6d7427390492b2f5baef3b613fa1287": {
       "article_type": "Deep analysis",
       "normalised_title": "scams fraud social engineering scale",
@@ -2645,6 +2997,30 @@
       "title": "Scams & Fraud: Social Engineering at Scale - Graphika",
       "url": "https://graphika.com/reports/scams-fraud",
       "usefulness_category": "Operational intelligence"
+    },
+    "e22f220fd3eb65cdc16804671a8b3e216ed9ec4baa3ea966362cc333f4440507": {
+      "article_type": "Investigative report",
+      "normalised_title": "ice phishing scammers sending support ice emails steal credentials",
+      "normalized_title_fingerprint": "ice phishing scammers sending support ice emails steal credentials",
+      "parsed_date": "2026-03-05",
+      "same_story_key": "404media.co|2026-03-05|credentials emails ice phishing scammers sending steal support",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "404media.co",
+      "title": "ICE Phishing: Scammers Are Sending 'Support ICE' Emails to Steal Credentials - 404 Media",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVh1RkNJZUpNWEQ2THZ5SWVUNEN0VUJJaHo1b0pRMDRSY3hOaU42QXVfZW5NUEFMUGNiWHM4aXpzTEpLRHFoTERYME9LLVdDN1NHb2xKQXk1NDloLTU2TVpmVE02OHdkNVpsOHc5UFI0RGx1aDhiMzFPangxVzg4OG1iUDNTbUQ1Z1p5cm53SlV6eEdkQlNZLUc0VFlrdUE?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "e3b3a431fa641a8e9a6f331d3314bc866aca26035312a7e531020343e4346a84": {
+      "article_type": "Research paper",
+      "normalised_title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "normalized_title_fingerprint": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
+      "parsed_date": "2025-08-29",
+      "same_story_key": "arxiv.org|2025-08-29|analysis campaigns characteristics detection end generated generation language",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "arxiv.org",
+      "title": "SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection",
+      "url": "https://arxiv.org/html/2508.21457v1",
+      "usefulness_category": "Product idea / data source"
     },
     "e67e76920f33c0f6ddd1b1715e8564095b2c86339547561bbb74ef0b3d7577f8": {
       "article_type": "News report",
@@ -2706,6 +3082,18 @@
       "url": "https://www.reuters.com/video/watch/idRW321106022026RP1/",
       "usefulness_category": "Operational intelligence"
     },
+    "f04c61a653f6dafafa07acf7129f60bcfeb79465a5ea8ed8114bde6d4a8cb722": {
+      "article_type": "Investigative report",
+      "normalised_title": "ice phishing scammers sending support ice emails steal credentials",
+      "normalized_title_fingerprint": "ice phishing scammers sending support ice emails steal credentials",
+      "parsed_date": "2026-03-05",
+      "same_story_key": "404media.co|2026-03-05|credentials emails ice phishing scammers sending steal support",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "404media.co",
+      "title": "ICE Phishing: Scammers Are Sending 'Support ICE' Emails to Steal Credentials - 404 Media",
+      "url": "https://www.404media.co/ice-phishing-scammers-are-sending-support-ice-emails-to-steal-credentials/",
+      "usefulness_category": "Operational intelligence"
+    },
     "f3082ab6dd39ec43d749fc6b529fb06e714e0d01360fa3c7bfdd49211d32fa72": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -2729,6 +3117,18 @@
       "title": "Victim loses at least $4.9m in scam involving deepfakes of PM Wong, government officials",
       "url": "https://www.straitstimes.com/singapore/victim-loses-at-least-4-9m-in-scam-involving-deepfakes-of-pm-wong-government-officials",
       "usefulness_category": "Scam development"
+    },
+    "f9d33e6e68e347d352679e0df95abcf0146000119108f7afe145279cb86e3959": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "normalized_title_fingerprint": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
+      "parsed_date": "2026-04-06",
+      "same_story_key": "bbc.com|2026-04-06|australian bbc brazilian chinese cjenpy8gx71o compound fake goes",
+      "sent_at": "2026-05-30T03:18:14+00:00",
+      "source_domain": "bbc.com",
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdU9HOWhaN0F3akZzRGN2eTUtUUhmWXNZZk9sN2themRtNlNTbHA5N2tYdk44V3hjMFZFelVCaUVrYjRoQjdjWDEyVHFjR1J6VUtuakNSb1ZFZw?oc=5",
+      "usefulness_category": "Operational intelligence"
     }
   }
 }
