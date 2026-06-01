@@ -266,6 +266,20 @@
       "url": "https://www.bbc.com/news/articles/cjenpy8gx71o",
       "usefulness_category": "Operational intelligence"
     },
+    "channelnewsasia.com|2026-05-16|being chief exemption exploited global malaysia malaysia\u2019s police": {
+      "article_type": "News report",
+      "normalised_title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "normalized_title_fingerprint": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us",
+      "original_url": "https://www.channelnewsasia.com/asia/malaysia-police-transnational-scam-syndicate-visa-policy-6125416",
+      "parsed_date": "2026-05-16",
+      "raw_title": "Malaysia\u2019s visa-exemption policy being exploited by global scam rings, says police chief after US$14.7m raids - CNA",
+      "same_story_key": "channelnewsasia.com|2026-05-16|being chief exemption exploited global malaysia malaysia\u2019s police",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-police-transnational-scam-syndicate-visa-policy-6125416",
+      "usefulness_category": "Operational intelligence"
+    },
     "graphika.com|2024-12-18|frauds holiday infographic scams unwrapped": {
       "article_type": "Deep analysis",
       "normalised_title": "infographic holiday scams frauds unwrapped",
@@ -292,6 +306,20 @@
       "source_domain": "graphika.com",
       "title": "scams fraud social engineering scale",
       "url": "https://graphika.com/reports/scams-fraud",
+      "usefulness_category": "Operational intelligence"
+    },
+    "graphika.com|2025-09-30|cyber frontlines graphika interview romance scams talking": {
+      "article_type": "Deep analysis",
+      "normalised_title": "graphika news talking romance scams cyber frontlines",
+      "normalized_title_fingerprint": "graphika news talking romance scams cyber frontlines",
+      "original_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUm53VGgyYXo2VmM5TzZiV0UwV0hBRTc0UXlrbGhOdVphTmI3QlFVM0c2THJEVndPRXU2NHAtN0dFc21oQ1hSN1VsVjZvYm1zYnVPRnBySllRQkZUV1Z5X2dtQVE3TlpQU1c0akJmZzZrOHVQYUI4b3FvcnJjNTA4dlVfUE5fZXJERXdITkM5cDc3TkVxWld4YkVSb2NkZw?oc=5",
+      "parsed_date": "2025-09-30",
+      "raw_title": "Graphika In The News: Talking Romance Scams With Cyber From The Frontlines - Graphika",
+      "same_story_key": "graphika.com|2025-09-30|cyber frontlines graphika interview romance scams talking",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "graphika.com",
+      "title": "graphika news talking romance scams cyber frontlines",
+      "url": "https://graphika.com/posts/graphika-in-the-news-interview-on-scams-with-cyber-from-the-frontlines",
       "usefulness_category": "Operational intelligence"
     },
     "graphika.com|2026-03-09|dating driving fauxmantic networks overtures profiles romance scam": {
@@ -405,6 +433,34 @@
       "title": "social engineering threats cybersecurity risk mitigation through behavioral insights",
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
+    },
+    "ndss-symposium.org|2025-02-24|attacks aware context create data language large media": {
+      "article_type": "Research paper",
+      "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "normalized_title_fingerprint": "poster utilizing large language models create context aware spear phishing attacks using social media",
+      "original_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QMmlXcDZCNXJCZE95TVBWOGVFb1JzNlVrSzRCb2VoTC1LcFdwWmRjYjdSRG9Ia1ozSnBaZVpWZTZQLUZMRTVaMFZ6MXhqaVF4WDBHU3VYLXF5aTUxZDNYaHBta0hzZElubE5VbG1Wd2VOTzFTOVBr?oc=5",
+      "parsed_date": "2025-02-24",
+      "raw_title": "Poster: Utilizing Large Language Models to Create Context-Aware Spear-Phishing Attacks Using Social Media Data",
+      "same_story_key": "ndss-symposium.org|2025-02-24|attacks aware context create data language large media",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2025-poster-68.pdf",
+      "usefulness_category": "Product idea / data source"
+    },
+    "ndss-symposium.org|2026-02-22|against augmented auto browser defense draft engineering social": {
+      "article_type": "Research paper",
+      "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
+      "normalized_title_fingerprint": "ai vs ai browser defense against ai augmented social engineering web network distributed system",
+      "original_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80eGpoZFZiemQzUVBDU2x0cDlQbDNiaUZlbHJGcFY1dFNkbEtDWjVZS09fazhXaDBRYlJ1N01hRnJhdFZfSDlqdWp2M3hTMXNhb1ljd2c4LVhtQy1JTUIyVGk4RWlTektP?oc=5",
+      "parsed_date": "2026-02-22",
+      "raw_title": "AI vs. AI + Browser: Defense against AI-augmented Social Engineering on the Web",
+      "same_story_key": "ndss-symposium.org|2026-02-22|against augmented auto browser defense draft engineering social",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "ai vs ai browser defense against ai augmented social engineering web",
+      "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-724/",
+      "usefulness_category": "Product idea / data source"
     },
     "ndss-symposium.org|2026-03-03|defending distributed emails enabled llm ndss network paladin": {
       "article_type": "Research paper",
@@ -700,6 +756,20 @@
       "url": "https://www.theguardian.com/world/2025/feb/19/myanmar-scam-call-centre-compound-rescues-thailand-crackdown",
       "usefulness_category": "Operational intelligence"
     },
+    "theguardian.com|2025-02-21|call centre compounds could general held illegal myanmar": {
+      "article_type": "Enforcement report",
+      "normalised_title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "normalized_title_fingerprint": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "original_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGwxcC1SYmJ1c01IUnl2d0FFalB1bU9ybkZNWE5ySzhPUHlMZTZoLVNTcFpLNnlFbmRXel8yV01oN05ncllJOHVGdjJTREhicE9JQkVaTC1rWjBObVk2Z01Ja3NrOHhXMXU0VlBfMXZsNC1HcXVnMUc4eklFX2w2LUUzajhaOU0?oc=5",
+      "parsed_date": "2025-02-21",
+      "raw_title": "Tens of thousands could be held in illegal scam compounds in Myanmar, Thai police general says | Thailand - The Guardian",
+      "same_story_key": "theguardian.com|2025-02-21|call centre compounds could general held illegal myanmar",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "url": "https://www.theguardian.com/world/2025/feb/21/myanmar-scam-call-centre-compounds",
+      "usefulness_category": "Operational intelligence"
+    },
     "theguardian.com|2025-02-24|abuse allege beatings compound electric freed horrific myanmar": {
       "article_type": "News report",
       "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
@@ -726,6 +796,20 @@
       "source_domain": "theguardian.com",
       "title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
       "url": "https://www.theguardian.com/global-development/2025/sep/09/cyberslavery-kenya-uganda-ethiopia-southeast-asia-myanmar-scam-centres",
+      "usefulness_category": "Operational intelligence"
+    },
+    "theguardian.com|2025-10-21|centre compound cybercrime detained military myanmar notorious park": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "normalized_title_fingerprint": "thousands detained myanmar military raids notorious kk park scam compound",
+      "original_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejVCQ3ltMUlySDFrdlUwUlZ4LVYzZnZIa3hzelpnNFhpVDhZTHNCYXRUYkxrVVhPZ3BLLTFfQ0Zyb2NmLTM0MFZYaEhmczVENVZzdV8zVXVmUmpmQkNBdXNWZlFEY2FwWTVoempENFFrZmQycFRmQlppdkp6Y09EcjM3RlBfN2pYVER0Q29vTDlveVBScEM1U3JZTnRSYVE?oc=5",
+      "parsed_date": "2025-10-21",
+      "raw_title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "same_story_key": "theguardian.com|2025-10-21|centre compound cybercrime detained military myanmar notorious park",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "url": "https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound",
       "usefulness_category": "Operational intelligence"
     },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
@@ -824,6 +908,20 @@
       "source_domain": "wired.com",
       "title": "usps text scammers duped his wife so he hacked their operation",
       "url": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2025-02-05|already collapse compounds criminal enslave fueling helping human": {
+      "article_type": "Investigative report",
+      "normalised_title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "normalized_title_fingerprint": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "original_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWk0Nm9EblExSzZna2tSeXB1VEJHNGFnTE4xVUt6eGpPdDJrcGRtcERTelVHbS1kNFVwaGpHTmdlci1zZzNocWlmdzlFUW5sYVpLMWF3SUNxakZrVWhtVTJyd2FnR3UtSU9GSS1GUXZ6ZmdZWVQ2cm00dGMtbnFQRGluN19ZUXN3NTA3S2Rlc0Q?oc=5",
+      "parsed_date": "2025-02-05",
+      "raw_title": "The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds",
+      "same_story_key": "wired.com|2025-02-05|already collapse compounds criminal enslave fueling helping human",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "url": "https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/",
       "usefulness_category": "Operational intelligence"
     },
     "wired.com|2025-08-19|493 against asia cases child children compounds linked": {
@@ -952,6 +1050,20 @@
       "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
       "usefulness_category": "Scam development"
     },
+    "wired.com|2026-04-14|billion black crypto hosting market sanctioned scammer still": {
+      "article_type": "Investigative report",
+      "normalised_title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "normalized_title_fingerprint": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "original_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHRSZktONVItc3BmVURnX0pVeTNHMnl2ZDNlZkRIaHJBanU4aHJISnJ1SDhJX01fNnhfNjk4aVZVaE12ZzFmQVVjUGpPRHFPY09rZmhhb2dQeVJIcnhQRGlMSEp2UVAtTzRlZzNRN0t3YmRRRGtLdFdTS1doZl9ZSExaWWJ5OUZZU01vQXRQOXFfZ2Q1SmcwckZVeTRWUktjc19vQ255SGYzUQ?oc=5",
+      "parsed_date": "2026-04-14",
+      "raw_title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market - WIRED",
+      "same_story_key": "wired.com|2026-04-14|billion black crypto hosting market sanctioned scammer still",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "url": "https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/",
+      "usefulness_category": "Operational intelligence"
+    },
     "wired.com|2026-04-21|dumb\u2019 generated girl girls grift maga men scammer": {
       "article_type": "Investigative report",
       "normalised_title": "scammer used ai generated maga girl grift \u2018super dumb\u2019 men",
@@ -1044,6 +1156,18 @@
       "title": "abandoned cambodian scam compound exposes fraudsters scheming",
       "usefulness_category": "Operational intelligence"
     },
+    "ai vs ai browser defense against ai augmented social engineering web network distributed system": {
+      "article_type": "Research paper",
+      "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
+      "normalized_title_fingerprint": "ai vs ai browser defense against ai augmented social engineering web network distributed system",
+      "parsed_date": "2026-02-22",
+      "raw_title": "AI vs. AI + Browser: Defense against AI-augmented Social Engineering on the Web",
+      "same_story_key": "ndss-symposium.org|2026-02-22|against augmented auto browser defense draft engineering social",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "ai vs ai browser defense against ai augmented social engineering web",
+      "usefulness_category": "Product idea / data source"
+    },
     "analytical framework social engineering decision making under uncertainty": {
       "article_type": "Research paper",
       "normalised_title": "analytical framework social engineering decision making under uncertainty",
@@ -1127,6 +1251,18 @@
       "source_domain": "therecord.media",
       "title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
       "usefulness_category": "Scam development"
+    },
+    "collapse usaid already fueling human trafficking slavery scammer compounds": {
+      "article_type": "Investigative report",
+      "normalised_title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "normalized_title_fingerprint": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "parsed_date": "2025-02-05",
+      "raw_title": "The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds",
+      "same_story_key": "wired.com|2025-02-05|already collapse compounds criminal enslave fueling helping human",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "usefulness_category": "Operational intelligence"
     },
     "cyberscammers bypassing banks\u2019 security illicit tools sold telegram": {
       "article_type": "Investigative report",
@@ -1248,6 +1384,18 @@
       "title": "global cybersecurity gap deepens ai powered attacks surge",
       "usefulness_category": "General context"
     },
+    "graphika news talking romance scams cyber frontlines": {
+      "article_type": "Deep analysis",
+      "normalised_title": "graphika news talking romance scams cyber frontlines",
+      "normalized_title_fingerprint": "graphika news talking romance scams cyber frontlines",
+      "parsed_date": "2025-09-30",
+      "raw_title": "Graphika In The News: Talking Romance Scams With Cyber From The Frontlines - Graphika",
+      "same_story_key": "graphika.com|2025-09-30|cyber frontlines graphika interview romance scams talking",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "graphika.com",
+      "title": "graphika news talking romance scams cyber frontlines",
+      "usefulness_category": "Operational intelligence"
+    },
     "guardsec multi modal web platform real time digital fraud detection entity verification connection security": {
       "article_type": "Research paper",
       "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
@@ -1331,6 +1479,18 @@
       "source_domain": "therecord.media",
       "title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us": {
+      "article_type": "News report",
+      "normalised_title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "normalized_title_fingerprint": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us",
+      "parsed_date": "2026-05-16",
+      "raw_title": "Malaysia\u2019s visa-exemption policy being exploited by global scam rings, says police chief after US$14.7m raids - CNA",
+      "same_story_key": "channelnewsasia.com|2026-05-16|being chief exemption exploited global malaysia malaysia\u2019s police",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "usefulness_category": "Operational intelligence"
     },
     "more than 200 arrested cyber raids aimed middle east scam networks": {
       "article_type": "Investigative report",
@@ -1427,6 +1587,18 @@
       "source_domain": "404media.co",
       "title": "podcast chinese deepfake software powering scams",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "poster utilizing large language models create context aware spear phishing attacks using social media": {
+      "article_type": "Research paper",
+      "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "normalized_title_fingerprint": "poster utilizing large language models create context aware spear phishing attacks using social media",
+      "parsed_date": "2025-02-24",
+      "raw_title": "Poster: Utilizing Large Language Models to Create Context-Aware Spear-Phishing Attacks Using Social Media Data",
+      "same_story_key": "ndss-symposium.org|2025-02-24|attacks aware context create data language large media",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "usefulness_category": "Product idea / data source"
     },
     "prescam benchmark predicting scam progression early conversations": {
       "article_type": "Research paper",
@@ -1643,6 +1815,42 @@
       "source_domain": "techcrunch.com",
       "title": "teen hacker iron dome researcher founder raised 28m fight ai phishing",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "telegram still hosting sanctioned 21 billion crypto scammer black market": {
+      "article_type": "Investigative report",
+      "normalised_title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "normalized_title_fingerprint": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "parsed_date": "2026-04-14",
+      "raw_title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market - WIRED",
+      "same_story_key": "wired.com|2026-04-14|billion black crypto hosting market sanctioned scammer still",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "usefulness_category": "Operational intelligence"
+    },
+    "tens thousands could held illegal scam compounds myanmar thai police general says thailand": {
+      "article_type": "Enforcement report",
+      "normalised_title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "normalized_title_fingerprint": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "parsed_date": "2025-02-21",
+      "raw_title": "Tens of thousands could be held in illegal scam compounds in Myanmar, Thai police general says | Thailand - The Guardian",
+      "same_story_key": "theguardian.com|2025-02-21|call centre compounds could general held illegal myanmar",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "usefulness_category": "Operational intelligence"
+    },
+    "thousands detained myanmar military raids notorious kk park scam compound": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "normalized_title_fingerprint": "thousands detained myanmar military raids notorious kk park scam compound",
+      "parsed_date": "2025-10-21",
+      "raw_title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "same_story_key": "theguardian.com|2025-10-21|centre compound cybercrime detained military myanmar notorious park",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "usefulness_category": "Operational intelligence"
     },
     "thousands rescued illegal scam compounds myanmar thailand launches huge crackdown": {
       "article_type": "Enforcement report",
@@ -2102,6 +2310,30 @@
       "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10850908.pdf",
       "usefulness_category": "Product idea / data source"
     },
+    "26817405ed3977f130d53a05df6b9ab051ca850af102b32632b741820ed9b1a0": {
+      "article_type": "Research paper",
+      "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "normalized_title_fingerprint": "poster utilizing large language models create context aware spear phishing attacks using social media",
+      "parsed_date": "2025-02-24",
+      "same_story_key": "ndss-symposium.org|2025-02-24|attacks aware context create data language large media",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "Poster: Utilizing Large Language Models to Create Context-Aware Spear-Phishing Attacks Using Social Media Data",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2025-poster-68.pdf",
+      "usefulness_category": "Product idea / data source"
+    },
+    "270064f57992bf27d3da54fe754034f3730431033810bd174b1bb35dec883ad1": {
+      "article_type": "Investigative report",
+      "normalised_title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "normalized_title_fingerprint": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "parsed_date": "2025-02-05",
+      "same_story_key": "wired.com|2025-02-05|already collapse compounds criminal enslave fueling helping human",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWk0Nm9EblExSzZna2tSeXB1VEJHNGFnTE4xVUt6eGpPdDJrcGRtcERTelVHbS1kNFVwaGpHTmdlci1zZzNocWlmdzlFUW5sYVpLMWF3SUNxakZrVWhtVTJyd2FnR3UtSU9GSS1GUXZ6ZmdZWVQ2cm00dGMtbnFQRGluN19ZUXN3NTA3S2Rlc0Q?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "271abd129f529fa6156fb9707d73a441769675d6ae728bc5c10984fcada24870": {
       "article_type": "News report",
       "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
@@ -2498,6 +2730,18 @@
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
     },
+    "50f626fbf871c3b18d17dd8a02a25576091061fe386a2065d6bb210f66f1ce3f": {
+      "article_type": "News report",
+      "normalised_title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "normalized_title_fingerprint": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us",
+      "parsed_date": "2026-05-16",
+      "same_story_key": "channelnewsasia.com|2026-05-16|being chief exemption exploited global malaysia malaysia\u2019s police",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Malaysia\u2019s visa-exemption policy being exploited by global scam rings, says police chief after US$14.7m raids - CNA",
+      "url": "https://www.channelnewsasia.com/asia/malaysia-police-transnational-scam-syndicate-visa-policy-6125416",
+      "usefulness_category": "Operational intelligence"
+    },
     "5154f13f036441e643429b76970b5025ba3d7a7750d4f10cbc494e23a704541c": {
       "article_type": "Deep analysis",
       "normalised_title": "scams fraud social engineering scale",
@@ -2629,6 +2873,18 @@
       "title": "US launches sweeping crackdown on Southeast Asia cyberscams and sanctions Cambodian senator",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlR2SmNLdXFtaS1zZGtPXzBpdk5zcTd1ZW1neE8zcGhCcGhfcXB3NVk3ZG5EVWZnMkdjUThlMWpiLVNRbndBYTJDMi1NV2ZIbkhobXV3bGV6V1lYaGh1T0xLbGZpLVJkdmZUcmhvd210Y3lpLUtBQklJbmExODZGUnVTZ0d2c1NDSkxXbkw0N25RanI5VFZnM2czOUJpcEMyTkE?oc=5",
       "usefulness_category": "Platform policy / product change"
+    },
+    "60b26deee4f4d481aa2c7e98570f798972461e814f8786e8edc911ef11b45b13": {
+      "article_type": "Research paper",
+      "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
+      "normalized_title_fingerprint": "ai vs ai browser defense against ai augmented social engineering web network distributed system",
+      "parsed_date": "2026-02-22",
+      "same_story_key": "ndss-symposium.org|2026-02-22|against augmented auto browser defense draft engineering social",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "AI vs. AI + Browser: Defense against AI-augmented Social Engineering on the Web",
+      "url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-724/",
+      "usefulness_category": "Product idea / data source"
     },
     "628795257a779783117de1fed83e7dd19758eeabf3a9f898f3a582065f3b04a9": {
       "article_type": "Enforcement report",
@@ -2846,6 +3102,18 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdHNmUWZqa3NXT2xZMk43ZE40NDYzMjNRUmVIVGNveVM4RHYzTVQ2alRXaW9DT0l2by13dmdiSHE1eDFMeUNRYUN4bFAxTFltOU9aTTQzSl92eUZVeU4tUmFqeVlWTUhIV2UwejVVVDJyTjB2elp1Ulk4TTh4Q2hqUA?oc=5",
       "usefulness_category": "Scam development"
     },
+    "7c44cb2cf6193bc43dfb327babb26c74082fcf113013256c9af4de1264b498d0": {
+      "article_type": "Deep analysis",
+      "normalised_title": "graphika news talking romance scams cyber frontlines",
+      "normalized_title_fingerprint": "graphika news talking romance scams cyber frontlines",
+      "parsed_date": "2025-09-30",
+      "same_story_key": "graphika.com|2025-09-30|cyber frontlines graphika interview romance scams talking",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "graphika.com",
+      "title": "Graphika In The News: Talking Romance Scams With Cyber From The Frontlines - Graphika",
+      "url": "https://graphika.com/posts/graphika-in-the-news-interview-on-scams-with-cyber-from-the-frontlines",
+      "usefulness_category": "Operational intelligence"
+    },
     "7ffcdbe15ea4be2574b3d1078f6abc7d76deaf228d43892196983aedd1979ed4": {
       "article_type": "Investigative report",
       "normalised_title": "podcast chinese deepfake software powering scams",
@@ -2990,6 +3258,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFJzLVVFSGY5Z3QyTzZ4SUhqcWNtYTVOckZMX05qdmZ1Q2JydHFtWVFhMTFuSHYxYVluVDB0VGlVQy1BZEFSOXFMWVlDVUFCMk5KTlhyMVpTSWZKMjk2R3F6U1BRMUE2YXJtRnE5Y2dTSUVZN2VRQllCTWNQWDVlSDAyMmREdW53SGViT3NBMkpPamJmZWFZeEE0bXlDR3p5V1Zv?oc=5",
       "usefulness_category": "Platform policy / product change"
     },
+    "962d915ad555f3ae93a2d320dd0af2c07226f1a672bd93180bb91b6e7d3c581e": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "normalized_title_fingerprint": "thousands detained myanmar military raids notorious kk park scam compound",
+      "parsed_date": "2025-10-21",
+      "same_story_key": "theguardian.com|2025-10-21|centre compound cybercrime detained military myanmar notorious park",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "url": "https://www.theguardian.com/world/2025/oct/21/myanmar-kk-park-raid-scam-cybercrime-centre-compound",
+      "usefulness_category": "Operational intelligence"
+    },
     "97c58313b4e9831e4376fec14632e55e0ea9f1f4b638b8d08df9f6d1f9b7a09d": {
       "article_type": "Investigative report",
       "normalised_title": "cyberscammers bypassing banks\u2019 security illicit tools sold telegram",
@@ -3013,6 +3293,18 @@
       "title": "Cambodian scam compound yields trove of fraud evidence, Thai military says - Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/cambodian-scam-compound-yields-trove-fraud-evidence-thai-military-says-2026-02-02/",
       "usefulness_category": "Operational intelligence"
+    },
+    "9e59f8e140342f3a4f005ac359c7f8372587a32d305e0e4a7e5d7763a7604f6e": {
+      "article_type": "Research paper",
+      "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
+      "normalized_title_fingerprint": "poster utilizing large language models create context aware spear phishing attacks using social media",
+      "parsed_date": "2025-02-24",
+      "same_story_key": "ndss-symposium.org|2025-02-24|attacks aware context create data language large media",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "Poster: Utilizing Large Language Models to Create Context-Aware Spear-Phishing Attacks Using Social Media Data",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QMmlXcDZCNXJCZE95TVBWOGVFb1JzNlVrSzRCb2VoTC1LcFdwWmRjYjdSRG9Ia1ozSnBaZVpWZTZQLUZMRTVaMFZ6MXhqaVF4WDBHU3VYLXF5aTUxZDNYaHBta0hzZElubE5VbG1Wd2VOTzFTOVBr?oc=5",
+      "usefulness_category": "Product idea / data source"
     },
     "9ec80140534cea2a36e306b2788bba23b8dfa195bfff90029df76197422230d2": {
       "article_type": "News report",
@@ -3074,6 +3366,18 @@
       "url": "https://www.bbc.com/news/articles/cjenpy8gx71o",
       "usefulness_category": "Operational intelligence"
     },
+    "a75619814f76125a02c467109414477e084ef790de481d305c9c63de39c9ca06": {
+      "article_type": "Deep analysis",
+      "normalised_title": "graphika news talking romance scams cyber frontlines",
+      "normalized_title_fingerprint": "graphika news talking romance scams cyber frontlines",
+      "parsed_date": "2025-09-30",
+      "same_story_key": "graphika.com|2025-09-30|cyber frontlines graphika interview romance scams talking",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "graphika.com",
+      "title": "Graphika In The News: Talking Romance Scams With Cyber From The Frontlines - Graphika",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUm53VGgyYXo2VmM5TzZiV0UwV0hBRTc0UXlrbGhOdVphTmI3QlFVM0c2THJEVndPRXU2NHAtN0dFc21oQ1hSN1VsVjZvYm1zYnVPRnBySllRQkZUV1Z5X2dtQVE3TlpQU1c0akJmZzZrOHVQYUI4b3FvcnJjNTA4dlVfUE5fZXJERXdITkM5cDc3TkVxWld4YkVSb2NkZw?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "a75827bd866acf3a9b0c06daaca0dc23d50f2376df1cceaaa8c50dcd8bdebcc2": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
@@ -3108,6 +3412,18 @@
       "source_domain": "wired.com",
       "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjJhUkQ2LU1LaGNIbzB2eUNMVzZ6eXhhYlVHRUNncjRVSGoxbEJySGxBNE9jdXhwa3pzMTk5V2tKLXZmTGllSjhMWFh1aE1CZzFINnc0NDlvVnB1RlNTM1FFM181bVVqaWdvbXJKb2dfYWl6MTBhQk1lODM4LS1NOFlnX0pvblR2RWxSaVplSWNOV09RRGlTSThXc0drV1JUS1FCU1ZRSXV1dw?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "b1df86ded28720f0233401b4ad359d5327dc8b2b355aaa10f9f7c47bd10c909d": {
+      "article_type": "Investigative report",
+      "normalised_title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "normalized_title_fingerprint": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "parsed_date": "2026-04-14",
+      "same_story_key": "wired.com|2026-04-14|billion black crypto hosting market sanctioned scammer still",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHRSZktONVItc3BmVURnX0pVeTNHMnl2ZDNlZkRIaHJBanU4aHJISnJ1SDhJX01fNnhfNjk4aVZVaE12ZzFmQVVjUGpPRHFPY09rZmhhb2dQeVJIcnhQRGlMSEp2UVAtTzRlZzNRN0t3YmRRRGtLdFdTS1doZl9ZSExaWWJ5OUZZU01vQXRQOXFfZ2Q1SmcwckZVeTRWUktjc19vQ255SGYzUQ?oc=5",
       "usefulness_category": "Operational intelligence"
     },
     "b49eb7c9bd470265dee6cffdbe6696c1e04901dfbf9194045bc4ee4517faf53f": {
@@ -3326,6 +3642,42 @@
       "url": "https://ieeexplore.ieee.org/document/10692765/",
       "usefulness_category": "Product idea / data source"
     },
+    "d70d30cbfd2e266950ee1d3662933d8ef77a85befddb32b855a2db294d76e4e0": {
+      "article_type": "Investigative report",
+      "normalised_title": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "normalized_title_fingerprint": "telegram still hosting sanctioned 21 billion crypto scammer black market",
+      "parsed_date": "2026-04-14",
+      "same_story_key": "wired.com|2026-04-14|billion black crypto hosting market sanctioned scammer still",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market - WIRED",
+      "url": "https://www.wired.com/story/telegram-is-still-hosting-a-sanctioned-21-billion-crypto-scammer-black-market/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "da42bd97324b2a13dcdbd546c9ef71979416e805085432d86283f5be359e9cb1": {
+      "article_type": "Research paper",
+      "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
+      "normalized_title_fingerprint": "ai vs ai browser defense against ai augmented social engineering web network distributed system",
+      "parsed_date": "2026-02-22",
+      "same_story_key": "ndss-symposium.org|2026-02-22|against augmented auto browser defense draft engineering social",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "ndss-symposium.org",
+      "title": "AI vs. AI + Browser: Defense against AI-augmented Social Engineering on the Web",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80eGpoZFZiemQzUVBDU2x0cDlQbDNiaUZlbHJGcFY1dFNkbEtDWjVZS09fazhXaDBRYlJ1N01hRnJhdFZfSDlqdWp2M3hTMXNhb1ljd2c4LVhtQy1JTUIyVGk4RWlTektP?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
+    "db23591e5b20c45f3004f10c05067f55e2b8f6957ff6c63e9b8bf64d68fc4974": {
+      "article_type": "Enforcement report",
+      "normalised_title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "normalized_title_fingerprint": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "parsed_date": "2025-02-21",
+      "same_story_key": "theguardian.com|2025-02-21|call centre compounds could general held illegal myanmar",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Tens of thousands could be held in illegal scam compounds in Myanmar, Thai police general says | Thailand - The Guardian",
+      "url": "https://www.theguardian.com/world/2025/feb/21/myanmar-scam-call-centre-compounds",
+      "usefulness_category": "Operational intelligence"
+    },
     "db6f9aeb751950ceeedcb58206f51030906601706abf72be3b44c567bfa1c875": {
       "article_type": "News report",
       "normalised_title": "\u2018reservation hijacking\u2019 scams target travelers here\u2019s stay safe",
@@ -3374,6 +3726,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTBkRWxzRk04SEVKRndxcV9LbjhZc0ZReTZSM1VxQU9EYmlmY1l3QldFckx6QzhnTEFKekpTb2t3VEhjQU1wRkJDUXF3Z1g0LWh6NU95OF93WW5WTndFdGM3WV9pMTRodzV5U3BYcUZPTWJ1VjVFVEhBLUF6SG5QYzNWb3dOVTRYOXJDM0ZuNG05LVg1SnotdTB6N0kwMU1ib2s0LThkSmt1SjBULXNBMXBJdGlPR1Fk?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "dfcf1fcd432b650f19c88b62ddfe43165b7fed7a7a089142223ef9efb2c7b31f": {
+      "article_type": "Enforcement report",
+      "normalised_title": "thousands detained myanmar military raids notorious kk park scam compound",
+      "normalized_title_fingerprint": "thousands detained myanmar military raids notorious kk park scam compound",
+      "parsed_date": "2025-10-21",
+      "same_story_key": "theguardian.com|2025-10-21|centre compound cybercrime detained military myanmar notorious park",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejVCQ3ltMUlySDFrdlUwUlZ4LVYzZnZIa3hzelpnNFhpVDhZTHNCYXRUYkxrVVhPZ3BLLTFfQ0Zyb2NmLTM0MFZYaEhmczVENVZzdV8zVXVmUmpmQkNBdXNWZlFEY2FwWTVoempENFFrZmQycFRmQlppdkp6Y09EcjM3RlBfN2pYVER0Q29vTDlveVBScEM1U3JZTnRSYVE?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "e05d64c84cc991e93a5f5b3e8972245af6d7427390492b2f5baef3b613fa1287": {
       "article_type": "Deep analysis",
       "normalised_title": "scams fraud social engineering scale",
@@ -3420,6 +3784,18 @@
       "source_domain": "apnews.com",
       "title": "US charges 2 Chinese nationals with managing cyberscam compound in Myanmar - AP News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVFBUThGUkJlMkpmOG1BVmJZV21hT3czajZRVElhbHZBcmZaNjM0Vm5ZNUJ2R25IaGZPUlVGeVo1OUFsSWVXNS0tQ3BUUXVoU1l4UEFrby1Ia09SLVI1ZHluanZyajh4c3ZJaVJRME1HWlRyZV9UV2pjR0pienNudjFKQ0pQWXFmNjd3UmY0b2dMQnR3MW1mRUV5TkRadmhYeTRvNnh5VE9UWk0?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "e7be00781b558872ec7a136629b00b73e74a81832bc82aa7fbace1ed528ea1d5": {
+      "article_type": "Investigative report",
+      "normalised_title": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "normalized_title_fingerprint": "collapse usaid already fueling human trafficking slavery scammer compounds",
+      "parsed_date": "2025-02-05",
+      "same_story_key": "wired.com|2025-02-05|already collapse compounds criminal enslave fueling helping human",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "wired.com",
+      "title": "The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds",
+      "url": "https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/",
       "usefulness_category": "Operational intelligence"
     },
     "e93cb28ed1805cf939df7c8358b8e6291f2ccc209240c31ab4930988a0dcf3ce": {
@@ -3505,6 +3881,18 @@
       "title": "Victim loses at least $4.9m in scam involving deepfakes of PM Wong, government officials",
       "url": "https://www.straitstimes.com/singapore/victim-loses-at-least-4-9m-in-scam-involving-deepfakes-of-pm-wong-government-officials",
       "usefulness_category": "Scam development"
+    },
+    "f5cde881ec44fbb2d619e066390e16fa30fb977310230b079f7f65cee25f0854": {
+      "article_type": "Enforcement report",
+      "normalised_title": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "normalized_title_fingerprint": "tens thousands could held illegal scam compounds myanmar thai police general says thailand",
+      "parsed_date": "2025-02-21",
+      "same_story_key": "theguardian.com|2025-02-21|call centre compounds could general held illegal myanmar",
+      "sent_at": "2026-06-01T04:11:09+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Tens of thousands could be held in illegal scam compounds in Myanmar, Thai police general says | Thailand - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGwxcC1SYmJ1c01IUnl2d0FFalB1bU9ybkZNWE5ySzhPUHlMZTZoLVNTcFpLNnlFbmRXel8yV01oN05ncllJOHVGdjJTREhicE9JQkVaTC1rWjBObVk2Z01Ja3NrOHhXMXU0VlBfMXZsNC1HcXVnMUc4eklFX2w2LUUzajhaOU0?oc=5",
+      "usefulness_category": "Operational intelligence"
     },
     "f9d33e6e68e347d352679e0df95abcf0146000119108f7afe145279cb86e3959": {
       "article_type": "Enforcement report",

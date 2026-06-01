@@ -269,7 +269,7 @@
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "cache_version": 5,
-    "checked_at": "2026-05-25T01:07:17+00:00",
+    "checked_at": "2026-06-01T04:10:25+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scam compound"
@@ -527,7 +527,7 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-24T10:12:34+00:00",
+    "checked_at": "2026-06-01T04:10:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -545,7 +545,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 1125
+    "word_count": 1131
   },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
@@ -623,7 +623,7 @@
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-25T01:07:20+00:00",
+    "checked_at": "2026-06-01T04:10:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -1370,6 +1370,32 @@
     ],
     "word_count": null
   },
+  "406664e3adcfb621fb0dbc2b898fc07a1068fa6dac01bc13f2de14ecbf0558ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ransomware",
+      "cybercrime",
+      "trust"
+    ],
+    "word_count": 5302
+  },
   "41a81796507333049772ee5a98ae463a62ffa1619130b84da3859d91d52e332e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1854,11 +1880,62 @@
     ],
     "word_count": 2646
   },
+  "5bf07ea0ce33ff6655b0f1904408970ce748bf969e3b8c19c0a4fe7b710e98a2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 15977
+  },
   "5bf4ea5abc6e9490701666073f6ff879aee8b8ed0e1ac0594021d8028eee5355": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-24T10:12:36+00:00",
+    "checked_at": "2026-06-01T04:10:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -1875,6 +1952,31 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "619fa3b7d33f48882a8a1d83064bc5614458e8e3e572f2b7611a65170bf89d9b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 3223
   },
   "626997000e0c5c928a64aba7516e1b6806298b3f8aa18edfa4a7242404f5f496": {
     "access_status": "available",
@@ -2326,6 +2428,31 @@
       "fraud"
     ],
     "word_count": null
+  },
+  "6db071dbe9c913f5c912fc273acf2388b3304f4e9c7dd27ad37ff4f4a1b0c264": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 4004
   },
   "6e08e8f668a2ad6fe2d3d28d480ff958652aef1a6fc9745eefa84fcd28e4153a": {
     "access_status": "unknown",
@@ -3530,6 +3657,31 @@
     ],
     "word_count": null
   },
+  "a9719021ebbaeb7e629c60e74df57566a18d3c7b786b69b44ab660fa7c38ac55": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 4902
+  },
   "aa61ff8bd10f5b0ccd8471bf369f07e4a494b3dcb1a8137e8d859fd6d43972cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -3602,7 +3754,7 @@
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "cache_version": 5,
-    "checked_at": "2026-05-24T10:12:34+00:00",
+    "checked_at": "2026-06-01T04:10:24+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -3637,7 +3789,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 14047
+    "word_count": 14043
   },
   "af4b67944aa619dd4ec2b419c9d5220f4130b470e84e05059e194ec234e123ff": {
     "access_status": "available",
@@ -3694,7 +3846,7 @@
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-24T10:12:29+00:00",
+    "checked_at": "2026-06-01T04:10:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -3714,6 +3866,34 @@
       "identity"
     ],
     "word_count": null
+  },
+  "b462cba90102cbd6922c5aa45436414408e747a1fba21db9ab941ebc3e908d80": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 4032
   },
   "b8db3f3886116e743eb5d131a63f404026487315c75a65e12c2a8f158b1b36f0": {
     "access_status": "available",
@@ -3869,6 +4049,31 @@
       "cybersecurity"
     ],
     "word_count": 1218
+  },
+  "c15fc5a912f6bc9f4482dcae59ca1bb976240d819459685b937ce31aacfa18e9": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": null
   },
   "c1a20436332bd9686cd7edb7f09c55a2e5ed74526829b9e2438d320abc21ab1f": {
     "access_status": "available",
@@ -4192,6 +4397,30 @@
       "fraud"
     ],
     "word_count": 1026
+  },
+  "d118e1cfd5be886d73581d1e6cfdc6ee3617852f68b78973a825a2c8bd8d8f68": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 0
   },
   "d182795df9c1048436835ff6a86b72df13e76493b5e6f2fa3e967630a6101813": {
     "access_status": "available",
@@ -4669,6 +4898,34 @@
       "deception"
     ],
     "word_count": 1757
+  },
+  "e291bb278f4e00da693151a2146cd43502889d1150b630019aafb51a2d65fa63": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "cache_version": 5,
+    "checked_at": "2026-06-01T04:10:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 3215
   },
   "e4b4deec8444b5e24bf8f421140ac525d62a7b2e380a144f8669a873f2808992": {
     "access_status": "available",
