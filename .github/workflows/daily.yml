@@ -123,14 +123,14 @@ jobs:
           MAX_DAILY_GEMINI_COST_USD: ${{ vars.MAX_DAILY_GEMINI_COST_USD || '0.02' }}
           GEMINI_INPUT_PRICE_PER_1M: ${{ vars.GEMINI_INPUT_PRICE_PER_1M || '0.25' }}
           GEMINI_OUTPUT_PRICE_PER_1M: ${{ vars.GEMINI_OUTPUT_PRICE_PER_1M || '1.50' }}
-          GEMINI_MAX_OUTPUT_TOKENS: ${{ vars.GEMINI_MAX_OUTPUT_TOKENS || '600' }}
+          GEMINI_MAX_OUTPUT_TOKENS: ${{ vars.GEMINI_MAX_OUTPUT_TOKENS || '900' }}
           GEMINI_MAX_ATTEMPTS: ${{ vars.GEMINI_MAX_ATTEMPTS || '3' }}
-          LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS || '90' }}
-          MAX_ARTICLE_AGE_DAYS: ${{ vars.MAX_ARTICLE_AGE_DAYS || '90' }}
+          LOOKBACK_DAYS: ${{ vars.LOOKBACK_DAYS || '30' }}
+          MAX_ARTICLE_AGE_DAYS: ${{ vars.MAX_ARTICLE_AGE_DAYS || '4' }}
           SEEN_RETENTION_DAYS: ${{ vars.SEEN_RETENTION_DAYS || '365' }}
           DIGEST_SHORTLIST_COUNT: ${{ vars.DIGEST_SHORTLIST_COUNT || '20' }}
-          MIN_ARTICLES_TO_SEND: ${{ vars.MIN_ARTICLES_TO_SEND || '3' }}
-          MAX_ARTICLES_TO_SEND: ${{ vars.MAX_ARTICLES_TO_SEND || '10' }}
+          MIN_ARTICLES_TO_SEND: ${{ vars.MIN_ARTICLES_TO_SEND || '1' }}
+          MAX_ARTICLES_TO_SEND: ${{ vars.MAX_ARTICLES_TO_SEND || '5' }}
           DISABLE_CANDIDATE_CACHE_FALLBACK: ${{ github.event_name == 'workflow_dispatch' && inputs.require_fresh_fetch && 'true' || 'false' }}
         run: python src/main.py
 

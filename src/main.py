@@ -175,6 +175,9 @@ SPECIFIC_PRODUCT_RADAR_QUERIES = (
     "site:c4ads.org scam cyber fraud hotline trafficking Southeast Asia",
     "site:straitstimes.com Singapore scam Cambodia job seekers fraud",
     "site:channelnewsasia.com Singapore scam Cambodia fraud AI deepfake",
+    "site:channelnewsasia.com Cambodia scam compound Vietnam",
+    "site:channelnewsasia.com online scams human trafficking Cambodia Vietnam",
+    "site:channelnewsasia.com scam compounds online scams Cambodia",
     "site:developers.cloudflare.com/changelog crawl endpoint browser rendering AI",
     "site:developers.cloudflare.com scam phishing abuse crawl endpoint",
     "site:security.googleblog.com AI abuse phishing fraud deepfake",
@@ -781,6 +784,8 @@ DEEP_ANALYSIS_SOURCE_HINTS = (
     "404media.co",
     "restofworld.org",
     "c4ads.org",
+    "channelnewsasia.com",
+    "cna.com.sg",
     "datasociety.net",
     "cetas.turing.ac.uk",
     "technologyreview.com",
@@ -794,6 +799,8 @@ HIGH_VALUE_INVESTIGATIVE_DOMAINS = (
     "404media.co",
     "c4ads.org",
     "restofworld.org",
+    "channelnewsasia.com",
+    "cna.com.sg",
     "graphika.com",
     "bellingcat.com",
     "therecord.media",
@@ -910,6 +917,10 @@ def fetch_config_hash(config: dict[str, Any]) -> str:
         "monitored_sources": configured_monitored_sources(config),
         "lookback_days": config.get("lookback_days"),
         "max_article_age_days": config.get("max_article_age_days"),
+        "news_max_article_age_days": config.get("news_max_article_age_days"),
+        "platform_product_official_max_article_age_days": config.get("platform_product_official_max_article_age_days"),
+        "academic_research_max_article_age_days": config.get("academic_research_max_article_age_days"),
+        "investigative_longform_max_article_age_days": config.get("investigative_longform_max_article_age_days"),
         "max_rss_queries_per_run": config.get("max_rss_queries_per_run"),
     }
     return stable_hash(json.dumps(payload, sort_keys=True, default=str))
@@ -2795,6 +2806,19 @@ def is_platform_product_item(item: dict[str, Any]) -> bool:
     }
 
 
+def is_platform_product_official_update_item(item: dict[str, Any]) -> bool:
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    return article_type in PLATFORM_PRODUCT_TYPES or article_type in {
+        "Official report",
+        "Advisory / guidance",
+        "Product/company profile",
+    } or usefulness_category in {
+        "Platform policy / product change",
+        "Product idea / data source",
+    }
+
+
 def is_local_sea_item(item: dict[str, Any]) -> bool:
     usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
     haystack = f"{item.get('title', '')} {article_domain(item)} {item.get('source', '')}".lower()
@@ -3574,6 +3598,8 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         return True
 
     def add_match(predicate: Any, *, strict: bool = True) -> None:
+        if len(selected) >= max_items:
+            return
         if any(predicate(item) for item in selected):
             return
         match = next((item for item in items if predicate(item) and can_add(item, strict=strict)), None)
@@ -4095,10 +4121,11 @@ def is_investigative_longform_recency_exception(item: dict[str, Any]) -> bool:
         "therecord.media",
         "krebsonsecurity.com",
     )
+    if article_type in {"News report", "Enforcement report", "Official report", "Advisory / guidance"}:
+        return False
     return (
         article_type in {"Investigative report", "Deep analysis", "Policy analysis"}
-        or usefulness_category == "Operational intelligence"
-        or query_group == "investigative"
+        or (query_group == "investigative" and any(domain.endswith(host) for host in longform_domains))
         or (
             any(domain.endswith(host) for host in longform_domains)
             and (is_investigative_or_operational_item(item) or usefulness_category in {"Operational intelligence", "Technical abuse / vulnerability"})
@@ -4112,15 +4139,22 @@ def recency_window_days(
     lookback_days: int | None = None,
     max_article_age_days: int | None = None,
 ) -> int:
-    default_window = int(max_article_age_days or config.get("max_article_age_days", 90))
+    default_window = int(max_article_age_days or config.get("max_article_age_days", 4))
     if lookback_days is not None:
         default_window = min(int(lookback_days), default_window)
     if item.get("evergreen_reference"):
         return int(config.get("evergreen_reference_max_article_age_days", 3650))
     if is_academic_or_research_recency_exception(item):
-        return int(config.get("academic_research_max_article_age_days", 365))
+        return int(config.get("academic_research_max_article_age_days", 180))
+    article_type = item.get("article_type", classify_article_type(item))
+    if article_type == "Enforcement report" or is_local_current_affairs_item(item):
+        return int(config.get("news_max_article_age_days", default_window))
+    if is_platform_product_official_update_item(item):
+        return int(config.get("platform_product_official_max_article_age_days", 30))
     if is_investigative_longform_recency_exception(item):
-        return int(config.get("investigative_longform_max_article_age_days", 365))
+        return int(config.get("investigative_longform_max_article_age_days", 90))
+    if article_type == "News report":
+        return int(config.get("news_max_article_age_days", default_window))
     return default_window
 
 
@@ -4148,14 +4182,22 @@ def category_recency_adjustment(item: dict[str, Any], config: dict[str, Any], no
     if age_days > window_days:
         return -10_000
 
-    if is_academic_or_research_recency_exception(item) or is_investigative_longform_recency_exception(item):
+    if is_academic_or_research_recency_exception(item):
         if age_days <= 90:
             return 0
-        if age_days <= 180:
-            return -4
-        return -10
+        return -6
 
-    if age_days > int(config.get("max_article_age_days", 90)):
+    if is_investigative_longform_recency_exception(item):
+        if age_days <= 30:
+            return 0
+        if age_days <= 60:
+            return -4
+        return -8
+
+    if is_platform_product_official_update_item(item):
+        return 0 if age_days <= 14 else -4
+
+    if age_days > int(config.get("max_article_age_days", 4)):
         return -10_000
     return 0
 
@@ -5015,6 +5057,81 @@ def high_value_candidate_diagnostics(selected_items: list[dict[str, Any]], avail
     return diagnostics
 
 
+def clean_summary_text(summary: Any, limit: int = 500) -> str:
+    raw_text = str(summary or "")
+    text = BeautifulSoup(raw_text, "html.parser").get_text(" ", strip=True) if "<" in raw_text and ">" in raw_text else raw_text
+    text = re.sub(r"\s+", " ", text).strip()
+    if len(text) <= limit:
+        return text
+    return text[:limit].rsplit(" ", 1)[0].rstrip() + "..."
+
+
+GENERIC_TAKEAWAY_PATTERNS = (
+    "actionable insight",
+    "actionable insights",
+    "offers insights",
+    "provides insights",
+    "useful for building",
+    "useful for designing",
+    "technical blueprint",
+    "important implications",
+    "proactive, user-facing",
+)
+
+
+def is_generic_takeaway(text: str) -> bool:
+    lowered = text.lower()
+    if any(pattern in lowered for pattern in GENERIC_TAKEAWAY_PATTERNS):
+        return True
+    if "provides a framework for evaluating how" in lowered:
+        return True
+    if "provides a framework" in lowered and not any(
+        marker in lowered
+        for marker in (
+            "using",
+            "with",
+            "combines",
+            "includes",
+            "measures",
+            "tests",
+            "detects",
+            "compares",
+            "agent",
+            "browser",
+            "dataset",
+            "metric",
+            "policy",
+            "intervention",
+            "workflow",
+        )
+    ):
+        return True
+    return False
+
+
+def normalize_key_takeaways(raw_takeaways: Any, max_bullets: int = 3) -> list[str]:
+    if isinstance(raw_takeaways, str):
+        raw_values = re.split(r"(?:\r?\n)+", raw_takeaways)
+    elif isinstance(raw_takeaways, list):
+        raw_values = raw_takeaways
+    else:
+        raw_values = []
+
+    takeaways: list[str] = []
+    for raw_value in raw_values:
+        text = clean_summary_text(raw_value, 220)
+        text = re.sub(r"^\s*(?:[-*•]|\d+[.)])\s*", "", text).strip()
+        if not text:
+            continue
+        if is_generic_takeaway(text):
+            continue
+        if text not in takeaways:
+            takeaways.append(text)
+        if len(takeaways) >= max_bullets:
+            break
+    return takeaways
+
+
 def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
     candidates = json.dumps(
         [
@@ -5023,6 +5140,7 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
                 "title": item["title"],
                 "url": item["canonical_url"],
                 "source": item["source"],
+                "summary": clean_summary_text(item.get("summary", "")),
                 "parsed_date": parsed_date_text(item),
                 "article_type": item.get("article_type", classify_article_type(item)),
                 "usefulness_category": item.get("usefulness_category", classify_usefulness_category(item)),
@@ -5053,7 +5171,7 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Do not optimise for general newsworthiness. Optimise for product-relevant adversarial intelligence: "
         "scam developments, attacker methods, technical vulnerabilities, research, operational intelligence, "
         "platform changes, local Singapore/Southeast Asia developments, product ideas, and data-source opportunities. "
-        "Select 3 to 10 genuinely strong articles. Do not pad the list. Do not over-select enforcement/current-affairs stories. Singapore and Southeast Asia items are useful, but they must not dominate. "
+        "Select 1 to 5 genuinely strong articles, with 3 to 4 as the ideal daily digest size. Do not pad the list. Do not over-select enforcement/current-affairs stories. Singapore and Southeast Asia items are useful, but they must not dominate. "
         "Prioritise scammer modus operandi, scam infrastructure, victim psychology, scam methodology, LLM adverse-use research, academic studies, deep investigations, platform/telco/bank controls, and product-relevant technical insights. "
         "Prefer one excellent WIRED / C4ADS / 404 Media / arXiv / academic item over several similar local enforcement updates. "
         "If there are multiple Singapore enforcement stories, choose only the most operationally useful or novel one. Leave room for research, investigations, platform/product changes, and methodology pieces. "
@@ -5065,15 +5183,15 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Select for direct anti-scam product relevance. Do not select generic AI/cybersecurity articles unless they clearly help understand scammer modus operandi, victim manipulation, monetary-loss fraud, account takeover, scam infrastructure, platform/telco/bank controls, or technologies used by scammers to scale. "
         "You must not select generic AI/cybersecurity context items. Every final item must be directly useful for anti-scam product work. "
         "Never select an item with usefulness_category='General context', anti_scam_relevance='weak', or rejection_reason set. Do not let category quotas rescue these items. "
-        "Do not fill category quotas with weak items. If only 3 strong items exist, return 3. A balanced list with weak items is worse than a shorter list of strong items. "
+        "Do not fill category quotas with weak items. If only 1 or 2 strong fresh items exist, return only those. A balanced list with weak items is worse than a shorter list of strong items. "
         "Do not assign items to a specialist section unless the item actually matches that section. Generic AI cybersecurity does not belong under Deepfakes, synthetic identity & impersonation. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
         "Do not select research merely because it is technical or about fraud generally. Research should be selected only if it directly helps anti-scam product work: scammer methods, victim psychology, harmful persuasion, LLM-enabled scam abuse, scam detection, scam intervention, deepfake scams, synthetic identity, social engineering, or adverse-use benchmarks. "
         "Exclude generic cybersecurity, generic enterprise agent security, generic fraud ML, or unrelated technical domains unless there is a direct scam/social-engineering link. "
-        f"You may select between 3 and {sent_count} articles. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
+        f"You may select between 1 and {sent_count} articles. Aim for 3 to 4 when enough strong fresh items exist, and never select more than 5. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
         "Do not pad the list with weak or generic items. If only 4 strong items exist, return 4. Never include duplicates or near-duplicates. Prefer direct anti-scam relevance over general AI/cyber news. "
         "Do not select duplicate or near-duplicate stories. If two items are from the same publisher, same date, and cover the same event, select only the stronger one. For example, two TechCrunch articles about scammers abusing a Microsoft email/account to send spam links are the same story; pick one. "
-        "A good digest usually has 5 to 8 high-signal items, not always 10. It should feel balanced across victim psychology or persuasion research, empirical scam-risk research, operational intelligence on scam compounds/syndicates/infrastructure, longform investigations into scam-enabling technology, technical or platform abuse, and selected regional developments. "
+        "A good digest usually has 3 to 4 high-signal items, never more than 5. It should feel balanced across victim psychology or persuasion research, empirical scam-risk research, operational intelligence on scam compounds/syndicates/infrastructure, longform investigations into scam-enabling technology, technical or platform abuse, and selected regional developments. "
         "Do not simply maximise research count or recency. Prefer 1-2 research/psychology items, 1-2 longform investigations or deep analyses, 1-2 operational intelligence/scam infrastructure items, one technical/platform/product/data-source item, and 0-2 Singapore/Southeast Asia items unless the SEA items reveal operational patterns. "
         "Do not over-select simple local arrest stories. But do not drop Southeast Asia items if they reveal operational patterns, scam infrastructure, visa/travel policy abuse, compounds, mule networks, call centres, fake-official impersonation workflows, or syndicate migration. "
         "Cap final research papers at two unless a third is clearly exceptional direct anti-scam research. When selecting only 3 to 5 articles, do not let research papers or product-idea items take most of the slots. "
@@ -5086,8 +5204,12 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Avoid vendor pitch, product announcements without anti-scam or engineering relevance, thin posts, and generic consumer advice. "
         "Include at least one technical/threat-intelligence item if available. "
         "Include at least one deep analysis/investigative/research item if available. "
+        "For each selected item, write no more than 3 concise key_takeaways bullets based only on the provided candidate title, source, date, summary, labels, and signal terms. Do not invent details. "
+        "Make every key_takeaways bullet specific enough that a product or policy teammate can decide whether to open the article. Avoid generic phrases such as 'actionable insights', 'technical blueprint', 'proactive user-facing features', or 'provides a framework' unless you name the actual mechanism, data, components, evaluation setup, actors, workflow, or policy lever. "
+        "At least one bullet per item must state the product or policy relevance concretely: for example, what detection signal to instrument, what intervention/control to test, what abuse workflow to monitor, what data source to collect, what enforcement/policy gap is exposed, or what user-risk segment is implicated. "
+        "For research or technical items, explain what the framework/model/evaluation contains, such as agents, browser hooks, datasets, metrics, prompts, controls, attack stages, or measured failure modes. For investigations, name the operational pattern, infrastructure, actors, geography, victim pipeline, money/mule movement, or enforcement gap. "
         f"Return JSON only with this shape: "
-        f'{{"items":[{{"rank":1,"section":"Scam trends","article_type":"News report","usefulness_category":"Scam development","title":"Article title","url":"https://example.com"}}],"mix_constraints_satisfied":true,"failed_constraints":[]}}. '
+        f'{{"items":[{{"rank":1,"section":"Scam trends","article_type":"News report","usefulness_category":"Scam development","title":"Article title","url":"https://example.com","key_takeaways":["Short takeaway"]}}],"mix_constraints_satisfied":true,"failed_constraints":[]}}. '
         "Return no commentary.\n\n"
         f"{candidates}"
     )
@@ -5131,7 +5253,7 @@ def rank_with_gemini(
     sent_count: int,
 ) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     model = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
-    max_output_tokens = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "600"))
+    max_output_tokens = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "900"))
     max_cost = float(os.getenv("MAX_DAILY_GEMINI_COST_USD", "0.02"))
     max_attempts = max(1, int(os.getenv("GEMINI_MAX_ATTEMPTS", "3")))
     prompt = build_gemini_prompt(items, sent_count)
@@ -5254,6 +5376,7 @@ def rank_with_gemini(
             updated_item["usefulness_category"] = usefulness_category
         if gemini_item.get("title"):
             updated_item["title"] = gemini_item["title"]
+        updated_item["key_takeaways"] = normalize_key_takeaways(gemini_item.get("key_takeaways"))
         ranked.append(updated_item)
 
     ranked_urls = {canonicalize_url_text(item["canonical_url"]) for item in ranked}
@@ -5389,6 +5512,18 @@ def grouped_items_by_section(items: list[dict[str, Any]]) -> dict[str, list[dict
     for item in sorted(items, key=lambda value: int(value.get("quality_score") or 0), reverse=True):
         grouped.setdefault(telegram_section(item), []).append(item)
     return {section: grouped.get(section, []) for section in SECTION_ORDER if grouped.get(section)}
+
+
+def item_key_takeaways(item: dict[str, Any]) -> list[str]:
+    takeaways = normalize_key_takeaways(item.get("key_takeaways"))
+    if takeaways:
+        return takeaways
+
+    summary = clean_summary_text(item.get("summary", ""))
+    if not summary:
+        return []
+    sentence_candidates = re.split(r"(?<=[.!?])\s+", summary)
+    return normalize_key_takeaways(sentence_candidates)
 
 
 def section_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
@@ -5534,6 +5669,8 @@ def format_digest(items: list[dict[str, Any]]) -> str:
             lines.append(f"{item_number}. 【{article_type} · {usefulness_category}】")
             lines.append(display_title(item["title"]))
             lines.append(item["canonical_url"])
+            for takeaway in item_key_takeaways(item):
+                lines.append(f"- {takeaway}")
             lines.append("")
             item_number += 1
 
@@ -5720,8 +5857,8 @@ def run_pipeline(
     rerank_cache: bool = False,
     allow_cache_fallback: bool = True,
 ) -> dict[str, Any]:
-    lookback_days = int(os.getenv("LOOKBACK_DAYS", config.get("lookback_days", "90")))
-    max_article_age_days = int(os.getenv("MAX_ARTICLE_AGE_DAYS", config.get("max_article_age_days", "90")))
+    lookback_days = int(os.getenv("LOOKBACK_DAYS", config.get("lookback_days", "30")))
+    max_article_age_days = int(os.getenv("MAX_ARTICLE_AGE_DAYS", config.get("max_article_age_days", "4")))
     shortlist_count = int(os.getenv("DIGEST_SHORTLIST_COUNT", config.get("max_candidates_for_llm", "20")))
     inspect_count = int(quality_config(config).get("inspect_top_n_candidates", 80))
     sources = load_sources(config)
@@ -5963,8 +6100,8 @@ def main() -> None:
         dry_run = True
         dry_run_with_llm = False
     debug = "--debug" in sys.argv or os.getenv("DEBUG", "").lower() in {"1", "true", "yes"}
-    max_items = int(os.getenv("MAX_ARTICLES_TO_SEND", config.get("max_articles_to_send", "8")))
-    min_items = int(os.getenv("MIN_ARTICLES_TO_SEND", config.get("min_articles_to_send", "3")))
+    max_items = min(5, int(os.getenv("MAX_ARTICLES_TO_SEND", config.get("max_articles_to_send", "5"))))
+    min_items = min(max_items, int(os.getenv("MIN_ARTICLES_TO_SEND", config.get("min_articles_to_send", "1"))))
     seen_retention_days = int(os.getenv("SEEN_RETENTION_DAYS", config.get("seen_retention_days", "365")))
     seen = prune_seen(load_seen(), seen_retention_days)
     pipeline = run_pipeline(

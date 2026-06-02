@@ -1,13 +1,15 @@
-lookback_days: 90
-max_article_age_days: 90
-academic_research_max_article_age_days: 730
-investigative_longform_max_article_age_days: 730
+lookback_days: 30
+max_article_age_days: 4
+news_max_article_age_days: 4
+platform_product_official_max_article_age_days: 30
+academic_research_max_article_age_days: 180
+investigative_longform_max_article_age_days: 90
 max_google_news_urls_to_resolve: 60
 max_candidates_for_llm: 20
-min_articles_to_send: 3
-max_articles_to_send: 10
-preferred_min_articles_to_send: 5
-preferred_max_articles_to_send: 8
+min_articles_to_send: 1
+max_articles_to_send: 5
+preferred_min_articles_to_send: 3
+preferred_max_articles_to_send: 4
 min_final_quality_score: 80
 min_direct_anti_scam_items: 3
 seen_retention_days: 365
@@ -63,6 +65,8 @@ monitored_sources:
   - ndss-symposium.org
   - techcrunch.com
   - theverge.com
+  - channelnewsasia.com
+  - cna.com.sg
 
 quality_filters:
   min_word_count_default: 600
