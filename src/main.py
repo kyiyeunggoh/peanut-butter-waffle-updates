@@ -5253,7 +5253,7 @@ def rank_with_gemini(
     sent_count: int,
 ) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     model = os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite")
-    max_output_tokens = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "900"))
+    max_output_tokens = int(os.getenv("GEMINI_MAX_OUTPUT_TOKENS", "1100"))
     max_cost = float(os.getenv("MAX_DAILY_GEMINI_COST_USD", "0.02"))
     max_attempts = max(1, int(os.getenv("GEMINI_MAX_ATTEMPTS", "3")))
     prompt = build_gemini_prompt(items, sent_count)
