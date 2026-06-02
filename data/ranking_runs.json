@@ -896,6 +896,45 @@
         "Operational intelligence": 6,
         "Product idea / data source": 2
       }
+    },
+    {
+      "article_type_distribution": {
+        "Investigative report": 2,
+        "News report": 2,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 267,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 119,
+        "international": 22,
+        "investigative": 59,
+        "platform_product": 2,
+        "psychology": 43,
+        "singapore_sea": 19,
+        "targeted": 3
+      },
+      "shortlist_count": 20,
+      "source_domain_distribution": {
+        "404media.co": 1,
+        "arxiv.org": 4,
+        "dl.acm.org": 2,
+        "ieeexplore.ieee.org": 4,
+        "papers.ssrn.com": 1,
+        "straitstimes.com": 2,
+        "theguardian.com": 1,
+        "usenix.org": 2,
+        "wired.com": 3
+      },
+      "timestamp": "2026-06-02T05:02:33+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 4,
+        "Product idea / data source": 1,
+        "Research / novel method": 1
+      }
     }
   ]
 }

@@ -2061,7 +2061,7 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-26T01:30:51+00:00",
+    "checked_at": "2026-06-02T05:01:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -2256,7 +2256,7 @@
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
     "cache_version": 5,
-    "checked_at": "2026-05-25T00:48:03+00:00",
+    "checked_at": "2026-06-02T05:01:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -2284,7 +2284,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 10404
+    "word_count": 10142
   },
   "6936e50564abff9fc153c9a0ebfaeb6b1d3daa7774b5398953832f47d8d4e92e": {
     "access_status": "available",
@@ -2577,6 +2577,47 @@
     ],
     "word_count": 1577
   },
+  "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "cache_version": 5,
+    "checked_at": "2026-06-02T05:01:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception"
+    ],
+    "word_count": 7596
+  },
   "75e8ece4130224535bc33cf4bfe5269e6a324d9bce04aca19a8d723548e385e5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2747,6 +2788,38 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
+    "word_count": null
+  },
+  "7c4102eb7b9cf10b65d5ab0efba808f7f1e611106033deee6ff7d2b924deb36d": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "cache_version": 5,
+    "checked_at": "2026-06-02T05:01:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
     "word_count": null
   },
   "7d0f280ffab4797b0eb199350a09a6d14a012a17d43dba89618b62fb7ce9f745": {
@@ -3500,7 +3573,7 @@
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
     "cache_version": 5,
-    "checked_at": "2026-05-24T10:12:31+00:00",
+    "checked_at": "2026-06-02T05:01:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -3790,6 +3863,30 @@
       "trust"
     ],
     "word_count": 14043
+  },
+  "ae3f25666a41925211deea8aac4307f5543a975dcbff898d4424500f233a7798": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "cache_version": 5,
+    "checked_at": "2026-06-02T05:01:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": null
   },
   "af4b67944aa619dd4ec2b419c9d5220f4130b470e84e05059e194ec234e123ff": {
     "access_status": "available",
@@ -5609,6 +5706,28 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1708
+  },
+  "fc66f9163aa414d1f097d87e4ebb44acde09d7a2c853896e48741193c3b8436b": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "cache_version": 5,
+    "checked_at": "2026-06-02T05:01:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "fc6fdca821b88fa0b9422e99c6570b6cc10d9572d6c51ecc14dc0ba29e4c5d64": {
     "access_status": "unknown",
