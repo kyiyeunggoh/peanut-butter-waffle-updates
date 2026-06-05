@@ -126,6 +126,20 @@
       "url": "https://arxiv.org/html/2508.21457v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing": {
+      "article_type": "Research paper",
+      "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
+      "normalized_title_fingerprint": "phishdebate llm based multi agent framework phishing website detection",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tMFFUdVh4LUFLQXFfNGdkd0ItV3R5VG9nazFleGFsMHFOc1RBczNhRThKbjJhNWFNVXUwYTc4RVlwU2dmUWJzV2ZmZw?oc=5",
+      "parsed_date": "2026-03-09",
+      "raw_title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phishdebate llm based multi agent framework phishing website detection",
+      "url": "https://arxiv.org/html/2506.15656v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-04-13|conversational dataset detection engineering smishing social synthetic": {
       "article_type": "Research paper",
       "normalised_title": "synthetic conversational smishing dataset social engineering detection",
@@ -378,6 +392,34 @@
       "url": "https://www.channelnewsasia.com/asia/cambodia-scamming-crimes-vietnam-crackdown-6149366",
       "usefulness_category": "Operational intelligence"
     },
+    "channelnewsasia.com|2026-06-04|being cambodia filipino home job office part return": {
+      "article_type": "Investigative report",
+      "normalised_title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
+      "normalized_title_fingerprint": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted",
+      "original_url": "https://www.channelnewsasia.com/singapore/woman-trial-cambodia-scam-syndicate-job-6162056",
+      "parsed_date": "2026-06-04",
+      "raw_title": "Filipino on trial for being part of Cambodia scam syndicate says she travelled there for an office job, wanted to return home - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-04|being cambodia filipino home job office part return",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
+      "url": "https://www.channelnewsasia.com/singapore/woman-trial-cambodia-scam-syndicate-job-6162056",
+      "usefulness_category": "Operational intelligence"
+    },
+    "channelnewsasia.com|2026-06-04|chat free group groups investment involving least lessons": {
+      "article_type": "News report",
+      "normalised_title": "least s 3 6 million lost investment scams involving chat groups since may",
+      "normalized_title_fingerprint": "least s 3 6 million lost investment scams involving chat groups since may",
+      "original_url": "https://www.channelnewsasia.com/singapore/investment-scam-whatsapp-chat-group-free-lessons-6162416",
+      "parsed_date": "2026-06-04",
+      "raw_title": "At least S$3.6 million lost in investment scams involving chat groups since May - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-04|chat free group groups investment involving least lessons",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "least s 3 6 million lost investment scams involving chat groups since may",
+      "url": "https://www.channelnewsasia.com/singapore/investment-scam-whatsapp-chat-group-free-lessons-6162416",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
       "article_type": "Research paper",
       "normalised_title": "poster longitudinal analysis romance scam infrastructure evolution evidence strategic legitimization",
@@ -544,6 +586,20 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "integrating sociocultural intelligence cybersecurity lescant based approach phishing social engineering detection",
       "url": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11050416.pdf",
+      "usefulness_category": "Research / novel method"
+    },
+    "ieeexplore.ieee.org|2026-03-06|attacks detecting engineering explainable social techniques tinybert": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "normalized_title_fingerprint": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "original_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOGgtanNQSFFpZ2p3cXNMVjdLcFdkclhlUXpzUC1xdFQwbUtmZUZxcS1qUDFRY1JWWlVmVlRYbU1BZlVvM1RyQm5GaTVFMm5sYXdmUEF2RTdUZw?oc=5",
+      "parsed_date": "2026-03-06",
+      "raw_title": "Detecting Social Engineering Attacks Using TinyBERT and Explainable AI Techniques - ieeexplore.ieee.org",
+      "same_story_key": "ieeexplore.ieee.org|2026-03-06|attacks detecting engineering explainable social techniques tinybert",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "url": "https://ieeexplore.ieee.org/document/11410611/",
       "usefulness_category": "Research / novel method"
     },
     "ieeexplore.ieee.org|2026-03-17|adaptive agent based cybersecurity education framework phishing simulation": {
@@ -1544,6 +1600,18 @@
       "title": "destruction notorious myanmar scam compound appears have been \u2018performative\u2019",
       "usefulness_category": "Operational intelligence"
     },
+    "detecting social engineering attacks using tinybert explainable ai techniques": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "normalized_title_fingerprint": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "parsed_date": "2026-03-06",
+      "raw_title": "Detecting Social Engineering Attacks Using TinyBERT and Explainable AI Techniques - ieeexplore.ieee.org",
+      "same_story_key": "ieeexplore.ieee.org|2026-03-06|attacks detecting engineering explainable social techniques tinybert",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "usefulness_category": "Research / novel method"
+    },
     "doj issued seizure warrant starlink over satellite internet systems used scam compound": {
       "article_type": "Investigative report",
       "normalised_title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
@@ -1590,6 +1658,18 @@
       "sent_at": "2026-05-27T02:49:18+00:00",
       "source_domain": "graphika.com",
       "title": "fauxmantic overtures ai dating profiles driving romance scam networks",
+      "usefulness_category": "Operational intelligence"
+    },
+    "filipino trial being part cambodia scam syndicate says she travelled there office job wanted": {
+      "article_type": "Investigative report",
+      "normalised_title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
+      "normalized_title_fingerprint": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted",
+      "parsed_date": "2026-06-04",
+      "raw_title": "Filipino on trial for being part of Cambodia scam syndicate says she travelled there for an office job, wanted to return home - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-04|being cambodia filipino home job office part return",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
       "usefulness_category": "Operational intelligence"
     },
     "foreign workers flee phnom penh after mass exits scam compounds": {
@@ -1748,6 +1828,18 @@
       "title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "least s 3 6 million lost investment scams involving chat groups since may": {
+      "article_type": "News report",
+      "normalised_title": "least s 3 6 million lost investment scams involving chat groups since may",
+      "normalized_title_fingerprint": "least s 3 6 million lost investment scams involving chat groups since may",
+      "parsed_date": "2026-06-04",
+      "raw_title": "At least S$3.6 million lost in investment scams involving chat groups since May - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-04|chat free group groups investment involving least lessons",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "least s 3 6 million lost investment scams involving chat groups since may",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "llm based chain response counter scam system": {
       "article_type": "Research paper",
       "normalised_title": "llm based chain response counter scam system",
@@ -1831,6 +1923,18 @@
       "source_domain": "apnews.com",
       "title": "people detained myanmar after release scam compounds attempt escape",
       "usefulness_category": "Operational intelligence"
+    },
+    "phishdebate llm based multi agent framework phishing website detection": {
+      "article_type": "Research paper",
+      "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
+      "normalized_title_fingerprint": "phishdebate llm based multi agent framework phishing website detection",
+      "parsed_date": "2026-03-09",
+      "raw_title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phishdebate llm based multi agent framework phishing website detection",
+      "usefulness_category": "Product idea / data source"
     },
     "physe psychological framework real time ar llm social engineering attacks": {
       "article_type": "Research paper",
@@ -2542,6 +2646,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SZ3lKMHNOLW55Ym1Fd0VDV1g0aS1rOWFNRElvRzJJNkh1Tlg1eGtQZFBwZG1CSmlPZVkwdXJ6UTJ0bUx1bUZDNVFPWQ?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "1195d94bfc34031a60d33805737a1311e1b9012bcea5de9acbb0ec13f811dbca": {
+      "article_type": "News report",
+      "normalised_title": "least s 3 6 million lost investment scams involving chat groups since may",
+      "normalized_title_fingerprint": "least s 3 6 million lost investment scams involving chat groups since may",
+      "parsed_date": "2026-06-04",
+      "same_story_key": "channelnewsasia.com|2026-06-04|chat free group groups investment involving least lessons",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "At least S$3.6 million lost in investment scams involving chat groups since May - CNA",
+      "url": "https://www.channelnewsasia.com/singapore/investment-scam-whatsapp-chat-group-free-lessons-6162416",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "11a4d71b8e15e1116e4ece3f5bb13d9e15672bd36e731b455d1060c3d68cf352": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia\u2019s crackdown scam centres leaves trail stranded victims criminal groups switch tactics",
@@ -2661,6 +2777,30 @@
       "title": "Two Americans plead guilty to assisting India-based tech support scam centers - The Record from Recorded Future News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRaHg5S1o0NDdLSXBtSWNaNHI0V2ZhSHRSLUI0ekNJcjc3WVBVUXVta2NiTXhTaWUwT2w5d3cyMDNIQ3FodGo0SFdzNFotQ2xvUmVvOUxBaldyM0hxWHJ1TkdXMHVpUVdveDZCQzVudkFHWVVLVWpSTGpQalk2c1U?oc=5",
       "usefulness_category": "Scam development"
+    },
+    "1c260eb0546771376e74003fce7506eaa7980d0b83b2bd6ee788890e304d8602": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "normalized_title_fingerprint": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "parsed_date": "2026-03-06",
+      "same_story_key": "ieeexplore.ieee.org|2026-03-06|attacks detecting engineering explainable social techniques tinybert",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "Detecting Social Engineering Attacks Using TinyBERT and Explainable AI Techniques - ieeexplore.ieee.org",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOGgtanNQSFFpZ2p3cXNMVjdLcFdkclhlUXpzUC1xdFQwbUtmZUZxcS1qUDFRY1JWWlVmVlRYbU1BZlVvM1RyQm5GaTVFMm5sYXdmUEF2RTdUZw?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
+    "1db8d1ec9943660052633d9e9329f7a79d98ca6768d7381430a716620e4f1c3e": {
+      "article_type": "Investigative report",
+      "normalised_title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
+      "normalized_title_fingerprint": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted",
+      "parsed_date": "2026-06-04",
+      "same_story_key": "channelnewsasia.com|2026-06-04|being cambodia filipino home job office part return",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Filipino on trial for being part of Cambodia scam syndicate says she travelled there for an office job, wanted to return home - CNA",
+      "url": "https://www.channelnewsasia.com/singapore/woman-trial-cambodia-scam-syndicate-job-6162056",
+      "usefulness_category": "Operational intelligence"
     },
     "1dfa13b7b92fc467cf9584402e33b6761ffed47bd7309e0bcd81e0362d84ceac": {
       "article_type": "Research paper",
@@ -3646,6 +3786,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXk1MUp5VmNKMm05eWRjREdQVXo2QzhucTVmejYwYnlwMm1jbjhlYnBXTnUxWEdnbGRTdjYwS1haMW1YZFZyTjg1SVMtcmNtTEpEUGRzU281alFPaEpFRlVaMjZGSFlNd2I0SkN2WFJuaUhzaHJnZ05BSnI2QURraUJSMVd3WDRING51NA?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "82c0aaf4566c0b7dd161feb02425aa5aa1dfc62243bb556046438be46b4c11e0": {
+      "article_type": "Research paper",
+      "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
+      "normalized_title_fingerprint": "phishdebate llm based multi agent framework phishing website detection",
+      "parsed_date": "2026-03-09",
+      "same_story_key": "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "arxiv.org",
+      "title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection - arXiv",
+      "url": "https://arxiv.org/html/2506.15656v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "831ba6be4da97b39feebc72b6c72f34737573724c4a38a3642ad8a4b908b57a3": {
       "article_type": "Research paper",
       "normalised_title": "\u201cmy parents\u2019 expectations were overwhelming\u201d online dating romance scams targeting minors iran through exploitation parental pressure proceedings 2026 chi conference human factors computing systems",
@@ -4066,6 +4218,18 @@
       "url": "https://www.straitstimes.com/asia/south-asia/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka",
       "usefulness_category": "Operational intelligence"
     },
+    "c7c055d95d0b1e126297c64cbd846f5ab10536e9bb7f3eab30a1423f9bda940b": {
+      "article_type": "Research paper",
+      "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
+      "normalized_title_fingerprint": "phishdebate llm based multi agent framework phishing website detection",
+      "parsed_date": "2026-03-09",
+      "same_story_key": "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "arxiv.org",
+      "title": "PhishDebate: An LLM-Based Multi-Agent Framework for Phishing Website Detection - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5tMFFUdVh4LUFLQXFfNGdkd0ItV3R5VG9nazFleGFsMHFOc1RBczNhRThKbjJhNWFNVXUwYTc4RVlwU2dmUWJzV2ZmZw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "c859480d921fdd61c44b4d9fa7177b0af03c0db1c586405e8d63953c015694f0": {
       "article_type": "Investigative report",
       "normalised_title": "platform google claims behind \u2018staggering\u2019 scam text operation",
@@ -4377,6 +4541,18 @@
       "title": "The Collapse of USAID Is Already Fueling Human Trafficking and Slavery at Scammer Compounds",
       "url": "https://www.wired.com/story/usaid-collapse-is-helping-criminal-scammers-enslave-people/",
       "usefulness_category": "Operational intelligence"
+    },
+    "e82a82a95581586a33ad66f013460db39f0f6db0f7414f69fb32b7fcdd2ff7f7": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "normalized_title_fingerprint": "detecting social engineering attacks using tinybert explainable ai techniques",
+      "parsed_date": "2026-03-06",
+      "same_story_key": "ieeexplore.ieee.org|2026-03-06|attacks detecting engineering explainable social techniques tinybert",
+      "sent_at": "2026-06-05T04:46:13+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "Detecting Social Engineering Attacks Using TinyBERT and Explainable AI Techniques - ieeexplore.ieee.org",
+      "url": "https://ieeexplore.ieee.org/document/11410611/",
+      "usefulness_category": "Research / novel method"
     },
     "e93cb28ed1805cf939df7c8358b8e6291f2ccc209240c31ab4930988a0dcf3ce": {
       "article_type": "Investigative report",

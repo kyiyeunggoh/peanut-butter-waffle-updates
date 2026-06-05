@@ -1006,6 +1006,42 @@
         "Operational intelligence": 1,
         "Product idea / data source": 2
       }
+    },
+    {
+      "article_type_distribution": {
+        "Investigative report": 1,
+        "News report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 61,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 38,
+        "international": 5,
+        "investigative": 3,
+        "psychology": 13,
+        "singapore_sea": 1,
+        "targeted": 1
+      },
+      "shortlist_count": 20,
+      "source_domain_distribution": {
+        "arxiv.org": 4,
+        "channelnewsasia.com": 3,
+        "dl.acm.org": 2,
+        "ieeexplore.ieee.org": 4,
+        "ndss-symposium.org": 3,
+        "papers.ssrn.com": 4
+      },
+      "timestamp": "2026-06-05T04:46:12+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Operational intelligence": 1,
+        "Product idea / data source": 1,
+        "Research / novel method": 1
+      }
     }
   ]
 }
