@@ -77,6 +77,46 @@ quality_filters:
   require_at_least_one_technical: true
   require_at_least_one_deep_analysis: true
 
+research_reputation:
+  high_reputation_venue_domains:
+    - ndss-symposium.org
+    - usenix.org
+    - dl.acm.org
+    - acm.org
+    - ieee.org
+    - computer.org
+    - sp2026.ieee-security.org
+    - petsymposium.org
+  high_reputation_venue_terms:
+    - ACM Conference on Computer and Communications Security
+    - ACM CCS
+    - IEEE Symposium on Security and Privacy
+    - IEEE S&P
+    - USENIX Security
+    - Network and Distributed System Security Symposium
+    - NDSS
+    - Privacy Enhancing Technologies Symposium
+    - PETS
+  high_reputation_institution_domains:
+    - cmu.edu
+    - mit.edu
+    - stanford.edu
+    - berkeley.edu
+    - cam.ac.uk
+    - ox.ac.uk
+    - harvard.edu
+    - princeton.edu
+    - cornell.edu
+    - ethz.ch
+    - imperial.ac.uk
+    - ucl.ac.uk
+    - toronto.edu
+    - uwaterloo.ca
+    - nus.edu.sg
+    - ntu.edu.sg
+    - tsinghua.edu.cn
+    - pku.edu.cn
+
 high_reputation_sources:
   - anthropic.com
   - openai.com
