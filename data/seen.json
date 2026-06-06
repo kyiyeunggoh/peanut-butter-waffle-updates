@@ -126,6 +126,20 @@
       "url": "https://arxiv.org/html/2508.21457v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi": {
+      "article_type": "Research paper",
+      "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "normalized_title_fingerprint": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "original_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NU3BhbTNwQzRxZzQ0UmVEdm9fTFIzbVpmNFU2b0hIdEZDaURVMEhiQ2JCMURJWTBLemQyaWpWbnVhOUR4QmJF?oc=5",
+      "parsed_date": "2026-02-26",
+      "raw_title": "MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "arxiv.org",
+      "title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "url": "https://arxiv.org/pdf/2602.21394",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing": {
       "article_type": "Research paper",
       "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
@@ -420,6 +434,20 @@
       "url": "https://www.channelnewsasia.com/singapore/investment-scam-whatsapp-chat-group-free-lessons-6162416",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "channelnewsasia.com|2026-06-05|arrested based cambodia linked scam singaporean syndicate": {
+      "article_type": "News report",
+      "normalised_title": "singaporean linked cambodia based scam syndicate arrested",
+      "normalized_title_fingerprint": "singaporean linked cambodia based scam syndicate arrested",
+      "original_url": "https://www.channelnewsasia.com/singapore/cambodia-scam-syndicate-singaporean-arrested-6164656",
+      "parsed_date": "2026-06-05",
+      "raw_title": "Singaporean linked to Cambodia-based scam syndicate arrested - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-05|arrested based cambodia linked scam singaporean syndicate",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "singaporean linked cambodia based scam syndicate arrested",
+      "url": "https://www.channelnewsasia.com/singapore/cambodia-scam-syndicate-singaporean-arrested-6164656",
+      "usefulness_category": "Operational intelligence"
+    },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
       "article_type": "Research paper",
       "normalised_title": "poster longitudinal analysis romance scam infrastructure evolution evidence strategic legitimization",
@@ -712,6 +740,20 @@
       "source_domain": "papers.ssrn.com",
       "title": "artificial intelligence phishing detection practical framework modern email security",
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6738818.pdf?abstractid=6738818&mirid=1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "papers.ssrn.com|2026-05-25|businesses detection enabled evaluating financial fraud losses protecting": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "normalized_title_fingerprint": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "original_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
+      "parsed_date": "2026-05-25",
+      "raw_title": "Evaluating AI-Enabled Fraud Detection Systems for Protecting Businesses from Financial Losses and Scams - SSRN eLibrary",
+      "same_story_key": "papers.ssrn.com|2026-05-25|businesses detection enabled evaluating financial fraud losses protecting",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
       "usefulness_category": "Product idea / data source"
     },
     "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered": {
@@ -1357,6 +1399,20 @@
       "title": "romance scammer who made small fortune posing wwe superstar",
       "url": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-06-03|block calls messages phone scammers spam spammers telemarketers": {
+      "article_type": "Investigative report",
+      "normalised_title": "block spammers scammers telemarketers your phone",
+      "normalized_title_fingerprint": "block spammers scammers telemarketers your phone",
+      "original_url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
+      "parsed_date": "2026-06-03",
+      "raw_title": "How to Block Spammers, Scammers, and Telemarketers on Your Phone - WIRED",
+      "same_story_key": "wired.com|2026-06-03|block calls messages phone scammers spam spammers telemarketers",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "wired.com",
+      "title": "block spammers scammers telemarketers your phone",
+      "url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -1466,6 +1522,18 @@
       "sent_at": "2026-05-30T03:18:14+00:00",
       "source_domain": "theguardian.com",
       "title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
+      "usefulness_category": "Operational intelligence"
+    },
+    "block spammers scammers telemarketers your phone": {
+      "article_type": "Investigative report",
+      "normalised_title": "block spammers scammers telemarketers your phone",
+      "normalized_title_fingerprint": "block spammers scammers telemarketers your phone",
+      "parsed_date": "2026-06-03",
+      "raw_title": "How to Block Spammers, Scammers, and Telemarketers on Your Phone - WIRED",
+      "same_story_key": "wired.com|2026-06-03|block calls messages phone scammers spam spammers telemarketers",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "wired.com",
+      "title": "block spammers scammers telemarketers your phone",
       "usefulness_category": "Operational intelligence"
     },
     "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement": {
@@ -1634,6 +1702,18 @@
       "sent_at": "2026-05-31T04:51:20+00:00",
       "source_domain": "ieeexplore.ieee.org",
       "title": "enhancing phishing detection ai novel dataset comprehensive analysis using machine learning large language models",
+      "usefulness_category": "Product idea / data source"
+    },
+    "evaluating ai enabled fraud detection systems protecting businesses financial losses scams": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "normalized_title_fingerprint": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "parsed_date": "2026-05-25",
+      "raw_title": "Evaluating AI-Enabled Fraud Detection Systems for Protecting Businesses from Financial Losses and Scams - SSRN eLibrary",
+      "same_story_key": "papers.ssrn.com|2026-05-25|businesses detection enabled evaluating financial fraud losses protecting",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
       "usefulness_category": "Product idea / data source"
     },
     "fake australian chinese brazilian police stations bbc goes inside seized scam compound": {
@@ -1863,6 +1943,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
       "usefulness_category": "Operational intelligence"
+    },
+    "memophishagent memory augmented multi modal llm agent phishing url detection": {
+      "article_type": "Research paper",
+      "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "normalized_title_fingerprint": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "parsed_date": "2026-02-26",
+      "raw_title": "MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "arxiv.org",
+      "title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "usefulness_category": "Product idea / data source"
     },
     "more than 200 arrested cyber raids aimed middle east scam networks": {
       "article_type": "Investigative report",
@@ -2126,6 +2218,18 @@
       "sent_at": "2026-05-27T02:49:18+00:00",
       "source_domain": "straitstimes.com",
       "title": "singapore scam syndicate avoided arrest cambodia after receiving tip off",
+      "usefulness_category": "Operational intelligence"
+    },
+    "singaporean linked cambodia based scam syndicate arrested": {
+      "article_type": "News report",
+      "normalised_title": "singaporean linked cambodia based scam syndicate arrested",
+      "normalized_title_fingerprint": "singaporean linked cambodia based scam syndicate arrested",
+      "parsed_date": "2026-06-05",
+      "raw_title": "Singaporean linked to Cambodia-based scam syndicate arrested - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-05|arrested based cambodia linked scam singaporean syndicate",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "singaporean linked cambodia based scam syndicate arrested",
       "usefulness_category": "Operational intelligence"
     },
     "singaporean linked phnom penh based scam syndicate arrested two more suspects wanted": {
@@ -3114,6 +3218,18 @@
       "url": "https://www.wired.com/story/usps-scam-text-smishing-triad/",
       "usefulness_category": "Operational intelligence"
     },
+    "3cb0ffd8eb3d4f8cd97b9aaf2a0244a6786810cd52a8d9db8ba30f53846fd937": {
+      "article_type": "Research paper",
+      "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "normalized_title_fingerprint": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "parsed_date": "2026-02-26",
+      "same_story_key": "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "arxiv.org",
+      "title": "MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9NU3BhbTNwQzRxZzQ0UmVEdm9fTFIzbVpmNFU2b0hIdEZDaURVMEhiQ2JCMURJWTBLemQyaWpWbnVhOUR4QmJF?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "3d7b181c5aa2eb092add059654dc6b118e06921c1e89f58d68676f898da4e5ba": {
       "article_type": "Investigative report",
       "normalised_title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
@@ -3509,6 +3625,18 @@
       "title": "Cybersecurity Risks of Online Piracy Websites in Malaysia: An Empirical Comparison of Scam Risk, Malware Exposure, and Advertising Ecosystems - SSRN eLibrary",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6309900",
       "usefulness_category": "Product idea / data source"
+    },
+    "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
+      "article_type": "Investigative report",
+      "normalised_title": "block spammers scammers telemarketers your phone",
+      "normalized_title_fingerprint": "block spammers scammers telemarketers your phone",
+      "parsed_date": "2026-06-03",
+      "same_story_key": "wired.com|2026-06-03|block calls messages phone scammers spam spammers telemarketers",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "wired.com",
+      "title": "How to Block Spammers, Scammers, and Telemarketers on Your Phone - WIRED",
+      "url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
+      "usefulness_category": "Operational intelligence"
     },
     "66b99ca62a92685dfd3d559e25234cfd3cba0ea0ab9d76f77ba7b0cfeaed19bc": {
       "article_type": "News report",
@@ -4038,6 +4166,18 @@
       "url": "https://dl.acm.org/doi/10.1145/3772318.3791198",
       "usefulness_category": "Product idea / data source"
     },
+    "a6d8f64cc61fda2cc4e091eb6335b58e8ebd74b3c0c3e3a1c149efcb5030780a": {
+      "article_type": "Research paper",
+      "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "normalized_title_fingerprint": "memophishagent memory augmented multi modal llm agent phishing url detection",
+      "parsed_date": "2026-02-26",
+      "same_story_key": "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "arxiv.org",
+      "title": "MemoPhishAgent: Memory-Augmented Multi-Modal LLM Agent for Phishing URL Detection - arXiv",
+      "url": "https://arxiv.org/pdf/2602.21394",
+      "usefulness_category": "Product idea / data source"
+    },
     "a75619814f76125a02c467109414477e084ef790de481d305c9c63de39c9ca06": {
       "article_type": "Deep analysis",
       "normalised_title": "graphika news talking romance scams cyber frontlines",
@@ -4482,6 +4622,18 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejVCQ3ltMUlySDFrdlUwUlZ4LVYzZnZIa3hzelpnNFhpVDhZTHNCYXRUYkxrVVhPZ3BLLTFfQ0Zyb2NmLTM0MFZYaEhmczVENVZzdV8zVXVmUmpmQkNBdXNWZlFEY2FwWTVoempENFFrZmQycFRmQlppdkp6Y09EcjM3RlBfN2pYVER0Q29vTDlveVBScEM1U3JZTnRSYVE?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "e03b7f28eb723d162f24174bbd066525fdaecf8b2e9f7e165fedb531316317ce": {
+      "article_type": "News report",
+      "normalised_title": "singaporean linked cambodia based scam syndicate arrested",
+      "normalized_title_fingerprint": "singaporean linked cambodia based scam syndicate arrested",
+      "parsed_date": "2026-06-05",
+      "same_story_key": "channelnewsasia.com|2026-06-05|arrested based cambodia linked scam singaporean syndicate",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Singaporean linked to Cambodia-based scam syndicate arrested - CNA",
+      "url": "https://www.channelnewsasia.com/singapore/cambodia-scam-syndicate-singaporean-arrested-6164656",
+      "usefulness_category": "Operational intelligence"
+    },
     "e05d64c84cc991e93a5f5b3e8972245af6d7427390492b2f5baef3b613fa1287": {
       "article_type": "Deep analysis",
       "normalised_title": "scams fraud social engineering scale",
@@ -4649,6 +4801,18 @@
       "title": "Tens of thousands could be held in illegal scam compounds in Myanmar, Thai police general says | Thailand - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGwxcC1SYmJ1c01IUnl2d0FFalB1bU9ybkZNWE5ySzhPUHlMZTZoLVNTcFpLNnlFbmRXel8yV01oN05ncllJOHVGdjJTREhicE9JQkVaTC1rWjBObVk2Z01Ja3NrOHhXMXU0VlBfMXZsNC1HcXVnMUc4eklFX2w2LUUzajhaOU0?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "f72ff644a6850dc53e820b4171b3021150ed332ec84042522b1a49325384fc2c": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "normalized_title_fingerprint": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
+      "parsed_date": "2026-05-25",
+      "same_story_key": "papers.ssrn.com|2026-05-25|businesses detection enabled evaluating financial fraud losses protecting",
+      "sent_at": "2026-06-06T04:19:45+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "Evaluating AI-Enabled Fraud Detection Systems for Protecting Businesses from Financial Losses and Scams - SSRN eLibrary",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
+      "usefulness_category": "Product idea / data source"
     },
     "f9b962a5b97db15780bb8dc5735f1ab509e0d84e69ba45a9b42da8198ee956ea": {
       "article_type": "Investigative report",
