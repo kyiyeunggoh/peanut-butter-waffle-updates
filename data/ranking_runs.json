@@ -1076,6 +1076,40 @@
         "Operational intelligence": 2,
         "Product idea / data source": 2
       }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 2,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 49,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 32,
+        "international": 1,
+        "investigative": 1,
+        "psychology": 14,
+        "targeted": 1
+      },
+      "shortlist_count": 12,
+      "source_domain_distribution": {
+        "arxiv.org": 3,
+        "channelnewsasia.com": 1,
+        "dl.acm.org": 2,
+        "ieeexplore.ieee.org": 2,
+        "ndss-symposium.org": 3,
+        "wired.com": 1
+      },
+      "timestamp": "2026-06-07T04:55:36+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Product idea / data source": 1,
+        "Research / novel method": 1,
+        "Scam development": 1
+      }
     }
   ]
 }

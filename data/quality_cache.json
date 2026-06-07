@@ -847,8 +847,9 @@
   "17c1e5e3395351501aed5851bdb4cc181e48c9f3e920def3f1c7359bac90e356": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-03T05:11:18+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:29+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -859,6 +860,7 @@
     "rejection_reason": null,
     "research_relevance_category": "generic_fraud_ml",
     "research_relevance_score": -35,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -1424,6 +1426,41 @@
     ],
     "word_count": 32464
   },
+  "2f6e9139d3c8dca4a711dca3557387205a1079397dd52ed6129aedbe94b5a248": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A giant tech company is to blame. Google TV , the television operating system based on Android, is great in some ways: It runs well on my TV, there are apps available for every streaming service, and the interface is very customizable. It comes preinstalled on new sets from Sony, Hisense, and TCL, among others. The default home screen, though, is a mess. There's a row of your applications, if you squint, but the majority of the screen is taken up by ads for movies and shows that some company is presumably paying to promote. So I was thrilled when I found AT4K , an alternative home screen for Google TV. Inspired by the Apple TV interface, this launcher shows me only thumbnails for the streaming services I use, and I can even turn those off if I want to. To get started, simply install the application on Google Play . You can do so in your browser on whatever device you're reading this article on. Or, if you want, you can launch Google Play on your smart TV and search for \u201cAT4K.\u201d Either way the launcher will load and the installation will be initiated on your television.",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 3083
+  },
   "2fb037280b980062eeb5aea2577ca8d371c39c08920bfc7ac6b7bc57b4aee126": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -1556,6 +1593,29 @@
       "trust"
     ],
     "word_count": 19742
+  },
+  "33a44611a417871852bd1787f0565826ecacfeabf4f2a615fc49bc9a6ec54e17": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
     "access_status": "available",
@@ -2191,6 +2251,32 @@
     ],
     "word_count": 5237
   },
+  "49f15b91074c418be923b516c0f883b10797a12c7dfb3b0718a3c000245c3ce8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "In a post on a16z\u2019s Substack, Nate Cavanaugh and Justin Fox, who led DOGE\u2019s efforts at several government agencies, write that their startup will build \u201can operating system to transform critical American industries with AI,\u201d and claim that \u201cMain Street,\u201d like the federal government, is inefficient. The plan, according to Fox and Cavanaugh, is to \u201cvertically integrate,\u201d buying up businesses in critical sectors and running them using Special\u2019s operating system. Their first target is senior care, with a vertical called FigureHealth . In an interview on TBPN , Cavanaugh said that Special is also looking at \u201cmarkets like construction, manufacturing, other very labor intensive, highly regulated markets that a lot of the learnings we had from DOGE can then get applied back into the private sector.\" Their work also purports to target waste, and cites recent Republican talking points about blue states and fraud . \u201cOne needs to look no further than childcare learning centers in Minnesota or hospice businesses in California to find immense waste at the state level from businesses that benefit from taxpayer dollars,\u201d Fox and Cavanaugh write. Allegations of waste and fraud were key to DOGE\u2019s own justification for cutting government contracts, jobs, and even shutting down the US Agency for International Development (USAID) . Fraud allegations against Minnesota childcare centers formed the...",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3347
+  },
   "4a79c1eb30b10af387f5de89926c241a16c865c177d1e5491fc335d859437ff0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2363,8 +2449,9 @@
   "52a3f58674d92f766892c06f5a0975bb6e78f5e684702060a100dd05e6388a3d": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-03T05:11:21+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -2594,8 +2681,9 @@
   "5bf4ea5abc6e9490701666073f6ff879aee8b8ed0e1ac0594021d8028eee5355": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-01T04:10:26+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -2606,6 +2694,7 @@
     "rejection_reason": null,
     "research_relevance_category": "irrelevant_or_adjacent",
     "research_relevance_score": -60,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -2799,6 +2888,45 @@
     ],
     "word_count": null
   },
+  "63617a757eb8f9ede0be011192150e0aaced475f7c8741f3b76c7bb8eab82b34": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "If activated, the feature\u2014known internally as NameTag\u2014would let wearers identify people in front of them by matching captured faces against a biometric gallery sitting on the user\u2019s device. It\u2019s the same kind of technology Meta said it walked away from in 2021, after paying out billions of dollars to settle biometric privacy lawsuits in Texas and Illinois. Meanwhile, xAI is asking a federal judge to force four people suing the company over Grok-generated deepfake nudes to drop their pseudonyms and litigate under their real names\u2014including one plaintiff who alleges the chatbot was used to fabricate sexual images of her as a child. The plaintiffs say they\u2019d sooner drop the suit than submit to harassment and doxing from Musk\u2019s online supporters. xAI\u2019s lawyers, however, claim that since the deepfakes will remain under seal, there\u2019s \u201cnothing inherently stigmatizing\u201d about naming the people in them. Google rolled out a new Android feature this week aimed at the wave of AI-powered impersonation scams that help fraudsters spoof a familiar number and clone a person\u2019s voice. Packaged with Google Dialer and shipping to phones running Android 12 or later, it pings the caller\u2019s device for a silent cryptographic handshake. If the call is fake, Android will flag it and strip the contact photo from the screen, but only if both ends are on Google Dialer, which leaves iPhones out of the...",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "ransomware",
+      "fraud"
+    ],
+    "word_count": 4760
+  },
   "64c33c3f578e3593baa5d043df5c58e071b00f51ef00cbe6b1d962e90dbbc3a8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2826,8 +2954,9 @@
   "658e957ddb1938d0e6a7e9c19bc9eb2aa44615ed3b30823ed3ff1ab6e7bbb0f9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-02T05:01:50+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:30+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -2838,6 +2967,7 @@
     "rejection_reason": null,
     "research_relevance_category": "irrelevant_or_adjacent",
     "research_relevance_score": -60,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -3349,6 +3479,40 @@
       "trust"
     ],
     "word_count": 25848
+  },
+  "71eb3a1d1f66cb762707e4d5086f64f13e14550afaa5b8d3f317359326129d07": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Invitation Trap: Proactive Availability Backdoor in LLMs via Conversational Induction He Wang 1 , Jun Feng \u20201 , Hong Sun 2 , Pengfei Zhang 3 1 Huazhong University of Science and Technology 2 Wuhan Textile University 3 Anhui University of Science and Technology rKreisky@hust.edu.cn, junfeng@hust.edu.cn, hsun@wtu.edu.cn, zpf.bupt@bupt.cn Abstract Current backdoor attacks against LLMs are typically manipulated by the attacker and remain passive. In this paper, we introduce the Proactive Availability Backdoor (PAB) , a novel paradigm that shifts the attack vector from passive waiting to active social engineering. By weaponizing the inherent helpfulness of aligned LLMs, PAB proactively traps users into executing trigger-implanted queries by offering suggestions, achieving high aggressiveness, precision and stealthiness. To rigorously evaluate its threat in a real-life context, we introduce a dual-agent ecological simulation framework based on selected dimensions of the Five-Factor Model, and deploy PAB with few-shot prompts. Being validated on different models and domains, PAB performs remarkably and its effective attack success rate, which calculates the joint probability of attack incidence rate and attack success rate, goes to 73.1% . We also introduce Anti-PAB , a defense method tailored for PAB. Our findings reveal that...",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 20545
   },
   "72ad1ba498ae5db5cd0435232e5ebaeaed9ae93da60f8766732c40828d8f4ab5": {
     "access_status": "available",
@@ -4079,8 +4243,9 @@
   "887f8e7eac4e2bb89062144fb32ef4cb49b04b369bc6e02519eaf5f46cf61663": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "cache_version": 5,
-    "checked_at": "2026-06-04T05:03:42+00:00",
+    "article_excerpt": "Chinese scammers Follow Follow Showing 3 of 3 Sort & Filter Asia 'Insane scale': A close-up look at scam compounds along Cambodia's border with Vietnam 02/06/2026 Asia Cambodia\u2019s crackdown on scam centres leaves trail of stranded victims as criminal groups switch tactics 01/06/2026 News Video Reports China-based syndicates targeting foreigners in crypto scams: Reports 02/12/2025 5 mins Chinese scammers Asia Asia News Video Reports We know it's a hassle to switch browsers but we want your experience with CNA to be fast, secure and the best it can possibly be. To continue, upgrade to a supported browser or, for the finest experience, download the mobile app. Upgraded but still having issues? Contact us",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:28+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -4099,6 +4264,7 @@
     "rejection_reason": null,
     "research_relevance_category": null,
     "research_relevance_score": null,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
       "scam",
@@ -4743,6 +4909,36 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "a160134266ef2f0915a6876ebc5cf1ca8daa4d78bf5fff3da9cd1fd2da8a4a6f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Warning Message Content Increases Help Seeking in a Large-Scale Dark Web CSAM Intervention Caoilte \u00d3 Ciardha University of Kent, Canterbury, UK Joel Scanlan CSAM Deterrence Centre, Hobart, Australia Tegan Insoll Protect Children, Helsinki, Finland Juha Nurmi Tampere University, Tampere, Finland Nina Vaaranen-Valkonen Protect Children, Helsinki, Finland (2026) Abstract Warning messages have been used to disrupt individuals seeking online child sexual abuse material (CSAM) and promote engagement with support services, yet large-scale field evidence on message content remains limited, particularly in high-anonymity environments. This study reports a field experiment on Ahmia.fi, a Tor search engine, examining how warning message content influences behavior. Across a 140-day period, almost 20 million searches were observed, with over 3 million searches containing known CSAM-related terms that triggered a warning linking to an anonymous self-help program. Users were exposed to warning messages varying in thematic content and framing, or a neutral message. Across a randomized comparison, a campaign-wide analysis, and interrupted time series models, message content consistently influenced engagement with help resources. All active messages increased click-through rates to help resources relative to the neutral condition, with a...",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "trust"
+    ],
+    "word_count": 16929
+  },
   "a1c1a805ee2180788c84e19a4187f83a5212b518919baef456dd99883b352688": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -5226,8 +5422,9 @@
   "b1b5919b00010ffce66d79e6fa4eb696d70c33f3638e5f21f0b1c1b964b3ffbe": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-01T04:10:24+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -5763,8 +5960,9 @@
   "c89f70eeb148286c778ce51fb44235bbc8dbf229b7d3e909da4da7e260dcd895": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-04T05:03:43+00:00",
+    "article_excerpt": "",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -7402,8 +7600,9 @@
   "fe5fb67bacfe60fea5c11f0c5c45aa32b9e68c956653b4ac353d3d17a88a8bea": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "cache_version": 5,
-    "checked_at": "2026-05-26T01:30:51+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: The End of Trust: How Agentic AI Breaks Security Assumptions Osama Zafar Alexander Nemecek Erman Ayday Abstract For decades, the security of digital interaction has rested on an unacknowledged economic constraint. Attackers faced a tradeoff between the fidelity of a deception and the scale at which it could be deployed. Convincing impersonation required sustained human effort and was confined to a narrow set of high-value targets, while mass-market attacks sacrificed plausibility for reach. Detection systems, verification mechanisms, and user awareness training have all been implicitly calibrated to the artifacts of cheap deception that this tradeoff produced. Agentic AI collapses the tradeoff, allowing high-fidelity, individually tailored deception to be produced at mass-market scale. We argue that this shift exhausts a security paradigm rather than merely intensifying the threat landscape. We introduce the Infinite Impostor, an attack model in which an autonomous agent interposes itself between two parties who already trust each other, hijacking an existing relationship rather than building a new one from scratch. Detection-oriented defenses share an assumption that generative progress is eliminating, that synthetic outputs are distinguishable from authentic ones. We propose a suspect-by-default paradigm that shifts security...",
+    "cache_version": 6,
+    "checked_at": "2026-06-07T04:55:29+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -7426,6 +7625,9 @@
     "rejection_reason": null,
     "research_relevance_category": "victim_psychology_or_persuasion",
     "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
       "scam",
