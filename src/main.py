@@ -36,7 +36,7 @@ RANKING_RUNS_PATH = ROOT / "data" / "ranking_runs.json"
 CACHE_TTL_DAYS = 7
 CANDIDATE_CACHE_TTL_HOURS = 12
 CACHE_MAX_ENTRIES = 5000
-QUALITY_CACHE_VERSION = 6
+QUALITY_CACHE_VERSION = 8
 DOMAIN_QUERY_TERMS = (
     "AI",
     "artificial intelligence",
@@ -1070,6 +1070,35 @@ def canonicalize_url_text(url: str) -> str:
     return urlunparse((scheme, hostname, path, "", query, ""))
 
 
+def article_fetch_url(url: str) -> str:
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower().removeprefix("www.")
+    path = parsed.path or ""
+
+    if host == "arxiv.org":
+        match = re.match(r"^/pdf/([^/?#]+?)(?:\.pdf)?$", path)
+        if match:
+            paper_id = match.group(1)
+            return urlunparse((parsed.scheme or "https", parsed.netloc, f"/html/{paper_id}", "", "", ""))
+
+    if host.endswith("papers.ssrn.com") and "/delivery.cfm" in path.lower():
+        query_params = parse_qs(parsed.query)
+        abstract_ids = query_params.get("abstractid") or query_params.get("abstract_id") or []
+        if abstract_ids:
+            return urlunparse(
+                (
+                    parsed.scheme or "https",
+                    parsed.netloc,
+                    "/sol3/papers.cfm",
+                    "",
+                    f"abstract_id={quote_plus(abstract_ids[0])}",
+                    "",
+                )
+            )
+
+    return url
+
+
 def url_hash(url: str) -> str:
     return stable_hash(canonicalize_url_text(url))
 
@@ -1493,6 +1522,7 @@ def display_title(title: str) -> str:
     cleaned = strip_publisher_suffix(str(title or "Untitled"))
     cleaned = re.sub(r"\s*This work was conducted.*$", "", cleaned, flags=re.IGNORECASE)
     cleaned = re.sub(r"\s*Supported solely by.*$", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s*Code, data, and pre-registration are available.*$", "", cleaned, flags=re.IGNORECASE)
     return re.sub(r"\s+", " ", cleaned).strip() or "Untitled"
 
 
@@ -1660,6 +1690,50 @@ def article_domain(item: dict[str, Any]) -> str:
         return str(item.get("source_domain", "")).lower().removeprefix("www.")
     url = item.get("canonical_url") or item.get("url") or item.get("original_url") or item.get("link", "")
     return (urlparse(url).hostname or "").lower().removeprefix("www.")
+
+
+def is_topic_or_listing_page(item: dict[str, Any]) -> bool:
+    url = str(item.get("canonical_url") or item.get("url") or item.get("original_url") or item.get("link", ""))
+    parsed = urlparse(url)
+    path = parsed.path.lower().rstrip("/")
+    segments = [segment for segment in path.split("/") if segment]
+    title = re.sub(r"\s+", " ", str(item.get("title", "")).lower()).strip()
+
+    if len(segments) >= 2 and segments[0] in {"topic", "topics", "tag", "tags"}:
+        return True
+    if segments and segments[-1] in {"search", "latest", "topics", "tags"}:
+        return True
+    if any(phrase in title for phrase in ("latest news & coverage", "latest news and coverage", "news & coverage")):
+        return True
+    return False
+
+
+def is_browser_access_boilerplate_text(text: str) -> bool:
+    lowered = re.sub(r"\s+", " ", text.lower())
+    phrases = (
+        "to continue, upgrade to a supported browser",
+        "upgrade to a supported browser",
+        "for the finest experience, download the mobile app",
+        "upgraded but still having issues",
+        "enable javascript and cookies",
+    )
+    return "to continue, upgrade to a supported browser" in lowered or sum(1 for phrase in phrases if phrase in lowered) >= 2
+
+
+def is_browser_access_boilerplate_page(item: dict[str, Any]) -> bool:
+    text = " ".join(
+        str(value)
+        for value in (
+            item.get("title", ""),
+            item.get("summary", ""),
+            item.get("article_excerpt", ""),
+        )
+        if value
+    )
+    if not is_browser_access_boilerplate_text(text):
+        return False
+    word_count = item.get("word_count")
+    return not isinstance(word_count, int) or word_count < 300
 
 
 def suggests_product_announcement(text: str) -> bool:
@@ -2312,6 +2386,8 @@ def article_excerpt_from_text(text: str, limit: int = 1400) -> str:
     cleaned = clean_summary_text(text, limit * 2)
     if not cleaned:
         return ""
+    if is_browser_access_boilerplate_text(cleaned) and estimate_word_count(cleaned) < 120:
+        return ""
 
     boilerplate_markers = (
         "comment loader",
@@ -2321,6 +2397,9 @@ def article_excerpt_from_text(text: str, limit: int = 1400) -> str:
         "all rights reserved",
         "advertisement",
         "skip to main content",
+        "to continue, upgrade to a supported browser",
+        "upgraded but still having issues",
+        "for the finest experience, download the mobile app",
     )
     sentences = [
         sentence.strip()
@@ -2329,6 +2408,8 @@ def article_excerpt_from_text(text: str, limit: int = 1400) -> str:
     ]
     excerpt = " ".join(sentences[:10]).strip()
     if not excerpt:
+        if is_browser_access_boilerplate_text(cleaned):
+            return ""
         excerpt = cleaned
     if len(excerpt) <= limit:
         return excerpt
@@ -2369,22 +2450,22 @@ def inspect_article_quality(
             }
         return quality_data
 
-    try:
-        timeout_seconds = int(config.get("request_timeout_seconds", 8))
-        response = requests.get(url, timeout=timeout_seconds, headers={"User-Agent": "Mozilla/5.0"})
-        response.raise_for_status()
-    except requests.Timeout:
-        quality_data["rejection_reason"] = "fetch_timeout"
-        quality_data.update(relevance_fields(candidate))
-        if quality_cache is not None and cache_key:
-            quality_cache[cache_key] = {
-                **quality_data,
-                "cache_version": QUALITY_CACHE_VERSION,
-                "checked_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-            }
-        return quality_data
-    except requests.RequestException:
-        quality_data["rejection_reason"] = "fetch_failed"
+    timeout_seconds = int(config.get("request_timeout_seconds", 8))
+    fetch_urls = list(dict.fromkeys([article_fetch_url(url), url]))
+    response: requests.Response | None = None
+    fetch_timeout = False
+    for fetch_url in fetch_urls:
+        try:
+            response = requests.get(fetch_url, timeout=timeout_seconds, headers={"User-Agent": "Mozilla/5.0"})
+            response.raise_for_status()
+            break
+        except requests.Timeout:
+            fetch_timeout = True
+        except requests.RequestException:
+            continue
+
+    if response is None:
+        quality_data["rejection_reason"] = "fetch_timeout" if fetch_timeout else "fetch_failed"
         quality_data.update(relevance_fields(candidate))
         if quality_cache is not None and cache_key:
             quality_cache[cache_key] = {
@@ -2768,6 +2849,10 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
     direct_title_terms = terms_found(title_context, RESEARCH_DIRECT_TITLE_TERMS)
     if candidate.get("hard_rejected"):
         return candidate.get("hard_rejection_reason") or "hard_rejected"
+    if is_topic_or_listing_page(candidate):
+        return "topic_or_listing_page"
+    if is_browser_access_boilerplate_page(candidate):
+        return "browser_access_boilerplate"
     if not is_within_candidate_recency_window(candidate, config, datetime.now(timezone.utc), False):
         return "outdated_article"
     if anti_scam_relevance == "irrelevant":
@@ -5410,8 +5495,9 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Avoid vendor pitch, product announcements without anti-scam or engineering relevance, thin posts, and generic consumer advice. "
         "Include at least one technical/threat-intelligence item if available. "
         "Include at least one deep analysis/investigative/research item if available. "
-        "For each selected item, write no more than 3 concise key_takeaways bullets based only on the provided candidate title, source, date, summary, article_excerpt, labels, and signal terms. Do not invent details. "
-        "When article_excerpt is present, use it as the primary evidence for the bullets; do not merely restate the title, publication, or source. If article_excerpt is missing or too thin, write fewer bullets rather than filler. "
+        "For each selected item, write 1 to 3 concise key_takeaways bullets based only on the provided candidate title, source, date, summary, article_excerpt, labels, and signal terms. Do not invent details. "
+        "Every selected item must include at least one non-empty key_takeaways bullet. If you cannot write evidence-grounded bullets from the provided page text or substantive summary, omit the item. "
+        "When article_excerpt is present, use it as the primary evidence for the bullets; do not merely restate the title, publication, or source. If article_excerpt is missing or too thin, select the item only when the summary itself contains enough article-specific evidence. "
         "Never turn scraped boilerplate such as comment loaders, save-story prompts, newsletter prompts, navigation text, or author interview filler into key_takeaways. "
         "Make every key_takeaways bullet specific enough that a product or policy teammate can decide whether to open the article. Avoid generic phrases such as 'actionable insights', 'technical blueprint', 'proactive user-facing features', or 'provides a framework' unless you name the actual mechanism, data, components, evaluation setup, actors, workflow, or policy lever. "
         "At least one bullet per item must state the product or policy relevance concretely: for example, what detection signal to instrument, what intervention/control to test, what abuse workflow to monitor, what data source to collect, what enforcement/policy gap is exposed, or what user-risk segment is implicated. "
@@ -5488,6 +5574,7 @@ def rank_with_gemini(
         "gemini_attempts": 0,
         "gemini_max_attempts": max_attempts,
         "gemini_failed_attempts": [],
+        "gemini_items_without_takeaways": [],
     }
 
     if estimated_cost_usd > max_cost:
@@ -5586,10 +5673,17 @@ def rank_with_gemini(
         if gemini_item.get("title"):
             updated_item["title"] = gemini_item["title"]
         updated_item["key_takeaways"] = normalize_key_takeaways(gemini_item.get("key_takeaways"))
+        if not updated_item["key_takeaways"]:
+            cost_data["gemini_items_without_takeaways"].append(
+                {
+                    "title": display_title(updated_item.get("title", "")),
+                    "url": updated_item.get("canonical_url") or updated_item.get("url") or "",
+                }
+            )
+            continue
+        updated_item["gemini_selected"] = True
         ranked.append(updated_item)
 
-    ranked_urls = {canonicalize_url_text(item["canonical_url"]) for item in ranked}
-    ranked.extend(item for item in items if canonicalize_url_text(item["canonical_url"]) not in ranked_urls)
     return ranked, cost_data
 
 
@@ -5724,27 +5818,7 @@ def grouped_items_by_section(items: list[dict[str, Any]]) -> dict[str, list[dict
 
 
 def item_key_takeaways(item: dict[str, Any]) -> list[str]:
-    takeaways = normalize_key_takeaways(item.get("key_takeaways"))
-    if takeaways:
-        return takeaways
-
-    fallback_text = clean_summary_text(item.get("article_excerpt", ""), 900)
-    if not fallback_text:
-        fallback_text = clean_summary_text(item.get("summary", ""), 500)
-    if not fallback_text:
-        return []
-
-    title_tokens = title_token_set(item.get("title", ""))
-    fallback_tokens = title_token_set(fallback_text)
-    if title_tokens and fallback_tokens and len(fallback_tokens - title_tokens) < 6:
-        return []
-
-    source = str(item.get("source", "")).lower()
-    if source and fallback_text.lower().endswith(source) and len(fallback_tokens) < 18:
-        return []
-
-    sentence_candidates = re.split(r"(?<=[.!?])\s+", fallback_text)
-    return normalize_key_takeaways(sentence_candidates)
+    return normalize_key_takeaways(item.get("key_takeaways"))
 
 
 def section_distribution(items: list[dict[str, Any]]) -> dict[str, int]:
@@ -6363,10 +6437,15 @@ def main() -> None:
     gemini_runtime = time.monotonic() - gemini_started
     pipeline["timing"]["gemini_runtime_seconds"] = gemini_runtime
     pipeline["stats"]["gemini_selected_count"] = len(ranked_items)
+    final_available_items = ranked_items if cost_data.get("used_llm") else pipeline.get("ranked_candidates", ranked_items)
     selected_items = select_final_items(ranked_items, config, max_items)
     selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "post_gemini")
-    selected_items = repair_final_selection(selected_items, pipeline.get("ranked_candidates", ranked_items), config, max_items, pipeline["stats"])
+    selected_items = repair_final_selection(selected_items, final_available_items, config, max_items, pipeline["stats"])
     selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "final")
+    if cost_data.get("used_llm"):
+        before_summary_guard = len(selected_items)
+        selected_items = [item for item in selected_items if normalize_key_takeaways(item.get("key_takeaways"))]
+        pipeline["stats"]["post_gemini_missing_takeaways_removed_count"] = before_summary_guard - len(selected_items)
     duplicate_pairs = near_duplicate_pairs(selected_items)
     if duplicate_pairs:
         first_pair = duplicate_pairs[0]
@@ -6389,7 +6468,7 @@ def main() -> None:
         )
         save_cost_log(run)
         print_pipeline_report(pipeline)
-        final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, pipeline.get("ranked_candidates", ranked_items))
+        final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, final_available_items)
         print(f"final article count: {len(selected_items)}")
         print(f"number of final selected articles: {len(selected_items)}")
         print(f"final article_type distribution: {article_type_distribution(selected_items)}")
@@ -6422,6 +6501,7 @@ def main() -> None:
         print(f"final_sponsored_vendor_count: {sum(1 for item in selected_items if is_sponsored_vendor_item(item))}")
         print(f"duplicate_podcast_or_summary_removed_count: {pipeline['stats'].get('duplicate_podcast_or_summary_removed_count', 0)}")
         print(f"gemini_selected_count: {pipeline['stats'].get('gemini_selected_count', 0)}")
+        print(f"post_gemini_missing_takeaways_removed_count: {pipeline['stats'].get('post_gemini_missing_takeaways_removed_count', 0)}")
         print(f"post_gemini_invalid_removed_count: {pipeline['stats'].get('post_gemini_invalid_removed_count', 0)}")
         for item in pipeline["stats"].get("post_gemini_invalid_removed_examples", []):
             print(f"post_gemini_invalid_removed_example: title={item.get('title')} | reason={item.get('reason')} | url={item.get('url')}")
@@ -6467,7 +6547,7 @@ def main() -> None:
     save_cost_log(run)
     write_github_summary(run)
     print_pipeline_report(pipeline)
-    final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, pipeline.get("ranked_candidates", ranked_items))
+    final_failures = final_mix_constraint_failures(selected_items, min_items, max_items, final_available_items)
     save_ranking_run(pipeline, selected_items, final_failures)
 
     telegram_started = time.monotonic()
