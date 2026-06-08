@@ -1110,6 +1110,32 @@
         "Research / novel method": 1,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 49,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 35,
+        "psychology": 14
+      },
+      "shortlist_count": 10,
+      "source_domain_distribution": {
+        "arxiv.org": 4,
+        "dl.acm.org": 2,
+        "ieeexplore.ieee.org": 1,
+        "ndss-symposium.org": 3
+      },
+      "timestamp": "2026-06-08T05:01:25+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Product idea / data source": 1,
+        "Research / novel method": 1
+      }
     }
   ]
 }
