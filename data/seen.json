@@ -56,6 +56,20 @@
       "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "abc.net.au|2026-06-08|australians cambodian centre methods reveals scamming script": {
+      "article_type": "Enforcement report",
+      "normalised_title": "script reveals methods cambodian centre scamming australians",
+      "normalized_title_fingerprint": "script reveals methods cambodian centre scamming australians",
+      "original_url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
+      "parsed_date": "2026-06-08",
+      "raw_title": "Script reveals methods of Cambodian centre scamming Australians",
+      "same_story_key": "abc.net.au|2026-06-08|australians cambodian centre methods reveals scamming script",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "abc.net.au",
+      "title": "script reveals methods cambodian centre scamming australians",
+      "url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -138,6 +152,20 @@
       "source_domain": "arxiv.org",
       "title": "scriptmind crime script inference cognitive evaluation llm based social engineering scam detection system",
       "url": "https://arxiv.org/html/2601.13581v1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user": {
+      "article_type": "Research paper",
+      "normalised_title": "user centric phishing detection rag llm based approach",
+      "normalized_title_fingerprint": "user centric phishing detection rag llm based approach",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQWFubC02dmFkNU9SNzNGQjlsNVctWkpRcGZxZ1d3bDNsMXRiTFlzdG5mNVh4MzNBcDdSd0lKMS00aU5vTXlxcTZNcw?oc=5",
+      "parsed_date": "2026-01-29",
+      "raw_title": "User-Centric Phishing Detection: A RAG and LLM-Based Approach",
+      "same_story_key": "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "user centric phishing detection rag llm based approach",
+      "url": "https://arxiv.org/html/2601.21261v1",
       "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi": {
@@ -728,6 +756,20 @@
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
     },
+    "markets.ft.com|2026-05-20|accelerate criminals enabled engineering full network report security": {
+      "article_type": "Technical article",
+      "normalised_title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "normalized_title_fingerprint": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "original_url": "https://markets.ft.com/data/announce/full?dockey=600-202605200916BIZWIRE_USPRX____20260520_BW153924-1",
+      "parsed_date": "2026-05-20",
+      "raw_title": "Visa Threats Report: As Network Security Strengthens, Criminals Accelerate Shift to AI-Enabled Social Engineering",
+      "same_story_key": "markets.ft.com|2026-05-20|accelerate criminals enabled engineering full network report security",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "markets.ft.com",
+      "title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202605200916BIZWIRE_USPRX____20260520_BW153924-1",
+      "usefulness_category": "Operational intelligence"
+    },
     "ndss-symposium.org|2025-02-24|attacks aware context create data language large media": {
       "article_type": "Research paper",
       "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
@@ -1147,6 +1189,20 @@
       "title": "china executes 11 people linked myanmar scam operation",
       "url": "https://www.theguardian.com/world/2026/jan/29/china-executes-11-people-linked-myanmar-scam-operation",
       "usefulness_category": "Operational intelligence"
+    },
+    "theguardian.com|2026-06-07|chatgpt fake lead scams shopping websites \u2018poisoned\u2019": {
+      "article_type": "News report",
+      "normalised_title": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "normalized_title_fingerprint": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "original_url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "parsed_date": "2026-06-07",
+      "raw_title": "\u2018Poisoned\u2019 AI: the ChatGPT shopping scams that lead to fake websites",
+      "same_story_key": "theguardian.com|2026-06-07|chatgpt fake lead scams shopping websites \u2018poisoned\u2019",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "usefulness_category": "Scam development"
     },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
@@ -2328,6 +2384,18 @@
       "title": "scams fraud social engineering scale",
       "usefulness_category": "Operational intelligence"
     },
+    "script reveals methods cambodian centre scamming australians": {
+      "article_type": "Enforcement report",
+      "normalised_title": "script reveals methods cambodian centre scamming australians",
+      "normalized_title_fingerprint": "script reveals methods cambodian centre scamming australians",
+      "parsed_date": "2026-06-08",
+      "raw_title": "Script reveals methods of Cambodian centre scamming Australians",
+      "same_story_key": "abc.net.au|2026-06-08|australians cambodian centre methods reveals scamming script",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "abc.net.au",
+      "title": "script reveals methods cambodian centre scamming australians",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "scriptmind crime script inference cognitive evaluation llm based social engineering scam detection system": {
       "article_type": "Research paper",
       "normalised_title": "scriptmind crime script inference cognitive evaluation llm based social engineering scam detection system",
@@ -2640,6 +2708,18 @@
       "title": "us \u2018leading fight\u2019 against south east asian scam compounds fbi official says",
       "usefulness_category": "Operational intelligence"
     },
+    "user centric phishing detection rag llm based approach": {
+      "article_type": "Research paper",
+      "normalised_title": "user centric phishing detection rag llm based approach",
+      "normalized_title_fingerprint": "user centric phishing detection rag llm based approach",
+      "parsed_date": "2026-01-29",
+      "raw_title": "User-Centric Phishing Detection: A RAG and LLM-Based Approach",
+      "same_story_key": "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "user centric phishing detection rag llm based approach",
+      "usefulness_category": "Product idea / data source"
+    },
     "usps text scammers duped his wife so he hacked their operation": {
       "article_type": "Investigative report",
       "normalised_title": "usps text scammers duped his wife so he hacked their operation",
@@ -2663,6 +2743,18 @@
       "source_domain": "straitstimes.com",
       "title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
       "usefulness_category": "Scam development"
+    },
+    "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering": {
+      "article_type": "Technical article",
+      "normalised_title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "normalized_title_fingerprint": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "parsed_date": "2026-05-20",
+      "raw_title": "Visa Threats Report: As Network Security Strengthens, Criminals Accelerate Shift to AI-Enabled Social Engineering",
+      "same_story_key": "markets.ft.com|2026-05-20|accelerate criminals enabled engineering full network report security",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "markets.ft.com",
+      "title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "usefulness_category": "Operational intelligence"
     },
     "vishbox ai agent based adaptive voice phishing simulation framework cybersecurity education": {
       "article_type": "Research paper",
@@ -2723,6 +2815,18 @@
       "source_domain": "theguardian.com",
       "title": "\u2018i broke completely\u2019 jobseekers africa being tricked slavery asia\u2019s cyberscam compounds",
       "usefulness_category": "Operational intelligence"
+    },
+    "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites": {
+      "article_type": "News report",
+      "normalised_title": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "normalized_title_fingerprint": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "parsed_date": "2026-06-07",
+      "raw_title": "\u2018Poisoned\u2019 AI: the ChatGPT shopping scams that lead to fake websites",
+      "same_story_key": "theguardian.com|2026-06-07|chatgpt fake lead scams shopping websites \u2018poisoned\u2019",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "usefulness_category": "Scam development"
     },
     "\u2018reservation hijacking\u2019 scams target travelers here\u2019s stay safe": {
       "article_type": "News report",
@@ -2857,6 +2961,30 @@
       "title": "Social Engineering Threat: Phishing Detection using Machine Learning Approach - ieeexplore.ieee.org",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXR2Z5b0t4TW9uclZHenhoWUlPUEZyeWtFUURZak45dS1fUXVoVXBfUEZfaVdrQzl4dUJGU1RveUFISVBWaXdQOXdsWml4OUFwSnpBZzFsN2tZQVBIYi1xRlJmQnp6cjV2LWVfZTVtRS0?oc=5",
       "usefulness_category": "Product idea / data source"
+    },
+    "06c1d9076f5b4f3cc801b7be15c49e2edf15028e72b96f9338329d120de78345": {
+      "article_type": "Research paper",
+      "normalised_title": "user centric phishing detection rag llm based approach",
+      "normalized_title_fingerprint": "user centric phishing detection rag llm based approach",
+      "parsed_date": "2026-01-29",
+      "same_story_key": "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "User-Centric Phishing Detection: A RAG and LLM-Based Approach",
+      "url": "https://arxiv.org/html/2601.21261v1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "0787edb0ca20ed7b9afa91b82c015c72384ab623175de10cf4fc23982660cbdf": {
+      "article_type": "Technical article",
+      "normalised_title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "normalized_title_fingerprint": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
+      "parsed_date": "2026-05-20",
+      "same_story_key": "markets.ft.com|2026-05-20|accelerate criminals enabled engineering full network report security",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "markets.ft.com",
+      "title": "Visa Threats Report: As Network Security Strengthens, Criminals Accelerate Shift to AI-Enabled Social Engineering",
+      "url": "https://markets.ft.com/data/announce/full?dockey=600-202605200916BIZWIRE_USPRX____20260520_BW153924-1",
+      "usefulness_category": "Operational intelligence"
     },
     "095c18b9bf53f5d8737b6529f96b3147b6d8c35fdd289b3439f3623b23a1e7b9": {
       "article_type": "News report",
@@ -3926,6 +4054,18 @@
       "url": "https://ieeexplore.ieee.org/iel8/6287639/11323511/11411806.pdf",
       "usefulness_category": "Product idea / data source"
     },
+    "6f66140733a3a8c6693d7bbbf6167db746d3bf50d6f3c6769a304832d71cd138": {
+      "article_type": "Enforcement report",
+      "normalised_title": "script reveals methods cambodian centre scamming australians",
+      "normalized_title_fingerprint": "script reveals methods cambodian centre scamming australians",
+      "parsed_date": "2026-06-08",
+      "same_story_key": "abc.net.au|2026-06-08|australians cambodian centre methods reveals scamming script",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "abc.net.au",
+      "title": "Script reveals methods of Cambodian centre scamming Australians",
+      "url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "702f1ceac60d39d630148a96d365aedbab273bc824fcf793387e389d922cccd0": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -4418,6 +4558,18 @@
       "url": "https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/",
       "usefulness_category": "Operational intelligence"
     },
+    "ac10275c49518ec8135c387917f351626a187419ba7b04968a24c93cb88787dd": {
+      "article_type": "News report",
+      "normalised_title": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "normalized_title_fingerprint": "\u2018poisoned\u2019 ai chatgpt shopping scams lead fake websites",
+      "parsed_date": "2026-06-07",
+      "same_story_key": "theguardian.com|2026-06-07|chatgpt fake lead scams shopping websites \u2018poisoned\u2019",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "\u2018Poisoned\u2019 AI: the ChatGPT shopping scams that lead to fake websites",
+      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "usefulness_category": "Scam development"
+    },
     "b12b9ebdfe114ffd85aef96a73727f252cfbcc62636a897bf67dd9d01f1db1f7": {
       "article_type": "Investigative report",
       "normalised_title": "he leaked secrets southeast asian scam compound then he had get out alive",
@@ -4813,6 +4965,18 @@
       "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
       "url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
       "usefulness_category": "Operational intelligence"
+    },
+    "dddba0a1c28248d792fb789f67b1143bc243bd9fbb4516cde398a6090fc65862": {
+      "article_type": "Research paper",
+      "normalised_title": "user centric phishing detection rag llm based approach",
+      "normalized_title_fingerprint": "user centric phishing detection rag llm based approach",
+      "parsed_date": "2026-01-29",
+      "same_story_key": "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user",
+      "sent_at": "2026-06-09T04:26:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "User-Centric Phishing Detection: A RAG and LLM-Based Approach",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQWFubC02dmFkNU9SNzNGQjlsNVctWkpRcGZxZ1d3bDNsMXRiTFlzdG5mNVh4MzNBcDdSd0lKMS00aU5vTXlxcTZNcw?oc=5",
+      "usefulness_category": "Product idea / data source"
     },
     "dfb8033d353fd0b8cc41c26a842d9f934991de17dd011463da8b6ed942287773": {
       "article_type": "News report",
