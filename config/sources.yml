@@ -4,7 +4,7 @@ news_max_article_age_days: 4
 platform_product_official_max_article_age_days: 30
 academic_research_max_article_age_days: 180
 investigative_longform_max_article_age_days: 90
-max_google_news_urls_to_resolve: 60
+max_google_news_urls_to_resolve: 120
 max_candidates_for_llm: 20
 min_articles_to_send: 1
 max_articles_to_send: 5
@@ -53,6 +53,20 @@ monitored_sources:
   - restofworld.org
   - graphika.com
   - bellingcat.com
+  - ft.com
+  - economist.com
+  - asia.nikkei.com
+  - nikkei.com
+  - channelnewsasia.com
+  - cna.com.sg
+  - bbc.com
+  - bbc.co.uk
+  - theguardian.com
+  - abc.net.au
+  - thediplomat.com
+  - spiegel.de
+  - reuters.com
+  - apnews.com
   - therecord.media
   - krebsonsecurity.com
   - technologyreview.com
@@ -65,14 +79,13 @@ monitored_sources:
   - ndss-symposium.org
   - techcrunch.com
   - theverge.com
-  - channelnewsasia.com
-  - cna.com.sg
 
 quality_filters:
   min_word_count_default: 600
   min_word_count_research_or_report: 800
   min_word_count_news: 400
-  inspect_top_n_candidates: 40
+  inspect_top_n_candidates: 80
+  max_research_items_shortlist: 8
   max_vendor_blog_items_final: 1
   require_at_least_one_technical: true
   require_at_least_one_deep_analysis: true
@@ -140,6 +153,10 @@ high_reputation_sources:
   - wsj.com
   - theguardian.com
   - bbc.com
+  - bbc.co.uk
+  - abc.net.au
+  - thediplomat.com
+  - spiegel.de
   - apnews.com
   - propublica.org
   - icij.org

@@ -54,6 +54,24 @@ MONITORED_SOURCE_QUERY_TERMS = (
     "fraud",
     "deepfake",
 )
+CURRENT_AFFAIRS_SOURCE_QUERY_TERMS = (
+    "scam",
+    "fraud",
+    "online fraud",
+    "AI fraud",
+    "deepfake scam",
+    "cybercrime",
+    "scam compound",
+    "pig butchering",
+    "human trafficking scam",
+    "phishing",
+)
+CURRENT_AFFAIRS_PRIORITY_QUERY_TERMS = (
+    "scam",
+    "fraud",
+    "AI fraud",
+    "scam compound",
+)
 INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS = (
     "scam investigation",
     "scam compound",
@@ -703,12 +721,18 @@ STRONG_SCAM_ANCHOR_TERMS = (
     "payment fraud",
     "fraud ring",
     "fraud syndicate",
+    "financial fraud",
+    "identity fraud",
+    "online fraud",
     "scam detection",
     "scam intervention",
     "scam triage",
     "interactive scammers",
     "victim as a service",
     "ai-enabled fraud",
+    "ai-powered fraud",
+    "gen ai fraud",
+    "deepfake fraud",
     "deepfake scam",
     "voice cloning scam",
     "synthetic identity fraud",
@@ -812,6 +836,27 @@ HIGH_VALUE_INVESTIGATIVE_DOMAINS = (
     "technologyreview.com",
     "datasociety.net",
     "cetas.turing.ac.uk",
+)
+HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS = (
+    "ft.com",
+    "economist.com",
+    "asia.nikkei.com",
+    "nikkei.com",
+    "channelnewsasia.com",
+    "cna.com.sg",
+    "wired.com",
+    "bbc.com",
+    "bbc.co.uk",
+    "theguardian.com",
+    "abc.net.au",
+    "thediplomat.com",
+    "spiegel.de",
+    "reuters.com",
+    "apnews.com",
+    "bloomberg.com",
+    "wsj.com",
+    "scmp.com",
+    "aljazeera.com",
 )
 HIGH_VALUE_PRODUCT_DOMAINS = (
     "techcrunch.com",
@@ -1198,6 +1243,20 @@ def is_longform_query_text(query: str) -> bool:
             "restofworld.org",
             "graphika.com",
             "bellingcat.com",
+            "ft.com",
+            "economist.com",
+            "asia.nikkei.com",
+            "nikkei.com",
+            "channelnewsasia.com",
+            "cna.com.sg",
+            "bbc.com",
+            "bbc.co.uk",
+            "theguardian.com",
+            "abc.net.au",
+            "thediplomat.com",
+            "spiegel.de",
+            "reuters.com",
+            "apnews.com",
             "therecord.media",
             "krebsonsecurity.com",
             "technologyreview.com",
@@ -1216,6 +1275,22 @@ def is_longform_query_text(query: str) -> bool:
 
 def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | None = None) -> list[dict[str, str]]:
     queries: list[dict[str, str]] = []
+    seen_source_domains: set[str] = set()
+
+    for domain in configured_monitored_sources(config or {}):
+        if not any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
+            continue
+        seen_source_domains.add(domain)
+        for term in CURRENT_AFFAIRS_PRIORITY_QUERY_TERMS:
+            query = f"site:{domain} {term}"
+            queries.append(
+                {
+                    "name": domain,
+                    "query": query,
+                    "url": google_news_rss_url(query),
+                    "priority": "monitored_current_affairs",
+                }
+            )
 
     targeted_queries = sorted(
         SPECIFIC_PRODUCT_RADAR_QUERIES,
@@ -1241,14 +1316,19 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
             }
         )
 
-    seen_source_domains: set[str] = set()
     for domain in configured_monitored_sources(config or {}):
+        if domain in seen_source_domains:
+            continue
         seen_source_domains.add(domain)
-        terms = (
-            INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS + MONITORED_SOURCE_QUERY_TERMS
-            if any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS)
-            else MONITORED_SOURCE_QUERY_TERMS
-        )
+        if any(domain.endswith(host) for host in HIGH_VALUE_INVESTIGATIVE_DOMAINS):
+            terms = INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS + CURRENT_AFFAIRS_SOURCE_QUERY_TERMS
+            priority = "monitored_investigative"
+        elif any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
+            terms = CURRENT_AFFAIRS_SOURCE_QUERY_TERMS
+            priority = "monitored_current_affairs"
+        else:
+            terms = MONITORED_SOURCE_QUERY_TERMS
+            priority = "monitored_source"
         for term in terms:
             query = f"site:{domain} {term}"
             queries.append(
@@ -1256,7 +1336,7 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
                     "name": domain,
                     "query": query,
                     "url": google_news_rss_url(query),
-                    "priority": "monitored_source",
+                    "priority": priority,
                 }
             )
 
@@ -1300,6 +1380,8 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
 
 def query_group_for_query(query: str, priority: str = "") -> str:
     lowered = query.lower()
+    if priority == "monitored_current_affairs" or any(domain in lowered for domain in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
+        return "current_affairs"
     if any(term in lowered for term in ("victim psychology", "victim persuasion", "victim vulnerability", "grooming", "harmful persuasion", "decision making", "conversation analysis")):
         return "psychology"
     if any(term in lowered for term in ("arxiv.org", "ssrn.com", "osf.io", "dl.acm.org", "ieee.org", "usenix.org", "ndss-symposium.org", "benchmark", "research", "study")):
@@ -1872,7 +1954,7 @@ def classify_article_type(item: dict[str, Any]) -> str:
     if any(term in haystack for term in ENFORCEMENT_TERMS):
         return "Enforcement report"
 
-    if any(domain.endswith(host) for host in ("wired.com", "reuters.com", "ft.com", "theguardian.com", "bbc.com", "therecord.media", "restofworld.org", "404media.co", "techcrunch.com", "theverge.com")):
+    if any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS + ("therecord.media", "restofworld.org", "404media.co", "techcrunch.com", "theverge.com")):
         return "News report"
 
     if any(domain.endswith(host) for host in ("datasociety.net", "cetas.turing.ac.uk", "graphika.com", "bellingcat.com", "technologyreview.com", "hai.stanford.edu")):
@@ -2748,6 +2830,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score += 60
     if is_platform_product_item(candidate):
         quality_score += 65
+    if is_reputable_current_affairs_item(candidate):
+        quality_score += 70
     if is_modus_infrastructure_item(candidate) and not is_local_sea_item(candidate):
         quality_score += 70
 
@@ -2772,6 +2856,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score += 45
     elif any(domain.endswith(host) for host in ("therecord.media", "krebsonsecurity.com", "theverge.com", "techcrunch.com")):
         quality_score += 30
+    elif any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
+        quality_score += 25
     elif any(domain.endswith(host) for host in ("police.gov.sg", "mas.gov.sg", "imda.gov.sg", "gov.sg", "csa.gov.sg", "fbi.gov", "europol.europa.eu", "interpol.int", "cisa.gov", "nist.gov")):
         quality_score += 30
     elif any(domain.endswith(host) for host in ("openai.com", "anthropic.com", "security.googleblog.com", "cloud.google.com", "mandiant.com", "microsoft.com")):
@@ -3211,6 +3297,34 @@ def is_high_value_product_radar_item(item: dict[str, Any]) -> bool:
     }
 
 
+def is_reputable_current_affairs_item(item: dict[str, Any]) -> bool:
+    if is_research_item(item):
+        return False
+    if not item_domain_matches(item, HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
+        return False
+    if item.get("anti_scam_relevance") != "direct":
+        return False
+    article_type = item.get("article_type", classify_article_type(item))
+    usefulness_category = item.get("usefulness_category", classify_usefulness_category(item))
+    if usefulness_category == "General context":
+        return False
+    return article_type in {
+        "News report",
+        "Investigative report",
+        "Deep analysis",
+        "Policy analysis",
+        "Enforcement report",
+        "Official report",
+        "Technical article",
+    } or usefulness_category in {
+        "Scam development",
+        "Operational intelligence",
+        "Deepfakes, synthetic identity & impersonation",
+        "Technical abuse / vulnerability",
+        "Platform policy / product change",
+    }
+
+
 def is_research_item(item: dict[str, Any]) -> bool:
     return item.get("article_type", classify_article_type(item)) == "Research paper"
 
@@ -3301,6 +3415,8 @@ def final_ineligibility_reason(
         "Operational intelligence",
         "Technical abuse / vulnerability",
         "Product idea / data source",
+        "Deepfakes, synthetic identity & impersonation",
+        "Detection / analytics / engineering insight",
     }:
         return None
     return f"{relevance}_anti_scam_relevance"
@@ -3619,6 +3735,7 @@ def build_quality_shortlist(
                     add_item(item)
                     added += 1
 
+    add_bucket(is_reputable_current_affairs_item, 3)
     add_bucket(is_non_academic_longform_operational_item, 4)
     add_bucket(is_longform_investigative_item, 3)
     add_bucket_prefer_non_research(lambda item: is_modus_infrastructure_item(item) or item.get("usefulness_category") == "Operational intelligence", 3)
@@ -3654,6 +3771,7 @@ def identify_must_include_candidates(items: list[dict[str, Any]], config: dict[s
     chosen: list[dict[str, Any]] = []
     chosen_keys: set[str] = set()
     buckets: list[tuple[Any, str]] = [
+        (is_reputable_current_affairs_item, "Best available reputable current-affairs / news / longform item"),
         (
             is_non_academic_longform_operational_item,
             "Best available non-academic longform / investigative / operational-intelligence item",
@@ -3728,6 +3846,41 @@ def ensure_must_include_in_shortlist(
     return dedupe_final_items(updated)[:shortlist_count]
 
 
+def refresh_shortlist_quality(
+    shortlist: list[dict[str, Any]],
+    config: dict[str, Any],
+    quality_cache: dict[str, Any],
+    stats: dict[str, Any],
+) -> list[dict[str, Any]]:
+    refreshed: list[dict[str, Any]] = []
+    rejected_count = 0
+    for item in shortlist:
+        candidate = dict(item)
+        before_excerpt = bool(candidate.get("article_excerpt"))
+        inspection = inspect_article_quality(candidate, config, quality_cache)
+        candidate.update(inspection)
+        candidate["article_type"] = classify_article_type(candidate)
+        candidate["usefulness_category"] = classify_usefulness_category(candidate)
+        candidate["source_reputation"] = source_reputation(candidate, config)
+        candidate["quality_score"] = compute_quality_score(candidate, config)
+        rejection_reason = quality_rejection_reason(candidate, config)
+        if rejection_reason and not soft_final_rejection_allowed(candidate, config):
+            candidate["rejection_reason"] = rejection_reason
+            candidate["quality_rejected"] = True
+            candidate["quality_score"] = -999
+            rejected_count += 1
+            continue
+        candidate["rejection_reason"] = rejection_reason
+        candidate["quality_rejected"] = bool(rejection_reason)
+        if not before_excerpt and candidate.get("article_excerpt"):
+            stats["shortlist_article_excerpt_added_count"] = stats.get("shortlist_article_excerpt_added_count", 0) + 1
+        refreshed.append(candidate)
+
+    stats["shortlist_quality_refreshed_count"] = stats.get("shortlist_quality_refreshed_count", 0) + len(shortlist)
+    stats["shortlist_quality_rejected_count"] = stats.get("shortlist_quality_rejected_count", 0) + rejected_count
+    return dedupe_final_items(refreshed)
+
+
 def build_pre_gemini_shortlist(
     ranked_candidates: list[dict[str, Any]],
     shortlist_count: int,
@@ -3739,6 +3892,7 @@ def build_pre_gemini_shortlist(
     must_include = identify_must_include_candidates(deduped_candidates, config)
     shortlist = ensure_must_include_in_shortlist(shortlist, must_include, shortlist_count)
     category_predicates: dict[str, Any] = {
+        "reputable_current_affairs": is_reputable_current_affairs_item,
         "research_psychology": is_research_psychology_item,
         "non_academic_longform_operational": is_non_academic_longform_operational_item,
         "longform_investigative": is_longform_investigative_item,
@@ -3754,6 +3908,9 @@ def build_pre_gemini_shortlist(
         name: sum(1 for item in deduped_candidates if eligible_for_shortlist(item, config) and predicate(item))
         for name, predicate in category_predicates.items()
     }
+    stats["reputable_current_affairs_candidates_available_count"] = stats["category_candidate_available_counts"].get(
+        "reputable_current_affairs", 0
+    )
     stats["research_candidates_available_count"] = stats["category_candidate_available_counts"].get("research_psychology", 0)
     stats["non_academic_longform_operational_candidates_available_count"] = stats["category_candidate_available_counts"].get(
         "non_academic_longform_operational", 0
@@ -3857,6 +4014,7 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         if match:
             selected.append(match)
 
+    add_match(is_reputable_current_affairs_item)
     add_match(is_non_academic_longform_operational_item)
     add_match(is_psychology_item)
     add_match(is_investigative_or_operational_item)
@@ -4394,7 +4552,7 @@ def is_investigative_longform_recency_exception(item: dict[str, Any]) -> bool:
         "cetas.turing.ac.uk",
         "therecord.media",
         "krebsonsecurity.com",
-    )
+    ) + HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS
     if article_type in {"News report", "Enforcement report", "Official report", "Advisory / guidance"}:
         return False
     return (
@@ -4969,6 +5127,7 @@ PRIORITY_RESOLUTION_QUERY_GROUPS = {
     "psychology",
     "academic",
     "investigative",
+    "current_affairs",
     "international",
     "platform_product",
     "monitored_source",
@@ -4999,6 +5158,7 @@ def url_resolution_priority(candidate: dict[str, Any], now: datetime) -> tuple[i
         "psychology": 110,
         "academic": 105,
         "investigative": 105,
+        "current_affairs": 105,
         "international": 100,
         "platform_product": 95,
         "monitored_source": 90,
@@ -5147,6 +5307,9 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"Total unresolved Google News candidates filtered: {stats.get('unresolved_google_news_candidate_filtered_count', 0)}")
     print(f"Total ranked unseen candidates: {stats['ranked_unseen_candidate_count']}")
     print(f"Total candidates quality-inspected: {stats.get('quality_inspected_candidate_count', 0)}")
+    print(f"shortlist_quality_refreshed_count: {stats.get('shortlist_quality_refreshed_count', 0)}")
+    print(f"shortlist_article_excerpt_added_count: {stats.get('shortlist_article_excerpt_added_count', 0)}")
+    print(f"shortlist_quality_rejected_count: {stats.get('shortlist_quality_rejected_count', 0)}")
     print(f"Total candidates rejected as thin/salesy/vendor pitch: {stats.get('quality_rejected_candidate_count', 0)}")
     print(f"rejected_fetch_failed_count: {stats.get('rejected_fetch_failed_count', 0)}")
     print(f"rejected_irrelevant_count: {stats.get('rejected_irrelevant_count', 0)}")
@@ -5169,6 +5332,7 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
             f"url={item.get('canonical_url') or item.get('url')}"
         )
     print(f"category slot fill counts: {stats.get('category_slot_fill_counts', {})}")
+    print(f"reputable current-affairs candidates available: {stats.get('reputable_current_affairs_candidates_available_count', 0)}")
     print(f"research candidates available: {stats.get('research_candidates_available_count', 0)}")
     print(
         "non-academic longform/operational candidates available: "
@@ -6187,6 +6351,7 @@ def run_pipeline(
             if resolve_urls and shortlist:
                 resolve_started = time.monotonic()
                 url_cache = load_cache(URL_CACHE_PATH)
+                quality_cache = load_cache(QUALITY_CACHE_PATH)
                 shortlist = canonicalise_top_candidates(
                     shortlist,
                     limit=len(shortlist),
@@ -6194,8 +6359,10 @@ def run_pipeline(
                     stats=stats,
                     url_cache=url_cache,
                 )
+                shortlist = refresh_shortlist_quality(shortlist, config, quality_cache, stats)
                 timing["url_resolution_runtime_seconds"] = time.monotonic() - resolve_started
                 save_cache(URL_CACHE_PATH, url_cache)
+                save_cache(QUALITY_CACHE_PATH, quality_cache)
             stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
             return {
                 "rss_queries_run": 0,
@@ -6272,6 +6439,7 @@ def run_pipeline(
         if resolve_urls and shortlist:
             resolve_started = time.monotonic()
             url_cache = load_cache(URL_CACHE_PATH)
+            quality_cache = load_cache(QUALITY_CACHE_PATH)
             shortlist = canonicalise_top_candidates(
                 shortlist,
                 limit=len(shortlist),
@@ -6279,8 +6447,10 @@ def run_pipeline(
                 stats=stats,
                 url_cache=url_cache,
             )
+            shortlist = refresh_shortlist_quality(shortlist, config, quality_cache, stats)
             timing["url_resolution_runtime_seconds"] = time.monotonic() - resolve_started
             save_cache(URL_CACHE_PATH, url_cache)
+            save_cache(QUALITY_CACHE_PATH, quality_cache)
         stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
         return {
             "rss_queries_run": 0,
@@ -6338,7 +6508,9 @@ def run_pipeline(
             stats=stats,
             url_cache=url_cache,
         )
+        shortlist = refresh_shortlist_quality(shortlist, config, quality_cache, stats)
         save_cache(URL_CACHE_PATH, url_cache)
+        save_cache(QUALITY_CACHE_PATH, quality_cache)
     stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
     save_candidate_cache(quality_ranked_candidates, config)
 
