@@ -1171,6 +1171,40 @@
         "Product idea / data source": 1,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 2,
+        "Investigative report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 43,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 17,
+        "current_affairs": 20,
+        "investigative": 2,
+        "psychology": 4
+      },
+      "shortlist_count": 10,
+      "source_domain_distribution": {
+        "abc.net.au": 2,
+        "arxiv.org": 3,
+        "bbc.com": 2,
+        "channelnewsasia.com": 1,
+        "graphika.com": 1,
+        "theguardian.com": 1
+      },
+      "timestamp": "2026-06-10T04:46:46+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Deepfakes, synthetic identity & impersonation": 1,
+        "Operational intelligence": 1,
+        "Product idea / data source": 1,
+        "Scam development": 1
+      }
     }
   ]
 }

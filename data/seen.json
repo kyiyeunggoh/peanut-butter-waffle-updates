@@ -56,6 +56,20 @@
       "url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "abc.net.au|2026-06-05|australia chinese community fake millions police scam stealing": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake police scam stealing millions australia s chinese community",
+      "normalized_title_fingerprint": "fake police scam stealing millions australia s chinese community",
+      "original_url": "https://www.abc.net.au/news/2026-06-06/chinese-police-scam-banks-savings-scammers-fake-documents/106731990",
+      "parsed_date": "2026-06-05",
+      "raw_title": "The fake police scam stealing millions from Australia's Chinese community - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-05|australia chinese community fake millions police scam stealing",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "abc.net.au",
+      "title": "fake police scam stealing millions australia s chinese community",
+      "url": "https://www.abc.net.au/news/2026-06-06/chinese-police-scam-banks-savings-scammers-fake-documents/106731990",
+      "usefulness_category": "Scam development"
+    },
     "abc.net.au|2026-06-08|australians cambodian centre methods reveals scamming script": {
       "article_type": "Enforcement report",
       "normalised_title": "script reveals methods cambodian centre scamming australians",
@@ -166,6 +180,20 @@
       "source_domain": "arxiv.org",
       "title": "user centric phishing detection rag llm based approach",
       "url": "https://arxiv.org/html/2601.21261v1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-02-13|benchmark dataset high large phishing phreshphish quality real": {
+      "article_type": "Research paper",
+      "normalised_title": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "normalized_title_fingerprint": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od2dtaFAzb0N3R3NUMTh4cnpHMjJ5QXhlLUY2NjJSVUV0TDEwbTBrLXNnNmpDdlhGMTBmSHhiYV9jeFA3QjU1dkNaSQ?oc=5",
+      "parsed_date": "2026-02-13",
+      "raw_title": "PhreshPhish: A Real-World, High-Quality, Large-Scale Phishing Website Dataset and Benchmark - arXiv",
+      "same_story_key": "arxiv.org|2026-02-13|benchmark dataset high large phishing phreshphish quality real",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "url": "https://arxiv.org/html/2507.10854v2",
       "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-02-26|agent augmented detection llm memophishagent memory modal multi": {
@@ -642,6 +670,20 @@
       "source_domain": "graphika.com",
       "title": "fauxmantic overtures ai dating profiles driving romance scam networks",
       "url": "https://graphika.com/reports/fauxmantic-overtures",
+      "usefulness_category": "Operational intelligence"
+    },
+    "graphika.com|2026-06-09|graphika webinars": {
+      "article_type": "Investigative report",
+      "normalised_title": "webinars \u2014 graphika",
+      "normalized_title_fingerprint": "webinars \u2014 graphika",
+      "original_url": "https://www.graphika.com/webinars",
+      "parsed_date": "2026-06-09",
+      "raw_title": "Webinars \u2014 Graphika - Graphika",
+      "same_story_key": "graphika.com|2026-06-09|graphika webinars",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "graphika.com",
+      "title": "webinars \u2014 graphika",
+      "url": "https://www.graphika.com/webinars",
       "usefulness_category": "Operational intelligence"
     },
     "ieeexplore.ieee.org|2025-01-06|comparative deberta detection language large models phishing securenet": {
@@ -1204,6 +1246,20 @@
       "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
       "usefulness_category": "Scam development"
     },
+    "theguardian.com|2026-06-09|andrew bailey bank deepfakes england farage fight nigel": {
+      "article_type": "Enforcement report",
+      "normalised_title": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "normalized_title_fingerprint": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "original_url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+      "parsed_date": "2026-06-09",
+      "raw_title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread - The Guardian",
+      "same_story_key": "theguardian.com|2026-06-09|andrew bailey bank deepfakes england farage fight nigel",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "theguardian.com",
+      "title": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -1676,6 +1732,18 @@
       "title": "artificial intelligence phishing detection practical framework modern email security",
       "usefulness_category": "Product idea / data source"
     },
+    "bank england warns ai scams deepfakes farage bailey fight spread": {
+      "article_type": "Enforcement report",
+      "normalised_title": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "normalized_title_fingerprint": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "parsed_date": "2026-06-09",
+      "raw_title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread - The Guardian",
+      "same_story_key": "theguardian.com|2026-06-09|andrew bailey bank deepfakes england farage fight nigel",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "theguardian.com",
+      "title": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
     "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar": {
       "article_type": "News report",
       "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
@@ -1903,6 +1971,18 @@
       "source_domain": "bbc.com",
       "title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
       "usefulness_category": "Operational intelligence"
+    },
+    "fake police scam stealing millions australia s chinese community": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake police scam stealing millions australia s chinese community",
+      "normalized_title_fingerprint": "fake police scam stealing millions australia s chinese community",
+      "parsed_date": "2026-06-05",
+      "raw_title": "The fake police scam stealing millions from Australia's Chinese community - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-05|australia chinese community fake millions police scam stealing",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "abc.net.au",
+      "title": "fake police scam stealing millions australia s chinese community",
+      "usefulness_category": "Scam development"
     },
     "fauxmantic overtures ai dating profiles driving romance scam networks": {
       "article_type": "Investigative report",
@@ -2226,6 +2306,18 @@
       "sent_at": "2026-06-05T04:46:13+00:00",
       "source_domain": "arxiv.org",
       "title": "phishdebate llm based multi agent framework phishing website detection",
+      "usefulness_category": "Product idea / data source"
+    },
+    "phreshphish real world high quality large scale phishing website dataset benchmark": {
+      "article_type": "Research paper",
+      "normalised_title": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "normalized_title_fingerprint": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "parsed_date": "2026-02-13",
+      "raw_title": "PhreshPhish: A Real-World, High-Quality, Large-Scale Phishing Website Dataset and Benchmark - arXiv",
+      "same_story_key": "arxiv.org|2026-02-13|benchmark dataset high large phishing phreshphish quality real",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phreshphish real world high quality large scale phishing website dataset benchmark",
       "usefulness_category": "Product idea / data source"
     },
     "physe psychological framework real time ar llm social engineering attacks": {
@@ -2778,6 +2870,18 @@
       "sent_at": "2026-06-02T05:02:34+00:00",
       "source_domain": "wired.com",
       "title": "watch source inside crypto scam slave compound hacklab",
+      "usefulness_category": "Operational intelligence"
+    },
+    "webinars \u2014 graphika": {
+      "article_type": "Investigative report",
+      "normalised_title": "webinars \u2014 graphika",
+      "normalized_title_fingerprint": "webinars \u2014 graphika",
+      "parsed_date": "2026-06-09",
+      "raw_title": "Webinars \u2014 Graphika - Graphika",
+      "same_story_key": "graphika.com|2026-06-09|graphika webinars",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "graphika.com",
+      "title": "webinars \u2014 graphika",
       "usefulness_category": "Operational intelligence"
     },
     "\u2018100 video calls per day\u2019 models applying face ai scams": {
@@ -3598,6 +3702,30 @@
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6738818.pdf?abstractid=6738818&mirid=1",
       "usefulness_category": "Product idea / data source"
     },
+    "42677ea3728c41a76cc8b2a099e61258cb0f9f2901f22e92e9ab5b3bc4de8752": {
+      "article_type": "Enforcement report",
+      "normalised_title": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "normalized_title_fingerprint": "bank england warns ai scams deepfakes farage bailey fight spread",
+      "parsed_date": "2026-06-09",
+      "same_story_key": "theguardian.com|2026-06-09|andrew bailey bank deepfakes england farage fight nigel",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread - The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "43f58738bd6008bba9d09073722072fa84fa669886d0199f88d8957384a77906": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fake police scam stealing millions australia s chinese community",
+      "normalized_title_fingerprint": "fake police scam stealing millions australia s chinese community",
+      "parsed_date": "2026-06-05",
+      "same_story_key": "abc.net.au|2026-06-05|australia chinese community fake millions police scam stealing",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "abc.net.au",
+      "title": "The fake police scam stealing millions from Australia's Chinese community - Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/news/2026-06-06/chinese-police-scam-banks-savings-scammers-fake-documents/106731990",
+      "usefulness_category": "Scam development"
+    },
     "4547138f1cfb7680ce06776da635d640f29ff655833d24b393a9064eb5d57be3": {
       "article_type": "Research paper",
       "normalised_title": "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks",
@@ -3849,6 +3977,18 @@
       "title": "\u2018I broke completely\u2019: how jobseekers from Africa are being tricked into slavery in Asia\u2019s cyberscam compounds",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmtudFZ1NUM5bDlpbHBrZ1l1LTdobTVDeUVqTVJ2MTMteHdscGp1LTNuaFcwemRBaS01STJFaUktd25hMnRCMmxwaUJPM2t4cUVkV015emlncjJHSnJ3X3NfTm5OdHM1eDZibnptNm9OTnEzUEJvUzBUZG9VS0hCUlBrd3B2QkFNaTBSVUt4cm9Pb1RKeFhGSjlLb0xpV0NvUmhnSE1pY181ejFYOUI5LXFYdWw1SnFvdlUtNkdENERRVURpZjhlYw?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "5d0e6c796548b5faf5a25e3fb9dafb9c134c8dd001be69846ba49dfdd7697e27": {
+      "article_type": "Research paper",
+      "normalised_title": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "normalized_title_fingerprint": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "parsed_date": "2026-02-13",
+      "same_story_key": "arxiv.org|2026-02-13|benchmark dataset high large phishing phreshphish quality real",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "PhreshPhish: A Real-World, High-Quality, Large-Scale Phishing Website Dataset and Benchmark - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5od2dtaFAzb0N3R3NUMTh4cnpHMjJ5QXhlLUY2NjJSVUV0TDEwbTBrLXNnNmpDdlhGMTBmSHhiYV9jeFA3QjU1dkNaSQ?oc=5",
+      "usefulness_category": "Product idea / data source"
     },
     "5d6bba2c29704b51d972097be42cc6e2468e0616628cb91cc51277fc441c695f": {
       "article_type": "Investigative report",
@@ -4546,6 +4686,18 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3U3czlnNWJfV294alp0ZkZSV0NNOGVsNWVqUmNLYW4tcERtTF9ocE5QdTN3UTNlbU03ME1sYUNVdW1KcjFrcVVqVVFQUUZ3aTJsUTFJNVlGR1ZwUktEa3Y2bWdMMzhod1RWdXlQWGZ6aXBfR28xNjI1T2NmMW0wVVRKalNfRnp5Tkd2UDBITnZUa3d2QmZvWnhHcTZWa1k3VlR3QU5tQmdBaWJtbzQ1NDlXR2Ftd2hnOEY0by1lanE2MUtfQTVWTlNVYWxXMzVn?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "a7b4f46c86c3e2b03b62b16e674ca1d66b99f08bf02751039a5f424647f10ef1": {
+      "article_type": "Research paper",
+      "normalised_title": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "normalized_title_fingerprint": "phreshphish real world high quality large scale phishing website dataset benchmark",
+      "parsed_date": "2026-02-13",
+      "same_story_key": "arxiv.org|2026-02-13|benchmark dataset high large phishing phreshphish quality real",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "PhreshPhish: A Real-World, High-Quality, Large-Scale Phishing Website Dataset and Benchmark - arXiv",
+      "url": "https://arxiv.org/html/2507.10854v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "ab7d1c8d79f3e9cc86ecfbba6109951143b6d02cf3e0291e0b1fd88a8e5db3b6": {
       "article_type": "Investigative report",
       "normalised_title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
@@ -4760,6 +4912,18 @@
       "source_domain": "reuters.com",
       "title": "Cambodian scam compound yields trove of fraud evidence, Thai military says - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNUpfRXB6dm9TQmVhRmJKd0lHaEVacWdJeHA2aXVYN1Vjb3ByUlFlbGs5WGNyemVtaGJKbWV1RHVwYld2bHNDVUJ1eDQ3cW9EWW55TnRRbDZUQjd5TjlqemJ3WUl3T0gyNXl5RERzeS1jV1A2aUZFNVU4aU1LeFd5WXVGNVo0cGNuUmN3ck1NVG1xdUEzdU11UUtRZTVyVFBjV0VWTEFSWm03dTlDbmk1akdhQW1PTVQ1akJYbG9GNmhhejA?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "c907b498936d06560504c92075d683c11b506db43ea0452628ab192ddad22b08": {
+      "article_type": "Investigative report",
+      "normalised_title": "webinars \u2014 graphika",
+      "normalized_title_fingerprint": "webinars \u2014 graphika",
+      "parsed_date": "2026-06-09",
+      "same_story_key": "graphika.com|2026-06-09|graphika webinars",
+      "sent_at": "2026-06-10T04:46:47+00:00",
+      "source_domain": "graphika.com",
+      "title": "Webinars \u2014 Graphika - Graphika",
+      "url": "https://www.graphika.com/webinars",
       "usefulness_category": "Operational intelligence"
     },
     "c9cf07fd9209587062586be1f73ef565edf083122e17f1748105d45d0665ebea": {
