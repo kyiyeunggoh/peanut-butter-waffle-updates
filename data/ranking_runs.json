@@ -1273,6 +1273,38 @@
         "Research / novel method": 2,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 41,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 12,
+        "current_affairs": 23,
+        "investigative": 2,
+        "psychology": 4
+      },
+      "shortlist_count": 11,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "arxiv.org": 4,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 2,
+        "wired.com": 1
+      },
+      "timestamp": "2026-06-13T04:50:21+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Product idea / data source": 1,
+        "Research / novel method": 1,
+        "Scam development": 1
+      }
     }
   ]
 }

@@ -252,6 +252,20 @@
       "url": "https://arxiv.org/pdf/2604.11752",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source": {
+      "article_type": "Research paper",
+      "normalised_title": "guardphish securing open source llms phishing abuse",
+      "normalized_title_fingerprint": "guardphish securing open source llms phishing abuse",
+      "original_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tTFBOVHJ5ZHFwNFM2YlAybml1anhZdHZsVkFpMXJ4aDM0SmtYWVp0N2xmYXpvVl9xSUFCazNaOHFLQXNnSTY4?oc=5",
+      "parsed_date": "2026-04-19",
+      "raw_title": "GuardPhish: Securing Open-Source LLMs from Phishing Abuse - arXiv",
+      "same_story_key": "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "guardphish securing open source llms phishing abuse",
+      "url": "https://arxiv.org/pdf/2604.17313",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-04-25|against attacks cross defense engineering llm social stack": {
       "article_type": "Research paper",
       "normalised_title": "unseen cross stack llm unlearning defense against ar llm social engineering attacks",
@@ -432,6 +446,20 @@
       "source_domain": "arxiv.org",
       "title": "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks",
       "url": "https://arxiv.org/pdf/2605.31257",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-06-05|conversation dataset detection expanded multi smishing synthetic turn": {
+      "article_type": "Research paper",
+      "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "normalized_title_fingerprint": "expanded synthetic conversation dataset multi turn smishing detection",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwOEZaVUpMVjI1ZDNiTl9kOWFWMUJmdEhuZ2drY1MxSzZwVFRXQXZsN2NaYUZOYm1mSERoREUyUkZNMEk5bHpLcHpvYw?oc=5",
+      "parsed_date": "2026-06-05",
+      "raw_title": "An Expanded Synthetic Conversation Dataset for Multi-Turn Smishing Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-06-05|conversation dataset detection expanded multi smishing synthetic turn",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "url": "https://arxiv.org/html/2606.06879v1",
       "usefulness_category": "Product idea / data source"
     },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
@@ -1693,6 +1721,20 @@
       "title": "lloyds using agentic ai supercharge fight against fraud",
       "url": "https://www.wired.com/sponsored/story/lloyds-banking-agentic-ai-fight-against-fraud/",
       "usefulness_category": "Scam development"
+    },
+    "wired.com|2026-06-11|alone buying glp i\u2019m not online scammed was": {
+      "article_type": "News report",
+      "normalised_title": "i was scammed buying glp 1s online i\u2019m not alone",
+      "normalized_title_fingerprint": "i was scammed buying glp 1s online i\u2019m not alone",
+      "original_url": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
+      "parsed_date": "2026-06-11",
+      "raw_title": "I Was Scammed Buying GLP-1s Online. I\u2019m Not Alone - WIRED",
+      "same_story_key": "wired.com|2026-06-11|alone buying glp i\u2019m not online scammed was",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "wired.com",
+      "title": "i was scammed buying glp 1s online i\u2019m not alone",
+      "url": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
+      "usefulness_category": "Scam development"
     }
   },
   "titles": {
@@ -2068,6 +2110,18 @@
       "title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
       "usefulness_category": "Product idea / data source"
     },
+    "expanded synthetic conversation dataset multi turn smishing detection": {
+      "article_type": "Research paper",
+      "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "normalized_title_fingerprint": "expanded synthetic conversation dataset multi turn smishing detection",
+      "parsed_date": "2026-06-05",
+      "raw_title": "An Expanded Synthetic Conversation Dataset for Multi-Turn Smishing Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-06-05|conversation dataset detection expanded multi smishing synthetic turn",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "fake australian chinese brazilian police stations bbc goes inside seized scam compound": {
       "article_type": "Enforcement report",
       "normalised_title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
@@ -2164,6 +2218,18 @@
       "title": "graphika news talking romance scams cyber frontlines",
       "usefulness_category": "Operational intelligence"
     },
+    "guardphish securing open source llms phishing abuse": {
+      "article_type": "Research paper",
+      "normalised_title": "guardphish securing open source llms phishing abuse",
+      "normalized_title_fingerprint": "guardphish securing open source llms phishing abuse",
+      "parsed_date": "2026-04-19",
+      "raw_title": "GuardPhish: Securing Open-Source LLMs from Phishing Abuse - arXiv",
+      "same_story_key": "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "guardphish securing open source llms phishing abuse",
+      "usefulness_category": "Research / novel method"
+    },
     "guardsec multi modal web platform real time digital fraud detection entity verification connection security": {
       "article_type": "Research paper",
       "normalised_title": "guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis",
@@ -2211,6 +2277,18 @@
       "source_domain": "dl.acm.org",
       "title": "human factors information security quantitative study technical solutions prevent social engineering attacks",
       "usefulness_category": "Research / novel method"
+    },
+    "i was scammed buying glp 1s online i\u2019m not alone": {
+      "article_type": "News report",
+      "normalised_title": "i was scammed buying glp 1s online i\u2019m not alone",
+      "normalized_title_fingerprint": "i was scammed buying glp 1s online i\u2019m not alone",
+      "parsed_date": "2026-06-11",
+      "raw_title": "I Was Scammed Buying GLP-1s Online. I\u2019m Not Alone - WIRED",
+      "same_story_key": "wired.com|2026-06-11|alone buying glp i\u2019m not online scammed was",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "wired.com",
+      "title": "i was scammed buying glp 1s online i\u2019m not alone",
+      "usefulness_category": "Scam development"
     },
     "ice phishing scammers sending support ice emails steal credentials": {
       "article_type": "Investigative report",
@@ -3678,6 +3756,18 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wS3VsQmxyb2hLdnN5WmVUVWJFbHFGUlQ2dktfWV9oOVotZGpzRllRdE9aalhqZDBnWldWREtDNTdKWWhoTUdWOWg4b2VLYTlOdV9aVjBxbEM0Yjlicm5tQ0dDN1JqR3c5bW04NWl5c2k?oc=5",
       "usefulness_category": "General context"
     },
+    "33e8941ba3bd26f616f1d8762845d32f7e389c4800c6a009e3c435ea48df4818": {
+      "article_type": "Research paper",
+      "normalised_title": "guardphish securing open source llms phishing abuse",
+      "normalized_title_fingerprint": "guardphish securing open source llms phishing abuse",
+      "parsed_date": "2026-04-19",
+      "same_story_key": "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "GuardPhish: Securing Open-Source LLMs from Phishing Abuse - arXiv",
+      "url": "https://arxiv.org/pdf/2604.17313",
+      "usefulness_category": "Research / novel method"
+    },
     "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
       "article_type": "News report",
       "normalised_title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
@@ -4145,6 +4235,18 @@
       "title": "Making Sense of Scams: Understanding Scam Conversations Through Multi-Level Alignment",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9nSHN2T2ZJckVNUEp4aGw3UzVVNnliVUJhUnZwdzNZQVU4ajBUajNiSG5SdkNJV29sRkhfNUhoNmtac1dvT28w?oc=5",
       "usefulness_category": "Research / novel method"
+    },
+    "5b973f1d175c56bdcedc4c23b9aad6abd2f4d1251601408ef07becac76f1ebe7": {
+      "article_type": "Research paper",
+      "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "normalized_title_fingerprint": "expanded synthetic conversation dataset multi turn smishing detection",
+      "parsed_date": "2026-06-05",
+      "same_story_key": "arxiv.org|2026-06-05|conversation dataset detection expanded multi smishing synthetic turn",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "An Expanded Synthetic Conversation Dataset for Multi-Turn Smishing Detection - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwOEZaVUpMVjI1ZDNiTl9kOWFWMUJmdEhuZ2drY1MxSzZwVFRXQXZsN2NaYUZOYm1mSERoREUyUkZNMEk5bHpLcHpvYw?oc=5",
+      "usefulness_category": "Product idea / data source"
     },
     "5bf07ea0ce33ff6655b0f1904408970ce748bf969e3b8c19c0a4fe7b710e98a2": {
       "article_type": "Research paper",
@@ -4998,6 +5100,18 @@
       "url": "https://www.straitstimes.com/asia/se-asia/187-arrested-as-malaysian-police-bust-global-scam-rings",
       "usefulness_category": "Operational intelligence"
     },
+    "b8988a16232797359a0c2e428552f30b77e825725b513faee00242fec43cafe7": {
+      "article_type": "Research paper",
+      "normalised_title": "guardphish securing open source llms phishing abuse",
+      "normalized_title_fingerprint": "guardphish securing open source llms phishing abuse",
+      "parsed_date": "2026-04-19",
+      "same_story_key": "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "GuardPhish: Securing Open-Source LLMs from Phishing Abuse - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tTFBOVHJ5ZHFwNFM2YlAybml1anhZdHZsVkFpMXJ4aDM0SmtYWVp0N2xmYXpvVl9xSUFCazNaOHFLQXNnSTY4?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
     "ba616a6803a885aace1c879e2fb3d1029f51fb2d2f6fc1d51b64ed46e4197e7f": {
       "article_type": "Research paper",
       "normalised_title": "2605 02502 guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis african context",
@@ -5080,6 +5194,18 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "Enhancing Phishing Detection with AI: A Novel Dataset and Comprehensive Analysis Using Machine Learning and Large Language Models",
       "url": "https://ieeexplore.ieee.org/document/10754710/",
+      "usefulness_category": "Product idea / data source"
+    },
+    "be2e6f9fb8e7cfddde25e509b6426031cc5de375ea1e584c06c61ebd8c4c420e": {
+      "article_type": "Research paper",
+      "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
+      "normalized_title_fingerprint": "expanded synthetic conversation dataset multi turn smishing detection",
+      "parsed_date": "2026-06-05",
+      "same_story_key": "arxiv.org|2026-06-05|conversation dataset detection expanded multi smishing synthetic turn",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "An Expanded Synthetic Conversation Dataset for Multi-Turn Smishing Detection - arXiv",
+      "url": "https://arxiv.org/html/2606.06879v1",
       "usefulness_category": "Product idea / data source"
     },
     "be597f6f8e4034c96e0715bf58612d727b5d83a2c226877e49707e6b00b07331": {
@@ -5633,6 +5759,18 @@
       "title": "Evaluating AI-Enabled Fraud Detection Systems for Protecting Businesses from Financial Losses and Scams - SSRN eLibrary",
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
       "usefulness_category": "Product idea / data source"
+    },
+    "f78cd6bba880021f5200a902a8fcad4c1e6ce1f29a8a312ce10f86f205a15b31": {
+      "article_type": "News report",
+      "normalised_title": "i was scammed buying glp 1s online i\u2019m not alone",
+      "normalized_title_fingerprint": "i was scammed buying glp 1s online i\u2019m not alone",
+      "parsed_date": "2026-06-11",
+      "same_story_key": "wired.com|2026-06-11|alone buying glp i\u2019m not online scammed was",
+      "sent_at": "2026-06-13T04:50:21+00:00",
+      "source_domain": "wired.com",
+      "title": "I Was Scammed Buying GLP-1s Online. I\u2019m Not Alone - WIRED",
+      "url": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
+      "usefulness_category": "Scam development"
     },
     "f9b962a5b97db15780bb8dc5735f1ab509e0d84e69ba45a9b42da8198ee956ea": {
       "article_type": "Investigative report",
