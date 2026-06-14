@@ -84,6 +84,20 @@
       "url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims": {
+      "article_type": "Enforcement report",
+      "normalised_title": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown",
+      "original_url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
+      "parsed_date": "2026-06-14",
+      "raw_title": "African scam victims left homeless in Cambodia amid crackdown - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "abc.net.au",
+      "title": "african scam victims left homeless cambodia amid crackdown",
+      "url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -168,6 +182,20 @@
       "url": "https://arxiv.org/html/2601.13581v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-01-27|behavioral centered human job modeling scams security signals": {
+      "article_type": "Research paper",
+      "normalised_title": "modeling behavioral signals job scams human centered security study",
+      "normalized_title_fingerprint": "modeling behavioral signals job scams human centered security study",
+      "original_url": "https://arxiv.org/pdf/2601.19342",
+      "parsed_date": "2026-01-27",
+      "raw_title": "Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study - arXiv",
+      "same_story_key": "arxiv.org|2026-01-27|behavioral centered human job modeling scams security signals",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "modeling behavioral signals job scams human centered security study",
+      "url": "https://arxiv.org/pdf/2601.19342",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user": {
       "article_type": "Research paper",
       "normalised_title": "user centric phishing detection rag llm based approach",
@@ -250,6 +278,20 @@
       "source_domain": "arxiv.org",
       "title": "synthetic conversational smishing dataset social engineering detection",
       "url": "https://arxiv.org/pdf/2604.11752",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-04-14|attacks defenses message phishing review service short sms": {
+      "article_type": "Research paper",
+      "normalised_title": "short message service sms phishing attacks defenses systematic review",
+      "normalized_title_fingerprint": "short message service sms phishing attacks defenses systematic review",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqU2lRcDR5NUl2Nm0tOEVEOGl6NEc3SnhlMEtQR0pDd1VrWlpqZmFnNHJmSDVKcU51cWhQTld0aFR5MVZyWVdCT0tJbw?oc=5",
+      "parsed_date": "2026-04-14",
+      "raw_title": "Short Message Service (SMS) Phishing Attacks and Defenses: A Systematic Review - arXiv",
+      "same_story_key": "arxiv.org|2026-04-14|attacks defenses message phishing review service short sms",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "short message service sms phishing attacks defenses systematic review",
+      "url": "https://arxiv.org/html/2604.11429v1",
       "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-04-19|abuse guardphish llms open phishing securing source": {
@@ -769,6 +811,20 @@
       "title": "webinars \u2014 graphika",
       "url": "https://www.graphika.com/webinars",
       "usefulness_category": "Operational intelligence"
+    },
+    "graphika.com|2026-06-12|coding emerging fraudulent leverage playbooks scammers sites ticket": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "normalized_title_fingerprint": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "original_url": "https://www.graphika.com/blogs/emerging-playbooks-how-scammers-leverage-vibe-coding-for-fraudulent-ticket-sites",
+      "parsed_date": "2026-06-12",
+      "raw_title": "Emerging Playbooks: How Scammers Leverage Vibe Coding for Fraudulent Ticket Sites - Graphika",
+      "same_story_key": "graphika.com|2026-06-12|coding emerging fraudulent leverage playbooks scammers sites ticket",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "graphika.com",
+      "title": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "url": "https://www.graphika.com/blogs/emerging-playbooks-how-scammers-leverage-vibe-coding-for-fraudulent-ticket-sites",
+      "usefulness_category": "Platform policy / product change"
     },
     "ieeexplore.ieee.org|2025-01-06|comparative deberta detection language large models phishing securenet": {
       "article_type": "Research paper",
@@ -1798,6 +1854,18 @@
       "title": "abandoned cambodian scam compound exposes fraudsters scheming",
       "usefulness_category": "Operational intelligence"
     },
+    "african scam victims left homeless cambodia amid crackdown": {
+      "article_type": "Enforcement report",
+      "normalised_title": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown",
+      "parsed_date": "2026-06-14",
+      "raw_title": "African scam victims left homeless in Cambodia amid crackdown - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "abc.net.au",
+      "title": "african scam victims left homeless cambodia amid crackdown",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "ai vs ai browser defense against ai augmented social engineering web network distributed system": {
       "article_type": "Research paper",
       "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
@@ -2073,6 +2141,18 @@
       "source_domain": "wired.com",
       "title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
       "usefulness_category": "Operational intelligence"
+    },
+    "emerging playbooks scammers leverage vibe coding fraudulent ticket sites": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "normalized_title_fingerprint": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "parsed_date": "2026-06-12",
+      "raw_title": "Emerging Playbooks: How Scammers Leverage Vibe Coding for Fraudulent Ticket Sites - Graphika",
+      "same_story_key": "graphika.com|2026-06-12|coding emerging fraudulent leverage playbooks scammers sites ticket",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "graphika.com",
+      "title": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "usefulness_category": "Platform policy / product change"
     },
     "end trust agentic ai breaks security assumptions": {
       "article_type": "Research paper",
@@ -2458,6 +2538,18 @@
       "title": "mitek datos insights report finds synthetic identity fraud emerging defining fraud threat 2026",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "modeling behavioral signals job scams human centered security study": {
+      "article_type": "Research paper",
+      "normalised_title": "modeling behavioral signals job scams human centered security study",
+      "normalized_title_fingerprint": "modeling behavioral signals job scams human centered security study",
+      "parsed_date": "2026-01-27",
+      "raw_title": "Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study - arXiv",
+      "same_story_key": "arxiv.org|2026-01-27|behavioral centered human job modeling scams security signals",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "modeling behavioral signals job scams human centered security study",
+      "usefulness_category": "Research / novel method"
+    },
     "more than 200 arrested cyber raids aimed middle east scam networks": {
       "article_type": "Investigative report",
       "normalised_title": "more than 200 arrested cyber raids aimed middle east scam networks",
@@ -2744,6 +2836,18 @@
       "sent_at": "2026-05-31T04:51:20+00:00",
       "source_domain": "ieeexplore.ieee.org",
       "title": "securenet comparative study deberta large language models phishing detection",
+      "usefulness_category": "Product idea / data source"
+    },
+    "short message service sms phishing attacks defenses systematic review": {
+      "article_type": "Research paper",
+      "normalised_title": "short message service sms phishing attacks defenses systematic review",
+      "normalized_title_fingerprint": "short message service sms phishing attacks defenses systematic review",
+      "parsed_date": "2026-04-14",
+      "raw_title": "Short Message Service (SMS) Phishing Attacks and Defenses: A Systematic Review - arXiv",
+      "same_story_key": "arxiv.org|2026-04-14|attacks defenses message phishing review service short sms",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "short message service sms phishing attacks defenses systematic review",
       "usefulness_category": "Product idea / data source"
     },
     "sim farm hardware seized secret service also popular ticket scalpers": {
@@ -4488,6 +4592,18 @@
       "url": "https://ieeexplore.ieee.org/iel8/6287639/11323511/11411806.pdf",
       "usefulness_category": "Product idea / data source"
     },
+    "6e057e0bdec14ea1ca67feb0ec9bad1593259c881c6caa4e839f39a63031edcb": {
+      "article_type": "Research paper",
+      "normalised_title": "modeling behavioral signals job scams human centered security study",
+      "normalized_title_fingerprint": "modeling behavioral signals job scams human centered security study",
+      "parsed_date": "2026-01-27",
+      "same_story_key": "arxiv.org|2026-01-27|behavioral centered human job modeling scams security signals",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Modeling Behavioral Signals in Job Scams: A Human-Centered Security Study - arXiv",
+      "url": "https://arxiv.org/pdf/2601.19342",
+      "usefulness_category": "Research / novel method"
+    },
     "6f66140733a3a8c6693d7bbbf6167db746d3bf50d6f3c6769a304832d71cd138": {
       "article_type": "Enforcement report",
       "normalised_title": "script reveals methods cambodian centre scamming australians",
@@ -4728,6 +4844,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VckRrV2hqd3NCek80TlFHR1UwUGdzcDZpNUFzb284WVlXTWgxYUdkLUNSeGd6Z0R2WDJWSkZjMkROaXhqY1JZZHBVdkRZQklDUnh4NHJHRmQ0Zw?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "838d9f2d9ff818e98400178e1c3ea7921e57f04203432155ca709e48985f1c4a": {
+      "article_type": "Research paper",
+      "normalised_title": "short message service sms phishing attacks defenses systematic review",
+      "normalized_title_fingerprint": "short message service sms phishing attacks defenses systematic review",
+      "parsed_date": "2026-04-14",
+      "same_story_key": "arxiv.org|2026-04-14|attacks defenses message phishing review service short sms",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Short Message Service (SMS) Phishing Attacks and Defenses: A Systematic Review - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqU2lRcDR5NUl2Nm0tOEVEOGl6NEc3SnhlMEtQR0pDd1VrWlpqZmFnNHJmSDVKcU51cWhQTld0aFR5MVZyWVdCT0tJbw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "844625a88acc4d7a15954e222c55e214326c8fc511010566bf3259c75da4c943": {
       "article_type": "News report",
       "normalised_title": "two americans plead guilty assisting india based tech support scam centers",
@@ -4835,6 +4963,18 @@
       "title": "Taylor Swift deepfakes are pushing scams on TikTok",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFJzLVVFSGY5Z3QyTzZ4SUhqcWNtYTVOckZMX05qdmZ1Q2JydHFtWVFhMTFuSHYxYVluVDB0VGlVQy1BZEFSOXFMWVlDVUFCMk5KTlhyMVpTSWZKMjk2R3F6U1BRMUE2YXJtRnE5Y2dTSUVZN2VRQllCTWNQWDVlSDAyMmREdW53SGViT3NBMkpPamJmZWFZeEE0bXlDR3p5V1Zv?oc=5",
       "usefulness_category": "Platform policy / product change"
+    },
+    "9446e6dc5049bed33c848afed38c71896e4114744473a559f97f0e7de6f3f175": {
+      "article_type": "Research paper",
+      "normalised_title": "short message service sms phishing attacks defenses systematic review",
+      "normalized_title_fingerprint": "short message service sms phishing attacks defenses systematic review",
+      "parsed_date": "2026-04-14",
+      "same_story_key": "arxiv.org|2026-04-14|attacks defenses message phishing review service short sms",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Short Message Service (SMS) Phishing Attacks and Defenses: A Systematic Review - arXiv",
+      "url": "https://arxiv.org/html/2604.11429v1",
+      "usefulness_category": "Product idea / data source"
     },
     "962d915ad555f3ae93a2d320dd0af2c07226f1a672bd93180bb91b6e7d3c581e": {
       "article_type": "Enforcement report",
@@ -5712,6 +5852,18 @@
       "url": "https://www.404media.co/ice-phishing-scammers-are-sending-support-ice-emails-to-steal-credentials/",
       "usefulness_category": "Operational intelligence"
     },
+    "f19ebb7c96dc842c92a322b01c8f4e2aa8d972d2103dd474e32771bb9975b299": {
+      "article_type": "Enforcement report",
+      "normalised_title": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown",
+      "parsed_date": "2026-06-14",
+      "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "abc.net.au",
+      "title": "African scam victims left homeless in Cambodia amid crackdown - Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "f3082ab6dd39ec43d749fc6b529fb06e714e0d01360fa3c7bfdd49211d32fa72": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -5735,6 +5887,18 @@
       "title": "Victim loses at least $4.9m in scam involving deepfakes of PM Wong, government officials",
       "url": "https://www.straitstimes.com/singapore/victim-loses-at-least-4-9m-in-scam-involving-deepfakes-of-pm-wong-government-officials",
       "usefulness_category": "Scam development"
+    },
+    "f47d052bd075544926125e126d155c2cacd68b6ee815ed67fdb92bc54bb4ef47": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "normalized_title_fingerprint": "emerging playbooks scammers leverage vibe coding fraudulent ticket sites",
+      "parsed_date": "2026-06-12",
+      "same_story_key": "graphika.com|2026-06-12|coding emerging fraudulent leverage playbooks scammers sites ticket",
+      "sent_at": "2026-06-14T05:06:53+00:00",
+      "source_domain": "graphika.com",
+      "title": "Emerging Playbooks: How Scammers Leverage Vibe Coding for Fraudulent Ticket Sites - Graphika",
+      "url": "https://www.graphika.com/blogs/emerging-playbooks-how-scammers-leverage-vibe-coding-for-fraudulent-ticket-sites",
+      "usefulness_category": "Platform policy / product change"
     },
     "f5cde881ec44fbb2d619e066390e16fa30fb977310230b079f7f65cee25f0854": {
       "article_type": "Enforcement report",
