@@ -1339,6 +1339,36 @@
         "Product idea / data source": 1,
         "Research / novel method": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 33,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 7,
+        "current_affairs": 20,
+        "investigative": 2,
+        "psychology": 4
+      },
+      "shortlist_count": 7,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "arxiv.org": 2,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 1
+      },
+      "timestamp": "2026-06-15T05:28:34+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Research / novel method": 2
+      }
     }
   ]
 }
