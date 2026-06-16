@@ -532,6 +532,20 @@
       "url": "https://arxiv.org/html/2606.06879v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-06-11|13757 2606 agents bench engineering review sevra social": {
+      "article_type": "Research paper",
+      "normalised_title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "original_url": "https://arxiv.org/abs/2606.13757",
+      "parsed_date": "2026-06-11",
+      "raw_title": "[2606.13757] SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents",
+      "same_story_key": "arxiv.org|2026-06-11|13757 2606 agents bench engineering review sevra social",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "url": "https://arxiv.org/abs/2606.13757",
+      "usefulness_category": "Research / novel method"
+    },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -1456,6 +1470,20 @@
       "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "theguardian.com|2026-06-16|alarming asia cambodia china cybercrime east lanka myanmar": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "normalized_title_fingerprint": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "original_url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
+      "parsed_date": "2026-06-16",
+      "raw_title": "Sri Lanka sees \u2018alarming\u2019 rise in cybercrime as scam networks relocate from south-east Asia",
+      "same_story_key": "theguardian.com|2026-06-16|alarming asia cambodia china cybercrime east lanka myanmar",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
+      "usefulness_category": "Operational intelligence"
+    },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -1833,6 +1861,20 @@
       "title": "i was scammed buying glp 1s online i\u2019m not alone",
       "url": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
       "usefulness_category": "Scam development"
+    },
+    "wired.com|2026-06-15|account crypto feed flooded gay got hacked his": {
+      "article_type": "News report",
+      "normalised_title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "normalized_title_fingerprint": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "original_url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+      "parsed_date": "2026-06-15",
+      "raw_title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With \u2018MAGA Propaganda\u2019",
+      "same_story_key": "wired.com|2026-06-15|account crypto feed flooded gay got hacked his",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "wired.com",
+      "title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+      "usefulness_category": "Product idea / data source"
     }
   },
   "titles": {
@@ -1882,6 +1924,18 @@
       "sent_at": "2026-05-24T10:12:41+00:00",
       "source_domain": "arxiv.org",
       "title": "2605 21246 profiling user vulnerability phishing through psychological behavioral factors",
+      "usefulness_category": "Research / novel method"
+    },
+    "2606 13757 sevra bench social engineering vulnerabilities review agents": {
+      "article_type": "Research paper",
+      "normalised_title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "parsed_date": "2026-06-11",
+      "raw_title": "[2606.13757] SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents",
+      "same_story_key": "arxiv.org|2026-06-11|13757 2606 agents bench engineering review sevra social",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
       "usefulness_category": "Research / novel method"
     },
     "493 cases sextortion against children linked notorious scam compounds": {
@@ -2111,6 +2165,18 @@
       "source_domain": "wired.com",
       "title": "collapse usaid already fueling human trafficking slavery scammer compounds",
       "usefulness_category": "Operational intelligence"
+    },
+    "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019": {
+      "article_type": "News report",
+      "normalised_title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "normalized_title_fingerprint": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "parsed_date": "2026-06-15",
+      "raw_title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With \u2018MAGA Propaganda\u2019",
+      "same_story_key": "wired.com|2026-06-15|account crypto feed flooded gay got hacked his",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "wired.com",
+      "title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "usefulness_category": "Product idea / data source"
     },
     "cybercrime prevention colonel blotto social engineering": {
       "article_type": "Research paper",
@@ -3010,6 +3076,18 @@
       "sent_at": "2026-05-24T03:38:47+00:00",
       "source_domain": "straitstimes.com",
       "title": "sri lanka becomes next hub scam networks",
+      "usefulness_category": "Operational intelligence"
+    },
+    "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "normalized_title_fingerprint": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "parsed_date": "2026-06-16",
+      "raw_title": "Sri Lanka sees \u2018alarming\u2019 rise in cybercrime as scam networks relocate from south-east Asia",
+      "same_story_key": "theguardian.com|2026-06-16|alarming asia cambodia china cybercrime east lanka myanmar",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
       "usefulness_category": "Operational intelligence"
     },
     "synthetic conversational smishing dataset social engineering detection": {
@@ -4418,6 +4496,18 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnVxUmJDQ1RTcDJwdENXOFo1bV9ZMTJnYkdiNkFPR2R1SUZBVUJNMm9GaXdOYXREalNadE9NRWw4ZVR0VmJPaDJrX2dwdGZpUDUtcU12c05HZ3BVVmFYSGtVaTlWZUE3YVpnLWk5cEd0RGpKa1hXYU1SNlZqX2JGZzdn?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "589738360c35c36a002b89b57158d7514775da1ee9e087c8f53a2dc2a6be620e": {
+      "article_type": "Research paper",
+      "normalised_title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "2606 13757 sevra bench social engineering vulnerabilities review agents",
+      "parsed_date": "2026-06-11",
+      "same_story_key": "arxiv.org|2026-06-11|13757 2606 agents bench engineering review sevra social",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "arxiv.org",
+      "title": "[2606.13757] SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents",
+      "url": "https://arxiv.org/abs/2606.13757",
+      "usefulness_category": "Research / novel method"
+    },
     "591238ca0e3e89820c79b3f86f1c757a74e4f07f1469082acba0938b652c6b8c": {
       "article_type": "Research paper",
       "normalised_title": "sok large language model generated textual phishing campaigns end end analysis generation characteristics detection",
@@ -5594,6 +5684,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZWpnSjRQekRJOWpDQ0x1cThVQ3lNUzJKV3NiZUZmVmk4dlpqY19JMHJBRURIYUpFTGlSZC1Hemt0QTFfSGxoSW1oSUZvVnJOTGpRTmd1anZ3U29QX3A5aEk1dkxCYXM1THVOUDU4cG9qemlOSzlpanBLM0w4Z29CY2UzaGVXUnYtcnJBRHgxMXlXbjJxWXlIUG1MbVR5cUJPT1hUbGItOVVuM2FTNDhvdlJtR2x5WDFEcHFN?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "cb0ddbf77fa6a95bf57e43c23f9dd8b089a243528b1e80379fc196895432afa2": {
+      "article_type": "Enforcement report",
+      "normalised_title": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "normalized_title_fingerprint": "sri lanka sees \u2018alarming\u2019 rise cybercrime scam networks relocate south east asia",
+      "parsed_date": "2026-06-16",
+      "same_story_key": "theguardian.com|2026-06-16|alarming asia cambodia china cybercrime east lanka myanmar",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Sri Lanka sees \u2018alarming\u2019 rise in cybercrime as scam networks relocate from south-east Asia",
+      "url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
+      "usefulness_category": "Operational intelligence"
+    },
     "cb311c68533639a2334a20453b852a64883fe2995bdf168d3a2bd1c9c7f6b8b9": {
       "article_type": "Research paper",
       "normalised_title": "integrating sociocultural intelligence cybersecurity lescant based approach phishing social engineering detection",
@@ -5785,6 +5887,18 @@
       "title": "He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive",
       "url": "https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/",
       "usefulness_category": "Operational intelligence"
+    },
+    "dc599d7d2527d2fa5c159dde4b3318eff1809c3646894eeed6649559eea4472c": {
+      "article_type": "News report",
+      "normalised_title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "normalized_title_fingerprint": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
+      "parsed_date": "2026-06-15",
+      "same_story_key": "wired.com|2026-06-15|account crypto feed flooded gay got hacked his",
+      "sent_at": "2026-06-16T05:31:58+00:00",
+      "source_domain": "wired.com",
+      "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With \u2018MAGA Propaganda\u2019",
+      "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+      "usefulness_category": "Product idea / data source"
     },
     "dddba0a1c28248d792fb789f67b1143bc243bd9fbb4516cde398a6090fc65862": {
       "article_type": "Research paper",
