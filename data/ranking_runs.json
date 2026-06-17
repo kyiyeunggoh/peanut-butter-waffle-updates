@@ -1402,6 +1402,37 @@
         "Product idea / data source": 1,
         "Research / novel method": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 43,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 9,
+        "current_affairs": 29,
+        "investigative": 2,
+        "psychology": 3
+      },
+      "shortlist_count": 9,
+      "source_domain_distribution": {
+        "abc.net.au": 2,
+        "arxiv.org": 3,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "markets-data-api-proxy.ft.com": 1
+      },
+      "timestamp": "2026-06-17T05:12:56+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Detection / analytics / engineering insight": 1,
+        "Product idea / data source": 1,
+        "Research / novel method": 1
+      }
     }
   ]
 }

@@ -98,6 +98,20 @@
       "url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "abc.net.au|2026-06-17|000 310 amid cambodia country crackdown left scammers": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "normalized_title_fingerprint": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "original_url": "https://www.abc.net.au/news/2026-06-17/scam-compounds-bypassed-cambodia-crackdown-amnesty/106803426",
+      "parsed_date": "2026-06-17",
+      "raw_title": "Cambodia says 310,000 suspected scammers left country amid crackdown - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-17|000 310 amid cambodia country crackdown left scammers",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "abc.net.au",
+      "title": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "url": "https://www.abc.net.au/news/2026-06-17/scam-compounds-bypassed-cambodia-crackdown-amnesty/106803426",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -544,6 +558,34 @@
       "source_domain": "arxiv.org",
       "title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
       "url": "https://arxiv.org/abs/2606.13757",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-06-16|conversational detection federated learning leveraging llms preserving privacy": {
+      "article_type": "Research paper",
+      "normalised_title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "normalized_title_fingerprint": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "original_url": "https://arxiv.org/html/2509.05362",
+      "parsed_date": "2026-06-16",
+      "raw_title": ": Privacy Preserving Real-Time Scam Detection and Conversational Scambaiting by Leveraging LLMs and Federated Learning - arXiv",
+      "same_story_key": "arxiv.org|2026-06-16|conversational detection federated learning leveraging llms preserving privacy",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "url": "https://arxiv.org/html/2509.05362",
+      "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-06-16|disclosure narratives paths rail reddit scam self trends": {
+      "article_type": "Research paper",
+      "normalised_title": "understanding scam trends rail paths reddit self disclosure narratives",
+      "normalized_title_fingerprint": "understanding scam trends rail paths reddit self disclosure narratives",
+      "original_url": "https://arxiv.org/html/2606.16874",
+      "parsed_date": "2026-06-16",
+      "raw_title": "Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives - arXiv",
+      "same_story_key": "arxiv.org|2026-06-16|disclosure narratives paths rail reddit scam self trends",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "understanding scam trends rail paths reddit self disclosure narratives",
+      "url": "https://arxiv.org/html/2606.16874",
       "usefulness_category": "Research / novel method"
     },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
@@ -2082,6 +2124,18 @@
       "title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
       "usefulness_category": "Operational intelligence"
     },
+    "cambodia says 310 000 suspected scammers left country amid crackdown": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "normalized_title_fingerprint": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "parsed_date": "2026-06-17",
+      "raw_title": "Cambodia says 310,000 suspected scammers left country amid crackdown - Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-06-17|000 310 amid cambodia country crackdown left scammers",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "abc.net.au",
+      "title": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "cambodian compound found type scam malware researchers": {
       "article_type": "News report",
       "normalised_title": "cambodian compound found type scam malware researchers",
@@ -2838,6 +2892,18 @@
       "title": "prescam benchmark predicting scam progression early conversations",
       "usefulness_category": "Product idea / data source"
     },
+    "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning": {
+      "article_type": "Research paper",
+      "normalised_title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "normalized_title_fingerprint": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "parsed_date": "2026-06-16",
+      "raw_title": ": Privacy Preserving Real-Time Scam Detection and Conversational Scambaiting by Leveraging LLMs and Federated Learning - arXiv",
+      "same_story_key": "arxiv.org|2026-06-16|conversational detection federated learning leveraging llms preserving privacy",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "usefulness_category": "Product idea / data source"
+    },
     "psyscam benchmark psychological techniques real world scams": {
       "article_type": "Research paper",
       "normalised_title": "psyscam benchmark psychological techniques real world scams",
@@ -3209,6 +3275,18 @@
       "source_domain": "therecord.media",
       "title": "two americans plead guilty assisting india based tech support scam centers",
       "usefulness_category": "Scam development"
+    },
+    "understanding scam trends rail paths reddit self disclosure narratives": {
+      "article_type": "Research paper",
+      "normalised_title": "understanding scam trends rail paths reddit self disclosure narratives",
+      "normalized_title_fingerprint": "understanding scam trends rail paths reddit self disclosure narratives",
+      "parsed_date": "2026-06-16",
+      "raw_title": "Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives - arXiv",
+      "same_story_key": "arxiv.org|2026-06-16|disclosure narratives paths rail reddit scam self trends",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "understanding scam trends rail paths reddit self disclosure narratives",
+      "usefulness_category": "Research / novel method"
     },
     "unseen cross stack llm unlearning defense against ar llm social engineering attacks": {
       "article_type": "Research paper",
@@ -3931,6 +4009,18 @@
       "title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
       "url": "https://www.theguardian.com/world/2025/feb/25/beatings-torture-and-electric-shocks-freed-scam-compound-workers-allege-horrific-abuse",
       "usefulness_category": "Operational intelligence"
+    },
+    "2939b07ead2095e1767549ee2e9b18def1a8f8c9b4a02c37f210d1cc362ed3d4": {
+      "article_type": "Research paper",
+      "normalised_title": "understanding scam trends rail paths reddit self disclosure narratives",
+      "normalized_title_fingerprint": "understanding scam trends rail paths reddit self disclosure narratives",
+      "parsed_date": "2026-06-16",
+      "same_story_key": "arxiv.org|2026-06-16|disclosure narratives paths rail reddit scam self trends",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Understanding Scam Trends and Rail Paths from Reddit Self-Disclosure Narratives - arXiv",
+      "url": "https://arxiv.org/html/2606.16874",
+      "usefulness_category": "Research / novel method"
     },
     "2b71a041c97dd1409c20fa8ff6ed106463c81b5916c94841c28bad21c81b6b54": {
       "article_type": "Policy / platform update",
@@ -5984,6 +6074,18 @@
       "url": "https://arxiv.org/html/2508.21457v1",
       "usefulness_category": "Product idea / data source"
     },
+    "e64d1bf60d3ff4a0d21e689fd736f6ffd90783d183a40f2fb505a6a65b3b879c": {
+      "article_type": "Research paper",
+      "normalised_title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "normalized_title_fingerprint": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
+      "parsed_date": "2026-06-16",
+      "same_story_key": "arxiv.org|2026-06-16|conversational detection federated learning leveraging llms preserving privacy",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": ": Privacy Preserving Real-Time Scam Detection and Conversational Scambaiting by Leveraging LLMs and Federated Learning - arXiv",
+      "url": "https://arxiv.org/html/2509.05362",
+      "usefulness_category": "Product idea / data source"
+    },
     "e67e76920f33c0f6ddd1b1715e8564095b2c86339547561bbb74ef0b3d7577f8": {
       "article_type": "News report",
       "normalised_title": "us charges 2 chinese nationals managing cyberscam compound myanmar",
@@ -6199,6 +6301,18 @@
       "title": "I Was Scammed Buying GLP-1s Online. I\u2019m Not Alone - WIRED",
       "url": "https://www.wired.com/story/i-was-scammed-buying-glp-1s-online-im-not-alone/",
       "usefulness_category": "Scam development"
+    },
+    "f7a9997af7e758bad067fb24b221003365ae0b897680bf2e975091183112036c": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "normalized_title_fingerprint": "cambodia says 310 000 suspected scammers left country amid crackdown",
+      "parsed_date": "2026-06-17",
+      "same_story_key": "abc.net.au|2026-06-17|000 310 amid cambodia country crackdown left scammers",
+      "sent_at": "2026-06-17T05:12:57+00:00",
+      "source_domain": "abc.net.au",
+      "title": "Cambodia says 310,000 suspected scammers left country amid crackdown - Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/news/2026-06-17/scam-compounds-bypassed-cambodia-crackdown-amnesty/106803426",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "f9b962a5b97db15780bb8dc5735f1ab509e0d84e69ba45a9b42da8198ee956ea": {
       "article_type": "Investigative report",
