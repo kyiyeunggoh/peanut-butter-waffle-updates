@@ -112,6 +112,20 @@
       "url": "https://www.abc.net.au/news/2026-06-17/scam-compounds-bypassed-cambodia-crackdown-amnesty/106803426",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "abc.net.au|2026-06-17|agrees failures hsbc million pay penalty scam widespread": {
+      "article_type": "News report",
+      "normalised_title": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "normalized_title_fingerprint": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "original_url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268",
+      "parsed_date": "2026-06-17",
+      "raw_title": "HSBC agrees to pay $35 million penalty after widespread scam failures",
+      "same_story_key": "abc.net.au|2026-06-17|agrees failures hsbc million pay penalty scam widespread",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "abc.net.au",
+      "title": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268",
+      "usefulness_category": "Scam development"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -560,6 +574,20 @@
       "url": "https://arxiv.org/abs/2606.13757",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-06-16|agentic benchmarking detection fraud fraudsmswalker language large models": {
+      "article_type": "Research paper",
+      "normalised_title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "normalized_title_fingerprint": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "original_url": "https://arxiv.org/html/2606.16659v1",
+      "parsed_date": "2026-06-16",
+      "raw_title": "FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection",
+      "same_story_key": "arxiv.org|2026-06-16|agentic benchmarking detection fraud fraudsmswalker language large models",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "url": "https://arxiv.org/html/2606.16659v1",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-06-16|conversational detection federated learning leveraging llms preserving privacy": {
       "article_type": "Research paper",
       "normalised_title": "privacy preserving real time scam detection conversational scambaiting leveraging llms federated learning",
@@ -587,6 +615,20 @@
       "title": "understanding scam trends rail paths reddit self disclosure narratives",
       "url": "https://arxiv.org/html/2606.16874",
       "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-06-17|accounts across agent aml banking corporate detection fraud": {
+      "article_type": "Research paper",
+      "normalised_title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "normalized_title_fingerprint": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "original_url": "https://arxiv.org/html/2606.17555v1",
+      "parsed_date": "2026-06-17",
+      "raw_title": "An AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts",
+      "same_story_key": "arxiv.org|2026-06-17|accounts across agent aml banking corporate detection fraud",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "url": "https://arxiv.org/html/2606.17555v1",
+      "usefulness_category": "Product idea / data source"
     },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
@@ -2016,6 +2058,18 @@
       "title": "african scam victims left homeless cambodia amid crackdown",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "ai security agent banking multi vector fraud aml detection across retail corporate accounts": {
+      "article_type": "Research paper",
+      "normalised_title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "normalized_title_fingerprint": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "parsed_date": "2026-06-17",
+      "raw_title": "An AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts",
+      "same_story_key": "arxiv.org|2026-06-17|accounts across agent aml banking corporate detection fraud",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "usefulness_category": "Product idea / data source"
+    },
     "ai vs ai browser defense against ai augmented social engineering web network distributed system": {
       "article_type": "Research paper",
       "normalised_title": "ai vs ai browser defense against ai augmented social engineering web",
@@ -2448,6 +2502,18 @@
       "title": "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks",
       "usefulness_category": "Product idea / data source"
     },
+    "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection": {
+      "article_type": "Research paper",
+      "normalised_title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "normalized_title_fingerprint": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "parsed_date": "2026-06-16",
+      "raw_title": "FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection",
+      "same_story_key": "arxiv.org|2026-06-16|agentic benchmarking detection fraud fraudsmswalker language large models",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "global cybersecurity gap deepens ai powered attacks surge": {
       "article_type": "News report",
       "normalised_title": "global cybersecurity gap deepens ai powered attacks surge",
@@ -2519,6 +2585,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "highly gullible woman acted money mule court rejects mental condition arguments",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "hsbc agrees pay 35 million penalty after widespread scam failures": {
+      "article_type": "News report",
+      "normalised_title": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "normalized_title_fingerprint": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "parsed_date": "2026-06-17",
+      "raw_title": "HSBC agrees to pay $35 million penalty after widespread scam failures",
+      "same_story_key": "abc.net.au|2026-06-17|agrees failures hsbc million pay penalty scam widespread",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "abc.net.au",
+      "title": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "usefulness_category": "Scam development"
     },
     "human factors information security quantitative study technical solutions prevent social engineering attacks": {
       "article_type": "Research paper",
@@ -4910,6 +4988,18 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TcUpWWXNtX0NEVHhOQmNwc3k5SlE2MkZkRUtCZ0s0eTlZVmJaYXdzQzRCbUJGWjRIMEtKbzFqYnhzbTJtazZuOFgzVU9nNTd4a1lidy0wS2NmN0UySGpSUkwyVFNfeFB3a0RRWmt3?oc=5",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "711d04b171e625404f5938ecfaf177a1e67f63ebafa04caac0ef792ab1ab6c77": {
+      "article_type": "News report",
+      "normalised_title": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "normalized_title_fingerprint": "hsbc agrees pay 35 million penalty after widespread scam failures",
+      "parsed_date": "2026-06-17",
+      "same_story_key": "abc.net.au|2026-06-17|agrees failures hsbc million pay penalty scam widespread",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "abc.net.au",
+      "title": "HSBC agrees to pay $35 million penalty after widespread scam failures",
+      "url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268",
+      "usefulness_category": "Scam development"
+    },
     "716bd79b466fd2d3fdf7d85592da86e4f715831c6e40cb0f046d7f86d35676e3": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
@@ -5354,6 +5444,18 @@
       "url": "https://www.straitstimes.com/world/united-states/us-charges-two-chinese-nationals-over-myanmar-crypto-scam-hub",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "a148f00375f05cf9f0c11d12b243ae464d8e7ebf8ca89209eb15841a177e2b50": {
+      "article_type": "Research paper",
+      "normalised_title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "normalized_title_fingerprint": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
+      "parsed_date": "2026-06-16",
+      "same_story_key": "arxiv.org|2026-06-16|agentic benchmarking detection fraud fraudsmswalker language large models",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "FraudSMSWalker: Benchmarking Agentic Large Language Models for SMS-to-Webpage Fraud Detection",
+      "url": "https://arxiv.org/html/2606.16659v1",
+      "usefulness_category": "Product idea / data source"
+    },
     "a26b9254ca9085b18f893f4b6fb772ff76637e9367f1dae9bf9e59c73499cb8e": {
       "article_type": "Research paper",
       "normalised_title": "cybersecurity risks online piracy websites malaysia empirical comparison scam risk malware exposure advertising ecosystems",
@@ -5521,6 +5623,18 @@
       "title": "Telegram Is Still Hosting a Sanctioned $21 Billion Crypto Scammer Black Market - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHRSZktONVItc3BmVURnX0pVeTNHMnl2ZDNlZkRIaHJBanU4aHJISnJ1SDhJX01fNnhfNjk4aVZVaE12ZzFmQVVjUGpPRHFPY09rZmhhb2dQeVJIcnhQRGlMSEp2UVAtTzRlZzNRN0t3YmRRRGtLdFdTS1doZl9ZSExaWWJ5OUZZU01vQXRQOXFfZ2Q1SmcwckZVeTRWUktjc19vQ255SGYzUQ?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "b2b2de320ad099d29da4d6a972480e10334703992440c7a5c644ab553f1342bd": {
+      "article_type": "Research paper",
+      "normalised_title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "normalized_title_fingerprint": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
+      "parsed_date": "2026-06-17",
+      "same_story_key": "arxiv.org|2026-06-17|accounts across agent aml banking corporate detection fraud",
+      "sent_at": "2026-06-18T05:03:08+00:00",
+      "source_domain": "arxiv.org",
+      "title": "An AI Security Agent for Banking: Multi-Vector Fraud and AML Detection Across Retail and Corporate Accounts",
+      "url": "https://arxiv.org/html/2606.17555v1",
+      "usefulness_category": "Product idea / data source"
     },
     "b34fa99f822fa5c65b5a1ca6f8a46fbae14de81f087199d08763190d27732ebf": {
       "article_type": "News report",
