@@ -33,7 +33,7 @@
   },
   "0237146fced5cba5fb77bebf7e960b8bf7270c1b0099b8aa041ddca1bdc6f00f": {
     "canonical_url": "https://krebsonsecurity.com/",
-    "resolved_at": "2026-06-10T04:45:06+00:00"
+    "resolved_at": "2026-06-19T05:22:53+00:00"
   },
   "027ee7164e1e3d93b03b76f2da78f8a90d37392b3bc9119e58c24b60dae2b6bf": {
     "canonical_url": "https://arxiv.org/pdf/2605.24247",
@@ -78,6 +78,10 @@
   "0443059bc052cad8b3a5d73ced678146cf4a7360929fd995b13f96da21ef9783": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jun/05/new-jersey-delaney-hall-governor",
     "resolved_at": "2026-06-09T04:23:52+00:00"
+  },
+  "04451f8b426460630c8251d124776f1d5599baaedb2490da341f8ada48e99201": {
+    "canonical_url": "https://www.ft.com/content/199b6c9f-fe1a-402f-9ea1-c77ea8cba334",
+    "resolved_at": "2026-06-19T05:22:42+00:00"
   },
   "0457f0cc5e4a6935c9a1690d7a44e57811bca03606ba5ec405b6a43c9e332b7a": {
     "canonical_url": "https://www.wired.com/story/oura-ring-5/",
@@ -169,7 +173,7 @@
   },
   "0865bf7fc0c1270a2b1d78e366f5c0dc27361d70c2aa88f6fea530e5ed122858": {
     "canonical_url": "https://arxiv.org/html/2606.03215v1",
-    "resolved_at": "2026-06-12T05:01:46+00:00"
+    "resolved_at": "2026-06-19T05:23:18+00:00"
   },
   "08e684bd802a3347407905b951fea3e64e9688211ffcef3587ff32ff348b574d": {
     "canonical_url": "https://arxiv.org/pdf/2606.08146",
@@ -355,6 +359,10 @@
     "canonical_url": "https://www.straitstimes.com/world/europe/wealthy-russians-see-empires-crumble-as-putin-seizes-assets",
     "resolved_at": "2026-06-06T04:18:48+00:00"
   },
+  "13ed1f87c399025056ec3df5cee5b76f351f8a945e4b85d5ab096765c2dfcf3b": {
+    "canonical_url": "https://www.bbc.com/news/articles/cjdg3yg79k8o",
+    "resolved_at": "2026-06-19T05:22:47+00:00"
+  },
   "1446e6d196e9719e382026e5418afb787316811f6b262ecdfc54d9377bc48664": {
     "canonical_url": "https://arxiv.org/pdf/2601.21365",
     "resolved_at": "2026-06-16T05:30:45+00:00"
@@ -519,6 +527,10 @@
     "canonical_url": "https://www.straitstimes.com/singapore/courts-crime/alleged-scam-caller-in-cambodia-based-singaporean-run-syndicate-charged",
     "resolved_at": "2026-06-02T05:02:07+00:00"
   },
+  "1bb35a2ff3195e094927f92f7f9a54966a82d684651119933f0d951f956c54db": {
+    "canonical_url": "https://www.bbc.co.uk/news/articles/cn59xpyw300o",
+    "resolved_at": "2026-06-19T05:22:50+00:00"
+  },
   "1bbde15ed5698901d517f9776363840d90216d8663eabc38cf7e4ebe8f676beb": {
     "canonical_url": "https://www.theguardian.com/world/video/2026/jun/10/jared-kushner-albania-sazan-island-real-estate-deal",
     "resolved_at": "2026-06-12T05:01:41+00:00"
@@ -574,6 +586,10 @@
   "1ed26f4fef3f1bd995f831343f6be0cc8bc1d9978c2ef6f14c5a639d6ce1fbb1": {
     "canonical_url": "https://www.usenix.org/system/files/soups2025-wang.pdf",
     "resolved_at": "2026-06-01T04:10:54+00:00"
+  },
+  "201dfc8e93714df44e407fd9d16da68f2ed4e4c3c21d129769dc5ce4e081376e": {
+    "canonical_url": "https://www.theguardian.com/business/2026/jun/18/lisa-cook-legal-security-fees-trump-fed",
+    "resolved_at": "2026-06-19T05:23:01+00:00"
   },
   "209bc9735d7e45dd9103b9d81c6c26f043929c015f36123516b1fe70fe35d618": {
     "canonical_url": "https://arxiv.org/pdf/2605.29667",
@@ -1011,9 +1027,17 @@
     "canonical_url": "https://www.reuters.com/business/uber-sues-new-york-city-over-reckless-driver-protection-law-2026-06-10/",
     "resolved_at": "2026-06-11T04:58:59+00:00"
   },
+  "40180b1c7c57af8f750786e2df238209879cb15e64ed78963e78bab9249c1db8": {
+    "canonical_url": "https://www.abc.net.au/news/2026-06-19/telco-warning-over-bank-text-scam-after-customers-lost-millions/106803062",
+    "resolved_at": "2026-06-19T05:22:59+00:00"
+  },
   "40868adb0a0ee10a1019027e0350892082c14fb54e14783842a38fdd52eed4a9": {
     "canonical_url": "https://arxiv.org/html/2605.09225v1",
     "resolved_at": "2026-06-07T04:54:52+00:00"
+  },
+  "413d951a2e70fd0e9a5c40ac4935111050e6bed020c30a85d42c600a19c904de": {
+    "canonical_url": "https://apnews.com/article/one-tech-tip-world-cup-ticket-scams-a967760ff3e9472845f3e639c56f85ec",
+    "resolved_at": "2026-06-19T05:22:49+00:00"
   },
   "4148c41fd8e5b37d668674b659e7ec3ec736e1d2304a95099dae09cffad22e2a": {
     "canonical_url": "https://cnalifestyle.channelnewsasia.com/entertainment/shakira-acquitted-tax-fraud-court-orders-spain-hand-back-us70-million-583301",
@@ -1102,6 +1126,10 @@
   "48405276028d79f87d75844a6f7fff920398376fbf44b19d8bf5b8e669a8fd28": {
     "canonical_url": "https://www.wired.com/story/the-9-best-movies-to-stream-right-now/",
     "resolved_at": "2026-05-27T02:37:28+00:00"
+  },
+  "48c09b52bcc5435b9062bca0f61ee24b6361f0a5e76442681f5fc6dded9df9dd": {
+    "canonical_url": "https://www.abc.net.au/news/2026-06-18/daryl-maguire-clueless-about-visa-fraud-court-told/106812392",
+    "resolved_at": "2026-06-19T05:22:54+00:00"
   },
   "495cc59f6c05a2225f3262dad5edc80910587339b0e2c65761f3610ab0051762": {
     "canonical_url": "https://www.straitstimes.com/singapore/sporean-man-allegedly-linked-to-cambodia-scam-ring-arrested-2-more-sporean-suspects-wanted",
@@ -1231,6 +1259,10 @@
     "canonical_url": "https://apnews.com/article/supreme-court-securities-exchange-commission-regulatory-agencies-0f0ffb4f6bebafa5454ec8406477be4e",
     "resolved_at": "2026-06-09T04:23:06+00:00"
   },
+  "510b01c95bbb5d792881305afce13afad7fef36e3a77ee3cc2f90c0f616ec01b": {
+    "canonical_url": "https://www.reuters.com/legal/litigation/baby-formula-maker-nara-issues-us-wide-recall-after-fda-cdc-flag-infant-botulism-2026-06-15/",
+    "resolved_at": "2026-06-19T05:23:09+00:00"
+  },
   "5154f13f036441e643429b76970b5025ba3d7a7750d4f10cbc494e23a704541c": {
     "canonical_url": "https://graphika.com/reports/scams-fraud",
     "resolved_at": "2026-05-27T02:38:31+00:00"
@@ -1246,6 +1278,10 @@
   "51a1ee70636ee9b4d152c4f23ffa550d8ad454a9ac44022184076f18fd9812df": {
     "canonical_url": "https://www.404media.co/corpse-point-in-the-arctic-is-melting-disturbing-centuries-old-bodies/",
     "resolved_at": "2026-05-25T01:06:40+00:00"
+  },
+  "51cd770fb191391370c1141dea5c8e3e046ee397ab7f66fa0cd3e1e2ace68319": {
+    "canonical_url": "https://arxiv.org/pdf/2606.18541",
+    "resolved_at": "2026-06-19T05:22:36+00:00"
   },
   "52779fc29b88bfda2e0ae8b2b8f031cd430297d6b936db72121ccdd27ef08f48": {
     "canonical_url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
@@ -1302,6 +1338,10 @@
   "557b3e5ed3e74dc7b7e72117f81f003744dc39800e86c173d843fb96e8dcb7b4": {
     "canonical_url": "https://asia.nikkei.com/spotlight/society?page=26",
     "resolved_at": "2026-06-08T05:00:32+00:00"
+  },
+  "557de8e1a7d9951d092dc83acd2b0814ae88c491d766f75f422c180cabbb6a63": {
+    "canonical_url": "https://www.wired.com/story/cvs-is-switching-to-aluminum-pill-bottles/",
+    "resolved_at": "2026-06-19T05:23:06+00:00"
   },
   "55b5a7074f2657c3a3f736ee8577988fee69cd9a70d63fe154bdbb684af73d46": {
     "canonical_url": "https://arxiv.org/html/2606.06244",
@@ -1383,6 +1423,10 @@
     "canonical_url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
     "resolved_at": "2026-06-09T04:23:09+00:00"
   },
+  "597259281bb16e4d0fa0be46c8ecfe4a2bf7ddde22edd528bcff0c3d739f57d6": {
+    "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202606180100BIZWIRE_USPRX____20260617_BW940322-1",
+    "resolved_at": "2026-06-19T05:23:03+00:00"
+  },
   "5979b7a809af438a11facaef65794cdccabc7c025af566a90990bd557915cf8b": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/fc5692a0-d016-4d32-945f-2b8344f0e438-MECA.pdf?abstractid=6636659&mirid=1",
     "resolved_at": "2026-05-31T04:49:58+00:00"
@@ -1418,6 +1462,10 @@
   "5b4372a3c4cfbd73101b40a6dc7ba989cad4f6bf2c6c3773759e41ba6e2ae617": {
     "canonical_url": "https://arxiv.org/pdf/2605.19360",
     "resolved_at": "2026-06-07T04:55:00+00:00"
+  },
+  "5b63e90df805a0bafe30b63c69f5a859f587529ab2381afe404a3b4fb258e578": {
+    "canonical_url": "https://www.bbc.com/news/articles/c7vyn6d0m1vo",
+    "resolved_at": "2026-06-19T05:23:12+00:00"
   },
   "5b7babef04965d1436c432f1eda80651ca58ac88b16032d788163f4a28fa7fd7": {
     "canonical_url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
@@ -1495,6 +1543,10 @@
     "canonical_url": "https://therecord.media/nigeria-raccoon-developer-tip",
     "resolved_at": "2026-05-27T02:38:17+00:00"
   },
+  "5f83cead07ccc5c810f80069af45cc2806fc04c0b0dca2ecdc6e399e383f1e23": {
+    "canonical_url": "https://apnews.com/article/brazil-police-lula-ally-banco-master-3209ac569264d5021cef43946946a0a1",
+    "resolved_at": "2026-06-19T05:23:07+00:00"
+  },
   "5f8bce1caa4a92804cc4e89caea0e545ca18c578467017f8e1d66f1093c87fed": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/wang-jue-immigration-investment-china-fraud-6168616",
     "resolved_at": "2026-06-09T04:24:00+00:00"
@@ -1565,7 +1617,7 @@
   },
   "636c719cf4a2987f6b5a854dd18154d82c63285c8c41ed83687c929ee79cbe65": {
     "canonical_url": "https://arxiv.org/html/2509.05367v5",
-    "resolved_at": "2026-06-12T05:01:48+00:00"
+    "resolved_at": "2026-06-19T05:23:19+00:00"
   },
   "6391169be5d9ae85907d17ae0c4a834e80336e8929b52bfa65b04b6a191f214b": {
     "canonical_url": "https://arxiv.org/html/2606.10484v1",
@@ -1705,11 +1757,15 @@
   },
   "6cfddfa06995f08d4e117c856d86459997bf663b61d1efdd803abf90bd50d764": {
     "canonical_url": "https://arxiv.org/html/2605.23243v2",
-    "resolved_at": "2026-06-12T05:00:51+00:00"
+    "resolved_at": "2026-06-19T05:23:10+00:00"
   },
   "6d1ad4e94c2481c5ced235286c86872d3d2c2010fffdd36168e219451d231f95": {
     "canonical_url": "https://asia.nikkei.com/spotlight/society/crime/ai-crypto-scams-soar-in-us-as-annual-losses-top-11bn",
     "resolved_at": "2026-06-06T04:18:43+00:00"
+  },
+  "6d6230846c3093934b4a36ff260ae45dc80b75522da6613a80b742c847b45ff5": {
+    "canonical_url": "https://arxiv.org/html/2606.18541v1",
+    "resolved_at": "2026-06-19T05:24:15+00:00"
   },
   "6dc14c929a662a6f3ac6557d13cfae38658a682365cd0e2867fe968f552b0e59": {
     "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202606100900BIZWIRE_USPRX____20260610_BW637404-1",
@@ -1943,6 +1999,10 @@
     "canonical_url": "https://www.reuters.com/legal/litigation/us-senators-ask-review-teslas-full-self-driving-safety-data-citing-reuters-2026-06-16/",
     "resolved_at": "2026-06-17T05:11:18+00:00"
   },
+  "7fe84ded7c438e1be4e4ca16aacdad8ba3a21ae8c43d2e0303abf16742c3905c": {
+    "canonical_url": "https://arxiv.org/html/2606.15517",
+    "resolved_at": "2026-06-19T05:23:16+00:00"
+  },
   "7ffcdbe15ea4be2574b3d1078f6abc7d76deaf228d43892196983aedd1979ed4": {
     "canonical_url": "https://www.404media.co/podcast-the-chinese-deepfake-software-powering-scams/",
     "resolved_at": "2026-05-24T10:12:21+00:00"
@@ -1970,6 +2030,10 @@
   "80b837c60af02f7635a8252e136ac45a889b16e0711687fe960e0883492f6013": {
     "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202606100900BIZWIRE_USPRX____20260610_BW637404-1",
     "resolved_at": "2026-06-11T04:59:51+00:00"
+  },
+  "80c71ffa116bb070d555e8d2acf525a9a532e653c0c861343fc8a0182d5697b5": {
+    "canonical_url": "https://www.bbc.com/news/articles/cwy076gyq0vo",
+    "resolved_at": "2026-06-19T05:22:40+00:00"
   },
   "80da0cb710a52ec61c9d25e5ed530197599d33c96af685cc69c66dea035f5182": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6762100.pdf?abstractid=6762100&mirid=1",
@@ -2135,6 +2199,10 @@
     "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
     "resolved_at": "2026-05-23T15:51:19+00:00"
   },
+  "8e549c7476c7c0d114941b49f9f373173e388b12101a517840cb7afb851c3f5b": {
+    "canonical_url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
+    "resolved_at": "2026-06-19T05:24:13+00:00"
+  },
   "8ebc8b37fd46214aa6746ff65faaba81e6d1ae41d95fb25dae40e723953274b8": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/11/brazilian-woman-posing-as-child-fraud-scheme",
     "resolved_at": "2026-06-12T05:01:10+00:00"
@@ -2170,6 +2238,10 @@
   "92883d86cff29c9812e8a0e1ddeff1e219d3389201609d40670c55f002959f86": {
     "canonical_url": "https://www.wired.com/story/future-of-truth-ai-interview/",
     "resolved_at": "2026-06-01T04:09:13+00:00"
+  },
+  "931d24672a29108980c5e28143a0a20136378cedfeac98a1e53f8dacc7fcc9d4": {
+    "canonical_url": "https://arxiv.org/html/2512.01166",
+    "resolved_at": "2026-06-19T05:23:21+00:00"
   },
   "93254d5634983c9366d687ccdd43f4b953eeca60aeb2f00423d363ebc2e91555": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6477178",
@@ -2311,6 +2383,10 @@
     "canonical_url": "https://www.channelnewsasia.com/asia/cambodia-scamming-crackdown-victims-crime-6149341",
     "resolved_at": "2026-06-03T05:10:14+00:00"
   },
+  "9dd0271c71ae5571ea6b422f1833e2222335d552c0234d8f09587b81f04b3f93": {
+    "canonical_url": "https://arxiv.org/pdf/2601.20999",
+    "resolved_at": "2026-06-19T05:23:24+00:00"
+  },
   "9e0244a4ff6e6704475cf3712f080dea1d8173898076903e7ad419c514500560": {
     "canonical_url": "https://www.theguardian.com/society/ng-interactive/2026/jun/12/autistic-children-stem-cell-treatment-families",
     "resolved_at": "2026-06-13T04:49:07+00:00"
@@ -2330,6 +2406,10 @@
   "9f670f2001de52f8c332688717c4b04519454ca2893a63ea5af10e336416ee0b": {
     "canonical_url": "https://techxplore.com/news/2026-03-ai-online-anonymity.html",
     "resolved_at": "2026-05-27T02:37:39+00:00"
+  },
+  "9f83354b6c134cb775436f2fdef41d79a8c352603e49b37274876827155ad92b": {
+    "canonical_url": "https://www.bbc.com/news/articles/cp9ly2dp39zo",
+    "resolved_at": "2026-06-19T05:23:04+00:00"
   },
   "9f83525d5ad016e48f7375a0afafef0159a4236317ce8cf32405f7b2f21dec8d": {
     "canonical_url": "https://www.bbc.com/pidgin/articles/c4gyen98jx9o",
@@ -2390,6 +2470,10 @@
   "a478afb4a9eebe65625344db686ae417d385873d23f4b389d628a162dca2e769": {
     "canonical_url": "https://www.graphika.com/blogs/deepfakes-seek-deep-pockets-gen-ai-s-boost-to-financial-fraud",
     "resolved_at": "2026-06-13T04:50:11+00:00"
+  },
+  "a48fba1092437cf1053454d7aa48f34021cfe4e6d6e9d24c24fe6ebd36e7fd73": {
+    "canonical_url": "https://www.bbc.com/news/articles/c4gy3lgz1x3o",
+    "resolved_at": "2026-06-19T05:22:56+00:00"
   },
   "a4e37131e334f040378a23ed1d2bfc42179d40ae81f16c7e2b1d941d79f69795": {
     "canonical_url": "https://arxiv.org/html/2606.17793v1",
@@ -2470,6 +2554,10 @@
   "ab4c3d1329a9b5115d203c19e7ae51259677873c5f33788e78dd219af83bc708": {
     "canonical_url": "https://arxiv.org/html/2605.16436v1",
     "resolved_at": "2026-06-06T04:18:57+00:00"
+  },
+  "ab51362070676d5b46fca4b06bfd9461f48810dd95ee426544add1434aced594": {
+    "canonical_url": "https://www.bbc.com/sport/football/articles/cvg7n7xdnd0o",
+    "resolved_at": "2026-06-19T05:23:15+00:00"
   },
   "ab750d4d6205c6b81aa4da42cf12a8506946528f23e38cc54f07d9ce01a04213": {
     "canonical_url": "https://www.theguardian.com/commentisfree/2026/jun/10/putin-trump-ukraine-iran-wars-authoritarian",
@@ -2787,6 +2875,10 @@
     "canonical_url": "https://www.reuters.com/legal/government/will-trump-spend-his-350-million-war-chest-win-texas-republicans-are-worried-2026-06-13/",
     "resolved_at": "2026-06-14T05:05:47+00:00"
   },
+  "bef9e05cf3a7469918620a1f7dded4d209d0cf6a303af5f4fe47d0a6594d865a": {
+    "canonical_url": "https://thediplomat.com/2026/06/xis-authoritarian-blueprint-for-the-myanmar-junta/",
+    "resolved_at": "2026-06-19T05:24:13+00:00"
+  },
   "bf41ca92477dbf71b16781c5a8ee5608e815fd405f008cdd7fffafd9e78297be": {
     "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202605140900BIZWIRE_USPRX____20260514_BW990193-1",
     "resolved_at": "2026-06-09T04:24:19+00:00"
@@ -2813,7 +2905,7 @@
   },
   "c260164226a7ecdd92d405029e07ede2ab438f459bf14323e3e4a37badb1616f": {
     "canonical_url": "https://arxiv.org/pdf/2602.02641",
-    "resolved_at": "2026-06-12T05:02:36+00:00"
+    "resolved_at": "2026-06-19T05:24:15+00:00"
   },
   "c2aa2c0ec603d3b1d8def2ba817c7b35953971bd6c700a6a71826ed95fde2e64": {
     "canonical_url": "https://arxiv.org/pdf/2605.20759",
@@ -2939,6 +3031,10 @@
     "canonical_url": "https://asia.nikkei.com/spotlight/society/crime/foreign-workers-flee-to-phnom-penh-after-mass-exits-from-scam-compounds",
     "resolved_at": "2026-05-29T02:27:57+00:00"
   },
+  "caf33c0395fcf99df9aa251de87eb353d92136e0ed1dc840979b83ed2dafd250": {
+    "canonical_url": "https://arxiv.org/html/2606.18541v1",
+    "resolved_at": "2026-06-19T05:22:34+00:00"
+  },
   "cb0ddbf77fa6a95bf57e43c23f9dd8b089a243528b1e80379fc196895432afa2": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
     "resolved_at": "2026-06-16T05:31:45+00:00"
@@ -2962,6 +3058,10 @@
   "cc972cb70681cba9427d0b30c8f6843901f27fccc0c625dbfff0a81a273f07a3": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/police-new-unit-combat-scams-cybercrime-6112606",
     "resolved_at": "2026-05-23T15:51:25+00:00"
+  },
+  "cce764acff72fc33a9e5257fea3ab87fe33a5ccbf88fc2f840eb66f01f4bef48": {
+    "canonical_url": "https://www.bbc.com/news/articles/cm2ry823x2vo",
+    "resolved_at": "2026-06-19T05:22:52+00:00"
   },
   "ccf606beb40cf2994d55c470e9ade00e7f4082b33e624d94b1aa5d7f6f9ef8ed": {
     "canonical_url": "https://www.abc.net.au/news/2026-06-10/tas-nant-whisky-supreme-court-keith-batt-months-long-trial/106780768",
@@ -3403,6 +3503,10 @@
     "canonical_url": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
     "resolved_at": "2026-06-11T04:58:41+00:00"
   },
+  "e7f54e27af0d68864686729e546ab28f5ca49836ef0e2cac7a25ede53aab59b8": {
+    "canonical_url": "https://www.ft.com/content/32b5af43-6ceb-452d-ac2f-d4cda3f4938c?syn-25a6b1a6=1",
+    "resolved_at": "2026-06-19T05:22:58+00:00"
+  },
   "e89df34bfc36cf68a9a443f4c99bb2d6318873099a37e996061ceb038b322789": {
     "canonical_url": "https://arxiv.org/html/2605.02502v3",
     "resolved_at": "2026-05-23T16:12:09+00:00"
@@ -3422,6 +3526,10 @@
   "e8e53ae9d472505fea6fb12a525e7cf4ca6731169e0d43772e1e5364528307f4": {
     "canonical_url": "https://www.wired.com/story/backrooms-movie-kane-parsons-interview/",
     "resolved_at": "2026-05-31T04:49:49+00:00"
+  },
+  "e913d5fcf7689a8f6a6866b84b8a7b07ce2f3d81334bb06bc198f1a07bfd54f3": {
+    "canonical_url": "https://thediplomat.com/2026/06/xis-authoritarian-blueprint-for-the-myanmar-junta/",
+    "resolved_at": "2026-06-19T05:23:13+00:00"
   },
   "e92b12ab9bccd9731df562d30cf038dc9a2232f349fc37a95e2c7593383dca33": {
     "canonical_url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation",
@@ -3470,6 +3578,10 @@
   "ec75d7bb1c1df0b33b08ed15ad7fd4edd7f346b6304db15c327a80c80e6bcd3e": {
     "canonical_url": "https://www.404media.co/k-pop-fans-deepfakes-ai-generated-idols/",
     "resolved_at": "2026-06-06T04:18:36+00:00"
+  },
+  "ece548776f74bd699020c7ce259b927ec8386a1af35e3c16846f166647500259": {
+    "canonical_url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
+    "resolved_at": "2026-06-19T05:22:37+00:00"
   },
   "ed6d21402246ef77ed9f7d48523b1e7c4c7bcedf0784bd7a686668072143b7cf": {
     "canonical_url": "https://arxiv.org/html/2606.10083v1",
@@ -3555,6 +3667,10 @@
     "canonical_url": "https://www.channelnewsasia.com/singapore/ngiam-siow-jui-singaporean-cambodia-scam-syndicate-arrested-two-more-wanted-jonathan-boneta-lee-ding-hao-6101211",
     "resolved_at": "2026-06-04T05:03:23+00:00"
   },
+  "f3fbe7b1c0082483f570976aed1bfc41fd7fff7e9938431671d6b7669a831720": {
+    "canonical_url": "https://iview.abc.net.au/show/amazing-world-of-gumball/series/3/video/ZW4787A011S00",
+    "resolved_at": "2026-06-19T05:22:45+00:00"
+  },
   "f47d052bd075544926125e126d155c2cacd68b6ee815ed67fdb92bc54bb4ef47": {
     "canonical_url": "https://www.graphika.com/blogs/emerging-playbooks-how-scammers-leverage-vibe-coding-for-fraudulent-ticket-sites",
     "resolved_at": "2026-06-14T05:06:45+00:00"
@@ -3562,6 +3678,14 @@
   "f48a566c60bc90ea17efcca2329444156a30d05ba87b2909485753c48af4338d": {
     "canonical_url": "https://www.straitstimes.com/asia/cambodia-sentences-six-for-murder-of-south-korean-student-linked-to-scam-centre",
     "resolved_at": "2026-05-28T01:55:44+00:00"
+  },
+  "f4a2edf11a04a45535b882e9b463af1e4baf296005a47912f824677dadca14c9": {
+    "canonical_url": "https://arxiv.org/html/2606.19184",
+    "resolved_at": "2026-06-19T05:22:39+00:00"
+  },
+  "f4ba9b815d8105daaeb860d00e060a2b5ff4f207a0bba7b2cd9373d79b987d5a": {
+    "canonical_url": "https://www.bbc.co.uk/news/articles/cpd34e5g1nyo",
+    "resolved_at": "2026-06-19T05:22:44+00:00"
   },
   "f4f5f665461942b14f9c544fe0241dc3f6b9fb29feab32416416ef81db9c4323": {
     "canonical_url": "https://ieeexplore.ieee.org/iel8/11306378/11306349/11306514.pdf",

@@ -126,6 +126,20 @@
       "url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268",
       "usefulness_category": "Scam development"
     },
+    "abc.net.au|2026-06-17|anti australia\u2019s problem scam solve strategy video will": {
+      "article_type": "News report",
+      "normalised_title": "video will australia\u2019s anti scam strategy solve problem",
+      "normalized_title_fingerprint": "video will australia\u2019s anti scam strategy solve problem",
+      "original_url": "https://www.abc.net.au/news/2026-06-17/will-australia-s-anti-scam-strategy-solve-the-problem-/106810588",
+      "parsed_date": "2026-06-17",
+      "raw_title": "VIDEO: Will Australia\u2019s anti-scam strategy solve the problem?",
+      "same_story_key": "abc.net.au|2026-06-17|anti australia\u2019s problem scam solve strategy video will",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "abc.net.au",
+      "title": "video will australia\u2019s anti scam strategy solve problem",
+      "url": "https://www.abc.net.au/news/2026-06-17/will-australia-s-anti-scam-strategy-solve-the-problem-/106810588",
+      "usefulness_category": "Scam development"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -630,6 +644,20 @@
       "url": "https://arxiv.org/html/2606.17555v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-06-18|attitudes computing concerned confident cybersecurity inconsistencies students\u2019 yet": {
+      "article_type": "Research paper",
+      "normalised_title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "normalized_title_fingerprint": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "original_url": "https://arxiv.org/html/2606.18541v1",
+      "parsed_date": "2026-06-18",
+      "raw_title": "Confident yet Concerned: Inconsistencies in Computing Students\u2019 Attitudes on Cybersecurity",
+      "same_story_key": "arxiv.org|2026-06-18|attitudes computing concerned confident cybersecurity inconsistencies students\u2019 yet",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "arxiv.org",
+      "title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "url": "https://arxiv.org/html/2606.18541v1",
+      "usefulness_category": "Research / novel method"
+    },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -685,6 +713,20 @@
       "title": "fake australian chinese brazilian police stations bbc goes inside seized scam compound",
       "url": "https://www.bbc.com/news/articles/cjenpy8gx71o",
       "usefulness_category": "Operational intelligence"
+    },
+    "bbc.com|2026-06-18|age avoid being children cly7j0p6jeno scams taught": {
+      "article_type": "Enforcement report",
+      "normalised_title": "children being taught avoid scams age 10",
+      "normalized_title_fingerprint": "children being taught avoid scams age 10",
+      "original_url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
+      "parsed_date": "2026-06-18",
+      "raw_title": "Why children are being taught how to avoid scams at age 10",
+      "same_story_key": "bbc.com|2026-06-18|age avoid being children cly7j0p6jeno scams taught",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "bbc.com",
+      "title": "children being taught avoid scams age 10",
+      "url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "channelnewsasia.com|2025-12-16|000 admits cards exchange lost money register registering": {
       "article_type": "Enforcement report",
@@ -2238,6 +2280,18 @@
       "title": "can llm agents simulate dynamic networks case study email networks phishing synthesis",
       "usefulness_category": "Research / novel method"
     },
+    "children being taught avoid scams age 10": {
+      "article_type": "Enforcement report",
+      "normalised_title": "children being taught avoid scams age 10",
+      "normalized_title_fingerprint": "children being taught avoid scams age 10",
+      "parsed_date": "2026-06-18",
+      "raw_title": "Why children are being taught how to avoid scams at age 10",
+      "same_story_key": "bbc.com|2026-06-18|age avoid being children cly7j0p6jeno scams taught",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "bbc.com",
+      "title": "children being taught avoid scams age 10",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "china executes 11 people linked myanmar scam operation": {
       "article_type": "News report",
       "normalised_title": "china executes 11 people linked myanmar scam operation",
@@ -2273,6 +2327,18 @@
       "source_domain": "wired.com",
       "title": "collapse usaid already fueling human trafficking slavery scammer compounds",
       "usefulness_category": "Operational intelligence"
+    },
+    "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity": {
+      "article_type": "Research paper",
+      "normalised_title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "normalized_title_fingerprint": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "parsed_date": "2026-06-18",
+      "raw_title": "Confident yet Concerned: Inconsistencies in Computing Students\u2019 Attitudes on Cybersecurity",
+      "same_story_key": "arxiv.org|2026-06-18|attitudes computing concerned confident cybersecurity inconsistencies students\u2019 yet",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "arxiv.org",
+      "title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "usefulness_category": "Research / novel method"
     },
     "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019": {
       "article_type": "News report",
@@ -3472,6 +3538,18 @@
       "sent_at": "2026-05-24T03:38:47+00:00",
       "source_domain": "straitstimes.com",
       "title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
+      "usefulness_category": "Scam development"
+    },
+    "video will australia\u2019s anti scam strategy solve problem": {
+      "article_type": "News report",
+      "normalised_title": "video will australia\u2019s anti scam strategy solve problem",
+      "normalized_title_fingerprint": "video will australia\u2019s anti scam strategy solve problem",
+      "parsed_date": "2026-06-17",
+      "raw_title": "VIDEO: Will Australia\u2019s anti-scam strategy solve the problem?",
+      "same_story_key": "abc.net.au|2026-06-17|anti australia\u2019s problem scam solve strategy video will",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "abc.net.au",
+      "title": "video will australia\u2019s anti scam strategy solve problem",
       "usefulness_category": "Scam development"
     },
     "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering": {
@@ -4952,6 +5030,18 @@
       "url": "https://ieeexplore.ieee.org/iel8/6287639/11323511/11411806.pdf",
       "usefulness_category": "Product idea / data source"
     },
+    "6d6230846c3093934b4a36ff260ae45dc80b75522da6613a80b742c847b45ff5": {
+      "article_type": "Research paper",
+      "normalised_title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "normalized_title_fingerprint": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
+      "parsed_date": "2026-06-18",
+      "same_story_key": "arxiv.org|2026-06-18|attitudes computing concerned confident cybersecurity inconsistencies students\u2019 yet",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Confident yet Concerned: Inconsistencies in Computing Students\u2019 Attitudes on Cybersecurity",
+      "url": "https://arxiv.org/html/2606.18541v1",
+      "usefulness_category": "Research / novel method"
+    },
     "6e057e0bdec14ea1ca67feb0ec9bad1593259c881c6caa4e839f39a63031edcb": {
       "article_type": "Research paper",
       "normalised_title": "modeling behavioral signals job scams human centered security study",
@@ -5347,6 +5437,18 @@
       "title": "Taylor Swift deepfakes are pushing scams on TikTok",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeFJzLVVFSGY5Z3QyTzZ4SUhqcWNtYTVOckZMX05qdmZ1Q2JydHFtWVFhMTFuSHYxYVluVDB0VGlVQy1BZEFSOXFMWVlDVUFCMk5KTlhyMVpTSWZKMjk2R3F6U1BRMUE2YXJtRnE5Y2dTSUVZN2VRQllCTWNQWDVlSDAyMmREdW53SGViT3NBMkpPamJmZWFZeEE0bXlDR3p5V1Zv?oc=5",
       "usefulness_category": "Platform policy / product change"
+    },
+    "8e549c7476c7c0d114941b49f9f373173e388b12101a517840cb7afb851c3f5b": {
+      "article_type": "Enforcement report",
+      "normalised_title": "children being taught avoid scams age 10",
+      "normalized_title_fingerprint": "children being taught avoid scams age 10",
+      "parsed_date": "2026-06-18",
+      "same_story_key": "bbc.com|2026-06-18|age avoid being children cly7j0p6jeno scams taught",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "bbc.com",
+      "title": "Why children are being taught how to avoid scams at age 10",
+      "url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "9446e6dc5049bed33c848afed38c71896e4114744473a559f97f0e7de6f3f175": {
       "article_type": "Research paper",
@@ -5815,6 +5917,18 @@
       "title": "Sri Lanka becomes next hub for scam networks",
       "url": "https://www.straitstimes.com/asia/south-asia/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka",
       "usefulness_category": "Operational intelligence"
+    },
+    "c57bcceb2f30639689934a8cc0a02669fb62dbc5881f0ea78b8240bfcc265ad4": {
+      "article_type": "News report",
+      "normalised_title": "video will australia\u2019s anti scam strategy solve problem",
+      "normalized_title_fingerprint": "video will australia\u2019s anti scam strategy solve problem",
+      "parsed_date": "2026-06-17",
+      "same_story_key": "abc.net.au|2026-06-17|anti australia\u2019s problem scam solve strategy video will",
+      "sent_at": "2026-06-19T05:24:20+00:00",
+      "source_domain": "abc.net.au",
+      "title": "VIDEO: Will Australia\u2019s anti-scam strategy solve the problem?",
+      "url": "https://www.abc.net.au/news/2026-06-17/will-australia-s-anti-scam-strategy-solve-the-problem-/106810588",
+      "usefulness_category": "Scam development"
     },
     "c7c055d95d0b1e126297c64cbd846f5ab10536e9bb7f3eab30a1423f9bda940b": {
       "article_type": "Research paper",

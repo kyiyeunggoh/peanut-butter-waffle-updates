@@ -1462,6 +1462,37 @@
         "Product idea / data source": 2,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 45,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 8,
+        "current_affairs": 34,
+        "psychology": 3
+      },
+      "shortlist_count": 6,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "arxiv.org": 1,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "thediplomat.com": 1
+      },
+      "timestamp": "2026-06-19T05:24:19+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Detection / analytics / engineering insight": 1,
+        "Research / novel method": 1,
+        "Scam development": 1
+      }
     }
   ]
 }
