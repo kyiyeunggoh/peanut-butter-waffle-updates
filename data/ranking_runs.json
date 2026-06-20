@@ -1493,6 +1493,37 @@
         "Research / novel method": 1,
         "Scam development": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Research paper": 1,
+        "Technical article": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 40,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 7,
+        "current_affairs": 30,
+        "psychology": 3
+      },
+      "shortlist_count": 7,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "arxiv.org": 1,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 2
+      },
+      "timestamp": "2026-06-20T04:41:53+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Research / novel method": 1,
+        "Technical abuse / vulnerability": 1
+      }
     }
   ]
 }
