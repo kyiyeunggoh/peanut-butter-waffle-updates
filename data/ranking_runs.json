@@ -1524,6 +1524,36 @@
         "Research / novel method": 1,
         "Technical abuse / vulnerability": 1
       }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 2,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 39,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 9,
+        "current_affairs": 28,
+        "psychology": 2
+      },
+      "shortlist_count": 7,
+      "source_domain_distribution": {
+        "arxiv.org": 1,
+        "bbc.co.uk": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 1,
+        "thediplomat.com": 1,
+        "theguardian.com": 1
+      },
+      "timestamp": "2026-06-21T05:19:44+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 2,
+        "Product idea / data source": 1
+      }
     }
   ]
 }
