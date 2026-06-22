@@ -107,6 +107,54 @@
     ],
     "word_count": 2057
   },
+  "0166d318b48168cb2cfd1842e64a6a6dcc55dd6de7ec476552bd1995390fe8ab": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Context-Aware Spear Phishing: Generative AI-Enabled Attacks Against Individuals via Public Social Media Data Elham Pourabbas Vafa The University of Texas at Arlington Arlington, Texas, USA exp4529@mavs.uta.edu , Sayak Saha Roy Louisiana State University Baton Rouge, Louisiana, USA ssahar3@lsu.edu and Shirin Nilizadeh The University of Texas at Arlington Arlington, Texas, USA shirin.nilizadeh@uta.edu Abstract. We demonstrate how publicly available social-media data and generative AI (GenAI) can be misused to automate and scale highly personalized, context-aware spear-phishing campaigns. With minimal attacker effort, a small amount of public activity per target is sufficient for GenAI models to extract interests and contextual cues, producing persuasive messages that mirror a target\u2019s style while bypassing generic content-moderation safeguards. We introduce a modular framework that combines multimodal signal extraction, communication-style profiling, and attack-type instantiation across seven strategies (baiting, scareware, honey trap, tailgating, impersonation, quid pro quo, and personalized emotional exploitation). We conduct a large-scale, multi-model evaluation covering thousands of generated emails and eight security-relevant criteria, benchmarking against a corpus of real-world phishing messages. The GenAI-produced emails...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:31+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fake recruiter"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fake recruiter"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fake recruiter"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 28994
+  },
   "0191618f7b8a168d6db58076fa07c32b0c8963af2d4b101eb92e897ab6e6f407": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -1212,7 +1260,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-06-15T05:28:31+00:00",
+    "checked_at": "2026-06-22T05:30:31+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -1858,6 +1906,30 @@
     ],
     "word_count": 1131
   },
+  "1527d0743939f0f0bb130b20e910f563e9ccad3b55c11fdc63917ff113436530": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "1576698d41ca44b5a2ee39e25a2a5c4fdcefca147a9913a792544370324bb71b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1881,6 +1953,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "15fcd96736bf8fb0a3b558abcd2de3811d93589d2f6fe7936d6e967aae9b26cd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: ARES: A Platform for Adaptive Role-Based Evaluation of Social Engineering Risks in Human\u2013AI Games \u2020 \u2020 thanks: This research was supported by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI and the EU) and PowerAI+ (SI4/PJI/2024-00062, Comunidad de Madrid and UAM). Javier Irigoyen is supported by an FPI fellowship from MINECO/FEDER. Abstract This work introduces ARES, a platform and open pilot dataset for auditing adaptive social engineering risks in LLM-mediated social decision-making through controlled social games. ARES supports human\u2013human, human\u2013AI, and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronised behavioural and biometric acquisition, filtering, and deep-learning-based feature extraction. The pilot dataset was collected from 15 participants interacting with a role-conditioned GPT-5.4 agent in two concatenated games: an adapted Prisoner\u2019s Dilemma and an Ultimatum Game. It comprises 340 GB of raw and processed multimodal data across six streams: interaction logs, video, screen recordings, gaze logs, smartwatch signals, and game/questionnaire metadata. These data include...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 7839
   },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
@@ -2109,6 +2213,56 @@
     "weak_generic_terms_found": [],
     "word_count": 122
   },
+  "1aba2c10ce3418bee669021e35a33e4810c56a51e8f49aa4def3cfc920e33976": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:13+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
+  "1b130430103e76c1081f5a1ff7b767c9237ba9525338d0acb92d4c2997c3387a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image source, Dorota \"Dee\" Trajdos/Reuters By Anna Lamche Published 21 June 2026 Discount website Wowcher has apologised after a marketing email appeared to reference a crocodile attack on a toddler at a zoo. A three-year-old boy is understood to have been attacked by at least one crocodile after ending up in their enclosure during a family trip to Johnsons of Old Hurst near Huntingdon, Cambridgeshire, on Thursday. An email sent to Wowcher customers on Saturday featured a list of getaways and activities under the subject line: \"Snap up these deals quicker than a croc can catch a kid!\" Screenshots were shared across social media prompting outrage, with Wowcher later saying in a statement that it was extremely sorry for the \"unacceptable\" wording. The firm added: \"It should never have been written, it was never approved for use. The responsibility sits with us and we are urgently reviewing how our processes failed. \"We recognise the hurt and distress it has caused, particularly for the young child's family at this unimaginably difficult time.\" The little boy was pulled from the crocodile enclosure by zoo staff and is now in a critical but stable condition at Addenbrooke's Hospital. Following the incident, a 30-year-old man was arrested on suspicion of attempted murder and subsequently bailed because he was \"unfit for interview\". Police were called to the zoo at 13.24 BST on...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1268
+  },
   "1b2311fec6bfc12b633e8546f46c78f62e8965cc1d3756a9869172cb4ab70e9b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2236,6 +2390,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "1d72c3ea3df8fb000027f362eda4e3f48309a589f5d6db5c320a562d41657161": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Future Care Consultants referred hopeful students to agent that charged them thousands for 'fraudulent' visa help M By Madeleine Rojahn Topic: Scams and Fraud Mon 22 Jun 2026 at 11:23am Mon 22 Jun 2026 at 11:23am Mon 22 Jun 2026 at 11:23am Future Care Consultants told aggrieved students their financial and visa stress was an issue between them and the agent they were connected. ( Supplied ) In short The ABC has heard from four international students who say they were misled by a consultancy advertising education and migration advice, allegations which the company denies. Future Care says it stopped using the agent upon becoming aware of their conduct, reported them, and has not benefited from lost funds. What's next? An immigration lawyer says education agents, unlike migration agents, are not sufficiently regulated. Aspiring university students say they have been lured into paying thousands for fraudulent advice on studying abroad in Australia from a company advertising \"experienced education and migration agents\". The clients say Future Care allocated an agent to handle their student visas, but that person charged them fees for time and applications that failed by design. Future Care Consultants' website says its \"team consists of Experienced Migration Agents (MARA) and Qualified Education Agent Counsellors (QEAC), facilitating international students who wish to study...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:13+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 5776
   },
   "1d886a5e560d30d082b1c52eaf02737521f9d0b3bc9c5a7f6b665a76f5fe4adf": {
     "access_status": "available",
@@ -5741,6 +5931,33 @@
     "weak_generic_terms_found": [],
     "word_count": 3246
   },
+  "457c93b8a1c8d7dae2a8b8db6281b0118edc0f1c34a5d29b4070a602e8e120f8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image caption, Rhiannon had a pint of blackcurrant juice poured over her head by a member of staff By Brendon Williams BBC Wales Published 21 June 2026 Updated 28 minutes ago Being forced to eat dog biscuits off the floor was part of life for young children at an educational referral unit, former pupils have said. One was left with a fear of football after being pelted with \"rock-solid\" balls, while another had a pint of blackcurrant juice poured over her head. And they say this wasn't even punishment - it was fun for the staff. When pupils were disciplined at Canolfan Brynffynnon in Y Felinheli, some could also expect to be locked in a dark toilet or have their nose flicked until it bled. Cyngor Gwynedd admitted abuse took place and has apologised to victims while two former staff members allegedly involved have strongly denied the allegations. Rhiannon Evans, who was 10 when she was sent, and Levi Lewis, who was four, are among 21 people who solicitor Katherine Yates said are currently pursuing claims. Two agreed a settlement of \u00c2\u00a310,000 with the local authority for treatment they say they suffered from staff. She is calling for a public inquiry into the council's running of schools, saying the current case comes \"hot on the heels\" of the jailing of paedophile headmaster Neil Foden . \"Every day there was something going on, from kids dragged down a corridor to kids being...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 4432
+  },
   "45f0d979059d254f51ec0d439ce819dcdd3181cd3c6ad6dee249535d888e8b48": {
     "access_status": "unknown",
     "anti_scam_relevance": "adjacent",
@@ -6081,6 +6298,38 @@
     "weak_generic_terms_found": [],
     "word_count": 3924
   },
+  "4a516c631f5bc47f6587be3880db5e454f41a00c9a77fc9d31cc987caae65fdd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "4a79c1eb30b10af387f5de89926c241a16c865c177d1e5491fc335d859437ff0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -6360,6 +6609,30 @@
       "trust"
     ],
     "word_count": 566
+  },
+  "4d18a1ba866277c7b2b4f3acde781002d830abec3607928423a741a09b811133": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The disruption to Gulf supply chains is expected to keep petrol and diesel prices relatively high for a while. Photograph: Paul Ellis/AFP/Getty Images View image in fullscreen The disruption to Gulf supply chains is expected to keep petrol and diesel prices relatively high for a while. Photograph: Paul Ellis/AFP/Getty Images Explainer What could US-Iran peace deal mean for UK household costs? The impact on petrol and food prices, energy bills and mortgages if the truce holds and strait of Hormuz reopens Around the world, markets reacted with relief this week to news that Donald Trump had signed a draft peace deal with Iran that promised to reopen flows of oil and gas from the Gulf to global buyers. There are already signs the truce could unravel, with Friday\u2019s peace talks in Switzerland abruptly called off , but for now markets seem persuaded that commercial vessel traffic through the key waterway can start returning to normal. The international oil price has slumped to below $80 a barrel, from highs above $126 a barrel in the heat of the crisis when Iran\u2019s de facto blockade on the vital strait of Hormuz trade route upended global energy markets. Europe\u2019s gas prices have fallen, too, from more than \u20ac61 per megawatt-hour in the first month of the war to between \u20ac40 to \u20ac42/MWh this week. So what would a lasting peace mean for household costs? Falling pump prices Fuel prices have...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4822
   },
   "4d83b770a7c60b5c37a01a7f72263dd7c50d2cac08a91707762ca23f34764eb7": {
     "access_status": "available",
@@ -6788,6 +7061,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3168
+  },
+  "57a5878929cd0796ddb3cbee0c9137075c0e48989bc19c999154bb91c127a983": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image source, Getty Images Image caption, The man, known only as Mr P, was wrongly given morphine to take home from hospital By Matthew Richards BBC Wales Published 19 June 2026 Updated 20 June 2026 A man died of a morphine overdose two days after he was mistakenly prescribed it while being discharged from hospital, the Public Services Ombudsman for Wales has said. The ombudsman blamed a \"series of failures\" by staff at Wrexham Maelor Hospital and described what happened as an \"extremely serious injustice\". The man's widow said she felt as though her husband had been sent home from hospital \"with a loaded gun\". Betsi Cadwaladr health board has apologised and admitted it \"fell short\". The patient, named only as Mr P, had been in hospital in March 2024 for treatment related to alcohol withdrawal symptoms. He was given the morphine sulphate medication Sevredol, a type of opioid used to treat severe pain, while in hospital. But he was then mistakenly prescribed some to take home by the discharging doctor who believed he had been taking it before being admitted. The report found there was then a \"series of failures by the medical and pharmacy teams to carry out expected checks\" which \"would have identified this error\". Mr P died of a morphine overdose on 16 March, two days after leaving hospital. A coroner concluded his death was a result of misadventure.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1682
   },
   "57b6768d2d6dc0fc49abffa4ab503ecc1d1d6c9c4c54ba68b1ccb755e47ae580": {
     "access_status": "available",
@@ -7835,6 +8134,32 @@
     ],
     "word_count": null
   },
+  "63331d6a538400e9d7be6717452150365a1ee9cab535731abe9d900c21893739": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Illustration: Sergiy Maidukov/The Guardian View image in fullscreen Illustration: Sergiy Maidukov/The Guardian \u2018A hunting ground for foreign regimes\u2019: why violent attacks on dissidents are on the rise in Britain Iran and China among those accused of targeting critics living in the UK, as arson attack on prime minister Keir Starmer\u2019s properties linked to Russia As Pouria Zeraati was crossing the street between his Wimbledon home and his car in south London in March 2024, he was confronted by two men. One held him firmly as the other stabbed him three times in the leg before they both fled. It was later said to be a targeted attack on behalf of the Iranian regime in Tehran. A punishment for Zeraati\u2019s work as a journalist covering Iran . He survived, but the ambush is one of dozens of violent incidents in recent years linked to foreign states. Russia, China, India, Saudi Arabia and Iran have all been blamed for targeting critics and dissidents living in the UK in the past decade, and linked to incidents involving physical assaults, attempted kidnap, stabbings and an acid attack. View image in fullscreen CCTV of Pouria Zeraati being stabbed in the leg. Photograph: Unpixs/Met Police State-threat investigations run by MI5 jumped by 48% in a year , and there have been more than 20 threat-to-life cases relating to Iran since 2022. This week, arson attacks on properties connected to...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 5773
+  },
   "63617a757eb8f9ede0be011192150e0aaced475f7c8741f3b76c7bb8eab82b34": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -7930,6 +8255,32 @@
       "trust"
     ],
     "word_count": 6898
+  },
+  "64a2bf5d07b08003fdbeba1aef2c512af61185e8bf750998c643e2dac62fbb49": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A scarecrow festival held in the area was ideal for Parr, who looked out for unusual shots. Photograph: Martin Parr/Magnum Photos View image in fullscreen A scarecrow festival held in the area was ideal for Parr, who looked out for unusual shots. Photograph: Martin Parr/Magnum Photos Wiltshire village exhibits Martin Parr\u2019s final photos of scarecrows and prize veg Pictures from photographer\u2019s return to Lacock after 40 years were taken months before his death last December The images are colourful, characterful and thought-provoking. They capture a flower show, a Women\u2019s Institute meeting, a scarecrow festival. A local vicar features, resplendent in a union jack bowler hat, as does a band of bellringers and a bulldog called Billy. View image in fullscreen Rev Si Dunn, resplendent in his union jack bowler hat. Photograph: Martin Parr/Magnum Photos Four decades after chronicling life in the picture-postcard English village of Lacock in Wiltshire, the photographer Martin Parr returned to document what had changed \u2013 and what had not. The results of the project , which turned out to be Parr\u2019s final commission and was completed just months before his death last December , are going on show at the National Trust\u2019s Lacock Abbey. Andy Cochrane, the curator at Lacock, said working with Parr \u2013 who was globally recognised for his wry observations of ordinary Britons and British life \u2013 was...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2338
   },
   "64c33c3f578e3593baa5d043df5c58e071b00f51ef00cbe6b1d962e90dbbc3a8": {
     "access_status": "available",
@@ -8480,6 +8831,32 @@
       "identity"
     ],
     "word_count": 10934
+  },
+  "68c1cbb92f99d4531d9549cc8da9991c5b3b38c99741b7cac704fa9ba37ba0ee": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018A major, preventable public health emergency\u2019 \u2026 Gordon Thoms lost his 23-year-old daughter Alexandra to sudden cardiac arrest in 2023. Photograph: Christopher Hopkins/The Guardian View image in fullscreen \u2018A major, preventable public health emergency\u2019 \u2026 Gordon Thoms lost his 23-year-old daughter Alexandra to sudden cardiac arrest in 2023. Photograph: Christopher Hopkins/The Guardian \u2018A child goes to bed and doesn\u2019t wake up\u2019: the families left in shock after the sudden death of their healthy children Sudden cardiac arrest is statistically rare but among the leading causes of death for children and young people. And families often have no idea of the risk until it\u2019s too late Before Alexandra Thoms goes to sleep, she puts together a flat-pack dining table with her father, Gordon. She needs the table for her otherwise sparse two-bedroom Melbourne apartment which she has moved into just weeks earlier. At 23, Alexandra has met the milestones of an ambitious life at lightning speed. She is well travelled, has earned a double university degree and a graduate job at Deloitte. She is healthy; an avid skier and gymgoer. Now, she is also a homeowner. She didn\u2019t have a formal housewarming, though, as most of her friends still live at home.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 11887
   },
   "6936e50564abff9fc153c9a0ebfaeb6b1d3daa7774b5398953832f47d8d4e92e": {
     "access_status": "available",
@@ -9215,6 +9592,32 @@
     ],
     "word_count": 3276
   },
+  "6f8f69299f35a15234ea47e5c988ed873d44588bb5a6c47bc204ab1225e79a69": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image source, Shift Image caption, Adverts featuring camera-clad cleaners are on display around New York City By Archie Mitchell Business reporter Published 21 June 2026 Picture this: a team of camera-clad cleaners and a private chef to boot, all wired with high-tech recording apparatus show up at your home. You are not part of a reality TV show, and have not woken up in an Aldous Huxley or Margaret Atwood novel. Instead, you are a resident of New York City, where AI companies are sending free cooking and cleaning staff straight to people's doors. But, there is a catch: this AI company is gathering data to train the next generation of cooking and cleaning robots, and every inch of your apartment is now being recorded. The initiative, dubbed Shift by AI firm Micro AGI, is part of a growing number of companies developing the next generation of autonomous robots, which tech bosses hope will be able to do everything from the washing up to serving as live-in personal carers. At my apartment on New York's Upper East Side, I am greeted by two mid-twenties college graduates who have bounced around the start-up world and were looking for work. Because demand for the free cleans is so high, they are stationed in New York indefinitely, cleaning around five apartments a day, five days a week. The only difference between these guys and a regular cleaner is they have built-in cameras...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3230
+  },
   "6fedbf82a0ca3290922e15f7cd56519b286645cc10bdd1439fa02357ebfea66b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9459,6 +9862,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2753
   },
+  "720896bd395d405425970f164c54c0bcce6785300114b35ce8c37f0cad4ccf54": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "John Early and Kate Berlant promoting Maddie's Secret at the Toronto Film Festival on 5 September 2026. Photograph: Gareth Cattermole/Getty Images for IMDb View image in fullscreen John Early and Kate Berlant promoting Maddie's Secret at the Toronto Film Festival on 5 September 2026. Photograph: Gareth Cattermole/Getty Images for IMDb Interview \u2018Vegetarian Nigella\u2019 and flirty hair flips: John Early and Kate Berlant take on diet culture in new influencer satire Owen Myers In his directorial debut Maddie\u2019s Secret, Early plays a food influencer with bulimia in a wild flip on the modern melodrama T hey don\u2019t make film heroines quite like Maddie Ralph any more. As the creation of comedian and actor John Early , the titular character of Maddie\u2019s Secret is a bright-eyed ingenue who greets the day like the sun came out just for her, no matter that she\u2019s trudging to her job as a dishwasher. Like the leading ladies of \u201950s Women\u2019s Pictures, she longs for something more than the hand she has been dealt: in her case, to share her gooey, crispy and umami-packed culinary creations with the world as a food influencer. Early\u2019s character is a lovable striver that you want to see win, even as an eating disorder threatens to get in the way of her dream. \u201cI wanted to make a character that people feel very endeared to and protective of,\u201d says Early a few weeks before the US release of Maddie\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5101
+  },
   "7225fb06f489090d5e0e005dffa7cfe50551f6e64b453da5205d2698fbec82af": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9610,6 +10037,30 @@
       "trust"
     ],
     "word_count": 430
+  },
+  "72e4b1b6b98c89b2df525ae8ad1a3a5b99d952005a769a16437c6a83b568718d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The Russian frigate Admiral Grigorovich, seen here in 2024, was involved in an incident 20 nautical miles south of the Isle of Wight on Tuesday. Photograph: AP View image in fullscreen The Russian frigate Admiral Grigorovich, seen here in 2024, was involved in an incident 20 nautical miles south of the Isle of Wight on Tuesday. Photograph: AP Explainer Why did a Russian frigate fire warning shots and what can the UK do about it? Russia may have violated UN convention on the law of the sea but says it took \u2018all measures to prevent the incident\u2019 The Ministry of Defence has said it is investigating the events that led to a Russian warship firing a warning shot at a British-flagged yacht in the Channel. It is probable that the inquiry will extend to questioning the owners of the yacht but the laws of the sea will sharply limit its scope when it comes to the Russian vessel. Graphic showing a Russian warship fired shots at British yacht What do we know about what happened? Military officials received reports just before midday on Tuesday from a UK-registered yacht, alleging that the Russian frigate Admiral Grigorovich had fired warning shots when it was at a distance of approximately 500 yards (457 metres). The incident was said to have taken place at 11.40am. No injuries or damage were reported by the yacht, which continued on its journey. HMS Mersey was monitoring the Russian...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2530
   },
   "735dc90a26978247112d3bd4cd428fb264c548bd0c2f926f87ac95cba85028ff": {
     "access_status": "available",
@@ -9862,6 +10313,34 @@
       "vulnerability"
     ],
     "word_count": 771
+  },
+  "762d6074a37aeed94c8882dbd74fbee01248fb029f331a47a62b25945f4c599c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Tight security as Indian students resit medical exam after alleged paper leak 18 hours ago Share Save Add as preferred on Google Tiffany Wertheimer Himanshu SHARMA / AFP via Getty Images Heightened security at exam centres included metal detectors, CCTV and strict dress codes Millions of hopeful medical students across India are resitting a crucial exam under unprecedented security, after the first paper was cancelled following allegations that the questions had been leaked. Nervous students were met with biometric identification checks, metal detectors, armoured patrols and frisking at exam centres on Sunday morning. Leaving nothing to chance this time, the Indian Air Force transported the new test papers to some regions, while police and paramilitary officers were deployed at the 5,440 exam centres across the country. The National Eligibility cum Entrance Test (Undergraduate), known as NEET-UG, is required for students to join medical colleges in India. Of the millions who take the exam every year, only a small percentage do well enough to secure a coveted college placement. Nearly 2.28 million candidates sat the exam on 3 May, having studied for months - in some cases years - for the notoriously difficult paper. The news that it had been scrapped was devastating for many students, and the scandal sparked widespread protests and demands for Education Minister Dharmendra...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2181
   },
   "7645c9451a4829fca6b7c22c7f87d038424fb70e708db690791cf8eba630dadb": {
     "access_status": "available",
@@ -10119,6 +10598,30 @@
       "identity"
     ],
     "word_count": 22512
+  },
+  "78a9056f9b8b6dfe6ff15ce1029a49288c4b2272ad3f1e30888c54ed9c60f3e0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "James Pankow, Walter Parazaider, Lee Loughnane and Robert Lamm of Chicago in April 2016. Photograph: Broadimage/Shutterstock View image in fullscreen James Pankow, Walter Parazaider, Lee Loughnane and Robert Lamm of Chicago in April 2016. Photograph: Broadimage/Shutterstock Walter Parazaider, founding member of Chicago, dies aged 81 Founding member of band with hits like If You Leave Me Now and Hard to Say I\u2019m Sorry had Alzheimer\u2019s disease Walter Parazaider, a co-founding member of the rock band Chicago, has died at the age of 81 following a battle with Alzheimer\u2019s disease. His daughter confirmed the news in a Facebook post on Wednesday morning. \u201cMy father, my hero, is gone. He went peacefully about 20 minutes ago,\u201d she wrote. \u201cThere\u2019s no more pain. No more struggle \u2026 This was the worst six years. The hardest season of my life. And I\u2019m so grateful that my dad is not suffering anymore.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1846
   },
   "796263a8642ced455d4a3ae11392eb32a7ce76f18aced10aaf0f02409f8f6b15": {
     "access_status": "available",
@@ -10382,6 +10885,49 @@
       "trust"
     ],
     "word_count": 10200
+  },
+  "7b25ca1ba8e755139458fb3342d5a6afc9778540a1ed0380a009c65572df27b6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Program: New plan to reimburse scam victims Program: AM Thu 28 May 2026 at 8:00am Thu 28 May 2026 at 8:00am Thu 28 May 2026 at 8:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 5 minutes 57 seconds 5 m Presented by Melissa Clarke Victims of scams could be automatically reimbursed up to 3-thousand dollars by their bank, under a plan being considered by the federal government. It's seeking feedback on its Scam Protection Framework which will cover how banks, telcos and digital platforms deal with scammers. Credits Melissa Clarke, Reporter Image Details Victims of scams could be automatically re-imbursed up to 3-thousand dollars by their bank, under a plan being considered by the federal government. ( ABC Sunshine Coast: Jay Carstens ) Program: More from AM Transcript Melissa Clarke: Victims of scams could be automatically reimbursed up to $3,000 by their bank, under a plan being considered by the Federal Government. It's seeking feedback on its scam protection framework, which will cover how banks, telcos and digital platforms deal with scammers. They'll need to have stronger systems in place to prevent scams by March next year and be prepared to cover the costs of most scam victims. I spoke to the Assistant Treasurer a short time ago. Daniel Mulino, thank you very much for speaking to AM this morning. Daniel...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 3957
   },
   "7b68e003a107bf3d0640109612c3026a60a96292c66990d76e6805b68d27bb8f": {
     "access_status": "available",
@@ -10751,7 +11297,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents Xu Li Simon Yu Minzhou Pan Yiyou Sun Bo Li Dawn Song Xue Lin Weiyan Shi Abstract LLM-based agents are becoming increasingly capable, yet their safety lags behind. This creates a gap between what agents can do and should do. This gap widens as agents engage in multi-turn interactions and employ diverse tools, introducing new risks overlooked by existing benchmarks. To systematically scale safety testing into multi-turn, tool-realistic settings, we propose a principled taxonomy that transforms single-turn harmful tasks into multi-turn attack sequences. Using this taxonomy, we construct MT-AgentRisk ( M ulti- T urn Agent Risk Benchmark), the first benchmark to evaluate tool-using agent safety under multi-turn, harmful-distribution settings. Our experiments reveal substantial safety degradation: the Attack Success Rate (ASR) increases by 16% on average across open and closed models in multi-turn settings. To close this gap, we propose ToolShield , a training-free, tool-agnostic, self-exploration defense: when encountering a new tool, the agent autonomously generates test cases, executes them to observe downstream effects, and distills safety experiences for deployment. Experiments show that ToolShield effectively reduces ASR by 30% on...",
     "cache_version": 8,
-    "checked_at": "2026-06-13T04:50:03+00:00",
+    "checked_at": "2026-06-22T05:30:18+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam",
@@ -10833,6 +11379,42 @@
       "victim"
     ],
     "word_count": 84
+  },
+  "7ff91f6c3b378c539f4b1a644804bcd2a8f65c6e06d0a6de0f745a89ae8a8157": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Program: Scam victims could be entitled to $3000 cashback Program: The World Today Thu 28 May 2026 at 12:00pm Thu 28 May 2026 at 12:00pm Thu 28 May 2026 at 12:00pm Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 4 minutes 1 second 4 m 1 s Presented by Andy Park Australians could soon be re-imbursed thousands of dollars if they fall victim to scams where people are tricked into handing over their money, under a new plan being considered by the Federal Government. The rules would force banks, telcos and digital platforms to automatically reimburse victims who have been scammed $3000 or less. Experts say authorised payments made because of deception by fraudsters is a growing problem, and has surpassed credit card fraud in some countries. More Information Featured: Jan Marshall, scam victim Daniel Mulino, assistant treasurer Luke Coleman, Australian telecommunications alliance Dr Kate Gould, Monash University Credits Andy Park, Presenter Kathleen O'Connor , Reporter Image Details Scam victims could be entitled to $3000 cashback ( ABC Sunshine Coast: Jay Carstens ) Program: More from The World Today Appears In Tax reforms introduced to parliament Duration: 25 minutes 22 seconds 25 m 6 items In this episode 1 of 6 Controversial tax reform bill introduced in parliament Duration: 3 minutes 36 seconds 3 m 36 s 2 of 6 ABC...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud"
+    ],
+    "word_count": 809
   },
   "80155f4eff8d6ffe8e755f5b828d53421624fbc932a89e598eac2636f5f262e3": {
     "access_status": "available",
@@ -11800,6 +12382,49 @@
     ],
     "word_count": 110
   },
+  "8983f594551d1f856c8266a00cf4115acf4ac2c484800e43e8a07ebfbd32ab78": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Messages that Jane and Joe exchanged after meeting on the dating app Hinge. Joe claimed to be a Fifo worker who needed money for an emergency. His photos, passport and bank account screenshots turned out to be fake and part of an elaborate romance scam. Composite: Guardian Design View image in fullscreen Messages that Jane and Joe exchanged after meeting on the dating app Hinge. Joe claimed to be a Fifo worker who needed money for an emergency. His photos, passport and bank account screenshots turned out to be fake and part of an elaborate romance scam. Composite: Guardian Design A Melbourne woman lost $646,035 to a romance scam. Should banks and dating apps be forced to refund victims like her? The Albanese government says Australia will have the \u2018world\u2019s toughest anti-scam laws\u2019, but consumer advocates fear they\u2019re lacking They met the way many modern couples do. On his Hinge profile, the man had a \u201cnice smile\u201d, says Jane*, a Melbourne woman in her 30s.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6102
+  },
   "8a1b352e677529c8c7aee39022994063062ed16a5f3d1879dabdbfeb33981b84": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12589,6 +13214,32 @@
     ],
     "word_count": 8
   },
+  "9275d57735fe28139e63b0d06f676a37121dd1be778b479362c97840688cacae": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Cases of vulnerable women forced into marriages have galvanised a new generation of feminists in China. Composite: Victoria Hart/Guardian Design/Getty images View image in fullscreen Cases of vulnerable women forced into marriages have galvanised a new generation of feminists in China. Composite: Victoria Hart/Guardian Design/Getty images They were forced into marriage and abused. Now women facing exploitation in China have a glimmer of hope Female activists are working in the shadows to find and support vulnerable women they fear are being failed by authorities L ast summer, Xiaocao, a softly spoken woman in her 40s, received a tip-off that in L\u00fcliang, a small city in China\u2019s Shanxi province, vulnerable women were being forced into marriages. Along with another volunteer, she wanted to investigate. After leaving Beijing, the two volunteers travelled south for hours, on trains and in rental cars. A few villages turned out to be dead ends. But on the final day of their trip, the women stopped in a county where they\u2019d heard about a woman with learning disabilities who was \u201cmarried\u201d to two brothers. Soon, they found her. \u201cShe could see we didn\u2019t mean any harm, so she stopped and chatted with us,\u201d says Xiaocao, who asked to be referred to by her nickname because of the sensitive nature of her work.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 4072
+  },
   "928913d41cb973b770045eba822d15f457c841803ce9bd3087001d098d0467c6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12676,6 +13327,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "93d936f2bd22ec37642ce19cbac25bb46938a9fc859b71505d1b93600581f786": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Investigators and police at the scene of the crash near Bedford. Photograph: Tolga Akmen/EPA View image in fullscreen Investigators and police at the scene of the crash near Bedford. Photograph: Tolga Akmen/EPA Explainer Does Bedford train crash raise wider questions about safety? It is not yet clear what could have allowed the two trains to collide despite multiple failsafes in today\u2019s railways Crash disruption to continue for at least a week The crash between two East Midlands Railway trains on Friday was shocking not only for the large number of casualties but also for its nature and circumstances \u2013 occurring on an upgraded main railway line with new trains, modern signalling and none of the apparent external factors such as extreme weather or leaf fall that have contributed to recent notable accidents. Specialist investigators from the Rail Accident Investigation Branch and British Transport Police are yet to release any details and have cautioned against speculation. Network Rail has said the \u201ccurrent indications are that this was a tragic, isolated incident\u201d. Whether that statement means a specific factor has emerged, or simply reflects the rarity of such a terrible event, is unclear. Investigators will be examining what could have allowed the collision given the multiple failsafes in modern signalling and trains. Why did the first train stop? The southbound East...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2316
   },
   "9431a0283b59d7d5f92fd8999e68e9d11c44a9bc5ee4d390b8d09434c576c6d5": {
     "access_status": "available",
@@ -12779,6 +13454,56 @@
       "identity"
     ],
     "word_count": 52163
+  },
+  "947e7762ae9dc64dcd21a3410c9402f093a3d0d295a35a80300c9524dae11b01": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Police discovered 45 cages containing about 400 live cats, and 21 other cats at a separate location. About 80 cats were found dead. Photograph: Phuong Pham/Humane World for Animals Viet Nam/AP View image in fullscreen Police discovered 45 cages containing about 400 live cats, and 21 other cats at a separate location. About 80 cats were found dead. Photograph: Phuong Pham/Humane World for Animals Viet Nam/AP Vietnam police rescue hundreds of cats stolen for meat by crime ring Major operation launched after spate of pet thefts in Ho Chi Minh City, according to local media Police in Vietnam have rescued more than 400 cats in a bust of a cat meat crime ring in Ho Chi Minh City, according to animal welfare groups and local media reports. More than 40 cats were reunited with their owners after the multiday operation last week, but several dozen of those rescued have died due to the harsh conditions in which they were found, the groups said. The operation was \u201ca sobering reminder of the enormous scale of Vietnam\u2019s cat meat trade,\u201d Karanvir Kukreja, who leads a campaign against dog and cat meat consumption for the international nonprofit Humane World for Animals , said in a statement. Hundreds of cats rescued by police in Vietnam An investigation into a spate of pet thefts in Ho Chi Minh City led police to track down the cat meat crime ring and detain nine individuals, according to...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1725
+  },
+  "94baf79780698ba8fdae5fb6b2ca1e50d119f157b4bcb952bdcc873b36e0d295": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Figure caption, Watch: What we know about the Bedford train crash By Dan Sales Published 19 June 2026 Updated 20 June 2026 Two passenger trains have collided in the Bedford area, leaving a driver dead and dozens of passengers and crew injured. Emergency crews were on the scene after the crash happened between two East Midlands Railway (EMR) services shortly after 17:00 BST on Friday. Confirming the death shortly before 21:00, the British Transport Police (BTP) said a major incident had been declared. Nine people were in a critical condition as of Saturday morning, out of a total of 28 who were still in hospital, according to the emergency services. The total number of people who were seriously injured in the fatal train collision on Friday has been raised to 32 in an update by the East of England Ambulance Service. The number of people who suffered minor injuries has also increased to 57. This brings the total number of people injured as a result of the incident to 100, including the 11 individuals who sustained \"very serious\" injuries. Prime Minister Sir Keir Starmer said reports of the collision were \"hugely concerning\", and that his thoughts were with the family of the person who died and with those seriously injured. Follow live updates on this story Driver dead and 33 people seriously injured as Bedford train crash declared major incident Published 1 day ago When and...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 3235
   },
   "94f4bb980ebd4365fa539160f5f98d619a1bf8f027eebbfc317ffcdae52358d4": {
     "access_status": "available",
@@ -13576,6 +14301,48 @@
     "weak_generic_terms_found": [],
     "word_count": 2773
   },
+  "9ff5978b0c0248d61aa4c9bb2f18a20b26b6ffed7fa14f21747ff9b9eb9468b1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war 6 hours ago Share Save Add as preferred on Google Kelly Ng , Singapore and Sawitree Jang Wongketjai , Bangkok Big Hit Music BTS is on a mammoth world tour after a hiatus that lasted more than three years When Vevee logged in to Ticketmaster on 9 June, she hoped her years-long wait to see supergroup BTS was finally drawing to an end. Like millions of fans everywhere, the 26-year-old thought she was ready for battle. She had even taken the day off from work. The septet's mammoth global tour was making a stop in her backyard \u2013 the Indonesian capital, Jakarta \u2013 and as a longtime fan, she couldn't fathom missing it. Perched in front of her computer, eyes glued to her fateful queue number, Vevee waited for hours. When it was her turn, she was told the tickets had been snapped up. But there were more sales. So she tried again, and again, but her luck did not change. \"It felt impossible because the demand was just too crazy\", she tells the BBC. Determined to secure her spot, Vevee found an account reselling tickets on X and splashed out $1,200 for four VIP seats.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "mule account"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "mule account"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "mule account"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity"
+    ],
+    "word_count": 4968
+  },
   "a01b7b198cee78a7c58020f41a74bc05533812e26598298f1531b99fc02e74b7": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -13853,6 +14620,30 @@
     ],
     "word_count": 2388
   },
+  "a1e643698595facb49b9fddcd11fcfa990d9636c6588dbc81a7c6e116e4313fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Six of the strategic mines are planned for highly water-stressed areas in Spain. Photograph: Paola de Grenet View image in fullscreen Six of the strategic mines are planned for highly water-stressed areas in Spain. Photograph: Paola de Grenet \u2018It\u2019s Russian roulette\u2019: alarm as Europe backs critical minerals mines in water-stressed regions Exclusive: European Commission planning to rewrite key law to allow water-intensive mines in regions suffering from drought The European Commission plans to rewrite the EU\u2019s flagship water protection law to speed up the development of critical minerals mines, despite many being located in drying and water-stressed regions, analysis has found. Mining is a water-intensive industry, requiring large volumes of water for ore processing, dust suppression, waste management and mine dewatering. While modern projects recycle water, they still require significant amounts, and in water-stressed regions those demands can add to pressure on already stretched rivers, aquifers and water supplies. Analysis and mapping by Watershed Investigations, shared with the Guardian, found that more than half of the 33 planned new or expanded mines designated as \u201cstrategic projects\u201d under the EU\u2019s Critical Raw Materials Act are located in areas that have been drying over the past two decades, according to Nasa satellite data. Nearly half are in zones that experienced...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2662
+  },
   "a1f8816d1cc0392df8d87da0d838b9c2b8b0f5bb704d5c9398d261f7d3f5661f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14041,6 +14832,45 @@
     ],
     "word_count": 18811
   },
+  "a2c27df3a8da1655d6695889606e41374bf7b5ae7c7d4a21ff250ec64f63e1b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Fake romance to missed deliveries: How to protect yourself from three common scams 6 hours ago Share Save Add as preferred on Google Kevin Peachey Cost of living correspondent Getty Images Nobody thinks they will become the victim of a scam, until they are. A record four million cases of fraudsters stealing money were registered last year, according to UK Finance, a banking trade body - with plenty more going unreported. Sam Little, a 35-year-old former contestant of BBC show The Traitors, revealed last week he had lost \u00a340,000 in life savings to a phishing scam. \"I like to think I'm savvy, but it can catch anyone,\" he said. Here are three of the most popular tricks used by fraudsters and how to avoid them. 1. Stolen bank details The scam : \"Hi Mum, I've got a new phone\" or messages about missed deliveries. Fraudsters send out mass messages suggesting that the recipient needs to update their details. It is just a way of harvesting vital banking details in order to steal money. In the case of the \"Hi Mum\" text, the message is usually followed by an urgent request to send money.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud"
+    ],
+    "word_count": 2133
+  },
   "a30d4cff401e0eabfe1b182a0bb17c261694f58809530e72dfffcbfa74355ff6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14107,6 +14937,32 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 273
+  },
+  "a393c4af16d1a1d03bb974d7d49e452516025a07ba19a68501b03516acaa3a7e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Chinese fentanyl network suspected of crypto fraud via Japan base Nikkei probe finds links to US-sanctioned entities, evidence suggesting money laundering Fentanyl kept at a DEA laboratory in New York. U.S. authorities are working to stop the smuggling of the powerful narcotic. (Photo by Kaori Yoshida) NEW YORK/TOKYO -- A Chinese organization suspected of illegally exporting chemical precursors for the synthetic opioid fentanyl appears to have been involved in large-scale cryptocurrency fraud using a base in Japan, an independent Nikkei investigation has found. Read Next Latest on Fentanyl\u2019s Hidden Routes Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 106
   },
   "a549e055076e56345fac0b27d9b760b4c4defc5f9103fbae38c45ab6c03b0dd5": {
     "access_status": "available",
@@ -16213,6 +17069,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1859
   },
+  "bd2cfc0dc6f86b57d756e95792e3ab7078cb15ef39ec0cda5dbd3e5af7e9c677": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A Department of Primary Industries and Regional Development veterinarian tests a giant petrel for H5N1 bird flu. The bird was brought into care on 18 June from Wylie Bay beach in Western Australia. Photograph: Lori-Ann Shibish/Esperance Wildlife Hospital and Sanctuary. View image in fullscreen A Department of Primary Industries and Regional Development veterinarian tests a giant petrel for H5N1 bird flu. The bird was brought into care on 18 June from Wylie Bay beach in Western Australia. Photograph: Lori-Ann Shibish/Esperance Wildlife Hospital and Sanctuary. Western Australian poultry farms locked down as second wild bird tests positive for H5N1 bird flu Poultry producer Ingham\u2019s announces move, as a brown skua and a giant petrel the first confirmed H5 cases on Australia\u2019s mainland Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Poultry farms in Western Australia have gone into lockdown after the deadly H5N1 bird flu arrived on the country\u2019s mainland, with tests confirming a second bird also carried the disease. On Monday, the Ingham\u2019s Group \u2013 Australia\u2019s largest poultry producer \u2013 announced a \u201ccomplete lockdown\u201d in WA, despite no commercial detections of H5N1. It came after a brown skua, found on a remote beach near Esperance, was discovered to have the \u201chighly pathenogenic\u201d H5N1 virus on the weekend. A giant...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2717
+  },
   "bd924e4af6c4d39ab093eb1e8e58bdf2fa9d4f4af4b35278b388ebce3ad2a190": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -16912,6 +17792,30 @@
     ],
     "word_count": 8
   },
+  "c3d914e944c7f46ca683d9c41f7dea8b64b8853e4e1bb262ccd77ab20df2cae2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Storm-damaged homes in the village of Komenda, Slovenia, last week. Photograph: Borut \u017divulovi\u010d/Reuters View image in fullscreen Storm-damaged homes in the village of Komenda, Slovenia, last week. Photograph: Borut \u017divulovi\u010d/Reuters Analysis Weather tracker: Severe thunderstorms sweep Europe and east Asia Ed Walton for MetDesk Strong winds and heavy rain batter Slovenia, while France experiences atypical heatwave Severe thunderstorms swept across the Balkans last week, bringing widespread destruction to parts of the region. The storms developed as unstable hot air lingered over the Adriatic Sea while a cold front plunged south-eastward. The front began its journey on 10 June in Slovenia , where the Slovenian Environment Agency recorded 65mph gusts at Ljubljana airport. Heavy rain also fell widely across the region with 23mm reported in Kranj. Rising temperatures may increase flood risk through river \u2018whiplash\u2019, study finds Read more Alongside heavy rain, hail the size of golf balls plummeted from the sky as the front edged south-eastwards towards Croatia . One of the worst affected areas was the Komenda municipality, where the local fire department reported damage to more than 100 buildings. Some homes lost their roofs in the violent winds. In the early hours of 11 June, the storm edged south-eastwards into Croatia and Bosnia and Herzegovina before reaching Greece on 12 June.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1423
+  },
   "c3db99686057d1248d4c395ceb14a5e0f643ce654a8f4165a158740f283dd7c9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17071,6 +17975,30 @@
       "fraud"
     ],
     "word_count": 3646
+  },
+  "c6058f656c816de9a567ab5660757dd940c87dc8fab7ab3bb1f0a2785e745f32": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue. Reason Challenge Request ID a0f8dc2fdb12d69d Status Code 403 Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 60
   },
   "c61198c5bafbdfee5c2d379874e0fcd1118365b5ac04646cc864c9fe326149c0": {
     "access_status": "available",
@@ -17894,6 +18822,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3165
+  },
+  "cf4e3d1e41c9843983f4290ec30587fac9d24809773e3f1eec3724a2b24a3f88": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image source, EPA-EFE/REX/Shutterstock Image caption, The Polish Order of the White Eagle was bestowed on Zelensky in 2023 by then-President Andrzej Duda By Joshua Cheetham Published 20 June 2026 Ukraine President Volodymyr Zelensky says he has returned Poland's highest honour after his Polish counterpart Karol Nawrocki said he was stripping him of the award. The Polish Order of the White Eagle was bestowed on Zelensky in 2023 by then-President Andrzej Duda. But Kyiv caused outrage last month after renaming a Ukrainian army unit after a group of controversial World War Two fighters called the Ukrainian Insurgent Army (UPA). Three senior Ukrainian officials have also said they are returning awards bestowed by Poland, to show solidarity with their president. Many in Ukraine regard the UPA, which existed in the 1940s and 1950s, as heroes who fought for Ukrainian independence against the Soviet Red Army, Nazi Germany and Polish authorities. The group's red and black flag is often used by Ukrainian troops on the front line today. Poland, however, accuses the UPA of carrying out a genocide of about 100,000 ethnic Poles in Volhynia (now Volyn in Ukraine) in 1943-45. In a statement on social media, Zelensky said Ukraine would \"remain open to all meaningful formats of engagement with Poland in order to try to avoid conflicting interpretations of the difficult and painful chapters of...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1435
   },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
@@ -18755,6 +19709,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "dacc42af3e5e4c67790c716ad6219d039af392748fe0bb98aaa85cd05b99a166": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In the past 18 months, Australians have lost more than $37m in romance scams. Composite: Guardian Design View image in fullscreen In the past 18 months, Australians have lost more than $37m in romance scams. Composite: Guardian Design Morning Mail: The high cost of romance scams, UK PM expected to step down, Iran peace talks suspended over Trump threats Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Good morning. Today we ask whether enough is being done to protect Australians caught up in romance scams, and tell the story of a Melbourne woman duped out of $646,035 by a man she fell in love with online. We tour a key Melbourne electorate and ask voters what they think of Pauline Hanson and One Nation \u2013 and get some frank answers. Embattled British PM Keir Starmer appears poised to step down. And Iran has suspended peace talks with the US in Switzerland after Donald Trump threatened Tehran with new attacks. Australia View image in fullscreen A datacentre in Sydney. Photograph: Bloomberg/Getty Images Datacentre concerns | There are about 160 datacentres operating in Australia, with another 90 proposed.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 3508
   },
   "db437fc4a375799a6e1384a7ba02c38b54cb9344b8269e492eabf4fbf822d774": {
     "access_status": "available",
@@ -19704,6 +20697,32 @@
     ],
     "word_count": 3442
   },
+  "e6c8468cb5a18ce5b8e2e34f36a3e71c8255499dad6a39837224a34328ee0835": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Coreflow is a little-known company, but its job ads promise eye-watering salaries. Warning: This story includes a description of sexual violence and references to child abuse material. The tech startup, based in Sydney, offers up to $450,000 a year for someone to join its \"growth\" team and help get its AI product to \"hundreds of millions of users\". For an engineer, it's paying up to $800,000 a year. Coreflow is scaling up after launching in 2025. ( Supplied ) In its ads, the company boasts of attaining 20 million users worldwide since launching last year, and staff call it \"the Netflix of AI\". The startup has serious ambition: to bring about a revolution in entertainment, where users don't just consume but create their own highly personalised content. What its job listings don't mention is that the entertainment is pornography. Coreflow is recruiting engineers to help run what's been ranked as the biggest AI porn website on the internet, OurDream. The website has strict prohibited content protocols and says it prioritises safety.",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 7513
+  },
   "e7292c5e6970991ca3f1759d53ae21d388f53b04fece580943442c7b47e66f3c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -19921,6 +20940,36 @@
       "fraud"
     ],
     "word_count": 1532
+  },
+  "e8a2c62099188dac7835b74fd87775c209b02c85f8acc7863b60bb7d4df7a21c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "What happened at Muckamore Abbey Hospital? Read more here. 4 days ago Muckamore Northern Ireland Antrim Share Save Maghera father and daughter's Race Across the World Maghera father and daughter Andrew and Molly Clifford reflect on the highs and lows of their Race Across the World. Northern Ireland 'I just wanted to find out what probation is all about' Carl Frampton was speaking ahead of the release of a new documentary series which sees him go behind the scenes with the Probation Board. Northern Ireland 'Our objective is to change the image around women in trad' BIIRD's rise has been rapid, driven almost entirely by the strength of their live performances and word of mouth. Northern Ireland What's the Balmoral Show all about? Some regulars at the event tell us what has them coming back to the agricultural bonanza year after year. Northern Ireland 'Fake car insurance scam left me with a criminal record' Amie Donaghey paid \u00a3700 for an internet insurance policy which turned out to be bogus. Northern Ireland The 'tiny backpacks' tracking hedgehogs around NI The project uses GPS 'backpacks' to track the hedgehogs as they become an increasingly rare sight. Northern Ireland Kneecap vs Mel C: Who will win the album chart battle?",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1127
   },
   "e908a7c1b7886b0667ca3fb858a712ef3727d253696f3fef1b56f445b7986d71": {
     "access_status": "available",
@@ -21011,6 +22060,46 @@
     ],
     "word_count": 1860
   },
+  "f41a4ad1b1c2c92a6ce0bfb6b6960626dfad70462ea0de38ed4795dc68e0f682": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Anticipation over GTA 6 is being exploited, with fraudulent invitations to download or access official \u2018beta\u2019 testing versions of the game. Photograph: Rockstar Games View image in fullscreen Anticipation over GTA 6 is being exploited, with fraudulent invitations to download or access official \u2018beta\u2019 testing versions of the game. Photograph: Rockstar Games \u2018Build Vice City\u2019: the GTA 6 scam that\u2019s hitting gamers worldwide Bank details at risk as criminals use AI to create fake sites and emails offering pre-release beta test version Like millions of gamers around the world, you have been waiting years for Grand Theft Auto VI to be released. Now you have the opportunity to play the much-anticipated game before everyone else. An email has arrived inviting you to play a pre-release \u201cbeta\u201d version of the game so that you can alert the makers to any bugs before its official release later this year. But the invitation is a scam, one of many as criminals prey on the anticipation of gamers eager to experience the next chapter in the GTA series. Falling victim to the fraud can result in your personal data being sold or your bank details being stolen. Gerald Kasulis, the vice-president of global affairs at the cybersecurity company NordVPN, says criminals are seeking to exploit the urgency and curiosity of gamers to play the new game. GTA VI is scheduled to arrive on 19 November after its...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:09+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "malware",
+      "fraud"
+    ],
+    "word_count": 2141
+  },
   "f421429da8e9d7108eb87d7ea736fd7644df279793d3709806514e6900618eb9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21341,6 +22430,30 @@
       "trust"
     ],
     "word_count": 4188
+  },
+  "fac1139b04ef8b6531b712df31e65c8412ae505cdfc9f52e9caf5ad0834f294c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Contenders ready \u2026 Digital stars line up to take part in Would You Rather: Decide to Survive. Photograph: Matt Frost View image in fullscreen Contenders ready \u2026 Digital stars line up to take part in Would You Rather: Decide to Survive. Photograph: Matt Frost Would You Rather: Decide to Survive \u2013 Romesh Ranganathan\u2019s gameshow is so low-effort it\u2019s almost avant garde In a modern twist on It\u2019s a Knockout, the comedian makes online stars do ludicrous tasks. The whole thing looks like it cost \u00a3420 to cobble together \u2013 and it will make you feel 100 years old I felt 100 years old this week, watching a new gameshow on Prime Video which features 10 famous online stars, zero of whom I\u2019ve heard of. To me, YouTubers always have names that sound like MSN Messenger handles, stuff like Fruit-Nut and Palzone and Kevin the Rotator. Anyway, lining up to compete in Would You Rather we have King Kenny, Bambino Becky, Stephen Tries, Elz the Witch and Chunkz, as well as some others I didn\u2019t write down because I had to lie down. The show\u2019s full name is Would You Rather: Decide to Survive (Prime Video, from 26 June), which is misleadingly hardcore. I assumed it would be an offshoot of SAS: Who Dares Wins. I expected scaffolders shimmying down gym ropes, enhanced interrogation, people getting dysentery after drinking from rivers. And, well, it is a mostly physical elimination contest, hosted by Romesh...",
+    "cache_version": 8,
+    "checked_at": "2026-06-22T05:30:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2451
   },
   "faede2da52f7865f54370cf2e2083bbfc28843d53623b06e4e56151c3d27e291": {
     "access_status": "available",
