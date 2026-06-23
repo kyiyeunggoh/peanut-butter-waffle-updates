@@ -70,6 +70,20 @@
       "url": "https://www.abc.net.au/listen/programs/worldtoday/scam-victims-could-be-entitled-to-3000-cashback-/106732704",
       "usefulness_category": "Platform policy / product change"
     },
+    "abc.net.au|2026-06-03|airport grooming like melbourne scam stranded victims": {
+      "article_type": "News report",
+      "normalised_title": "s like grooming scam victims stranded melbourne airport",
+      "normalized_title_fingerprint": "s like grooming scam victims stranded melbourne airport",
+      "original_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa29HLW1jeGtNMENTYnVhYzkzdm9Tblc1QnZkRXc3cDVJVnlvNG9aNklxLTVQcVdVclhxdGlYQ0l3bk4xOGxGQVhaWkM3c3l2Zm1XZFdUWDJYMEE1RDZJYnR1ajdtZmlHM1ZLY1FxcU5acnZPa1o4akJ4YmhzdS1meGtPaWg2N0EyQjUzQW9CLXV5T0hWVE5sdEhDTl95Sk82Y2RnWHd2bzBGdTJ4dFRhcUN6aVVpY0lvV3ZuaXhoaHVSZm9LbzBVa3NR?oc=5",
+      "parsed_date": "2026-06-03",
+      "raw_title": "'It's like grooming': scam victims stranded at Melbourne Airport",
+      "same_story_key": "abc.net.au|2026-06-03|airport grooming like melbourne scam stranded victims",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "abc.net.au",
+      "title": "s like grooming scam victims stranded melbourne airport",
+      "url": "https://www.abc.net.au/listen/programs/melbourne-mornings/-it-s-like-grooming-scam-victims-stranded-at-melbourne-airport/106758586",
+      "usefulness_category": "Scam development"
+    },
     "abc.net.au|2026-06-05|australia chinese community fake millions police scam stealing": {
       "article_type": "Enforcement report",
       "normalised_title": "fake police scam stealing millions australia s chinese community",
@@ -321,6 +335,20 @@
       "title": "memophishagent memory augmented multi modal llm agent phishing url detection",
       "url": "https://arxiv.org/pdf/2602.21394",
       "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-02-27|anansi based characterization job message scalable scams": {
+      "article_type": "Research paper",
+      "normalised_title": "anansi scalable characterization message based job scams",
+      "normalized_title_fingerprint": "anansi scalable characterization message based job scams",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RMU01LUstdGpfZFVtVHBsN1BHeG53M2dSaHY3elRpQ3FIWEthTTQ0aEtOUXFZRVJlVGk0QWdIcEJLUHQ3SUNSRnVPOA?oc=5",
+      "parsed_date": "2026-02-27",
+      "raw_title": "Anansi: Scalable Characterization of Message-Based Job Scams",
+      "same_story_key": "arxiv.org|2026-02-27|anansi based characterization job message scalable scams",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "arxiv.org",
+      "title": "anansi scalable characterization message based job scams",
+      "url": "https://arxiv.org/html/2602.24223v1",
+      "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-03-09|agent based detection framework llm multi phishdebate phishing": {
       "article_type": "Research paper",
@@ -2141,6 +2169,20 @@
       "title": "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019",
       "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
       "usefulness_category": "Product idea / data source"
+    },
+    "wired.com|2026-06-22|cup getting harder scams spot world": {
+      "article_type": "News report",
+      "normalised_title": "world cup scams getting harder spot",
+      "normalized_title_fingerprint": "world cup scams getting harder spot",
+      "original_url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "parsed_date": "2026-06-22",
+      "raw_title": "World Cup Scams Are Getting Harder to Spot - WIRED",
+      "same_story_key": "wired.com|2026-06-22|cup getting harder scams spot world",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "wired.com",
+      "title": "world cup scams getting harder spot",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "usefulness_category": "Scam development"
     }
   },
   "titles": {
@@ -2299,6 +2341,18 @@
       "source_domain": "papers.ssrn.com",
       "title": "analytical framework social engineering decision making under uncertainty",
       "usefulness_category": "Product idea / data source"
+    },
+    "anansi scalable characterization message based job scams": {
+      "article_type": "Research paper",
+      "normalised_title": "anansi scalable characterization message based job scams",
+      "normalized_title_fingerprint": "anansi scalable characterization message based job scams",
+      "parsed_date": "2026-02-27",
+      "raw_title": "Anansi: Scalable Characterization of Message-Based Job Scams",
+      "same_story_key": "arxiv.org|2026-02-27|anansi based characterization job message scalable scams",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "arxiv.org",
+      "title": "anansi scalable characterization message based job scams",
+      "usefulness_category": "Research / novel method"
     },
     "anatomy conversational scams topic based red teaming analysis multi turn interactions llms": {
       "article_type": "Research paper",
@@ -3320,6 +3374,18 @@
       "title": "romance scammer who made small fortune posing wwe superstar",
       "usefulness_category": "Operational intelligence"
     },
+    "s like grooming scam victims stranded melbourne airport": {
+      "article_type": "News report",
+      "normalised_title": "s like grooming scam victims stranded melbourne airport",
+      "normalized_title_fingerprint": "s like grooming scam victims stranded melbourne airport",
+      "parsed_date": "2026-06-03",
+      "raw_title": "'It's like grooming': scam victims stranded at Melbourne Airport",
+      "same_story_key": "abc.net.au|2026-06-03|airport grooming like melbourne scam stranded victims",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "abc.net.au",
+      "title": "s like grooming scam victims stranded melbourne airport",
+      "usefulness_category": "Scam development"
+    },
     "scam victims could entitled 3000 cashback": {
       "article_type": "Policy / platform update",
       "normalised_title": "scam victims could entitled 3000 cashback",
@@ -3859,6 +3925,18 @@
       "source_domain": "arxiv.org",
       "title": "when bots take bait exposing mitigating emerging social engineering attack web automation agent",
       "usefulness_category": "Research / novel method"
+    },
+    "world cup scams getting harder spot": {
+      "article_type": "News report",
+      "normalised_title": "world cup scams getting harder spot",
+      "normalized_title_fingerprint": "world cup scams getting harder spot",
+      "parsed_date": "2026-06-22",
+      "raw_title": "World Cup Scams Are Getting Harder to Spot - WIRED",
+      "same_story_key": "wired.com|2026-06-22|cup getting harder scams spot world",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "wired.com",
+      "title": "world cup scams getting harder spot",
+      "usefulness_category": "Scam development"
     },
     "xi\u2019s authoritarian blueprint myanmar junta": {
       "article_type": "News report",
@@ -4750,6 +4828,18 @@
       "url": "https://www.theguardian.com/global-development/2025/sep/09/cyberslavery-kenya-uganda-ethiopia-southeast-asia-myanmar-scam-centres",
       "usefulness_category": "Operational intelligence"
     },
+    "3e484268a5db19bde5f93169833ebdc9a1d78805b7c6be2961222e82da56b9b3": {
+      "article_type": "Research paper",
+      "normalised_title": "anansi scalable characterization message based job scams",
+      "normalized_title_fingerprint": "anansi scalable characterization message based job scams",
+      "parsed_date": "2026-02-27",
+      "same_story_key": "arxiv.org|2026-02-27|anansi based characterization job message scalable scams",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Anansi: Scalable Characterization of Message-Based Job Scams",
+      "url": "https://arxiv.org/html/2602.24223v1",
+      "usefulness_category": "Research / novel method"
+    },
     "3e64609ee4d2b447769db592fb0f4168b5dbbaa0981f8376f3551b88c6d0b734": {
       "article_type": "Investigative report",
       "normalised_title": "usps text scammers duped his wife so he hacked their operation",
@@ -4798,6 +4888,18 @@
       "url": "https://apnews.com/article/thailand-myanmar-scam-center-forced-labor-escape-ethiopia-d44c9f74d3b40ee88dd7e3a33eced8a3",
       "usefulness_category": "Operational intelligence"
     },
+    "419e4882c3a2a44b66e6642f6e5cdd1db6c18a1236846594d6515c68151d1145": {
+      "article_type": "News report",
+      "normalised_title": "s like grooming scam victims stranded melbourne airport",
+      "normalized_title_fingerprint": "s like grooming scam victims stranded melbourne airport",
+      "parsed_date": "2026-06-03",
+      "same_story_key": "abc.net.au|2026-06-03|airport grooming like melbourne scam stranded victims",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "abc.net.au",
+      "title": "'It's like grooming': scam victims stranded at Melbourne Airport",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa29HLW1jeGtNMENTYnVhYzkzdm9Tblc1QnZkRXc3cDVJVnlvNG9aNklxLTVQcVdVclhxdGlYQ0l3bk4xOGxGQVhaWkM3c3l2Zm1XZFdUWDJYMEE1RDZJYnR1ajdtZmlHM1ZLY1FxcU5acnZPa1o4akJ4YmhzdS1meGtPaWg2N0EyQjUzQW9CLXV5T0hWVE5sdEhDTl95Sk82Y2RnWHd2bzBGdTJ4dFRhcUN6aVVpY0lvV3ZuaXhoaHVSZm9LbzBVa3NR?oc=5",
+      "usefulness_category": "Scam development"
+    },
     "425e916845012b5b2061eef20fdccba26cb3ff35775df0b8d63361a87869e239": {
       "article_type": "Research paper",
       "normalised_title": "artificial intelligence phishing detection practical framework modern email security",
@@ -4845,6 +4947,18 @@
       "title": "Fraud Type Decomposition and the Observation-Mechanism Taxonomy: Class-Specific Detection Limits in Payment Networks",
       "url": "https://arxiv.org/pdf/2605.31257",
       "usefulness_category": "Product idea / data source"
+    },
+    "4687343450668c44258b27e375ada282f6f32168e6ea83018c582636a1ab5433": {
+      "article_type": "Research paper",
+      "normalised_title": "anansi scalable characterization message based job scams",
+      "normalized_title_fingerprint": "anansi scalable characterization message based job scams",
+      "parsed_date": "2026-02-27",
+      "same_story_key": "arxiv.org|2026-02-27|anansi based characterization job message scalable scams",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Anansi: Scalable Characterization of Message-Based Job Scams",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RMU01LUstdGpfZFVtVHBsN1BHeG53M2dSaHY3elRpQ3FIWEthTTQ0aEtOUXFZRVJlVGk0QWdIcEJLUHQ3SUNSRnVPOA?oc=5",
+      "usefulness_category": "Research / novel method"
     },
     "46b64fa2ff0e0132771b2e053fd117169d301a98e9f311f76581c85a20a8a978": {
       "article_type": "Research paper",
@@ -5890,6 +6004,18 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0NQYTF0aE1CYXNWZE1ULUt1SktBeHhSVmZvWl9jd0ZVY0FkZW9IMFA4cDFETUpJeE5ZaURIMGpxQ1lLMXB5NUt3Zi0xWERobEVYaW9rZG1WcUxDanMzeFBtY2xjaGQ5TENiOVdCQjNrcWs1aFhUMEJDZTByaDlKRlk4YVpva3NGN0xTaXZ3QnM1MlRvTzNPVnZDWTFuWF9yRTBpbldoeTRFOFJ3MkcxeVk4cno2UlZwZHZQd2JlY00?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "9f0d755c0478cd30cd9adb0eb10057d4465db20cb10b20e3bee0ab35d7187ccc": {
+      "article_type": "News report",
+      "normalised_title": "world cup scams getting harder spot",
+      "normalized_title_fingerprint": "world cup scams getting harder spot",
+      "parsed_date": "2026-06-22",
+      "same_story_key": "wired.com|2026-06-22|cup getting harder scams spot world",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "wired.com",
+      "title": "World Cup Scams Are Getting Harder to Spot - WIRED",
+      "url": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+      "usefulness_category": "Scam development"
+    },
     "9f3fce0f8ab4073a16b450533cbeda55fe86681eff8aa578f92a0b57890c55c3": {
       "article_type": "Enforcement report",
       "normalised_title": "us charges two chinese nationals over myanmar crypto scam hub",
@@ -6273,6 +6399,18 @@
       "title": "Xi\u2019s Authoritarian Blueprint for the Myanmar Junta - The Diplomat \u2013 Asia-Pacific",
       "url": "https://thediplomat.com/2026/06/xis-authoritarian-blueprint-for-the-myanmar-junta/",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "c008adc7f474023ba90aa5ed0e5ef36473113481da9d491813c5b57bdcc1856d": {
+      "article_type": "News report",
+      "normalised_title": "s like grooming scam victims stranded melbourne airport",
+      "normalized_title_fingerprint": "s like grooming scam victims stranded melbourne airport",
+      "parsed_date": "2026-06-03",
+      "same_story_key": "abc.net.au|2026-06-03|airport grooming like melbourne scam stranded victims",
+      "sent_at": "2026-06-23T04:21:19+00:00",
+      "source_domain": "abc.net.au",
+      "title": "'It's like grooming': scam victims stranded at Melbourne Airport",
+      "url": "https://www.abc.net.au/listen/programs/melbourne-mornings/-it-s-like-grooming-scam-victims-stranded-at-melbourne-airport/106758586",
+      "usefulness_category": "Scam development"
     },
     "c03b3d081e968311d05d6addc83bb25bdd90c998a4a7223b89572027449004b3": {
       "article_type": "Research paper",
