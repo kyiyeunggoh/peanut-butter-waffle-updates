@@ -1615,6 +1615,38 @@
         "Research / novel method": 1,
         "Scam development": 2
       }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 29,
+      "failed_constraints": [
+        "missing_modus_operandi_or_infrastructure_if_available"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "academic": 7,
+        "current_affairs": 19,
+        "psychology": 3
+      },
+      "shortlist_count": 8,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "apnews.com": 1,
+        "arxiv.org": 2,
+        "bbc.com": 1,
+        "channelnewsasia.com": 2,
+        "theguardian.com": 1
+      },
+      "timestamp": "2026-06-24T04:26:22+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 1,
+        "Research / novel method": 1
+      }
     }
   ]
 }
