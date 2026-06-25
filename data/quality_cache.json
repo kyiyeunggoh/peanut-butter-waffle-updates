@@ -47,6 +47,32 @@
     ],
     "word_count": 750
   },
+  "006798bbd9ba614e447fb372911be45be58346b1f31d59f9adf4add1a7147b3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 8
+  },
   "007b90728be8448ba2d0bd40d681ffeb122bb3b8c7e3371b7cbea13e3920c952": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -732,6 +758,36 @@
     "weak_generic_terms_found": [],
     "word_count": 2512
   },
+  "063bf8708da2e950279b116d9cf570986167e8743150227ff30e6b76169e4c97": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Who is Northern Ireland's new school behaviour tsar? 19 hours ago Share Save Add as preferred on Google Robbie Meredith Education and arts correspondent, BBC News NI Department of Education Bennett said children can lose up to one hour per day through low-level disruption Bad behaviour in schools is an increasing issue and has to be addressed, Northern Ireland's new school behaviour tsar has said. Tom Bennett has been appointed to review the behaviour policies of schools and how useful they are. He said children can lose up to one hour per day through low-level disruption, and behaviour was about teaching children \"really robust habits of doing things even when they're hard\". Bennett told BBC News NI there was \"as much evolution as revolution involved in this\". So what is the new tsar's background and what does he stand for? Who is Tom Bennett? He is a former teacher and behaviour expert who was appointed by the then Conservative government in 2015 to look at how schools in England managed pupil behaviour. That led to some critics to call him Tory Tom and claim that his approach to behaviour was too hardline. He said the Tory Tom name came about after he was asked about it in a newspaper article.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3505
+  },
   "0662c644ef84f2aee2665b08af3c977da0129529bd4b55f0fb52dfc2fe5a8315": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -766,6 +822,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 273
+  },
+  "06716fa25e3ebe831b86fb9e92a2955b8c69e86b27205104558c5302d1293e78": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "06c1d9076f5b4f3cc801b7be15c49e2edf15028e72b96f9338329d120de78345": {
     "access_status": "available",
@@ -1122,6 +1202,57 @@
       "fraud"
     ],
     "word_count": 2595
+  },
+  "0ab0bf677ad1c480e4bbc2fcc27bf0ca94a38e2f8f9f85d75fe0ada6af566c37": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Poster: Exploring the Limits of Audio-Based Detection of Turkish Phone Call Scams Arda Eren1, Micheal Cheung1, Youqian Zhang1, Grace Ngai1 and Eugene Yujun Fu2 Abstract Scam phone calls exploit vulnerable communities worldwide, yet research on detection has focused almost exclusively on English and other high-resource languages. In low-resource settings such as Turkish, detection is especially difficult, as annotated data is scarce and technological defenses remain limited. This research investigates how large language models (LLMs) can support scam detection in Turkish by introducing the first public multi-modal dataset of 100 aligned audio-transcript pairs of scam and benign conversations. We evaluate seven LLMs spanning three model families: Gemini 2.5 (Flash, Flash-Lite, Pro), GPT-4o, and Qwen (Max, Plus, Turbo), under three input conditions: raw audio, automatic speech-to-text transcripts, and transcripts refined by a native speaker. Our results suggest that transcript-based inputs consistently outperform direct audio processing, while human-corrected and uncorrected transcripts perform comparably. By centering a low-resource language and real world threat, this work highlights the urgent need for culturally and linguistically inclusive AI safety research and more robust multi-modal systems for fraud prevention. 1...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "identity fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "identity fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "identity fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 2645
   },
   "0af37f9b25841a499feee1d448efe09e75c99803937e5f92962710a29d7f1fa4": {
     "access_status": "available",
@@ -1537,6 +1668,30 @@
       "fraud"
     ],
     "word_count": 387
+  },
+  "0f27c16a7f05626400d9acff9eb9961bed05bd131dda2e3e78683bd121e0a863": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "0f86871271364f2f0c12ee291aa89576dc86e8655e016cc6d7a989d4e60acf14": {
     "access_status": "available",
@@ -2040,6 +2195,30 @@
     ],
     "word_count": 1131
   },
+  "14ead4c8a70f17ec0649a60399185b5dc920469481c13ba4ab02c74ac69cc1cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "1527d0743939f0f0bb130b20e910f563e9ccad3b55c11fdc63917ff113436530": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2087,6 +2266,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "15eec282451a41f8ce32a9c8f5d6ee8bba828479a8f41ef35774abacef2deb23": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Boots PA stole thousands in expense fraud 15 hours ago Share Save Add as preferred on Google George Torr and Dan Hunt , East Midlands George Torr/BBC Marie Hall pleaded guilty to fraud by abuse of position and possession of a Class A drug, namely cocaine A personal assistant for Boots stole more than \u00a387,000 from her employer in an expense fraud to fund her cocaine addiction. Marie Hall, 47, who worked as a PA for four managing directors at the company's base in Beeston, Nottinghamshire, duplicated expense receipts after the firm installed a new system in July 2022. Nottingham Crown Court heard an internal audit found Hall - who put through the expenses on behalf of two of the directors - had used their login details to approve payments to herself. On Wednesday, Hall, of Stonebridge Way in Calverton, was sentenced to 21 months in prison suspended for 18 months and given 250 hours of unpaid work to complete. Getty Images Marie Hall worked as a PA for four managing directors at Boots The court heard it was company policy for directors to approve expenses, however Hall was in a position of trust and did so herself. When investigated, it was found Hall would input expenses providing her own bank details as the recipient and then log on to a manager's account to approve them. Prosecutor Declan Austin told the court Hall had taken \u00a387,650.51 from her employer. The prosecutor added...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1335
   },
   "15fcd96736bf8fb0a3b558abcd2de3811d93589d2f6fe7936d6e967aae9b26cd": {
     "access_status": "available",
@@ -2483,6 +2689,54 @@
     "weak_generic_terms_found": [],
     "word_count": 1098
   },
+  "1bd969a14012c67796e96e51ae8ad721efa07a795be189dd4201d0bf06051635": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Sport Fri, 19 June 1 1 \u2192 Fri, 19 June 4 1 \u2192 Fri, 19 June 6 0 \u2192 Fri, 19 June 1 0 \u2192 Sat, 20 June 2 0 \u2192 Sat, 20 June 0 1 \u2192 Sat, 20 June 3 0 \u2192 Sat, 20 June 0 1 \u2192 Sun, 21 June 5 1 \u2192 Sun, 21 June 2 1 \u2192 Sun, 21 June 0 0 \u2192 Sun, 21 June 0 4 \u2192 Mon, 22 June 4 0 \u2192 Mon, 22 June 0 0 \u2192 Mon, 22 June 2 2 \u2192 Mon, 22 June 1 3 \u2192 Tue, 23 June 2 0 \u2192 Tue, 23 June 3 0 \u2192 Tue, 23 June 3 2 \u2192 Tue, 23 June 1 2 \u2192 Wed, 24 June 5 0 \u2192 Wed, 24 June 0 0 \u2192 Wed, 24 June 0 1 \u2192 Wed, 24 June 1 0 \u2192 Thu, 25 June 2 1 \u2192 Thu, 25 June 3 1 \u2192 Thu, 25 June 0 3 \u2192 Thu, 25 June 4 2 \u2192 Thu, 25 June 0 3 \u2192 Thu, 25 June 1 0 \u2192 Fri, 26 June 06:00 - - \u2192 Fri, 26 June 06:00 - - \u2192 Fri, 26 June 09:00 - - \u2192 Fri, 26 June 09:00 - - \u2192 Fri, 26 June 12:00 - - \u2192 Fri, 26 June 12:00 - - \u2192 Sat, 27 June 05:00 - - \u2192 Sat, 27 June 05:00 - - \u2192 Sat, 27 June 10:00 - - \u2192 Sat, 27 June 10:00 - - \u2192 Sat, 27 June 13:00 - - \u2192 Sat, 27 June 13:00 - - \u2192 Sun, 28 June 07:00 - - \u2192 Sun, 28 June 07:00 - - \u2192 Sun, 28 June 09:30 - - \u2192 Sun, 28 June 09:30 - - \u2192 Sun, 28 June 12:00 - - \u2192 Sun, 28 June 12:00 - - \u2192 Mon, 29 June 05:00 - - \u2192 Tue, 30 June 03:00 - - \u2192 Tue, 30 June 06:30 - - \u2192 Tue, 30 June 11:00 - - \u2192 Wed, 1 July 03:00 - - \u2192 Wed, 1 July 07:00 - - \u2192 Wed, 1 July 11:00 - - \u2192 FIFA World Cup Score Centre When are the Socceroos playing Paraguay? What time is Australia's World Cup game? Topic: FIFA World Cup Wed 24 Jun 2026 at 2:49pm Wed 24 Jun 2026 at 2:49pm Wed 24 Jun 2026...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2490
+  },
+  "1c3ee364c131a2e6cef4f66526a433d3fea2eb6d517f9bbc4de3877a8ac81795": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "UN nuclear chief says inspectors will visit Iran sites as part of war deal 11 hours ago Share Save Add as preferred on Google David Gritten EPA Rafael Grossi said the IAEA was working on dates, procedures and places for the inspections The head of the global nuclear watchdog has said it will carry out inspections in Iran under the country's preliminary peace agreement with the US. \"The inspections will indeed take place,\" International Atomic Energy Agency director general Rafael Grossi told reporters in Japan. \"We will be working on the modalities - dates, procedures, places - very soon.\" The agreement signed last week said \"explicitly\" that the dilution of Iran's highly enriched uranium would be carried out under IAEA supervision, he added. However, Iran's deputy foreign minister said access to its damaged nuclear facilities and nuclear material would only be addressed within the framework of a final deal with the US. Grossi's comments came as US Secretary of State Marco Rubio met UAE President Mohamed bin Zayed Al Nahyan before travelling to Kuwait and Bahrain to discuss the deal. Speaking in Kuwait City Rubio said the US would not agree anything with Iran that would undermine the security of US allies in the region. \"We're going to be completely aligned with our partners in the Gulf,\" he told reporters. \"If Iran wants to make a good and real deal, the United States is open...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3012
+  },
   "1c613ea78ecc522abf5ab8c8308312d0bcfbfd6fb8ce7b8ad0640de2ad33353e": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -2508,6 +2762,32 @@
       "fraud"
     ],
     "word_count": 862
+  },
+  "1c74d04430f0aa7f175af8759ef59cbd27f8e746396ad1e763bd95769110f58f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "South Dakota incumbent Republican lawmaker facing felony election fraud counts South Dakota incumbent Republican lawmaker facing felony election fraud counts 1 of 2 | The South Dakota Capitol stands in Pierre, S.D., Jan. 10, 2024. (AP Photo/Jack Dura, File) Read More 2 of 2 | This undated booking photo provided by the Minnehaha County Sheriff\u2019s Office on Wednesday, June 24, 2026, shows Thomas Pischke. (Minnehaha County Sheriff\u2019s Office via AP) Read More By SARAH RAZA Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit SIOUX FALLS, S.D. (AP) \u2014 An incumbent South Dakota legislative leader is facing two felony counts, accused of falsifying signatures to put candidates forward for state Republican Party positions without them knowing. Republican state Sen. Thomas Pischke of Dell Rapids represents a deep red district outside Sioux Falls and is seeking a third term in November. He faces two felony counts of knowingly submitting a falsified or forged document. Pischke turned himself in to the Minnehaha County Jail on Tuesday and was released on a promise to appear for all future court dates, the sheriff\u2019s office said.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1417
   },
   "1d43344e35365e9b36ba63def5cf5076386e7921099a2345ded8939609227f0d": {
     "access_status": "unknown",
@@ -2766,6 +3046,30 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "1efc1b0718f3be49d4f2be740df1d8cc341cef4020d14fbc95d3c8d2c003ae83": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "1f6ec754ab7d5c2977129631b75b180302729b6d1a945bf5b2dbcd023c96c275": {
     "access_status": "available",
@@ -6280,6 +6584,30 @@
     ],
     "word_count": 196
   },
+  "45024cd02195cf52debad8a162816cf709716de313918dd08b8f783eb0065922": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "453f509b152f8b72214121bdb36a6a243a7cfd5fb2d2cc1165538b9ea7281ed9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -6788,6 +7116,30 @@
       "trust"
     ],
     "word_count": 3386
+  },
+  "499739f15987f3d9aa648b554635f4324770a98c19ec63c4c28d6ebacfe2db6b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "49f15b91074c418be923b516c0f883b10797a12c7dfb3b0718a3c000245c3ce8": {
     "access_status": "available",
@@ -7414,6 +7766,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "511268fc1a229126bb11e26d4e53a2c7b3e9a81633da9bdbeeb641049187781f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The UK needs to mobilise resources to cope with the loss of biodiversity caused by heatwaves and wildfires. Photograph: Mid and West Wales Fire and Rescue Service View image in fullscreen The UK needs to mobilise resources to cope with the loss of biodiversity caused by heatwaves and wildfires. Photograph: Mid and West Wales Fire and Rescue Service Wednesday briefing: How can the UK protect its landscape in an increasingly hot world? In today\u2019s newsletter: As heatwaves intensify, Britain\u2019s ecosystems are being pushed beyond their evolutionary limits Our green and pleasant land is sizzling. This week, millions of us across the UK are baking in unprecedented heat. The Met Office has issued a rare red weather warning from 9am today in parts of southern Wales, and central and southern England. The temperature record for June of 35.6C is almost certain to be broken; Bristol is forecast to hit an alarming 39C tomorrow. In the heat, the country\u2019s infrastructure is straining: millions of homes are overheating, rail operators have warned against all but essential travel, and hospital admissions are set to surge. The Climate Change Committee concluded last month the UK is built for a climate that no longer exists \u2013 and warned today on the country\u2019s policies towards achieving net zero. But it is not just humans who are struggling.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 7234
   },
   "51ad112585243c3e9e8fdd768a3b90859eedd621a4c71528b74f7f72409ffa97": {
     "access_status": "available",
@@ -8384,6 +8762,52 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "5cc5ee111358c9791403a29d0bba18f331d3ca7d58cc7ec2b1803ca860086b12": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: HelpBench: Assessing the Ability of LLMs to Provide Privacy, Safety, and Security Advice Sarah Meiklejohn 1 Sunny Consolvo 2 Patrick Gage Kelley 2 Tara Matthews 2 Sai Teja Peddinti 2 Renee Shelby 2 Lenin Simicich 2 Kurt Thomas 2 1 University College London 2 Google Abstract This paper introduces HelpBench, a benchmark for assessing whether LLMs are capable of providing accurate help in response to questions about digital privacy, safety, and security. We curated 450 questions representing authentic user situations and developed rubrics for each question to evaluate the factual accuracy and tone of a response. Example questions touch on how to regain access to lost or suspended accounts, how to balance the trade-offs of hardware security keys versus other forms of two-factor authentication, whether a suspicious email is likely a scam, or whether an abuser might be able to track an individual based on their device peripherals. We then developed and applied an auto-rater to evaluate responses from 18 state-of-the-art LLMs. Our results indicate that while models provide high-quality advice (with scores of 82% on average), one in ten responses from models scores less than 65%, reflecting inaccurate and even harmful advice. Addressing these failures is critical for models to serve as trustworthy sources of assistance for digital...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [
+      "crypto wallets"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 26409
+  },
   "5d5c10c5326785b1f9a0d11b244ea42df3a020376beaff5c5e8646123b50f433": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -8535,6 +8959,47 @@
       "victim"
     ],
     "word_count": 3304
+  },
+  "5f8de9346070bd342b4af6b82dd3694b986144fbabddc0a964296e95766a1adf": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Published 24 June 2026 Anyone can be the target of a scam. It can be very upsetting, but thankfully, there's lots of positive action you can take. Here ar some steps you can take if you think you have been scammed: 1. Firstly, DON'T PANIC. Take a deep breath and think clearly about what you can do next. You now need to check if you can get your money back, report the scam, and protect yourself from further risks. 2. Contact your bank immediately. If you think that you may have been scammed, it might not be too late to stop it if you act fast. They will also help you to freeze any cards or bank accounts if they've been compromised.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybercrime",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 2288
   },
   "60289dd647f413cb4cffe30e7e92e6eaba14918ab7d60ed076fa5e94adb82a52": {
     "access_status": "available",
@@ -9002,6 +9467,30 @@
     ],
     "word_count": 6898
   },
+  "646153afbcc41474c571789511e3dcc5efbb3139cbc5a132d2a26f6d3c344b86": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "64a2bf5d07b08003fdbeba1aef2c512af61185e8bf750998c643e2dac62fbb49": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9057,7 +9546,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "ImmuniFraug : A Metacognitive Intervention Anti-Fraud Approach to Enhance Undergraduate Students\u2019 Cyber Fraud Awareness Xiangzhe Yuan Department of Computer Science The University of Iowa Iowa City America xiangzhe-yuan@uiowa.edu , Jiajun Wang School of Information Systems and Technology Management University of New South Wales Sydney Australia jiajun.wang5@student.unsw.edu.au , Huanchen Wang Department of Computer Science City University of Hong Kong Hong Kong SAR China huancwang2-c@my.cityu.edu.hk , Qian Wan Department of Computer Science City University of Hong Kong Hong Kong SAR China qianwan3-c@my.cityu.edu.hk and Siying Hu Department of Computer Science University of Queensland Brisbane Australia siying.hu@uqconnect.edu.au (5 June 2009) Abstract. Cyber fraud now constitutes over half of criminal cases in China, with undergraduate students experiencing a disproportionate rise in victimization. Traditional anti-fraud training remains predominantly passive, yielding limited engagement and retention. This paper introduces ImmuniFraug , a Large Language Model (LLM)-based metacognitive intervention that delivers immersive, multimodal fraud simulations integrating text, voice, and visual avatars across ten prevalent fraud types. Each scenario is designed to replicate real-world persuasion tactics and psychological pressure, while post-interaction debriefs provide grounded...",
     "cache_version": 8,
-    "checked_at": "2026-06-17T05:12:43+00:00",
+    "checked_at": "2026-06-25T04:23:44+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -9626,6 +10115,32 @@
     ],
     "word_count": 10934
   },
+  "68b69ab0ab96e8b95cfac3909dc5c8d45a5b8299313bb43c6835b70114836a3c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A satellite image shows the oil tanks in the city of Kerch that were attacked by Ukraine on Sunday. Photograph: Vantor/Reuters View image in fullscreen A satellite image shows the oil tanks in the city of Kerch that were attacked by Ukraine on Sunday. Photograph: Vantor/Reuters Ukraine intensifies attacks on Crimea to raise cost of Russian occupation Volodymyr Zelenskyy says strikes on oil facilities part of \u2018long-range sanctions\u2019 intended to isolate the territory Ukraine has stepped up its strikes on Crimea as part of a strategy to isolate the occupied peninsula from mainland Russia and raise the cost of the occupation. On Sunday, Russian-installed authorities suspended civilian fuel sales until at least Wednesday, a move that underscored Ukraine\u2019s growing ability to disrupt supply lines linking Crimea to Russia. \u201cFuel will be sold only to government agencies that ensure the functioning and security of the Republic of Crimea,\u201d the Russian-appointed governor, Sergei Aksyonov, said. \u201cI ask everyone to remain calm and only trust official sources of information.\u201d Local authorities also announced that parts of the peninsula would be left without street lighting and that all public events had been cancelled. A wave of Ukrainian medium-range strikes has targeted occupied Crimea and the transport routes connecting it to Russia in recent weeks. Kyiv hopes to turn the peninsula \u201cinto...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2431
+  },
   "68c1cbb92f99d4531d9549cc8da9991c5b3b38c99741b7cac704fa9ba37ba0ee": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9820,6 +10335,42 @@
       "fraud"
     ],
     "word_count": 879
+  },
+  "6ad071f6dc539fa72667a45a918fc6bcafc544de76770510949b46189a680246": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Monzo was deemed to have made the wrong call in 34% of its 3,372 cases referred to the Financial Ombudsman Service last year. Photograph: Dado Ruvi\u0107/Reuters View image in fullscreen Monzo was deemed to have made the wrong call in 34% of its 3,372 cases referred to the Financial Ombudsman Service last year. Photograph: Dado Ruvi\u0107/Reuters This article is more than 4 months old Monzo wrongly denied refunds to thousands of fraud and scam victims This article is more than 4 months old Ombudsman found bank wrongly rejected 34% of complaints last year, with NatWest and HSBC close behind Monzo has wrongly denied refunds to thousands of fraud and scam victims, the Guardian can reveal. The digital-only bank wrongly rejected more than 1,000 fraud and scam complaints that were closed last year alone, according to data from the Financial Ombudsman Service (FOS). Fraud and scam complaints can come from victims of authorised push payment (APP) scams, as well as chip and pin fraud and identity theft. Last year Monzo was deemed to have made the wrong call in 34% of 3,372 cases referred to the FOS. That was the highest rate among the British banks receiving the most complaints. NatWest ranked second, deemed to have wrongly rejected 33% of 1,972 fraud complaints, and HSBC third, with 32% of 2,535 complaints wrongly rejected. There is normally a lag between fraud occurring, the customer raising a...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 2607
   },
   "6aef95c53bda3116bc6cb8132f1e561219914ab9472d61ac4ce801838474ec0d": {
     "access_status": "unknown",
@@ -12722,6 +13273,47 @@
     ],
     "word_count": 2150
   },
+  "80e4f38c0d822bcb8b15c910bafc9e72dfca5d490b814e84b286f5b4fbc151cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: LoCC: Detection and Localization of Lip-Syncing Deepfakes via Counterfactual Frame Consistency Soumyya Kanti Datta, Shan Jia, Siwei Lyu Abstract Lip-syncing deepfakes are among the most challenging forms of manipulated media because their artifacts are localized almost exclusively to the mouth region and evolve dynamically over time. Detecting such deepfakes requires precise temporal and spatial modeling of lip motion. In this paper, we propose LoCC, a novel detection framework that performs fine-grained detection and localization of lip-syncing deepfakes at both segment and frame levels. Unlike prior approaches that analyze videos holistically, our method evaluates whether each frame aligns with a counterfactual estimate generated from its temporal neighbors. Real videos exhibit strong and stable consistency, whereas lip-sync deepfakes introduce localized inconsistencies. Following a teacher\u2013student learning paradigm, our model effectively captures these frame-level discrepancies and achieves superior performance over state-of-the-art methods on multiple benchmark lip-syncing deepfake datasets, including LAV-DF, AVDF1M, FakeAVCeleb, and KODF, and generalizes well across compression levels and datasets. Code is available at https://github.com/skrantidatta/LOCC . I Introduction The rapid advancement of generative artificial...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "deepfake scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "deepfake scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "deepfake scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 9618
+  },
   "80fb7db9a223752b2346ec455fd0fe822443b09da78a1368e55ba504c8f23d45": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -12957,6 +13549,42 @@
       "trust"
     ],
     "word_count": 2779
+  },
+  "84d31b39cc825f123f40d982ae90ef56769be44d506e9ca48f787341ba475495": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "While Chris Bowen claims energy prices for households and businesses are coming down, the picture is far more complex. Photograph: Dave Hunt/AAP View image in fullscreen While Chris Bowen claims energy prices for households and businesses are coming down, the picture is far more complex. Photograph: Dave Hunt/AAP Explainer Why are some Australian energy bills going up \u2013 and when will they come down? Power prices are expected to fall from 1 July \u2013 but the savings, touted by Chris Bowen, won\u2019t be passed on to many households and businesses Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast As energy companies prepare to update their electricity offers from July, some are choosing to hit households with higher fixed costs in the form of supply charges, according to reports in the ABC and Australian Financial Review . For some, the shift could mean higher prices overall, especially for those who don\u2019t consume much energy. That\u2019s causing confusion, given many were expecting power prices to fall after the Australian Energy Regulator\u2019s recent decision on what is known as the \u201cdefault market offer\u201d, a regulated safety net and benchmark for comparing electricity prices. \u201cWe\u2019ve seen some companies \u2013 not all, far from it \u2013 choose to increase their fixed supply costs while reducing their per-kilowatt hour costs,\u201d the energy...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 3741
   },
   "84f2b78cab738f266e5586cd1b8875cd4752c63a1bb12298f756c58c72c183d4": {
     "access_status": "available",
@@ -14173,6 +14801,32 @@
     ],
     "word_count": 4852
   },
+  "90748e7b9abd2b59a4141912ec04552da347d76c018f6c1875a473e2bd19cce1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Christian Brothers says it is paying $1.7m a week to abuse victims and running out of funds I By Isobel Roe Topic: Child Sexual Abuse Wed 24 Jun 2026 at 3:30pm Wed 24 Jun 2026 at 3:30pm Wed 24 Jun 2026 at 3:30pm The Christian Brothers religious order has applied for a stay to all civil cases to be adjourned until next week. ( ABC News: Floss Adams ) In short: A court has heard the Christian Brothers religious order will run out of cash by September, as it spends $1.7 million a week paying victims of abuse. An application from the order to place a stay on all civil claims against it has been adjourned to next week. What's next? Lawyers for victims told the court they wanted the matter dealt with in August, when the court was set to hear the Christian Brothers's plans for its asset sale scheme. The Christian Brothers religious order is spending $1.7 million a week paying victims of abuse and will run out of cash by September, a Sydney court has heard. An application from the Catholic body to place a stay on all civil claims against it has been adjourned to next week, with lawyers representing more than 200 abuse survivors arguing they need more time to consider the consequences. Christian Brothers brought an application for a moratorium in the Supreme Court of NSW, warning that any more time spent in court would whittle away money that should be reserved for victim payouts. It...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 1990
+  },
   "90faf3a4c490ca9f8b30d6b5a31e93d03b7f4ebe884ba224061b53e8860f50e8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14502,6 +15156,30 @@
     "weak_generic_terms_found": [],
     "word_count": 865
   },
+  "92f2ba39d401348ed31ed4bc17aab86a337542466236814e2e2ea3ecb81a5d9c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why the tech industry wants to take away your screen 19 hours ago Share Save Add as preferred on Google Thomas Germain BBC/ Serenity Strull/ Getty Images Some tech leaders have a vision for a world where you spend a lot less time looking at your phone. Is it the solution to screen time, or just a new dystopia? If you've ever wanted your ears to have eyes, then I've got great news. It seems Apple is gearing up to release AirPods with cameras in them as soon as next year. Apparently, these cameras aren't for taking pictures. According to Bloomberg , they'll feed information about your surroundings to its virtual assistant Siri, unlocking a whole set of new possibilities for how you might interact with your devices without looking at them. Apple hasn't confirmed or denied the news, but the Bloomberg report comes from a journalist with a stellar reputation for leaking the company's secrets. And it's part of a broader trend. For the past 60 years or so, screens have been the predominant way we have interacted with computers. Now it's possible they could fade further into the background.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4195
+  },
   "937ef0756426336b2060571c90a6e6042022fe037d2d7476f0932c1617a2bb09": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14557,6 +15235,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2316
+  },
+  "942aff32c2395fe442c54c3a3b96cd5ef94e60f4fd55a9e9686e119929369442": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "9431a0283b59d7d5f92fd8999e68e9d11c44a9bc5ee4d390b8d09434c576c6d5": {
     "access_status": "available",
@@ -15021,7 +15723,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-06-17T05:12:50+00:00",
+    "checked_at": "2026-06-25T04:23:49+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -16284,6 +16986,30 @@
     ],
     "word_count": 106
   },
+  "a52cc706bd28fe09ba908e0a616598a14665fae1511b34a29123f2e9afb97822": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Sport Fri, 19 June 1 1 \u2192 Fri, 19 June 4 1 \u2192 Fri, 19 June 6 0 \u2192 Fri, 19 June 1 0 \u2192 Sat, 20 June 2 0 \u2192 Sat, 20 June 0 1 \u2192 Sat, 20 June 3 0 \u2192 Sat, 20 June 0 1 \u2192 Sun, 21 June 5 1 \u2192 Sun, 21 June 2 1 \u2192 Sun, 21 June 0 0 \u2192 Sun, 21 June 0 4 \u2192 Mon, 22 June 4 0 \u2192 Mon, 22 June 0 0 \u2192 Mon, 22 June 2 2 \u2192 Mon, 22 June 1 3 \u2192 Tue, 23 June 2 0 \u2192 Tue, 23 June 3 0 \u2192 Tue, 23 June 3 2 \u2192 Tue, 23 June 1 2 \u2192 Wed, 24 June 5 0 \u2192 Wed, 24 June 0 0 \u2192 Wed, 24 June 0 1 \u2192 Wed, 24 June 1 0 \u2192 Thu, 25 June 2 1 \u2192 Thu, 25 June 3 1 \u2192 Thu, 25 June 0 3 \u2192 Thu, 25 June 4 2 \u2192 Thu, 25 June 0 3 \u2192 Thu, 25 June 1 0 \u2192 Fri, 26 June 06:00 - - \u2192 Fri, 26 June 06:00 - - \u2192 Fri, 26 June 09:00 - - \u2192 Fri, 26 June 09:00 - - \u2192 Fri, 26 June 12:00 - - \u2192 Fri, 26 June 12:00 - - \u2192 Sat, 27 June 05:00 - - \u2192 Sat, 27 June 05:00 - - \u2192 Sat, 27 June 10:00 - - \u2192 Sat, 27 June 10:00 - - \u2192 Sat, 27 June 13:00 - - \u2192 Sat, 27 June 13:00 - - \u2192 Sun, 28 June 07:00 - - \u2192 Sun, 28 June 07:00 - - \u2192 Sun, 28 June 09:30 - - \u2192 Sun, 28 June 09:30 - - \u2192 Sun, 28 June 12:00 - - \u2192 Sun, 28 June 12:00 - - \u2192 Mon, 29 June 05:00 - - \u2192 Tue, 30 June 03:00 - - \u2192 Tue, 30 June 06:30 - - \u2192 Tue, 30 June 11:00 - - \u2192 Wed, 1 July 03:00 - - \u2192 Wed, 1 July 07:00 - - \u2192 Wed, 1 July 11:00 - - \u2192 FIFA World Cup Score Centre What the Socceroos need to progress to knockout stage of 2026 FIFA World Cup S By Simon Smale Topic: FIFA World Cup Thu 25 Jun 2026 at 7:42am Thu 25 Jun 2026 at 7:42am Thu...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5452
+  },
   "a549e055076e56345fac0b27d9b760b4c4defc5f9103fbae38c45ab6c03b0dd5": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -17506,6 +18232,41 @@
       "cybersecurity"
     ],
     "word_count": 2012
+  },
+  "b0fac197526135095c11ec084ce6299495525f0a663aba1f5fb2d2109c8e5b8f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Sport Fri, 19 June 22 20 \u2192 Sat, 20 June 22 36 \u2192 Sat, 20 June 19 18 \u2192 Sat, 20 June 13 12 \u2192 Sun, 21 June 38 20 \u2192 Sun, 21 June 42 20 \u2192 Sun, 21 June 27 8 \u2192 Thu, 25 June 19:50 - - \u2192 Fri, 26 June 18:00 - - \u2192 Fri, 26 June 20:00 - - \u2192 Sat, 27 June 15:00 - - \u2192 Sat, 27 June 17:30 - - \u2192 Sat, 27 June 19:35 - - \u2192 Sun, 28 June 14:00 - - \u2192 Sun, 28 June 16:05 - - \u2192 NRL Score Centre Brisbane Broncos warn of scammers offering fake NRL mascot auditions Topic: NRL Thu 25 Jun 2026 at 12:13pm Thu 25 Jun 2026 at 12:13pm Thu 25 Jun 2026 at 12:13pm The Broncos say the scam is falsely offering fans an opportunity to audition to be the team's mascot. ( Getty Images: Hannah Peters ) In short: The Brisbane Broncos have cautioned fans about a scam offering mascot audition opportunities for money. The NRL club has encouraged supporters to avoid interacting with the fake offer. What's next? The Broncos say Queensland Police is aware of the matter. Brisbane Broncos fans have been warned of a scam offering fake chances to audition to be the team's new mascot. The NRL club released a statement on Wednesday saying it had been made aware of the scam, which was falsely offering \"mascot audition opportunities in exchange for payment\". The statement stressed the \"activity is not affiliated with the Brisbane Broncos in any way\". \"The club will never request payment for auditions or unsolicited opportunities shared...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 1437
   },
   "b1b5919b00010ffce66d79e6fa4eb696d70c33f3638e5f21f0b1c1b964b3ffbe": {
     "access_status": "available",
@@ -19124,6 +19885,54 @@
     ],
     "word_count": 543
   },
+  "c02443d4d890f66c9e53672a02e6f047e3eba48aa5bfb7786687a5353b7a31b1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
+  "c040cf95896735a968fb6b4e407f12f7a7eeae5968b004649427133942546dcd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "c04c8ffd1adfb2d902bec31166dc0292871894028a890c3306bcfa2b6aeec319": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -19984,6 +20793,30 @@
     ],
     "word_count": 847
   },
+  "c91bd19bd5885b5c364353a2e184588a76e6dbb0708674595b86cda27a578514": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Work begins on UK's new \u00a3750m supercomputer 7 hours ago Share Save Add as preferred on Google Graham Fraser BBC Scotland News Sheppard Robson An artist's impression of what the new supercomputer site will look like when it is finished next autumn Construction work has started on the UK's new \u00a3750m national supercomputer. Those behind the project say it will be the most powerful computer in the UK, and one of the most powerful in the world, when it is finished at the end of next year. It will be hosted in University of Edinburgh buildings on the outskirts of Penicuik and Roslin in Midlothian, near the institute where Dolly the sheep was cloned. It is a significant step forward for a project that was shelved by the UK government when Labour came into power, and then reinstated a year later. What is a supercomputer? Getty Images When finished, the UK's supercomputer will be on the same scale as the JUPITER system which was completed in J\u00fclich in Germany last year. The team behind the supercomputer, and researchers who hope to use it, say they are very excited about the project. As the name would suggest, a supercomputer is a very powerful machine. The numbers for this new one are mind-boggling. Prof Mark Parsons, the director of the supercomputer project at the university, says it will be roughly the size of a medium-sized supermarket.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2505
+  },
   "c9341b74592aca3f9020956e247ce5a44dbc6c26159ba4ff68bc3d7a648647ed": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20440,6 +21273,30 @@
       "trust"
     ],
     "word_count": 6520
+  },
+  "ce6bb26630eff337698f0f327099040e82e4a83661f1ecdb088eea545cc85f07": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Elizabeth Arif-Fear was born Christian, then converted to Islam and was Muslim for 14 years and has now converted to Judaism. Photograph: Andrew Fox/The Guardian View image in fullscreen Elizabeth Arif-Fear was born Christian, then converted to Islam and was Muslim for 14 years and has now converted to Judaism. Photograph: Andrew Fox/The Guardian \u2018I\u2019ve finally found God without all the extras\u2019: behind the surge in people converting to Progressive Judaism Despite an increase in antisemitism and anti-Jewish feeling in the UK, adult conversions are on the rise For Elizabeth Arif-Fear, there was no single moment when she realised she wanted to be Jewish. \u201cIt was just a journey over time,\u201d she says. The 37-year-old interfaith activist was born Christian, then converted to Islam and was Muslim for 14 years, before realising that that faith was also not the right fit. Eventually, she found the answer she had been searching for in Judaism . \u201cI feel I\u2019ve finally found God without all the extras,\u201d she says. \u201cWithout Jesus, without Muhammad.\u201d Arif-Fear is part of a \u201csurge\u201d in the number of people converting to Progressive Judaism, a movement that represents about a third of British Jews . Figures shared with the Guardian show adult conversions rose from 78 in 2020 to 183 in 2025. \u201cThere has been a lot of antisemitism and anti-Jewish feeling in the last three or four years.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3503
   },
   "ceba59b80b07a705411dedba815ab6fb185326dc280134a7ec9cc5d02c9ca671": {
     "access_status": "available",
@@ -22080,6 +22937,30 @@
     ],
     "word_count": 6415
   },
+  "de1f6ad184343bcd722521165d113a636c4f1426e6f0e00810f5ec71916e39ae": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "df0f51ed29640ce6a34297f0b0594cc0d0649a6720271d5479efc0759f820d09": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -23598,6 +24479,43 @@
     ],
     "word_count": 3345
   },
+  "eea70fb7a4a2b17aa16a972363c9dbf782bb6d8e85c55ce35b83c27d4d133f52": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: CVI 2 , SnT, University of Luxembourg 2 2 institutetext: Cristal Laboratory, National School of Computer Sciences, University of Manouba 2 2 email: firstname.lastname@uni.lu 2 2 email: enjie.ghorbel@isamm.uma.tn When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift Dat NGUYEN Cosmin RADOI Romain HERMARY Marcella ASTRID Nesryne MEJRI Enjie GHORBEL Djamila AOUADA Abstract Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In response, deepfake detection has become an active research area, with recent methods increasingly focusing on improving generalization to unseen manipulations. This is typically evaluated using the Area Under the ROC Curve (AUC) measured separately across multiple datasets. However, such an evaluation fails to reflect real-world scenarios where detectors face a mixture of data sources and varying artifact types. To address this limitation, we introduce a novel metric, Cross-dataset AUC (Cross-AUC) that averages per-domain AUCs with a measure of prediction polarization for taking into account the robustness to domain shift. The polarization extent is quantified by the...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 25568
+  },
   "eeae9c87f680acca5302c8e82b7c3cdbf287a431560ea237b36433e582615bac": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -24234,6 +25152,48 @@
     ],
     "word_count": 3617
   },
+  "f4a474e1e3c30cd6759fdc6db5202663122f1114ef2b84d4875fa618cb9fad00": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: PHANTOM: A Large-Scale Dataset of Multimodal Adversarial Attacks for Vision-Language Models Simone Gallivanone The Italian Institute of Artificial Intelligence (AI4I), Turin, Italy Hossein Khodadadi The Italian Institute of Artificial Intelligence (AI4I), Turin, Italy Mauro Dore HikmaAI S.r.l., Pula, Italy Mauro Medda HikmaAI S.r.l., Pula, Italy Nicola Franco The Italian Institute of Artificial Intelligence (AI4I), Turin, Italy Abstract We introduce a large\u2011scale, open\u2011source dataset of pre\u2011generated adversarial attacks for vision\u2013language models (VLMs). The dataset is designed to be diverse, representative, and practical, extending existing benchmarks by covering 10 10 high\u2011level categories and 55 55 subcategories of harmful intents. Our primary goal is to make adversarial data accessible to the research community, given the computational cost and complexity of generating large numbers of attacks. The dataset comprises 47 524 47\\,524 adversarial samples, generated using state\u2011of\u2011the\u2011art attack strategies from recent literature. Our work complements existing efforts by consolidating and extending prior benchmarks from multiple established sources, resulting in 7 826 7\\,826 intents, and introduce an additional category to broaden coverage. This provides realistic evaluation resources for studying model robustness and alignment....",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21859
+  },
   "f532b522e57915a42784ccde6f569abfae4cb33e64eecf47c0494e98407c4fb5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24296,6 +25256,82 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "f5cdd0a8694d562dbda0d56030932e2f8bdf5f816799da630f345b782b49f948": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
+  "f65dbead9f3a73eb73ab8278b03a10ca0bd6ff8097ecdd64d470890f1104fb1f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Photograph: Rita Liu/The Guardian/Getty Images/Greystar View image in fullscreen Photograph: Rita Liu/The Guardian/Getty Images/Greystar \u2018Extremely overwhelmed\u2019: apartment renters face rising tide of fees Guardian investigation: Renters at apartment buildings operated by industry giant Greystar complain they\u2019re deluged by \u2018unfair\u2019 and \u2018inflated\u2019 fees. The company denies these claims Tenants at apartment complexes operated by Greystar, the largest owner and manager of apartments in the US, don\u2019t just pay rent. They pay a mass of fees that many renters have never heard of before. These add-ons include \u201cboiler management fees\u201d, \u201cvariable refrigerant flow fees\u201d, \u201csolar rebill\u201d fees, even \u201clifestyle fees\u201d. Tenants and lawsuits in multiple states call many of these fees inflated, illegal, predatory or overwhelming. \u201cA fee for this, a fee for that was just crazy to me,\u201d Nichole Collins, a former tenant at a Greystar-managed building in Colorado, said. \u201cI had never experienced that before.\u201d Long lists of fees are common at buildings operated by Greystar, a private equity-backed conglomerate that owns or manages more than 1m apartments across the US. According to tenants, housing attorneys, public officials and court claims, this tangle of extra charges fattens the company\u2019s bottom line, increases renters\u2019 risks of eviction and undermines fair competition in the apartment market by...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 19828
+  },
+  "f6f9c7fbc0e2e27533f4c9ed12e4ac280ada5a93d603b83a4ccdd46a433f8c7a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Video shows the moment Iran walks out of the room, leaving JD Vance to promote peace talks By Emily Clark and Lucia Stein Topic: War Mon 22 Jun 2026 at 3:09pm Mon 22 Jun 2026 at 3:09pm Mon 22 Jun 2026 at 3:09pm Loading... High-level peace talks between the United States and Iran hit an early snag when one of the Iranian representatives abruptly left the room while the Americans were taking their seats. US Vice-President JD Vance entered the room at Switzerland's Lake Lucerne summit and was taking his place at the negotiation table when a video showed him watching the men sent by Tehran walk away from that portion of the meeting. The two sides are being mediated by Pakistan and Qatar at the talks. The video also shows the Pakistani Prime Minster Shehbaz Sharif and Army Chief Field Marshal Asim Munir watching as Iranian Foreign Minister Abbas Araghchi leaves the room. Earlier, Mr Sharif and Mr Munir greeted Mr Araghchi and Speaker of Iranian Parliament Mohammad Bagher Qalibaf, but this was the moment representatives from all sides were to be seen in a room together. Ahead of the event, analysts had told the ABC that \"direct US-Iranian optics at that level are always politically radioactive in Iran\" and the regime \"will therefore try to choreograph the image very carefully\". Mr Vance even comments that these talks were historic due to the seniority of those present, himself...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4059
   },
   "f72ff644a6850dc53e820b4171b3021150ed332ec84042522b1a49325384fc2c": {
     "access_status": "unknown",
@@ -24688,6 +25724,32 @@
     ],
     "word_count": 11578
   },
+  "fb0b861ef6acce8192e9cb72b422c13aaa47216b4e333cefd0685561cd08fa43": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The letter accuses the IDF of complicity in terrorism through a failure to intervene and active participation in violence. Photograph: Nasser Ishtayeh/Sopa Images/Shutterstock View image in fullscreen The letter accuses the IDF of complicity in terrorism through a failure to intervene and active participation in violence. Photograph: Nasser Ishtayeh/Sopa Images/Shutterstock Israeli former leaders and security chiefs threaten legal action over \u2018Jewish terrorism\u2019 Leaked letter to PM and military demands action to stop violence against Palestinians in occupied West Bank Dozens of Israelis from the country\u2019s security, political and cultural elite have threatened legal action against their government over support for Jewish terrorism and an \u201cideology of ethnic cleansing\u201d in the occupied West Bank , according to a leaked letter. Two former prime ministers, former heads of all the Israeli security services, former judges, a Nobel laureate and the country\u2019s most revered living novelist were among the signatories to a \u201cfinal warning\u201d over violence against Palestinians. They demanded immediate action to \u201ceradicate Jewish terrorism\u201d, cataloguing years of attacks \u2013 including murder , sexual assault , theft, arson and desecration of the dead \u2013 by civilian and military perpetrators who acted with \u201calmost complete impunity\u201d. The campaign of extreme violence against Palestinians broke Israeli...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 3673
+  },
   "fb532531687f8fb633fb6bef428e0b9fc25ca90529ea54627050092db9e9c455": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24899,6 +25961,30 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "fdcc380e75f7c63eeb6d489a2c2b25c43abaa6067873090acd69a94c50cc13b9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A Ukrainian State Border Guard officer patrols a destroyed bridge over the Dnipro River, part of Ukraine\u2019s border with Belarus. Ukraine is strengthening defences along its northern border in case of an attack from Russia. Photograph: Genya Savilov/AFP/Getty Images View image in fullscreen A Ukrainian State Border Guard officer patrols a destroyed bridge over the Dnipro River, part of Ukraine\u2019s border with Belarus. Ukraine is strengthening defences along its northern border in case of an attack from Russia. Photograph: Genya Savilov/AFP/Getty Images Ukraine war briefing: Zelenskyy to Belarus \u2013 remove Russian relay stations or \u2018we\u2019ll do it\u2019 Zelenskyy says a week should be enough time for Belarus to remove stations, calls for a stop to refined oil supplies to Russian army. What we know on day 1,578 Volodymyr Zelenskyy said a week should be enough for the Belarusian leader, Alexander Lukashenko, to remove equipment from Belarus used by \u2060Russia in its attacks on \u2060Ukraine . \u201cIf he doesn\u2019t do it, we\u2019ll do it,\u201d said the Ukrainian president, without elaborating. Zelenskyy said signal relay stations were located in two Belarusian regions bordering Ukraine that were used by Russian forces to help with attacks on Ukrainian civilians. Ukraine has been beefing up its defences along its northern border after signs that Vladimir Putin may be trying to make greater use of Belarus in the...",
+    "cache_version": 8,
+    "checked_at": "2026-06-25T04:23:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2374
   },
   "fe5fb67bacfe60fea5c11f0c5c45aa32b9e68c956653b4ac353d3d17a88a8bea": {
     "access_status": "available",
