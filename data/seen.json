@@ -252,6 +252,20 @@
       "url": "https://arxiv.org/html/2508.21457v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-01-03|based benchmarking constructing dataset detection email framework labeled": {
+      "article_type": "Research paper",
+      "normalised_title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "normalized_title_fingerprint": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40LXhjRFFxTU5xcVVIdmR0VkZBOXVscDRId0NscXNURENtcTIxWlhpbHRKZUNvQnM0OUlWMjBTQ3NJZkhQaXVOWTBhbw?oc=5",
+      "parsed_date": "2026-01-03",
+      "raw_title": "Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework - arXiv",
+      "same_story_key": "arxiv.org|2026-01-03|based benchmarking constructing dataset detection email framework labeled",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "url": "https://arxiv.org/html/2511.21448v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-01-12|agent attack automation bait bots emerging engineering exposing": {
       "article_type": "Research paper",
       "normalised_title": "when bots take bait exposing mitigating emerging social engineering attack web automation agent",
@@ -531,6 +545,20 @@
       "title": "context aware spear phishing generative ai enabled attacks against individuals via public social media data",
       "url": "https://arxiv.org/html/2605.11268v1",
       "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-05-12|12243 2605 benchmark conversations early predicting prescam progression": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "normalized_title_fingerprint": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "original_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAyWGJsRWY5MUVyQXJtbmdaem1MU0pjSEluU3lTZzJkS1NRR0Q2cXU1MTdaV0hwNEd6akl0VW0tWnJkaFRwcjBz?oc=5",
+      "parsed_date": "2026-05-12",
+      "raw_title": "[2605.12243] PreScam: A Benchmark for Predicting Scam Progression from Early Conversations - arXiv",
+      "same_story_key": "arxiv.org|2026-05-12|12243 2605 benchmark conversations early predicting prescam progression",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "url": "https://arxiv.org/abs/2605.12243",
+      "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-05-12|blotto colonel cybercrime engineering prevention social": {
       "article_type": "Research paper",
@@ -1146,6 +1174,20 @@
       "source_domain": "channelnewsasia.com",
       "title": "two men linked cambodia based scam syndicate prince group investigated money laundering offences",
       "url": "https://www.channelnewsasia.com/singapore/cambodia-scam-prince-holding-group-foreigners-arrested-money-laundering-6204136",
+      "usefulness_category": "Operational intelligence"
+    },
+    "channelnewsasia.com|2026-06-26|cambodia cambodian days failed fired him jailed job": {
+      "article_type": "News report",
+      "normalised_title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "normalized_title_fingerprint": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "original_url": "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346",
+      "parsed_date": "2026-06-26",
+      "raw_title": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-26|cambodia cambodian days failed fired him jailed job",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "url": "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346",
       "usefulness_category": "Operational intelligence"
     },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
@@ -2362,6 +2404,18 @@
       "title": "2605 02502 guardsec multi modal web platform real time digital fraud detection entity verification connection security analysis african context",
       "usefulness_category": "Product idea / data source"
     },
+    "2605 12243 prescam benchmark predicting scam progression early conversations": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "normalized_title_fingerprint": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "parsed_date": "2026-05-12",
+      "raw_title": "[2605.12243] PreScam: A Benchmark for Predicting Scam Progression from Early Conversations - arXiv",
+      "same_story_key": "arxiv.org|2026-05-12|12243 2605 benchmark conversations early predicting prescam progression",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "usefulness_category": "Product idea / data source"
+    },
     "2605 21246 profiling user vulnerability phishing through psychological behavioral factors": {
       "article_type": "Research paper",
       "normalised_title": "2605 21246 profiling user vulnerability phishing through psychological behavioral factors",
@@ -2721,6 +2775,18 @@
       "source_domain": "arxiv.org",
       "title": "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity",
       "usefulness_category": "Research / novel method"
+    },
+    "constructing benchmarking labeled email dataset text based phishing spam detection framework": {
+      "article_type": "Research paper",
+      "normalised_title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "normalized_title_fingerprint": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "parsed_date": "2026-01-03",
+      "raw_title": "Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework - arXiv",
+      "same_story_key": "arxiv.org|2026-01-03|based benchmarking constructing dataset detection email framework labeled",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "usefulness_category": "Product idea / data source"
     },
     "context aware spear phishing generative ai enabled attacks against individuals via public social media": {
       "article_type": "Research paper",
@@ -3260,6 +3326,18 @@
       "sent_at": "2026-06-01T04:11:09+00:00",
       "source_domain": "channelnewsasia.com",
       "title": "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us 14 7m raids",
+      "usefulness_category": "Operational intelligence"
+    },
+    "man jailed after joining cambodia scam syndicate fired him 3 days poor performance": {
+      "article_type": "News report",
+      "normalised_title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "normalized_title_fingerprint": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "parsed_date": "2026-06-26",
+      "raw_title": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance - CNA",
+      "same_story_key": "channelnewsasia.com|2026-06-26|cambodia cambodian days failed fired him jailed job",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
       "usefulness_category": "Operational intelligence"
     },
     "memophishagent memory augmented multi modal llm agent phishing url detection": {
@@ -4956,6 +5034,18 @@
       "url": "https://arxiv.org/pdf/2604.17313",
       "usefulness_category": "Research / novel method"
     },
+    "34604d851e5fe2fdb683a4c95e911100decb3fa5fabcb96e0071dd810e12db49": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "normalized_title_fingerprint": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "parsed_date": "2026-05-12",
+      "same_story_key": "arxiv.org|2026-05-12|12243 2605 benchmark conversations early predicting prescam progression",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "[2605.12243] PreScam: A Benchmark for Predicting Scam Progression from Early Conversations - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAyWGJsRWY5MUVyQXJtbmdaem1MU0pjSEluU3lTZzJkS1NRR0Q2cXU1MTdaV0hwNEd6akl0VW0tWnJkaFRwcjBz?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
       "article_type": "News report",
       "normalised_title": "chinese speaking fraud gang could stealing millions 2026 world cup fans",
@@ -6192,6 +6282,18 @@
       "url": "https://www.straitstimes.com/singapore/courts-crime/spore-scam-syndicate-avoided-arrest-in-cambodia-after-receiving-tip-off",
       "usefulness_category": "Operational intelligence"
     },
+    "8ba5f9857252436ccfe5cd7d919583cf9a3c78e3bd24420a9ed366276fff3f6c": {
+      "article_type": "Research paper",
+      "normalised_title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "normalized_title_fingerprint": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "parsed_date": "2026-01-03",
+      "same_story_key": "arxiv.org|2026-01-03|based benchmarking constructing dataset detection email framework labeled",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework - arXiv",
+      "url": "https://arxiv.org/html/2511.21448v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "8bd08c457822a110b3e29aadbf96cc86d2a3b9b46158f73638ce7648e9b6ca5e": {
       "article_type": "Investigative report",
       "normalised_title": "revealed leaked chats expose daily life scam compound\u2019s enslaved workforce",
@@ -6252,6 +6354,18 @@
       "url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "8ed9872f2d0523267c207086fcb99bd67ddf42213be498ff2a467991bebf2bac": {
+      "article_type": "Research paper",
+      "normalised_title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "normalized_title_fingerprint": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
+      "parsed_date": "2026-01-03",
+      "same_story_key": "arxiv.org|2026-01-03|based benchmarking constructing dataset detection email framework labeled",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE40LXhjRFFxTU5xcVVIdmR0VkZBOXVscDRId0NscXNURENtcTIxWlhpbHRKZUNvQnM0OUlWMjBTQ3NJZkhQaXVOWTBhbw?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "9446e6dc5049bed33c848afed38c71896e4114744473a559f97f0e7de6f3f175": {
       "article_type": "Research paper",
       "normalised_title": "short message service sms phishing attacks defenses systematic review",
@@ -6299,6 +6413,18 @@
       "title": "Cyberscammers are bypassing banks\u2019 security with illicit tools sold on Telegram",
       "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
       "usefulness_category": "Technical abuse / vulnerability"
+    },
+    "98d2f0f05b129198433b943cf5a519e52d5c05b9a2071469ec3cd927cd2e0101": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "normalized_title_fingerprint": "2605 12243 prescam benchmark predicting scam progression early conversations",
+      "parsed_date": "2026-05-12",
+      "same_story_key": "arxiv.org|2026-05-12|12243 2605 benchmark conversations early predicting prescam progression",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "[2605.12243] PreScam: A Benchmark for Predicting Scam Progression from Early Conversations - arXiv",
+      "url": "https://arxiv.org/abs/2605.12243",
+      "usefulness_category": "Product idea / data source"
     },
     "98ecd903a733abd4de2013731deb520faf74e8c7515aded375b74ffcf6d9c68b": {
       "article_type": "News report",
@@ -6923,6 +7049,18 @@
       "title": "Integrating Sociocultural Intelligence into Cybersecurity: A LESCANT-Based Approach for Phishing and Social Engineering Detection",
       "url": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11050416.pdf",
       "usefulness_category": "Research / novel method"
+    },
+    "cbe8f7cb0cbade932ac38779bade9fb28e0a1ee1bcf8d0456991ea8ffeecaa32": {
+      "article_type": "News report",
+      "normalised_title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "normalized_title_fingerprint": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
+      "parsed_date": "2026-06-26",
+      "same_story_key": "channelnewsasia.com|2026-06-26|cambodia cambodian days failed fired him jailed job",
+      "sent_at": "2026-06-27T04:17:37+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Man jailed after joining Cambodia scam syndicate that fired him in 3 days for poor performance - CNA",
+      "url": "https://www.channelnewsasia.com/singapore/cambodian-scam-syndicate-man-jailed-failed-job-6212346",
+      "usefulness_category": "Operational intelligence"
     },
     "cd475687192f1503a7c6485acec9ade2f9199218f79decbc0f2d244b8e2e0ff8": {
       "article_type": "Research paper",
