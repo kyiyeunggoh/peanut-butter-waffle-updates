@@ -2,32 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {},
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 6,
-      "failed_constraints": [
-        "below_min_articles:0<3",
-        "missing_investigation_deep_analysis_or_operational_intelligence_if_available",
-        "missing_research_psychology_or_victimology_if_available",
-        "missing_technical_platform_product_or_data_source_if_available",
-        "missing_modus_operandi_or_infrastructure_if_available"
-      ],
-      "final_mix_constraints_satisfied": false,
-      "query_group_distribution": {
-        "watchlist": 6
-      },
-      "shortlist_count": 6,
-      "source_domain_distribution": {
-        "404media.co": 1,
-        "arxiv.org": 3,
-        "c4ads.org": 1,
-        "theverge.com": 1
-      },
-      "timestamp": "2026-05-24T07:16:13+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {}
-    },
-    {
-      "article_type_distribution": {},
       "candidate_cache_age_minutes": 31.5,
       "candidate_count": 6,
       "failed_constraints": [
@@ -1680,6 +1654,36 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 1,
         "Product idea / data source": 2
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 16,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 6,
+        "current_affairs": 7,
+        "psychology": 3
+      },
+      "shortlist_count": 6,
+      "source_domain_distribution": {
+        "abc.net.au": 2,
+        "arxiv.org": 2,
+        "bbc.co.uk": 1,
+        "theguardian.com": 1
+      },
+      "timestamp": "2026-06-28T04:49:47+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Detection / analytics / engineering insight": 1,
+        "Research / novel method": 2,
+        "Scam development": 1
       }
     }
   ]
