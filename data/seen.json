@@ -224,6 +224,20 @@
       "url": "https://apnews.com/article/cambodia-myanmar-scams-cybercrime-kok-an-d72dfed7b7da123d7ad0d26527cd7adb",
       "usefulness_category": "Platform policy / product change"
     },
+    "apnews.com|2026-06-30|12f549d5203abd38857c4e2f2fb1c986 days fall fleece four fraud global impostor": {
+      "article_type": "News report",
+      "normalised_title": "four days make victims fall love global scammers use us tech fleece people",
+      "normalized_title_fingerprint": "four days make victims fall love global scammers use us tech fleece people",
+      "original_url": "https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986",
+      "parsed_date": "2026-06-30",
+      "raw_title": "Four days to make victims fall in love: How global scammers use US tech to fleece people",
+      "same_story_key": "apnews.com|2026-06-30|12f549d5203abd38857c4e2f2fb1c986 days fall fleece four fraud global impostor",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "apnews.com",
+      "title": "four days make victims fall love global scammers use us tech fleece people",
+      "url": "https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986",
+      "usefulness_category": "Scam development"
+    },
     "arxiv.org|2025-05-21|benchmark psychological psyscam real scams techniques world": {
       "article_type": "Research paper",
       "normalised_title": "psyscam benchmark psychological techniques real world scams",
@@ -320,6 +334,20 @@
       "source_domain": "arxiv.org",
       "title": "modeling behavioral signals job scams human centered security study",
       "url": "https://arxiv.org/pdf/2601.19342",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-01-28|brands cross customer evaluation guidance industry smishing telling": {
+      "article_type": "Research paper",
+      "normalised_title": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "normalized_title_fingerprint": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "original_url": "https://arxiv.org/html/2601.20999v1",
+      "parsed_date": "2026-01-28",
+      "raw_title": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance",
+      "same_story_key": "arxiv.org|2026-01-28|brands cross customer evaluation guidance industry smishing telling",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "url": "https://arxiv.org/html/2601.20999v1",
       "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-01-29|approach based centric detection llm phishing rag user": {
@@ -2044,6 +2072,20 @@
       "url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
       "usefulness_category": "Scam development"
     },
+    "theguardian.com|2026-06-29|abuse asia asia\u2019s beaten centres cyberscam raids raped": {
+      "article_type": "Enforcement report",
+      "normalised_title": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "normalized_title_fingerprint": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "original_url": "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres",
+      "parsed_date": "2026-06-29",
+      "raw_title": "Trafficked, beaten and raped: raids reveal scale of abuse of women in Asia\u2019s cyberscam centres",
+      "same_story_key": "theguardian.com|2026-06-29|abuse asia asia\u2019s beaten centres cyberscam raids raped",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "theguardian.com",
+      "title": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "url": "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -3136,6 +3178,18 @@
       "title": "foreign workers flee phnom penh after mass exits scam compounds",
       "usefulness_category": "Operational intelligence"
     },
+    "four days make victims fall love global scammers use us tech fleece people": {
+      "article_type": "News report",
+      "normalised_title": "four days make victims fall love global scammers use us tech fleece people",
+      "normalized_title_fingerprint": "four days make victims fall love global scammers use us tech fleece people",
+      "parsed_date": "2026-06-30",
+      "raw_title": "Four days to make victims fall in love: How global scammers use US tech to fleece people",
+      "same_story_key": "apnews.com|2026-06-30|12f549d5203abd38857c4e2f2fb1c986 days fall fleece four fraud global impostor",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "apnews.com",
+      "title": "four days make victims fall love global scammers use us tech fleece people",
+      "usefulness_category": "Scam development"
+    },
     "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks": {
       "article_type": "Research paper",
       "normalised_title": "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks",
@@ -4156,6 +4210,18 @@
       "title": "thousands rescued illegal scam compounds myanmar thailand launches huge crackdown",
       "usefulness_category": "Operational intelligence"
     },
+    "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres": {
+      "article_type": "Enforcement report",
+      "normalised_title": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "normalized_title_fingerprint": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "parsed_date": "2026-06-29",
+      "raw_title": "Trafficked, beaten and raped: raids reveal scale of abuse of women in Asia\u2019s cyberscam centres",
+      "same_story_key": "theguardian.com|2026-06-29|abuse asia asia\u2019s beaten centres cyberscam raids raped",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "theguardian.com",
+      "title": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "two americans plead guilty assisting india based tech support scam centers": {
       "article_type": "News report",
       "normalised_title": "two americans plead guilty assisting india based tech support scam centers",
@@ -4395,6 +4461,18 @@
       "source_domain": "graphika.com",
       "title": "webinars \u2014 graphika",
       "usefulness_category": "Operational intelligence"
+    },
+    "what brands telling you about smishing cross industry evaluation customer guidance": {
+      "article_type": "Research paper",
+      "normalised_title": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "normalized_title_fingerprint": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "parsed_date": "2026-01-28",
+      "raw_title": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance",
+      "same_story_key": "arxiv.org|2026-01-28|brands cross customer evaluation guidance industry smishing telling",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "usefulness_category": "Research / novel method"
     },
     "when bots take bait exposing mitigating emerging social engineering attack web automation agent": {
       "article_type": "Research paper",
@@ -4721,6 +4799,18 @@
       "title": "Scammers are abusing an official Microsoft email address to send spam",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-official-microsoft-email-address-to-send-spam/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "0c7b3c23e4f7b53107d66efe9e97c3eeed63d47ff1e86a68986caf57ce005740": {
+      "article_type": "Enforcement report",
+      "normalised_title": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "normalized_title_fingerprint": "trafficked beaten raped raids reveal scale abuse women asia\u2019s cyberscam centres",
+      "parsed_date": "2026-06-29",
+      "same_story_key": "theguardian.com|2026-06-29|abuse asia asia\u2019s beaten centres cyberscam raids raped",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Trafficked, beaten and raped: raids reveal scale of abuse of women in Asia\u2019s cyberscam centres",
+      "url": "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "0d6a9ff698accef879ce0ed20bee9cf8618009b6ad9fc01a119fa661498693ca": {
       "article_type": "Deep analysis",
@@ -6942,6 +7032,18 @@
       "url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
       "usefulness_category": "Scam development"
     },
+    "b408be07b743e3bf0d92e8df6baa88bd4923e940d576698b6d3791ff023faa38": {
+      "article_type": "News report",
+      "normalised_title": "four days make victims fall love global scammers use us tech fleece people",
+      "normalized_title_fingerprint": "four days make victims fall love global scammers use us tech fleece people",
+      "parsed_date": "2026-06-30",
+      "same_story_key": "apnews.com|2026-06-30|12f549d5203abd38857c4e2f2fb1c986 days fall fleece four fraud global impostor",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "apnews.com",
+      "title": "Four days to make victims fall in love: How global scammers use US tech to fleece people",
+      "url": "https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986",
+      "usefulness_category": "Scam development"
+    },
     "b49eb7c9bd470265dee6cffdbe6696c1e04901dfbf9194045bc4ee4517faf53f": {
       "article_type": "News report",
       "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
@@ -7169,6 +7271,18 @@
       "title": "Job scams are growing and getting tougher to spot: \u2018That\u2019s the reality of this hell job market\u2019",
       "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
       "usefulness_category": "Scam development"
+    },
+    "c30a29e62e93a999714c9e2398b72211d96a89a68d8362033718ead12a5a1a48": {
+      "article_type": "Research paper",
+      "normalised_title": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "normalized_title_fingerprint": "what brands telling you about smishing cross industry evaluation customer guidance",
+      "parsed_date": "2026-01-28",
+      "same_story_key": "arxiv.org|2026-01-28|brands cross customer evaluation guidance industry smishing telling",
+      "sent_at": "2026-06-30T04:25:57+00:00",
+      "source_domain": "arxiv.org",
+      "title": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance",
+      "url": "https://arxiv.org/html/2601.20999v1",
+      "usefulness_category": "Research / novel method"
     },
     "c4ba8ff85a00016a5931128e48632cba5d3b39f09f55158595cc154d88fe9f7d": {
       "article_type": "Enforcement report",

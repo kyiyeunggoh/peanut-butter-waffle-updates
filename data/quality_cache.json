@@ -855,6 +855,40 @@
     ],
     "word_count": 2625
   },
+  "05e3b6bb841c5e30d5a6bcd27625e5e2129a34635922d628c2e307b18f816c0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized defense...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 14031
+  },
   "061f1ef2999fb4f943aa4aac4837766a214a10341722408e19194f6cb3134e73": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2012,6 +2046,32 @@
     ],
     "word_count": null
   },
+  "1107771bf4efeca80374dbe75e7cc5f31c81bbd92810811d36e42125b3c3451d": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Image source, Getty Images By Madeline Halpert Published 7 hours ago A Hollywood director convicted of defrauding Netflix of $11m (\u00c2\u00a38.3m) last year has been sentenced to two and a half years in prison. Carl Erik Rinsch was accused of using Netflix funds intended to complete a science fiction series to buy cars, cryptocurrency and other luxuries for himself. The 48-year-old, best known for the 2013 film 47 Ronin, was convicted of federal fraud and money laundering for misusing funds. Rinsch faced up to 90 years in prison, but was expected to receive a lighter sentence. Judge Jay Rakoff also sentenced Rinsch to three years of supervised release, $11m in forfeitures, and a $700 fine. Speaking to the court before the judge issued his sentence, Rinsch apologised and said he accepted responsibility for his crimes. \"Today's sentence sends a deterrent message: Fraud will not be tolerated,\" US Attorney Jay Clayton said in a statement. Prosecutors said Netflix gave Rinsch roughly $55m for the unfinished sci-fi show, initially named White Horse, including $11m he told them he needed to complete production. Instead, prosecutors said, he put the money in a personal account where he invested it and lost half within a couple of months. He put funds into cryptocurrency, and spent money on lavish purchases such as Rolls Royce cars and mattresses costing hundreds of thousands of dollars...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "entertainment_or_culture_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1073
+  },
   "112457920338367a451e23fec790cc23229de5555a8af706aaf85c0458f08b43": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2417,6 +2477,30 @@
     ],
     "word_count": 4037
   },
+  "13b34e632aba29a921e4942f13419d0fefdf2048441fcd5c98d4d952860e2e3e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A delivery robot in Broughton, Milton Keynes. The Starship Technologies six-wheelers have been roaming the streets of the city for more than eight years. Photograph: Christian Sinibaldi/The Guardian View image in fullscreen A delivery robot in Broughton, Milton Keynes. The Starship Technologies six-wheelers have been roaming the streets of the city for more than eight years. Photograph: Christian Sinibaldi/The Guardian \u2018A very good gadget\u2019: taking delivery from the robots of Milton Keynes Starship Technologies six-wheelers could soon become a more familiar sight across the country under new laws D riving down an endless string of identical roundabouts in the dead heat with hardly a human in sight, you see robots roving around on grassy pavements, whizzing past obstacles to hurriedly reach their final destination. This isn\u2019t a scene from a Philip K Dick novel, however, but an average Thursday in Milton Keynes . The robots aren\u2019t a new arrival to the Buckinghamshire city, the UK\u2019s largest new town and a longtime marvel for city planning enthusiasts fascinated by its American-influenced layout and postwar history. They\u2019ve roamed its streets since 2018 \u2013 and could soon be coming to a town or city near you. The short six-wheelers have already been let loose in Wakefield, Leeds and, courtesy of the food delivery firm Just Eat, in Bristol. With murmurs that the government will...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3870
+  },
   "13ea4c7174826413dc55c3fe5b09ff6ea91d512dcd2965a30a7524ed92d6cda4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2483,6 +2567,32 @@
       "cybersecurity"
     ],
     "word_count": 1131
+  },
+  "14e3228bbb86722e48da68e08a76751e3d33a1de311c377b41e71b863711dd46": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Supreme Court rejects Trump\u2019s push to toss $5 million verdict in E. Jean Carroll sexual abuse case Supreme Court rejects Trump\u2019s push to toss $5 million verdict in E. Jean Carroll sexual abuse case 1 of 3 | The Supreme Court on Monday rejected a push by President Donald Trump to throw out a jury\u2019s finding that he sexually abused writer E. Jean Carroll at a New York City department store in the mid-1990s and later defamed her. (AP Production: Marissa Duhaney) Read More 2 of 3 | E. Jean Carroll arrives at Manhattan federal court, Jan. 17, 2024, in New York. (AP Photo/Eduardo Munoz Alvarez) Read More 3 of 3 | The U.S. Supreme Court is seen, June 11, 2026, in Washington. (AP Photo/Mariam Zuhaib, File) Read More By LINDSAY WHITEHURST Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1577
   },
   "14ead4c8a70f17ec0649a60399185b5dc920469481c13ba4ab02c74ac69cc1cc": {
     "access_status": "available",
@@ -2612,7 +2722,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: ARES: A Platform for Adaptive Role-Based Evaluation of Social Engineering Risks in Human\u2013AI Games \u2020 \u2020 thanks: This research was supported by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI and the EU) and PowerAI+ (SI4/PJI/2024-00062, Comunidad de Madrid and UAM). Javier Irigoyen is supported by an FPI fellowship from MINECO/FEDER. Abstract This work introduces ARES, a platform and open pilot dataset for auditing adaptive social engineering risks in LLM-mediated social decision-making through controlled social games. ARES supports human\u2013human, human\u2013AI, and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronised behavioural and biometric acquisition, filtering, and deep-learning-based feature extraction. The pilot dataset was collected from 15 participants interacting with a role-conditioned GPT-5.4 agent in two concatenated games: an adapted Prisoner\u2019s Dilemma and an Ultimatum Game. It comprises 340 GB of raw and processed multimodal data across six streams: interaction logs, video, screen recordings, gaze logs, smartwatch signals, and game/questionnaire metadata. These data include...",
     "cache_version": 8,
-    "checked_at": "2026-06-22T05:30:31+00:00",
+    "checked_at": "2026-06-30T04:25:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -3761,6 +3871,32 @@
     "weak_generic_terms_found": [],
     "word_count": 2747
   },
+  "20c742cfc93011daa2515281b7c71e31c6180a3b0f5a3bab872c364aa318b3ef": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Director Carl Rinsch is sentenced to prison in $11M fraud case over unfinished Netflix show Director Carl Rinsch is sentenced to prison in $11M fraud case over unfinished Netflix show 1 of 5 | Carl Rinsch leaves a federal courthouse in New York, Monday, June 29, 2026. (AP Photo/Seth Wenig) Read More 2 of 5 | Carl Rinsch leaves a federal courthouse in New York, Monday, June 29, 2026. (AP Photo/Seth Wenig) Read More 3 of 5 | Carl Rinsch, center, leaves a federal courthouse in New York, Monday, June 29, 2026. (AP Photo/Seth Wenig) Read More 4 of 5 | Director Carl Rinsch poses for photographers during a news conference to promote his 3-D film \u201c47 RONIN\u201d in Tokyo, Japan, Nov. 18, 2013. (AP Photo/Shuji Kajiyama, File) Read More 5 of 5 | Carl Rinsch leaves a federal courthouse in New York, Monday, June 29, 2026. (AP Photo/Seth Wenig) Read More By JENNIFER PELTZ Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit NEW YORK (AP) \u2014 Hollywood writer-director Carl Rinsch was sentenced Monday to 2 1/2 years in prison after being convicted of defrauding Netflix out of $11 million for a never-finished sci-fi series. Supporters including Keanu Reeves had asked the court to show him leniency. Rinsch, best known for the 2013 samurai fantasy film \u201c47 Ronin,\u201d...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1713
+  },
   "20f290f3974dad2a01808d48bd4ee4dbb36e4936d025284bc172afe1d4e19270": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -4159,6 +4295,30 @@
     ],
     "word_count": 96
   },
+  "24780d0decbc16fe4a76ae2979b407641f19bf00cd66c3cfa951d97130579113": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue. Reason Challenge Request ID a13a68c45ec57aeb Status Code 403 Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 60
+  },
   "251a2bf5d317334d6656462e281d221901128c0179dbdf201fcac855cf40ec9d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -4346,6 +4506,46 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1866
+  },
+  "26ea7ae58abc51a84a5633f8dbb665b1e7ae974e800140d81dca30c8dd92e195": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Akram Htait Sadka Meisingseth Jaitly Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection Muhammad Shakeel Amal Abdul Hamid Emma Karishma 1 Aston University, Birmingham,UK. 2 Domestic & General, Wimbledon, UK. 1 {m.akram5, a.htait, a.sadka}@aston.ac.uk, 2 {Emma.Meisingseth, Karishma.Jaitly}@domesticandgeneral.com Abstract Insurance fraud imposes substantial financial losses and operational inefficiencies, raising premiums and impacting trust among legitimate policyholders. Early detection at FNOL remains a persistent challenge. Existing approaches rely largely on private, text-only datasets, limiting progress on multimodal methods that integrate linguistic, behavioural, and speaker-based indicators. We introduce a synthetic multimodal framework that replicates FNOL conditions. It generates agent\u2013customer dialogue transcripts and two-speaker audios, performs ASR and diarisation. Downstream modules combine NER, regex-based feature extraction, LLM\u2013RAG retrieval, and speaker embeddings in a rule-based risk score to flag narrative reuse, structural inconsistencies, and cross-case voice repetition while balancing sensitivity and false positives. Dataset validation and component-level evaluations show stability and transfer potential, offering a reproducible baseline beyond text-only fraud detection.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organised fraud"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 10918
   },
   "27b95833cda39ff0a5de4e4f0437724a85d16271cd71ffbeec5e6d484ce4f264": {
     "access_status": "available",
@@ -7081,6 +7281,30 @@
     ],
     "word_count": 753
   },
+  "3fe5f7a4d1d34f2b0f22781f45741bcda21304e64898812951f33429eef0413b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What to Stream: \u2018Enola Holmes 3,\u2019 Madonna and the \u2018Legally Blonde\u2019 prequel series \u2018Elle\u2019 What to Stream: \u2018Enola Holmes 3,\u2019 Madonna and the \u2018Legally Blonde\u2019 prequel series \u2018Elle\u2019 1 of 5 | This combination of images shows promotional art for the film, \u201cEnola Holmes 3,\u201d left, the film \u201cObsession,\u201d center, and the series \u201cElle.\u201d (Netflix/Focus Features/Prime via AP) Read More 2 of 5 | This album cover image released by Warner Records/Boy Toy shows \u201cConfessions II\u201d by Madonna. (Warner Records/Boy Toy via AP) Read More 3 of 5 | This image released by Netflix shows Louis Partridge, left, and Millie Bobby Brown in a scene from \u201cEnola Holmes 3.\u201d (John Wilson/Netflix via AP) Read More 4 of 5 | This image released by Focus Features shows Inde Navarrette, left, and Michael Johnston in a scene from \u201cObsession.\u201d (Focus Features via AP) Read More 5 of 5 | This image released by Prime Video shows Lexi Minetree, as Elle Woods, in a scene from \u201cElle.\u201d (Jessica Brooks/Prime Video via AP) Read More By THE ASSOCIATED PRESS Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit \u201cEnola Holmes 3\u201d and a new album from Madonna are some of the new television, films, music and games headed to a device near you. Also, among the streaming offerings worth your time this...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1871
+  },
   "400cac20d87f22c3beedd406204f668d0809241562905df5bdb9047510628e35": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7230,6 +7454,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2164
+  },
+  "414654c3f173c0b9ec3874a705288856aef46a5101fc82e3cab56eac64835130": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What makes a \u2018heat dome,\u2019 and what does it mean? Driven by human-caused climate change, heat waves around the world are \u201ctending to last longer, be stronger, and often more intense,\u201d experts say. (AP Video by Brittany Peterson. Produced by Teresa de Miguel) By ALEXA ST. JOHN Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit These unbearably hot and humid summer months that put millions of people across the globe at risk are typically made possible by phenomena known as heat domes. Heat domes can make already-high temperatures even more extreme and prolonged, and they are worsening in severity and becoming more frequent as the planet warms. Here\u2019s what to know. What makes up a heat dome, and what does it do? Heat domes are essentially high-pressure systems hovering above a region that trap heat and humidity, experts say.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1669
   },
   "41a81796507333049772ee5a98ae463a62ffa1619130b84da3859d91d52e332e": {
     "access_status": "available",
@@ -8522,6 +8770,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1313
   },
+  "4c48444d81b63865f853544ac8e6151099e989f8cf0d80832e48f30d98240e2e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "See what types of fraud are being reported in your county. The Associated Press obtained a dataset of millions of Federal Trade Commission fraud complaints from 2021-2025. This interactive allows you to search for the most common fraud reports in your county. This dataset is based on self-reporting and is estimated to capture only a portion of fraud in the U.S., much of which goes unreported. Because the reporting and collection of fraud data varies across the country, there are limitations comparing across geographic regions, such as two counties in different states. State Loading states... County Select a state first Totals include FTC fraud complaints reported across all years in the available database . Share this county See what types of fraud are being reported in your county. The Associated Press obtained a dataset of millions of Federal Trade Commission fraud complaints from 2021-2025. This interactive allows you to search for the most common fraud reports in your county.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 223
+  },
   "4c715280f21ea6e22fbca200a8703b0a3005fb64d9f35ae26f1b5e6ea02e36ce": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9017,6 +9291,47 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "52260f6e17713ff90a2672e7f741f22914b572705af0235d4e047273f1697fc3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: DG VoiC : Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions Muhammad Shakeel Akram Amal Htait Abdul Hamid Sadka Emma Meisingseth Karishma Jaitly Abstract Insurance fraud remains costly and operationally difficult, particularly in call-centre workflows where many customer interactions begin at FNOL. While recent fraud detection methods mainly rely on structured data, text, or images, repeated speaker identity across calls remains underused as an investigative signal. This paper presents DG VoiC , a voice clustering framework for customer verification and cross-profile speaker linking on anonymised real call-centre audio. The approach combines sensitive information-aligned anonymisation, speech-focused preprocessing, sliding-window speaker embedding extraction, and cosine similarity based clustering to identify repeated speakers under real telephony conditions. The method was evaluated on 121 recordings, with a curated reference subset of 56 samples in 22 human-agreed speaker clusters used for validation. The best configuration achieved 96% AMI, 95% ARI, 98% completeness, 100% homogeneity, and 99% V-measure. These results show that speaker clustering can provide a strong additional signal for fraud investigation by helping analysts verify speaker consistency and surface repeated voices across...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phone scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6241
+  },
   "5253e20fb02f24381c0f80903ec397ac315ad0bfc925d49f469681f052b4792e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -9073,6 +9388,49 @@
       "cybersecurity"
     ],
     "word_count": 0
+  },
+  "52d46f571c5ef1cba6eb8b42b6ebc54ffe7242726aee3962256735cb7b3f31c2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A luxury villa with an infinity pool. Consumers are being advised to look for independent reviews and check website links before booking trips. Photograph: Mystockimages/Getty Images View image in fullscreen A luxury villa with an infinity pool. Consumers are being advised to look for independent reviews and check website links before booking trips. Photograph: Mystockimages/Getty Images Holidaymakers warned over social media scams for fake accommodation Research suggests travel scams are on rise as experts advise doing some detective work to make sure holidays are real Holidaymakers have been advised to carry out amateur detective work to ensure they do not book into fake accommodation this summer, as research showed a third of travellers had seen an increase in potential travel scams on social media. Consumer experts have urged holidaymakers to do a reverse image search on photographs of holiday homes and check their locations on an online map to verify they are real. People may be booking in a hurry this year as many have left it later than usual because of uncertainty around the impact of the Iran war, increasing the risk of falling victim to an online or telephone scam. \u2018Your reservation is at risk\u2019: beware the Booking.com scam Read more Some of those caught up in flight cancellations and delays at the start of the Iran war have already been victims of scams. As well as...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2038
   },
   "52f80880156189aea40a9ec9f8fc795050ee15db4838e6d762d705469f460a51": {
     "access_status": "available",
@@ -9575,6 +9933,44 @@
       "victim"
     ],
     "word_count": 688
+  },
+  "59c362b4ef9c9d09f903ce58e95484b8bba9e882b6ffd2ddb029303bda3bcf9c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Mountain View\u2019s alarm comes as European Commission officials are set to make final decisions next month in two cases, around Google Search and Android interoperability, under the European Union\u2019s landmark Digital Markets Act competition rules. The rules, which were first adopted at the end of 2022, are designed to force open Big Tech companies that dominate markets , make it easier for others to compete, and reduce reliance on a handful of firms . Heather Adkins, Google\u2019s vice president of security engineering and a founding member of its security team, says the company has concerns around the proposed changes for both Search and Android. In April, the European Commission published initial details, plus now-closed public consultations, on how Google should open up its search data \u2014sharing anonymized search data with rivals\u2014and allowing other AI services to have more access to the Android operating system. \u201cIf implemented as described today, I think within a short period of time on Android, we\u2019d see a significant increase in fraud in the EU,\u201d Adkins tells WIRED. \u201cThe fraudsters are creative and informed. Past implementation [date], I would give it maybe weeks before we began to see an increase in fraud in Europe.\u201d Meanwhile, Adkins also claims the proposed changes to Google Search could result in people\u2019s search queries being de-anonymized by bad actors and search data shared...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "ransomware",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 5331
   },
   "59ca5459d7afd5a7b2735f07ce82c8b61862800ce4fde801a005322c4e8ec5c3": {
     "access_status": "available",
@@ -10190,6 +10586,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2086
   },
+  "5e6a6cf51848aa6867af224852532e7d6f8f7b603ff43e6e67db86ee509fb8ce": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Virginia to allow recreational marijuana to be sold in retail stores beginning in 2027 FILE- A cannibis plant that is close to harvest grows in a grow room at the Greenleaf Medical Cannabis facility in Richmond, Va., June 17, 2021. (AP Photo/Steve Helber, File) By SARAH RANKIN Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit RICHMOND, Va. (AP) \u2014 Five years after becoming the first Southern state to legalize possession of marijuana, Virginia has approved a legal way to sell it to recreational users. State budget legislation enacted Monday will allow up to 350 cannabis shops to open across Virginia beginning July 1, 2027. The move marks the latest expansion of access to the drug \u2014 which remains illegal at the federal level \u2014 through state-level policymaking. \u201cVirginia legalized adult possession years ago, but without a regulated retail market, we left the illicit market to fill the gap,\u201d state Sen. Lashrecse Aird, a Democrat and legislative leader on the issue, said in a statement earlier this month. \u201cThis compromise gives us a smarter and safer path forward \u2014 one that protects consumers, keeps products tested and accurately labeled, and creates a legal marketplace that is affordable and accessible enough to actually compete.\u201d Here\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1695
+  },
   "5ec10a9be37c493f4707a137b34a694a54414c4c1983e6029fd11b433c5e5444": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -10424,6 +10844,54 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "6109cecc33cd06480fdec0238694baa49561fc247aeed87f20feed857f7510c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u2018This is organised crime\u2019 \u2026 Martin Lewis, at home in London. Photograph: Antonio Olmos/The Guardian View image in fullscreen \u2018This is organised crime\u2019 \u2026 Martin Lewis, at home in London. Photograph: Antonio Olmos/The Guardian \u2018Am I losing this battle? Yes\u2019: Martin Lewis on the online scams that steal his identity \u2013 and others\u2019 life savings Trusted by millions, the finance expert has seen his name and face used to mis-sell a string of fake investments. And yet, he says, it would be \u2018very simple\u2019 for the government to stop them T his month, an email from a consumer landed in Martin Lewis\u2019s inbox. It was from an elderly woman with a disability who had been scammed when she invested in a scheme purportedly endorsed by Lewis \u2013 and lost her life savings. \u201cTHEY ARE BASTARDS!\u201d Lewis wrote at the top of his social media post about it. Even though the personal finance expert is a veteran campaigner against fraud, he says he had \u201ctears running down my face\u201d. He still sounds upset. \u201cI felt a mixture of frustration, anger and sadness.\u201d Not only for the plight of the woman, but for the \u201cconstant, ongoing deluge of shit from the scammers\u201d.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6495
   },
   "61466fb8b02483127646193a275dffe6c2d8f57cdab38f97ee051a7bbf13334c": {
     "access_status": "available",
@@ -10803,6 +11271,32 @@
       "identity"
     ],
     "word_count": 2614
+  },
+  "64387ac02e9db0c967af2d1333939dc7a803724bf933daa91ab8e1eb5dd6f378": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Carl Rinsch leaves a federal courthouse in New York, on Monday. Photograph: Seth Wenig/AP View image in fullscreen Carl Rinsch leaves a federal courthouse in New York, on Monday. Photograph: Seth Wenig/AP Director sentenced to more than two years for defrauding Netflix out of $11m Carl Rinsch requested $11m for never-finished sci-fi series but diverted money to personal account, prosecutors said Hollywood writer-director Carl Rinsch was sentenced Monday to two-and-a-half years in prison after being convicted of defrauding Netflix out of $11m for a never-finished sci-fi series. Supporters including Keanu Reeves had asked the court to show him leniency. Rinsch, best known for the 2013 samurai fantasy film 47 Ronin, was convicted in December of federal wire fraud and other charges. According to prosecutors and trial testimony, he told Netflix he needed $11m to finish a show called White Horse but diverted the money into a personal account and ultimately spent whopping sums on luxury cars, watches, clothes and household goods, including $638,000 on two mattresses. Rinsch, 48, and his lawyers told the court on Monday that his behavior was fueled by mental health struggles and medication problems, which they said he is now addressing with a new care provider. \u201cThis process has forced me to confront things about my health, my judgment and my life,\u201d Rinsch said. He apologized for his...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2182
   },
   "646153afbcc41474c571789511e3dcc5efbb3139cbc5a132d2a26f6d3c344b86": {
     "access_status": "available",
@@ -11520,6 +12014,32 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "6878d9bebb46b2d147a9c53244d7f82bc14e8ffcf61f82df9bb3a93026a4abfa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ugandan army chief orders the closure of a major news platform Lt. Gen. Muhoozi Kainerugaba, son of Uganda\u2019s President Yoweri Museveni, attends a \u201cthanksgiving\u201d ceremony in Entebbe, Uganda late Saturday, May 7, 2022. (AP Photo/Hajarah Nalwadda, File) By RODNEY MUHUMUZA Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit KAMPALA, Uganda (AP) \u2014 The offices of a major news organization in Uganda were shut down on the orders of the military chief, who warned Sunday that all media \u201cwill follow the rules\u201d while asserting his authority as the East African country\u2019s de facto ruler. Gen. Muhoozi Kainerugaba, the eldest son of President Yoweri Museveni, has served as the top military commander since 2024. In recent days, after Museveni was sworn in for a seventh consecutive term, Kainerugaba has strengthened his grip with a series of directives and orders usually reserved for the head of state. Soldiers were deployed outside the Kampala offices of the Daily Monitor newspaper early Sunday. The paper is part of the Nation Media Group of companies whose headquarters is in Nairobi, the Kenyan capital.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 1158
+  },
   "68908a26c4759627dadc8f5bc085003631d8eb2307b782383bdd921fc44cb062": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -11636,6 +12156,30 @@
     ],
     "word_count": 11887
   },
+  "692821cba50567ae8e75f10745d280986b31e11540b6f66f737291dadcd284f8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Viktor Hovland wins Travelers in Monday playoff when Scheffler misses short birdie putt Viktor Hovland wins Travelers in Monday playoff when Scheffler misses short birdie putt 1 of 6 | Viktor Hovland, of Norway, holds the Travelers Championship golf tournament trophy at TPC River Highlands, Monday, June 29, 2026, in Cromwell, Conn. (AP Photo/Jessica Hill) Read More 2 of 6 | Viktor Hovland celebrates his victory with fellow Norwegians as they do the Viking Row on the 18th green after winning a playoff at the 2026 Travelers Championship at TPC River Highlands in Cromwell, Conn., Monday, June 29, 2026. (Aaron Flaum/Hartford Courant via AP) Read More 3 of 6 | Viktor Hovland, of Norway, reacts after winning the Travelers Championship golf tournament at TPC River Highlands, Monday, June 29, 2026, in Cromwell, Conn. (AP Photo/Jessica Hill) Read More 4 of 6 | Viktor Hovland, of Norway, right, hugs his caddie Shay Knight as Scottie Scheffler, left, walks off the green on the first playoff hole of the Travelers Championship golf tournament at TPC River Highlands, Monday, June 29, 2026, in Cromwell, Conn. (AP Photo/Jessica Hill)r Read More 5 of 6 | Viktor Hovland, of Norway, reacts after making a birdie on the first playoff hole of the Travelers Championship golf tournament at TPC River Highlands, Monday, June 29, 2026, in Cromwell, Conn. (AP Photo/Jessica Hill) Read More 6 of 6 | Viktor...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2385
+  },
   "6936e50564abff9fc153c9a0ebfaeb6b1d3daa7774b5398953832f47d8d4e92e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -11657,6 +12201,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "697f52830e445d5b78e7809f17a904ada94b1872288638027081ed035e3dcca3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Crime gang who posed as police sentenced after targeting 'vulnerable' victims 12 hours ago Share Save Add as preferred on Google Lili Busby BBC News NI PSNI Mark Millar, Ray Lee and Elijah Lee were all sentenced at Belfast Crown Court. Members of a criminal gang who posed as police officers to prey on older people have been jailed. Aged between 31 and 61 years-old, they were sentenced at Belfast Crown Court after approximately \u00a3190,000 in cash and \u00a315,000 worth of jewellery was stolen from their victims in the Belfast, Antrim and Down areas. The Police Service of Northern Ireland (PSNI) described the gang as \"devious\" and said they persuaded \"vulnerable\" people they were going to be victims of a crime. All six men have been sentenced in relation to conspiracy to commit fraud by false representation, money laundering and possessing criminal property. The members of the gang and their individual sentences are: Ray Lee, 33, Belfast, was sentenced to five years. Elijah Lee, 61, Belfast, was sentenced to 28 months. Mark Paul Millar, 52, of no fixed abode, was sentenced to 20 months. John Joseph Delaney, 49, Belfast, was sentenced to six months imprisonment and six months on licence. William McGinley, 37, Irvinestown, was sentenced to six months' imprisonment, suspended for two years.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1083
   },
   "699fab47bff8fb98ecfdee0683c76f6c302997c02b71ff4616059fc75ae83978": {
     "access_status": "available",
@@ -11921,6 +12501,54 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "6c31c1c3a5b7fbd2a2607d5670fc0e25148b7cbcc36669979ebd20c25b5efe31": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US strikes Iran after attack on cargo ship 3 days ago Share Save Add as preferred on Google Bernd Debusmann Jr White House reporter Reuters Vessels at the Strait of Hormuz, as seen from Musandam, Oman The US military has conducted strikes on Iranian targets after President Donald Trump accused Iran of a \"foolish violation\" of its truce following an attack on a cargo ship in the Strait of Hormuz. US Central Command said it had struck missile and drone storage facilities and coastal radar positions on Friday, in response to a drone attack on a cargo ship on Thursday which halted a planned evacuation of sailors stuck in the region. Tehran said the cargo ship was attacked because it was using an unauthorised route to transit through the Gulf waterway. After the US strikes, Iran in turn accused the US of violating their interim deal and said it had struck targets linked to American forces. US Central Command - or Centcom - described the American strikes as \"a powerful response\" to the drone attack a day earlier. \"The unwarranted aggression against commercial shipping by Iranian forces clearly violated the ceasefire,\" it said in a statement. \"Furthermore, Iran's dangerous behaviour undermined freedom of navigation as commerce increasingly flows through the vital international trade corridor.\" Centcom said the US military would \"continue to provide safe passage coordination and...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2903
+  },
+  "6c3c6749f923f280efd84ca603d68d4445a4eec8d43679a0dc85a5cfbffae18f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Zelenskyy condemns \u2018horrific attacks\u2019 as Russian strikes kill 12 and wound 40 in Ukraine Zelenskyy condemns \u2018horrific attacks\u2019 as Russian strikes kill 12 and wound 40 in Ukraine 1 of 4 | In this photo provided by the Ukrainian Emergency Services on Monday, June 29, 2026, a rescue worker with paramedics move an injured man into an ambulance after a Russian drone strike on passengers minivan in Dnipropetrovsk region, Ukraine. (Ukrainian Emergency Service via AP) Read More 2 of 4 | In this photo provided by the Ukrainian Emergency Services on Monday, June 29, 2026, a passengers minivan is seen damaged after a Russian drone strike in Dnipropetrovsk region, Ukraine. (Ukrainian Emergency Service via AP) Read More 3 of 4 | In this photo provided by the Ukrainian Emergency Services on Monday, June 29, 2026, a rescue worker puts out a fire of petrol station damaged by a Russian strike on Poltava region, Ukraine. (Ukrainian Emergency Service via AP) Read More 4 of 4 | In this photo provided by the Ukrainian Emergency Services on Monday, June 29, 2026, a rescue worker puts out a fire of a tractor destroyed by a Russian strike on Mykolaiv region, Ukraine. (Ukrainian Emergency Service via AP) Read More By HANNA ARHIROVA and BARRY HATTON Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1765
   },
   "6c5c56043111ac30c862777093231e698b6f336465c707df5508e05fbad399b2": {
     "access_status": "available",
@@ -12407,6 +13035,32 @@
       "malware"
     ],
     "word_count": null
+  },
+  "6e399d6b9a04c6ec56883b8a8773714562ba0a77275385038e9a85e8d25bf848": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue. Reason Challenge Request ID a13a68901f367aeb Status Code 403 Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 60
   },
   "6e48307492005c24de46802f20e864da7ea97d8bfc853b54fbb5ab4e82eeaf5c": {
     "access_status": "available",
@@ -13009,6 +13663,30 @@
     ],
     "word_count": 30
   },
+  "728d6b785863aeb8e701d896794300f817beae4e1896136c04b3b522b2e97806": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Justice Elena Kagan wrote the majority opinion. Photograph: Grace Cary/Getty Images View image in fullscreen Justice Elena Kagan wrote the majority opinion. Photograph: Grace Cary/Getty Images US supreme court rules geofence warrants require constitutional privacy protections Law enforcement\u2019s use of warrants sweeping smartphone location data requires privacy protections, court rules US supreme court decisions \u2013 live updates The US supreme court has ruled that law enforcement\u2019s use of sprawling warrants that sweep up smartphone location data requires privacy protections under the fourth amendment, in a boost to critics who view their use as an unconstitutional dragnet. Justice Elena Kagan wrote the majority opinion, which held that the sensitive data scooped up by \u201cgeofence warrants\u201d counts as a fourth amendment search, and offers individuals a \u201creasonable expectation of privacy\u201d, even if they may be in a public area. \u201cAn individual has a reasonable expectation of privacy in records about his cell phone\u2019s location, and police intrude on that constitutionally protected interest when they demand the information \u2013 even though for only a limited time, and from a third-party tech company,\u201d Kagan wrote. The judges ruled 6-3 in Chatrie v US, against the government, in a case that has been widely viewed as a test of how privacy rights translate into a new digital era. US supreme court...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3147
+  },
   "72ad1ba498ae5db5cd0435232e5ebaeaed9ae93da60f8766732c40828d8f4ab5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -13538,6 +14216,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2756
   },
+  "76dbc9a52226bbc57a892b6fffbc76a2697771bfb1cae69704d234d6f377410e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "If you have a workplace pension, you may already be investing in trackers without realising it. Photograph: Bloomberg/Getty Images View image in fullscreen If you have a workplace pension, you may already be investing in trackers without realising it. Photograph: Bloomberg/Getty Images \u2018Buy the haystack\u2019: how tracker funds beat searching for shares Designed to mirror the stock market, they are an easy and cheap way to save. Here\u2019s how to start investing in them Tracker funds have been around for about half a century, providing investors with access to a range of assets without them having to make difficult and risky decisions. Built to follow the fortunes of a given financial market index, trackers do not need management teams, which means they generally come with low charges. If you have a workplace pension, you probably already invested in one without realising it. If you want to start investing, you are likely to be directed towards a tracker fund. No fund manager required Tracker funds are a kind of investment fund. These are pooled investments that use investors\u2019 money to buy into a range of different assets, including shares in companies and government bonds. There are two main types of fund, passive and actively managed.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4961
+  },
   "76eb60138a02206a4293281937ec7dcb5e2e86ec840310572c6f1f7aaa73cf57": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -13722,6 +14424,32 @@
       "identity"
     ],
     "word_count": 22512
+  },
+  "787dc3f076dd4cf4aebbd8260d433188ab12be7a523e5356f599b8d4634963c5": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Hollywood director gets two and a half years in prison for defrauding Netflix 8 hours ago Share Save Add as preferred on Google Madeline Halpert Getty Images A Hollywood director convicted of defrauding Netflix of $11m (\u00a38.3m) last year has been sentenced to two and a half years in prison. Carl Erik Rinsch was accused of using Netflix funds intended to complete a science fiction series to buy cars, cryptocurrency and other luxuries for himself. The 48-year-old, best known for the 2013 film 47 Ronin, was convicted of federal fraud and money laundering for misusing funds. Rinsch faced up to 90 years in prison, but was expected to receive a lighter sentence. Judge Jay Rakoff also sentenced Rinsch to three years of supervised release, $11m in forfeitures, and a $700 fine. Speaking to the court before the judge issued his sentence, Rinsch apologised and said he accepted responsibility for his crimes. \"Today's sentence sends a deterrent message: Fraud will not be tolerated,\" US Attorney Jay Clayton said in a statement. Prosecutors said Netflix gave Rinsch roughly $55m for the unfinished sci-fi show, initially named White Horse, including $11m he told them he needed to complete production. Instead, prosecutors said, he put the money in a personal account where he invested it and lost half within a couple of months. He put funds into cryptocurrency, and spent money on lavish purchases...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "entertainment_or_culture_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1086
   },
   "78a9056f9b8b6dfe6ff15ce1029a49288c4b2272ad3f1e30888c54ed9c60f3e0": {
     "access_status": "available",
@@ -15354,6 +16082,33 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "842da0cbc0b7f1cfc636e46c13f6f3c610ee96345e6679915b9c608c398d6ed3": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "What the Supreme Court\u2019s ruling in the Cook case means for Federal Reserve independence What the Supreme Court\u2019s ruling in the Cook case means for Federal Reserve independence 1 of 2 | The William McChesney Martin Jr. building, which houses the Board of Governors of the Federal Reserve System, is seen on April 7, 2025, in Washington. (AP Photo/Jacquelyn Martin, File) Read More 2 of 2 | Federal Reserve Board of Governors member Lisa Cook leaves the Supreme Court in Washington, Jan. 21, 2026. (AP Photo/Mark Schiefelbein, File) Read More By CHRISTOPHER RUGABER Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit WASHINGTON (AP) \u2014 The Supreme Court on Monday said the Federal Reserve, unlike any other agency in Washington, has a measure of independence from the presidency and day-to-day politics. But the court didn\u2019t define to what extent. The case is the latest round in an unprecedented fight between the Fed and President Donald Trump. More political interference at the Fed could upend financial markets around the world, which closely follow its interest rate moves. Trump has repeatedly demanded that the central bank cut its key interest rate to lower borrowing costs for homeowners, businesses, and even the government itself.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 2636
+  },
   "843b0ddc5e581b5785af1ba6b8b182ad8da7c94a15fe409894f627c87b1c6f9a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16761,6 +17516,30 @@
     ],
     "word_count": 4852
   },
+  "8fe0d929796b090342a1600c5353f202716771e93d1838c4937100c81bbefc4c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US stocks rise and recover some of their losses from a rare losing week US stocks rise and recover some of their losses from a rare losing week 1 of 2 | Gas prices move up and down in response to disruptions in supply and spikes in demand. Many global events such as conflicts, sanctions or decisions by major oil producing countries can limit or create uncertainty about the supply of oil. Read More 2 of 2 | Specialist Philip Finale works on the floor of the New York Stock Exchange, Friday, June 26, 2026. (AP Photo/Richard Drew) Read More By STAN CHOE Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit NEW YORK (AP) \u2014 U.S. stocks rose Monday and recovered some of their losses from a rare losing week . The S&P 500 climbed 1.2% and broke a five-day losing streak. It was coming off just its second losing week in the last 13. The Dow Jones Industrial Average added 306 points, or 0.6%, and the Nasdaq composite rallied 2.1%. Several stocks boosted by the artificial-intelligence boom rose after Samsung Electronics and SK Hynix said they will invest roughly $518 billion in a new chipmaking hub in South Korea , as its president hopes to capitalize on surging AI demand.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1852
+  },
   "90748e7b9abd2b59a4141912ec04552da347d76c018f6c1875a473e2bd19cce1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17115,6 +17894,30 @@
       "victim"
     ],
     "word_count": 4072
+  },
+  "9282938a266f6bb174eefe6f31c5f6d8f2cfd9ead886dd1876d8130f25ca2f5b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Illustration: Elia Barbieri/The Guardian View image in fullscreen Illustration: Elia Barbieri/The Guardian What if doing more isn\u2019t always the answer? It\u2019s tempting to treat overwhelm with clever fixes \u2013 but that might be part of the problem A ccording to my Instagram feed, I am not doing enough. Not spending enough, not saying enough, not taking enough care. I feel more sure of this than anything. And it\u2019s bringing out an irrationality I\u2019m not proud of: one afternoon, in between screengrabs of masked men snatching civilians from their homes, videos of wellness influencers evangelising \u201canti-trauma\u201d hip stretches, and carousels of political action items disguised as catchy memes, I am served a targeted ad for a \u201cDon\u2019t Talk to Me About AI or I\u2019ll Kill Myself\u201d crochet pattern; and even though I have never crocheted anything in my life, I find myself looking up the materials to get started \u2026 on Etsy to avoid supporting any big, Maga-oriented corporations. It\u2019s overwhelming, this general pressure, palpable not only on social media but throughout the larger culture: today\u2019s most urgent issues, from technological end times to tight hips, can only be solved by squeezing as much into the day as humanly possible. Balancing political engagement with mental peace is one of my generation\u2019s biggest and most abstract challenges, but according to psychology research, the \u201cmore is more\u201d...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3327
   },
   "928913d41cb973b770045eba822d15f457c841803ce9bd3087001d098d0467c6": {
     "access_status": "available",
@@ -19236,6 +20039,30 @@
     ],
     "word_count": 106
   },
+  "a3d9336a6b99ccea8562cde31a8a7cb04bad5869ec44f38b8d0ce30236825ebc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "a40ede25102ea9c88162e5d8f862905551f2c9419b54d841aa2778c8271175d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -19618,6 +20445,38 @@
       "trust"
     ],
     "word_count": 723
+  },
+  "a7621dd202131a03905e6863d3ca81e2a32417fd0ba637dc9e915fa6621e64da": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Lost your crypto access code? Be wary, there\u2018s a scam for that too",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 14
   },
   "a768291c057179743f800b4f775a9c87bab2f0dc9828899b4c18054307ea0f67": {
     "access_status": "unknown",
@@ -20080,7 +20939,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Validation-Stage Combinatorial Fusion Analysis for Imbalanced Credit-Card Fraud Detection Xiao Han1 Chenyu Wu1 1Xiao Han and Chenyu Wu contributed equally to this work. Corresponding author: Xiao Han. Abstract Credit-card fraud detection is difficult because fraudulent transactions are rare, costly, and unevenly distributed. Strong gradient-boosted tree models already perform well on structured transaction data, so the value of another fusion method is not obvious. This paper examines whether Combinatorial Fusion Analysis (CFA), which searches over model subsets and rank-score fusion rules, can still add value on the IEEE-CIS Fraud Detection benchmark. Using a leakage-free 60/20/20 train/validation/test protocol, we evaluate 480 fusion configurations built from seven base classifiers. The best test-set result comes from diversity-weighted score fusion of Random Forest, XGBoost, and LightGBM (DEF WtScore), with AUC-ROC = 0.9405, AUPRC = 0.6699, and F1 = 0.6373. Bootstrap confidence intervals from 1,000 resamples show that the gains over the strongest single model exclude zero for all three metrics. CFA matches soft voting on AUC-ROC, improves AUPRC and F1, and outperforms stacking in this setting.",
     "cache_version": 8,
-    "checked_at": "2026-06-23T04:21:05+00:00",
+    "checked_at": "2026-06-30T04:25:45+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -20672,6 +21531,30 @@
     ],
     "word_count": 19834
   },
+  "b04b53525c9309ba43a10d60180b3d3c994367297109f916c97a1d0fbcd18952": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "UC Berkeley is establishing the Nancy Pelosi Institute to address democracy\u2019s challenges Rep. Nancy Pelosi, D-Calif., speaks at an event at the U.S. Capitol, March 25, 2026, in Washington. (AP Photo/Allison Robbert, File) By KEVIN FREKING Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit WASHINGTON (AP) \u2014 Former House Speaker Nancy Pelosi is pointing to a busy retirement next year. She and the University of California, Berkeley, are partnering to form a new nonpartisan academic institute they say will be dedicated to strengthening democracy. Pelosi, a Democrat who has represented San Francisco for nearly 40 years and is not seeking reelection , will also participate in the organization\u2019s academics by co-teaching a course on Congress. The Nancy Pelosi Institute for Representative Democracy will launch in January. \u201cI am honored to partner with this exceptional community of scholars and students so we can equip the next generation with the tools they need to strengthen our democratic institutions and forge a future that serves the public good,\u201d Pelosi said. The university says the institute will be focused on four pillars: strengthening America\u2019s democratic institutions; overcoming challenges to society, the economy and the...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1183
+  },
   "b06d57ee8cd46ea5b2dba929054f7b66f7c2e66ee3eb4ccfba1453a05edf842e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -21094,6 +21977,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1447
   },
+  "b39b0a40eb3a8cbdb457924abfd9eee01f878f95e32ce3ed50ae0093905d36bc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Email Routing Addresses Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Update destination address PATCH /accounts/{account_id}/email/routing/addresses/{destination_address_identifier} Updates the status of a specific destination address. Security API Email + API Key The previous authorization scheme for interacting with the Cloudflare API, used in conjunction with a Global API key. Example: X-Auth-Email: user@example.com The previous authorization scheme for interacting with the Cloudflare API. When possible, use API tokens instead of Global API keys. Example: X-Auth-Key: 144c9defac04969c7bfad8efaa8ea194 Accepted Permissions (at least one required) Email Routing Addresses Write P ath Parameters Expand Collapse account_id : string Identifier. maxLength 32 destination_address_identifier : string Destination address identifier. maxLength 32 Body Parameters JSON Expand Collapse status : \"unverified\" or \"verified\" Destination address status. Non-admin callers may only set verified addresses back to unverified; setting to verified requires admin privileges. One of the following: \"unverified\" \"verified\" Returns Expand Collapse errors : array of object { code , message , documentation_url , source } code : number minimum 1000 message : string documentation_url : optional string source : optional object { pointer } pointer...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 571
+  },
   "b3fa47d18b23d609d5792b84697bd9eb95952e6dcb00baf4e642142c17f767b8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21117,6 +22024,62 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3002
+  },
+  "b408be07b743e3bf0d92e8df6baa88bd4923e940d576698b6d3791ff023faa38": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Four days to make victims fall in love: How global scammers use US tech to fleece people Four days to make victims fall in love: How global scammers use US tech to fleece people 1 of 10 | Safeer Mohammed Koorimannil, who was trafficked into scamming, looks out from the window of his CM Fisheries office before starting the day, in Sulthan Bathery in the southern state of Kerala, India, Thursday, March 12, 2026. (AP Photo/Manish Swarup) Read More 2 of 10 | Chris Colocousis sits for a portrait, layered with a screenshot of a text message exchange with a woman he was communicating with who turned out to be a scammer, in this long exposure photograph at his home in Raynham, Mass., Tuesday, March 10, 2026. (AP Photo/David Goldman) Read More 3 of 10 | Chris Colocousis, whose retirement savings was targeted by a scammer, drives to a work meeting Wednesday, March 11, 2026, in Raynham, Mass. (AP Photo/David Goldman) Read More 4 of 10 | Safeer Mohammed Koorimannil walks through a wholesale fish market before opening his CM Fisheries office in Sulthan Bathery in the southern state of Kerala, India, Thursday, March 12, 2026. (AP Photo/Manish Swarup) Read More 5 of 10 | Safeer Mohammed Koorimannil, right, leans on the shoulder of his brother, Jouhar Babu, while working at their CM Fisheries office in Sulthan Bathery in the southern state of Kerala, India, Thursday, March 12, 2026. (AP...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "cybersecurity",
+      "ai abuse",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 11711
   },
   "b419523cd86bd1cef029783c54d83be75bcbd53e7a652866d35a72d6d3aca533": {
     "access_status": "available",
@@ -21222,6 +22185,42 @@
       "fraud"
     ],
     "word_count": 1660
+  },
+  "b4f52502de4d5f5d82348eabf6735faeeb9e48a5b191ee8b24574133eaa0fe94": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Later this year, the messaging app used by over 3 billion people plans to add usernames. It\u2019s an additional (and more privacy-friendly) way for WhatsApp users to connect without sharing phone numbers. But that means the race to grab the best WhatsApp usernames is about to begin. Hold on tight. WhatsApp says username reservations open up this week on the platform, and you\u2019ll see a notification in the app when it\u2019s available. Check in the app by going to Settings and then Account . Here\u2019s where you\u2019ll find the Username tab if it\u2019s enabled. Then, you\u2019ll have the option to create a new username or port over your existing name from Instagram or Facebook . WhatsApp offers a username generator, but you can also just go with your gut (or really whatever you\u2019re feeling at the moment). \u201cUsernames are designed to give you control over who gets to see your phone number in the first place,\u201d says Alice Newton-Rex, vice president of Product at WhatsApp.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2302
   },
   "b5020209a975f0bc1826f13b77e50d95c089336079b08d5884bb437a5c6fa2ab": {
     "access_status": "available",
@@ -22088,6 +23087,56 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2717
+  },
+  "bd465e74a507f68be983115c9ac682c9bde0bc81312457ba1025c351c0180afe": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "World Cup what to know: Round of 32 heats up with Brazil-Japan, Netherlands-Morocco World Cup what to know: Round of 32 heats up with Brazil-Japan, Netherlands-Morocco 1 of 5 | Brazil\u2019s Neymar (10) celebrates after the World Cup Group C soccer match between Scotland and Brazil in Miami Gardens, Fla., Wednesday, June 24, 2026. (AP Photo/Lynne Sladky) Read More 2 of 5 | Netherlands fans celebrate a win during the World Cup Group F soccer match between Tunisia and the Netherlands in Kansas City, Mo., Thursday, June 25, 2026. (AP Photo/Charlie Riedel) Read More 3 of 5 | Member of the Japanese national team work out during a training session in Houston, Sunday, June 28, 2026, ahead of their round of 32 FIFA World Cup soccer game against Brazil. (AP Photo/Ashley Landis) Read More 4 of 5 | Morocco\u2019s Chadi Riad (18) and Redouane Halhal (25) celebrate the team\u2019s win during the World Cup Group C soccer match between Morocco and Haiti in Atlanta, Wednesday, June 24, 2026. (AP Photo/Erik S. Lesser) Read More 5 of 5 | Ecuador\u2019s Pervis Estupinan, right, and Germany\u2019s Jonathan Tah vie for the ball during the World Cup Group E soccer match between Ecuador and Germany in East Rutherford, N.J., near New York, Thursday, June 25, 2026. (AP Photo/Frank Franklin II) Read More By DAVID BRANDT Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2806
+  },
+  "bd4f57e17fa11077540993188ec49c0588ecb733b47e26ed3bff6ad290bf0c79": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "A voter drops her mail-in ballot in San Diego in November 2025. Photograph: Carlos A Moreno/ZUMA Press Wire/Shutterstock View image in fullscreen A voter drops her mail-in ballot in San Diego in November 2025. Photograph: Carlos A Moreno/ZUMA Press Wire/Shutterstock US supreme court upholds law to count mail-in ballots arriving after election day Court sides against Republicans after deciding earlier this term to let Louisiana effectively dismantle Voting Rights Act US supreme court decisions \u2013 live updates Sign up for the Breaking News US newsletter email The US supreme court sided against national Republicans and Donald Trump\u2019s administration to allow mail-in ballots that arrive after election day to be counted, upholding the law in more than a dozen states. The Republican National Committee (RNC) had challenged a Mississippi state law allowing mailed ballots to be counted if they arrive within five business days of election day, so long as they were postmarked by election day. \u201cNothing in the federal election-day statutes requires ballots to be received by election day,\u201d the conservative justice Amy Coney Barrett wrote in the 5-4 opinion. Barrett joined Chief Justice John Roberts and the three liberal justices \u2013 Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson \u2013 in delivering the majority opinion. Justices Samuel Alito wrote a dissenting opinion, which Clarence Thomas...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 4152
   },
   "bd924e4af6c4d39ab093eb1e8e58bdf2fa9d4f4af4b35278b388ebce3ad2a190": {
     "access_status": "available",
@@ -22974,6 +24023,64 @@
     ],
     "word_count": 10093
   },
+  "c30a29e62e93a999714c9e2398b72211d96a89a68d8362033718ead12a5a1a48": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance Dev Vikesh Doshi Mehjabeen Tasnim Fernando Landeros Chinthagumpala Muni Venkatesh Daniel Timko Muhammad Lutfor Rahman Abstract Phishing attacks through text, also known as smishing, are a prevalent type of social engineering tactic in which attackers impersonate brands to deceive victims into providing personal information and/or money. While smishing awareness and cyber education are a key method by which organizations communicate this awareness, the guidance itself varies widely. In this paper, we investigate the state of practice of how 149 well-known brands across 25 categories educate their customers about smishing and what smishing prevention and reporting advice they provide. After conducting a comprehensive content analysis of the brands, we identified significant gaps in the smishing-related information provided: only 46% of the 149 brands mentioned the definition of smishing, less than 1% had a video tutorial on smishing, and only 50% of brands provided instructions on how to report. Our study highlights variation in terminology, prevention advice, and reporting mechanisms across industries, with some brands recommending potentially ineffective strategies such as \u201dignoring suspicious messages.\u201d These findings establish a baseline for understanding the current state of...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:NDSS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "smishing"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22023
+  },
   "c36a19cf51bbe6a62746b3abde2ac878b019265d7762b9aef0d7eb53b4fe0855": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -23675,6 +24782,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "c9c2546ded04e51592f2117a15139de6c56d3c1b360cd6d55c77d3064ab8a0d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "c9d5b50f7b7a4deb99ee33874dd738ec250405942604ccb7a87ae06737c21ab3": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -24135,6 +25266,42 @@
       "cybersecurity"
     ],
     "word_count": 8
+  },
+  "cdb6293a4825078b0bfdfca6c2f8674a76f54d8df1f18f25852ea4e5920bed92": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Thousands of immigrants got scammed by an attorney exploiting humanitarian visas, lawsuits say Thousands of immigrants got scammed by an attorney exploiting humanitarian visas, lawsuits say 1 of 5 | Gabriel Martinez Garcia, 30, holds a Bible close to his chest as tattoos of his parents are visible on his wrists, in Tenino, Wash., on Sunday, June 14, 2026. . (AP Photo/Akash Pamarthy) Read More 3 of 5 | Gabriel Martinez Garcia, 30, holds a Hail Mary necklace given to him by his mother, which he wears every day, in Tenino, Wash., on Sunday, June 14, 2026. (AP Photo/Akash Pamarthy) Read More 4 of 5 | The former office of Alexandra Lozano Immigration Law, now operating as La Luz del Camino Legal, on Sunday, June 14, 2026, in Tukwila, Wash. (AP Photo/Akash Pamarthy) Read More 5 of 5 | Gabriel Martinez Garcia rests his hand on a tree as his mother\u2019s name tattoo is visible on his wrist, in Tenino, Wash., on Sunday, June 14, 2026. (AP Photo/Akash Pamarthy) Read More By JACK BROOK Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit An attorney in Washington state promised \u201cmiracles\u201d to tens of thousands of immigrants seeking legal status in the United States. Instead, Alexandra Lozano created fake stories of domestic abuse and human...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3347
   },
   "ce5f335154c1b26dafa1eb378859ab9d4b0817cb29b8e88da2c7ea460ab9e0d1": {
     "access_status": "available",
@@ -25264,6 +26431,64 @@
     ],
     "word_count": null
   },
+  "d7adebb80dcf203c18d024306f67ebf54519bf31e35cc5d1c452b5886222b14d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Exiled Chinese billionaire Guo Wengui gets 30 years in US prison for fraud Judge says accused 'preyed on those seeking to bring democracy to China' A Twitter page of Chinese exiled businessman Guo Wengui is seen on a computer screen in August 2017. \u00a9 AP NEW YORK (AP) -- A self-exiled billionaire Chinese business tycoon once believed to be among China's wealthiest men was sentenced Monday to 30 years in a U.S. prison for a massive financial fraud that a federal judge said cost over 1,000 people worldwide hundreds of millions of dollars. Guo Wengui, who fled China a decade ago and reinvented himself as a U.S.-based Communist Party critic, was sentenced in a Manhattan courtroom packed with his supporters by Judge Analisa Torres. She said he \"preyed on those seeking to bring Democracy to China,\" taking their money so he could live lavishly. Before he was sentenced, Guo protested his treatment in jail, saying he was taken to the hospital early Monday. He disputed a prosecutor's portrayal of him as a malinger faking illness, saying he repeatedly vomited as he was returned to jail before being brought to court. \"When I came here, I said: 'I have a tummy ache, I need to go to the bathroom, I don't feel well,'\" Guo said through an interpreter of his courthouse arrival. Later, Guo wiped his mouth repeatedly with a tissue. He only briefly addressed the criminal case, defending his...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:40+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud"
+    ],
+    "word_count": 823
+  },
+  "d7e663d31864c67c38cf1784a3f23cf703bea9494892eb95c2093d7670a66aba": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "d87938b3e3a9284aa82e92e1b9e7d626c1aceaf0f816afcad61ee6e62f375308": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -25908,6 +27133,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "dd1b20441982f036b2cc8b02e19d521461ee871f09b0dadc5cff3b4daa5ad8e3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Email Routing Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Unlock Email Routing email_routing. unlock ( EmailRoutingUnlockParams **kwargs ) -> Settings POST /zones/{zone_id}/email/routing/unlock Unlock MX records previously locked by Email Routing. Deprecated - use PATCH /zones/{zone_id}/email/routing/dns instead. Security API Email + API Key The previous authorization scheme for interacting with the Cloudflare API, used in conjunction with a Global API key. Example: X-Auth-Email: user@example.com The previous authorization scheme for interacting with the Cloudflare API. When possible, use API tokens instead of Global API keys. Example: X-Auth-Key: 144c9defac04969c7bfad8efaa8ea194 Accepted Permissions (at least one required) Zone Settings Write Parameters Expand Collapse zone_id : str Identifier. maxLength 32 name : Optional [ str ] Domain of your zone. Returns Expand Collapse class Settings : \u2026 id : str Email Routing settings identifier. maxLength 32 enabled : Literal [ true , false ] State of the zone settings for Email Routing.",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 581
   },
   "dd31d683c7d121809ed2897b282603231a8aa2761f2b01c9e6a7fb4c556235b8": {
     "access_status": "available",
@@ -27573,6 +28822,41 @@
     ],
     "word_count": 1639
   },
+  "ee03a3fdd45ee064a0f79ccc8207bc40708fe4289b037d5f2e74ce918fe0d3dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In this courtroom sketch, Guo Wengui, a Chinese business tycoon, talks at Manhattan federal court in New York on Jun 29, 2026. (File photo: AP/Elizabeth Williams) 30 Jun 2026 08:48AM (Updated: 30 Jun 2026 08:54AM) Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST NEW YORK: A self-exiled billionaire Chinese business tycoon once believed to be among China's wealthiest men was sentenced on Monday (Jun 29) to 30 years in a US prison for a massive financial fraud that a federal judge said cost over 1,000 people worldwide hundreds of millions of dollars. Guo Wengui, who fled China a decade ago and reinvented himself as a US-based Communist Party critic, was sentenced in a Manhattan courtroom packed with his supporters by Judge Analisa Torres. She said he \u201cpreyed on those seeking to bring democracy to China\u201d, taking their money so he could live lavishly. Before he was sentenced, Guo protested his treatment in jail, saying he was taken to the hospital early Monday. He disputed a prosecutor's portrayal of him as a malingerer faking illness, saying he...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:38+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3413
+  },
   "ee7798f9654bb8840a6eeb2330b5bac51a850cb9be8636f0d4851980796db205": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29213,6 +30497,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "fc6afdf7fef06f9629e5e9f673dd600a3dc34abe6cad57ac49eec1bf25e3dce0": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Lisa Cook at the Economic Club of Miami earlier this month. Photograph: Joe Raedle/Getty Images View image in fullscreen Lisa Cook at the Economic Club of Miami earlier this month. Photograph: Joe Raedle/Getty Images US supreme court rules Trump\u2019s firing of Lisa Cook from Fed was unconstitutional Justices find president does not have constitutional authority to fire Federal Reserve governor without cause US supreme court decisions \u2013 live updates Sign up for the Breaking News US email The US supreme court has refused Donald Trump \u2019s attempts to immediately fire a Federal Reserve governor, in a landmark ruling that limits a president\u2019s authority over the central bank. In a 5-4 opinion, the court said that Lisa Cook can stay on as a governor while she fights unproved allegations of mortgage fraud made by the Trump officials. \u201cThe court decides this application on the narrow ground that the president failed to afford Cook the procedural protections to which she was entitled by statute. Without such protections, she could not properly dispute the charges the president laid against her,\u201d the justices said. The case was centered on Cook, a Joe Biden appointee whose 14-year term on the Federal Reserve board of governors is scheduled to expire in 2038. Cook is the first Black woman to serve on the Fed\u2019s board. Last August, on social media, Trump abruptly fired Cook. The president...",
+    "cache_version": 8,
+    "checked_at": "2026-06-30T04:25:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2402
   },
   "fc6fdca821b88fa0b9422e99c6570b6cc10d9572d6c51ecc14dc0ba29e4c5d64": {
     "access_status": "unknown",
