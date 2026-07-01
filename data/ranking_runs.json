@@ -6,34 +6,6 @@
         "News report": 1,
         "Research paper": 2
       },
-      "candidate_cache_age_minutes": 32.6,
-      "candidate_count": 6,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "watchlist": 6
-      },
-      "shortlist_count": 6,
-      "source_domain_distribution": {
-        "404media.co": 1,
-        "arxiv.org": 3,
-        "c4ads.org": 1,
-        "theverge.com": 1
-      },
-      "timestamp": "2026-05-24T07:48:46+00:00",
-      "used_candidate_cache": true,
-      "usefulness_category_distribution": {
-        "Deepfakes, synthetic identity & impersonation": 2,
-        "Operational intelligence": 1,
-        "Research / novel method": 2
-      }
-    },
-    {
-      "article_type_distribution": {
-        "Investigative report": 2,
-        "News report": 1,
-        "Research paper": 2
-      },
       "candidate_cache_age_minutes": 34.0,
       "candidate_count": 6,
       "failed_constraints": [],
@@ -1690,6 +1662,34 @@
       "usefulness_category_distribution": {
         "Local Singapore / Southeast Asia relevance": 1,
         "Research / novel method": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Investigative report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 17,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 4,
+        "current_affairs": 12,
+        "investigative": 1
+      },
+      "shortlist_count": 6,
+      "source_domain_distribution": {
+        "abc.net.au": 2,
+        "apnews.com": 2,
+        "bbc.co.uk": 1,
+        "graphika.com": 1
+      },
+      "timestamp": "2026-07-01T04:55:46+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 1,
         "Scam development": 1
       }
     }
