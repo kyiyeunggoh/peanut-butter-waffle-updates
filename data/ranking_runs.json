@@ -2,21 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {},
-      "candidate_cache_age_minutes": 156.7,
-      "candidate_count": 0,
-      "failed_constraints": [
-        "below_min_articles:0<3"
-      ],
-      "final_mix_constraints_satisfied": false,
-      "query_group_distribution": {},
-      "shortlist_count": 0,
-      "source_domain_distribution": {},
-      "timestamp": "2026-05-24T09:52:56+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {}
-    },
-    {
-      "article_type_distribution": {},
       "candidate_cache_age_minutes": null,
       "candidate_count": 0,
       "failed_constraints": [
@@ -1697,6 +1682,36 @@
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
         "Local Singapore / Southeast Asia relevance": 1,
+        "Operational intelligence": 1,
+        "Platform policy / product change": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Investigative report": 1,
+        "Policy / platform update": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 19,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 3,
+        "current_affairs": 15,
+        "investigative": 1
+      },
+      "shortlist_count": 7,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "apnews.com": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 1,
+        "graphika.com": 1,
+        "wired.com": 1
+      },
+      "timestamp": "2026-07-04T04:01:03+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
         "Operational intelligence": 1,
         "Platform policy / product change": 1
       }
