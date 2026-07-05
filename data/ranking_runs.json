@@ -3,21 +3,6 @@
     {
       "article_type_distribution": {},
       "candidate_cache_age_minutes": null,
-      "candidate_count": 0,
-      "failed_constraints": [
-        "below_min_articles:0<3"
-      ],
-      "final_mix_constraints_satisfied": false,
-      "query_group_distribution": {},
-      "shortlist_count": 0,
-      "source_domain_distribution": {},
-      "timestamp": "2026-05-24T09:53:03+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {}
-    },
-    {
-      "article_type_distribution": {},
-      "candidate_cache_age_minutes": null,
       "candidate_count": 23,
       "failed_constraints": [
         "below_min_articles:0<3",
@@ -1714,6 +1699,38 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 1,
         "Platform policy / product change": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 2,
+        "Investigative report": 1,
+        "News report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 18,
+      "failed_constraints": [
+        "missing_technical_platform_product_or_data_source_if_available"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "academic": 2,
+        "current_affairs": 16
+      },
+      "shortlist_count": 6,
+      "source_domain_distribution": {
+        "abc.net.au": 1,
+        "apnews.com": 1,
+        "bbc.com": 2,
+        "channelnewsasia.com": 1,
+        "wired.com": 1
+      },
+      "timestamp": "2026-07-05T04:20:32+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Operational intelligence": 1,
+        "Scam development": 2
       }
     }
   ]
