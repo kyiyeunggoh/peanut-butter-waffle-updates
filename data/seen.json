@@ -224,6 +224,20 @@
       "url": "https://www.abc.net.au/news/2026-07-01/cybercrime-report-finds-increase-in-scams-fall-in-vigilance/106861692",
       "usefulness_category": "Scam development"
     },
+    "abc.net.au|2026-07-06|delivery drivers phishing scam targets": {
+      "article_type": "News report",
+      "normalised_title": "phishing scam targets delivery drivers",
+      "normalized_title_fingerprint": "phishing scam targets delivery drivers abc news headlines",
+      "original_url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
+      "parsed_date": "2026-07-06",
+      "raw_title": "Phishing scam targets delivery drivers",
+      "same_story_key": "abc.net.au|2026-07-06|delivery drivers phishing scam targets",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "abc.net.au",
+      "title": "phishing scam targets delivery drivers",
+      "url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
+      "usefulness_category": "Scam development"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -2268,6 +2282,20 @@
       "url": "https://www.theguardian.com/global-development/2026/jun/29/trafficked-beaten-raped-raids-abuse-women-asia-cyberscam-centres",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "theguardian.com|2026-07-05|air aldi conditioning cool deals fake heatwave not": {
+      "article_type": "News report",
+      "normalised_title": "not cool air conditioning scams offering fake deals heatwave",
+      "normalized_title_fingerprint": "not cool air conditioning scams offering fake deals heatwave",
+      "original_url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
+      "parsed_date": "2026-07-05",
+      "raw_title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
+      "same_story_key": "theguardian.com|2026-07-05|air aldi conditioning cool deals fake heatwave not",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "theguardian.com",
+      "title": "not cool air conditioning scams offering fake deals heatwave",
+      "url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
+      "usefulness_category": "Scam development"
+    },
     "theguardian.com|2026-07-05|algorithm boss digital feed hit ladbible meta meta\u2019s": {
       "article_type": "News report",
       "normalised_title": "\u2018tough pill swallow\u2019 ladbible boss traffic hit meta\u2019s feed shake up",
@@ -3896,6 +3924,18 @@
       "title": "nigeria arrests suspected raccoono365 phishing kit developer tip microsoft fbi",
       "usefulness_category": "Product idea / data source"
     },
+    "not cool air conditioning scams offering fake deals heatwave": {
+      "article_type": "News report",
+      "normalised_title": "not cool air conditioning scams offering fake deals heatwave",
+      "normalized_title_fingerprint": "not cool air conditioning scams offering fake deals heatwave",
+      "parsed_date": "2026-07-05",
+      "raw_title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
+      "same_story_key": "theguardian.com|2026-07-05|air aldi conditioning cool deals fake heatwave not",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "theguardian.com",
+      "title": "not cool air conditioning scams offering fake deals heatwave",
+      "usefulness_category": "Scam development"
+    },
     "online fraud scams increase vigilance falls aic report finds abc news headlines": {
       "article_type": "News report",
       "normalised_title": "online fraud scams increase vigilance falls aic report finds",
@@ -3991,6 +4031,18 @@
       "source_domain": "arxiv.org",
       "title": "phishdebate llm based multi agent framework phishing website detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "phishing scam targets delivery drivers abc news headlines": {
+      "article_type": "News report",
+      "normalised_title": "phishing scam targets delivery drivers",
+      "normalized_title_fingerprint": "phishing scam targets delivery drivers abc news headlines",
+      "parsed_date": "2026-07-06",
+      "raw_title": "Phishing scam targets delivery drivers",
+      "same_story_key": "abc.net.au|2026-07-06|delivery drivers phishing scam targets",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "abc.net.au",
+      "title": "phishing scam targets delivery drivers",
+      "usefulness_category": "Scam development"
     },
     "photo essay two victims opposite sides global scam industry seek rebuild their lives": {
       "article_type": "News report",
@@ -5265,6 +5317,18 @@
       "title": "Scammers are abusing an official Microsoft email address to send spam",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-official-microsoft-email-address-to-send-spam/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "0bd4d210b87cb06228781fa61fc4e1f5231d7722e01d65cc26ef8eeb0179dd9b": {
+      "article_type": "News report",
+      "normalised_title": "phishing scam targets delivery drivers",
+      "normalized_title_fingerprint": "phishing scam targets delivery drivers abc news headlines",
+      "parsed_date": "2026-07-06",
+      "same_story_key": "abc.net.au|2026-07-06|delivery drivers phishing scam targets",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "abc.net.au",
+      "title": "Phishing scam targets delivery drivers",
+      "url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
+      "usefulness_category": "Scam development"
     },
     "0c39027bbe2b0a7d91b330f008807cd4b413c004743ed159236a1f200ce3713f": {
       "article_type": "Investigative report",
@@ -6657,6 +6721,18 @@
       "title": "Infographic: Holiday Scams & Frauds Unwrapped - Graphika",
       "url": "https://graphika.com/posts/holiday-scams-infographic",
       "usefulness_category": "Operational intelligence"
+    },
+    "68d5d195535677a84c650d3a5a98501e7f265ba51cbf093fe661f308f39421f1": {
+      "article_type": "News report",
+      "normalised_title": "not cool air conditioning scams offering fake deals heatwave",
+      "normalized_title_fingerprint": "not cool air conditioning scams offering fake deals heatwave",
+      "parsed_date": "2026-07-05",
+      "same_story_key": "theguardian.com|2026-07-05|air aldi conditioning cool deals fake heatwave not",
+      "sent_at": "2026-07-07T04:16:56+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
+      "url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
+      "usefulness_category": "Scam development"
     },
     "69ebe4ac2dd332a4db25044c7df2e06973c2ee53b34af3829eec4e3ae4bd25f0": {
       "article_type": "Investigative report",
