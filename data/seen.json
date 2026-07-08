@@ -224,6 +224,20 @@
       "url": "https://www.abc.net.au/news/2026-07-01/cybercrime-report-finds-increase-in-scams-fall-in-vigilance/106861692",
       "usefulness_category": "Scam development"
     },
+    "abc.net.au|2026-07-04|action class consider investors scam super": {
+      "article_type": "News report",
+      "normalised_title": "investors consider class action over super scam",
+      "normalized_title_fingerprint": "investors consider class action over super scam abc news headlines",
+      "original_url": "https://www.abc.net.au/news/2026-07-05/investor-class-action-super-trustees-first-guardian-shield/106876602",
+      "parsed_date": "2026-07-04",
+      "raw_title": "Investors consider class action over super scam",
+      "same_story_key": "abc.net.au|2026-07-04|action class consider investors scam super",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "abc.net.au",
+      "title": "investors consider class action over super scam",
+      "url": "https://www.abc.net.au/news/2026-07-05/investor-class-action-super-trustees-first-guardian-shield/106876602",
+      "usefulness_category": "Scam development"
+    },
     "abc.net.au|2026-07-06|delivery drivers phishing scam targets": {
       "article_type": "News report",
       "normalised_title": "phishing scam targets delivery drivers",
@@ -1427,6 +1441,20 @@
       "title": "spf cyber command aims tip spear fight against scams",
       "url": "https://www.channelnewsasia.com/singapore/police-new-unit-launch-scams-cybercrime-cyber-command-6228666",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "channelnewsasia.com|2026-07-07|concerned could countries india mean other usernames what": {
+      "article_type": "News report",
+      "normalised_title": "india concerned about whatsapp usernames what could mean other countries",
+      "normalized_title_fingerprint": "india concerned about whatsapp usernames what could mean other countries",
+      "original_url": "https://www.channelnewsasia.com/asia/why-india-concerned-about-whatsapp-usernames-and-what-it-could-mean-other-countries-6238151",
+      "parsed_date": "2026-07-07",
+      "raw_title": "Why India is concerned about WhatsApp usernames - and what it could mean for other countries",
+      "same_story_key": "channelnewsasia.com|2026-07-07|concerned could countries india mean other usernames what",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "india concerned about whatsapp usernames what could mean other countries",
+      "url": "https://www.channelnewsasia.com/asia/why-india-concerned-about-whatsapp-usernames-and-what-it-could-mean-other-countries-6238151",
+      "usefulness_category": "Scam development"
     },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
       "article_type": "Research paper",
@@ -3648,6 +3676,18 @@
       "title": "ice phishing scammers sending support ice emails steal credentials",
       "usefulness_category": "Operational intelligence"
     },
+    "india concerned about whatsapp usernames what could mean other countries": {
+      "article_type": "News report",
+      "normalised_title": "india concerned about whatsapp usernames what could mean other countries",
+      "normalized_title_fingerprint": "india concerned about whatsapp usernames what could mean other countries",
+      "parsed_date": "2026-07-07",
+      "raw_title": "Why India is concerned about WhatsApp usernames - and what it could mean for other countries",
+      "same_story_key": "channelnewsasia.com|2026-07-07|concerned could countries india mean other usernames what",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "india concerned about whatsapp usernames what could mean other countries",
+      "usefulness_category": "Scam development"
+    },
     "indonesia malaysia\u2019s idea tighter visa rules counter foreign scammers may not \u2018a cure\u2019": {
       "article_type": "Investigative report",
       "normalised_title": "indonesia malaysia\u2019s idea tighter visa rules counter foreign scammers may not \u2018a cure\u2019",
@@ -3707,6 +3747,18 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "integrating sociocultural intelligence cybersecurity lescant based approach phishing social engineering detection",
       "usefulness_category": "Research / novel method"
+    },
+    "investors consider class action over super scam abc news headlines": {
+      "article_type": "News report",
+      "normalised_title": "investors consider class action over super scam",
+      "normalized_title_fingerprint": "investors consider class action over super scam abc news headlines",
+      "parsed_date": "2026-07-04",
+      "raw_title": "Investors consider class action over super scam",
+      "same_story_key": "abc.net.au|2026-07-04|action class consider investors scam super",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "abc.net.au",
+      "title": "investors consider class action over super scam",
+      "usefulness_category": "Scam development"
     },
     "japan orgs targeted cogui phishing kit impersonating amazon rakuten": {
       "article_type": "Technical article",
@@ -5186,6 +5238,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xOFpnbHlTT2I0ZGhwZlk4VUZyU0JIZ3l6SzBVcU5rZnZyN3F6NVdNUFppT09RUjlRaklGN3p5bDBfd1BuTE90T3Z6Yw?oc=5",
       "usefulness_category": "Research / novel method"
     },
+    "0433bb9e6cbf6c49185c1ca9593615b20b3e91a753a9f429bce757e68438e959": {
+      "article_type": "News report",
+      "normalised_title": "india concerned about whatsapp usernames what could mean other countries",
+      "normalized_title_fingerprint": "india concerned about whatsapp usernames what could mean other countries",
+      "parsed_date": "2026-07-07",
+      "same_story_key": "channelnewsasia.com|2026-07-07|concerned could countries india mean other usernames what",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Why India is concerned about WhatsApp usernames - and what it could mean for other countries",
+      "url": "https://www.channelnewsasia.com/asia/why-india-concerned-about-whatsapp-usernames-and-what-it-could-mean-other-countries-6238151",
+      "usefulness_category": "Scam development"
+    },
     "054f0507c9e96087c64d8991ddfbdddcd2bd6c57d5fc50b1581a6148ff2e58eb": {
       "article_type": "Enforcement report",
       "normalised_title": "teen admits registering 25 sim cards exchange money 2 scam victims lost s 35 000",
@@ -5533,6 +5597,18 @@
       "title": "China executes 11 people linked to Myanmar scam operation - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm9Fbjh5Z1UwWDhyQ05OdWIwaDNVMERuOUJSWDA3TU1OX2pnS0xsVzhIbjFjS0Y2dVF3TUpPOEd6b1pybDc3c3N5Um5wci1hZDR1V3NWWnFvcWhVMGM5MUh0ZkgwVHRNMnFmTGJkOGxJRUFxODRFX3RwUG1TZG1tZWEwVFRreXhydFVkTGJ5bHZmdGlPNjd0aXVaZzdhcXNZc1E?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "16f352f3cc89457a1c6559e5d6d450f9c808aaf30e12b24479a519064219737d": {
+      "article_type": "News report",
+      "normalised_title": "investors consider class action over super scam",
+      "normalized_title_fingerprint": "investors consider class action over super scam abc news headlines",
+      "parsed_date": "2026-07-04",
+      "same_story_key": "abc.net.au|2026-07-04|action class consider investors scam super",
+      "sent_at": "2026-07-08T03:42:41+00:00",
+      "source_domain": "abc.net.au",
+      "title": "Investors consider class action over super scam",
+      "url": "https://www.abc.net.au/news/2026-07-05/investor-class-action-super-trustees-first-guardian-shield/106876602",
+      "usefulness_category": "Scam development"
     },
     "19742f6b4081e40db13639f662a0ad0b36ec876fe37b442b82cbcdf845141b9d": {
       "article_type": "Enforcement report",
