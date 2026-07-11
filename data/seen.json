@@ -266,6 +266,20 @@
       "url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
       "usefulness_category": "Scam development"
     },
+    "abc.net.au|2026-07-07|abandoned amounts crackdown scams sees transactions vast": {
+      "article_type": "Enforcement report",
+      "normalised_title": "crackdown scams sees vast amounts transactions abandoned",
+      "normalized_title_fingerprint": "video crackdown scams sees vast amounts transactions abandoned abc news headlines",
+      "original_url": "https://www.abc.net.au/news/programs/the-business/2026-07-07/crackdown-on-scams-sees-vast-amounts-of-transactions-abandoned/106889100",
+      "parsed_date": "2026-07-07",
+      "raw_title": "Crackdown on scams sees vast amounts of transactions abandoned",
+      "same_story_key": "abc.net.au|2026-07-07|abandoned amounts crackdown scams sees transactions vast",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "abc.net.au",
+      "title": "crackdown scams sees vast amounts transactions abandoned",
+      "url": "https://www.abc.net.au/news/programs/the-business/2026-07-07/crackdown-on-scams-sees-vast-amounts-of-transactions-abandoned/106889100",
+      "usefulness_category": "Scam development"
+    },
     "abc.net.au|2026-07-08|cambodia hub label scam shake trying": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia trying shake scam hub label",
@@ -1217,6 +1231,20 @@
       "title": "interpol arrests through operation first light interpol arrest 5 800 suspects intercept 293 million global fraud bust",
       "url": "https://www.bbc.com/pidgin/articles/c1myvx0g02eo",
       "usefulness_category": "Operational intelligence"
+    },
+    "bbc.com|2026-07-10|abu americans charged cz75zp9752do elderly extradited ghana scamming": {
+      "article_type": "Enforcement report",
+      "normalised_title": "ghana s abu trica extradited us charged scamming elderly americans",
+      "normalized_title_fingerprint": "ghana s abu trica extradited us charged scamming elderly americans",
+      "original_url": "https://www.bbc.com/news/articles/cz75zp9752do",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Ghana's Abu Trica extradited to US charged with 'scamming elderly Americans'",
+      "same_story_key": "bbc.com|2026-07-10|abu americans charged cz75zp9752do elderly extradited ghana scamming",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "bbc.com",
+      "title": "ghana s abu trica extradited us charged scamming elderly americans",
+      "url": "https://www.bbc.com/news/articles/cz75zp9752do",
+      "usefulness_category": "Scam development"
     },
     "channelnewsasia.com|2025-12-16|000 admits cards exchange lost money register registering": {
       "article_type": "Enforcement report",
@@ -2394,6 +2422,20 @@
       "url": "https://www.theguardian.com/media/2026/jul/05/meta-algorithm-digital-publishers-ladbible",
       "usefulness_category": "Product idea / data source"
     },
+    "theguardian.com|2026-07-10|act ads ban big fraud have ofcom online": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "normalized_title_fingerprint": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "original_url": "https://www.theguardian.com/media/2026/jul/10/online-platforms-ban-scam-ads-uk-fraud-ofcom-online-safety-act",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Big tech platforms will have to ban scam ads under UK plans to tackle fraud",
+      "same_story_key": "theguardian.com|2026-07-10|act ads ban big fraud have ofcom online",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "theguardian.com",
+      "title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "url": "https://www.theguardian.com/media/2026/jul/10/online-platforms-ban-scam-ads-uk-fraud-ofcom-online-safety-act",
+      "usefulness_category": "Platform policy / product change"
+    },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
       "normalised_title": "japan orgs targeted cogui phishing kit impersonating amazon rakuten",
@@ -3108,6 +3150,18 @@
       "title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
       "usefulness_category": "Operational intelligence"
     },
+    "big tech platforms will have ban scam ads under uk plans tackle fraud": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "normalized_title_fingerprint": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Big tech platforms will have to ban scam ads under UK plans to tackle fraud",
+      "same_story_key": "theguardian.com|2026-07-10|act ads ban big fraud have ofcom online",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "theguardian.com",
+      "title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "usefulness_category": "Platform policy / product change"
+    },
     "block spammers scammers telemarketers your phone": {
       "article_type": "Investigative report",
       "normalised_title": "block spammers scammers telemarketers your phone",
@@ -3611,6 +3665,18 @@
       "source_domain": "arxiv.org",
       "title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "ghana s abu trica extradited us charged scamming elderly americans": {
+      "article_type": "Enforcement report",
+      "normalised_title": "ghana s abu trica extradited us charged scamming elderly americans",
+      "normalized_title_fingerprint": "ghana s abu trica extradited us charged scamming elderly americans",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Ghana's Abu Trica extradited to US charged with 'scamming elderly Americans'",
+      "same_story_key": "bbc.com|2026-07-10|abu americans charged cz75zp9752do elderly extradited ghana scamming",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "bbc.com",
+      "title": "ghana s abu trica extradited us charged scamming elderly americans",
+      "usefulness_category": "Scam development"
     },
     "global cybersecurity gap deepens ai powered attacks surge": {
       "article_type": "News report",
@@ -5004,6 +5070,18 @@
       "title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
       "usefulness_category": "Scam development"
     },
+    "video crackdown scams sees vast amounts transactions abandoned abc news headlines": {
+      "article_type": "Enforcement report",
+      "normalised_title": "crackdown scams sees vast amounts transactions abandoned",
+      "normalized_title_fingerprint": "video crackdown scams sees vast amounts transactions abandoned abc news headlines",
+      "parsed_date": "2026-07-07",
+      "raw_title": "Crackdown on scams sees vast amounts of transactions abandoned",
+      "same_story_key": "abc.net.au|2026-07-07|abandoned amounts crackdown scams sees transactions vast",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "abc.net.au",
+      "title": "crackdown scams sees vast amounts transactions abandoned",
+      "usefulness_category": "Scam development"
+    },
     "video will australia\u2019s anti scam strategy solve problem": {
       "article_type": "News report",
       "normalised_title": "video will australia\u2019s anti scam strategy solve problem",
@@ -5581,6 +5659,18 @@
       "title": "PreScam: A Benchmark for Predicting Scam Progression from Early Conversations - arXiv",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SZ3lKMHNOLW55Ym1Fd0VDV1g0aS1rOWFNRElvRzJJNkh1Tlg1eGtQZFBwZG1CSmlPZVkwdXJ6UTJ0bUx1bUZDNVFPWQ?oc=5",
       "usefulness_category": "Product idea / data source"
+    },
+    "10ca81f2b785711ea7f568c13b9f0a1d6532e4df18f73e2ea5fbd92a5077b633": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "normalized_title_fingerprint": "big tech platforms will have ban scam ads under uk plans tackle fraud",
+      "parsed_date": "2026-07-10",
+      "same_story_key": "theguardian.com|2026-07-10|act ads ban big fraud have ofcom online",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "theguardian.com",
+      "title": "Big tech platforms will have to ban scam ads under UK plans to tackle fraud",
+      "url": "https://www.theguardian.com/media/2026/jul/10/online-platforms-ban-scam-ads-uk-fraud-ofcom-online-safety-act",
+      "usefulness_category": "Platform policy / product change"
     },
     "1195d94bfc34031a60d33805737a1311e1b9012bcea5de9acbb0ec13f811dbca": {
       "article_type": "News report",
@@ -7070,6 +7160,18 @@
       "url": "https://www.reuters.com/world/asia-pacific/cambodia-arrests-investigative-journalist-who-exposed-trafficking-scam-compounds-2024-10-01/",
       "usefulness_category": "Operational intelligence"
     },
+    "71906969e34e48383a3d8b7dd7f28b6b018fb56d1334aa93b75fa704a7f96a20": {
+      "article_type": "Enforcement report",
+      "normalised_title": "ghana s abu trica extradited us charged scamming elderly americans",
+      "normalized_title_fingerprint": "ghana s abu trica extradited us charged scamming elderly americans",
+      "parsed_date": "2026-07-10",
+      "same_story_key": "bbc.com|2026-07-10|abu americans charged cz75zp9752do elderly extradited ghana scamming",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "bbc.com",
+      "title": "Ghana's Abu Trica extradited to US charged with 'scamming elderly Americans'",
+      "url": "https://www.bbc.com/news/articles/cz75zp9752do",
+      "usefulness_category": "Scam development"
+    },
     "73e2efdb15d5776ca7c7cb96ab1825d508150b06e8e631b61de10decfca5dfa5": {
       "article_type": "Research paper",
       "normalised_title": "verifying intent harm unified defense against llm generated threats",
@@ -8185,6 +8287,18 @@
       "title": "What Are Brands Telling You About Smishing? A Cross-Industry Evaluation of Customer Guidance",
       "url": "https://arxiv.org/html/2601.20999v1",
       "usefulness_category": "Research / novel method"
+    },
+    "c35a58ac302d96cf3a9f2a689bd7164d1c2235c1f12ca062274772ec122eebc5": {
+      "article_type": "Enforcement report",
+      "normalised_title": "crackdown scams sees vast amounts transactions abandoned",
+      "normalized_title_fingerprint": "video crackdown scams sees vast amounts transactions abandoned abc news headlines",
+      "parsed_date": "2026-07-07",
+      "same_story_key": "abc.net.au|2026-07-07|abandoned amounts crackdown scams sees transactions vast",
+      "sent_at": "2026-07-11T03:39:34+00:00",
+      "source_domain": "abc.net.au",
+      "title": "Crackdown on scams sees vast amounts of transactions abandoned",
+      "url": "https://www.abc.net.au/news/programs/the-business/2026-07-07/crackdown-on-scams-sees-vast-amounts-of-transactions-abandoned/106889100",
+      "usefulness_category": "Scam development"
     },
     "c4ba8ff85a00016a5931128e48632cba5d3b39f09f55158595cc154d88fe9f7d": {
       "article_type": "Enforcement report",

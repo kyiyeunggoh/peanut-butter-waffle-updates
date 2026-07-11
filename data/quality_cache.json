@@ -2021,6 +2021,32 @@
     ],
     "word_count": 1518
   },
+  "0c647be326d12c021e58b92f4136abc27d2f9218098613c83dfabb80efff3a2b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "0c7b3c23e4f7b53107d66efe9e97c3eeed63d47ff1e86a68986caf57ce005740": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2577,6 +2603,44 @@
       "victim"
     ],
     "word_count": null
+  },
+  "10ca81f2b785711ea7f568c13b9f0a1d6532e4df18f73e2ea5fbd92a5077b633": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Facebook, Instagram, Snapchat, X and YouTube will have to block bad actors who post fraudulent ads. Photograph: Moon Safari/Alamy View image in fullscreen Facebook, Instagram, Snapchat, X and YouTube will have to block bad actors who post fraudulent ads. Photograph: Moon Safari/Alamy Big tech platforms will have to ban scam ads under UK plans to tackle fraud Range of potential measures announced by Ofcom include reducing risk of accounts being hijacked for scams Big tech platforms will be required to ban scam advertisers in the UK under proposals to tackle online fraud. Facebook, Instagram, Snapchat, X and YouTube will have to block bad actors who post fraudulent ads and prevent them from creating new accounts in measures targeted at the biggest services. The potential changes include: reducing the risk of accounts being hijacked and turned into hosts for scams, ensuring that ads for banking or financial services have legal clearance, and giving law enforcement channels for identifying fraudulent ads. Ofcom, the UK\u2019s communications regulator, announced the proposals under the next phase of implementing the Online Safety Act (OSA), which places responsibilities on tech companies to protect users from harmful content. The scam ad requirements apply to large social media platforms, as well as Google and ChatGPT. Fraudulent ads cost victims in the UK about \u00a3200m a year, Ofcom...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 2295
   },
   "1107771bf4efeca80374dbe75e7cc5f31c81bbd92810811d36e42125b3c3451d": {
     "access_status": "available",
@@ -4082,6 +4146,30 @@
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 8,
     "checked_at": "2026-07-08T03:42:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
+  "1c1a945fed421a839bbc94084cd314abb930631711fba0aea03a8d1b69d8d1a4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -5616,6 +5704,30 @@
     ],
     "word_count": 1050
   },
+  "26927f534db840eb3285af0aa46d380a8fd2d98af0b1948d2cf27259328c5627": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "26945a7d85fe52cd9c525694284895d6f514afa39b56cc0be381eb765fa44874": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -5928,6 +6040,32 @@
       "identity"
     ],
     "word_count": 9884
+  },
+  "29551aadf28851ae439202e1a8b8cbcbac86712c2a200006cad81949ac2946f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Trump says he will not sign landmark housing bill in protest 11 hours ago Share Save Add as preferred on Google Madeline Halpert Getty Images President Donald Trump has said he will not sign a bipartisan housing bill into law in protest over the US Senate's failure to pass voter ID legislation. The housing bill, approved by Congress last month, is set to become law automatically at midnight on Friday, unless the president decides to veto it. Experts have said the housing bill marks the most comprehensive action from Congress on lowering house costs for renters and homebuyers in the 21st Century. Trump, who has repeatedly made false claims of widespread fraud altering the results of US elections, wants Republicans to prioritise the voter ID bill ahead of the November midterm elections. On Friday, in a long Truth Social post, the president reiterated his demand. \"I will not sign the Housing Bill, which has been fully approved by Congress and sent to the White House, in protest over the fact that the United States Senate is not capable of passing the Save America Act,\" Trump posted on social media. \"THE SAVE AMERICA ACT'S non-passage is CRAZY, and a serious threat to any politician who votes against it!\"he wrote. The Safeguard American Voter Eligibility Act (SAVE) requires Americans to provide ID and proof of citizenship to vote. Trump has championed the measure, but Republicans...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1628
   },
   "297226a27ddecc3db9de160b2465bbda9c79389b0204226304846e2a0c16a6a0": {
     "access_status": "available",
@@ -7186,6 +7324,47 @@
     "weak_generic_terms_found": [],
     "word_count": 4277
   },
+  "3044a65eccffa9c66f9ccccb28a5b3e43aa3380d015d0a47624c8f2100c3d09b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "'Fraudster left me without a penny' 22 hours ago Share Save Add as preferred on Google Harry Parkhill BBC Lincolnshire and East Yorkshire, BBC Belinda Whatley says she could not afford to pay her electric bill after a scammer stole \u00a320,000 A woman who lost her life savings to a person claiming to be a fraud advisor says she feels \"absolutely sick, distraught and foolish\". Belinda Whatley, 66, from Grantham, Lincolnshire, said the scammer correctly identified her bank card number and transaction history to earn her trust. The thief then \"bamboozled\" her by pressuring her into making quick decisions under the pretense that he was trying to stop a fraud attempt. Whatley added: \"They took everything. There wasn't a penny left. I didn't even have the money in the account to pay the bill for the electric that month.\" She said she was in negotiations with banking officials to get her money back. Getty Images Whatley was scammed by someone pretending to be from Action Fraud, which is now called Report Fraud Whatley said the fraudster tricked her into putting \u00a320,000 into a second bank account by saying it would be \"safe there\". However, he then then bombarded her smartphone with requests to approve transactions, which he said would safeguard the money. In fact, Whatley's money landed in an account controlled by the fraudster. She said: \"They get you a little bit like a rabbit in...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 1444
+  },
   "3098bc7545fd4efdb36a8307c8b6c974eb727cbd24c2faa7c8055a03ef95662d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7459,6 +7638,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1553
   },
+  "32d5c7019ddb04562f747a306fa063bc7b8e200adf359ab6cab0533d81b283f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue. Reason Challenge Request ID a194c7e958c0f53a Status Code 403 Security Verification For help please visit help.ft.com . We apologise for any inconvenience. The following information can help our support team to resolve this issue.",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 60
+  },
   "32dbcfff3c26593d193192d5c3182838bb3629fe0316a200b3bc6843f9447807": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -7719,6 +7922,30 @@
       "fraud"
     ],
     "word_count": 18895
+  },
+  "352b75b4174075d4f40f0b52a147f213adbece047e91c5e51d03c9f1f18cb2fd": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "354afa1ae6672abb181e29aaf78247fe288292a3cfda5358958528e5cb549108": {
     "access_status": "available",
@@ -9997,6 +10224,69 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "43c1ab4cb688e0f00982bb8207fd13c26d6e2dcd1c1bd82b1889dbb34e289e23": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis Zikai Alex Wen \u2020 , Corrazon Ogot \u2020 , Juan Li \u2021 , Yan Bai \u2020 Abstract Existing cybercrime classification schemas capture contact metadata and financial transactions but omit the psychological manipulation techniques perpetrators employ. We present a forensic schema (four categories, 35 questions) adding 11 manipulation indicators and cryptocurrency evidence fields to established forensic foundations. Applied to 10,994 victim reports via large language model (LLM)-driven annotation and validated against two human annotators (mean LLM-human \u03ba = 0.69 \\kappa=0.69 , matching inter-annotator \u03ba = 0.68 \\kappa=0.68 ), the schema revealed a statistically distinct manipulation profile for each major fraud type (Cram\u00e9r\u2019s V V up to 0.790 0.790 ). A rationale-based evidence audit nonetheless exposed a forensic detail gap : detection of manipulation techniques was reliable, but victim narratives varied widely in the actionable detail supporting each Yes answer, and blockchain-specific identifiers were nearly absent. These findings point to AI-assisted victim intake with schema-informed follow-up questions as the most direct way to close the gap. The tiered annotation strategy also provides a reusable template for LLM-based extraction from other...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [
+      "modus operandi",
+      "organized fraud"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 15651
+  },
   "43d449df4763bf5ef4ade9d4048f997a1bf64bad191ad80cca82c53adb12c1a0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -10171,6 +10461,30 @@
       "deception"
     ],
     "word_count": 196
+  },
+  "44dce60bff1254487781655dc6419ea41c6b4d25e27d61bdec506dca8d57a52b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "45024cd02195cf52debad8a162816cf709716de313918dd08b8f783eb0065922": {
     "access_status": "available",
@@ -11012,6 +11326,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3924
   },
+  "4a242956d3ff3cdb7db93883aa9850fd7dd47ecce44f92996c872e014314f538": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It comes after a BBC Eye investigation found that Instagram has been running paid adverts promoting child sexual abuse material in India, some of which linked users to Telegram channels where the material was offered for sale. Meta has said it has a zero-tolerance policy on child sexual abuse material and is continuing to strengthen its detection and defences. Telegram said it had removed more than 274,000 groups and channels related to child sexual abuse material in 2026. The official further said the federal ministry had \"ordered Instagram to disable all ads and content promoting or facilitating access\" to such material. \"The government has sought a detailed explanation from Meta within seven days,\" the official added. On being asked about the government's notice, a Meta spokesperson said the company has \"a zero-tolerance policy for soliciting or sharing\" child sexual abuse material, including in ads. \"We use advanced AI technology to proactively detect violating content and individuals, but we are in a constant battle with criminals who hide among our 3.5 billion users and try to evade our detection,\" the spokesperson said. The government notice has been issues days after the BBC Eye Investigation was published. However, neither the government nor Meta confirmed whether the notice was issued specifically in response to the BBC's film. The BBC set up a new alias Instagram...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1441
+  },
   "4a3e50aa45f365faef553ba06867ecf665d22e790e56530f1aa95b77ce0778d0": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -11743,6 +12081,42 @@
       "identity"
     ],
     "word_count": 1556
+  },
+  "4ed39f8bcd7e7ef0b88c321fee40ea11548068bcacdb2f491c04d91f8a0cb22b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "See if you can spot an AI deepfake with our test 4 hours ago Share Save Add as preferred on Google Calum Watson , BBC Scotland and Aimee Stanton , BBC Scotland data visualisation unit BBC One of these photos, being held by Dr Clare Sutherland, is an AI-generated deepfake Psychologist Dr Clare Sutherland is holding up two large photos. One shows the face of an Australian academic leading an international research study; the other is an AI-generated deepfake. Artificial intelligence has become so adept at creating realistic images, it is increasingly hard to figure out what is real or not. But can people be trained to spot an image of a human that has actually been created by a machine? That's a question Sutherland, from the University of Aberdeen, and her Australian colleague have been examining. But before we reveal the answer, have a go at this test - and note down your score. If you found that tough, you are not alone. It used to be far easier to spot computer-generated visual creations - often used by fraudsters - because AI would make blunders, like adding an extra finger or something else that was obviously weird. But AI learns from its mistakes. \"Training on visual artifacts, like looking for a sixth finger or odd earrings, has had limited success, partly because the AI is getting too good, and fraudsters may avoid using pictures with obvious flaws anyway,\" explained...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "deepfake scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "deepfake scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "deepfake scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ai abuse",
+      "fraud"
+    ],
+    "word_count": 3463
   },
   "4f71870e8b0850b9b8b48d9cb1d32d29cc72a573733f151af0f3be38e51e60c8": {
     "access_status": "available",
@@ -14587,6 +14961,30 @@
     ],
     "word_count": 3223
   },
+  "61b8949070a47280f6068fdc9d5c630edf301c3b1e74e9f20192da07b98d1695": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "61c40d65ccaf61dd189de948bee0ecddde2e3ee096a6717cc5885ae3226dea77": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -16169,6 +16567,30 @@
       "trust"
     ],
     "word_count": 26280
+  },
+  "69e4e3a2f4adbd5f3b70a8c3a4268f83688c15972b21d97223fd04fc88579076": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "6a3b36acea33a20d8436e0410f0a91706c727506b1320d00c0b7a04f06bae0a8": {
     "access_status": "available",
@@ -19715,6 +20137,30 @@
     ],
     "word_count": 84
   },
+  "7ea7617e80094e198014ce40920673b4b9fc9e158644a5471e6ef049d5635e31": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Virgin Media fined after hanging up on customers trying to cancel contracts 3 days ago Share Save Add as preferred on Google Faarea Masud Business reporter Getty Images Virgin Media was found to have hung up on phone calls from customers seeking to switch to a better deal Virgin Media has been fined \u00a328m for repeatedly preventing customers from cancelling contracts, Ofcom said. The communications regulator said it uncovered tactics including agents deliberately hanging up calls, and customers being put on hold \"for no reason\". It said millions of calls from customers were \"likely mishandled\" over a three-year period which prevented or delayed them from switching to a better broadband, landline or pay-TV deal. The penalty was reduced by 30% as Virgin Media admitted its failing and agreed to settle, Ofcom added. Virgin Media apologised to the \"small proportion who experienced an issue when contacting us to agree a new deal or cancel their service in the past\". Ofcom's investigation uncovered behaviour including: excessive and unnecessary call transfers, deliberately hanging up calls, repeated attempts to pressure customers to stay, and unnecessarily and repeatedly keeping customers on hold. It said Virgin Media's commission scheme \"effectively encouraged\" and financially rewarded call centre agents for \"behaving in this way\". Virgin Media said it had \"resolved all formal...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2628
+  },
   "7eaa345dfc2114097011feb648801e23ce38bc63fd10baecd5d0121e0f39e932": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21713,6 +22159,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "8a4b6db0cedf8b92ffe03f7129f97182801935ee140338f363535a0336ea5ef0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "8aaa524d9692fb8e4516d8077c345bb9ec60d18c39f311906e073a818f117786": {
     "access_status": "available",
@@ -26957,6 +27427,30 @@
     ],
     "word_count": 2289
   },
+  "abaab3a6f1c94eafe7f241b23d60a3cf713115a6926a8084d53b8c6da9ce8804": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "abe49d47ebd04e3901c2cb35e7af4cb7d55f028bae252560fda5d1d73d7650d1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -27860,6 +28354,30 @@
     ],
     "word_count": 27794
   },
+  "b19ee70b27907ade6a942e75cb42cb4174a849688da61c88646160cffe0df20e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "b1b5919b00010ffce66d79e6fa4eb696d70c33f3638e5f21f0b1c1b964b3ffbe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28232,6 +28750,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 571
+  },
+  "b39b1afd9ab0ec5658f54f365d41388a20cc3ef92d98921c644a462ba69b535d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Big tech must deal with scam ads under Ofcom proposals 18 hours ago Share Save Add as preferred on Google Liv McMahon Technology reporter Getty Images Platforms like YouTube, Instagram and TikTok will need to take action to deal with scam adverts, under new proposals from Ofcom. The regulator has published draft measures it says big tech should take to protect people from falling victim to fraudulent ads online - along with a list of services which will face more responsibilities under the Online Safety Act (OSA). It says more than half of UK adults have come across potentially fraudulent ads online, with over a third seeing them often. If the draft measures pass into law, firms which fail to comply could be made to pay \u00a318m or 10% of global turnover - whichever is greater. \"For too long, victims have been exposed to scam ads online with tech giants simply not doing enough to combat the fraudsters using their platforms,\" said Ofcom online safety director Oliver Griffiths. \"We expect firms to take robust action to stamp out scam ads and boot out the bad actors behind them to safeguard their users.\" Ofcom's proposed measures are targeting content which advertises products or services in a way that misleads or tricks viewers. It said this includes mandating tech firms ban those who post scams and prevent them from creating new accounts, as well as those who impersonate real...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1889
   },
   "b3fa47d18b23d609d5792b84697bd9eb95952e6dcb00baf4e642142c17f767b8": {
     "access_status": "available",
@@ -28955,6 +29508,32 @@
     "weak_generic_terms_found": [],
     "word_count": 3444
   },
+  "b8ad77bedd5610a7cb8e91808fc486372b4c0e79316abea415e4bbc3ec4a3c17": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Mbappe, Messi or who go win di 2026 World Cup golden boot? Wia dis foto come from, FIFA VIA GETTY IMAGES Wetin we call dis foto, Messi, Mbappe all get 8 goals, Haaland get 7 goals, Kane get 6 goals for di tournament so far Published 6 July 2026 New Informate 10 July 2026 Read am in 4 mins Di biggest World Cup tournament don enta di business side of tins, wetin football pundits describe as 'crunch time'. Dis tournament get many history-making events. Apart from di fact say three different kontris dey host am, di number of teams (48) na di largest number of teams for any World Cup for history. Also di first time 10 African kontris play for di tournament. Kontinu to dey read For dis tournament, many goalkeepers shine well well. Keepers like Vozinha (Cape Verde), Orlando Gill (Paraguay), Gregor Kobel (Switzerland), Raul Rangel (Mexico), Diogo Costa (Portugal), Benjamin Asare (Ghana) among odas make many saves for dia teams. Some young players also shine so far \u2013 players like Gilberto Mora (Mexico, 17), Johan Manzambi (Switzerland, 20), Ayoub Bouaddi (Morocco, 18) among odas. Na so di golden boot race also make tight \u2013 di big boys dey show working for dia teams. Skip Di one wey oda users dey read well well and continue reading Di one wey oda users dey read well well Ghana extradite socialite Abu Trica to US to face $8m fraud charges How Interpol arrest 5,800 suspects, intercept...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1552
+  },
   "b8db3f3886116e743eb5d131a63f404026487315c75a65e12c2a8f158b1b36f0": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -28978,6 +29557,30 @@
       "prompt injection"
     ],
     "word_count": 831
+  },
+  "b8f395725d2bcae7ac242876c32e586b06c95c08280a9f42c8f6ecb7f9a969b1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "b8fac586fc0b9ada25129740fc5d5aa8947fe0c01f3eaf71cd69d605edb59c73": {
     "access_status": "available",
@@ -29100,6 +29703,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "ba0a20f274f08909b7f85e332d9610368e0476a25793cf64f3b8ea9e3b1c0cc2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "One of the suspects in the murder of Anastasiia Berezovska is brought into court for a hearing in Kyiv on Thursday. Photograph: Genya Savilov/AFP/Getty Images View image in fullscreen One of the suspects in the murder of Anastasiia Berezovska is brought into court for a hearing in Kyiv on Thursday. Photograph: Genya Savilov/AFP/Getty Images Monaco bomb mystery deepens as Ukraine\u2019s security services are linked to murder of prime suspect Military intelligence officer admits witnessing killing of woman believed to have left explosive device outside oligarch\u2019s home The case of a suspected bomber accused of targeting a Ukrainian oligarch has taken another murky turn, after details of her subsequent murder were revealed in court with evidence suggesting the involvement of Kyiv\u2019s intelligence agencies. French police last week named Anastasiia Berezovska as the person captured on CCTV leaving a rucksack outside a Monaco apartment block. It blew up, injuring the Ukrainian businessman Vadym Iermolaiev as he emerged from the building with his partner and their 13-year-old child. Prosecutors said that Berezovska, 39, who had disguised herself as a man, fled in a car with German registration plates, crossing into France and then Italy. On 1 July, she travelled to Ukraine, catching a bus to her home town of Zhytomyr, west of Kyiv. Officials announced on Tuesday that her body had been found...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3250
   },
   "ba18172923e01b463255b05004de8c04970be82cdfcda5d90ef2d2447690482b": {
     "access_status": "available",
@@ -30136,6 +30765,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 115
+  },
+  "bf623c2fa3bd702438441eb1f62dacfd0f140a69e47a03099e155f47871b4a74": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Zulu king expresses regret after video captures tirade against his wife 11 hours ago Share Save Add as preferred on Google Wedaeli Chibelushi AFP via Getty Images King Misuzulu's role within South Africa may only be ceremonial but he remains hugely influential South Africa's Zulu king has expressed \"deep\" regret after a leaked video captured him hurling a barrage of insults at one of his wives. In the video, which was widely shared on Wednesday, King Misuzulu kaZwelithini threatened to physically assault Queen Nomzamo Myeni, accused her of having an affair and said he wanted her out of the house. The queen appeared to be the person filming the footage, remaining silent until the end of the video, when she said: \"This is the life I live, day and night\". On Friday, a statement from the king's office said he recognised the outburst caused \"pain\" and \"embarrassment\" among royal circles and the broader Zulu ethnic group. \"It is important to clarify that the recordings are historical in nature and do not represent the present circumstances within the Royal Household,\" the statement also said. In the video, King Misuzulu criticises his wife, who he married last November, for making excursions without his approval. \"She's out there without my permission. When you're a wife, you ask for permission. At least let your husband know,\" he told the queen, who is his third wife. After...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2065
   },
   "bfc90529990fff1234752c4e5f5aeb0699059812e33d205853e8d76ff86e781c": {
     "access_status": "available",
@@ -31788,6 +32441,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "c976bdeb5d238facf6bdfcb04a2a1d5067ac7285c7483581755f4ed0afcb34a1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "c9c2546ded04e51592f2117a15139de6c56d3c1b360cd6d55c77d3064ab8a0d2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -32835,6 +33512,36 @@
     ],
     "word_count": 2086
   },
+  "cf81715c50e3cf50d6d1993a690ceb4802032ca55ea25c788fa13174e775674e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The Altamont Pass wind farm in Livermore, California, and stacks at the Mill Creek coal plant in Louisville, Kentucky. Composite: Getty Images View image in fullscreen The Altamont Pass wind farm in Livermore, California, and stacks at the Mill Creek coal plant in Louisville, Kentucky. Composite: Getty Images \u2018He\u2019s forcing higher bills\u2019: Trump spends billions to kill clean energy and keep coal alive Critics accuse president of \u2018fattening the wallets of his cronies\u2019 as working Americans face higher energy rates The Trump administration has directly spent $2.7bn of taxpayer money on its crusade against wind power while pouring $1.125bn into boosting coal, which critics say is pushing up Americans\u2019 bills. They say the moves are evidence that the president aims to serve fossil-fuel companies like those which donated record sums to his presidential campaign , rather than the working-class Americans to whom he pledged to lower energy bills and other costs. \u201cTrump is getting Americans coming and going,\u201d said Jay Inslee, the former governor of Washington state and a Trump detractor. \u201cHe\u2019s forcing higher power bills on them by blocking clean energy, then he\u2019s fattening the wallets of his cronies \u2013 all with billions of our tax dollars.\u201d The Department of the Interior has, since March, struck four deals with energy companies, paying them to cancel a total of eight offshore wind projects...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4288
+  },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -33592,6 +34299,36 @@
     ],
     "word_count": 9618
   },
+  "d43ebc8d5829503e86034b8483e84ed4731acaf14e51ad0cdd450e67006d2299": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Watch: What links a bomb in Monaco and a shooting in Ukraine? Ukrainian intelligence agent Vladyslav Reut says he did not kill Anastasiia Berezovska - a woman suspected of trying to assassinate a multimillionaire in Monaco - despite earlier confessing to it. Reut instead blamed his co-defendant Vitalii Zhykovych for the killing of Berezovska. BBC correspondent Sarah Rainsford was in the courtroom in Kyiv when the claims were made and explains the latest developments. More on this story. More on this story. 9 hours ago Ukraine Europe Share Save Marine Le Pen confirms run for French presidency and conviction appeal Le Pen has confirmed she will run for French presidency, and that she plans to appeal the embezzlement conviction that requires her to wear an electronic tag for a year. Europe Moment huge waterspout twirls over lake in Germany The phenomenon formed over a Lake Constance near the southern German city of Friedrichshafen. Europe Watch: Mount Etna eruption creates trail of bright orange lava A stream of thick orange lava was seen trailing from Europe's biggest active volcano, Mount Etna in Italy, snaking through the mountain. Europe Parisians cool off in canal amid 'red alert' heatwave France has issued red heatwave alerts for around half the country as temperatures soar to record levels.",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:25+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1295
+  },
   "d545ac0d176c6109dce5ddaf831dea1f55e14eb0abb5280f769c25bb6cfb1122": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -33848,6 +34585,34 @@
       "fraud"
     ],
     "word_count": 2570
+  },
+  "d6710f35377b4c26e36fd05ab648573a228129c3f4e4fcb1db0cb50defa6881e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Fraudster who tried to claim Grenfell funds jailed 10 hours ago Share Save Add as preferred on Google Department for Work and Pensions Adam Mejri falsely claimed more than \u00a3160,000 in benefits, the DWP said A benefits cheat used a fake identity to claim a flat close to Grenfell Tower before trying to get funds meant for residents affected by the 2017 fire, a court heard. Adam Mejri, 47, used papers in the name of a previous tenant to get access to a flat near the north Kensington block where 72 people died. Although the attempts to claim from the fund failed, he made a string of fake claims totalling more than \u00a3160,000 in benefits and council support. On Friday, Mejri sobbed in the dock and begged for \"mercy\" at Southwark Crown Court as he was jailed for 42 months, having previously pleaded guilty to two counts of fraud and two counts of dishonestly failing to notify a change in circumstances. Prosecutors said Mejri repeatedly tried to claim a \u00a35,000 support fund for residents affected by the 2017 Grenfell Tower fire. In March 2018, the he went to Royal Borough of Kensington and Chelsea council offices claiming to be the tenant of an empty flat close to the tower. The real tenant had left the UK, the court heard. Mejri produced identity documents in the tenant's name and the council removed a metal security door that was in front of the flat. He then repeatedly tried to get a...",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 1655
   },
   "d6b73886fabf4e53e191941068a0867e3283d8790fa105df2ba0c20fdd24ab2e": {
     "access_status": "available",
@@ -37102,9 +37867,9 @@
   "eeae9c87f680acca5302c8e82b7c3cdbf287a431560ea237b36433e582615bac": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Program: Reimbursing small-scale scam victims Program: Life Matters Tue 2 Jun 2026 at 9:00am Tue 2 Jun 2026 at 9:00am Tue 2 Jun 2026 at 9:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 20 minutes 42 seconds 20 m Brought to you by ABC Radio National Last year Australians lost more than $2 billion to scams, and while the number of victims has fallen, the total combined losses has risen. The federal government has announced its plans to claw back some of that money, introducing an automatic reimbursement scheme for scam victims with verified losses up to $3,000. So could this help stop cyber criminals from taking off with your hard-earned cash? Guest: Paul Haskell-Dowland , professor of cyber security practice at Edith Cowan University Credits Lucy Sweeney, Producer Image Details The proposed framework would allow for automatic reimbursements of scam losses up to $3,000. ( Unsplash: Robin Worrall ) Program: More from Life Matters Scams and Fraud, Consumer Protection Appears In What losing his son taught this dad about fatherhood and recovering scam losses Duration: 58 minutes 12 seconds 58 m 3 items In this episode 1 of 3 What this dad wants you to know about fatherhood after losing his son Duration: 18 minutes 22 seconds 18 m 2 of 3 Playing Reimbursing small-scale scam victims Duration: 20 minutes 42 seconds...",
+    "article_excerpt": "Explore the ABC Program: Reimbursing small-scale scam victims Program: Life Matters Tue 2 Jun 2026 at 9:00am Tue 2 Jun 2026 at 9:00am Tue 2 Jun 2026 at 9:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 20 minutes 42 seconds 20 m Brought to you by ABC Radio National Last year Australians lost more than $2 billion to scams, and while the number of victims has fallen, the total combined losses has risen. The federal government has announced its plans to claw back some of that money, introducing an automatic reimbursement scheme for scam victims with verified losses up to $3,000. So could this help stop cyber criminals from taking off with your hard-earned cash? Guest: Paul Haskell-Dowland , professor of cyber security practice at Edith Cowan University Credits Lucy Sweeney, Producer Image Details The proposed framework would allow for automatic reimbursements of scam losses up to $3,000. ( Unsplash: Robin Worrall ) Program: More from Life Matters Scams and Fraud, Consumer Protection Appears In What losing his son taught this dad about fatherhood and recovering scam losses Duration: 58 minutes 12 seconds 58 m 3 items In this episode 1 of 3 What this dad wants you to know about fatherhood after losing his son Duration: 18 minutes 22 seconds 18 m 2 of 3 Playing Reimbursing small-scale scam victims Duration: 20...",
     "cache_version": 8,
-    "checked_at": "2026-06-24T04:26:17+00:00",
+    "checked_at": "2026-07-11T03:39:29+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -37132,7 +37897,7 @@
       "victim",
       "fraud"
     ],
-    "word_count": 665
+    "word_count": 668
   },
   "eee9e4d166672a8d72fd621bdf5987d6e7941bdc78848b997a8f8d13e3f237ec": {
     "access_status": "available",
@@ -37593,6 +38358,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "f259d47aa2e6c0c29f037d0559a7899fb1f9f0abaf2e5c7472e1a7cf606b650f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "By Jonty Colman BBC Sport journalist Published 10 July 2026 The colour scheme at the Wimbledon Championships is an instantly recognisable purple and green combination. Every year, areas around the grounds are branded with the two colours, along with a tinge of white. However, this was not always the case, as those colours have only been used since 1909. Prior to that, Wimbledon's colour scheme for more than 30 years was red, blue, yellow and green. There are no official records as to why the colours changed, but it is thought that the switch was due to them being deemed too similar to those used by the Royal Marines. There are many theories surrounding why purple and green were chosen instead, but whatever the reason, Wimbledon has benefitted significantly. That's because in 2016, organisers were able to trademark the colour scheme - specifically the use of shades Dark Green (Pantone 349 C) and Purple (Pantone 268 C) together. This means that not only have they been able to profit out of the unique combination, but also that others cannot copy it, which can help with issues such as scam ticket websites posing as the All England Club. It also means that only Wimbledon can use the colour combination when branding tennis events, clothing and other merchandise. Trademarking a specific colour scheme is not a simple process.",
+    "cache_version": 8,
+    "checked_at": "2026-07-11T03:39:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1381
   },
   "f2b6a311b6323bfd175200db0988973b08753e0c246610fa8ed4e2fe3632e8af": {
     "access_status": "available",
