@@ -681,6 +681,59 @@
     ],
     "word_count": 4282
   },
+  "03e2fd96a63b07da47c1e3fd849ff49762be87141b985736c316188957534aef": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Understanding Persuasive Interactions between Generative Social Agents and Humans: The Knowledge-based Persuasion Model (KPM) Stephan Vonschallen 1,2,3 Theresa Schmiedel 1 Friederike Eyssel 3 Abstract Generative social agents (GSAs) use artificial intelligence to autonomously communicate with human users in a seemingly natural and adaptive manner. Currently, there is a lack of theorizing regarding interactions with GSAs, and likewise, few guidelines exist for studying how they influence user attitudes and behaviors. Consequently, we propose the Knowledge-based Persuasion Model (KPM) as a novel theoretical framework. According to the KPM, a GSA\u2019s self- , user- , and context-knowledge drives its persuasive behavior, which in turn shapes attitudes and behaviors of a responding human user. Building on existing research, the model offers a structured approach to studying interactions with GSAs, supporting the development of agents that motivate rather than manipulate human users. Accordingly, the KPM encourages the integration of responsible GSAs that adhere to social norms and ethical standards with the goal of increasing user wellbeing. A preliminary evaluation study, as well as implications of the KPM for research and application domains such as healthcare and education are discussed. Keywords: Persuasion, Human-Computer...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "identity",
+      "trust"
+    ],
+    "word_count": 20505
+  },
+  "03fe1c831f3485a57010d79126b25bde177e17d99097b4c806f407133aa22fbf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Explore the ABC Sport Fri, 10 July 2 0 \u2192 Sat, 11 July 2 1 \u2192 Sun, 12 July 1 2 \u2192 Sun, 12 July 3 1 \u2192 Wed, 15 July 0 2 \u2192 Thu, 16 July 05:00 - - \u2192 Sun, 19 July 07:00 - - \u2192 Mon, 20 July 05:00 - - \u2192 FIFA World Cup Score Centre World Cup: Bellingham goes big time again, as England continues down hard road By Amanda Shalala at Miami Stadium analysis Topic: FIFA World Cup Sun 12 Jul 2026 at 12:50pm Sun 12 Jul 2026 at 12:50pm Sun 12 Jul 2026 at 12:50pm This game was billed as When Harry Met Erling, the clash of the two superstar strikers. Instead the titular characters took a back seat in searing Miami heat, as Jude Bellingham once again proved he too can be England's leading man. Not that he has ever been a bit player by any means. But for a man whose place in the squad was under constant scrutiny in the lead-up to this tournament and had seemingly fallen out of favour with manager Thomas Tuchel at times, his redemption arc in North America has been sublime. And it's left everyone in England screaming: \"I'll have what he's having.\" Jayden Adams: South African World Cup player dies aged 25 Spidercam: Why Norway feels 'bitter' after contest of controversy against England Jordy Bos: Socceroos midfielder undergoes knee surgery Check out the full World Cup schedule here in Australian times ABC Sport podcast: Check out the latest episode here Sealed with a kiss The 2-1 quarterfinal win over...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3079
+  },
   "040f6d679ed83940ac7f66c9628d3ad23fd3c7e452cb533946c4a61d1b5fc2e2": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -1543,6 +1596,69 @@
     "weak_generic_terms_found": [],
     "word_count": 1956
   },
+  "08a3650c94defeb2e7a4755b5702679fe3e2a1c8428c37db1cc77fbdce672da3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis Zikai Alex Wen \u2020 , Corrazon Ogot \u2020 , Juan Li \u2021 , Yan Bai \u2020 Abstract Existing cybercrime classification schemas capture contact metadata and financial transactions but omit the psychological manipulation techniques perpetrators employ. We present a forensic schema (four categories, 35 questions) adding 11 manipulation indicators and cryptocurrency evidence fields to established forensic foundations. Applied to 10,994 victim reports via large language model (LLM)-driven annotation and validated against two human annotators (mean LLM-human \u03ba = 0.69 \\kappa=0.69 , matching inter-annotator \u03ba = 0.68 \\kappa=0.68 ), the schema revealed a statistically distinct manipulation profile for each major fraud type (Cram\u00e9r\u2019s V V up to 0.790 0.790 ). A rationale-based evidence audit nonetheless exposed a forensic detail gap : detection of manipulation techniques was reliable, but victim narratives varied widely in the actionable detail supporting each Yes answer, and blockchain-specific identifiers were nearly absent. These findings point to AI-assisted victim intake with schema-informed follow-up questions as the most direct way to close the gap. The tiered annotation strategy also provides a reusable template for LLM-based extraction from other...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [
+      "modus operandi",
+      "organized fraud"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 15651
+  },
   "08cb90220721e6ae05a7ab7f5c0f68be91f86829b7d66c6ffb6e92c484042599": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -1728,6 +1844,30 @@
       "trust"
     ],
     "word_count": 2645
+  },
+  "0ac56a292bc24fe93904fda137d34dd8dbc8c6038260a548ca596ed21f6a396d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Explore the ABC analysis What would Australia's economy look like under One Nation? By business reporter Gareth Hutchens Topic: Political Campaigns Wed 15 Jul 2026 at 4:56am Wed 15 Jul 2026 at 4:56am Wed 15 Jul 2026 at 4:56am Pauline Hanson says she considers mining billionaire Gina Rinehart a friend and she takes policy advice from her. ( ABC News: Matt Roberts ) If One Nation forms government what would Australia's economy look like? Pauline Hanson's speech at the National Press Club on June 17 detailed large parts of her economic vision. In recent days, One Nation's treasury spokesman Barnaby Joyce has talked about the Reserve Bank and how he thinks it should behave. And Hanson has said that she takes policy advice from Gina Rinehart, the mining billionaire, whom she considers a friend. Is it enough for a clear picture of the party's economic plans? The policy platform taking shape One Nation's website lists many of its policies . It has said it wants three new coal-fired power plants built, to embrace nuclear power, ban offshore wind farms, to withdraw Australia from the Paris Agreement, and to abolish the Department of Climate Change. It wants to withdraw Australia from the UN Refugee Convention, cap visas at 130,000 a year to slash immigration, and deport more than 70,000 people estimated to be living in Australia unlawfully .",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4280
   },
   "0af37f9b25841a499feee1d448efe09e75c99803937e5f92962710a29d7f1fa4": {
     "access_status": "available",
@@ -2718,6 +2858,32 @@
     ],
     "word_count": 2836
   },
+  "118a55480c1242137b40683f85e3cf38f73b8c34e2fa7de36da945b6fd54f537": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "1195d94bfc34031a60d33805737a1311e1b9012bcea5de9acbb0ec13f811dbca": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -3094,6 +3260,33 @@
       "fraud"
     ],
     "word_count": 378
+  },
+  "133dcff6a485760cce3c5f7c3c80db507f45055c94e841c5139e71fdf0de40ee": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Rogue gardener jailed for defrauding 18 customers 15 hours ago Share Save Add as preferred on Google Stuart Rust South of England Dorset Council James Knight took large deposits from customers in Dorset, Hampshire and Wiltshire then failed to deliver on agreed work A landscape gardener has been jailed for five years and eight months after defrauding 18 customers out of about \u00a342,000 across three counties. James Knight, 34, of Verne Road, in Verwood, Dorset, was sentenced at Bournemouth Crown Court on Friday. The court heard he took large deposits from customers in Dorset, Hampshire and Wiltshire for landscaping work, then delivered only a fraction of the materials or work agreed, or none at all. One customer wanting a lawn re-turfed was left with bare soil, while another had what was described as a \"bomb site\" outside her house. Dorset Council Knight consistently left people's gardens in disarray after failing to complete work Knight, who also goes by Jimmy, initially pleaded not guilty to all charges but changed his plea to guilty on all but seven counts on the first day of the trial. Following a two-week hearing, the judge ruled Knight had been dishonest from the outset. Knight, who has 77 previous fraud convictions between 2012 and 2020, would ask for extra payments after claiming to have under-quoted, then stop work with excuses including family deaths and childcare...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1179
   },
   "13594dee027020b59f983e58a3adeefaf1de03e5df19853e73d0434b067cc0ca": {
     "access_status": "available",
@@ -3627,7 +3820,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: CVI 2 , SnT, University of Luxembourg 2 2 institutetext: Cristal Laboratory, National School of Computer Sciences, University of Manouba 2 2 email: firstname.lastname@uni.lu 2 2 email: enjie.ghorbel@isamm.uma.tn When AUC Misleads: Polarization-Aware Evaluation of Deepfake Detectors under Domain Shift Dat NGUYEN Cosmin RADOI Romain HERMARY Marcella ASTRID Nesryne MEJRI Enjie GHORBEL Djamila AOUADA Abstract Recent advances in generative AI, such as diffusion models and face-swapping tools, have enabled the creation of highly realistic deepfakes, leading to real-world harms including financial fraud and non-consensual explicit content. In response, deepfake detection has become an active research area, with recent methods increasingly focusing on improving generalization to unseen manipulations. This is typically evaluated using the Area Under the ROC Curve (AUC) measured separately across multiple datasets. However, such an evaluation fails to reflect real-world scenarios where detectors face a mixture of data sources and varying artifact types. To address this limitation, we introduce a novel metric, Cross-dataset AUC (Cross-AUC) that averages per-domain AUCs with a measure of prediction polarization for taking into account the robustness to domain shift. The polarization extent is quantified by the...",
     "cache_version": 8,
-    "checked_at": "2026-07-07T04:16:49+00:00",
+    "checked_at": "2026-07-15T03:31:47+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -3775,6 +3968,92 @@
       "identity"
     ],
     "word_count": 2575
+  },
+  "185622e354c00dc392adc4f458c31f071f0f5a99ccc35feb0bc454f266b30ec4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: An Explainable Agentic System for Detection of Conversational Scams with Summary-Based Memory Ahmed Omar Salim Adnan University of New Haven M.S. in Data Science aos.adnan01@cunh.newhaven.edu Yogananda Manjunath University of New Haven M.S. in Data Science ymanj2@unh.newhaven.edu Shivanjali Khare University of New Haven Department of Electrical & Computer Engineering and Computer Science skhare@newhaven.edu Abstract Following the rapid progress of generative Artificial Intelligence, there is a growing threat posed by conversational scams. These scams often span over multiple weeks or months, gradually build trust and request for money or sensitive information. Existing scam-detection systems mainly focus on isolated messages, which renders them inadequate against this evolving threat. This paper extends single-message phishing detection and presents an explainable agentic system for detecting sophisticated conversational scams. It also introduces ConScamBench-278, an initial public multi-category benchmark for conversational scam detection spanning eight scam types, released to support reproducible evaluation and future expansion. On isolated messages the single-message detector attains 100% phishing recall, while the conversation-level detector identifies all conversational scams in the public LoveFraud02 corpus (83/83) and...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering",
+      "bank fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering",
+      "bank fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering",
+      "bank fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27987
+  },
+  "1863b077d3efad5caf1bb6b0a1b5421c0eb16dc0b5c2231adacf3c9464b24c23": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "18ff6d7956226a07687feb2cd93439476befc38e6e1cc66e42176df4c1653cdc": {
     "access_status": "available",
@@ -4582,6 +4861,32 @@
     ],
     "word_count": 4474
   },
+  "1e2e501474d2254aa235477753d57ad6fab7436bcb52ba33e34c2f2850236070": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "1e5a4789ca6f84cf1a3bc9946372cbad108a460d3b90013907c48fb12a6555b6": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -5038,6 +5343,47 @@
       "fraud"
     ],
     "word_count": 1713
+  },
+  "20d57bfc1fcf6964e43a1990853f83c5d19be32287aea27899cefaa3eb6a94fa": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "File photo of the State Courts in Singapore. New: You can now listen to articles. This audio is generated by an AI tool. Lydia Lam Lydia Lam 14 Jul 2026 12:11PM (Updated: 14 Jul 2026 02:02PM) Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST SINGAPORE: A man \"invested\" S$40,000 (US$30,900) to fund the operations of a syndicate that sold chat accounts to customers including criminals and received over S$92,600 from the illicit activities. When the police moved in and raided the syndicate's headquarters in an empty office space above a car repair workshop, they seized 24,000 SIM cards that were linked to almost 2,400 police reports by scam victims. The victims had reportedly lost a total of S$51 million to a variety of scams such as job scams, investment scams and government official impersonation scams.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "impersonation scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 3921
   },
   "20f290f3974dad2a01808d48bd4ee4dbb36e4936d025284bc172afe1d4e19270": {
     "access_status": "available",
@@ -5709,6 +6055,30 @@
     ],
     "word_count": 3335
   },
+  "2567b73cab22f822ab6f9fc0ed294a78e21cb58c6dc0ac971cf9ba46c6b2d9e7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "257aa872d42537089c2e87ad1a172d9b7ea70bfa5b5a92462765b00a23ba1f77": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -5835,6 +6205,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1427
+  },
+  "26317c69ab26154b997d72678f6959cceb265eeb29c423b0b9fb6f684ef2ac48": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "264aa00a641e1a8414ccfbf1e40657550d695aefa074d9cc2978396fe152cc18": {
     "access_status": "available",
@@ -6288,6 +6684,40 @@
     "weak_generic_terms_found": [],
     "word_count": 4214
   },
+  "2a3644d10a98eca901dd3838907af2e69b36a10657c7e65fee5edf69c485038f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Explore the ABC Program: 250 people apprehended by Timor-Leste police in major scam center crackdown Program: Pacific Beat Wed 15 Jul 2026 at 6:00am Wed 15 Jul 2026 at 6:00am Wed 15 Jul 2026 at 6:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 5 minutes 27 seconds 5 m More than 250 people have been apprehended in Timor-Leste following a sweep of raids on alleged scam centers. While details about what the alleged scams are is still unclear, these raids follow on from a major bust last year in the Timorese region of Oe-Cussee where authorities raided a hotel detaining 30 foreign nationals and seizing phones and starlink units. \"What these most recent raids show is that these networks are extensive,\" said University of Adelaide's Dr Michael Rose who has researched and reported on scam syndicates in Timor-Leste. \"They've underestimated Timor-Leste...I suspect that it would come as a surprise to these networks because they target places which they perceive as having weak governance or a police force with limited resources.\" Image Details ( Servi\u00e7os Rela\u00e7\u00f5es P\u00fablicas ) Program: More from Pacific Beat Pacific, Timor-Leste, Crime, Scams and Fraud, Cyber Security, Police Appears In 250 people apprehended by Timor-Leste police in major scam center crackdown Duration: 49 minutes 51 seconds 49 m 3 items In this episode 1...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 734
+  },
   "2a6ce8ecd1f36665ddc6a5f93bd6976fa3925239ac70dd8030f7416f924a314b": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -6361,6 +6791,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2102
+  },
+  "2a88d49ae804e0303f09c93fb234eb2e60b77d02733e26b5d8ab13f06a69c443": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "But a new report finds that many social media platforms directly refer users to such content. The report from the Institute for Strategic Dialogue (ISD), an anti- extremism organization, analyzes the online ecosystem that enables the proliferation of so-called \u201cnudify\u201d apps and websites, which allow users to digitally undress people without their consent. The study , which was published on Monday, looked at the top 10 apps and websites used to make nonconsensual explicit deepfakes, as well as how people are finding them. It found that a surprising amount of referral traffic comes not from small, poorly regulated online communities like 4chan but from mainstream social media platforms. According to the ISD report, social networks drove more than 5.7 million visits to nudify sites between December 2025 and March 2026. The top driver of this traffic was YouTube, which was responsible for 1.82 million site visits, more than 30 percent of the referrals. Such videos, which resulted from searches for keywords like \u201cundress app\u201d or \u201cnudify app,\u201d ranged from reviewing and promoting specific apps to linking to promo codes to provide free credits. X was the second most prominent source of traffic to the sites, accounting for over 1.3 million visits, according to the study. The study\u2019s authors wrote that these findings appear to be in \u201cdirect conflict\u201d with YouTube\u2019s policies, which...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity"
+    ],
+    "word_count": 3229
   },
   "2affa4f1da2da75242cb9300ac39b2468ac8cc3bd54bdeb2b7c29a21e7b41260": {
     "access_status": "available",
@@ -6954,6 +7420,30 @@
     ],
     "word_count": 0
   },
+  "2e3877e66ee8e7d88c44cf264c188df2408f8c4dae70b74345a2c32b3b4d0be5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "2ed2dcc625b3b90ffc282557662ab76484b58c0789fdb07189bd083595fee010": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -7059,6 +7549,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2081
+  },
+  "2f237cf6569c43d22b0e2ae351f0658116fd55fde4ea95726b61fa028911036e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Explore the ABC Program: Fighting the shame around being scammed Source: 774 ABC Melbourne | Program: The Conversation Hour Tue 14 Jul 2026 at 11:00am Tue 14 Jul 2026 at 11:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 52 minutes 9 seconds 52 m Brought to you by 774 ABC Melbourne Presented by Mary Gearin You may have seen actor Christie Whelan-Browne social media post detailing her experience of falling victim to a vehicle scam referred to as carnapping. In this edition of The Conversation Hour we look at just how far this practice and also explore how to reduce the shame associated with it. Also in this edition, what underpins the poor snow season, the latest on the Straight of Hormuz, plus we celebrate Bastille Day.. Credits Mary Gearin, Presenter Image Details ( Pexels ) Program: More from The Conversation Hour Melbourne, Consumer Protection, Climate Change, War Loading Join the conversation Download the ABC listen app to text and call your favourite live radio Download on the App Store Get in on Google Play Back to top Program: Fighting the shame around being scammed Source: 774 ABC Melbourne | Program: The Conversation Hour Tue 14 Jul 2026 at 11:00am Brought to you by Presented by You may have seen actor Christie Whelan-Browne social media post detailing her experience of falling victim to a vehicle...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 403
   },
   "2f3aef5509344576feaac7dbd0bcaf0de2c9cc9a2e71b4a9484ff15942db7b06": {
     "access_status": "available",
@@ -8105,6 +8629,56 @@
     ],
     "word_count": 18895
   },
+  "345513e58d4749e42663345aeaf705f430b36b431b11d681bb709b19c2d1f9f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
+  "34790fed5a2b50c9d4914972bfb0a9a824389f33c1eb820a63694c251660c7c3": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "34b4cde7f4c09ad49763b6d84bd6e876f40f9d27fac1088de66fa70674484ca1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -8635,6 +9209,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1842
   },
+  "38c43c8b5a66383f09a42165e168dbad761f4aad1f3a5c0cad092bf8e74c7135": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 8
+  },
   "38cd12316606815b2f25f3254d341c1bdc63e1c5c2182aba229ed1eb433eabe5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -8660,6 +9260,32 @@
       "victim"
     ],
     "word_count": 3590
+  },
+  "38cd985470413dfe1107fca94d604ad6a9bc34a9a60b454d37da833db91b1e20": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "38d0bff4dfc3599e41339511177c7fef76f2231ad3192dd8091ce900b0e43ce7": {
     "access_status": "available",
@@ -8881,6 +9507,36 @@
     ],
     "word_count": 1176
   },
+  "3a0e34ef90e300b8a7e3f4d241acee0a2ee9b65775f08de0f9e9f9effaf32cef": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Yorkshire Water didn\u2019t prove much help when it \u2018gifted\u2019 a customer \u00a37,000 by mistake. Photograph: M4OS Photos/Alamy View image in fullscreen Yorkshire Water didn\u2019t prove much help when it \u2018gifted\u2019 a customer \u00a37,000 by mistake. Photograph: M4OS Photos/Alamy Yorkshire Water paid us \u00a36,800 by mistake \u2013 and said to \u2018enjoy\u2019 the money Only when Guardian Money contacted the company did it discover the cash was wages owed to its staff In May, our supplier, Yorkshire Water, made a surprise payment of more than \u00a33,500 into my partner\u2019s bank account. We assumed that it was an error and we would be told to repay it. Exactly a month later, she received another payment, this time of \u00a33,300. Yorkshire Water told us it did not recognise the payment reference and did not think it had made the payment. My partner\u2019s bank said there was nothing it could do to stop, or return, the payments. Both companies took the issue quite lightly and told us to enjoy the money . We have transferred it into our savings account so it is not touched, but don\u2019t know what else to do. We are concerned it might be some sort of money laundering scam.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1477
+  },
   "3a31af0b826cf7bbf0f34bfbe10d6412dcc44294bbfa9bfea7d6ba348ab02a80": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -8928,6 +9584,30 @@
       "trust"
     ],
     "word_count": 2742
+  },
+  "3a49f71d2b6b27d57a470fee6405cef7e6ebc56b8fb6e8deeac842f5713af802": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Explore the ABC Victorian teachers set to strike again following deadlocked negotiations By Alex Sinnott Topic: Industrial Action Tue 14 Jul 2026 at 7:55pm Tue 14 Jul 2026 at 7:55pm Tue 14 Jul 2026 at 7:55pm Victorian teachers went on strike in March and are set to take industrial action again next week. ( Supplied: Emily Pinney Brown ) In short: A fresh statewide strike by Victorian public school teachers will be held next week, after negotiations with the Victorian government reach an impasse. Australian Education Union Victoria branch president Justin Mullaly confirmed the July 23 industrial action, citing excessive workloads as one of the reasons behind the move. What's next? The Victorian government has called on the AEU to call off the strike and return to the negotiating table. Victorian public school teachers will hold another 24-hour statewide strike next week amid an ongoing dispute with the state government over pay and conditions. Australian Education Union (AEU) Victorian Branch members have resolved to take further industrial action next Thursday, July 23, including stop-work action and a ban on unpaid overtime. AEU Victorian branch president Justin Mullaly says the industrial action is necessary because Victorian public schools remain the lowest funded in the country. \"The Allan Labor government is purposefully denying at least $2.4 billion in funding for...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1538
   },
   "3aa5617b2d8bf8b1bad53d4a26284149e5c51041b3b375da231fdd09e275e0d0": {
     "access_status": "available",
@@ -9085,6 +9765,73 @@
       "fraud"
     ],
     "word_count": 714
+  },
+  "3b1ace2cb81105ddadd072f14b4e34f64aaebd810d5b584a249422dfdd175256": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Evaluating AI Models\u2019 Capability to Automate Voice Phishing Attacks Fred Heiding Claudio Mayrink Verdun Simon Lermen Andrew Kao Vitor Albiero Lauren Deason Irina-Elena Veliche Christine Lehane Harvard Kennedy School, 79 John F. Kennedy St, Cambridge, MA, 02138, US Harvard School of Engineering and Applied Sciences, 150 Western Ave, Allston, MA, 02134, US Independent Researcher Meta Platforms, Inc., 1 Hacker Wy, Menlo Park, CA 94025, US Abstract Voice phishing (vishing) attacks have traditionally been limited by the need for human operators. The rapid emergence of high-quality AI voice synthesis and large language models (LLMs) reduces this bottleneck and enables scalable, automated scams. In this paper, we conduct a large-scale survey experiment (N=4100) and qualitative interviews (N=12) to assess U.S. adults\u2019 susceptibility to AI-powered voice phishing attacks. Participants were exposed to audio recordings or transcripts of scam scenarios generated using leading voice models such as Llama Full Duplex (Llama FD), Sesame, Gemini, OAI AVM, Play.AI, and ElevenLabs and the corresponding human baselines. The results show high compliance rates. Up to 36% of participants would or might comply with phishing requests in the \u201crelative-in-distress\u201d category. Overall compliance rate across all five scam categories was 16.5%, a striking...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "technology_modus_terms_found": [
+      "robocall",
+      "voice clone",
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 32917
   },
   "3bb35b5bc5a21208f9d65f4305ad0e3b5245c294c05729f93eb0c1256221b2b1": {
     "access_status": "available",
@@ -10743,6 +11490,32 @@
     ],
     "word_count": 7085
   },
+  "4409257b06f6c983a43da241ec9547ab82dc9716075f4a038880d8d7d62a800d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "44b8abe3f29bdf2609296d46ac30e6aec99793e7f99d933fea1c37f834fd7a79": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -11691,6 +12464,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "49d7c8f944318e9a72bf02e37d7e060d173a76ca0f9abdd6227f7b47fcce4486": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "49e4ae9f5f2e7189c9b523cc9769a143fd000abbd23db32898020983e2669cbe": {
     "access_status": "available",
@@ -13080,6 +13879,32 @@
     ],
     "word_count": 8
   },
+  "520883e9debb11a8af544b28a2376b99a1dcdac5ba953240bb2287521e06c8f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "52260f6e17713ff90a2672e7f741f22914b572705af0235d4e047273f1697fc3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -13120,6 +13945,32 @@
       "trust"
     ],
     "word_count": 6241
+  },
+  "5243ef3374438191fa5c98c50c3e36123c5c1074a6ed277e1e822bb527390c23": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "524f5feff3cd525edb9d94b35162be130aca6e6e8eccbff86900e8f10c7080c6": {
     "access_status": "available",
@@ -13201,6 +14052,32 @@
       "cybersecurity"
     ],
     "word_count": 0
+  },
+  "52a67b5a65da0c872021e8fc6de0d2fc342d9b13d59f70cf5036768eb3f84662": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "52d46f571c5ef1cba6eb8b42b6ebc54ffe7242726aee3962256735cb7b3f31c2": {
     "access_status": "available",
@@ -18113,6 +18990,30 @@
     ],
     "word_count": 23363
   },
+  "6e648cb4e4a783c894c0dcbd0b953fe729f8e13f8d85a21f08234e27f9c8a12c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Explore the ABC Writer E Jean Carroll collects $8m in Trump sex abuse and defamation case Topic: Law, Crime and Justice Wed 15 Jul 2026 at 9:25am Wed 15 Jul 2026 at 9:25am Wed 15 Jul 2026 at 9:25am E Jean Carroll\u2019s lawyers say in court papers that she plans to put the money in a retirement account. ( Reuters: Adam Gray/File ) In short: Writer E Jean Carroll has collected $US5.6 million ($8 million) that a jury awarded in her sexual abuse and defamation lawsuit against US President Donald Trump, court records and her lawyers say. The payment represents the $US5 million jury award, plus interest. What's next? Mr Trump's lawyers have vowed to continue appealing. Writer E Jean Carroll has collected nearly $US5.6 million ($8 million) from Donald Trump after a jury in 2023 found the US president liable for sexually abusing and defaming her, court records show. Over Mr Trump's objections, the money was released to Ms Carroll's law firm on Monday, local time, five days after US District Judge Lewis Kaplan authorised the disbursement from a court-supervised account. The payout represents the original $US5 million civil verdict, plus interest. It is the first time Mr Trump has been forced to pay Ms Carroll. She has won $US88.3 million in civil verdicts against the president in the seven years since he first denied having raped her in a Bergdorf Goodman department store dressing room in...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1579
+  },
   "6ef256cb8ac08afa9444cba91801f73d2c1a650720be5f208a3cd68969fbcbd1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -19786,6 +20687,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1846
   },
+  "79409fa625b1da406465a2f43234fbf26781f1e6d6a1f5865c7f65497c785fea": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "796263a8642ced455d4a3ae11392eb32a7ce76f18aced10aaf0f02409f8f6b15": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -20245,6 +21172,32 @@
       "trust"
     ],
     "word_count": 10200
+  },
+  "7b16ba5ff6d6bfbf47f8519af807706da7659d5dd4408e9b85be224687e51aeb": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "7b1db82a773407eb7e1680119d57c42bdd6ed6902126fa1dc67691cd5595e33d": {
     "access_status": "available",
@@ -27194,6 +28147,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "a3ec5d4dc3557b5442411eaa4b1e3a41c0396144383906e630ba71ceac9a4176": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "a40ede25102ea9c88162e5d8f862905551f2c9419b54d841aa2778c8271175d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -27951,6 +28930,32 @@
       "identity"
     ],
     "word_count": 19269
+  },
+  "a89fd00d659100c35f2866fd547f1590c7f8c877a91ab3ecb18b9e40ccd58c04": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "a8d189fa6ef6806f8956bf38c2b132994dce37ec4d850bcbaade791c50995230": {
     "access_status": "unknown",
@@ -29142,6 +30147,30 @@
       "trust"
     ],
     "word_count": 54657
+  },
+  "af1c6cd47071921157b53c50ee5177ff28d2770dbc9dc98abf87c0b28804f679": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "af4b67944aa619dd4ec2b419c9d5220f4130b470e84e05059e194ec234e123ff": {
     "access_status": "available",
@@ -31160,6 +32189,32 @@
       "trust"
     ],
     "word_count": 37864
+  },
+  "bafa400f43a7c2ce715ac6f9a419e764458a9cfa6ca585e180d067841965c44d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "bb15e7d2047bc5e6c7972ee7c3607930fe908d6f425e995dcdf78c1a74668b1c": {
     "access_status": "available",
@@ -33232,6 +34287,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1794
   },
+  "c5903485f133d5d60b08894af5b6d6323a846b7eee0e2f7992887878c582854b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "c5ada03474cb52f19da4837e4bff755a4714147452a355224a9f3babac7f6bfc": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34560,6 +35641,32 @@
     ],
     "word_count": 3347
   },
+  "cdf764c67123b294589429ab2c67d62feab1a33cb8c605f990e2dd26ad0690d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "ce5f335154c1b26dafa1eb378859ab9d4b0817cb29b8e88da2c7ea460ab9e0d1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34961,6 +36068,32 @@
       "trust"
     ],
     "word_count": 3686
+  },
+  "d039d33e4a470fae542a8dadefc27bfb24917079151aee48d4f92e507ac536d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "d03e3bc2b088e419e49cd72fdc340e34789e682e22974df0b179dda3206808bb": {
     "access_status": "available",
@@ -35611,6 +36744,32 @@
     ],
     "word_count": 132
   },
+  "d3504e0f76febe7cbfbe6edc4242c19b39187f3e6fb0264ad96ae765533974a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "d3842b99d707b08cde177e8a5262b333c9cd022b037ccc65550153cd38ec0368": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -35964,6 +37123,35 @@
     "weak_generic_terms_found": [],
     "word_count": 1651
   },
+  "d5f94aa6a3fae8521d6e9146f5d8a72ce1620a9c3ca78104f944389bfc7f15e6": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Ekrem \u0130mamo\u011flu with his family and supporters at Anitkabir, the mausoleum of Ataturk, in Ankara in 2019. Photograph: \u00dcmit Bekta\u015f/Reuters He was elected mayor of Istanbul in 2019, and had announced his candidacy for the 2028 presidential elections. But Ekrem \u0130mamo\u011flu is now behind bars, and his trial, on charges including fraud and organised crime, could take 12 years This piece first appeared in the Dial By Kaya Gen\u00e7 T here\u2019s a Turkish saying, \u201c Silivri so\u011fuktur \u201d: Silivri is cold. You\u2019ll hear it from journalists, politicians and activists after they say something critical of President Recep Tayyip Erdo\u011fan\u2019s government. The kind of comments that could send them to the notorious prison complex in Silivri, where it would take months before they saw a judge. For decades, Silivri was considered a \u201c sayfiye yeri \u201d, a place for cottages, country and summer houses. All around the complex are small family-run farms and villas with private pools, protected by watchdogs. Construction of the Marmara Prison complex began in 2005 and lasted three years. It contains eight closed correctional institutions and an open prison where the court is located. It is Europe\u2019s largest prison complex.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 10633
+  },
   "d62350fee04d69a63ca17dc436cf29cf4c1681fcca24f0a997a744f517095e01": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -36200,6 +37388,50 @@
       "fraud"
     ],
     "word_count": null
+  },
+  "d770d2976a6c13376a40a183c719ec04b08ca4005e30f4ce961db5119be77a31": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Explore the ABC Timor-Leste scam centre compounds uncovered as police arrest Chinese, Indonesians, Cambodians By Timor-Leste reporter Vonia Vieira , Jordan Fennell and the Pacific Local Journalism Network's Nick Sas Topic: Scams and Fraud Wed 15 Jul 2026 at 12:18pm Wed 15 Jul 2026 at 12:18pm Wed 15 Jul 2026 at 12:18pm Timor-Leste police say they have uncovered a major scam centre operation in the country. ( Supplied: National Police of Timor-Leste ) In short: Police in Timor-Leste have conducted multiple raids on scam compounds over the past week. Scam compounds have emerged as a major problem in the developing nation, as organised crime figures target countries with lax cyber security laws. What's next? Local police say they are gathering intelligence to conduct raids on more targets. Police in Timor-Leste say they have uncovered a major international scam operation, arresting hundreds of mainly Chinese and Indonesian nationals in raids across the capital, Dili. Timor-Leste police raided three heavily secured call centre compounds over the past five days, arresting 253 workers in a highly visible crackdown against what experts say is a growing trade in the developing nation. A separate raid was conducted in late June, bringing the total number of people arrested over the past three weeks to 314. Some of the accused scammers were paraded one by one in court in Dili on Monday...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 3222
   },
   "d7adebb80dcf203c18d024306f67ebf54519bf31e35cc5d1c452b5886222b14d": {
     "access_status": "available",
@@ -36967,6 +38199,62 @@
     "weak_generic_terms_found": [],
     "word_count": 1679
   },
+  "dbe929bd6be76f05d01e5f148348a39f63d8d9b57540941e85f327d157aeca67": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
+  "dc291969fb2f2a1c949bab664615b380242849f73953fef98e801c47dc714927": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "dc30b1f721b9cd46137cd6123d5e4807effbe0cbd3d86865a1763fbf1430ac7d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -37099,6 +38387,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "dd0d6f8bad2fc9ede6930b2cdabaa651cd3671ef26f82ed284e0d063f525770c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "dd1b20441982f036b2cc8b02e19d521461ee871f09b0dadc5cff3b4daa5ad8e3": {
     "access_status": "available",
@@ -37905,6 +39219,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1111
+  },
+  "e4075aa01a1181b7b15696561d49b82b2bca53f5ccc9adbbbd4645436e6f666d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "e4b4deec8444b5e24bf8f421140ac525d62a7b2e380a144f8669a873f2808992": {
     "access_status": "available",
@@ -39092,6 +40432,32 @@
     ],
     "word_count": 820
   },
+  "ec4647eb9f619096c8701b6ff3429046e70265ac2194f0f91ae04cdb6d70cb60": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "ec48b52a5f841f5c4b480e80fc7eaec4f5f90514aef22306e5331bf4b2e98360": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -40023,9 +41389,9 @@
   "f19ebb7c96dc842c92a322b01c8f4e2aa8d972d2103dd474e32771bb9975b299": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Trafficking survivors still living on the streets months after Cambodian scam compound exodus By Will Jackson Topic: Cyber Crime Sun 14 Jun 2026 at 12:12pm Sun 14 Jun 2026 at 12:12pm Sun 14 Jun 2026 at 12:12pm Most scam operations in South-East Asia feature call-centre style offices with rows of desks and computers. ( Reuters: Roun Ry ) In the five months since she escaped a scam compound, Anna has mostly been living on the streets. WARNING: The story contains references to sexual and physical violence. The Ugandan mother had been a captive for seven months, during which she said she was tortured with electricity because she didn't know how to use computers, let alone scam people online. \"I kept on blaming the day I came to Cambodia,\" she told the ABC. But her nightmare did not end when the compound's gates were opened and she was allowed to leave. Anna was one of the many trafficking victims who were left stranded amid an unprecedented crackdown on Cambodia's cyberscam industry. She and other victims who spoke to the ABC used pseudonyms because they feared for their safety. For years, scam operations \u2014 typically run by Chinese criminal organisations out of fortified compounds, casinos or office buildings \u2014 have proliferated in the South-East Asian kingdom. The Cambodian government was often accused of being complicit in the industry and of conducting crackdowns that were just...",
+    "article_excerpt": "Explore the ABC Trafficking survivors still living on the streets months after Cambodian scam compound exodus By Will Jackson Topic: Cyber Crime Sun 14 Jun 2026 at 12:12pm Sun 14 Jun 2026 at 12:12pm Sun 14 Jun 2026 at 12:12pm Most scam operations in South-East Asia feature call-centre style offices with rows of desks and computers. ( Reuters: Roun Ry ) In the five months since she escaped a scam compound, Anna has mostly been living on the streets. WARNING: The story contains references to sexual and physical violence. The Ugandan mother had been a captive for seven months, during which she said she was tortured with electricity because she didn't know how to use computers, let alone scam people online. \"I kept on blaming the day I came to Cambodia,\" she told the ABC. But her nightmare did not end when the compound's gates were opened and she was allowed to leave. Anna was one of the many trafficking victims who were left stranded amid an unprecedented crackdown on Cambodia's cyberscam industry. She and other victims who spoke to the ABC used pseudonyms because they feared for their safety. For years, scam operations \u2014 typically run by Chinese criminal organisations out of fortified compounds, casinos or office buildings \u2014 have proliferated in the South-East Asian kingdom. The Cambodian government was often accused of being complicit in the industry and of conducting...",
     "cache_version": 8,
-    "checked_at": "2026-06-14T05:06:42+00:00",
+    "checked_at": "2026-07-15T03:31:52+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scam compound"
@@ -40058,7 +41424,7 @@
       "deception",
       "fraud"
     ],
-    "word_count": 5356
+    "word_count": 5359
   },
   "f1b3b2acaa4b27123e5893c06287e3da2b2da6737c58a04fda25df6551dbf4aa": {
     "access_status": "available",
@@ -40133,6 +41499,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "f2342c5cfa859afc19b3d288f5697750a538d0a36c6aa2b60a5003bd29be5cb1": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "f259d47aa2e6c0c29f037d0559a7899fb1f9f0abaf2e5c7472e1a7cf606b650f": {
     "access_status": "available",
@@ -41630,6 +43022,58 @@
     "weak_generic_terms_found": [],
     "word_count": 1685
   },
+  "fa5a35cd958f9415e85c4e8409332963d59b5b248ec6d276b0e2536666952b50": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Sixth arrest made in election fraud investigation 8 hours ago Share Save Add as preferred on Google Angela Ferguson North West PA Media Five people were previously arrested on suspicion of fraud offences as part of the investigation A sixth person has been arrested as part of an investigation into the process of how candidates were put forward for the local election in Tameside, Greater Manchester, on 7 May. Officers from Greater Manchester Police (GMP) arrested a 25-year-old man in the Ashton-under-Lyne area on Tuesday morning. He was detained on suspicion of conspiracy to defraud and has since been released on police bail, a force spokesperson said. Five people previously arrested on suspicion of fraud offences as part of the investigation also remain on bail pending further inquiries. \"Multiple lines of enquiry have already taken place, and we remain in contact with the Electoral Commission and local partners as work is progressed,\" the force added. At the time of the first five arrests, a GMP spokesperson said: \"In the days leading up to and following the election on 7 May we received reports surrounding concerns about candidates within the St Peter's ward.\" They said a full investigation had been launched which was \"specifically investigating the process of how candidates were put forward and represented in the ward, and if this adhered to the relevant legislation and...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1135
+  },
+  "fa6b11ace01cd54882d2ab818a83c4a529df40f8632f4da21d043cc3b1eaaba9": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "fac1139b04ef8b6531b712df31e65c8412ae505cdfc9f52e9caf5ad0834f294c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42359,6 +43803,73 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3542
+  },
+  "fee7c57fc593edb04574e384c0e04c802c90a8254dafb1927519ad483588d6d9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Evaluating AI Models\u2019 Capability to Automate Voice Phishing Attacks Fred Heiding Claudio Mayrink Verdun Simon Lermen Andrew Kao Vitor Albiero Lauren Deason Irina-Elena Veliche Christine Lehane Harvard Kennedy School, 79 John F. Kennedy St, Cambridge, MA, 02138, US Harvard School of Engineering and Applied Sciences, 150 Western Ave, Allston, MA, 02134, US Independent Researcher Meta Platforms, Inc., 1 Hacker Wy, Menlo Park, CA 94025, US Abstract Voice phishing (vishing) attacks have traditionally been limited by the need for human operators. The rapid emergence of high-quality AI voice synthesis and large language models (LLMs) reduces this bottleneck and enables scalable, automated scams. In this paper, we conduct a large-scale survey experiment (N=4100) and qualitative interviews (N=12) to assess U.S. adults\u2019 susceptibility to AI-powered voice phishing attacks. Participants were exposed to audio recordings or transcripts of scam scenarios generated using leading voice models such as Llama Full Duplex (Llama FD), Sesame, Gemini, OAI AVM, Play.AI, and ElevenLabs and the corresponding human baselines. The results show high compliance rates. Up to 36% of participants would or might comply with phishing requests in the \u201crelative-in-distress\u201d category. Overall compliance rate across all five scam categories was 16.5%, a striking...",
+    "cache_version": 8,
+    "checked_at": "2026-07-15T03:31:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "smishing",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "deepfake fraud"
+    ],
+    "technology_modus_terms_found": [
+      "robocall",
+      "voice clone",
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 32917
   },
   "ff1ad9d57a2bc3a7642261588bd6ffdbeb8c9db30effc2c89345d8037d3fc116": {
     "access_status": "available",
