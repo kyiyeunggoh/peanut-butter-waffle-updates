@@ -308,6 +308,20 @@
       "url": "https://www.abc.net.au/pacific/programs/pacificbeat/timor-scam/106912034",
       "usefulness_category": "Scam development"
     },
+    "abc.net.au|2026-07-15|abc breach clinic cyber headlines hit major network": {
+      "article_type": "Enforcement report",
+      "normalised_title": "gp clinic network hit major cyber breach abc news headlines",
+      "normalized_title_fingerprint": "gp clinic network hit major cyber breach abc news headlines",
+      "original_url": "https://www.abc.net.au/news/2026-07-15/partnered-health-medical-clinics-hit-by-major-cyber-breach/106920156",
+      "parsed_date": "2026-07-15",
+      "raw_title": "GP clinic network hit by major cyber breach - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-07-15|abc breach clinic cyber headlines hit major network",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "abc.net.au",
+      "title": "gp clinic network hit major cyber breach abc news headlines",
+      "url": "https://www.abc.net.au/news/2026-07-15/partnered-health-medical-clinics-hit-by-major-cyber-breach/106920156",
+      "usefulness_category": "Operational intelligence"
+    },
     "abc.net.au|2026-07-15|australia compounds doorstep scam uncovered": {
       "article_type": "Enforcement report",
       "normalised_title": "scam compounds australia s doorstep uncovered",
@@ -1118,6 +1132,20 @@
       "source_domain": "arxiv.org",
       "title": "robocalls worldwide us only problem analyzing spam fraud international phone calls",
       "url": "https://arxiv.org/html/2606.31790v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-07-10|attacks automate capability evaluating models\u2019 phishing voice": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "normalized_title_fingerprint": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "original_url": "https://arxiv.org/html/2607.09970v1",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Evaluating AI Models\u2019 Capability to Automate Voice Phishing Attacks - arXiv",
+      "same_story_key": "arxiv.org|2026-07-10|attacks automate capability evaluating models\u2019 phishing voice",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "url": "https://arxiv.org/html/2607.09970v1",
       "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-07-14|agentic based conversational detection explainable memory scams summary": {
@@ -2127,6 +2155,20 @@
       "title": "abandoned cambodian scam compound exposes fraudsters scheming",
       "url": "https://www.reuters.com/video/watch/idRW321106022026RP1/",
       "usefulness_category": "Operational intelligence"
+    },
+    "reuters.com|2026-07-15|boss casino chinese egpbwjyeovq human landlord scammers traffickers": {
+      "article_type": "News report",
+      "normalised_title": "casino boss was landlord chinese scammers human traffickers",
+      "normalized_title_fingerprint": "casino boss was landlord chinese scammers human traffickers",
+      "original_url": "https://www.reuters.com/graphics/CAMBODIA-SCAMS/egpbwjyeovq/",
+      "parsed_date": "2026-07-15",
+      "raw_title": "Casino boss was landlord to Chinese scammers and human traffickers - Reuters",
+      "same_story_key": "reuters.com|2026-07-15|boss casino chinese egpbwjyeovq human landlord scammers traffickers",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "casino boss was landlord chinese scammers human traffickers",
+      "url": "https://www.reuters.com/graphics/CAMBODIA-SCAMS/egpbwjyeovq/",
+      "usefulness_category": "Scam development"
     },
     "straitstimes.com|2025-10-30|arrest avoided cambodia off receiving scam singapore spore": {
       "article_type": "News report",
@@ -3422,6 +3464,18 @@
       "title": "can llm agents simulate dynamic networks case study email networks phishing synthesis",
       "usefulness_category": "Research / novel method"
     },
+    "casino boss was landlord chinese scammers human traffickers": {
+      "article_type": "News report",
+      "normalised_title": "casino boss was landlord chinese scammers human traffickers",
+      "normalized_title_fingerprint": "casino boss was landlord chinese scammers human traffickers",
+      "parsed_date": "2026-07-15",
+      "raw_title": "Casino boss was landlord to Chinese scammers and human traffickers - Reuters",
+      "same_story_key": "reuters.com|2026-07-15|boss casino chinese egpbwjyeovq human landlord scammers traffickers",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "casino boss was landlord chinese scammers human traffickers",
+      "usefulness_category": "Scam development"
+    },
     "characterizing scam driven human trafficking across chinese borders online community responses rednote": {
       "article_type": "Research paper",
       "normalised_title": "characterizing scam driven human trafficking across chinese borders online community responses rednote",
@@ -3698,6 +3752,18 @@
       "title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
       "usefulness_category": "Product idea / data source"
     },
+    "evaluating ai models\u2019 capability automate voice phishing attacks": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "normalized_title_fingerprint": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "parsed_date": "2026-07-10",
+      "raw_title": "Evaluating AI Models\u2019 Capability to Automate Voice Phishing Attacks - arXiv",
+      "same_story_key": "arxiv.org|2026-07-10|attacks automate capability evaluating models\u2019 phishing voice",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "usefulness_category": "Research / novel method"
+    },
     "expanded synthetic conversation dataset multi turn smishing detection": {
       "article_type": "Research paper",
       "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
@@ -3853,6 +3919,18 @@
       "source_domain": "restofworld.org",
       "title": "global cybersecurity gap deepens ai powered attacks surge",
       "usefulness_category": "General context"
+    },
+    "gp clinic network hit major cyber breach abc news headlines": {
+      "article_type": "Enforcement report",
+      "normalised_title": "gp clinic network hit major cyber breach abc news headlines",
+      "normalized_title_fingerprint": "gp clinic network hit major cyber breach abc news headlines",
+      "parsed_date": "2026-07-15",
+      "raw_title": "GP clinic network hit by major cyber breach - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-07-15|abc breach clinic cyber headlines hit major network",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "abc.net.au",
+      "title": "gp clinic network hit major cyber breach abc news headlines",
+      "usefulness_category": "Operational intelligence"
     },
     "graphika news talking romance scams cyber frontlines": {
       "article_type": "Deep analysis",
@@ -6279,6 +6357,18 @@
       "title": "Beatings, torture and electric shocks: freed scam compound workers allege horrific abuse | Myanmar - The Guardian",
       "url": "https://www.theguardian.com/world/2025/feb/25/beatings-torture-and-electric-shocks-freed-scam-compound-workers-allege-horrific-abuse",
       "usefulness_category": "Operational intelligence"
+    },
+    "2910409108984f0bdd1a65ed13ec544d7c904a1a2978384aef8ae9a5b994fed8": {
+      "article_type": "News report",
+      "normalised_title": "casino boss was landlord chinese scammers human traffickers",
+      "normalized_title_fingerprint": "casino boss was landlord chinese scammers human traffickers",
+      "parsed_date": "2026-07-15",
+      "same_story_key": "reuters.com|2026-07-15|boss casino chinese egpbwjyeovq human landlord scammers traffickers",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "reuters.com",
+      "title": "Casino boss was landlord to Chinese scammers and human traffickers - Reuters",
+      "url": "https://www.reuters.com/graphics/CAMBODIA-SCAMS/egpbwjyeovq/",
+      "usefulness_category": "Scam development"
     },
     "2939b07ead2095e1767549ee2e9b18def1a8f8c9b4a02c37f210d1cc362ed3d4": {
       "article_type": "Research paper",
@@ -8764,6 +8854,18 @@
       "url": "https://www.channelnewsasia.com/singapore/whatsapp-reserve-username-public-figure-politician-6248011",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "cad310a4d103edb1fce6278721f0fd1faccafe1b905b7504472b9b10f04336a4": {
+      "article_type": "Enforcement report",
+      "normalised_title": "gp clinic network hit major cyber breach abc news headlines",
+      "normalized_title_fingerprint": "gp clinic network hit major cyber breach abc news headlines",
+      "parsed_date": "2026-07-15",
+      "same_story_key": "abc.net.au|2026-07-15|abc breach clinic cyber headlines hit major network",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "abc.net.au",
+      "title": "GP clinic network hit by major cyber breach - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/news/2026-07-15/partnered-health-medical-clinics-hit-by-major-cyber-breach/106920156",
+      "usefulness_category": "Operational intelligence"
+    },
     "cae732f825c805b61c7c41d6f27264fbaf1c0198290a2a1024ad293739b96bcc": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -9530,6 +9632,18 @@
       "source_domain": "arxiv.org",
       "title": "The End of Trust: How Agentic AI Breaks Security Assumptions - arXiv",
       "url": "https://arxiv.org/html/2605.16436v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "fee7c57fc593edb04574e384c0e04c802c90a8254dafb1927519ad483588d6d9": {
+      "article_type": "Research paper",
+      "normalised_title": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "normalized_title_fingerprint": "evaluating ai models\u2019 capability automate voice phishing attacks",
+      "parsed_date": "2026-07-10",
+      "same_story_key": "arxiv.org|2026-07-10|attacks automate capability evaluating models\u2019 phishing voice",
+      "sent_at": "2026-07-16T03:34:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Evaluating AI Models\u2019 Capability to Automate Voice Phishing Attacks - arXiv",
+      "url": "https://arxiv.org/html/2607.09970v1",
       "usefulness_category": "Research / novel method"
     },
     "ff31c76a4be0e5fac0d61cd9ce6ef4e37f23f17e3542ed5e12da296fca7ce571": {
