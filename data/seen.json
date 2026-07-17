@@ -336,6 +336,20 @@
       "url": "https://www.abc.net.au/news/2026-07-15/timor-scam-compound-chinese-indonesians-cambodians-arrested/106913210",
       "usefulness_category": "Operational intelligence"
     },
+    "abc.net.au|2026-07-16|350 abc arrests center crackdown headlines leste scam": {
+      "article_type": "Enforcement report",
+      "normalised_title": "350 arrests timor leste scam center crackdown abc news headlines",
+      "normalized_title_fingerprint": "350 arrests timor leste scam center crackdown abc news headlines",
+      "original_url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
+      "parsed_date": "2026-07-16",
+      "raw_title": "350 arrests in Timor-Leste scam center crackdown - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-07-16|350 abc arrests center crackdown headlines leste scam",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "abc.net.au",
+      "title": "350 arrests timor leste scam center crackdown abc news headlines",
+      "url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
+      "usefulness_category": "Scam development"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -1148,6 +1162,20 @@
       "url": "https://arxiv.org/html/2607.09970v1",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-07-12|detection evidence fraud gaps llms operational safety trust": {
+      "article_type": "Research paper",
+      "normalised_title": "operational evidence gaps llms fraud detection trust safety workflows",
+      "normalized_title_fingerprint": "operational evidence gaps llms fraud detection trust safety workflows",
+      "original_url": "https://arxiv.org/html/2607.13078v1",
+      "parsed_date": "2026-07-12",
+      "raw_title": "Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows - arXiv",
+      "same_story_key": "arxiv.org|2026-07-12|detection evidence fraud gaps llms operational safety trust",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "arxiv.org",
+      "title": "operational evidence gaps llms fraud detection trust safety workflows",
+      "url": "https://arxiv.org/html/2607.13078v1",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-07-14|agentic based conversational detection explainable memory scams summary": {
       "article_type": "Research paper",
       "normalised_title": "explainable agentic system detection conversational scams summary based memory",
@@ -1342,6 +1370,20 @@
       "source_domain": "bbc.com",
       "title": "youtube facebook x among platforms forced tackle uk scam ads",
       "url": "https://www.bbc.com/news/articles/c9q2rznjqwwo",
+      "usefulness_category": "Scam development"
+    },
+    "bbc.com|2026-07-16|banned cards checks cn4n9q538z2o compulsory crackdown digital fraud": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "normalized_title_fingerprint": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "original_url": "https://www.bbc.com/news/articles/cn4n9q538z2o",
+      "parsed_date": "2026-07-16",
+      "raw_title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned - BBC",
+      "same_story_key": "bbc.com|2026-07-16|banned cards checks cn4n9q538z2o compulsory crackdown digital fraud",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "url": "https://www.bbc.com/news/articles/cn4n9q538z2o",
       "usefulness_category": "Scam development"
     },
     "channelnewsasia.com|2025-12-16|000 admits cards exchange lost money register registering": {
@@ -3065,6 +3107,20 @@
       "title": "submit your questions inside world online romance scams",
       "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-07-04|book club inside livestream online replay romance scams": {
+      "article_type": "Investigative report",
+      "normalised_title": "livestream replay inside world online romance scams",
+      "normalized_title_fingerprint": "livestream replay inside world online romance scams",
+      "original_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWcyQXZTdkhjY1c5TmlSMVp2ZFFLOF94a1ZFM1pxcWtvNFEwZ0d0UlBodUc5dWMxdERBcHBkZXBaM0FBdjMzZWdqM1FKVFFlT0tWYXhIYXhBZllKU3FORHlZRnFlbm5MbVJmMExDSHQ5WjB5ZnJQSzhFVUFRYjZ0VkdmRGZVeXVPWW1PY0hIemE3YUND?oc=5",
+      "parsed_date": "2026-07-04",
+      "raw_title": "Livestream Replay: Inside The World of Online Romance Scams - WIRED",
+      "same_story_key": "wired.com|2026-07-04|book club inside livestream online replay romance scams",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "wired.com",
+      "title": "livestream replay inside world online romance scams",
+      "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -3151,6 +3207,18 @@
       "source_domain": "arxiv.org",
       "title": "2606 16052 anatomy scam scenarios large scale characterization conversation aware detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "350 arrests timor leste scam center crackdown abc news headlines": {
+      "article_type": "Enforcement report",
+      "normalised_title": "350 arrests timor leste scam center crackdown abc news headlines",
+      "normalized_title_fingerprint": "350 arrests timor leste scam center crackdown abc news headlines",
+      "parsed_date": "2026-07-16",
+      "raw_title": "350 arrests in Timor-Leste scam center crackdown - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "same_story_key": "abc.net.au|2026-07-16|350 abc arrests center crackdown headlines leste scam",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "abc.net.au",
+      "title": "350 arrests timor leste scam center crackdown abc news headlines",
+      "usefulness_category": "Scam development"
     },
     "493 cases sextortion against children linked notorious scam compounds": {
       "article_type": "Investigative report",
@@ -3872,6 +3940,18 @@
       "title": "four days make victims fall love global scammers use us tech fleece people",
       "usefulness_category": "Scam development"
     },
+    "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "normalized_title_fingerprint": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "parsed_date": "2026-07-16",
+      "raw_title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned - BBC",
+      "same_story_key": "bbc.com|2026-07-16|banned cards checks cn4n9q538z2o compulsory crackdown digital fraud",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "usefulness_category": "Scam development"
+    },
     "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks": {
       "article_type": "Research paper",
       "normalised_title": "fraud type decomposition observation mechanism taxonomy class specific detection limits payment networks",
@@ -4196,6 +4276,18 @@
       "title": "least s 3 6 million lost investment scams involving chat groups since may",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "livestream replay inside world online romance scams": {
+      "article_type": "Investigative report",
+      "normalised_title": "livestream replay inside world online romance scams",
+      "normalized_title_fingerprint": "livestream replay inside world online romance scams",
+      "parsed_date": "2026-07-04",
+      "raw_title": "Livestream Replay: Inside The World of Online Romance Scams - WIRED",
+      "same_story_key": "wired.com|2026-07-04|book club inside livestream online replay romance scams",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "wired.com",
+      "title": "livestream replay inside world online romance scams",
+      "usefulness_category": "Operational intelligence"
+    },
     "llm based chain response counter scam system": {
       "article_type": "Research paper",
       "normalised_title": "llm based chain response counter scam system",
@@ -4435,6 +4527,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "online scams latest news coverage",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "operational evidence gaps llms fraud detection trust safety workflows": {
+      "article_type": "Research paper",
+      "normalised_title": "operational evidence gaps llms fraud detection trust safety workflows",
+      "normalized_title_fingerprint": "operational evidence gaps llms fraud detection trust safety workflows",
+      "parsed_date": "2026-07-12",
+      "raw_title": "Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows - arXiv",
+      "same_story_key": "arxiv.org|2026-07-12|detection evidence fraud gaps llms operational safety trust",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "arxiv.org",
+      "title": "operational evidence gaps llms fraud detection trust safety workflows",
+      "usefulness_category": "Product idea / data source"
     },
     "oracle anticipating scams partial trajectories streaming app usage": {
       "article_type": "Research paper",
@@ -5866,6 +5970,18 @@
       "url": "https://www.channelnewsasia.com/commentary/ai-deepfake-iswaran-interview-scam-cost-6224366",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "090385724815c706f92509ae18c46d4f14cdc424bd1325460c82bb535408255d": {
+      "article_type": "Investigative report",
+      "normalised_title": "livestream replay inside world online romance scams",
+      "normalized_title_fingerprint": "livestream replay inside world online romance scams",
+      "parsed_date": "2026-07-04",
+      "same_story_key": "wired.com|2026-07-04|book club inside livestream online replay romance scams",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "wired.com",
+      "title": "Livestream Replay: Inside The World of Online Romance Scams - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWcyQXZTdkhjY1c5TmlSMVp2ZFFLOF94a1ZFM1pxcWtvNFEwZ0d0UlBodUc5dWMxdERBcHBkZXBaM0FBdjMzZWdqM1FKVFFlT0tWYXhIYXhBZllKU3FORHlZRnFlbm5MbVJmMExDSHQ5WjB5ZnJQSzhFVUFRYjZ0VkdmRGZVeXVPWW1PY0hIemE3YUND?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
     "095c18b9bf53f5d8737b6529f96b3147b6d8c35fdd289b3439f3623b23a1e7b9": {
       "article_type": "News report",
       "normalised_title": "myanmar s army says wants eradicate scam compounds really doing",
@@ -5916,13 +6032,13 @@
     },
     "0c39027bbe2b0a7d91b330f008807cd4b413c004743ed159236a1f200ce3713f": {
       "article_type": "Investigative report",
-      "normalised_title": "submit your questions inside world online romance scams",
-      "normalized_title_fingerprint": "submit your questions inside world online romance scams",
+      "normalised_title": "livestream replay inside world online romance scams",
+      "normalized_title_fingerprint": "livestream replay inside world online romance scams",
       "parsed_date": "2026-07-04",
-      "same_story_key": "wired.com|2026-07-04|book club inside livestream online questions romance scams",
-      "sent_at": "2026-07-05T04:20:32+00:00",
+      "same_story_key": "wired.com|2026-07-04|book club inside livestream online replay romance scams",
+      "sent_at": "2026-07-17T03:35:52+00:00",
       "source_domain": "wired.com",
-      "title": "Submit Your Questions: Inside The World of Online Romance Scams - WIRED",
+      "title": "Livestream Replay: Inside The World of Online Romance Scams - WIRED",
       "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
       "usefulness_category": "Operational intelligence"
     },
@@ -6848,6 +6964,18 @@
       "source_domain": "arxiv.org",
       "title": "Fraud Type Decomposition and the Observation-Mechanism Taxonomy: Class-Specific Detection Limits in Payment Networks",
       "url": "https://arxiv.org/pdf/2605.31257",
+      "usefulness_category": "Product idea / data source"
+    },
+    "45bbd6b6a1a95b6e929481140df4b447f887dc0ec6b9ca2e52a5952e9154b456": {
+      "article_type": "Research paper",
+      "normalised_title": "operational evidence gaps llms fraud detection trust safety workflows",
+      "normalized_title_fingerprint": "operational evidence gaps llms fraud detection trust safety workflows",
+      "parsed_date": "2026-07-12",
+      "same_story_key": "arxiv.org|2026-07-12|detection evidence fraud gaps llms operational safety trust",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Operational Evidence Gaps for LLMs in Fraud Detection and Trust-and-Safety Workflows - arXiv",
+      "url": "https://arxiv.org/html/2607.13078v1",
       "usefulness_category": "Product idea / data source"
     },
     "4687343450668c44258b27e375ada282f6f32168e6ea83018c582636a1ab5433": {
@@ -8110,6 +8238,18 @@
       "url": "https://www.reuters.com/world/asia-pacific/cambodian-scam-compound-yields-trove-fraud-evidence-thai-military-says-2026-02-02/",
       "usefulness_category": "Operational intelligence"
     },
+    "9ab4c880626998d92012ca06347363fee73af6bbd0f5329992063e077ca300b3": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "normalized_title_fingerprint": "fraud crackdown ghana id cards makes digital checks compulsory photocopies banned",
+      "parsed_date": "2026-07-16",
+      "same_story_key": "bbc.com|2026-07-16|banned cards checks cn4n9q538z2o compulsory crackdown digital fraud",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "Fraud crackdown on Ghana ID cards makes digital checks compulsory - photocopies banned - BBC",
+      "url": "https://www.bbc.com/news/articles/cn4n9q538z2o",
+      "usefulness_category": "Scam development"
+    },
     "9e59f8e140342f3a4f005ac359c7f8372587a32d305e0e4a7e5d7763a7604f6e": {
       "article_type": "Research paper",
       "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
@@ -9284,6 +9424,18 @@
       "source_domain": "abc.net.au",
       "title": "The rise of the money mule has banks and federal police on high alert - Australian Broadcasting Corporation",
       "url": "https://www.abc.net.au/news/2026-06-30/banks-and-afp-warn-of-rise-of-money-mule-scams/106859958",
+      "usefulness_category": "Scam development"
+    },
+    "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
+      "article_type": "Enforcement report",
+      "normalised_title": "350 arrests timor leste scam center crackdown abc news headlines",
+      "normalized_title_fingerprint": "350 arrests timor leste scam center crackdown abc news headlines",
+      "parsed_date": "2026-07-16",
+      "same_story_key": "abc.net.au|2026-07-16|350 abc arrests center crackdown headlines leste scam",
+      "sent_at": "2026-07-17T03:35:52+00:00",
+      "source_domain": "abc.net.au",
+      "title": "350 arrests in Timor-Leste scam center crackdown - ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
       "usefulness_category": "Scam development"
     },
     "e22f220fd3eb65cdc16804671a8b3e216ed9ec4baa3ea966362cc333f4440507": {
