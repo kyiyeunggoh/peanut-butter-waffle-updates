@@ -129,16 +129,16 @@
     "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims": {
       "article_type": "Enforcement report",
       "normalised_title": "african scam victims left homeless cambodia amid crackdown",
-      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown",
-      "original_url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown abc news headlines",
+      "original_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVFaNzBtdC1ZMkNtUUI0ZGpvbERzNmx0YnBtMVhRSGF4Sks1Nl9GT3JjSnFDRG84OVZ4NTNmQjJRUVZQNmM5Wmgzd2JYUU9KdXE0Mm1GMHdNbE9EQWNQZ3lLSUtUWndNM1ptdHlueDFJVnpXUUxYck4yUl9XRTVTMmtGc2pRRDR3RE5OTzlWd2E?oc=5",
       "parsed_date": "2026-06-14",
-      "raw_title": "African scam victims left homeless in Cambodia amid crackdown - Australian Broadcasting Corporation",
+      "raw_title": "African scam victims left homeless in Cambodia amid crackdown",
       "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
-      "sent_at": "2026-06-14T05:06:53+00:00",
+      "sent_at": "2026-07-18T03:28:39+00:00",
       "source_domain": "abc.net.au",
       "title": "african scam victims left homeless cambodia amid crackdown",
       "url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
-      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+      "usefulness_category": "Scam development"
     },
     "abc.net.au|2026-06-17|000 310 amid cambodia country crackdown left scammers": {
       "article_type": "Enforcement report",
@@ -1146,6 +1146,20 @@
       "source_domain": "arxiv.org",
       "title": "robocalls worldwide us only problem analyzing spam fraud international phone calls",
       "url": "https://arxiv.org/html/2606.31790v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-07-06|agents bench engineering review sevra social vulnerabilities": {
+      "article_type": "Research paper",
+      "normalised_title": "sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "sevra bench social engineering vulnerabilities review agents",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oN0ZZVWxVOXN0SUJjQnZ6aGIyNDB2eEw4SXFqQlpMRkw3bExZUl94ZXQwQ1gzVXFKU0R4ZGVSaWpxWVNEakQ0YnB6SQ?oc=5",
+      "parsed_date": "2026-07-06",
+      "raw_title": "Sevra-Bench: Social Engineering of Vulnerabilities in Review Agents",
+      "same_story_key": "arxiv.org|2026-07-06|agents bench engineering review sevra social vulnerabilities",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "sevra bench social engineering vulnerabilities review agents",
+      "url": "https://arxiv.org/html/2606.13757v2",
       "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-07-10|attacks automate capability evaluating models\u2019 phishing voice": {
@@ -3268,6 +3282,18 @@
       "title": "african scam victims left homeless cambodia amid crackdown",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "african scam victims left homeless cambodia amid crackdown abc news headlines": {
+      "article_type": "Enforcement report",
+      "normalised_title": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown abc news headlines",
+      "parsed_date": "2026-06-14",
+      "raw_title": "African scam victims left homeless in Cambodia amid crackdown",
+      "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "abc.net.au",
+      "title": "african scam victims left homeless cambodia amid crackdown",
+      "usefulness_category": "Scam development"
+    },
     "ai security agent banking multi vector fraud aml detection across retail corporate accounts": {
       "article_type": "Research paper",
       "normalised_title": "ai security agent banking multi vector fraud aml detection across retail corporate accounts",
@@ -4971,6 +4997,18 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "securenet comparative study deberta large language models phishing detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "sevra bench social engineering vulnerabilities review agents": {
+      "article_type": "Research paper",
+      "normalised_title": "sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "sevra bench social engineering vulnerabilities review agents",
+      "parsed_date": "2026-07-06",
+      "raw_title": "Sevra-Bench: Social Engineering of Vulnerabilities in Review Agents",
+      "same_story_key": "arxiv.org|2026-07-06|agents bench engineering review sevra social vulnerabilities",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "sevra bench social engineering vulnerabilities review agents",
+      "usefulness_category": "Research / novel method"
     },
     "short message service sms phishing attacks defenses systematic review": {
       "article_type": "Research paper",
@@ -7878,6 +7916,18 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSmdhRjNCQkZzcVh0MkZ4elFYNWNyTG9CeGZ2QlVmaHgwb3ZXRkVXbDlTcHFlY2Nlc3IxUWxkSk9hcWpyTlp6aDhvY19zTVJJUDFicTFxRDlmYlM0WFIxWG1nTU9GQXIwRkJHTVRSQS1pUmUtdzdncTJuMERRVWJZcEM3NkQ1VmYwUzlWMGxjS2JkeFppMWEwTw?oc=5",
       "usefulness_category": "Platform policy / product change"
     },
+    "7e6f6524bc74b3d7b47cb0b784f739d4249a5cb5585c5fde94e15f9273b6d18f": {
+      "article_type": "Research paper",
+      "normalised_title": "sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "sevra bench social engineering vulnerabilities review agents",
+      "parsed_date": "2026-07-06",
+      "same_story_key": "arxiv.org|2026-07-06|agents bench engineering review sevra social vulnerabilities",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Sevra-Bench: Social Engineering of Vulnerabilities in Review Agents",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oN0ZZVWxVOXN0SUJjQnZ6aGIyNDB2eEw4SXFqQlpMRkw3bExZUl94ZXQwQ1gzVXFKU0R4ZGVSaWpxWVNEakQ0YnB6SQ?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
     "7ff91f6c3b378c539f4b1a644804bcd2a8f65c6e06d0a6de0f745a89ae8a8157": {
       "article_type": "Policy / platform update",
       "normalised_title": "scam victims could entitled 3000 cashback",
@@ -7938,6 +7988,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXk1MUp5VmNKMm05eWRjREdQVXo2QzhucTVmejYwYnlwMm1jbjhlYnBXTnUxWEdnbGRTdjYwS1haMW1YZFZyTjg1SVMtcmNtTEpEUGRzU281alFPaEpFRlVaMjZGSFlNd2I0SkN2WFJuaUhzaHJnZ05BSnI2QURraUJSMVd3WDRING51NA?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "8057113b57a6f6d8caad1f2e88b9d545a4d0c93d68d3791151936b1a307a8ba4": {
+      "article_type": "Enforcement report",
+      "normalised_title": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown abc news headlines",
+      "parsed_date": "2026-06-14",
+      "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "abc.net.au",
+      "title": "African scam victims left homeless in Cambodia amid crackdown",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVFaNzBtdC1ZMkNtUUI0ZGpvbERzNmx0YnBtMVhRSGF4Sks1Nl9GT3JjSnFDRG84OVZ4NTNmQjJRUVZQNmM5Wmgzd2JYUU9KdXE0Mm1GMHdNbE9EQWNQZ3lLSUtUWndNM1ptdHlueDFJVnpXUUxYck4yUl9XRTVTMmtGc2pRRDR3RE5OTzlWd2E?oc=5",
+      "usefulness_category": "Scam development"
+    },
     "80b837c60af02f7635a8252e136ac45a889b16e0711687fe960e0883492f6013": {
       "article_type": "News report",
       "normalised_title": "mitek datos insights report finds synthetic identity fraud emerging defining fraud threat 2026",
@@ -7949,6 +8011,18 @@
       "title": "Mitek and Datos Insights Report Finds Synthetic Identity Fraud Is Emerging as the Defining Fraud Threat of 2026",
       "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606100900BIZWIRE_USPRX____20260610_BW637404-1",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "81755d361f6f226fa22a1568c381cd9f0ce1dacdd4e6b1c8f46369affce2487b": {
+      "article_type": "Research paper",
+      "normalised_title": "sevra bench social engineering vulnerabilities review agents",
+      "normalized_title_fingerprint": "sevra bench social engineering vulnerabilities review agents",
+      "parsed_date": "2026-07-06",
+      "same_story_key": "arxiv.org|2026-07-06|agents bench engineering review sevra social vulnerabilities",
+      "sent_at": "2026-07-18T03:28:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Sevra-Bench: Social Engineering of Vulnerabilities in Review Agents",
+      "url": "https://arxiv.org/html/2606.13757v2",
+      "usefulness_category": "Research / novel method"
     },
     "82c0aaf4566c0b7dd161feb02425aa5aa1dfc62243bb556046438be46b4c11e0": {
       "article_type": "Research paper",
@@ -9621,14 +9695,14 @@
     "f19ebb7c96dc842c92a322b01c8f4e2aa8d972d2103dd474e32771bb9975b299": {
       "article_type": "Enforcement report",
       "normalised_title": "african scam victims left homeless cambodia amid crackdown",
-      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown",
+      "normalized_title_fingerprint": "african scam victims left homeless cambodia amid crackdown abc news headlines",
       "parsed_date": "2026-06-14",
       "same_story_key": "abc.net.au|2026-06-14|african amid cambodia crackdown homeless left scam victims",
-      "sent_at": "2026-06-14T05:06:53+00:00",
+      "sent_at": "2026-07-18T03:28:39+00:00",
       "source_domain": "abc.net.au",
-      "title": "African scam victims left homeless in Cambodia amid crackdown - Australian Broadcasting Corporation",
+      "title": "African scam victims left homeless in Cambodia amid crackdown",
       "url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
-      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+      "usefulness_category": "Scam development"
     },
     "f3082ab6dd39ec43d749fc6b529fb06e714e0d01360fa3c7bfdd49211d32fa72": {
       "article_type": "Technical article",

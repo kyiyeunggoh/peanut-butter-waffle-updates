@@ -3123,6 +3123,32 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "11ef4e135a83f5d984ac93ffa37bc71df269a42cd32d3ff17f1cba59ca231322": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "121e42298f87f7f2dfcb7a0ba63b1c4caee13f9f428fa01a93304de8680d1d08": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -5070,6 +5096,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2465
+  },
+  "1e7ebb5479e9261696aadce91f1c889ea5dd25271c4c88d17bf0295c4d5030af": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "1ec13b56a38f5ab4748d0aee2c7cb836c28c4a80be3ebef3f9accddc2dfba014": {
     "access_status": "available",
@@ -7660,6 +7710,57 @@
     ],
     "word_count": 0
   },
+  "2df4935693d5b296d0c6b47ccc0c7367999972903f97b6e8c54bddceb42dff87": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\tnotemark [1] \\tnotetext [1] \\cormark [1] \\fnmark [1] url] \\credit Conceptualization, Methodology, Data curation, Structuring, Formal analysis, Visualization, Writing - original draft, Writing - review & editing 1]organization=Istanbul Medipol University, addressline=Department of Computer Engineering, city=Beykoz, postcode=34820, state=Istanbul, country=Turkey \\fnmark [2] url] \\credit Conceptualization, Supervision, Resources, Project administration, Writing \u2013 review & editing \\fnmark [3] url] \\credit Supervision, Validation, Writing - review & editing \\fnmark [4] url] \\credit Supervision, Project administration, funding acquisition, Writing \u2013 review & editing \\fnmark [5] url] \\credit Supervision, Writing \u2013 review & editing 2]organization=Atlas University, addressline=Department of Psychology, city=Ka\u011f\u0131thane, postcode=, state=Istanbul, country=Turkey 3]organization=University of Calgary, addressline=Department of Computer Science, city=Calgary, postcode=, state=Alberta, country=Canada 4]organization=University of Southern Denmark, addressline=Department of Health Informatics, city=Odense, postcode=, state=, country=Denmark \\cortext [1]Corresponding author: Georg Thamer Francis. Email: georg.francis@std.medipol.edu.tr; georgethamer1@gmail.com AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "vishing",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "vishing",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "smishing",
+      "vishing",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "identity",
+      "trust"
+    ],
+    "word_count": 23474
+  },
   "2e3877e66ee8e7d88c44cf264c188df2408f8c4dae70b74345a2c32b3b4d0be5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -8536,6 +8637,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "324718291c8499af77b7350b3827d87a3c01e013cfeb00f8b8a2938fd3d66a60": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "324e2f7c41237d5f56fd3f814c32f50db9fda939a9b292bc4993054b0088991b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9163,6 +9288,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3891
+  },
+  "36a9db464e65b404111e87467a1ce2630a68a203b5f404143d88f15868c0cbbe": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Man, 47, charged with fraud over car MOT after fatal crash 11 hours ago Share Save Add as preferred on Google Catriona Aitken BBC Wales Social media Eve Smith, 21, Rafel Jeanne, 24, and Darcy Ross, 21, died in the crash in March 2023 A 47-year-old man has been charged with fraud relating to the car involved in a crash which killed three people. Eve Smith, 21, Darcy Ross, 21, and Rafel Jeanne, 24, died after their car crashed into woodland in St Mellons in March 2023, and they lay undiscovered for two days. Two others were seriously injured. More than three years later, Neil Lewis from Ely, Cardiff, has been charged with fraud by false representation. South Wales Police said the offence related to an MOT for the vehicle found in woodlands at St Mellons, off the A48 near Cardiff, and had been identified by officers investigating the crash. Lewis will appear at Cardiff Magistrates Court on 21 July. The five people travelling in the white Volkswagen Tiguan - Sophie Russon, Smith, Ross, Jeanne and Shane Loughlin, 32 - were last seen at about 02:00 GMT on 4 March 2023 after they went missing on a night out. The families of the three young women had all reported them missing on the evening of 4 March, with Gwent Police receiving the first missing persons report in relation to the group at about 19:30. Family and friends of the five made repeated appeals to find the missing group over...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1190
   },
   "36b00d7c2327e2ad90f97a686774ce4ac8ed3deef969656229d8279dcb88b755": {
     "access_status": "available",
@@ -12277,6 +12428,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3747
   },
+  "45b96b979b6b4259233216beec17bd92934213d5b812c800e0334cc2045b76fa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "45bbd6b6a1a95b6e929481140df4b447f887dc0ec6b9ca2e52a5952e9154b456": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14432,6 +14607,38 @@
     ],
     "word_count": 4053
   },
+  "51a247906ccd4f6e80eaef88b40c957e19ab62bb05422101674da73bae2018a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "51ad112585243c3e9e8fdd768a3b90859eedd621a4c71528b74f7f72409ffa97": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -15675,6 +15882,32 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
+    "word_count": 8
+  },
+  "596848db341ebb750958307e172221db4ec310ef7bb8b3a3e123754708a59705": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
     "word_count": 8
   },
   "59c362b4ef9c9d09f903ce58e95484b8bba9e882b6ffd2ddb029303bda3bcf9c": {
@@ -18222,6 +18455,32 @@
       "trust"
     ],
     "word_count": 33857
+  },
+  "6728f3dc319e348fe5219dd2e21afc4db6ebb130bfbf8661defa04a3765fb92c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 8
   },
   "6745b5b8753ac5b8d70c25b6e9dae940dd2444ef127a67d4cc0384f596794548": {
     "access_status": "available",
@@ -23419,6 +23678,42 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "81755d361f6f226fa22a1568c381cd9f0ce1dacdd4e6b1c8f46369affce2487b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Sevra-Bench : Social Engineering of Vulnerabilities in Review Agents Rui Melo 1 Riccardo Fogliato 2 Sean Zhou 3 Pratiksha Thaker 4 Zhiwei Steven Wu 1 1 Carnegie Mellon University 2 Microsoft Core AI 3 Independent Researcher 4 Databricks Correspondence: rmelo@cs.cmu.edu Abstract Large language models (LLMs) are increasingly deployed in automated code-review systems, where their approvals can determine which code is merged into shared repositories. However, it is unclear whether review agents can detect vulnerability-introducing code when an attacker controls both the code change and the persuasive Pull Request ( PR ) narrative designed to mask it. We introduce Sevra-Bench (Social Engineering of Vulnerabilities in Review Agents), a benchmark that measures how often a review agent approves such adversarial PRs . Each PR in Sevra-Bench is built from a historical commit that fixed a vulnerability. We automatically reverse that fix to extract the original vulnerable code, and submit the resulting code change as a PR wrapped in one of 15 social-engineering framings. To test review-agent resilience to narrative manipulation, these framings vary dimensions such as supporting evidence, conveyed urgency, signals of prior approval, and appeals to authority. Sevra-Bench evaluates a retained challenge split of roughly 1000 adversarial PRs...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security",
+      "institution_domain:cmu.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 15240
+  },
   "818f86fb78bf661d9d5820a4259f8ee97f61d6e2f8f4216d751d0d539d87e845": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -24208,6 +24503,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1576
+  },
+  "86a862f29220152251b783d9b2d1cc754ecaaa7375843a20e76f4d1cded97479": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Trump says these documents prove his false claims of election fraud. Here\u2019s what they really say Trump says these documents prove his false claims of election fraud. Here\u2019s what they really say 1 of 2 | President Donald Trump used a primetime address to the nation Thursday to elevate his yearslong push to raise doubts about the legitimacy of U.S. elections and dispute his 2020 loss in an appeal for more restrictive voting laws ahead of the midterms. Read More 2 of 2 | President Donald Trump speaks in the East Room of the White House, Thursday, July 16, 2026, in Washington. (Saul Loeb/Pool via AP) Read More By JILL COLVIN and ERIC TUCKER Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit WASHINGTON (AP) \u2014 President Donald Trump released a trove of documents during a primetime address to the nation that allies had hyped as a smoking gun that would prove his long-debunked allegations of mass voter fraud. Speaking from the White House on Thursday night, he described shocking revelations, like Chinese meddling to undermine his failed candidacy in 2020 and a cover-up by the \u201cdeep state.\u201d He claimed, \u201cAmericans were blatantly lied to about the security of our election infrastructure.\u201d But a review by The Associated Press found...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 2883
   },
   "86cc4fc23989924b7c1da3b6def28869cffab415d13d39960bb85d34f6d58857": {
     "access_status": "available",
@@ -30771,6 +31093,32 @@
     ],
     "word_count": 2515
   },
+  "acb053c0c15674c7058955220c8d6ad41527b56dc469355ed63782b4cc46d1a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Fraudster who used \u00a3200,000 Covid loans to invest in stocks is jailed 9 hours ago Share Save Add as preferred on Google Matt Murray , Merthyr Crown Court and Colette Hume , BBC Wales BBC Rupali Wagh previously admitted five counts of fraud by false representation A businesswoman who fraudulently claimed about \u00a3200,000 in Covid loans because of a \"messy divorce\" has been jailed. Rupali Wagh, 51, from Cardiff, fraudulently claimed the money from the UK government-backed scheme designed to support businesses through the pandemic between May and September 2020. She inflated the value of her businesses and used the money to invest in stocks and shares, as well as clearing credit card debts. She pleaded guilty to five counts of fraud in November and was jailed for two years and three months at Merthyr Tydfil Crown Court on Friday. Judge David Wynn Morgan said \"it was wholly dishonest for personal gain\". Wagh secured \u00a3216,250 - five Bounce Back Loans and also two other loans - for her companies, when businesses were only entitled to one. Her first fraudulent application came in May 2020 when she applied for a \u00a316,250 Bounce Back loan for One2Four Accounting Ltd - a bookkeeping services company she set up in June 2018. She declared the company had a turnover of \u00a365,000 and the funds would be used wholly for business purposes. In reality, the company's turnover for the previous...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2256
+  },
   "acc42ff3bdafd6cf65dedf60e7ea9c427e3d6bebc366b67a1d226b87f13366d3": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -32948,6 +33296,39 @@
     ],
     "word_count": 1552
   },
+  "b8b9bbb9561f7b32dd88440875478d60e193ae18c36f64da42b70888168a6b4b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u201cDue to ICE\u2019s re-prioritized mission,\u201d the document reads, \u201cthere is a need for the data to be readily accessible to support the presidential mandate of the identification of Voters fraud, Immigration Fraud, and National Security.\u201d The document does not explain why ICE would need to identify unaccompanied minors, which is typically the remit of the Department of Health and Human Services (HHS), or how Thomson Reuters\u2019 data would be used to combat voter fraud or immigration fraud. When reached for comment, Thomson Reuters spokesperson Kat Hanley tells WIRED that its identification work for ICE may include \u201cvetting the sponsors of children entering the country\u201d to ensure the children\u2019s \u201cwelfare and safety.\u201d The annual payment of $25 million marks a dramatic increase in the value of Thomson Reuters\u2019 work with ICE. The previous equivalent contract was worth $24 million total over a five-year period. Though ICE has been buying data from Thomson Reuters since 2008 , the contract justification indicates that the Trump administration hopes to expand the scope of how Thomson Reuters data is used by federal immigration officials. It is yet another indicator of the ever-expanding reach of President Donald Trump\u2019s crackdown on immigration. The Department of Homeland Security (DHS) claims in the document that Thomson Reuters Special Services (TRSS) is \u201cthe only contractor\u201d that can provide...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:30+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 6424
+  },
   "b8db3f3886116e743eb5d131a63f404026487315c75a65e12c2a8f158b1b36f0": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -33069,6 +33450,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "b96d943b3f38f85294d12cd067302430458377a6babfe35a4f90e8f258f5278d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
   },
   "b98e9bb1efb3e843937f2bf5a40124467b5e9c22c61e9a59b2378735ce8acc17": {
     "access_status": "available",
@@ -34117,6 +34524,30 @@
       "fraud"
     ],
     "word_count": 812
+  },
+  "bedc35e355f069a932160b51102b94c2bdb16db5a59f10e2958a7365421a26b7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "bef9e05cf3a7469918620a1f7dded4d209d0cf6a303af5f4fe47d0a6594d865a": {
     "access_status": "available",
@@ -36049,6 +36480,42 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "c974b4eac83809c48c77f774cc67ba5c1a3700da40106289aba255f472ca1a1d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Fraudster jailed over \u00a311.5m scam targeting elderly 9 hours ago Share Save Add as preferred on Google George King , Suffolk and Pol Allingham , Press Association ERSOU Steven Long was sentenced to eight years and four months in jail A fraudster who stole millions of pounds from 115 victims in a scam targeting elderly people has been jailed for eight years and four months. Steven Long, of Mead Road, in Stowmarket, Suffolk, ran several businesses under the banner of the Ipswich-based Universal Wealth Preservation (UWP). The 59-year-old invested the savings of his customers in unsustainable high-risk schemes without their knowledge, resulting in losses of \u00a311,577,762. Long pleaded guilty to two counts of fraud by abuse of position before being jailed at Southwark Crown Court in London. ERSOU Raymond Simpson was said to be the \"the primary mover in the deals\" His business associate and co-defendant, Raymond Simpson, who lives in Portugal, was sentenced to five and a half years for the same offences. Simpson was tried and convicted in his absence and a warrant for his arrest has been issued. Judge Gregory Perrins said: \"No sentence I impose today will feel long enough to those who have suffered so much.\" ERSOU Long purchased villas from clients' money, including this one The pair's offending between 2008 and 2018 was revealed after Long's wealth management business group UWP...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1196
+  },
   "c976bdeb5d238facf6bdfcb04a2a1d5067ac7285c7483581755f4ed0afcb34a1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -36298,6 +36765,40 @@
       "cybersecurity"
     ],
     "word_count": 2475
+  },
+  "ca65047a033145bdf9f07cad7d129b1ac9d868bc99c4b50c0ea9b9b0807cfe16": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 8
   },
   "ca996557316a33b5105dcdfd7b2a988dfc7447b8b835c48f3389a57073ba1842": {
     "access_status": "available",
@@ -36679,6 +37180,33 @@
       "trust"
     ],
     "word_count": 4062
+  },
+  "cc1b2f655000fdd9de8133f38c3eb83e803a5880051e2a3bb8cdabca0e2666de": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms 16 hours ago Share Save Add as preferred on Google Bernd Debusmann Jr , White House reporter and Anthony Zurcher , North America correspondent EPA US President Donald Trump has delivered a primetime address in which he accused China of interfering in the 2020 election and alleged \"shocking vulnerabilities\" in American voting systems. Trump, who spoke from the White House on Thursday, has repeatedly made unsubstantiated claims about voter fraud and foreign meddling in the 2020 election, which he lost to Joe Biden. In the half-hour speech, delivered three months before the midterm elections, he said he had declassified hundreds of intelligence files which supported his claims that Beijing had tried to sway the election in Biden's favour. The US intelligence community has previously concluded China did not interfere in the 2020 election. In response to his speech, China's foreign ministry strongly denied the allegations of Chinese meddling in the 2020 presidential election, saying they were \"entirely fabricated\". Trump's claims are \"malicious smears\" which have \"long been proven to be groundless\", foreign ministry spokesman Lin Jian said. Trump spoke in front of several members of his top team as he gave his address, but journalists were unable to put questions to the president. In his...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 2883
   },
   "cc1ea964f6a55a8681a3bc96bae8bf5332a959336dcef297e48d5df41b98c3f5": {
     "access_status": "available",
@@ -38159,6 +38687,30 @@
       "identity"
     ],
     "word_count": 4036
+  },
+  "d4940c8e86cb59c3c54e80ef3b7f0e6023a4862406d9afdb7ad2840127bc663d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "d545ac0d176c6109dce5ddaf831dea1f55e14eb0abb5280f769c25bb6cfb1122": {
     "access_status": "available",
@@ -40272,6 +40824,40 @@
     ],
     "word_count": 3910
   },
+  "e14cb1e72ba7cbf81f6090e6e7f4d3bda46c04de705962fd5570fdb57c9cbc15": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Explore the ABC Program: Hundreds arrested as Timor-Leste cracks down on scam centres Program: Pacific Review Sat 18 Jul 2026 at 4:00am Sat 18 Jul 2026 at 4:00am Sat 18 Jul 2026 at 4:00am Space to play or pause, M to mute, left and right arrows to seek, up and down arrows for volume. Play Duration: 25 minutes 31 seconds 25 m Presented by Evan Wasuka On the program today: More than 300 foreign workers have been arrested as Timor-Leste cracks down on suspected scam centres in the capital, Dili. Papua New Guinea police are hunting a group of men who tortured and attacked two elderly women, accused of sorcery in Enga Province. The United States is looking to Pacific countries to access deep-sea minerals as it looks to reduce its reliance on China. Papua New Guinea has begun drafting laws designed to protect people from the harmful misuse of AI, including deepfakes, voice cloning and digital impersonation. Fijian cameraman Lanza Coffin started out as a wedding photographer; now he's been nominated for an Emmy for his work on a reality TV show. Credits Evan Wasuka, Presenter Program: More from Pacific Review Papua New Guinea, Timor-Leste, Cook Islands, Pacific, Film Industry, Scams and Fraud, Crime, Mining Environmental Issues, AI Back to top Program: Hundreds arrested as Timor-Leste cracks down on scam centres Program: Pacific Review Sat 18 Jul 2026 at 4:00am Presented by On the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 498
+  },
   "e15a4cdc8133adfeb43d41e100db18691b657139c4fca56e742635943e6299ad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -42363,6 +42949,32 @@
     ],
     "word_count": 25568
   },
+  "eea8c736faee07c3d09a6cae84500ab01f6134d6aa5e4abb3741c7479ece16df": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Access Denied. The page you were trying to reach is forbidden . Please return to the previous page.",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 17
+  },
   "eeae9c87f680acca5302c8e82b7c3cdbf287a431560ea237b36433e582615bac": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -42719,6 +43331,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 482
+  },
+  "f0f2b822e9709ba00f0b5258d5dc6937016cf6665dff7496efe560002291132f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "We live in an especially hilly area of Atlanta, which is an especially hilly city, and we\u2019d both just gotten bonuses at work, making the nearly $2,000 per bike feel, for a moment, digestible. We placed our orders online, and days later, my fianc\u00e9e\u2019s beautiful, feature-rich bike arrived at our door. Mine, bought separately from a different retailer, was delayed, then delayed again, and again. Finally, one Wednesday evening, I got a text from FedEx confirming that my bike had been delivered to our address and signed for. This seemed impossible, considering that when the text arrived, I was standing in my kitchen, bicycle-less, air-frying a batch of chicken thighs. I checked outside our apartment; my package wasn\u2019t there. So, I checked my order confirmation, only to learn the bike had been signed for by someone with the mysterious initials \u201cM.M.,\u201d which don\u2019t match those of myself, my fianc\u00e9e, or anyone in our building. Whether it was stolen, misplaced, or delivered to the wrong address didn\u2019t matter as much as finding a solution. I set out to do that the following day by calling FedEx's customer service line for help. What followed was a monthslong descent into the bowels of customer service hell, during which I spent hours in virtual, chatbot -governed waiting rooms\u2014with FedEx, the bicycle company, my bank, my credit card company, and even my local police department\u2014desperately...",
+    "cache_version": 8,
+    "checked_at": "2026-07-18T03:28:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 5366
   },
   "f1120b698452c9481c4a6456cca345d8b6a2ed51ab93a6c9170f228eecc65c4f": {
     "access_status": "available",
