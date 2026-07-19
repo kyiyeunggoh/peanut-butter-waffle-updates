@@ -33,6 +33,7 @@ URL_CACHE_PATH = ROOT / "data" / "url_cache.json"
 QUALITY_CACHE_PATH = ROOT / "data" / "quality_cache.json"
 CANDIDATE_CACHE_PATH = ROOT / "data" / "candidate_cache.json"
 RANKING_RUNS_PATH = ROOT / "data" / "ranking_runs.json"
+SEEN_NEAR_DUPLICATE_CACHE: dict[tuple[int, int, int, int], list[dict[str, Any]]] = {}
 CACHE_TTL_DAYS = 7
 CANDIDATE_CACHE_TTL_HOURS = 12
 CACHE_MAX_ENTRIES = 5000
@@ -1097,6 +1098,8 @@ def stable_hash(value: str) -> str:
 
 
 def canonicalize_url_text(url: str) -> str:
+    if not str(url or "").strip():
+        return ""
     parsed = urlparse(url)
     scheme = parsed.scheme.lower() or "https"
     hostname = (parsed.hostname or "").lower().removeprefix("www.")
@@ -1277,21 +1280,6 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
     queries: list[dict[str, str]] = []
     seen_source_domains: set[str] = set()
 
-    for domain in configured_monitored_sources(config or {}):
-        if not any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
-            continue
-        seen_source_domains.add(domain)
-        for term in CURRENT_AFFAIRS_PRIORITY_QUERY_TERMS:
-            query = f"site:{domain} {term}"
-            queries.append(
-                {
-                    "name": domain,
-                    "query": query,
-                    "url": google_news_rss_url(query),
-                    "priority": "monitored_current_affairs",
-                }
-            )
-
     targeted_queries = sorted(
         SPECIFIC_PRODUCT_RADAR_QUERIES,
         key=lambda query: (0 if is_longform_query_text(query) else 1, query.lower()),
@@ -1324,7 +1312,7 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
             terms = INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS + CURRENT_AFFAIRS_SOURCE_QUERY_TERMS
             priority = "monitored_investigative"
         elif any(domain.endswith(host) for host in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
-            terms = CURRENT_AFFAIRS_SOURCE_QUERY_TERMS
+            terms = CURRENT_AFFAIRS_PRIORITY_QUERY_TERMS + CURRENT_AFFAIRS_SOURCE_QUERY_TERMS
             priority = "monitored_current_affairs"
         else:
             terms = MONITORED_SOURCE_QUERY_TERMS
@@ -1584,7 +1572,7 @@ def fetch_reference_url_candidate(
         "evergreen_reference": evergreen,
         "access_status": access_status,
     }
-    if is_seen(candidate, seen):
+    if is_seen(candidate, seen, int(config.get("seen_near_duplicate_days", 365))):
         return None
     return candidate
 
@@ -1609,14 +1597,13 @@ def display_title(title: str) -> str:
 
 
 def title_fingerprint(title: str) -> str:
-    words = normalised_title(title).split()
+    words = normalize_title_for_dedupe(title).split()
     return " ".join(words[:14])
 
 
 def normalised_title(title: str) -> str:
     stripped = strip_publisher_suffix(title).lower()
-    translator = str.maketrans({char: " " for char in string.punctuation})
-    words = stripped.translate(translator).split()
+    words = re.sub(r"[^\w\s]", " ", stripped, flags=re.UNICODE).split()
     meaningful_words = [word for word in words if word not in STOPWORDS]
     return " ".join(meaningful_words)
 
@@ -1634,11 +1621,19 @@ def normalize_title_for_dedupe(title: str) -> str:
         "internal microsoft": "microsoft",
         "government officials": "government official",
         "fake zoom meeting": "fake zoom",
+        "extradited": "extradit",
+        "extradite": "extradit",
+        "charged": "charge",
+        "charges": "charge",
+        "scamming": "scam",
+        "scammed": "scam",
+        "scams": "scam",
+        "proceedings of the": "",
+        "conference on human factors in computing systems": "",
     }
     for old, new in replacements.items():
         cleaned = cleaned.replace(old, new)
-    translator = str.maketrans({char: " " for char in string.punctuation})
-    cleaned = cleaned.translate(translator)
+    cleaned = re.sub(r"[^\w\s]", " ", cleaned, flags=re.UNICODE)
     filler_words = STOPWORDS | {
         "official",
         "internal",
@@ -1654,13 +1649,38 @@ def normalize_title_for_dedupe(title: str) -> str:
         "into",
         "using",
         "use",
+        "socialite",
+        "face",
+        "amid",
+        "latest",
+        "proceedings",
+        "conference",
+        "computing",
+        "systems",
+        "abstract",
+        "arxiv",
+        "paper",
+        "preprint",
     }
-    words = [word for word in cleaned.split() if word not in filler_words]
+    words = [word for word in cleaned.split() if word not in filler_words and not word.isdigit()]
     return re.sub(r"\s+", " ", " ".join(words)).strip()
 
 
 def title_token_set(title: str) -> set[str]:
-    return {token for token in normalize_title_for_dedupe(title).split() if len(token) >= 3}
+    return {
+        token
+        for token in normalize_title_for_dedupe(title).split()
+        if len(token) >= 3 and not token.isdigit()
+    }
+
+
+def cached_title_token_set(item: dict[str, Any]) -> set[str]:
+    cached = item.get("_title_tokens")
+    if isinstance(cached, set):
+        return cached
+    if isinstance(cached, list):
+        return set(cached)
+    return title_token_set(item.get("title", ""))
 
 
 def url_slug_token_set(url: str) -> set[str]:
@@ -1681,6 +1701,9 @@ def token_similarity(left: set[str], right: set[str]) -> float:
 
 
 def parsed_date_key(item: dict[str, Any]) -> str:
+    cached = item.get("_parsed_date_key")
+    if isinstance(cached, str):
+        return cached
     parsed_date = item.get("parsed_date")
     if isinstance(parsed_date, datetime):
         return parsed_date.strftime("%Y-%m-%d")
@@ -1690,6 +1713,97 @@ def parsed_date_key(item: dict[str, Any]) -> str:
         except (TypeError, ValueError, OverflowError):
             return parsed_date[:10]
     return ""
+
+
+def parsed_date_value(item: dict[str, Any]) -> datetime | None:
+    cached = item.get("_parsed_date_value")
+    if isinstance(cached, datetime):
+        return cached
+    parsed_date = item.get("parsed_date")
+    if isinstance(parsed_date, datetime):
+        return parsed_date
+    if isinstance(parsed_date, str) and parsed_date:
+        try:
+            return date_parser.parse(parsed_date)
+        except (TypeError, ValueError, OverflowError):
+            return None
+    return None
+
+
+def parsed_dates_within_days(left: dict[str, Any], right: dict[str, Any], days: int) -> bool:
+    left_date = parsed_date_value(left)
+    right_date = parsed_date_value(right)
+    if left_date is None or right_date is None:
+        return False
+    if left_date.tzinfo is None:
+        left_date = left_date.replace(tzinfo=timezone.utc)
+    if right_date.tzinfo is None:
+        right_date = right_date.replace(tzinfo=timezone.utc)
+    return abs((left_date.date() - right_date.date()).days) <= days
+
+
+def story_distinctive_tokens(item: dict[str, Any]) -> set[str]:
+    cached = item.get("_story_distinctive_tokens")
+    if isinstance(cached, set):
+        return cached
+    if isinstance(cached, list):
+        return set(cached)
+    generic = {
+        "scam",
+        "fraud",
+        "charge",
+        "charged",
+        "charges",
+        "court",
+        "convict",
+        "convicts",
+        "minister",
+        "ministers",
+        "police",
+        "arrest",
+        "arrests",
+        "extradit",
+        "extradited",
+        "extradite",
+        "elderly",
+        "americans",
+        "news",
+        "article",
+    }
+    return {
+        token
+        for token in cached_title_token_set(item)
+        if token not in generic and not token.isdigit() and len(token) >= 4
+    }
+
+
+def has_scam_or_enforcement_context(item: dict[str, Any]) -> bool:
+    text = f"{item.get('title', '')} {item.get('canonical_url') or item.get('url') or ''}".lower()
+    return any(term in text for term in ("scam", "fraud", "phishing", "sanction", "extradit", "charged", "charge", "court", "convict"))
+
+
+def is_research_like_story(item: dict[str, Any]) -> bool:
+    domain = article_domain(item)
+    academic_domains = (
+        "arxiv.org",
+        "ssrn.com",
+        "osf.io",
+        "dl.acm.org",
+        "acm.org",
+        "ieee.org",
+        "usenix.org",
+        "ndss-symposium.org",
+    )
+    return item.get("article_type") == "Research paper" or any(domain.endswith(host) for host in academic_domains)
+
+
+def is_likely_homepage_or_index_url(item: dict[str, Any]) -> bool:
+    url = item.get("canonical_url") or item.get("url") or item.get("original_url") or ""
+    parsed = urlparse(url)
+    path = parsed.path.rstrip("/").lower()
+    if not parsed.hostname:
+        return False
+    return path in {"", "/blog", "/news", "/reports", "/insights", "/security", "/category"}
 
 
 def same_story_key(candidate: dict[str, Any]) -> str:
@@ -1716,8 +1830,8 @@ def near_duplicate_reason(left: dict[str, Any], right: dict[str, Any]) -> str | 
     if left_fingerprint and right_fingerprint and left_fingerprint == right_fingerprint:
         return "same_title_fingerprint"
 
-    left_title_tokens = title_token_set(left.get("title", ""))
-    right_title_tokens = title_token_set(right.get("title", ""))
+    left_title_tokens = cached_title_token_set(left)
+    right_title_tokens = cached_title_token_set(right)
     title_similarity = token_similarity(left_title_tokens, right_title_tokens)
     same_domain = article_domain(left) == article_domain(right)
     same_date = parsed_date_key(left) and parsed_date_key(left) == parsed_date_key(right)
@@ -1732,6 +1846,22 @@ def near_duplicate_reason(left: dict[str, Any], right: dict[str, Any]) -> str | 
             return "same_longform_investigation_prefer_full_article"
     if same_domain and same_date and title_similarity >= 0.55:
         return f"same_domain_date_title_similarity:{title_similarity:.2f}"
+
+    if same_domain and parsed_dates_within_days(left, right, 3):
+        shared_distinctive = story_distinctive_tokens(left) & story_distinctive_tokens(right)
+        both_scam_or_enforcement = has_scam_or_enforcement_context(left) and has_scam_or_enforcement_context(right)
+        if both_scam_or_enforcement and len(shared_distinctive) >= 2 and title_similarity >= 0.38:
+            return f"same_domain_near_date_story_tokens:{title_similarity:.2f}:{','.join(sorted(shared_distinctive)[:4])}"
+
+    shared_distinctive = story_distinctive_tokens(left) & story_distinctive_tokens(right)
+    left_research = is_research_like_story(left)
+    right_research = is_research_like_story(right)
+    if (left_research or right_research) and len(left_title_tokens & right_title_tokens) >= 6 and title_similarity >= 0.50:
+        return f"research_title_similarity:{title_similarity:.2f}"
+    if same_domain:
+        both_scam_or_enforcement = has_scam_or_enforcement_context(left) and has_scam_or_enforcement_context(right)
+        if both_scam_or_enforcement and len(shared_distinctive) >= 3 and title_similarity >= 0.42:
+            return f"same_domain_story_tokens:{title_similarity:.2f}:{','.join(sorted(shared_distinctive)[:4])}"
 
     left_slug_tokens = url_slug_token_set(left.get("canonical_url") or left.get("url") or "")
     right_slug_tokens = url_slug_token_set(right.get("canonical_url") or right.get("url") or "")
@@ -1754,6 +1884,55 @@ def near_duplicate(left: dict[str, Any], right: dict[str, Any]) -> bool:
     return near_duplicate_reason(left, right) is not None
 
 
+def seen_near_duplicate_candidates(
+    seen: dict[str, dict[str, Any]],
+    near_duplicate_days: int,
+) -> list[dict[str, Any]]:
+    seen_titles = seen.get("titles", {})
+    seen_stories = seen.get("stories", {})
+    cache_key = (id(seen), near_duplicate_days, len(seen_titles), len(seen_stories))
+    cached = SEEN_NEAR_DUPLICATE_CACHE.get(cache_key)
+    if cached is not None:
+        return cached
+
+    recent_cutoff = datetime.now(timezone.utc) - timedelta(days=near_duplicate_days)
+    candidates: list[dict[str, Any]] = []
+    for record in list(seen_titles.values()) + list(seen_stories.values()):
+        sent_at = record.get("sent_at")
+        if sent_at:
+            try:
+                sent_at_datetime = date_parser.parse(sent_at)
+                if sent_at_datetime.tzinfo is None:
+                    sent_at_datetime = sent_at_datetime.replace(tzinfo=timezone.utc)
+                if sent_at_datetime.astimezone(timezone.utc) < recent_cutoff:
+                    continue
+            except (TypeError, ValueError, OverflowError):
+                pass
+        title = record.get("raw_title") or record.get("title") or record.get("normalised_title", "")
+        seen_candidate = {
+            "title": title,
+            "canonical_url": record.get("url", ""),
+            "original_url": record.get("original_url", ""),
+            "parsed_date": record.get("parsed_date", ""),
+            "source_domain": record.get("source_domain", ""),
+            "article_type": record.get("article_type", ""),
+            "usefulness_category": record.get("usefulness_category", ""),
+            "title_fingerprint": record.get("normalized_title_fingerprint", ""),
+            "same_story_key": record.get("same_story_key", ""),
+        }
+        seen_candidate["_title_tokens"] = title_token_set(title)
+        seen_candidate["_article_domain"] = article_domain(seen_candidate)
+        seen_candidate["_parsed_date_key"] = parsed_date_key(seen_candidate)
+        parsed_value = parsed_date_value(seen_candidate)
+        if parsed_value is not None:
+            seen_candidate["_parsed_date_value"] = parsed_value
+        seen_candidate["_story_distinctive_tokens"] = story_distinctive_tokens(seen_candidate)
+        candidates.append(seen_candidate)
+
+    SEEN_NEAR_DUPLICATE_CACHE[cache_key] = candidates
+    return candidates
+
+
 def fingerprints_similar(left: str, right: str) -> bool:
     if not left or not right:
         return False
@@ -1768,6 +1947,9 @@ def fingerprints_similar(left: str, right: str) -> bool:
 
 
 def article_domain(item: dict[str, Any]) -> str:
+    cached = item.get("_article_domain")
+    if isinstance(cached, str):
+        return cached
     if item.get("source_domain"):
         return str(item.get("source_domain", "")).lower().removeprefix("www.")
     url = item.get("canonical_url") or item.get("url") or item.get("original_url") or item.get("link", "")
@@ -3406,6 +3588,8 @@ def final_ineligibility_reason(
         return "general_context"
     if article_type == "Other":
         return "other_article_type"
+    if is_likely_homepage_or_index_url(item):
+        return "homepage_or_index_url"
     if config and is_vendor_or_low_priority_source(item, config) and is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
         return "low_quality_vendor_spam"
     if relevance == "direct":
@@ -3735,13 +3919,13 @@ def build_quality_shortlist(
                     add_item(item)
                     added += 1
 
-    add_bucket(is_reputable_current_affairs_item, 3)
     add_bucket(is_non_academic_longform_operational_item, 4)
     add_bucket(is_longform_investigative_item, 3)
+    add_bucket(is_research_psychology_item, 3)
     add_bucket_prefer_non_research(lambda item: is_modus_infrastructure_item(item) or item.get("usefulness_category") == "Operational intelligence", 3)
     add_bucket_prefer_non_research(is_technical_platform_product_item, 3)
-    add_bucket(is_research_psychology_item, 2)
-    add_bucket(is_local_sea_item, 2)
+    add_bucket(is_reputable_current_affairs_item, 2)
+    add_bucket(is_local_sea_item, 1)
 
     for item in pool:
         if len(shortlist) >= shortlist_count:
@@ -3771,7 +3955,6 @@ def identify_must_include_candidates(items: list[dict[str, Any]], config: dict[s
     chosen: list[dict[str, Any]] = []
     chosen_keys: set[str] = set()
     buckets: list[tuple[Any, str]] = [
-        (is_reputable_current_affairs_item, "Best available reputable current-affairs / news / longform item"),
         (
             is_non_academic_longform_operational_item,
             "Best available non-academic longform / investigative / operational-intelligence item",
@@ -3783,6 +3966,7 @@ def identify_must_include_candidates(items: list[dict[str, Any]], config: dict[s
             "Best available scam infrastructure / modus-operandi / operational-intelligence item",
         ),
         (is_technical_platform_product_item, "Best available technical / platform / product / data-source item"),
+        (is_reputable_current_affairs_item, "Best available reputable current-affairs / news / longform item"),
     ]
     for predicate, reason in buckets:
         for item in pool:
@@ -3863,7 +4047,11 @@ def refresh_shortlist_quality(
         candidate["usefulness_category"] = classify_usefulness_category(candidate)
         candidate["source_reputation"] = source_reputation(candidate, config)
         candidate["quality_score"] = compute_quality_score(candidate, config)
+        candidate = corrected_final_item(candidate)
         rejection_reason = quality_rejection_reason(candidate, config)
+        final_rejection_reason = final_ineligibility_reason(candidate, config, allow_adjacent=False)
+        if final_rejection_reason and not soft_final_rejection_allowed(candidate, config):
+            rejection_reason = final_rejection_reason
         if rejection_reason and not soft_final_rejection_allowed(candidate, config):
             candidate["rejection_reason"] = rejection_reason
             candidate["quality_rejected"] = True
@@ -4014,7 +4202,6 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
         if match:
             selected.append(match)
 
-    add_match(is_reputable_current_affairs_item)
     add_match(is_non_academic_longform_operational_item)
     add_match(is_psychology_item)
     add_match(is_investigative_or_operational_item)
@@ -4024,6 +4211,7 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
     add_match(is_technical_item)
     add_match(is_deep_analysis_item)
     add_match(is_platform_product_item)
+    add_match(is_reputable_current_affairs_item)
     add_match(is_scam_development_item)
     add_match(is_local_sea_item, strict=True)
 
@@ -4634,7 +4822,11 @@ def category_recency_adjustment(item: dict[str, Any], config: dict[str, Any], no
     return 0
 
 
-def is_seen(candidate: dict[str, Any], seen: dict[str, dict[str, Any]]) -> bool:
+def is_seen(
+    candidate: dict[str, Any],
+    seen: dict[str, dict[str, Any]],
+    near_duplicate_days: int | None = None,
+) -> bool:
     seen_urls = seen.get("urls", {})
     seen_titles = seen.get("titles", {})
     seen_stories = seen.get("stories", {})
@@ -4652,25 +4844,24 @@ def is_seen(candidate: dict[str, Any], seen: dict[str, dict[str, Any]]) -> bool:
     if any(item_hash in seen_urls for item_hash in url_hashes if item_hash) or fingerprint in seen_titles or story_key in seen_stories:
         return True
 
-    recent_cutoff = datetime.now(timezone.utc) - timedelta(days=30)
-    for record in list(seen_titles.values()) + list(seen_stories.values()):
-        sent_at = record.get("sent_at")
-        if sent_at:
-            try:
-                sent_at_datetime = date_parser.parse(sent_at)
-                if sent_at_datetime.tzinfo is None:
-                    sent_at_datetime = sent_at_datetime.replace(tzinfo=timezone.utc)
-                if sent_at_datetime.astimezone(timezone.utc) < recent_cutoff:
-                    continue
-            except (TypeError, ValueError, OverflowError):
-                pass
-        seen_candidate = {
-            "title": record.get("raw_title") or record.get("title") or record.get("normalised_title", ""),
-            "canonical_url": record.get("url", ""),
-            "original_url": record.get("original_url", ""),
-            "parsed_date": record.get("parsed_date", ""),
-            "source_domain": record.get("source_domain", ""),
-        }
+    if near_duplicate_days is None:
+        near_duplicate_days = int(os.getenv("SEEN_NEAR_DUPLICATE_DAYS", "365"))
+    candidate_tokens = cached_title_token_set(candidate)
+    candidate_domain = article_domain(candidate)
+    candidate_research = is_research_like_story(candidate)
+    candidate["_title_tokens"] = candidate_tokens
+    candidate["_article_domain"] = candidate_domain
+    candidate["_parsed_date_key"] = parsed_date_key(candidate)
+    parsed_value = parsed_date_value(candidate)
+    if parsed_value is not None:
+        candidate["_parsed_date_value"] = parsed_value
+    candidate["_story_distinctive_tokens"] = story_distinctive_tokens(candidate)
+    for seen_candidate in seen_near_duplicate_candidates(seen, near_duplicate_days):
+        seen_tokens = cached_title_token_set(seen_candidate)
+        same_domain = candidate_domain and candidate_domain == article_domain(seen_candidate)
+        token_overlap = len(candidate_tokens & seen_tokens)
+        if not same_domain and not candidate_research and not is_research_like_story(seen_candidate) and token_overlap < 4:
+            continue
         if near_duplicate(candidate, seen_candidate):
             return True
     return False
@@ -4891,7 +5082,7 @@ def fetch_candidates(
                 continue
             date_filtered_count += 1
 
-            if is_seen(candidate, seen):
+            if is_seen(candidate, seen, int(config.get("seen_near_duplicate_days", 365))):
                 seen_filtered_count += 1
                 continue
             if original_url_hash in deduped_by_url:
@@ -5253,13 +5444,14 @@ def filter_seen_and_dedupe_candidates(
     candidates: list[dict[str, Any]],
     seen: dict[str, dict[str, Any]],
     stats: dict[str, int],
+    near_duplicate_days: int = 365,
 ) -> list[dict[str, Any]]:
     now = datetime.now(timezone.utc)
     filtered: list[dict[str, Any]] = []
     seen_urls: set[str] = set()
 
     for candidate in candidates:
-        if is_seen(candidate, seen):
+        if is_seen(candidate, seen, near_duplicate_days):
             stats["seen_filtered_candidate_count"] += 1
             continue
         if candidate["canonical_url_hash"] in seen_urls:
@@ -6218,7 +6410,7 @@ def rerank_cached_candidates(
     reranked_all: list[dict[str, Any]] = []
     for cached in cached_candidates:
         candidate = candidate_from_cache(cached)
-        if is_seen(candidate, seen):
+        if is_seen(candidate, seen, int(config.get("seen_near_duplicate_days", 365))):
             stats["seen_filtered_candidate_count"] += 1
             continue
         candidate["article_type"] = classify_article_type(candidate)
@@ -6494,6 +6686,7 @@ def run_pipeline(
         ranked_candidates,
         seen,
         stats,
+        int(config.get("seen_near_duplicate_days", 365)),
     )
     quality_started = time.monotonic()
     ranked_candidates, quality_ranked_candidates = apply_quality_filters(ranked_candidates, config, stats, quality_cache)

@@ -13,6 +13,7 @@ preferred_max_articles_to_send: 4
 min_final_quality_score: 80
 min_direct_anti_scam_items: 3
 seen_retention_days: 365
+seen_near_duplicate_days: 365
 max_rss_queries_per_run: 120
 max_google_news_candidates: 3000
 max_arxiv_candidates: 300
