@@ -1059,6 +1059,9 @@ def load_candidate_cache(config: dict[str, Any], require_fresh: bool = True) -> 
 
 
 def save_candidate_cache(candidates: list[dict[str, Any]], config: dict[str, Any]) -> None:
+    if not candidates and os.getenv("ALLOW_EMPTY_CANDIDATE_CACHE_WRITE", "").lower() not in {"1", "true", "yes"}:
+        print("Skipping candidate cache write because candidate list is empty.")
+        return
     now = datetime.now(timezone.utc)
     payload = {
         "created_at": now.isoformat(timespec="seconds"),
@@ -6657,6 +6660,54 @@ def run_pipeline(
             "cache_info": cache_info,
             "config": config,
         }
+    if int(stats.get("raw_candidate_count", 0)) == 0:
+        if allow_cache_fallback:
+            cached_candidates, loaded_cache_info = load_candidate_cache(config, require_fresh=True)
+            if cached_candidates:
+                print("Fresh fetch returned zero raw candidates; using fresh candidate cache fallback.")
+                cache_info.update(loaded_cache_info)
+                cache_info["fetch_skipped"] = True
+                cache_info["cache_fallback_used"] = True
+                ranked_candidates, quality_ranked_candidates, stats = rerank_cached_candidates(cached_candidates, config, seen)
+                timing["fetch_runtime_seconds"] = time.monotonic() - fetch_started
+                timing["url_resolution_runtime_seconds"] = 0.0
+                timing["quality_inspection_runtime_seconds"] = 0.0
+                ranked_candidates, shortlist = build_pre_gemini_shortlist(
+                    ranked_candidates,
+                    shortlist_count,
+                    config,
+                    stats,
+                )
+                if resolve_urls and shortlist:
+                    resolve_started = time.monotonic()
+                    url_cache = load_cache(URL_CACHE_PATH)
+                    quality_cache = load_cache(QUALITY_CACHE_PATH)
+                    shortlist = canonicalise_top_candidates(
+                        shortlist,
+                        limit=len(shortlist),
+                        max_google_news_to_resolve=len(shortlist),
+                        stats=stats,
+                        url_cache=url_cache,
+                    )
+                    shortlist = refresh_shortlist_quality(shortlist, config, quality_cache, stats)
+                    timing["url_resolution_runtime_seconds"] = time.monotonic() - resolve_started
+                    save_cache(URL_CACHE_PATH, url_cache)
+                    save_cache(QUALITY_CACHE_PATH, quality_cache)
+                stats["ranked_unseen_candidate_count"] = len(ranked_candidates)
+                return {
+                    "rss_queries_run": 0,
+                    "raw_candidates": cached_candidates,
+                    "date_filtered_candidates": cached_candidates,
+                    "seen_filtered_count": stats["seen_filtered_candidate_count"],
+                    "ranked_candidates": ranked_candidates,
+                    "quality_ranked_candidates": quality_ranked_candidates,
+                    "shortlist": shortlist,
+                    "stats": stats,
+                    "timing": timing,
+                    "cache_info": cache_info,
+                    "config": config,
+                }
+        raise RuntimeError("Fresh fetch returned zero raw candidates; refusing to continue or overwrite candidate cache.")
     timing["fetch_runtime_seconds"] = time.monotonic() - fetch_started
     raw_candidates = list(ranked_candidates)
 
