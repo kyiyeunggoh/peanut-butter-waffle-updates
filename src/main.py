@@ -6383,7 +6383,10 @@ def send_telegram_message(message: str) -> None:
         "disable_web_page_preview": False,
     }
 
-    response = requests.post(url, json=payload, timeout=30)
+    try:
+        response = requests.post(url, json=payload, timeout=30)
+    except requests.RequestException as exc:
+        raise RuntimeError(f"Telegram send failed before receiving an API response: {exc.__class__.__name__}") from None
 
     if not response.ok:
         print("Telegram API error status:", response.status_code)
