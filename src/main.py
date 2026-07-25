@@ -6103,6 +6103,25 @@ def build_cost_run(
     return run
 
 
+def no_llm_cost_data(reason: str) -> dict[str, Any]:
+    return {
+        "model": os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite"),
+        "used_llm": False,
+        "estimated_input_tokens": 0,
+        "estimated_output_tokens": 0,
+        "estimated_cost_usd": 0.0,
+        "actual_prompt_tokens": None,
+        "actual_output_tokens": None,
+        "actual_thoughts_tokens": None,
+        "actual_total_tokens": None,
+        "actual_cost_usd": None,
+        "gemini_attempts": 0,
+        "gemini_max_attempts": int(os.getenv("GEMINI_MAX_ATTEMPTS", "3")),
+        "gemini_failed_attempts": [],
+        "fallback_reason": reason,
+    }
+
+
 def write_github_summary(run: dict[str, Any]) -> None:
     summary_path = os.getenv("GITHUB_STEP_SUMMARY")
     if not summary_path:
@@ -6333,14 +6352,14 @@ def format_digest(items: list[dict[str, Any]]) -> str:
     return "\n".join(lines)
 
 
-def format_no_items_message() -> str:
+def format_no_items_message(reason: str | None = None) -> str:
     today_datetime = datetime.now(timezone.utc)
     return "\n".join(
         [
             "🕵️ AI Abuse & Scam Radar",
             today_datetime.strftime("%d %b %Y"),
             "",
-            "No strong new AI abuse / scam-relevant items found today. Useful paranoia resumes tomorrow.",
+            reason or "No strong new AI abuse / scam-relevant items found today. Useful paranoia resumes tomorrow.",
         ]
     )
 
@@ -6796,6 +6815,19 @@ def main() -> None:
         print_url_decode_test(sys.argv[flag_index + 1])
         return
 
+    if "--test-telegram" in sys.argv:
+        send_telegram_message(
+            "\n".join(
+                [
+                    "🕵️ AI Abuse & Scam Radar",
+                    datetime.now(timezone.utc).strftime("%d %b %Y"),
+                    "",
+                    "Delivery test: Telegram channel posting is working.",
+                ]
+            )
+        )
+        return
+
     config = load_config()
     dry_run_no_resolve = "--dry-run-no-resolve" in sys.argv
     dry_run = dry_run_no_resolve or "--dry-run" in sys.argv or os.getenv("DRY_RUN", "").lower() in {"1", "true", "yes"}
@@ -6816,16 +6848,37 @@ def main() -> None:
     min_items = min(max_items, int(os.getenv("MIN_ARTICLES_TO_SEND", config.get("min_articles_to_send", "1"))))
     seen_retention_days = int(os.getenv("SEEN_RETENTION_DAYS", config.get("seen_retention_days", "365")))
     seen = prune_seen(load_seen(), seen_retention_days)
-    pipeline = run_pipeline(
-        config,
-        seen,
-        resolve_urls=not dry_run_no_resolve,
-        debug=debug,
-        use_cache=use_cache,
-        refresh_cache=refresh_cache,
-        rerank_cache=rerank_cache,
-        allow_cache_fallback=not disable_cache_fallback,
-    )
+    try:
+        pipeline = run_pipeline(
+            config,
+            seen,
+            resolve_urls=not dry_run_no_resolve,
+            debug=debug,
+            use_cache=use_cache,
+            refresh_cache=refresh_cache,
+            rerank_cache=rerank_cache,
+            allow_cache_fallback=not disable_cache_fallback,
+        )
+    except Exception as exc:
+        if dry_run or dry_run_with_llm:
+            raise
+        print(f"Pipeline failed before candidate selection: {exc}")
+        fallback_reason = "pipeline_failed_before_candidate_selection"
+        run = build_cost_run(
+            "send",
+            no_llm_cost_data(fallback_reason),
+            candidate_count=0,
+            shortlist_count=0,
+            sent_count=0,
+        )
+        save_cost_log(run)
+        write_github_summary(run)
+        message = format_no_items_message(
+            "Radar fetch failed before candidate selection today. Useful paranoia resumes tomorrow."
+        )
+        send_telegram_message(message)
+        print(f"total runtime seconds: {time.monotonic() - total_started:.2f}")
+        return
     ranked_candidates = pipeline["ranked_candidates"]
     shortlist = pipeline["shortlist"]
 
@@ -6841,11 +6894,37 @@ def main() -> None:
         print("No new items to send: ranked_candidates is empty after the shared pipeline.")
         if pipeline["stats"].get("unresolved_google_news_candidate_count", 0):
             print("Some candidates were excluded because their Google News URLs could not be resolved.")
+        if not dry_run and not dry_run_with_llm:
+            fallback_reason = "no_ranked_candidates"
+            run = build_cost_run(
+                "send",
+                no_llm_cost_data(fallback_reason),
+                candidate_count=0,
+                shortlist_count=0,
+                sent_count=0,
+                pipeline=pipeline,
+            )
+            save_cost_log(run)
+            write_github_summary(run)
+            send_telegram_message(format_no_items_message())
         return
 
     if not shortlist:
         print_pipeline_report(pipeline)
         print("No new items to send.")
+        if not dry_run and not dry_run_with_llm:
+            fallback_reason = "no_shortlist"
+            run = build_cost_run(
+                "send",
+                no_llm_cost_data(fallback_reason),
+                candidate_count=len(ranked_candidates),
+                shortlist_count=0,
+                sent_count=0,
+                pipeline=pipeline,
+            )
+            save_cost_log(run)
+            write_github_summary(run)
+            send_telegram_message(format_no_items_message())
         return
 
     gemini_started = time.monotonic()

@@ -13,6 +13,11 @@ on:
         required: false
         default: "false"
         type: boolean
+      telegram_smoke_test:
+        description: "Send only a short Telegram delivery test, without running the digest pipeline"
+        required: false
+        default: "false"
+        type: boolean
   schedule:
     # Staggered attempts for 08:13, 08:43, and 09:13 Asia/Singapore.
     # GitHub scheduled workflows can be delayed or occasionally dropped;
@@ -107,7 +112,7 @@ jobs:
           print(f"daily_guard skip={skip} force_send={force_send} today_sg={today_sg.isoformat()} reason={'; '.join(reasons) if reasons else 'not previously sent today'}")
           PY
         env:
-          FORCE_SEND_EVEN_IF_ALREADY_SENT_TODAY: ${{ github.event_name == 'workflow_dispatch' && inputs.force_send_even_if_already_sent_today && 'true' || 'false' }}
+          FORCE_SEND_EVEN_IF_ALREADY_SENT_TODAY: ${{ github.event_name == 'workflow_dispatch' && (inputs.force_send_even_if_already_sent_today || inputs.telegram_smoke_test) && 'true' || 'false' }}
 
       - name: Install dependencies
         if: steps.daily_guard.outputs.skip != 'true'
@@ -132,7 +137,13 @@ jobs:
           MIN_ARTICLES_TO_SEND: ${{ vars.MIN_ARTICLES_TO_SEND || '1' }}
           MAX_ARTICLES_TO_SEND: ${{ vars.MAX_ARTICLES_TO_SEND || '5' }}
           DISABLE_CANDIDATE_CACHE_FALLBACK: ${{ github.event_name == 'workflow_dispatch' && inputs.require_fresh_fetch && 'true' || 'false' }}
-        run: python src/main.py
+          TELEGRAM_SMOKE_TEST: ${{ github.event_name == 'workflow_dispatch' && inputs.telegram_smoke_test && 'true' || 'false' }}
+        run: |
+          if [ "${TELEGRAM_SMOKE_TEST}" = "true" ]; then
+            python src/main.py --test-telegram
+          else
+            python src/main.py
+          fi
 
       - name: Save seen items
         if: steps.daily_guard.outputs.skip != 'true'
