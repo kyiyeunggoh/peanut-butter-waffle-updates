@@ -1246,6 +1246,34 @@
       "url": "https://arxiv.org/html/2607.11707v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-07-17|capabilities characterizing javascript pages phishing": {
+      "article_type": "Research paper",
+      "normalised_title": "characterizing phishing pages javascript capabilities",
+      "normalized_title_fingerprint": "characterizing phishing pages javascript capabilities",
+      "original_url": "https://arxiv.org/html/2509.13186v2",
+      "parsed_date": "2026-07-17",
+      "raw_title": "Characterizing phishing pages by JavaScript Capabilities - arXiv",
+      "same_story_key": "arxiv.org|2026-07-17|capabilities characterizing javascript pages phishing",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "characterizing phishing pages javascript capabilities",
+      "url": "https://arxiv.org/html/2509.13186v2",
+      "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-07-19|detection evaluating generative measuring models performance scam": {
+      "article_type": "Research paper",
+      "normalised_title": "measuring evaluating performance generative ai models scam detection",
+      "normalized_title_fingerprint": "measuring evaluating performance generative ai models scam detection",
+      "original_url": "https://arxiv.org/html/2607.17353v1",
+      "parsed_date": "2026-07-19",
+      "raw_title": "Measuring and Evaluating the Performance of Generative AI Models for Scam Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-07-19|detection evaluating generative measuring models performance scam",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "measuring evaluating performance generative ai models scam detection",
+      "url": "https://arxiv.org/html/2607.17353v1",
+      "usefulness_category": "Product idea / data source"
+    },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -1790,6 +1818,20 @@
       "source_domain": "channelnewsasia.com",
       "title": "victims lose more than s 259 000 courier phishing scams since jun 24",
       "url": "https://www.channelnewsasia.com/singapore/scam-police-fraud-victims-money-couriers-6255511",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "channelnewsasia.com|2026-07-21|asia billion crime gangs more nations online pacific": {
+      "article_type": "News report",
+      "normalised_title": "crime gangs snare more than us 88 billion scams asia pacific un says",
+      "normalized_title_fingerprint": "crime gangs snare more than us billion scam asia pacific un",
+      "original_url": "https://www.channelnewsasia.com/asia/crime-gangs-online-scam-syndicates-united-nations-6267226",
+      "parsed_date": "2026-07-21",
+      "raw_title": "Crime gangs snare more than US$88 billion in scams in Asia-Pacific, UN says - CNA",
+      "same_story_key": "channelnewsasia.com|2026-07-21|asia billion crime gangs more nations online pacific",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "crime gangs snare more than us 88 billion scams asia pacific un says",
+      "url": "https://www.channelnewsasia.com/asia/crime-gangs-online-scam-syndicates-united-nations-6267226",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
@@ -3191,6 +3233,20 @@
       "title": "livestream replay inside world online romance scams",
       "url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-07-24|appear compounds expanding giant images keep nowhere out": {
+      "article_type": "Investigative report",
+      "normalised_title": "satellite images reveal suspected scam compounds appear out nowhere",
+      "normalized_title_fingerprint": "satellite images reveal suspected scam compounds appear out nowhere",
+      "original_url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
+      "parsed_date": "2026-07-24",
+      "raw_title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere - WIRED",
+      "same_story_key": "wired.com|2026-07-24|appear compounds expanding giant images keep nowhere out",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "wired.com",
+      "title": "satellite images reveal suspected scam compounds appear out nowhere",
+      "url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -3650,6 +3706,18 @@
       "title": "casino boss was landlord chinese scammers human traffickers",
       "usefulness_category": "Scam development"
     },
+    "characterizing phishing pages javascript capabilities": {
+      "article_type": "Research paper",
+      "normalised_title": "characterizing phishing pages javascript capabilities",
+      "normalized_title_fingerprint": "characterizing phishing pages javascript capabilities",
+      "parsed_date": "2026-07-17",
+      "raw_title": "Characterizing phishing pages by JavaScript Capabilities - arXiv",
+      "same_story_key": "arxiv.org|2026-07-17|capabilities characterizing javascript pages phishing",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "characterizing phishing pages javascript capabilities",
+      "usefulness_category": "Research / novel method"
+    },
     "characterizing scam driven human trafficking across chinese borders online community responses rednote": {
       "article_type": "Research paper",
       "normalised_title": "characterizing scam driven human trafficking across chinese borders online community responses rednote",
@@ -3769,6 +3837,18 @@
       "source_domain": "arxiv.org",
       "title": "context aware spear phishing generative ai enabled attacks against individuals via public social media data",
       "usefulness_category": "Research / novel method"
+    },
+    "crime gangs snare more than us billion scam asia pacific un": {
+      "article_type": "News report",
+      "normalised_title": "crime gangs snare more than us 88 billion scams asia pacific un says",
+      "normalized_title_fingerprint": "crime gangs snare more than us billion scam asia pacific un",
+      "parsed_date": "2026-07-21",
+      "raw_title": "Crime gangs snare more than US$88 billion in scams in Asia-Pacific, UN says - CNA",
+      "same_story_key": "channelnewsasia.com|2026-07-21|asia billion crime gangs more nations online pacific",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "crime gangs snare more than us 88 billion scams asia pacific un says",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "crypto scam targeted gay onlyfans star then his x feed was flooded \u2018maga propaganda\u2019": {
       "article_type": "News report",
@@ -4466,6 +4546,18 @@
       "title": "man jailed after joining cambodia scam syndicate fired him 3 days poor performance",
       "usefulness_category": "Operational intelligence"
     },
+    "measuring evaluating performance generative ai models scam detection": {
+      "article_type": "Research paper",
+      "normalised_title": "measuring evaluating performance generative ai models scam detection",
+      "normalized_title_fingerprint": "measuring evaluating performance generative ai models scam detection",
+      "parsed_date": "2026-07-19",
+      "raw_title": "Measuring and Evaluating the Performance of Generative AI Models for Scam Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-07-19|detection evaluating generative measuring models performance scam",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "measuring evaluating performance generative ai models scam detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "memophishagent memory augmented multi modal llm agent phishing url detection": {
       "article_type": "Research paper",
       "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
@@ -4969,6 +5061,18 @@
       "source_domain": "abc.net.au",
       "title": "s like grooming scam victims stranded melbourne airport",
       "usefulness_category": "Scam development"
+    },
+    "satellite images reveal suspected scam compounds appear out nowhere": {
+      "article_type": "Investigative report",
+      "normalised_title": "satellite images reveal suspected scam compounds appear out nowhere",
+      "normalized_title_fingerprint": "satellite images reveal suspected scam compounds appear out nowhere",
+      "parsed_date": "2026-07-24",
+      "raw_title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere - WIRED",
+      "same_story_key": "wired.com|2026-07-24|appear compounds expanding giant images keep nowhere out",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "wired.com",
+      "title": "satellite images reveal suspected scam compounds appear out nowhere",
+      "usefulness_category": "Operational intelligence"
     },
     "scam compounds australia s doorstep uncovered abc news headlines": {
       "article_type": "Enforcement report",
@@ -7636,6 +7740,18 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52Vm1xUVY4cGNRaWg3bjVDMnJpMVhfMWw5ZFd3bXdzLTFqTG5Zaks1VktaOThXVjBHTjJPS25sNEE2cjJZeE9zRVpGWklXZ0xQSGljTEt3?oc=5",
       "usefulness_category": "Research / novel method"
     },
+    "6260d0b0253442d7ac71054091e020773d6bcbef22ac31057c86831b354ae474": {
+      "article_type": "Research paper",
+      "normalised_title": "characterizing phishing pages javascript capabilities",
+      "normalized_title_fingerprint": "characterizing phishing pages javascript capabilities",
+      "parsed_date": "2026-07-17",
+      "same_story_key": "arxiv.org|2026-07-17|capabilities characterizing javascript pages phishing",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Characterizing phishing pages by JavaScript Capabilities - arXiv",
+      "url": "https://arxiv.org/html/2509.13186v2",
+      "usefulness_category": "Research / novel method"
+    },
     "628795257a779783117de1fed83e7dd19758eeabf3a9f898f3a582065f3b04a9": {
       "article_type": "Enforcement report",
       "normalised_title": "us charges two chinese nationals over myanmar crypto scam hub",
@@ -7838,6 +7954,18 @@
       "source_domain": "abc.net.au",
       "title": "Script reveals methods of Cambodian centre scamming Australians",
       "url": "https://www.abc.net.au/news/2026-06-08/cambodian-scam-compound-script-targeting-australians-revealed/106773500",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "6fa1e080062fef57f7ed006ac4e62f0bb0108c0a6028d51cf3aba229d9795a6d": {
+      "article_type": "News report",
+      "normalised_title": "crime gangs snare more than us 88 billion scams asia pacific un says",
+      "normalized_title_fingerprint": "crime gangs snare more than us billion scam asia pacific un",
+      "parsed_date": "2026-07-21",
+      "same_story_key": "channelnewsasia.com|2026-07-21|asia billion crime gangs more nations online pacific",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Crime gangs snare more than US$88 billion in scams in Asia-Pacific, UN says - CNA",
+      "url": "https://www.channelnewsasia.com/asia/crime-gangs-online-scam-syndicates-united-nations-6267226",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "702f1ceac60d39d630148a96d365aedbab273bc824fcf793387e389d922cccd0": {
@@ -10012,6 +10140,18 @@
       "url": "https://www.graphika.com/insights/facebook-ads-promote-likely-scam-world-cup-group-stage-ticket-sales",
       "usefulness_category": "Platform policy / product change"
     },
+    "fe23c5f826a60f89a5d2bb74c8a510a0dc5c08a6e54e01d7eb6dbd127196406e": {
+      "article_type": "Research paper",
+      "normalised_title": "measuring evaluating performance generative ai models scam detection",
+      "normalized_title_fingerprint": "measuring evaluating performance generative ai models scam detection",
+      "parsed_date": "2026-07-19",
+      "same_story_key": "arxiv.org|2026-07-19|detection evaluating generative measuring models performance scam",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Measuring and Evaluating the Performance of Generative AI Models for Scam Detection - arXiv",
+      "url": "https://arxiv.org/html/2607.17353v1",
+      "usefulness_category": "Product idea / data source"
+    },
     "fe5fb67bacfe60fea5c11f0c5c45aa32b9e68c956653b4ac353d3d17a88a8bea": {
       "article_type": "Research paper",
       "normalised_title": "end trust agentic ai breaks security assumptions",
@@ -10047,6 +10187,18 @@
       "title": "Timor-Leste police arrest 90 foreign nationals in scam center crackdown",
       "url": "https://www.abc.net.au/pacific/programs/pacificbeat/timor-scam/106912034",
       "usefulness_category": "Scam development"
+    },
+    "ff371dfd8b3407347563143a0e7a430f589c4737c6f498d43c13929a35ce72a7": {
+      "article_type": "Investigative report",
+      "normalised_title": "satellite images reveal suspected scam compounds appear out nowhere",
+      "normalized_title_fingerprint": "satellite images reveal suspected scam compounds appear out nowhere",
+      "parsed_date": "2026-07-24",
+      "same_story_key": "wired.com|2026-07-24|appear compounds expanding giant images keep nowhere out",
+      "sent_at": "2026-07-25T16:40:11+00:00",
+      "source_domain": "wired.com",
+      "title": "Satellite Images Reveal How Suspected Scam Compounds Appear Out of Nowhere - WIRED",
+      "url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
+      "usefulness_category": "Operational intelligence"
     }
   }
 }
