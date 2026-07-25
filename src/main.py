@@ -949,9 +949,11 @@ def save_cache(path: Path, data: dict[str, Any]) -> None:
         reverse=True,
     )[:CACHE_MAX_ENTRIES]
     path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8") as file:
+    temp_path = path.with_suffix(f"{path.suffix}.tmp")
+    with temp_path.open("w", encoding="utf-8") as file:
         json.dump(dict(trimmed_items), file, indent=2, sort_keys=True)
         file.write("\n")
+    temp_path.replace(path)
 
 
 def fetch_config_hash(config: dict[str, Any]) -> str:
@@ -978,7 +980,7 @@ def fetch_config_hash(config: dict[str, Any]) -> str:
 
 
 def candidate_for_cache(candidate: dict[str, Any]) -> dict[str, Any]:
-    cached = dict(candidate)
+    cached = {key: value for key, value in candidate.items() if not str(key).startswith("_")}
     parsed_date = cached.get("parsed_date")
     if isinstance(parsed_date, datetime):
         cached["parsed_date"] = parsed_date.isoformat()
@@ -1071,9 +1073,11 @@ def save_candidate_cache(candidates: list[dict[str, Any]], config: dict[str, Any
         "candidates": [candidate_for_cache(candidate) for candidate in candidates],
     }
     CANDIDATE_CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    with CANDIDATE_CACHE_PATH.open("w", encoding="utf-8") as file:
+    temp_path = CANDIDATE_CACHE_PATH.with_suffix(f"{CANDIDATE_CACHE_PATH.suffix}.tmp")
+    with temp_path.open("w", encoding="utf-8") as file:
         json.dump(payload, file, indent=2, sort_keys=True)
         file.write("\n")
+    temp_path.replace(CANDIDATE_CACHE_PATH)
 
 
 def cache_record_fresh(record: dict[str, Any], time_key: str) -> bool:

@@ -152,6 +152,23 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          for path in [
+              Path("data/seen.json"),
+              Path("data/cost_log.json"),
+              Path("data/url_cache.json"),
+              Path("data/quality_cache.json"),
+              Path("data/candidate_cache.json"),
+              Path("data/ranking_runs.json"),
+          ]:
+              if path.exists():
+                  with path.open("r", encoding="utf-8") as file:
+                      json.load(file)
+                  print(f"validated JSON: {path}")
+          PY
           git add data/seen.json data/cost_log.json data/url_cache.json data/quality_cache.json data/candidate_cache.json data/ranking_runs.json
           git diff --cached --quiet && exit 0
           git commit -m "Update seen digest items"
