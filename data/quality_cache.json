@@ -588,7 +588,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: \u201dEveryone Says Them\u201d: Deception Typologies, Probabilistic Trust, and Grassroots Safety Knowledge Among Gay Dating App Users in China Yibo Meng Tsinghua University Beijing China , Lyumanshan Ye Shanghai Jiao Tong University Shanghai China , Yingfangzhong Sun Politecnico di Milano Milan Italy , Bingyi Liu University of Michigan Ann Arbor United States , Huidi Lu University of Oxford Oxford United Kingdom and Xiaolan Ding North China University of Science and Technology Tangshan China Abstract. Gay dating applications have become critical platforms for sexual minority men to seek relationships and community, yet they also expose users to deceptive interactions that remain underexplored in HCI and CSCW research. This study examines how gay male users in China experience, identify, and respond to deception on dating applications. Through semi-structured interviews with 22 participants across platforms including Blued, Aloha, Fanka, and Soul, we make three contributions. First, we identify a typology of deceptive practices extending beyond profile misrepresentation to encompass relational, emotional, financial, and commercial forms of deception. Second, we document the layered, probabilistic verification strategies users develop through long-term platform use, showing that trust assessment operates as a multi-signal, provisional...",
     "cache_version": 8,
-    "checked_at": "2026-06-27T04:17:21+00:00",
+    "checked_at": "2026-07-27T03:59:59+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -4288,7 +4288,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Fundamental Limits of Fraud Detection in Card Payment Networks An Information-Theoretic Theory of Delayed, Censored, Corrupted, and Counterfactual Feedback Gaurav Dhama Mastercard gaurav.dhama@mastercard.com Abstract Card payment fraud detection is typically treated as a supervised classification problem: train a predictive model on historical chargeback labels, score new transactions, and map scores to decisions through fixed thresholds. This framing has generated substantial practical progress, yet improvement has remained incremental despite major advances in model architecture. We argue that this stagnation is not primarily a failure of function approximation or optimization, but a consequence of structural information impairments inherent to the payment ecosystem. In card networks, feedback is delayed, selectively censored, corrupted by first-party misuse and dispute noise, and endogenously missing for declined transactions. These impairments degrade the learning signal before any model sees the data. We formalize card authorization as a sequential decision problem with delayed, censored, corrupted, and counterfactually missing feedback. We define the effective observation process induced by the payment ecosystem and derive a minimax regret lower bound showing that the four impairments enter multiplicatively in the...",
     "cache_version": 8,
-    "checked_at": "2026-06-08T05:01:16+00:00",
+    "checked_at": "2026-07-27T03:59:59+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -9908,7 +9908,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring Ismail Hossain 1 , Tanzim Ahad 1 , Md Jahangir Alam 1 , Sai Puppala 2 , Syed Bahauddin Alam 3 , Sajedul Talukder 1 1 Department of Computer Science, University of Texas at El Paso, TX, USA 79902 2 School of Computing, Southern Illinois University Carbondale, IL, USA 62901 3 University of Illinois Urbana-Champaign, IL, USA {ihossain, tahad, malam10}@miners.utep.edu sai.puppala@siu.edu , alams@illinois.edu, stalukder@utep.edu https://supreme-lab.github.io/optimus/ Abstract Jailbreak attacks \u2014 adversarial prompts that bypass LLM alignment through purely linguistic manipulation \u2014 pose a growing operational security threat, yet the field lacks large-scale, reproducible infrastructure for generating, categorizing, and evaluating them systematically. This paper addresses that gap with three tightly integrated contributions. (1) Large-scale compositional jailbreak dataset. We construct a corpus of 114,000 adversarial prompts by applying 912 in-the-wild composing strategies to 125 harmful seed prompts drawn from JailBreakV-28K. Unlike prior datasets that treat jailbreaks as undifferentiated collections, every prompt in our dataset is assigned to one of 14 cybersecurity attack categories (e.g., malware, phishing, privilege escalation) via a...",
     "cache_version": 8,
-    "checked_at": "2026-06-08T05:01:17+00:00",
+    "checked_at": "2026-07-27T04:00:00+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -10517,6 +10517,40 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "3aaef05acdf49c532aaf2f8bb6e7e5850dafc07289a49d7533d5a50a42aa8862": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized defense...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 13919
+  },
   "3abc540110bad22a83aa57c897cb2026cba34d8c84786951a104d9136fd65435": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10803,6 +10837,30 @@
       "vulnerability"
     ],
     "word_count": 3739
+  },
+  "3c08dc5dc9db036093b3bb8a6227885dc9ee19e6a06339a44dbf69cbc2821224": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T04:00:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "3c2bbf7abaf584ca1c536e33866c145f92e74c5c98dae147f74a5ae344e3eb4e": {
     "access_status": "available",
@@ -13624,6 +13682,30 @@
       "trust"
     ],
     "word_count": 997
+  },
+  "490a1f5793c2f687cd83d409eb67d2598adf9aceb417bc796bccde741d321e0a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Registrar Sandbox Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Update Status Get Update Status GET /accounts/{account_id}/registrar-sandbox/registrations/{domain_name}/update-status Models Expand Collapse UpdateStatusGetResponse object { completed , created_at , links , 4 more } Status of an async registration workflow. completed : boolean Whether the workflow has reached a terminal state. true when state is succeeded or failed . false for pending , in_progress , action_required , and blocked . created_at : string format date-time links : object { self , resource } self : string URL to this status resource. resource : optional string URL to the domain resource. state : \"pending\" or \"in_progress\" or \"action_required\" or 3 more Workflow lifecycle state. pending : Workflow has been created but not yet started processing. in_progress : Actively processing. Continue polling links.self .",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 495
   },
   "4922678c2e1b6a6fa164f8cfa15a8070433741abf69184e7328a2fe59e69966c": {
     "access_status": "available",
@@ -17526,6 +17608,45 @@
       "trust"
     ],
     "word_count": 26409
+  },
+  "5d12c18e7d04ae2916da6c0d94e4d92f6032f1a43e369d88deda1413ba7852eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u201cOver 68,000 held in ICE detention centers around the United States, many of whom lack access to food, water, and any means to reach contact with their loved ones,\u201d reads the post, which also includes a video. Only, the video wasn\u2019t news footage from inside a detention center. It was a 14-second clip of a white man masturbating in a ski mask. \u201cLet me serve that cock massa,\u201d replied @FreakedOut222. Accounts like @superioritymale belong to a niche porn sphere on X where users project, and find sexual pleasure in, pro-MAGA messaging. Over the past two years under President Donald Trump\u2019s second term, they appear to have become even more prevalent on the social media platform. WIRED identified a dozen accounts, varying in reach and influence\u2014some had tens of thousands of followers\u2014but they all share a similar theme: the fantasy of white male domination. They promote the aesthetic of being a white god or alpha, post about \u201cthe natural order\u201d and the \u201cbiological truth\u201d of white supremacy, while encouraging followers to claim their \u201cbirthright\u201d as the ruling species. The tone in many of the posts mirrors the extreme rhetoric often championed by the White House . In January, @malesupremacy13, whose bio reads \u201cnazi-fascist\u201d and \u201cwar is porn,\u201d posted a list of \u201cThings I jerk off to,\u201d which included \u201cBombings of Gaza, LGBT rights being denied, gender inequality, [and] environment/plastic...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4327
   },
   "5d23c59f3f8caa1e6d4234f981e947d5ede13b2330dcd32324d876e06a6852c6": {
     "access_status": "available",
@@ -23987,6 +24108,34 @@
     "weak_generic_terms_found": [],
     "word_count": 312
   },
+  "7e4fb4bd619f9ff30f591fc87a30e56d8c0b87f0091a78d2f0f87c81874df4af": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 0
+  },
   "7e5ac1f90ce5058e36f36d13e3ed2ea74ce4452d51234db1b8c722ad27e25f72": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24286,6 +24435,39 @@
       "trust"
     ],
     "word_count": 32852
+  },
+  "7f4beb0d611e41c5fff244814017dee7fc1b938cfad30b6ff81e6cb1e009d069": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: A3Data - http://www.a3data.com.br Correspondence to: 1 1 email: claudio.lucio@a3data.com.br Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection Cl\u00e1udio L\u00facio do Val Lopes Lucca Machado da Silva Abstract Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit \u201cfraud collapse\u201d, defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, we propose the Semantic Pareto-DQN, a multi-objective reinforcement learning framework. Our approach synthesizes heterogeneous transaction features into cohesive natural-language narratives, encoded by large language models, thereby producing a robust, scale-invariant state representation. The agent optimizes a vectorial reward that explicitly decouples financial efficacy, operational friction, and semantic discovery. By mapping the continuous Pareto frontier, the system dynamically navigates the asymmetric costs of missed anomalies versus false positives. Empirical evaluations across E-Commerce fraud and UCI Credit datasets show that semantic Pareto-DQN successfully shatters the zero-recall trap. It achieves superior minority-class recall compared to scalarized...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T04:00:00+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud"
+    ],
+    "word_count": 13502
   },
   "7ff91f6c3b378c539f4b1a644804bcd2a8f65c6e06d0a6de0f745a89ae8a8157": {
     "access_status": "available",
@@ -25260,6 +25442,52 @@
       "trust"
     ],
     "word_count": 2779
+  },
+  "8452cb73ddb92ddff8023037d38ef638130092bd42ed688823e3b2209a44743f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1]ByteDance 2]The University of Melbourne \\contribution [\u00a7]Corresponding author SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing Jiacheng Zhang Haoyu He Sen Zhang Shen Wang Xiaolei Xu Yuhao Sun Meng Shen Feng Liu [ [ Abstract In real-world applications, guardrails are often expected to identify unsafe user\u2013model interactions according to application-specific safety policies, rather than relying on predefined risk taxonomies. In this work, we study this setting under the paradigm of in-context policy guardrailing , where guardrails predict safety violations based on policy specifications provided in context. To systematically evaluate this capability, we introduce SafePyramid , a safety benchmark comprising 1,000 multi-turn conversations across 10 domains and 3,000 corresponding application-specific policies, which together contain 61,699 distinct natural-language rules. SafePyramid organizes the evaluation into three difficulty levels: L0 evaluates individual-rule understanding, L1 evaluates reasoning over rule dependencies, and L2 evaluates adaptation of full novel policy frameworks defined in context. To ensure benchmark quality, we employ a rigorous multi-stage pipeline to construct and validate the benchmark. Using SafePyramid , we evaluate 10 frontier LLMs and 5 policy-configurable guardrails and...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T04:00:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 29369
   },
   "845c304bea0eca71241fe39a50c72b8af9e72e0e0dd4785e7932fce2e036cc87": {
     "access_status": "available",
@@ -27368,6 +27596,30 @@
     ],
     "word_count": 1990
   },
+  "90a5104e16c599aeafd3a470c927863edd9f2a920080d3ec74b912a15cabdb44": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Long live Jibo. Jibo was a cute, social robot that sat in one place in your home. Built in 2014 , Jibo was meant to be a robot people brought into their lives before the smart-home industry had even really taken off. (It preceded Amazon\u2019s popular Echo speakers .) It could not interact with objects or move from its spot, but it could wiggle and talk in a way that felt endearing. It was adorable, but not competent or in demand enough to last\u2014it was ahead of its time and died too soon . Now, Jibo is being reborn, sort of, in a different form. The focus seems far less on the friendly robot and more about making a camera that can turn real-life moments into AI-generated images. A company called Lingverse (formerly known as Ling AI) says it raised $29 million in funding to build a new wearable AI device it calls the iKairos . It can be worn as a pendant or clipped onto your clothes. It can also be placed into a table mount where it sits, Jibo-like, taking in its surroundings.",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3959
+  },
   "90faf3a4c490ca9f8b30d6b5a31e93d03b7f4ebe884ba224061b53e8860f50e8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -27538,6 +27790,32 @@
     "weak_generic_terms_found": [],
     "word_count": 2484
   },
+  "91dcb6c908ab6172990ee7424f9627cf2679371d9095374a6fff1ce2c169f7b7": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Some kids are getting in on a new AI trend: thinking it sucks. In the four years since chatbots went mainstream, and their marketing campaigns went into overdrive, young people have grown increasingly skeptical of the hype around LLMs. Yes, many of them still use the tech for school assignments and companionship, but according to market research firm YPulse, 37 percent of teens aged 13 to 17 cringe when they see AI content like music and videos, and more than half worry about misinformation and deepfakes. The polling on youthful AI attitudes shows a great deal of contradiction. Adoption rates are high, with a majority of America\u2019s teens reporting they use chatbots, but enthusiasm is mixed. A recent Pew Research report found that while many teens think AI will be good for them personally, over a fourth of their cohort believe AI will have a negative impact on society in the next 20 years, citing job loss, the decline of critical thinking skills, and environmental impacts as concerns. Young people typically adopt new consumer technology eagerly, but Melanie Green, a communications professor at the University at Buffalo, says AI is different. This time, the moral panic isn\u2019t coming from older generations\u2014in fact, kids are turned off by the way AI is being pushed on them by adults and tech corporations. They\u2019re also, Green says, \u201cacutely aware that whatever disruption happens...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1637
+  },
   "91ea8a66d78b3e557ba5934fe30a5eef7070e4a084e6b87bd34f465c0cac0741": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -27570,7 +27848,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Innovations in Cardless Artificial Intelligence Banking: A Comprehensive Framework for Cyber Secure and Fraud Mitigation using Machine Learning Algorithms Md Israfeel, Abstract The advent of cardless Artificial intelligence (AI) banking heralds a paradigm shift in the financial landscape, offering users unprecedented security and convenience. This paper outlines a comprehensive framework designed to elevate cyber security, introduce auto-generated virtual cards, and mitigate fraud risks within cardless AI banking systems. The framework envisions the future banking architecture, employing AI-powered data cryptography to create secure virtual cards for seamless transactions. By emphasizing the importance of secure communication channels, it ensures the integrity of financial activities among the bank system, cardholders, and third-party vendors. AI-based authorization methodologies play a pivotal role in authenticating each transaction while proactively identifying potential fraud, showcasing the framework\u2019s efficacy in fortifying cardless AI banking security. The initial approach, featuring an AI-driven, feature-based banking system, ensures the generate of virtual cards with encrypted data, minimizing information exposure and reducing fraud risks. Integrating a machine learning algorithm adds an extra layer of protection...",
     "cache_version": 8,
-    "checked_at": "2026-06-15T05:28:20+00:00",
+    "checked_at": "2026-07-27T03:59:57+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -28305,6 +28583,30 @@
     ],
     "word_count": 2135
   },
+  "95040424e6bd6db98eedce3ec54c08312077e02fc91ba35d75c654de543a406f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T04:00:01+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "95182959d00a0b0308aa0c288578a2c1fc9a658413310d6c12b5ae1a4f26af2c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -28346,6 +28648,48 @@
       "fraud"
     ],
     "word_count": 3066
+  },
+  "959f39eb9ca2aca80009dce63113b0dc6ea72e143de857f7fc388f60d217e4c9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Detection, Attribution, Narration: An End-to-End Pipeline for Explainable Money Mule Identification Yuge Zhang yugezhang@ocbc.com OCBC, Singapore , Yuanxing Zhang yuanxingzhang@ocbc.com OCBC, Singapore , Yichao Jin jinyichao@ocbc.com OCBC, Singapore , Khairul Amsyar Mohd Razis khairulmohdrazis@ocbc.com OCBC, Singapore , Nicholas Qi An Choo nicholaschoo3@ocbc.com OCBC, Singapore , Kai Yin Anders Wong anderswong@ocbc.com OCBC, Singapore , Xinyan Tang tangxy@ocbc.com OCBC, Singapore , Kenneth Zhu Ke kennethzhu@ocbc.com OCBC, Singapore , Wee Keong Dennis Lee dennislee@ocbc.com OCBC, Singapore and Jingyuan Zhao jingyuanzhao@ocbc.com OCBC, Singapore (2026) Abstract. Money mule accounts are critical facilitators of financial fraud, yet detecting them at scale remains challenging due to the heterogeneous nature of transactional and behavioural data. We present an end-to-end pipeline for customer-level mule detection comprising three stages: (1) a LightGBM classifier trained on 280 engineered features spanning transaction patterns, account demographics, network topology, and temporal behaviour; (2) a TreeSHAP attribution layer that decomposes each prediction into feature contributions; and (3) a large language model (LLM) module that converts SHAP attributions into analyst-facing natural-language narratives. We evaluate across three...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:58+00:00",
+    "direct_relevance_terms_found": [
+      "money mule",
+      "mule account",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "money mule",
+      "mule account",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "money mule",
+      "mule account",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "money mule"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 12824
   },
   "95ef71f681a922834169afab052cbc07411282a5b4f39bcd4350fe40f5a822ad": {
     "access_status": "available",
@@ -32984,6 +33328,33 @@
     ],
     "word_count": 13526
   },
+  "ad900b7c3e600821680cb29f53180a89650479d2662051d28c190e36fa984162": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 656 posts Behind The Blog Behind the Blog: No Spoilers This week, we discuss astrology, Flock on the brain, The Odyssey, and more. Samantha Cole , Jason Koebler , Emanuel Maiberg , Joseph Cox \u00b7 Jul 24, 2026 ICE Leaked Document Shows the Surveillance Tech at ICE\u2019s Fingertips From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide. Joseph Cox \u00b7 Jul 23, 2026 FOIA Forum Our New FOIA Forum! 7/30, 1PM ET Join us for our latest FOIA Forum where we teach you how to pry records from the government. Joseph Cox \u00b7 Jul 23, 2026 Podcast Podcast: Flock is Tracking People, Not Just Cars How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack. Joseph Cox \u00b7 Jul 22, 2026 ICE You Opened a Credit Card. ICE Now Knows Where You Live Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE. Joseph Cox \u00b7 Jul 22, 2026 Impact Apple Fixes Hide My Email Vulnerability After 404 Media Coverage For a year, Apple knew that an issue in its Hide My...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 529
+  },
   "ad93eb40c468abc3c976baa2815c64f5c973c9caf72c1bbe2947e4efce1b13de": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -33424,6 +33795,44 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "b02f1bc21095c1b1a481cb61288d2f13356845b61c710da7c860ceaf7af6e0e1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "You could load up a directory like AltaVista or Yahoo and click through categories including Home & Family, Science, and Computers. In those listings you\u2019d find pages put together by hobbyists, academics, and tech nerds. People gathered around forums and bulletin boards, and web developers tended to avoid putting images on their sites because it would slow down page loading. The idea of watching a video over the internet seemed almost impossible. In the decades since those formative years, the web has transformed almost beyond recognition. Almost everything is now monetized to the nth degree, from search results and forums to social media and news outlets. Powerful apps and tools now run inside browsers, while AI is hard at work removing the need for the open web altogether. There are now a good number of companies that are keen to see the spirit of the old web return, and that includes Kagi . For several years Kagi has been running a search engine based on privacy and security. Now Kagi has expanded its efforts beyond its Google-alternative search tool to curate a \u201csmall web\u201d of sites driven and written by humans.",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3232
   },
   "b04a6a9b2a243c925f7de88b3daa64b5cddf70b46d35410a876ad9f3c56934d4": {
     "access_status": "available",
@@ -34303,6 +34712,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3715
+  },
+  "b4a04e5e7a9047f74567b3cd6d9417e525bf8db1ce89f2f7b71405526d6a2314": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u201cCall us optimists, call us dreamers, call us whatever the hell you want\u2014but we\u2019re betting on people, and we like those odds,\u201d the narrator says , as a toddler plays with a butterfly, two parents laugh with their infant, and Jalen Brunson waves at the Knicks Championship Parade. (The ad also takes special care to highlight use cases for its controversial smart glasses that are not, say, harassing women while surreptitiously recording them.) The snippet of \u201cFive Years\u201d used in the ad includes the following lyrics: I heard telephones, opera house, favorite melodies I saw boys, toys, electric irons and TVs My brain hurt like a warehouse, it had no room to spare I had to cram so many things to store everything in there And all the fat, skinny people And all the tall, short people And all the nobody people And all the somebody people I never thought I'd need so many people Perhaps understandably, it skips other parts of the song, including the opening: News had just come over We had five years left to cry in News guy wept and told us Earth was really dying When reached for comment, Meta spokesperson Francis Brennan said he \u201cwould like to highlight what David Bowie himself said about \u2018Five Years\u2019 and its meaning: having optimism for the future.\u201d Brennan sent along a 1972 quote about the song that he sourced to BowieBible.com . \u201cPeople are so incredibly serious and scared of the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3249
   },
   "b4b11a5f2400953682168224581219fe5e0eb020b9cf549344a065a5796a7895": {
     "access_status": "available",
@@ -40933,7 +41366,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: An Empirical Evaluation of Prompt Injection Vulnerabilities in Large Language Models Across Multilingual and Obfuscated Attack Scenarios \u00c7a\u011flar Uysal, Baturay Birinci, S\u00fcha Orhun Mutluergil, Or\u00e7un \u00c7etin Sabanc\u0131 University, Turkey {caglaruysal, baturaybirinci, suha.mutluergil, orcun.cetin}@sabanciuniv.edu Abstract Large Language Models (LLMs) have rapidly evolved, transforming industries by automating complex tasks and generating human-like content. However, as their adoption accelerates, prompt injection vulnerabilities have become increasingly apparent. Malicious actors exploit these weaknesses to generate phishing emails, deceptive websites, and malware, posing serious security risks. This paper presents an empirical evaluation of six state-of-the-art LLMs (DeepSeek, GPT, Gemini, Grok, Llama, and Qwen) under diverse adversarial prompt scenarios, including direct and multi-stage obfuscated attacks across multiple languages and character encodings. The proposed framework measures how effectively current LLMs resist manipulation into performing harmful actions. Our findings reveal systematic vulnerabilities across all tested models. Even direct prompt injections frequently induce the generation of phishing content, websites, and malware, while elaborate prompts achieve even higher malicious compliance rates, particularly for...",
     "cache_version": 8,
-    "checked_at": "2026-07-01T04:55:26+00:00",
+    "checked_at": "2026-07-27T03:59:58+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -43293,6 +43726,33 @@
     ],
     "word_count": 17
   },
+  "e4473f985e8063ddd2b86da6cc3a1eb18f98c4f28c617d37084d2116b1b3085a": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "So when the high school senior got home on the afternoon of February 10, 2026, he grabbed a snack, went upstairs to his room, and settled in to work. After allowing himself a few minutes of procrastination\u2014scouting prospective college campuses on Google Earth\u2014Mueller navigated over to the Department of Justice\u2019s Epstein Library portal and clicked through the page asking whether he was 18 or older (he was, just barely). Then he began poking around for ideas in the 3 million pages of Epstein files that had been added 11 days earlier. Mueller really liked working in his bedroom, with its beanbag chair and view of people strolling and biking along one of Marin County, California \u2019s sun-dappled waterways. Having lived his whole life in one of the wealthiest parts of America, Mueller couldn\u2019t help thinking his area probably had some ties to Jeffrey Epstein . \u201cI think it\u2019s very difficult to get an immense amount of money without\u2014this is my opinion\u2014without doing something a little shady,\u201d Mueller says. So he sat on his bedroom floor and spent the next five hours combing the federal database for links to the towns and cities of Marin. He found thousands. Most of them were trivial (Epstein liked to shop online at Restoration Hardware, headquartered in nearby Corte Madera). But a few things stood out: a 2014 art gala in Sausalito that Epstein helped promote; a meeting with Woody Allen in...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 8581
+  },
   "e45d3a8be7b879898501dc2f20d515c77dbd9b193ec45fe77b13f434d1313071": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -43537,6 +43997,39 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 113
+  },
+  "e5be207aaba9bec27b95353ade872b533f025dbdd199527c11ab847bf961c0d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I\u2019ve dabbled with Cricut products, but it wasn\u2019t until I started reviewing them for work that these cutting machines became a true obsession. These days, I spend weekends thrifting for blanks and experimenting with patchwork appliqu\u00e9, and I even caved and bought a secondhand Brother sewing machine. My home office, which once screamed \u201ccorporate remote worker,\u201d is now overrun with glitter vinyl and who knows how many types of scissors (all for different purposes, of course). In This Story The Weekend Warrior Cricut Explore 5 Read more $249 $199 (20% off) Amazon (Bundle) The Master Siser Romeo Read more $599 Amazon All of which to say, I was an easy target when Cricut and Siser both landed new, smart cutting machines on my desk. I quickly realized that comparing them to each other wasn\u2019t particularly useful. Yes, they both cut materials like vinyl and cardstock, but they solve different problems and are for different consumers. Cricut \u2019s latest model, the Explore 5 , costs $199 for the machine alone (or $250 for the bundle I tested with mats, tools, and vinyl) and is designed for the more casual crafter making things like bookmarks, banners, and the occasional T-shirt. The Siser Romeo ($600 as tested), on the other hand, is built for someone who might pump out 50 graphic tees before lunch. Siser has always been upfront about this. It\u2019s not really trying to compete with a machine...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T03:59:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 6360
   },
   "e5c4a9ab724a9b183cbb2c84a87c1f3f17b6bcecc8d0c5ca7d13a549af827863": {
     "access_status": "available",
@@ -44318,6 +44811,49 @@
       "trust"
     ],
     "word_count": 917
+  },
+  "ea859854a7247d74f144f4ae4cc0329369d82a9bec19193c1c7dbc3ace8b6d8e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: MultiBreak: A Scalable and Diverse Multi-turn Jailbreak Benchmark for Evaluating LLM Safety Jialin Song \u2020 Xiaodong Liu Weiwei Yang Wuyang Chen Mingqian Feng Xuekai Zhu Jianfeng Gao Abstract We present MultiBreak , a scalable and diverse multi-turn jailbreak benchmark to evaluate large language model (LLM) safety. Multi-turn jailbreaks mimic natural conversational settings, making them easier to bypass safety-aligned LLM than single-turn jailbreaks. Existing multi-turn benchmarks are limited in size or rely heavily on templates, which restrict their diversity . To address this gap, we unify a wide range of harmful jailbreak intents, and introduce an active learning pipeline for expanding high-quality multi-turn adversarial prompts, where a generator is iteratively fine-tuned to produce stronger attack candidates, guided by uncertainty-based refinement. Our M\u0361ultiBreak includes 10,389 multi-turn adversarial prompts, spans 2,665 distinct harmful intents, and covers the most diverse set of topics to date. Empirical evaluation shows that our benchmark achieves up to a 54.0% and 34.6% higher attack success rate (ASR) than the second-best dataset on DeepSeek-R1-7B and GPT-4.1-mini, respectively. More importantly, safety evaluations suggest that diverse attack categories uncover fine-grained LLM vulnerabilities , and categories that...",
+    "cache_version": 8,
+    "checked_at": "2026-07-27T04:00:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21527
   },
   "ea8d58a8ec2d7c592de77754445713ee168aadb5e157a4d020cc989abc3e57c7": {
     "access_status": "unknown",

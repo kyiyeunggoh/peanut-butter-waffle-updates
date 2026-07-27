@@ -75,6 +75,10 @@
     "canonical_url": "https://www.bbc.com/future/article/20260624-why-tech-companies-want-to-take-away-your-screen",
     "resolved_at": "2026-06-25T04:22:36+00:00"
   },
+  "030a18765c806ba0985b8d2cbd039f64c02ec022eddf01e1459c56ab6be5db00": {
+    "canonical_url": "https://ieeexplore.ieee.org/document/11564455/",
+    "resolved_at": "2026-07-27T03:59:01+00:00"
+  },
   "032b56ce8f43aab4c8ec271977f402949bb335d92aee20d5e42264c183855fd4": {
     "canonical_url": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
     "resolved_at": "2026-06-30T04:23:36+00:00"
@@ -206,6 +210,10 @@
   "066be2d29f47233673919c35b26acbfd7b6750e009e11cad3f2b0060eed65ea1": {
     "canonical_url": "https://www.reuters.com/fact-check/counting-video-not-evidence-fraud-makerfield-by-election-2026-07-01/",
     "resolved_at": "2026-07-02T04:20:16+00:00"
+  },
+  "067f442cdb5b6b4e424024326e1ca33f17975a5b4e2f0ed6abbe0320132fd0ce": {
+    "canonical_url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+    "resolved_at": "2026-07-27T03:59:10+00:00"
   },
   "068115b7af0fa5bd18c96686b7c67e7ce0cfbdba397cd06fb25d3f3c2127fe07": {
     "canonical_url": "https://ieeexplore.ieee.org/iel7/10395909/10396851/10397016.pdf",
@@ -1033,7 +1041,7 @@
   },
   "1ce7b9e8df652e0b0012e1e3a282bfdcd9fc206a60747b3aaae7653a59c3fcd1": {
     "canonical_url": "https://arxiv.org/pdf/2606.27284",
-    "resolved_at": "2026-06-27T04:15:52+00:00"
+    "resolved_at": "2026-07-27T03:59:23+00:00"
   },
   "1ceb09a47b5edb24f303671b13c2aced91814facb8dc65068c04efba9fdfd870": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/09/trump-ftc-consumer-protection-chris-mufarrige",
@@ -1274,6 +1282,14 @@
   "23364591aea11963b77c56e61f5a9f41f2e0a88bfdb137b23f0ab9f991a63646": {
     "canonical_url": "https://www.graphika.com/use-cases/scam-and-fraud-detection",
     "resolved_at": "2026-06-11T04:59:51+00:00"
+  },
+  "2345531d5c7818d563a5fdbf7c703da34baf05bb434fc1ff8c76a9d6b0658815": {
+    "canonical_url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+    "resolved_at": "2026-07-27T03:59:06+00:00"
+  },
+  "237f47af11e7d4596e5187eb032402e03593a6f1466fbc4c73b2af18f3836d5c": {
+    "canonical_url": "https://arxiv.org/html/2607.09641",
+    "resolved_at": "2026-07-27T03:59:29+00:00"
   },
   "23936a5cc2ee701e3d72dc4a05724ae2cd825ada7eb928603d009ca7c7a624ed": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/27/basically-youre-trapped-uk-postgraduates-burdened-with-double-loan-debt",
@@ -1749,7 +1765,7 @@
   },
   "3215b4230cf5bceeb8cd9e7e96d57c4ab0c0739746732f49233bbaa1f0a5805c": {
     "canonical_url": "https://arxiv.org/pdf/2607.14686",
-    "resolved_at": "2026-07-19T03:49:10+00:00"
+    "resolved_at": "2026-07-27T03:59:18+00:00"
   },
   "321b6b3b24f50da9039890dc2da61dd2c1f3a29f7b8dac7488a1e79527b6d4ab": {
     "canonical_url": "https://www.ft.com/content/06803444-ff1e-479c-876a-a07690b81ada?syn-25a6b1a6=1",
@@ -1770,6 +1786,10 @@
   "32cb73be843505d39d3cf2a39d977445fa2d4fa4687ba4b0bfee0b6542249d15": {
     "canonical_url": "https://www.straitstimes.com/tech/more-food-delivery-patrol-robots-to-roam-punggol-digital-district-under-renewed-ai-push",
     "resolved_at": "2026-05-23T15:51:54+00:00"
+  },
+  "32fd234f82a11d9019a3b4502285568825aa2c0265d679d1bc6f327506a63246": {
+    "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7069598",
+    "resolved_at": "2026-07-27T03:59:03+00:00"
   },
   "330d27f8067f376adb294d9083d34f5eb734354c4b07c4ff4f1392d7c9bd9e09": {
     "canonical_url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
@@ -1795,6 +1815,10 @@
     "canonical_url": "https://www.bbc.com/news/articles/cwy031el03po",
     "resolved_at": "2026-06-17T05:11:54+00:00"
   },
+  "3358b11beb8222c34b8e07462a0d8fcd58a5f5668dd82d3fd4463105242c8664": {
+    "canonical_url": "https://dl.acm.org/doi/full/10.1145/3772318.3791313",
+    "resolved_at": "2026-07-27T03:59:36+00:00"
+  },
   "3372b038ab59ab7655d7df18fa771b5c357a6a325ea3190d7a7d13aedd5274a6": {
     "canonical_url": "https://www.abc.net.au/news/2026-07-07/tyler-robinson-preliminary-hearing-begins-charlie-kirk/106889380",
     "resolved_at": "2026-07-09T04:11:41+00:00"
@@ -1818,6 +1842,10 @@
   "33dbbee375dde798e5cc7b2cec2d792d9549423cd0546b62ce6622db746de0a3": {
     "canonical_url": "https://arxiv.org/html/2606.27505v1",
     "resolved_at": "2026-07-08T03:41:32+00:00"
+  },
+  "33e9ec155dea5a9fbab9eb44e3b9755a734df522f27628205377166b98d011ef": {
+    "canonical_url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
+    "resolved_at": "2026-07-27T03:59:08+00:00"
   },
   "33f90355a6eb3618a884c8eb66081d43fa464409d3258b7cb9325408dea38ce7": {
     "canonical_url": "https://www.straitstimes.com/asia/se-asia/thai-police-raid-luxury-condo-arrest-six-nigerians-over-romance-scams",
@@ -2249,7 +2277,7 @@
   },
   "40868adb0a0ee10a1019027e0350892082c14fb54e14783842a38fdd52eed4a9": {
     "canonical_url": "https://arxiv.org/html/2605.09225v1",
-    "resolved_at": "2026-06-07T04:54:52+00:00"
+    "resolved_at": "2026-07-27T03:59:28+00:00"
   },
   "40dcb294e64752be2fd5b74ba7fe8f50da15dbf831e184197b73663df8acda75": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
@@ -2287,6 +2315,10 @@
     "canonical_url": "https://apnews.com/article/earthquake-venezuela-rescue-trump-maduro-rodriguez-relief-military-5ec41e4448a2d6ef7dba909c952ce821",
     "resolved_at": "2026-07-02T04:20:47+00:00"
   },
+  "41bbd949e7eb6f293d82624e1480f34fa46df50dc52ff052803b5a4b1aaf0fa1": {
+    "canonical_url": "https://arxiv.org/pdf/2606.29887",
+    "resolved_at": "2026-07-27T03:59:32+00:00"
+  },
   "41ccce1417cb815fabf4b78efaf90faca630d7b0816adbf0665792d611830a5a": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6966979.pdf?abstractid=6966979&mirid=1",
     "resolved_at": "2026-07-25T16:27:53+00:00"
@@ -2302,6 +2334,10 @@
   "4236ecf7cdec02b78306afe735605bd2278e9b678bffff8058bbc1420354f3f6": {
     "canonical_url": "https://arxiv.org/html/2601.22720v1",
     "resolved_at": "2026-07-08T03:41:49+00:00"
+  },
+  "423b44a494173d92e26d2b57a31b46f13b8a92199ba20600cd2489fd589b9a4f": {
+    "canonical_url": "https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/",
+    "resolved_at": "2026-07-27T03:59:21+00:00"
   },
   "424ac1dfa5115ab878763f5793f68090ef11067da9b96eb0c17ddedc7f96d745": {
     "canonical_url": "https://www.bbc.com/news/articles/c982vm2jzl1o",
@@ -2731,6 +2767,10 @@
     "canonical_url": "https://www.theguardian.com/world/2026/jun/18/western-europeans-crime-rising-despite-fall-overall-rates-poll-finds",
     "resolved_at": "2026-06-18T05:01:59+00:00"
   },
+  "4f350f9ad3de6b880d977082bebabc3f742ace29474a05fcde597b18afda7183": {
+    "canonical_url": "https://www.404media.co/author/joseph-cox/",
+    "resolved_at": "2026-07-27T03:59:13+00:00"
+  },
   "4f5870915c1050927977debb989cf714b2037dc444eb756c4d206d61fd05e02d": {
     "canonical_url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
     "resolved_at": "2026-07-07T04:15:13+00:00"
@@ -3007,6 +3047,10 @@
     "canonical_url": "https://www.theguardian.com/us-news/2026/jun/18/penn-station-renovation-trump",
     "resolved_at": "2026-06-21T05:18:32+00:00"
   },
+  "583198c1067878f9e3da9f09b72f8f198b535d5f4439169697002b51c0aaa484": {
+    "canonical_url": "https://arxiv.org/html/2605.23243v5",
+    "resolved_at": "2026-07-27T03:59:00+00:00"
+  },
   "587190dc54efb73de5bffb795627e6b232e94d7b9bf27d84ec5a17a1a9592d22": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/29/venezuela-earthquake-death-toll-father-son-alive",
     "resolved_at": "2026-07-01T04:54:03+00:00"
@@ -3121,7 +3165,7 @@
   },
   "5b4372a3c4cfbd73101b40a6dc7ba989cad4f6bf2c6c3773759e41ba6e2ae617": {
     "canonical_url": "https://arxiv.org/pdf/2605.19360",
-    "resolved_at": "2026-06-07T04:55:00+00:00"
+    "resolved_at": "2026-07-27T03:59:30+00:00"
   },
   "5b63e90df805a0bafe30b63c69f5a859f587529ab2381afe404a3b4fb258e578": {
     "canonical_url": "https://www.bbc.com/news/articles/c7vyn6d0m1vo",
@@ -3189,11 +3233,15 @@
   },
   "5cf57639250a3e05812aa3fb98d914883d9e5f1821aa1af36d6e15af477d1e28": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/ece793e5-9fcb-491c-8850-fba196bf2b65-MECA.pdf?abstractid=6832650&mirid=1",
-    "resolved_at": "2026-06-03T05:10:49+00:00"
+    "resolved_at": "2026-07-27T03:59:39+00:00"
   },
   "5d0e6c796548b5faf5a25e3fb9dafb9c134c8dd001be69846ba49dfdd7697e27": {
     "canonical_url": "https://arxiv.org/html/2507.10854v2",
     "resolved_at": "2026-06-09T04:26:45+00:00"
+  },
+  "5d12c18e7d04ae2916da6c0d94e4d92f6032f1a43e369d88deda1413ba7852eb": {
+    "canonical_url": "https://www.wired.com/story/people-are-getting-off-to-content-about-ice-raids/",
+    "resolved_at": "2026-07-27T04:00:03+00:00"
   },
   "5d29031a861b8c73123555f5db9805ea4f07d421de3c8a8402c5f1d8ad5fad46": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/02/trump-hijacked-250-anniversary",
@@ -5051,6 +5099,10 @@
     "canonical_url": "https://apnews.com/article/earthquake-warning-systems-venezuela-california-japan-alert-753714b55a8d8fd7424658717114b1f5",
     "resolved_at": "2026-06-27T04:16:10+00:00"
   },
+  "959f39eb9ca2aca80009dce63113b0dc6ea72e143de857f7fc388f60d217e4c9": {
+    "canonical_url": "https://arxiv.org/html/2607.17586v1",
+    "resolved_at": "2026-07-27T04:00:02+00:00"
+  },
   "95de15ad38cecea56d8022d5110832d338fba25166e4ee13c68e1d596eea12c8": {
     "canonical_url": "https://www.abc.net.au/asia/can-cambodia-shake-the-scam-hub-label-what-it-takes-to-save-tour/106833192",
     "resolved_at": "2026-07-09T04:10:52+00:00"
@@ -5321,7 +5373,7 @@
   },
   "9d8c8f72d1af7d7a6c68e8d7245e357622be9a19080a0825a8016079cad64bef": {
     "canonical_url": "https://arxiv.org/pdf/2606.27709",
-    "resolved_at": "2026-07-15T03:31:05+00:00"
+    "resolved_at": "2026-07-27T03:59:34+00:00"
   },
   "9d9b9d4c46a766c23d073ba7604c580430ce2202e33d75114b96be21b7c08b40": {
     "canonical_url": "https://jobs.theguardian.com/job/10149161/senior-principal-consultant-fraud-risk-services/",
@@ -5431,6 +5483,10 @@
     "canonical_url": "https://www.economist.com/podcasts/2026/06/25/scammers-are-targeting-americas-immigrants",
     "resolved_at": "2026-06-26T04:39:07+00:00"
   },
+  "a0c23f34df52b2c14be871badb7cb19ffe70120d9a60f9f6987c635d1eaf3fcc": {
+    "canonical_url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
+    "resolved_at": "2026-07-27T03:59:04+00:00"
+  },
   "a0cae69263092ac6bdedd436762d0cf5dc3e273fba71d20f408bb99aa073fcf7": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
     "resolved_at": "2026-06-22T05:28:30+00:00"
@@ -5482,6 +5538,10 @@
   "a210131e5494972c49a27b2a6048b29c8d252dc7783acd6b4af82ebe44f33fd0": {
     "canonical_url": "https://www.theguardian.com/world/2026/jul/07/sri-lanka-prison-riot-death-toll-injuries",
     "resolved_at": "2026-07-07T04:16:05+00:00"
+  },
+  "a229bb479b7ecdcd50309fd61f81bc0b7fa384eb919949c351811ec5a33afb28": {
+    "canonical_url": "https://www.wired.com/story/kagi-brings-back-old-school-search-one-human-made-website-at-a-time/",
+    "resolved_at": "2026-07-27T03:59:12+00:00"
   },
   "a26b9254ca9085b18f893f4b6fb772ff76637e9367f1dae9bf9e59c73499cb8e": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6309900",
@@ -7131,6 +7191,10 @@
     "canonical_url": "https://www.channelnewsasia.com/asia/cambodia-scamming-crimes-vietnam-crackdown-6149366",
     "resolved_at": "2026-06-03T05:11:33+00:00"
   },
+  "d19b811d60335c40e273f16c39ec3567c478f6b05b7f3c8d7d0aa9437bc41b91": {
+    "canonical_url": "https://arxiv.org/html/2607.17586v1",
+    "resolved_at": "2026-07-27T03:59:16+00:00"
+  },
   "d1b4899e0baac6969a3c1cb20cb0213cce8e146fa2bc0075907ae9d2e482779a": {
     "canonical_url": "https://apnews.com/article/killing-yemen-houthis-journalist-aden-sanaa-d2d0799755ad907a26bab249c37d7285",
     "resolved_at": "2026-06-27T04:15:57+00:00"
@@ -7361,7 +7425,7 @@
   },
   "d82556920ae07f7051df8feff51e8564f4cf9cf0e07c29cb90696eee5b23c7b0": {
     "canonical_url": "https://arxiv.org/html/2606.29602v1",
-    "resolved_at": "2026-07-01T04:53:17+00:00"
+    "resolved_at": "2026-07-27T03:59:20+00:00"
   },
   "d827d66a8cfd87196e26c1eebe8a1c0122409ef4a8696ade676c1da79eec25ea": {
     "canonical_url": "https://arxiv.org/pdf/2512.22470",
@@ -7522,6 +7586,10 @@
   "dd3cb7f315f11c43eda65b05f726a9acfc248e34ef7ea001f9834d3b24da7bd9": {
     "canonical_url": "https://www.straitstimes.com/world/united-states/tennessee-calls-off-botched-lethal-injection",
     "resolved_at": "2026-05-23T15:51:18+00:00"
+  },
+  "dd55418e80bc5918d0b6cc5b75658d658a8fe5e4bd42ffa3b0b4c99592995267": {
+    "canonical_url": "https://www.wired.com/story/people-are-getting-off-to-content-about-ice-raids/",
+    "resolved_at": "2026-07-27T03:59:09+00:00"
   },
   "dd56023f23f06621ba9bc8e9e1cc1280857e6f9ce491c8fde0272fb578a3fbc4": {
     "canonical_url": "https://arxiv.org/abs/2605.21164",
@@ -7705,7 +7773,7 @@
   },
   "e224f5e857ced2c0a3b24cb43f30bd4bcb049932561d5fa3b184f2fdbefece5e": {
     "canonical_url": "https://arxiv.org/html/2605.22604v1",
-    "resolved_at": "2026-06-18T05:01:28+00:00"
+    "resolved_at": "2026-07-27T03:59:15+00:00"
   },
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "canonical_url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
@@ -8074,6 +8142,10 @@
   "ea8d58a8ec2d7c592de77754445713ee168aadb5e157a4d020cc989abc3e57c7": {
     "canonical_url": "https://dl.acm.org/doi/10.1016/j.cose.2022.102937",
     "resolved_at": "2026-06-02T05:02:15+00:00"
+  },
+  "eaa5573d6a4f00b2703b928c190edc8b49e2729beba0b8bfc9444b366f74942d": {
+    "canonical_url": "https://arxiv.org/html/2607.18496v1",
+    "resolved_at": "2026-07-27T04:00:03+00:00"
   },
   "eac4371f58217305304b7f97c2fb5bf38fd3a92b64d2f182ae5dd1f6904058c8": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/07/jackson-mississippi-mayor-lumumba-guilty-plea",
@@ -8467,6 +8539,10 @@
     "canonical_url": "https://www.ft.com/content/5083e285-0ba2-4507-b17c-f6dfa17ff21e?syn-25a6b1a6=1",
     "resolved_at": "2026-06-18T05:01:19+00:00"
   },
+  "f619bb191924f97dfd371713b3fb8b2007d160f41e5ee2145833c95b9d1d9257": {
+    "canonical_url": "https://developers.cloudflare.com/api/resources/registrar_sandbox/subresources/update_status/",
+    "resolved_at": "2026-07-27T03:59:24+00:00"
+  },
   "f62c29396382506df0425d50eb94626a5f821407a34d016d7cf0d03981bdbd85": {
     "canonical_url": "https://arxiv.org/html/2606.02111v1",
     "resolved_at": "2026-06-26T04:40:02+00:00"
@@ -8841,7 +8917,7 @@
   },
   "ff60962517bfcf86ea6334fae985fcee89cde6aadb45a42740222f718941389b": {
     "canonical_url": "https://arxiv.org/pdf/2605.27557",
-    "resolved_at": "2026-06-03T05:10:02+00:00"
+    "resolved_at": "2026-07-27T03:59:26+00:00"
   },
   "ff94a909267f4aed37965a45395dcba5ee8f5928ca048ea4a2e3ca092d9f1949": {
     "canonical_url": "https://www.wired.com/story/wave-cash-apps-magic-wand-to-pay-for-stuff/",
