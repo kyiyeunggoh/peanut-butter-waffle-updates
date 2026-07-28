@@ -4047,25 +4047,45 @@
   },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
-    "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-05-25T00:48:02+00:00",
-    "direct_relevance_terms_found": [],
-    "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\svgsetup inkscapelatex=false, inkscapearea=page On-Policy Consistency Training Improves LLM Safety with Minimal Capability Degradation Andy Han \u2217 1 Kristina Fujimoto \u2217 1 Avidan Shah \u2217 1 Kiet Nguyen 1 Kai Xu 1 Chen Yueh-Han 1 Ilia Sucholutsky \u2020 1 Rico Angell \u2020 1 1 New York University Abstract Aligned models can misbehave in several ways: they are often sycophantic, fall victim to jailbreaks, or fail to include appropriate safety warnings. Consistency training is a promising new alignment paradigm to mitigate such failures by training invariants into the model using contrastive input pairs. Existing consistency training procedures generate the supervision signal once, offline, and use supervised fine-tuning (SFT) to update the model. Unfortunately, the resulting models tend to merely memorize the surface forms of the training distribution and thus generalize poorly and regress in their capabilities. We introduce On-Policy Consistency Training (OPCT), a new consistency training approach where the objective is computed over the model\u2019s own responses to prompts, supervised by itself conditioned on corresponding contrastive prompts. We evaluate OPCT on three safety axes: sycophancy, jailbreaking, and safety awareness. Across three model families, OPCT outperforms its SFT counterpart on all safety desiderata. It nearly halves the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "irrelevant_or_adjacent",
-    "research_relevance_score": -60,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [],
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [],
-    "word_count": 0
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 25241
   },
   "16b419c454bd5f3691ae62f164326453a52156c1beff6bf648e0f091c9245ddb": {
     "access_status": "available",
@@ -5437,6 +5457,39 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "1ec434e0c576566263972b2fd5bfd95dbb21d4d287dc85b3a8099f45c362f0f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Back to Newsroom Facebook July 24, 2026 July 23, 2026 Listen to Article 10 Pause 10 0.25\u00d7 0.5\u00d7 1\u00d7 1.25\u00d7 1.5\u00d7 2\u00d7 Takeaways We\u2019re launching Facebook Verified, a free badge that verifies there\u2019s a real person behind a profile using a simple selfie-based verification process. The badge appears where it matters most on Facebook, with no subscription fee. Every day, billions of people use Facebook for genuine connection between real people \u2014 to buy and sell on Facebook Marketplace, meet someone on Facebook Dating, or join a conversation in Groups. As AI makes it easier to generate content, profiles, and messages, we want to provide a way for you to know there is a real person on the other side of a profile. That\u2019s why we\u2019re introducing Facebook Verified, a free badge for people on Facebook. How It Works Facebook Verified uses a simple selfie-based process. You record a short video selfie, which we check against your existing profile photos to confirm a match. The process is free and typically takes just a few minutes. Accounts must meet our trust and safety standards to qualify for verification. https://about.fb.com/wp-content/uploads/2026/07/02_Verification_Flow.mp4 Facebook Verified is available to eligible Facebook users, 18 years and older on Facebook who are in good standing with our Community Standards , specifically those prohibiting fraud, scams, and deceptive practices, and...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1423
   },
   "1ee14f3022521e48b53af6d1de172993930980661e13be6a2f3cf978c04a1b0a": {
     "access_status": "available",
@@ -7302,6 +7355,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4214
+  },
+  "29a6424b7930b56a663834a0a403400b703495628103eab785bbbfe4efdccc76": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same Vietnam is weighing the most unusual version yet of the youth social media bans that are sweeping the globe. Instead of kicking kids off platforms entirely, the country wants to let them stay logged in \u2014 just muted. Under a draft decree from Vietnam\u2019s Ministry of Culture, Sports and Tourism, reported on Friday by Reuters, users under 16 would keep their social media accounts but lose the ability to post, comment, or react to content. The proposal would require social media accounts for children under 16 to be registered under a parent, who would then be responsible for monitoring the content the child accesses and their time spent on the platforms. The platforms themselves would be required to deploy technical measures to identify which of their users are children and restrict them to age-appropriate content. Deputy Culture Minister Phan Tam said the goal isn\u2019t to ban or excessively restrict children\u2019s access to social media, but to ensure they\u2019re in an age-appropriate environment when they do use it. The decree hasn\u2019t been finalized and could still be revised before adoption. Vietnam is also considering separate restrictions on gaming, which would cap play for under-16 users at 60 minutes a day per game and apply the same parental registration requirement used...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2943
   },
   "2a3644d10a98eca901dd3838907af2e69b36a10657c7e65fee5edf69c485038f": {
     "access_status": "available",
@@ -9876,6 +9953,30 @@
     ],
     "word_count": 3992
   },
+  "379abca2ffbf80cf3aaa1beb14e75a0292f462370a7a0d500f374bd01ba29b38": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "37b679ca13aa1b186649ade5e632deb6d8ce539c849a51183fe81719008ababe": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -10023,6 +10124,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1842
+  },
+  "3862a9820e66d54301d373a21eeb0112c6657b269d991097ac9f4f41ed8a011f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "On Wednesday, the Environmental Protection Agency held a public hearing on a proposed rule change that would hand the power to states to decide how the public participates in the permitting process for certain new sources of air pollution . The proposed rollback comes as data centers face greater pushback across the US, with many communities using the permitting process to try to slow down development . Any changes could have major consequences for how ordinary people are given notice about new or expanded polluting facilities coming into their neighborhoods. \u201cAs someone actively working in communities with data centers, I know this to be fundamentally true: People want to have a say,\u201d Vanessa Lynch, a Pennsylvania organizer with Moms Clean Air Force, said at the EPA hearing. Companies building any kind of facilities that release air pollution are required to get permits under the Clean Air Act. Polluting sources can either be put through a \u201cmajor\u201d permitting process, meaning that they meet or exceed thresholds for certain pollutants, or a \u201cminor\u201d one for those that don\u2019t. Major sources of pollution are reviewed by both federal and state regulators and have extensive requirements before and after construction. However, there\u2019s less oversight of minor sources. The scope of what gets permitted as a minor source is extremely broad and can include everything from dry cleaners and...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3216
   },
   "38c43c8b5a66383f09a42165e168dbad761f4aad1f3a5c0cad092bf8e74c7135": {
     "access_status": "available",
@@ -11224,7 +11349,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Rethinking Fraud Safety Evaluation: Multi-Round Attacks Reveal Safety\u2013Utility Tradeoffs in Graph-Context LLM Defenders Laura Jiang Curtin University 22742957@curtin.edu.com.au Reza Ryan Curtin University reza.ryan@curtin.edu.au Qian Li Curtin University Qli@curtin.edu.au Nasim Ferdosian Curtin University nasim.ferdosian@curtin.edu.au Abstract Single-turn safety evaluation is a poor proxy for real fraud defense, where attackers escalate across multiple rounds. This paper evaluates fraud defenders under replay and adaptive multi-round attacks and measures when a defender refuses, not just whether it eventually refuses. On a frozen multi-round suite built from Fraud-R1, graph-context defenders improve early safe refusal relative to text-only baselines under both replay and adaptive fraud pressure, but they also produce substantially more benign over-refusal. Direct probing of the trained graph encoder, together with paired shuffle-risk ablations on both fraud and benign sides replicated across two seeds on the Qwen-1.5B backbone, localises this cost to how the defender LLM consumes structured context rather than to graph-encoder quality: the encoder cleanly separates fraud from benign, while the LLM responds primarily to the presence of structured graph fields and only secondarily, and asymmetrically, to risk-score magnitude....",
     "cache_version": 8,
-    "checked_at": "2026-06-12T05:02:31+00:00",
+    "checked_at": "2026-07-28T03:31:38+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "payment fraud",
@@ -21002,7 +21127,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection Yichen Chen National University of Singapore School of Computing, Singapore 117417 chenyichen@u.nus.edu Siying Li University of Chinese Academy of Sciences Institute of Information Engineering, Beijing 100085 lisiying@iie.ac.cn Yuhang Liang China Mobile Communications Group Big Data Business Group, Beijing 102206 liangyuhang@chinamobile.com Lijun Wang China Mobile Communications Group Big Data Business Group, Beijing 102206 wanglijunit@chinamobile.com Renyang Liu National University of Singapore Institute of Data Science, Singapore 117602 ryliu@nus.edu.sg Corresponding author. Abstract Fraud detection in payment, e-commerce, and telecommunications systems requires accuracy at the individual level, robustness under severe class imbalance, and ease of understanding for risk managers. Existing methods fall at least one of these requirements: automated machine learning systems search a fixed numerical space without semantic awareness of the dataset; graph neural network-based methods require pre-defined relational graphs and remain opaque at the individual-decision level; and the design of general-purpose large language model (LLM) agents does not consider the recall and precision constraints specific to real-world fraud detection. In this paper, we propose...",
     "cache_version": 8,
-    "checked_at": "2026-06-12T05:02:19+00:00",
+    "checked_at": "2026-07-28T03:31:36+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "account takeover",
@@ -22868,6 +22993,34 @@
     ],
     "word_count": 22512
   },
+  "7831ad80a072a824b879d5d825e27c43cb5abd1b59281d2511deb40c0dc72f0e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "DHS has been a hub of controversy during the second Trump term: the ICE raids in American cities , the wild spending, the growing archipelago of detention centers , the attempts to hide data about it all. But vanishingly few officials have left the department and been openly critical of the direction it has taken. Marc Rosenblum , who served as executive director of the Office of Homeland Security Statistics and a deputy assistant secretary at the department, is one of the first. \u201cI\u2019m thrilled to end my relationship with the current administration,\u201d Rosenblum said in a LinkedIn post over the weekend. \u201cBetween the war on immigrants, the war on feds, and the war on facts (not to mention the crazy war in Iran and the brazen corruption), I just need a change.\u201d Rosenblum also served in the first Trump and Biden administrations, initially running DHS\u2019s office of immigration statistics, and then overseeing stats for the entire department \u2014collating numbers on everything from cybersecurity intrusions to trafficking investigations to deportations. His office peaked at 45 people in the Biden years, and started to shrink since. \u201cHe had one of the most interesting charges at DHS,\u201d a former colleague tells WIRED of Rosenblum. \u201cThere's 22 component agencies, and so there are 22 different ways of aggregating data that were just completely siloed.\u201d \u201cSo Marc's charge was to consolidate all the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3404
+  },
   "78695207a9d2dedb9d22ba5de38987be338c7391cc600a4b43c5c2002b467934": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -24058,6 +24211,41 @@
     "weak_generic_terms_found": [],
     "word_count": 1914
   },
+  "7df457ff9952a66dc2679db2cdd8bcb3dfef381e790659647cefd8358680cb50": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Just ask Google . Over the weekend, people were surprised to discover that some Anthropic Claude chats could be easily found via web search. The issue, which appears to have been first flagged by a redditor , exposed chats that included people asking for advice about what political party they should join, whether attorneys in Kansas are required to self-report when they believe they\u2019ve committed an ethical violation, and erotic role play. Claude allows users to share with other people \u201csnapshots\u201d of chats by creating a public URL to a specific chatbot thread. The reasons some of these URLs were indexed by major search engines comes down to the basic functions of websites, search engines, and the collision of the two when generative AI gets in the mix. Basically, Anthropic instructs web crawlers, like those used by search engines like Google and Bing, not to index chats a user decides to share with other people. The company does this via something called a robots.txt file, which has long been considered the standard way to tell web scrapers what parts of a site are appropriate to access. Anthropic\u2019s robots.txt has made \u201cshared\u201d chats off limits to web scrapers since at least September 2025, according to a snapshot on the Wayback Machine. But it\u2019s harder to prevent pages from being included in search engine results than you might expect. Bing, which still shows \u201cabout 612...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2887
+  },
   "7dff88962660087e1ab0437378a628bb81d3a978485c8d51d151191491b0c733": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24659,6 +24847,35 @@
       "trust"
     ],
     "word_count": 8288
+  },
+  "804ddffa5e4a5d41f54bdea4cf0dbb00b347d7b9c7ad0a9cc6fbe990d0441287": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Protective Capacity Hallucination: When Large Language Models Claim Nonexistent Capabilities Eunna Lee Independent Researcher eunna.lee.ai@gmail.com Jungpyo Nam Korea Cyber University Sunjun Hwang Yonsei University Abstract When cast as the protector of a vulnerable user yet given no explicit capability boundary, a large language model (LLM) may respond not by acknowledging its limits but by claiming to have taken\u2014or to be taking\u2014a real-world protective action it cannot perform, such as contacting emergency services or administering care. We term this phenomenon Protective Capacity Hallucination (PCH): a self-referential misattribution in which a model, acting in a protective role, asserts physical or institutional agency exceeding its affordances as a language model. In a three-phase study spanning eight LLMs and 13,600 sessions, we find PCH jointly gated by situational severity and interactional format: multi-party dialogic input drives it toward ceiling in most models across ordinary service domains, whereas in intimate-partner conflict\u2014a domain explicitly covered by safety alignment\u2014it remains at floor in all eight models despite greater physical severity. We interpret PCH as the signature of a deployment-design gap between role assignment and capability-boundary specification: a by-product of partial alignment in which a...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16590
   },
   "8075c316a64370af2bbb7f50a2bbbb42bff0a0c783f9d35142f84bf5c56d3a25": {
     "access_status": "available",
@@ -25811,6 +26028,42 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "861629879acf820d940008c8c7fa21e65eb43b5bc3e8650cef226a918a1c1c86": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Roughly 130 cops were deployed to the area. New York City officials were preparing to shut down the surrounding blocks to both vehicles and pedestrians the next day for a major, major event. July 2 was, of course, the kickoff to Taylor Swift and Travis Kelce\u2019s wedding celebration, an approximately 100-person rehearsal dinner at Madison Square Garden\u2019s Infosys Theater. And yet, on that extremely sensitive evening, Dolan\u2019s MSG locked nearly all of its security team out of the network of surveillance cameras inside the arena, according to an internal document reviewed by WIRED. The move functionally prevented MSG security from fully operating the venue\u2019s controversial face-recognition program that evening, two sources familiar with the Garden\u2019s operations say. While the shutdown order reviewed by WIRED applied only to July 2, those sources add that they were told the lockout was repeated on July 3, Swift and Kelce\u2019s wedding night, which drew roughly 1,000 of the biggest names in media, music, business, and sports. At every stage of their planning, Swift\u2019s and Kelce\u2019s teams went to extraordinary lengths to keep private what happened inside the Garden. Guests had to sign a nondisclosure agreement before they could receive a digital invitation. Tents were set up for cars to park in, so people could move in and out in relative secrecy (and, presumably, avoid the biometric...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 7256
   },
   "863d789267480e109461081786d58a1e9c833e044c123f52f8a7078f295a2a8d": {
     "access_status": "available",
@@ -28355,6 +28608,53 @@
     "weak_generic_terms_found": [],
     "word_count": 2316
   },
+  "93eb2b4918c75346e22d99168968088e8dcf9208d1fcf40e89081a05aacd7720": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Position: AI/ML Deepfake Research is Misaligned with AI-Generated Non-Consensual Intimate Imagery (AIG-NCII) Li Qiwei Wells Lucas Santo Sarita Schoenebeck Eric Gilbert Abstract AI-generated non-consensual intimate imagery (AIG-NCII) is not adequately addressed in AI/ML literature regarding AI-generated media, commonly referred to as \u201cdeepfakes\u201d. While research on deepfakes currently focuses on its epistemic harms\u2014or harms relating to truth and authenticity\u2014this is misaligned with the dominant reality of generative AI abuse involving sexualized imagery. We conduct a landscape analysis of highly-cited works to demonstrate that technical interventions addressing deepfakes almost entirely ignore AIG-NCII, limiting the research ecosystem to authenticity detection tools. In this position paper, we argue that existing interventions address viewer-centric epistemic harms, such as fraud or scams, but ignore subject-centric dignity harms, such as AIG-NCII. We illustrate that knowing an image is synthetic does not mitigate harms to subjects and may, in some cases, even exacerbate them. We conclude by offering recommendations to realign the field, including updating threat models to consider subject-centric harms and addressing AIG-NCII in AI safety research. Finally, we caution that researchers should only engage in this high-risk domain...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "watermarking",
+      "vulnerability",
+      "ai abuse",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 15758
+  },
   "942aff32c2395fe442c54c3a3b96cd5ef94e60f4fd55a9e9686e119929369442": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29958,6 +30258,43 @@
       "victim"
     ],
     "word_count": 372
+  },
+  "9e0ee5c1a8765fa8f8920103dd3547bf711fd0d0f2271a70d0e942d87ff93843": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This frame grab taken from undated handout video footage released by China's Ministry of Public Security on Jan 8, 2026, shows guards escorting handcuffed accused scam boss Chen Zhi off a China Southern plane in Beijing. (Image: AFP/China's Ministry of Public Security) New: You can now listen to articles. This audio is generated by an AI tool. South China Morning Post South China Morning Post 27 Jul 2026 08:58PM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST Alleged scam-network mastermind Chen Zhi could face the death penalty, with Chinese prosecutors adding intentional injury to the list of charges against him. Chen, 38, was extradited from Cambodia to China six months ago and formally arrested on Jul 6, according to Chinese business magazine Caixin. He founded the Cambodian conglomerate Prince Group, which authorities say was linked to a sprawling online scam network.",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2457
   },
   "9e1955890240c7499c1339527817419a8d9dbcd625ce2e88fbdc09e6ca02c533": {
     "access_status": "available",
@@ -33440,9 +33777,9 @@
   "ae3f25666a41925211deea8aac4307f5543a975dcbff898d4424500f233a7798": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "IEEE Xplore - Unable to Load Page Error Code: 418 Your support ID is: <2306051624975105045> For questions, contact us at Contact & Support .",
+    "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-06-08T05:01:08+00:00",
+    "checked_at": "2026-07-28T03:31:45+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -33463,7 +33800,7 @@
     "weak_generic_terms_found": [
       "phishing"
     ],
-    "word_count": 21
+    "word_count": 0
   },
   "ae48a4d806399818cc97097b7ffbf4651b2c98c48d6e11d3fa337f43d88b2413": {
     "access_status": "available",
@@ -35378,6 +35715,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3444
+  },
+  "b894ddf05107586435100c3d4729a881a5317359aa5b624c4df1509744c8745a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 54
   },
   "b8ad77bedd5610a7cb8e91808fc486372b4c0e79316abea415e4bbc3ec4a3c17": {
     "access_status": "available",
@@ -38340,8 +38703,9 @@
   "c61198c5bafbdfee5c2d379874e0fcd1118365b5ac04646cc864c9fe326149c0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-05-31T04:50:40+00:00",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:40+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -38352,6 +38716,9 @@
     "rejection_reason": null,
     "research_relevance_category": "irrelevant_or_adjacent",
     "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:usenix.org"
+    ],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -39522,6 +39889,46 @@
     ],
     "word_count": 23363
   },
+  "cbe34e28428741e925322cfba7739fac2045a396adc1ed218c5814ae8ba50f25": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: MUZZLE: Adaptive Agentic Red-Teaming of Web Agents Against Indirect Prompt Injection Attacks Georgios Syros Northeastern University Evan Rose Northeastern University Brian Grinstead Mozilla Corporation Christoph Kerschbaumer Mozilla Corporation William Robertson Northeastern University Cristina Nita-Rotaru Northeastern University Alina Oprea Northeastern University Abstract Large language model (LLM) based web agents are increasingly deployed to automate complex online tasks by directly interacting with web sites and performing actions on users\u2019 behalf. While these agents offer powerful capabilities, their design exposes them to indirect prompt injection attacks embedded in untrusted web content, enabling adversaries to hijack agent behavior and violate user intent. Despite growing awareness of this threat, existing evaluations rely on fixed attack templates, manually selected injection surfaces, or narrowly scoped scenarios, limiting their ability to capture realistic, adaptive attacks encountered in practice. We present Muzzle , an automated agentic framework for evaluating the security of web agents against indirect prompt injection attacks. Muzzle utilizes the agent\u2019s trajectories to automatically identify high-salience injection surfaces, and adaptively generate context-aware malicious instructions that target violations...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 24157
+  },
   "cbe8f7cb0cbade932ac38779bade9fb28e0a1ee1bcf8d0456991ea8ffeecaa32": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -40308,6 +40715,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "d05ed73b6a7ecf9b8971606ee4569586f410aaeb5f3d5e26b8239f44046fc8c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "On Friday, wildfires in Spain overran one of three observatories the US National Aeronautics and Space Administration uses to connect with spacecraft, including Voyager 1 , the James Webb Space Telescope, and the recently completed Artemis mission around the Moon. Spain declared a wildfire emergency as multiple blazes burned out of control near Madrid, with evacuation orders in place for 60,000 people. The affected area includes Robledo de Chavela, a municipality near the Deep Space Communications Complex run by NASA. Dramatic images captured by news photographers showed the radio telescopes surrounded by smoke and fire. A NASA spokesperson said in an email to WIRED that the agency successfully evacuated all personnel. They added that while the fire has now passed through the observatory complex, it remains unclear what impact the flames may have had on the sensitive equipment inside. \u201cAny potential damage will be assessed when it is safe to do so,\u201d the spokesperson said. They add that if conditions allow, a site assessment could happen as soon as Saturday. For now, NASA said it has \u201cseamlessly transitioned support for mission operations to the Goldstone Deep Space Communications Complex in California, ensuring continuity of service and uninterrupted support for spacecraft communications.\u201d The facility in Spain, along with the others in Canberra, Australia, and Goldstone...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2369
+  },
   "d0765ab72f74d20bebb7fc805bd660d30715f3bda0c04d733d8e0dfbb82a913d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -40933,6 +41366,38 @@
     ],
     "word_count": 132
   },
+  "d329f7370d0268058fd4146f82aeed64ac0d8784ac158e58897a3d02eea66d8a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Asian stocks slide as China prompts chip competition fears Japanese and South Korean indexes plunge, led by tech stocks Collaborate with Chinese EV makers or suffer, Thai auto firm CEO warns Absentee owners abound on top floors of Tokyo, Osaka condos Singapore births fall to lowest level since independence China's Unitree Robotics eyes capacity boost to meet humanoid demand BOJ early rate rise bets increase as yen reaches multidecade low US-Iran tensions escalate, fueling oil price surge and inflation worries For Philippine women in Taiwan's tech factories, motherhood is 'impossible' AI chip boom shifts bottleneck to advanced packaging, says AT&S CEO Taiwan's pivot away from China offers a lesson for democracies Taiwan's space industry prepares for lift-off BOJ early rate rise bets increase as yen reaches multidecade low US-Iran tensions escalate, fueling oil price surge and inflation worries Taiwan's pivot away from China offers a lesson for democracies Taiwan's space industry prepares for lift-off Editor's Picks Bank Indonesia chief quits as political pressure mounts: 5 things to know Governor's resignation 'a real test' of central bank's independence, analyst says India's battery recycling drive hits logistics and cost barriers Takaichi's $2.3tn plan draws mixed response from Japan businesses Marcos pushes tax exemptions to stimulate flagging Philippine growth Latest...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:34+00:00",
+    "direct_relevance_terms_found": [
+      "money mule"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "money mule"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "money mule"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1142
+  },
   "d332a222dc3d3a8bb15fa693fca29c333d0d9658e35c811aa78dfb6f60d3e82f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -41045,7 +41510,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: LoCC: Detection and Localization of Lip-Syncing Deepfakes via Counterfactual Frame Consistency Soumyya Kanti Datta, Shan Jia, Siwei Lyu Abstract Lip-syncing deepfakes are among the most challenging forms of manipulated media because their artifacts are localized almost exclusively to the mouth region and evolve dynamically over time. Detecting such deepfakes requires precise temporal and spatial modeling of lip motion. In this paper, we propose LoCC, a novel detection framework that performs fine-grained detection and localization of lip-syncing deepfakes at both segment and frame levels. Unlike prior approaches that analyze videos holistically, our method evaluates whether each frame aligns with a counterfactual estimate generated from its temporal neighbors. Real videos exhibit strong and stable consistency, whereas lip-sync deepfakes introduce localized inconsistencies. Following a teacher\u2013student learning paradigm, our model effectively captures these frame-level discrepancies and achieves superior performance over state-of-the-art methods on multiple benchmark lip-syncing deepfake datasets, including LAV-DF, AVDF1M, FakeAVCeleb, and KODF, and generalizes well across compression levels and datasets. Code is available at https://github.com/skrantidatta/LOCC . I Introduction The rapid advancement of generative artificial...",
     "cache_version": 8,
-    "checked_at": "2026-06-24T04:26:05+00:00",
+    "checked_at": "2026-07-28T03:31:41+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -43237,6 +43702,38 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "e0152bb7f78d65eab79b341cb061e3801a2f9bfa028878891075257aef1d6334": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: NRT-Bench: Benchmarking Multi-Turn Red-Teaming of LLM Operator Agents in Safety-Critical Control Rooms Hanwool Lee hanwool@aim-intelligence.com AIM Intelligence Republic of Korea , Dasol Choi dasol.choi@aim-intelligence.com AIM Intelligence Republic of Korea , Bokyeong Kim qhrud61@kaeri.re.kr KAERI Republic of Korea , Haon Park haon@aim-intelligence.com AIM Intelligence Republic of Korea and Seung Geun Kim sgkim92@kaeri.re.kr KAERI Republic of Korea (2026) Abstract. Large language model (LLM) agents are increasingly proposed as supervisory components for safety-critical systems, yet their robustness under sustained, adaptive adversarial pressure remains poorly characterized. We present NRT-Bench, a benchmark for multi-turn red-teaming of LLM agents acting as operators of a safety-critical system, instantiated in a simulated nuclear power plant control room. A five-role operator team, each backed by a configurable LLM, runs a plant governed by six critical safety functions (CSFs), while adversaries inject messages over four channels in bounded multi-turn sessions with per-turn feedback. Harm is an objective signal rather than LLM-judged text: a run terminates the moment any CSF is lost, attributed to the causing message. Evaluating four frontier operator models under a fixed-attack paired-replay protocol, we find that adaptive...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 18683
+  },
   "e02c5dcd4ac093f3feb0627d7699cd3466134491befe7ece4a7a8e8c386471a1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -44617,6 +45114,32 @@
       "fraud"
     ],
     "word_count": 833
+  },
+  "e95c65f34fe2ed05c26d05aa6a3143e07e99da54583e9e0c190c9440a16226fa": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 54
   },
   "e9750fce8bd3134765e29d0e1e4ce1752ef88193a1c35b5d328f38985be8d18d": {
     "access_status": "unknown",
@@ -47821,6 +48344,43 @@
     "weak_generic_terms_found": [],
     "word_count": 2476
   },
+  "f92e1f91cf3f9942a4562b6cb69e7834ef55d988f3c6e39fb99c232e05c77e4e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Persuasion Attacks Can Decrease Effectiveness of CoT Monitoring Jennifer Za LASR Labs &Julija Bainiaksina 1 1 footnotemark: 1 LASR Labs University College London &Nikita Ostrovsky LASR Labs &Tanush Chopra LASR Labs &Victoria Krakovna Google DeepMind Equal contribution. Abstract Chain-of-thought (CoT) monitoring is a promising safety mechanism for AI agents, based on the premise that visible reasoning traces can surface misaligned or deceptive behavior. While effective in standard scenarios, recent work highlights that LLMs remain vulnerable to persuasion-based jailbreaks, where natural-language arguments override model constraints. We stress-test whether this vulnerability extends to monitoring LLMs: can an adversarial agent persuade its CoT monitor to approve proposed actions that violate the monitor\u2019s policy? We design an evaluation framework with 40 tasks and analyze thousands of agent-monitor interactions, where agents are instructed to argue for policy-violating proposals. We find that in such adversarial settings, monitor access to the agent\u2019s CoT reasoning increases rather than decreases approval of harmful actions on average by 9.5%, as the scratchpad provides an additional persuasion channel. To address this, we introduce a fact-checking monitoring framework. We find that a fact-checker and monitor pairing from...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:37+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 16683
+  },
   "f93e974a05a1d7c54d4be1beda8ca7536e8e78999e8b0717901d68afadb8485d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -47923,6 +48483,36 @@
       "trust"
     ],
     "word_count": 4188
+  },
+  "f9c353b00a18cf2f6d797d9663e17bb24d6bf8017a95edba76f610dd85027430": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Swiss-Bench 003: Evaluating LLM Reliability and Adversarial Security for Swiss Regulatory Contexts Fatih Uenal Department of Computer Science, University of Colorado Boulder fatih.uenal@colorado.edu Abstract The deployment of large language models (LLMs) in Swiss financial and regulatory contexts demands empirical evidence of both production reliability and adversarial security, dimensions not jointly operationalized in existing Swiss-focused evaluation frameworks. This paper introduces Swiss-Bench 003 (SBP-003), extending the HAAS (Helvetic AI Assessment Score) from six to eight dimensions by adding D7 (Self-Graded Reliability Proxy) and D8 (Adversarial Security). I evaluate ten frontier models across 808 Swiss-specific items in four languages (German, French, Italian, English), comprising seven Swiss-adapted benchmarks (Swiss TruthfulQA, Swiss IFEval, Swiss SimpleQA, Swiss NIAH, Swiss PII-Scope, System Prompt Leakage, and Swiss German Comprehension) targeting FINMA Guidance 08/2024, the revised Federal Act on Data Protection (nDSG), and OWASP Top 10 for LLMs. Self-graded D7 scores (73\u201394%) exceed externally judged D8 security scores (20\u201361%) by a wide margin, though these dimensions use non-comparable scoring regimes. System prompt leakage resistance ranges from 24.8% to 88.2%, while PII extraction defense remains weak...",
+    "cache_version": 8,
+    "checked_at": "2026-07-28T03:31:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 19016
   },
   "f9ef2dbfba3baa7218b0c0e9510ed4fdca518ce728da65ee4ca7bdb9a41e66ed": {
     "access_status": "available",
