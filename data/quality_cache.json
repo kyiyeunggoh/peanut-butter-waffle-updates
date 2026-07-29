@@ -2625,6 +2625,48 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "0ebc322d48c3319f48dab5e7e8a3c48bbb5bdc81842b6a543639aa8f60b2b03e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Criminal gangs increasingly lure people to work in online scam centers, UN migration agency warns U.S. Amy Pope, Director General of the International Organization for Migration (IOM), briefs the media on Protecting Victims of Trafficking in Online Scam Operations, during a press briefing, at the European headquarters of the United Nations in Geneva, Switzerland, Tuesday, July 28, 2026. (Salvatore Di Nolfi/Keystone via AP) Leer en espa\u00f1ol Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit GENEVA (AP) \u2014 The U.N.'s migration agency is warning that criminal networks have been trafficking hundreds of thousands of people \u2014 many of them educated English speakers \u2014 to work in online scam centers, and the caseload is growing. \u201cWe\u2019re seeing so many more of these cases emerge right now,\u201d IOM Director-General Amy Pope told reporters in Geneva on Tuesday. \u201cWe\u2019re seeing victims from over 80 different countries being trafficked into the scams.\u201d AP AUDIO: Criminal gangs increasingly lure people to work in online scam centers, UN migration agency warns AP\u2019s Lisa Dwyer reports on a growing trend in human trafficking at international scam centers. \u2018They\u2019re recruiting people who often speak English very well, who often have graduate degrees, some level of...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fake job",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fake job",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fake job",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 717
+  },
   "0f07305b39443ee5041bce5914c6b49e4d5ac898d4c175864a3a4ba7630e80ed": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10149,6 +10191,54 @@
     "weak_generic_terms_found": [],
     "word_count": 3216
   },
+  "38bb49155521f6d263a8ae4d69323b15cf57b759a0acfe8b563a043eb42119c2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook Florinel Alin Croitoru alincroitoru97@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Andrei-Iulian H\u00eeji andrei-iulian.hiji@unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Vlad Hondru vlad.hondru@fmi.unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Nicolae C\u0103t\u0103lin Ristea ristea.nc@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Paul Irofti paul@irofti.net Department of Computer Science, University of Bucharest Bucharest Romania , Marius Popescu popescunmarius@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Cristian Rusu cristian.rusu@fmi.unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Radu-Tudor Ionescu raducu.ionescu@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Fahad-Shahbaz Khan fahad.khan@liu.se Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) Abu Dhabi UAE and Mubarak Shah shah@crcv.ucf.edu Department of Computer Science, University of Central Florida Orlando US (5 June 2009) Abstract. We survey deepfake generation and detection techniques, covering all...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 33073
+  },
   "38c43c8b5a66383f09a42165e168dbad761f4aad1f3a5c0cad092bf8e74c7135": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17078,7 +17168,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification Yunhao Feng 1,5,\u2217 , Ruixiao Lin 2,\u2217 , Ming Wen 3 , Qinqin He 4 , Yanming Guo 5 , Yifan Ding 3 Yutao Wu 6 , Jialuo Chen 1 , Yunhao Chen 3 , Xiaohu Du 1 , Jianan Ma 1 , Zixing Chen 3 Zhuoer Xu 1 , Xingjun Ma 3 , Xinhao Deng 1,\u2020 1 AntGroup 2 Zhejiang University 3 Fudan University 4 Alibaba Group 5 Hunan Institute of Advanced Technology 6 Deakin University Abstract LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them costly to extend as agents evolve. To this end, we present Vera , an end-to-end automated safety testing framework that instantiates software engineering testing principles for non-deterministic agents through a three-stage, self-reinforcing pipeline. First, a literature-driven exploration continuously discovers and structures emerging risks into taxonomies of safety risks, attack methods, and tool execution environments. Second, combinatorial composition across taxonomy dimensions produces executable safety cases, each specifying a concrete safety goal, a programmatically constructed initial state, and a...",
     "cache_version": 8,
-    "checked_at": "2026-07-04T04:00:50+00:00",
+    "checked_at": "2026-07-29T03:34:55+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -18635,20 +18725,22 @@
     "word_count": 3060
   },
   "62aa76e6fc72ebeca15b435d97a51b879788b1866bbf2ceca39cd6bddc12e9a5": {
-    "access_status": "unknown",
+    "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-05-27T02:37:58+00:00",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:59+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
-    "quality_checked": false,
-    "rejection_reason": "fetch_failed",
+    "quality_checked": true,
+    "rejection_reason": null,
     "research_relevance_category": "irrelevant_or_adjacent",
     "research_relevance_score": -60,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -18656,7 +18748,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": null
+    "word_count": 0
   },
   "62de0b4d2a5d9268f8e60c2a6f051528a5f8121904bcd617eda34a2b76db1f09": {
     "access_status": "available",
@@ -24126,6 +24218,42 @@
     ],
     "word_count": 1198
   },
+  "7d5e8f6d761631f997229fdc83370bbf8455d44b25ab6fb7284fe43dc3e14a61": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: A Fraud-Detection-Inspired Framework for LLM Agents Security Sheldon Yu ziy040@ucsd.edu University of California, San Diego La Jolla USA , Yingcheng Sun y\u02d9sun4@uncg.edu UNC at Greensboro Greensboro USA , Hanqing Guo guohan@iu.edu Indiana University Bloomington Bloomington USA and Qianqian Tong q\u02d9tong@uncg.edu UNC at Greensboro Greensboro USA (2018) Abstract. Large Language Model (LLM) agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However, their increasing autonomy also introduces a new attack surface: adversarial interactions can manipulate agent behavior through direct prompt injection, indirect content attacks, and multi-turn escalation strategies. Existing defense strategies focus on prompt-level filtering and rule-based guardrails, which are often insufficient when risk emerges gradually across interaction sequences. In this work, we propose a fraud detection-inspired framework for modeling adversarial interaction risk in LLM agents. Instead of determining whether a single prompt is malicious, our framework models risk over interaction trajectories using behavioral signals inspired by fraud detection, comprising signals from prompt content, session history, tool usage, execution context, and cross-turn interaction patterns. The detection framework can be...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:59+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "cybersecurity",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 11692
+  },
   "7d869847a74e192ade9d0b6e210c9cd8aeace7376ddccc12ce8797879e3ff72d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -24152,6 +24280,46 @@
       "fraud"
     ],
     "word_count": 1100
+  },
+  "7d919744bd7e9631d998155ef49b0398d2a8567e8fcdc97d64f874967195f45f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 50
   },
   "7db56d3838e6b3d1fa4d8334a35db48b20f5ea1acad1182ddb8ca7c1ebd65463": {
     "access_status": "available",
@@ -30391,6 +30559,39 @@
     ],
     "word_count": 9616
   },
+  "9ebf41eef7831a2a0e4fc78ba67616ff91cc6560a7d39d724f1ff6936c2cffc1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: A3Data - http://www.a3data.com.br Correspondence to: 1 1 email: claudio.lucio@a3data.com.br Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection Cl\u00e1udio L\u00facio do Val Lopes Lucca Machado da Silva Abstract Financial anomaly detection suffers from extreme class imbalance, causing traditional single-objective algorithms to exhibit \u201cfraud collapse\u201d, defaulting to the majority class and failing to balance anomaly interdiction with customer friction. To overcome this without distortive data resampling, we propose the Semantic Pareto-DQN, a multi-objective reinforcement learning framework. Our approach synthesizes heterogeneous transaction features into cohesive natural-language narratives, encoded by large language models, thereby producing a robust, scale-invariant state representation. The agent optimizes a vectorial reward that explicitly decouples financial efficacy, operational friction, and semantic discovery. By mapping the continuous Pareto frontier, the system dynamically navigates the asymmetric costs of missed anomalies versus false positives. Empirical evaluations across E-Commerce fraud and UCI Credit datasets show that semantic Pareto-DQN successfully shatters the zero-recall trap. It achieves superior minority-class recall compared to scalarized...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:59+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud"
+    ],
+    "word_count": 13502
+  },
   "9ec3fcea12d596c76a65e5d216ae09a437e2f43efaa7900fd82957b84422b675": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -30843,6 +31044,39 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2824
+  },
+  "a0e3266e5bf32937abc8d892fb66eb662d19035500634ff3a9a0c98bd7c05948": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: TU Wien, Vienna, Austria 1 1 email: {andreas.happe;juergen.cito}@tuwien.ac.at 2 2 institutetext: University of Klagenfurt, Klagenfurt, Austria 2 2 email: jasmin.wachter@aau.at The Ethics of Autonomous AI Agents for Offensive Security Andreas Happe J\u00fcrgen Cito Jasmin Wachter Abstract LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling \u2014 deterministic, narrowly scoped, and operated by trained practitioners \u2014 agentic security tools exhibit indeterminacy along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation, frustrating incident attribution and pre-deployment safety review. Second, their impact is open-ended due to the non-deterministic actions, agency of utilized models, and opaque LLM supply-chains. Third, their user population is indeterminate in both size and required skill: the operating skill floor for using or developing offensive capabilities has dropped sharply. These three properties are linked thematically, but are not derivable from one another. Combined with the structural cost asymmetry between offense and defense, they enable the industrialization of offensive capability. The net short-term effect favors attackers, even if the same...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 15426
   },
   "a0f1b5c72ed48ee1c0fca8c2759316e6e23d1294e56d3cf43eb2d026eee57563": {
     "access_status": "available",
@@ -32197,20 +32431,22 @@
     "word_count": 14
   },
   "a768291c057179743f800b4f775a9c87bab2f0dc9828899b4c18054307ea0f67": {
-    "access_status": "unknown",
+    "access_status": "available",
     "anti_scam_relevance": "weak",
-    "cache_version": 5,
-    "checked_at": "2026-06-02T05:01:50+00:00",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:58+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
-    "quality_checked": false,
-    "rejection_reason": "fetch_failed",
+    "quality_checked": true,
+    "rejection_reason": null,
     "research_relevance_category": "irrelevant_or_adjacent",
     "research_relevance_score": -60,
+    "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
@@ -32219,7 +32455,7 @@
       "cybersecurity",
       "trust"
     ],
-    "word_count": null
+    "word_count": 0
   },
   "a76f2e14d0106fa69bb28c8ee994bed2e5f7ec5c868baf632c903b069aa1c33d": {
     "access_status": "available",
@@ -33156,6 +33392,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "ab87b0b26ec72a5bece972753c156da48cd7d3003b649ba10525e56eb40d4988": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "aba334ba6ae8a865ee3fdfd427770064ba652d2819369b734ebb328b3c695950": {
     "access_status": "available",
@@ -35551,6 +35811,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1765
   },
+  "b77c7c5c71945d0e219d88f524164a9dde139901b277f589aba16b742cf2e33e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A new analysis by Berkeley Earth climate scientist Zeke Hausfather paints a worrying picture of the climate phenomenon developing in the Pacific Ocean. Models have consistently forecast that this year's El Ni\u00f1o\u2014characterized by hotter than normal waters in the eastern tropical Pacific\u2014could be among the strongest on records. Hausfather's analysis using the El Ni\u00f1o forecast based on 14 climate models through July indicates that \u201cthis year\u2019s El Ni\u00f1o is not only very likely to be the strongest event since reliable records began\u2014it may end up the strongest by a truly mind-blowing margin.\u201d Climate researchers measure the strength of El Ni\u00f1o by looking at the temperatures in a region of the Pacific known as Ni\u00f1o 3.4, which covers the eastern and central part of the ocean basin. The new analysis relies on 667 simulations and compares them with historical records of the most intense El Ni\u00f1o events since 1877. It also disentangles El Ni\u00f1o's intensity from the background warming driven by fossil fuels, making it easier to draw comparisons between super El Ni\u00f1os. The model average shows that heat in the Ni\u00f1o 3.4 region could peak at 3.6 degrees Celsius (6.5 degrees Fahrenheit) above normal levels. This figure would exceed the previous record\u2014set during the 2015-2016 El Ni\u00f1o episode\u2014by approximately 0.8 degrees Celsius. It's rare for records to fall by such a wide spread. \u201cFor context...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2869
+  },
   "b7955e60d1408e09d8c04726f73d66aac811cf6ca8fa081713938003659ebc6d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -36614,6 +36898,46 @@
       "trust"
     ],
     "word_count": 1280
+  },
+  "bc6e3d3a621e9ce1ded07ea16658ac9df3d69bdda11320251377e4532aeb5e6f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Residents of the southern Lebanese village of Zawtar al-Gharbieh are returning to their battered homes under tight security as a Washington-brokered Lebanese-Israeli agreement takes hold, following months of war between Israel and the Iran-backed Hezbollah. IFRC chief visits war-torn south Lebanon, as residents escorted back to \u2018pilot\u2019 zones Latest videos \u2018Anxiety, sadness - everything': Wildfire evacuees take refuge at Bordeaux exhibition center Evacuees from wildfires near Madrid allowed to return home but find their homes destroyed Busiest US death chamber: Florida executes 2 men in a day, including an octogenarian Can electric vehicles help Delhi curb air pollution? 400-year-old Austrian bell foundry bets on modern technology Lifeguard rescues child from a monster surf Americans rewire grocery shopping amid biggest price jump in 50 years Trump eulogizes Lindsey Graham at National Cathedral Haitian migrants helped create New Orleans\u2019 culture, now SCOTUS says they can no longer live here Kentucky governor demands that McConnell prove he is fit to serve or resign Peru\u2019s political instability has lead to an unusual legacy; a prison just for ex-Presidents Can this photo booth find you your soulmate? Part of wall around castle collapses as 7.1 magnitude earthquake hits southern Japan Teen gets life without parole for killing 4 at Georgia\u2019s Apalachee High School Tornado leaves...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:58+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 10363
   },
   "bc7da4ccf2bb571825884c714f0a543acf6d135ba855f2b970f832ef79445774": {
     "access_status": "available",
@@ -42077,6 +42401,44 @@
     ],
     "word_count": 9250
   },
+  "d6ee8fa02f2a4bf187d9b6171bcd9ad1e83132968a69ec167a3ce5b9dbe6ab5c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Visible to the Court: How AI Is (and Isn\u2019t) Litigated in U.S. Federal Court Opinions Julie Yu University of Washington Seattle WA USA juliey12@uw.edu , Rock Yuren Pang University of Washington Seattle WA USA ypang2@cs.washington.edu , Jevan Hutson University of Washington Seattle WA USA jevanh@uw.edu and Katharina Reinecke University of Washington Seattle WA USA reinecke@cs.washington.edu Abstract. In the United States, artificial intelligence (AI) is rapidly deployed amid limited federal regulation. With courts become a recurring forum in which AI-related practices are scrutinized, it is important to empirically understand the AI litigation landscape to date. We address this gap through a systematic review of 559 U.S. federal court opinions in which AI plays a role in the parties\u2019 contentions, taxonomizing (1) common topics of dispute, (2) the AI technologies implicated, and (3) the parties involved, including common plaintiff and defendant types. We identify seven recurring dispute areas, six categories of AI technologies at the center of litigation, and four types of common litigants, alongside legal doctrines used by the litigants. A comparison of this taxonomy to the AI Incident Database revealed substantial gaps in coverage, definitions, and prevalence between documented and litigated harms, suggesting courts capture...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21521
+  },
   "d6fb4c015a82292232deb7696c94e45326bddec9c4d3c72f6b2e10d19c003761": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -42827,6 +43189,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "db3bcc56f9ebb25ca1a101dcb7fa74a7562b67f6dcd518d3ee7631e1e98aeb74": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "8 Folding Knife Read more $22 REI Gift Sun Protection Solbari Ultra Wide Brim Hat Read more $79 Solbari Laws Guide to Nature Journaling John Muir Laws The Laws Guide to Nature Drawing and Journaling Read more $35 $21 (40% off) Amazon Buying gifts for the outdoor enthusiast is damn near impossible. Your hiking/camping/cycling outdoorsy friends are often serious gearheads, meticulously poring over reviews, guides, and the perennial wisdom of ounce-counting Reddit users to find the exact right thing . Don't stress trying to pick that exact right thing yourself. The chances of you figuring it out and getting it for them as a gift is exactly zero. That doesn't mean you should punt and buy an REI gift card \u2014although they might like that, especially with REI's annual Labor Day sale coming up. But gift cards are lame. Instead, get them something they totally didn't expect: one of these fun, useful, sometimes whimsical things that are almost guaranteed to not only delight them but actually get used outdoors. And what about you? While you\u2019re here, don\u2019t you need to replace your sleeping pad? Don't forget to check out the rest of our buying guides , including our Best Sleeping Bags guide , our Best Barefoot Shoes guide , and our Best Merino Wool guide.",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 9598
   },
   "db437fc4a375799a6e1384a7ba02c38b54cb9344b8269e492eabf4fbf822d774": {
     "access_status": "available",
@@ -44553,6 +44941,44 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "e5ff38232e708a6dda1f1646a5eb63b24974b5f3f6f01d2740218d64d3bc5471": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44 \u00d7 \\times Fewer Parameters than Llama-Guard-3-8B One DeBERTa-v3 head, three safety axes (prompt injection, harm, BFSI compliance), 7-of-7 prompt-injection benchmark wins vs 8B Llama-Guard-3, zero false positives (FPR=0.000, n n =208) on benign agentic prompts, and a 100% real-world contamination-clean 76,204-row training corpus Tejasvi C. Addagada Independent Researcher tejasvi@tejasviaddagada.com \u22c5 \\cdot tejasviaddagada.com The name Semalith is built from Greek s\u0113ma (sign) and lithos (stone): a structured signal-bearing marker. This work is unrelated to Patronus AI\u2019s Lynx hallucination detector. Production weights and the evaluation harness are released under enterprise license; please contact the author for access. Abstract Deploying large language models in financial-services and agentic settings requires safety classifiers that simultaneously handle prompt injection, regulatory compliance, and general harm\u2014a combination no existing open guardrail addresses in a single inference pass. Semalith v1.4 is a 184M-parameter DeBERTa-v3-base classifier performing simultaneous three-axis safety classification\u2014prompt injection, general harm, and financial-services regulatory compliance\u2014in a single forward pass. Its 22-class...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "prompt injection",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 13176
   },
   "e63d95abe8001fbd2889c4a88c83811bda555035245f4dc78c31a55b5ab4a274": {
     "access_status": "available",
@@ -47785,6 +48211,42 @@
     ],
     "word_count": 17
   },
+  "f5dfa77c848388b4efefe9e92d4a71663cd162869c2ab7d290bba44f281016aa": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: A Fraud-Detection-Inspired Framework for LLM Agents Security Sheldon Yu ziy040@ucsd.edu University of California, San Diego La Jolla USA , Yingcheng Sun y\u02d9sun4@uncg.edu UNC at Greensboro Greensboro USA , Hanqing Guo guohan@iu.edu Indiana University Bloomington Bloomington USA and Qianqian Tong q\u02d9tong@uncg.edu UNC at Greensboro Greensboro USA (2018) Abstract. Large Language Model (LLM) agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However, their increasing autonomy also introduces a new attack surface: adversarial interactions can manipulate agent behavior through direct prompt injection, indirect content attacks, and multi-turn escalation strategies. Existing defense strategies focus on prompt-level filtering and rule-based guardrails, which are often insufficient when risk emerges gradually across interaction sequences. In this work, we propose a fraud detection-inspired framework for modeling adversarial interaction risk in LLM agents. Instead of determining whether a single prompt is malicious, our framework models risk over interaction trajectories using behavioral signals inspired by fraud detection, comprising signals from prompt content, session history, tool usage, execution context, and cross-turn interaction patterns. The detection framework can be...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:54+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "cybersecurity",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 11692
+  },
   "f5f06dc92e68ee95d591b4ed8989984bdb885ec64fedeceea832cc92dc805fc0": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -48635,6 +49097,30 @@
       "trust"
     ],
     "word_count": 9285
+  },
+  "fa33a669e642e8ac94eceb8ab6e5628d7d96bb1b3f8f04bb45660867aded642c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "fa50860d4e78ba5f224b4f2838bf0b5348161394dc749ebf9e4bad6ab00d66cf": {
     "access_status": "available",
@@ -49775,5 +50261,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "ffe0d4a6d38ab156312ada369d807c3d9285f2f531b300bb374f4764eddb2af4": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The gist of it: The company and former execs have to own up to\u2014and pay up for\u2014 perhaps the most disturbing harassment campaign ever led by a giant tech company against its critics. Back in 2020, six former eBay employees and one contractor were charged with participating in a horrifying campaign\u2014featuring doxing, threats, and deliveries of live pests\u2014against David and Ina Steiner, the husband-and-wife founders of the Massachusetts-based news site EcommerceBytes. The Steiners wrote about eBay regularly, often not in a flattering light. In 2021, the couple filed a civil suit; EBay later agreed to pay a $3 million criminal penalty to the US Attorney\u2019s Office in the District of Massachusetts. Now the civil litigation case just reached a final settlement. The Steiners will receive more than $46.15 million from eBay, $2 million from former eBay CEO Devin Wenig, $500,000 from former eBay executive Wendy Jones, and $50,000 from former eBay executive Steve Wymer. EBay is also giving $6 million to charity, with an additional $1 million from Wenig going to a nonprofit that protects First Amendment rights. The company is required to issue a strongly worded statement condemning the actions of the former employees who were involved. Notably, the settlement contains no confidentiality provision, which means the Steiners can continue to speak out about the case. \u201cFrom day one, that was a...",
+    "cache_version": 8,
+    "checked_at": "2026-07-29T03:34:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 3758
   }
 }
