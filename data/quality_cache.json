@@ -100,6 +100,36 @@
     ],
     "word_count": 3121
   },
+  "0078192b1c966388379f18557ce5061f160594deb2fa6021bb7d39bc40b50b23": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing Sam Relins a,b,* Daniel Birks a,b a ESRC Vulnerability and Policing Futures Research Centre b School of Law, University of Leeds, Leeds, UK * Corresponding author: s.relins@leeds.ac.uk Abstract Public services face growing pressure to adopt artificial intelligence (AI) to close the gap between rising demand and falling resources. That pressure has intensified with the arrival of general-purpose AI (GPAI): AI built on large language models, that can be directed by prompt alone to perform an effectively unbounded range of tasks. We argue that the properties that make these models attractive: their generality, accessibility, and the low cost and expertise required to deploy them, undermine the conditions under which AI safety has historically been pursued. The safety concepts that public service governance frameworks foreground - accuracy, bias, explainability, and accountability - were made tractable by narrow, purpose-built AI, and the mitigations that guidance documents continue to prescribe presuppose exactly what GPAI removes. Accuracy cannot be quantified over unbounded outputs. Bias cannot be disaggregated when outputs are free-text judgements rather than categorical predictions. Explainability gives way to the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:ox.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 22171
+  },
   "007b90728be8448ba2d0bd40d681ffeb122bb3b8c7e3371b7cbea13e3920c952": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -4087,6 +4117,42 @@
     ],
     "word_count": 8033
   },
+  "1634c21d26a1543df828f9ebb196d7aa65af82fe678a739ee07611cdeda151f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u201cI was under the assumption that when they pulled TPS and their eligibility for that program ended \u2026 they were going to be boarding planes or buses today \u2026 today, this morning at dawn to go back to Haiti,\u201d said Bannon, a longtime ally of President Donald Trump, on his War Room podcast on Tuesday. \u201cWhy are they not out of the country?\u201d Mike Davis, a conservative political strategist agreed with Bannon: \u201cThe solution is to get these people the hell out of our country as fast as possible, and that includes these Haitians.\u201d White nationalist Nick Fuentes, who has been a vocal critic of Trump\u2019s deportation policies because he doesn\u2019t find them extreme enough, called Haitians \u201cthe worst of the worst\u201d and \u201cvery low IQ people\u201d on his Rumble show Tuesday night. In a Telegram channel run by the Proud Boys of Columbus, one member posted a clip of the song \u201cI\u2019m Walking on Sunshine\u201d alongside the news about the revoking of temporary protected status. \u201cThey gotta go back,\u201d the member wrote. It\u2019s been a while since shock-and-awe tactics from Immigration and Customs Enforcement first gained national notoriety. For months, figures like former Border Patrol leader Greg Bovino terrorized cities like Minneapolis and Chicago. But since replacing former Department of Homeland Security secretary Kristi Noem with Markwayne Mullin\u2014derisively referred to by Bannon as the \u201c Kung fu plumber \u201d\u2014ICE\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 3540
+  },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -6097,6 +6163,40 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "21e9712c11531fa9470ecc1216b0d74e50da8f6dc1a7820dd3609ac3163b9a77": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to reliably generalize to...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:13+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 10059
+  },
   "22a53ad47ac7c1b875e69fcf99c0542dfdcb5038e06521f46e4946afff513f08": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -7422,6 +7522,35 @@
     "weak_generic_terms_found": [],
     "word_count": 2943
   },
+  "29e7f94a09f3dd68c789acfe4fbcf70d37a1d983596d60b766bc8b87d1db2d3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201dDragon Slayer Becomes the Dragon\u201d: How Players Perceive and Respond to Inequality in the Game World of Whiteout Survival Shiyu Lei 0009-0005-7706-2028 City University of Hong Kong Studio for Narrative Spaces Hong Kong China Leishiyu\u02d9@outlook.com , Ke-Xin Ren 0009-0008-1006-7125 City University of Hong Kong Studio for Narrative Spaces Hong Kong China kexin.ren.ixd@gmail.com , Daiyi Jiang 0009-0001-2651-0127 Department of Communication, University of Connecticut Connecticut United States daiyi.jiang@uconn.edu and RAY LC ray.lc@cityu.edu.hk 0000-0001-7310-8790 City University of Hong Kong Studio for Narrative Spaces Hong Kong, SAR China Abstract. Inequality in real-world societies are associated with psychological distress and behavioral consequences. However, less is known about whether similar dynamics emerge when inequality exists within virtual environments or make-belief worlds. As online games increasingly constitute meaningful social spaces, it becomes critical to examine how players perceive and react to structural and resource differences online to optimize their experiences. This study studies perceptions of inequality in the online simulation game \u201dWhiteout Survival,\u201d using semi-structured interviews and think-aloud gameplay walkthrough protocols. By focusing on players\u2019 interpretations of resource distribution...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "identity",
+      "trust"
+    ],
+    "word_count": 41064
+  },
   "2a3644d10a98eca901dd3838907af2e69b36a10657c7e65fee5edf69c485038f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -8167,7 +8296,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: \\tnotemark [1] \\tnotetext [1] \\cormark [1] \\fnmark [1] url] \\credit Conceptualization, Methodology, Data curation, Structuring, Formal analysis, Visualization, Writing - original draft, Writing - review & editing 1]organization=Istanbul Medipol University, addressline=Department of Computer Engineering, city=Beykoz, postcode=34820, state=Istanbul, country=Turkey \\fnmark [2] url] \\credit Conceptualization, Supervision, Resources, Project administration, Writing \u2013 review & editing \\fnmark [3] url] \\credit Supervision, Validation, Writing - review & editing \\fnmark [4] url] \\credit Supervision, Project administration, funding acquisition, Writing \u2013 review & editing \\fnmark [5] url] \\credit Supervision, Writing \u2013 review & editing 2]organization=Atlas University, addressline=Department of Psychology, city=Ka\u011f\u0131thane, postcode=, state=Istanbul, country=Turkey 3]organization=University of Calgary, addressline=Department of Computer Science, city=Calgary, postcode=, state=Alberta, country=Canada 4]organization=University of Southern Denmark, addressline=Department of Health Informatics, city=Odense, postcode=, state=, country=Denmark \\cortext [1]Corresponding author: Georg Thamer Francis. Email: georg.francis@std.medipol.edu.tr; georgethamer1@gmail.com AI in Cyberpsychology: A systematic literature review of Cybersecurity enhancement...",
     "cache_version": 8,
-    "checked_at": "2026-07-18T03:28:28+00:00",
+    "checked_at": "2026-07-30T03:23:14+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "smishing",
@@ -16739,6 +16868,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2143
   },
+  "57efa49115bcf80a85e26ba3beb34d414d3ecf865420a3f4fd63187bd1f171d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "57f3b35882b6e2d2a2134a14cf40b3641446110b951a7ee29a250f4dffde4fc3": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -21351,6 +21504,46 @@
     ],
     "word_count": 13177
   },
+  "6f4cae2d072aa3b167834fb16ba5ef8d52c6c33efaf454b262a6264ac1a6d700": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Diff-ID: Identity Consistent Facial Image Generation and Morphing via Diffusion Models Taimoor Rizwan, Sara Atito, Muhammad Awais, Josef Kittler Centre for Vision, Speech and Signal Processing (CVSSP) University of Surrey Guildford, United Kingdom {tr00564, sara.atito, muhammad.awais, j.kittler}@surrey.ac.uk Zhenhua Feng School of Artificial Intelligence and Computer Science Jiangnan University Wuxi, China fengzhenhua@jiangnan.edu.cn Abstract Generative diffusion models have revolutionized facial image synthesis, yet robust identity preservation in high resolution outputs remains a critical challenge. This issue is especially vital for security systems, biometric authentication, and privacy sensitive applications, where any drift in identity integrity can undermine trust and functionality. We introduce Diff-ID, a diffusion based framework that enforces identity consistency while delivering photorealistic quality. Central to our approach is a custom 210K image dataset synthesized from CelebA-HQ, FFHQ, and LAION-Face and captioned via a fine tuned BLIP model to bolster identity awareness during training. Diff-ID integrates ArcFace and CLIP embeddings through a dual cross attention adapter within a fine tuned Stable Diffusion UNet. To further reinforce identity fidelity, we propose a pseudo discriminator loss based on ArcFace...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:18+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking",
+      "synthetic identity"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 18935
+  },
   "6f4d57abae9fb2c88bbc628db4c380616cefd631857094ed05d48c67e8374ecd": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -25589,6 +25782,40 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "8224d93099dcc9889b016a585e4aadac254be3ebf41a5daa3b71b5a7a0239902": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to reliably generalize to...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:13+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 10059
+  },
   "825367df2866788f274098fdcfe630edd50a0f130143fc18dc92577a85fefdbb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -25615,6 +25842,39 @@
       "vulnerability"
     ],
     "word_count": 2519
+  },
+  "828a2c9a8198286286a0949377b61bce160647cfd2be7fd4f18fa4e2a16146cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: SkillSieve: A Hierarchical Triage Framework for Detecting Malicious AI Agent Skills Yinghan Hou Department of Electrical and Electronic Engineering Imperial College London, London, United Kingdom yh24@ic.ac.uk Zongyou Yang Dyson School of Design Engineering Imperial College London, London, United Kingdom zy2926@ic.ac.uk Abstract Agent skills combine natural-language instructions with executable code while inheriting an agent\u2019s filesystem, credential, and network access. Attacks can span prose and files, whereas regex and code-only analyzers cover only one modality. SkillSieve applies three progressively deeper layers: recall-oriented regex, AST, and metadata triage; four parallel LLM security sub-tasks; and an independent three-model jury with debate on disagreement. We evaluate 49,592 real ClawHub skills, a 390-skill labeled benchmark, and 100 adversarial samples across five evasion techniques on a $440 ARM board. The full pipeline achieves F = 1 0.929 {}_{1}=0.929 (precision 0.912, recall 0.945) at an average $0.006 per skill. An optional XGBoost fast-path reduces Layer-2/3 calls by 32% for 1.7 F 1 points without changing recall. On 52 Feishu/Lark packages, Layer 2 removes 13 of 14 Layer 1 flags as domain-specific false positives; we also deploy the system as a Feishu chat bot. Code, labels, and aggregate results are...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 10344
   },
   "82a07d6ab67bec6819d40bca2850b5ad99c622512b6af878fda9fd7feb2e3330": {
     "access_status": "available",
@@ -27031,6 +27291,44 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2021
+  },
+  "8a0a54e7fb7c4c0a03b7ee175c9a42ab7bdca6131683fa946a73bebb242216fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Malaysia police bust two scam centres in Forest City; at least 194 foreigners to be charged Sign up now: Get insights on the biggest stories in Malaysia Johor police chief Ab Rahaman Arsad said a total of 1,900 electronic gadgets were seized from the premises. PHOTO: THE STAR/ASIA NEWS NETWORK Published Jul 28, 2026, 04:30 PM Updated Jul 28, 2026, 07:44 PM Set as preferred source Listen Summarise Malaysian police busted two major scam centres in Forest City, arresting 335 people, mostly foreigners, involved in love scams, cryptocurrency fraud, and impersonation schemes targeting multiple countries. The scam centres operated from 32 premises, including apartments and bungalows, using social media platforms like Telegram and TikTok to defraud victims, seizing RM1 million worth of electronic devices. At least 194 foreigners will be charged, with police tracking the mastermind and working with Interpol; suspects had invalid travel documents and received monthly salaries between RM2,500 and RM4,000. AI generated JOHOR BAHRU \u2013 Malaysian police will work with Interpol following the bust of two major scam centres in Forest City that generated millions in scam money from victims abroad, said Johor police chief Ab Rahaman Arsad. He said the scam centres, which occupied 32 premises including 27 apartments and five bungalows, involved suspects who had previously worked in scam centres...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1901
   },
   "8a1b352e677529c8c7aee39022994063062ed16a5f3d1879dabdbfeb33981b84": {
     "access_status": "available",
@@ -34685,6 +34983,40 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "b1a3c9801ccc17f5db6c5ed8ed2e686cabb0cb790dafb9cb8b7bae29c0a21a20": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:18+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "b1b5919b00010ffce66d79e6fa4eb696d70c33f3638e5f21f0b1c1b964b3ffbe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -37567,6 +37899,44 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2065
+  },
+  "bf649c33400fcbf7b127fe6477925129dafc9bddaa4cb457fb30adcf0a266112": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44 \u00d7 \\times Fewer Parameters than Llama-Guard-3-8B One DeBERTa-v3 head, three safety axes (prompt injection, harm, BFSI compliance), 7-of-7 prompt-injection benchmark wins vs 8B Llama-Guard-3, zero false positives (FPR=0.000, n n =208) on benign agentic prompts, and a 100% real-world contamination-clean 76,204-row training corpus Tejasvi C. Addagada Independent Researcher tejasvi@tejasviaddagada.com \u22c5 \\cdot tejasviaddagada.com The name Semalith is built from Greek s\u0113ma (sign) and lithos (stone): a structured signal-bearing marker. This work is unrelated to Patronus AI\u2019s Lynx hallucination detector. Production weights and the evaluation harness are released under enterprise license; please contact the author for access. Abstract Deploying large language models in financial-services and agentic settings requires safety classifiers that simultaneously handle prompt injection, regulatory compliance, and general harm\u2014a combination no existing open guardrail addresses in a single inference pass. Semalith v1.4 is a 184M-parameter DeBERTa-v3-base classifier performing simultaneous three-axis safety classification\u2014prompt injection, general harm, and financial-services regulatory compliance\u2014in a single forward pass. Its 22-class...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:13+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "prompt injection",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 13176
   },
   "bf76a95fe54ef2eb7c7a0b4b99cbe88c2d8ab3afa5f9b43fdc54734a1e35379e": {
     "access_status": "available",
@@ -40585,6 +40955,30 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "cdfb6ea7a376f129b6140e2f02c40fb40f650da38e8c2df2131bbff0da54cf85": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "ce5f335154c1b26dafa1eb378859ab9d4b0817cb29b8e88da2c7ea460ab9e0d1": {
     "access_status": "available",
@@ -44190,6 +44584,30 @@
     ],
     "word_count": 1688
   },
+  "e03c32fa94b1294deea7a8040f22f2ccddd1834bb8eb1b4ba28195cd30f0e8c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Exclusive: SpaceX moves to keep Chinese nationals, parts out of supply chain Industry leader aims to insulate US space program from China influence AI supplier Innolight dips in Asia's second-biggest listing of 2026 Samsung Electronics profit hits all-time high on device and memory sales Thailand's bid to revive southern peace talks suffers setback BPO firm Teleperformance to open 1st Vietnam site as AI changes outsourcing Analysis: Why China denied its foreign minister had chat with Japan's China's live-fire drills in Japan's EEZ show bilateral freeze won't thaw anytime soon Chinese firms grow global market share in 40% of products: Nikkei survey SoftBank, NTT eye cross-industry platform for AI, data sharing in Japan Europe's China strategy needs more than tariffs In Focus: Magnitude-7.1 earthquake jolts Kumamoto Analysis: Why China denied its foreign minister had chat with Japan's China's live-fire drills in Japan's EEZ show bilateral freeze won't thaw anytime soon Europe's China strategy needs more than tariffs In Focus: Magnitude-7.1 earthquake jolts Kumamoto Editor's Picks Toyota accelerates succession planning to meet auto industry challenges Chairman's son goes from smart city to shop floor in classic Toyoda family move India's Adani reports loss on payment to US over alleged sanctions breach Chinese owners of UK private schools criticized after closures Kumamoto quake...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1122
+  },
   "e132efb0434e9b15facddb5224f0d39b837a1becf8cae6ef2920167be0defdad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -44424,6 +44842,43 @@
       "identity"
     ],
     "word_count": 4668
+  },
+  "e2404837bf12b9d072c37acad8063f39bf5d7a5a455c27f81dd3bfd5f50df9ef": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Photo by Alexander Shatov / Unsplash Slime Dot, a young R&B artist from Las Vegas, currently has over 100,000 monthly listeners on Spotify. In an interview with GQ in May, after sharing an image of herself posing with Drake on Instagram, Slime Dot directly denied accusations that she was an \u201cAI artist,\u201d saying \u201cThe truth doesn\u2019t matter these days. People are always gonna try to explain something they don\u2019t fully understand and believe what they want.\u201d GQ originally credulously published the interview and said it was \u201cdebunking the AI rumors.\u201d Eventually, GQ added a note to the end of the article conceding Slime Dot was an AI avatar, but said the \u201ctalent behind the music remains undeniable.\u201d This confusion could have been avoided if Spotify had done what many of its users and critics have been begging it to do since AI music generators like Suno and Udio made it trivial to flood the internet with AI music. Spotify could flag Slime Dot and other AI-generated music on its platform as such. Other platforms, like YouTube, already do this. Since Spotify doesn\u2019t do that, users can visit SoullessMusic.com , a database for \u201cAI artists hiding on Spotify. No bands, no studios, no soul, just machines and melody.\u201d There, Slime Dot is listed as \u201calmost certainly AI\u201d based on an analysis of three of the tracks and the fact that Slime Dot released such a large number of tracks in a short...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:15+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "watermarking"
+    ],
+    "word_count": 3706
   },
   "e268b01f992bd790707619749a8405aea5bd92bd3d7fa96beba8ef067dd947f4": {
     "access_status": "available",
@@ -45423,6 +45878,32 @@
       "fraud"
     ],
     "word_count": 1532
+  },
+  "e85b263ea9a81f8504bf3a0aba1f1029a17ab8d1fa6c6f79f74121c6b494310d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The new terms were published earlier this month, a day after a federal judge ruled that a contract cannot override state law and ordered ICE\u2019s largest Pacific Northwest detention center opened to Washington health officials. The ruling, by US District Judge Benjamin Settle, came only after three years of litigation; 10 refused inspections , according to the state; and 3,500 detainee complaints . A Ninth Circuit judge temporarily paused the order on July 21, with a decision on a longer stay expected in early August. Settle ordered the operator of Tacoma\u2019s immigration detention center to admit Washington state health inspectors, ruling that nothing in the company's federal contract barred them and that no contract could override state law in any case. The next morning, on July 10, ICE published draft contract terms for 5,500 detention beds in four regions of the country\u2014including language declaring that state and local laws \u201cshall not apply\u201d to the facilities' operations. Settle found that the GEO Group, the private prison company that owns the Tacoma facility, had executed a new contract with ICE in the middle of the lawsuit to support the company\u2019s claim that ICE, not GEO, controlled access to the building. \u201cPreemption requires Congressional intent, not a contract,\u201d Settle responded, \u201cand GEO's new contract cannot preempt state law, even if it purports to.\u201d Settle also noted...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3849
   },
   "e8a2c62099188dac7835b74fd87775c209b02c85f8acc7863b60bb7d4df7a21c": {
     "access_status": "available",
@@ -49307,6 +49788,32 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "fb8615cc27427f359a795e7298f529eeb78febca7a02b8cf163eb49f4498f2e2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Over the past few months, US law enforcement officials have seized deepfake hosting websites , while the EU and UK have drawn up plans to ban \u201c nudify \u201d apps by the end of the year. Despite this, large tech companies are still pushing millions in the direction of software that can digitally undress people without their consent. The open-source AI platform Hugging Face \u2014a repository of AI models and datasets, which has been valued in the billions\u2014has a widespread problem with nonconsensual deepfakes, according to a new report published Tuesday by the European nonprofit AI Forensics. Researchers from the group say they tested nine of the top image editing Spaces on Hugging Face, which host models people can directly use on the site, and seven of these easily changed a clothed image of a woman into a topless one. In further testing, AI Forensics researchers created their own honey-pot-style image editing Spaces on Hugging Face\u2014which were designed not to produce any images\u2014and tracked more than 1,000 prompts and images they received over a week. In total, AI Forensics says, 73 percent of the prompts they received were sexual in nature. Among these, 83 percent were seeking to undress or sexualize the person they had submitted a photo of\u2014with 95 percent of these being women. The research also says 6.7 percent of the sexual requests targeted apparent children. \u201cMost of the Spaces...",
+    "cache_version": 8,
+    "checked_at": "2026-07-30T03:23:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4522
   },
   "fb90a2cb7a95df224d266423f47aa792c54b7d78cd920a2d1e08d9ecb0f64470": {
     "access_status": "available",

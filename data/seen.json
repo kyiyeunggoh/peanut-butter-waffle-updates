@@ -896,6 +896,20 @@
       "url": "https://arxiv.org/abs/2605.12243",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-05-12|arrive built deepfakes detectors didn missed threat": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
+      "normalized_title_fingerprint": "deepfakes we missed we built detectors threat didn t arrive",
+      "original_url": "https://arxiv.org/abs/2605.12075",
+      "parsed_date": "2026-05-12",
+      "raw_title": "[2605.12075] The Deepfakes We Missed: We Built Detectors for a Threat That Didn't Arrive - arXiv",
+      "same_story_key": "arxiv.org|2026-05-12|arrive built deepfakes detectors didn missed threat",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
+      "url": "https://arxiv.org/abs/2605.12075",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-05-12|blotto colonel cybercrime engineering prevention social": {
       "article_type": "Research paper",
       "normalised_title": "cybercrime prevention colonel blotto social engineering",
@@ -2520,6 +2534,20 @@
       "url": "https://www.straitstimes.com/asia/south-asia/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka",
       "usefulness_category": "Operational intelligence"
     },
+    "straitstimes.com|2026-07-28|bust centres charge city foreigners forest least malaysia": {
+      "article_type": "Enforcement report",
+      "normalised_title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
+      "normalized_title_fingerprint": "malaysia police bust two scam centres forest city least foreigners charge",
+      "original_url": "https://www.straitstimes.com/asia/se-asia/malaysia-police-bust-two-scam-centres-in-forest-city-at-least-194-foreigners-to-be-charged",
+      "parsed_date": "2026-07-28",
+      "raw_title": "Malaysia police bust two scam centres in Forest City; at least 194 foreigners to be charged - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-07-28|bust centres charge city foreigners forest least malaysia",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
+      "url": "https://www.straitstimes.com/asia/se-asia/malaysia-police-bust-two-scam-centres-in-forest-city-at-least-194-foreigners-to-be-charged",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "techcrunch.com|2026-05-19|28m dome fight founder hacker iron phishing raised": {
       "article_type": "Technical article",
       "normalised_title": "teen hacker iron dome researcher founder raised 28m fight ai phishing",
@@ -4018,6 +4046,18 @@
       "title": "deepfakes demand welcome era fraud service faas",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "deepfakes we missed we built detectors threat didn t arrive": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
+      "normalized_title_fingerprint": "deepfakes we missed we built detectors threat didn t arrive",
+      "parsed_date": "2026-05-12",
+      "raw_title": "[2605.12075] The Deepfakes We Missed: We Built Detectors for a Threat That Didn't Arrive - arXiv",
+      "same_story_key": "arxiv.org|2026-05-12|arrive built deepfakes detectors didn missed threat",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "arxiv.org",
+      "title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
+      "usefulness_category": "Research / novel method"
+    },
     "destruction notorious myanmar scam compound appears have been \u2018performative\u2019": {
       "article_type": "Investigative report",
       "normalised_title": "destruction notorious myanmar scam compound appears have been \u2018performative\u2019",
@@ -4653,6 +4693,18 @@
       "source_domain": "arxiv.org",
       "title": "making sense scams understanding scam conversations through multi level alignment",
       "usefulness_category": "Research / novel method"
+    },
+    "malaysia police bust two scam centres forest city least foreigners charge": {
+      "article_type": "Enforcement report",
+      "normalised_title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
+      "normalized_title_fingerprint": "malaysia police bust two scam centres forest city least foreigners charge",
+      "parsed_date": "2026-07-28",
+      "raw_title": "Malaysia police bust two scam centres in Forest City; at least 194 foreigners to be charged - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-07-28|bust centres charge city foreigners forest least malaysia",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "malaysia\u2019s visa exemption policy being exploited global scam rings says police chief after us": {
       "article_type": "News report",
@@ -8628,6 +8680,18 @@
       "url": "https://www.straitstimes.com/singapore/courts-crime/spore-scam-syndicate-avoided-arrest-in-cambodia-after-receiving-tip-off",
       "usefulness_category": "Operational intelligence"
     },
+    "8a0a54e7fb7c4c0a03b7ee175c9a42ab7bdca6131683fa946a73bebb242216fc": {
+      "article_type": "Enforcement report",
+      "normalised_title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
+      "normalized_title_fingerprint": "malaysia police bust two scam centres forest city least foreigners charge",
+      "parsed_date": "2026-07-28",
+      "same_story_key": "straitstimes.com|2026-07-28|bust centres charge city foreigners forest least malaysia",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Malaysia police bust two scam centres in Forest City; at least 194 foreigners to be charged - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/se-asia/malaysia-police-bust-two-scam-centres-in-forest-city-at-least-194-foreigners-to-be-charged",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "8ba5f9857252436ccfe5cd7d919583cf9a3c78e3bd24420a9ed366276fff3f6c": {
       "article_type": "Research paper",
       "normalised_title": "constructing benchmarking labeled email dataset text based phishing spam detection framework",
@@ -9479,6 +9543,18 @@
       "title": "VIDEO: Will Australia\u2019s anti-scam strategy solve the problem?",
       "url": "https://www.abc.net.au/news/2026-06-17/will-australia-s-anti-scam-strategy-solve-the-problem-/106810588",
       "usefulness_category": "Scam development"
+    },
+    "c5c065b13175ac4406fc2c07657cd6c3246bb48d60f014b9f6c543efe1b660d6": {
+      "article_type": "Research paper",
+      "normalised_title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
+      "normalized_title_fingerprint": "deepfakes we missed we built detectors threat didn t arrive",
+      "parsed_date": "2026-05-12",
+      "same_story_key": "arxiv.org|2026-05-12|arrive built deepfakes detectors didn missed threat",
+      "sent_at": "2026-07-30T03:23:22+00:00",
+      "source_domain": "arxiv.org",
+      "title": "[2605.12075] The Deepfakes We Missed: We Built Detectors for a Threat That Didn't Arrive - arXiv",
+      "url": "https://arxiv.org/abs/2605.12075",
+      "usefulness_category": "Research / novel method"
     },
     "c7c055d95d0b1e126297c64cbd846f5ab10536e9bb7f3eab30a1423f9bda940b": {
       "article_type": "Research paper",
