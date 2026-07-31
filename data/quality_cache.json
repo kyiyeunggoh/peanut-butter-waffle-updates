@@ -154,6 +154,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "0085650f84e5d8be78a89817a94763914fb7b776ba9a3d2fae47dfc79066e8dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The group is scattered across several departments and agencies in Washington\u2014and they all have differing views on the best way to keep the US ahead in the race against China. \u201cIt\u2019s not an argument with two sides, it\u2019s an argument with ten sides,\u201d one senior White House official tells WIRED about the state of affairs. With little interagency coordination in the administration, policy will almost certainly end up being set by the people with the most influence with the president. In an effort to map the forces at play, here\u2019s a list of the current power brokers involved in the race to regulate AI. Commerce Secretary Howard Lutnick Photo-Illustration: Darrell Jackson; Getty Images Howard Lutnick has increasingly emerged as an influential part of the intra-administration split over AI, in part because it oversees export controls through the Bureau of Industry and Security. Lutnick, according to people familiar , has contemplated ways to create incentives for top US labs to create their own open-weight models to counterbalance China, and he has spoken with leaders at a number of AI labs. On Thursday, Lutnick played down the capabilities of Moonshot AI\u2019s Kimi K3 model, writing in an X post that his team found it performed worse than leading US frontier models in key benchmark tests. Lutnick appears to be straddling a middle ground on regulation. He imposed export controls on...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4085
+  },
   "00e308ef0416c60fc9b95650c844024781f5ffa39bec697e915aeed918741ed9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1133,7 +1159,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized defense...",
     "cache_version": 8,
-    "checked_at": "2026-06-30T04:25:41+00:00",
+    "checked_at": "2026-07-31T03:47:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -2253,6 +2279,30 @@
       "fraud"
     ],
     "word_count": 2496
+  },
+  "0be9848bc97d789d1c3525a4614af720fa4055f6f05426b4ae152fd3f4f2624e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "0bf5eb344adce69df487b1fa1fe448f3654beb4dd4865fb0f0146ec94de4834f": {
     "access_status": "available",
@@ -11126,6 +11176,48 @@
     ],
     "word_count": 1925
   },
+  "3b6b4adb6b371dd9ae165d765876a6edf60d4fba1f3b4112011f0375f41a05b4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection Sharayu N. Deshmukh Universidade da Beira Interior Covilha, Portugal d.sharyu.nilesh@ubi.pt &Md Rashidunnabi Universidade da Beira Interior Covilha, Portugal md.rashidunnabi@ubi.pt &Nelton Tiago Gemo Universidade da Beira Interior Covilha, Portugal nelton.gemo@ubi.pt &Kurundkar G. D. Department of Computer Science Shri Guru Buddhi Swami College Purna, India gajanan.kurundkar@gmail.com &Mahamune M. R. School of Computational Science Swami Ramanand Tirtha Marathwada University Nanded, India mohnish.mahamune@gmail.com &Nilesh K. Deshmukh School of Computational Science Swami Ramanand Tirtha Marathwada University Nanded, India nileshkd.srt@gmail.com Abstract Deepfake image detection is served by three fundamentally different paradigms that is commercial APIs, zero-shot vision-language models (LLMs), and open-source detectors that, despite their widespread use, are rarely evaluated under a common protocol, making direct comparison difficult. We introduce VendorBench-100 , a cross-paradigm benchmark that evaluates 36 representative models using a single adversarial 100-image corpus, a unified output schema, and a common evaluation framework. To ensure reliable assessment under the corpus\u2019s intentional class imbalance, models are ranked primarily by the...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:48+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "watermarking",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22436
+  },
   "3bb35b5bc5a21208f9d65f4305ad0e3b5245c294c05729f93eb0c1256221b2b1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -16377,6 +16469,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "541fa8605bb231ef77a2ff6f19dedebc24e2d64c721b31671ac62ea913de8b5a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: CDN Tsunami: Exploiting HTTP/3-HTTP/1.1 Conversion for DoS Attacks Ziyu Lin12, Tianlong Su2, Yingjie Lin2, Prosanta Gope3, Yinzhi Cao4, Ximeng Liu2, Biplab Sikdar1 Abstract Content Delivery Networks (CDNs) provide high availability, accelerate content delivery for their host websites, but are also vulnerable to different types of Denial-of-Service (DoS) attacks. Prior works have studied a variety of DoS attacks with HTTP/1.1 or HTTP/2 connections, but most of them are being fixed, making CDNs robust against such attacks. One unexplored research area is how the recent introduction of HTTP/3 at CDNs affects the DoS attack landscape, especially when there are heterogeneous deployments of HTTP/3 and HTTP/1.1 between CDNs and host websites. In this paper, we design the first study of DoS attacks against HTTP/3 protocols deployed at CDNs. Our key insight is that when the CDN adopts HTTP/3 but the host websites use HTTP/1.1, an adversary can utilize the disparity to amplify a small amount of traffic to the CDN using HTTP/3 to a large amount from the CDN to the host website using HTTP/1.1. More specifically, we design two attack variations\u2014HTTP/3 Bandwidth Amplification (HBA) and HTTP/3 Connection Amplification (HCA)\u2014targeting the bandwidth and the number of connections, respectively. Furthermore, we conduct a large-scale measurement...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "cybersecurity",
+      "vulnerability",
+      "identity"
+    ],
+    "word_count": 16821
   },
   "543ab0ee1689bbde8813490ad9ec19647f3ef9198860cc02560bc2350be305dd": {
     "access_status": "available",
@@ -22175,6 +22299,36 @@
     ],
     "word_count": 775
   },
+  "725aaa145a309ff5d1a02b6a82f1bd793fef0f9ea174338fa17e2bc50a9ea42d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Safe2Hail: A Forensic-Driven Post-Trip Tracking Framework for Ride-Hailing Safety in Africa Alvina Minja, Robert Maina, Mahmud Oloyede, Jema Ndibwile * Abstract Ride-hailing mobile apps have become an essential feature in the mobility ecosystem in Africa, offering much safer and much more affordable rides. Although user bases have increased and the number of daily trips has proliferated, reports of imminent safety threats, particularly after the cancellation of the ride or the ride is prematurely terminated, remain unresolved challenges. Current safety measures offer features such as SOS alerts, safety notifications, and live location sharing for the duration of the trip, but they are not in place when the trip is over. Safe2Hail presents a framework that is forensically driven to ensure continuous safety and certainty beyond the trip. The Safe2Hail framework combines forensic tracking with a temporary post-trip synchronization mechanism that can securely log all proximal data between a passenger and a driver after an event. The Safe2Hail framework was beta-tested and demonstrates the effectiveness of the system. Although the research team did not pilot on actual deployment, the Safe2Hail design format was in part inspired by actual crime events reported in Nairobi and Dar-es-Salaam. The findings of the study referenced...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 11136
+  },
   "72630b61c246d896f9a97172fa0ca22ba7071cc714ad65db4b1df5318a8f32e5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -23190,6 +23344,45 @@
       "trust"
     ],
     "word_count": 7373
+  },
+  "77c15bedb1f27e21f6956bf1c34c405f90e428caf492d5e8a82a99bad75de30f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The company says Claude reached the internet \u201cfrom within or while interacting\" with a third-party evaluation environment. The announcement comes more than a week after OpenAI revealed that one of its AI agents hacked into Hugging Face during a separate cybersecurity test. The discovery came after Anthropic decided to conduct \u201ca large-scale retrospective review of our own cybersecurity evaluations\u201d following the OpenAI incident, according to a blog post Anthropic published Thursday. The AI lab says it first identified 141,006 tests in which it determined that Claude could have obtained internet access. It then found that three different Claude models accessed the internet in evaluations run by the third-party AI testing firm Irregular, and then hacked into the production infrastructure of three different organizations. Anthropic said that the incidents involved Opus 4.7, Mythos 5 , and an internal research test model. The earliest incidents happened in April\u2014meaning they likely went unnoticed publicly for months. Just like in the OpenAI case, Anthropic had deliberately turned off safeguards designed to constrain the AI models and prevent them from being misused. In other words, these weren\u2019t the versions released to the public. \u201cIn all three incidents, Claude had been tasked with a capture-the-flag challenge, one of the ways we assess a model\u2019s cyber capabilities,\u201d Anthropic...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware"
+    ],
+    "word_count": 3303
   },
   "77e7e563ea5dae3145698b5c0b6c5d3ccebada82e244d61e6d22847b653b9dac": {
     "access_status": "available",
@@ -25017,6 +25210,38 @@
       "fraud"
     ],
     "word_count": 13502
+  },
+  "7fa435b6d1fd816f70a785409381ea5cfd471244a6a9155e5871ded81d86d375": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: [] \\fnm Xianghao \\sur Zang* ] \\orgdiv Institute of Artificial Intelligence (TeleAI), \\orgname China Telecom, \\orgaddress \\city Beijing, \\country China Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications zangxh@pku.edu.cn \\fnm Zijian \\sur Jiang jiangzj@tongji.edu.cn \\fnm Jiarong \\sur Cheng lf_cyan27@outlook.com \\fnm Qianrui \\sur Teng qrteng@bupt.edu.cn \\fnm Ying \\sur He heying719@seu.edu.cn \\fnm Yuxuan \\sur Mu muyuxuan@bupt.edu.cn \\fnm Chao \\sur Ban ban_0330@163.com \\fnm Huayu \\sur Zhang marvelzhy@gmail.com \\fnm Lanxiang \\sur Zhou lansonzhou@gmail.com \\fnm Zerun \\sur Feng zerunfeng@gmail.com \\fnm Chi \\sur Zhang zhangc120@chinatelecom.cn [ Abstract Instruction-based Image Editing (IIE) aims to transform a given image into a new one based on textual instructions. Advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) have accelerated progress toward practical \u201cone-sentence image editing\" systems. This survey presents a systematic taxonomy and comprehensive review of IIE research, structured around five core dimensions: (1) task definition and hierarchical categorization of editing operations, (2) methodologies for training data construction, (3) architectural evolution from GAN-based to diffusion and autoregressive paradigms, (4) standardized evaluation metrics and benchmark...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "institution_domain:pku.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "identity"
+    ],
+    "word_count": 32365
   },
   "7ff91f6c3b378c539f4b1a644804bcd2a8f65c6e06d0a6de0f745a89ae8a8157": {
     "access_status": "available",
@@ -39209,6 +39434,39 @@
     "weak_generic_terms_found": [],
     "word_count": 1794
   },
+  "c5891d3f70eb054f8defb06ef744e3b7387570d88a24294238b7eb9682664779": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Quantifying Frontier LLM Capabilities for Container Sandbox Escape Rahul Marchand Art O Cathain Jerome Wynne Philippos Maximos Giavridis Stuart Jennings Freddy Tuxworth Tolga H. Dur Sam Deverett John Wilkinson Jason Gwartz \u2217 Harry Coppock \u2217 Abstract Large language models (LLMs) increasingly act as autonomous agents, using tools to execute code, read and write files, and access networks, creating novel security risks. To mitigate these risks, agents are commonly deployed and evaluated in isolated \u201csandbox\u201d environments, often implemented using Docker/OCI containers. We introduce SandboxEscapeBench , an open benchmark that safely measures an LLM\u2019s capacity to break out of these sandboxes. The benchmark is implemented as an inspect-ai Capture the Flag (CTF) evaluation utilising a nested sandbox architecture with the outer layer containing the flag and no known vulnerabilities. Following a threat model of a motivated adversarial agent with shell access inside a container, SandboxEscapeBench covers a spectrum of sandbox-escape mechanisms spanning misconfiguration, privilege allocation mistakes, kernel flaws, and runtime/orchestration weaknesses. We find that, when vulnerabilities are added, LLMs are able to identify and exploit them. This demonstrates the need for evaluations like SandboxEscapeBench to ensure that sandboxing...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21286
+  },
   "c5903485f133d5d60b08894af5b6d6323a846b7eee0e2f7992887878c582854b": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -40420,6 +40678,42 @@
       "cybersecurity"
     ],
     "word_count": 883
+  },
+  "cb09457e31b4c8c76222df6ff89cb146d4461e37d744cb5bd9e59d2fbddf6113": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "cb0ddbf77fa6a95bf57e43c23f9dd8b089a243528b1e80379fc196895432afa2": {
     "access_status": "available",
@@ -44733,6 +45027,61 @@
     ],
     "word_count": 2542
   },
+  "e17112eb0d3cb63e3fab4463f0e59c619451070e32f0f97ab3e8d9300312c452": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "But can AI fully replace a human scammer, autonomously building the web of deception leading up to the fake investment that defrauds the mark? One study's experiment suggests that it can\u2014and may even be able to carry out the majority of that long con more effectively than humans. Researchers from four universities\u2014Amrita Vishwa Vidyapeetham in India, Foscari University of Venice, the University of Melbourne, and Ben Gurion University of the Negev\u2014carried out a broad study on the use and potential of generative AI chatbots in the growing scam industry centered around a form of fraud known as \u201c pig butchering ,\u201d text-based romance scams that eventually shift to fake crypto investments that steal as much as six-figure sums from victims. In their study, the researchers pitted AI chatbots directly against humans in a simulation of the scamming process\u2014or more specifically, the long, trust-building conversations that eventually lead up to soliciting a fake investment from the scam\u2019s target. They found that for the relationship-establishing stages of the scam\u2014the stage that in real-world scams typically represents the longest part of the interactions with the victim, often stretching to months\u2014an AI chatbot performed remarkably effectively, successfully impersonating a human and by some measures outperforming the real human \u201cscammers\u201d in their experiment. After a week of talking to...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "romance scam",
+      "pig butchering",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "romance scam",
+      "pig butchering",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "romance scam",
+      "pig butchering",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 6620
+  },
   "e1abb24d0fecad9ce74ff4c660100f5c4ad958eda212fd84093d47bcbe520f23": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -48161,6 +48510,50 @@
       "trust"
     ],
     "word_count": 23181
+  },
+  "f43031a2e3dd644a50660a32cd06c394229bdde77cdacf8e40c5a7448c592409": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Now, after an unprecedented wave of disruptive cyberattacks hit water utilities in Minnesota, a memo circulated within the water industry ties those attacks to Iran, too, in the widest and most disruptive strike yet inflicted by the country\u2019s hackers against the US since the war began. A communication obtained by WIRED on Thursday and sent to members of the Water Information Sharing and Analysis Center, or WaterISAC, an industry group for water utilities to share cybersecurity information, links to Iran a series of cyberattacks that targeted dozens of Minnesota water and wastewater utilities. The WaterISAC note states that the Minnesota Fusion Center, a state-level intelligence-sharing entity, issued an alert \u201cregarding ongoing malicious cyber activity impacting public drinking water systems across Minnesota\u201d and adds that the fusion center has found that those attacks were \u201caligned\u201d with a hacking campaign first described in April by the US Cybersecurity and Infrastructure Security Agency (CISA) as having been carried out by \u201cIran-affiliated\u201d hackers. (Both the WaterISAC and Minnesota Fusion Center reports were marked as unclassified but \u201cfor official use only.\u201d) Confirmation of Iran\u2019s responsibility for hacking the water utilities represents a kind of state-sponsored targeting of civilian infrastructure that has rarely been seen outside of Russia\u2019s war against Ukraine , says...",
+    "cache_version": 8,
+    "checked_at": "2026-07-31T03:47:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [
+      "modus operandi"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 4971
   },
   "f43ecd1775f252128bc6827b34c199626e26aaefae9bdb7ac5f93992fb4856db": {
     "access_status": "available",

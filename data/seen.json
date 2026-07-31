@@ -3359,6 +3359,20 @@
       "title": "satellite images reveal suspected scam compounds appear out nowhere",
       "url": "https://www.wired.com/story/satellite-images-reveal-how-giant-scam-compounds-keep-on-expanding/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-07-30|better building humans scammers than trust": {
+      "article_type": "Investigative report",
+      "normalised_title": "ai scammers better building trust than humans",
+      "normalized_title_fingerprint": "ai scammers better building trust than humans",
+      "original_url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "parsed_date": "2026-07-30",
+      "raw_title": "AI Scammers Are Better at Building Trust Than Humans - WIRED",
+      "same_story_key": "wired.com|2026-07-30|better building humans scammers than trust",
+      "sent_at": "2026-07-31T03:47:55+00:00",
+      "source_domain": "wired.com",
+      "title": "ai scammers better building trust than humans",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -3541,6 +3555,18 @@
       "source_domain": "abc.net.au",
       "title": "african scam victims left homeless cambodia amid crackdown",
       "usefulness_category": "Scam development"
+    },
+    "ai scammers better building trust than humans": {
+      "article_type": "Investigative report",
+      "normalised_title": "ai scammers better building trust than humans",
+      "normalized_title_fingerprint": "ai scammers better building trust than humans",
+      "parsed_date": "2026-07-30",
+      "raw_title": "AI Scammers Are Better at Building Trust Than Humans - WIRED",
+      "same_story_key": "wired.com|2026-07-30|better building humans scammers than trust",
+      "sent_at": "2026-07-31T03:47:55+00:00",
+      "source_domain": "wired.com",
+      "title": "ai scammers better building trust than humans",
+      "usefulness_category": "Operational intelligence"
     },
     "ai security agent banking multi vector fraud aml detection across retail corporate accounts": {
       "article_type": "Research paper",
@@ -10083,6 +10109,18 @@
       "title": "The rise of the money mule has banks and federal police on high alert - Australian Broadcasting Corporation",
       "url": "https://www.abc.net.au/news/2026-06-30/banks-and-afp-warn-of-rise-of-money-mule-scams/106859958",
       "usefulness_category": "Scam development"
+    },
+    "e17112eb0d3cb63e3fab4463f0e59c619451070e32f0f97ab3e8d9300312c452": {
+      "article_type": "Investigative report",
+      "normalised_title": "ai scammers better building trust than humans",
+      "normalized_title_fingerprint": "ai scammers better building trust than humans",
+      "parsed_date": "2026-07-30",
+      "same_story_key": "wired.com|2026-07-30|better building humans scammers than trust",
+      "sent_at": "2026-07-31T03:47:55+00:00",
+      "source_domain": "wired.com",
+      "title": "AI Scammers Are Better at Building Trust Than Humans - WIRED",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "usefulness_category": "Operational intelligence"
     },
     "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
       "article_type": "Enforcement report",
