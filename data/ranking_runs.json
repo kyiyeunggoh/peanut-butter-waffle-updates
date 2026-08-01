@@ -2,40 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Investigative report": 1,
-        "News report": 1,
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 51,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 31,
-        "international": 2,
-        "investigative": 3,
-        "psychology": 14,
-        "targeted": 1
-      },
-      "shortlist_count": 15,
-      "source_domain_distribution": {
-        "arxiv.org": 2,
-        "channelnewsasia.com": 2,
-        "dl.acm.org": 2,
-        "ieeexplore.ieee.org": 2,
-        "ndss-symposium.org": 3,
-        "papers.ssrn.com": 1,
-        "wired.com": 3
-      },
-      "timestamp": "2026-06-06T04:19:44+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Operational intelligence": 2,
-        "Product idea / data source": 2
-      }
-    },
-    {
-      "article_type_distribution": {
         "News report": 2,
         "Research paper": 2
       },
@@ -1488,6 +1454,29 @@
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
         "Operational intelligence": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 21,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 15,
+        "current_affairs": 1,
+        "psychology": 5
+      },
+      "shortlist_count": 1,
+      "source_domain_distribution": {
+        "channelnewsasia.com": 1
+      },
+      "timestamp": "2026-08-01T03:47:24+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1
       }
     }
   ]
