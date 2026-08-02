@@ -984,7 +984,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims Abstract Technology-facilitated abuse (TFA), the use of digital technologies to stalk, harass, monitor, threaten, or control others, has become a pervasive form of interpersonal harm. As victims increasingly turn to online sources for guidance, the responses they receive can influence how they assess risks, interpret abuse, and choose protective actions. In this paper, we present a large-scale evaluation of online support systems for TFA victims across three major help-seeking channels: web search, peer-support forums, and conversational AI systems. Drawing on a decade of victim narratives from r/Stalking, we use qualitative coding and supervised classifiers to construct a dataset of victim-authored TFA queries spanning 11 categories of technology misuse. We simulate the victim queries across web search, peer-support forums, and conversational AI systems and evaluate their reponses using a unified framework spanning technical, social, and safety dimensions. The framework evaluates technical qualities such as relevance, accuracy, actionability, persuasiveness, and understandability, alongside platform-specific risks and support characteristics including social-engineering risk, toxicity, empathy, bias...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:25+00:00",
+    "checked_at": "2026-08-02T03:51:03+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -1723,7 +1723,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis Zikai Alex Wen \u2020 , Corrazon Ogot \u2020 , Juan Li \u2021 , Yan Bai \u2020 Abstract Existing cybercrime classification schemas capture contact metadata and financial transactions but omit the psychological manipulation techniques perpetrators employ. We present a forensic schema (four categories, 35 questions) adding 11 manipulation indicators and cryptocurrency evidence fields to established forensic foundations. Applied to 10,994 victim reports via large language model (LLM)-driven annotation and validated against two human annotators (mean LLM-human \u03ba = 0.69 \\kappa=0.69 , matching inter-annotator \u03ba = 0.68 \\kappa=0.68 ), the schema revealed a statistically distinct manipulation profile for each major fraud type (Cram\u00e9r\u2019s V V up to 0.790 0.790 ). A rationale-based evidence audit nonetheless exposed a forensic detail gap : detection of manipulation techniques was reliable, but victim narratives varied widely in the actionable detail supporting each Yes answer, and blockchain-specific identifiers were nearly absent. These findings point to AI-assisted victim intake with schema-informed follow-up questions as the most direct way to close the gap. The tiered annotation strategy also provides a reusable template for LLM-based extraction from other...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:28+00:00",
+    "checked_at": "2026-08-02T03:51:01+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -2327,6 +2327,43 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "0c127b519dd5f1d785b33858945283494e3a494d3e69ee12995e5ab1431dce0a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In other news, more details have emerged about OpenAI\u2019s \u201crogue\u201d AI agent breach of Hugging Face\u2019s platform. OpenAI disclosed that the AI agent hacked multiple third-party accounts and services as it sought to breach Hugging Face\u2019s production database, which contained solutions for the cybersecurity tests OpenAI was evaluating the agent with. Anthropic, too, disclosed that its AI models gained unauthorized access to three organizations\u2019 systems during its own cybersecurity testing. Experts say the incidents underscore the importance of implementing well-known security best practices on the part of AI labs. AI is changing cybersecurity in other ways. Google\u2019s Chrome Browser now receives twice-a-week security updates as more bugs are identified and fixed thanks to the security team\u2019s use of AI tools. And a new research study found that AI chatbots are effective at reeling victims into pig-butchering scams. The US Immigration and Customs Enforcement is attempting to prevent state oversight of four detention facilities, and a Department of Homeland Security official resigned , citing the agency\u2019s \u201cwar on immigrants.\u201d Plus, a GPS jamming exercise in New Mexico contributed to the crash of a civilian plane, as drone warfare reshapes how safe the skies are both in the US and abroad. People were surprised to see shared Claude chats popping up as search results on major search engines....",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:50:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 4832
   },
   "0c39027bbe2b0a7d91b330f008807cd4b413c004743ed159236a1f200ce3713f": {
     "access_status": "available",
@@ -4236,7 +4273,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup \u2020 \u2020 thanks: Support by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI/EU) and PowerAI+ (SI4/PJI/2024-00062, CM/UAM). J.I. is an FPI MINECO/FEDER. Roberto Daza12, Javier Irigoyen1, Ivan Lopez1, Raquel Rodriguez-Carvajal3, Laura Gomez-Carbajo3, Julian Fierrez1, Ruben Tolosana1, and Aythami Morales14 Abstract We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human\u2013human, human\u2013AI and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronized behavioral and biometric acquisition, filtering, and deep-learning-based feature extraction. The dataset (AIriskEval-gaming-db) was collected from 15 participants who interacted with a role-conditioned GPT-5.4 agent in two concatenated games: an adapted Prisoner\u2019s Dilemma and an Ultimatum Game. It comprises 340 GB of raw and processed multimodal data across six streams: interaction logs, video, screen recordings, gaze logs, smartwatch...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:30:03+00:00",
+    "checked_at": "2026-08-02T03:51:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -4298,6 +4335,32 @@
       "fraud"
     ],
     "word_count": 3540
+  },
+  "16873cbfb3743e3d3adefe63dac0d3b0f98b42680634812da886798a3e1c7279": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:13+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
@@ -4905,6 +4968,33 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 122
+  },
+  "1aaea070e64a2f0267ea0d6c6971c0fb8552d9a5f7f6f9a7ca9768f18cf541de": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:50:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "vulnerability"
+    ],
+    "word_count": 0
   },
   "1aba2c10ce3418bee669021e35a33e4810c56a51e8f49aa4def3cfc920e33976": {
     "access_status": "available",
@@ -7109,6 +7199,38 @@
     ],
     "word_count": 343
   },
+  "26076bf1df6669cae2a288abdb33f32fc8b188041c784a364e23874a2ee34d9e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Humanoid and quadruped robots are specifically named, indicating the true target is robotic versions of people and animals, but something else happens to be an \u201cadvanced mobile robot\u201d: robot vacuums . So what does this ban mean? Though it's effective immediately, nothing changes for now. Robot vacuums won't get removed from the market, and your current robot vacuum won't stop working. The ban will instead stop new models from getting FCC approval to be sold in the United States. The vacuums available now won't be affected, but new models likely won't make it to the US if they're manufactured outside the country. And, unfortunately, a lot of great robot vacuum brands aren't based in the States. Here's everything to know about what will happen next. What the Ban Covers The FCC updated its Covered List this week to include foreign-made advanced mobile robots, which include robot vacuums. The Covered List, which comes from Section 2 of the Secure and Trusted Communications Networks Act of 2019 , is a \u201clist of communications equipment and services that are deemed to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons.\u201d It may feel like overkill for just a robot vacuum, but the definition of an advanced robotic device from the National Security Determination , an interagency body of the Executive Branch, clearly...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:50:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3556
+  },
   "2627d155214ccbc57d9b524052e7e4f5dc906038ee28188e733d8550ed7e46c8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -8485,7 +8607,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:27+00:00",
+    "checked_at": "2026-08-02T03:51:01+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -10091,6 +10213,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2534
   },
+  "36661d3cc09841680572d4188d417c5f6f41f5649e01159d163d3c9a274bfb95": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10205,7 +10351,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:28+00:00",
+    "checked_at": "2026-08-02T03:51:05+00:00",
     "direct_relevance_terms_found": [
       "vishing",
       "financial fraud"
@@ -10779,6 +10925,38 @@
     ],
     "word_count": 1634
   },
+  "39166240996e2daf51d4b9b1a5110ae29c2ac851d0f1950975dccbc2207cd330": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u201cWhy, when Fauci walks off of there today, is he not cuffed?\u201d Steve Bannon, a former adviser to President Donald Trump, asked on his War Room podcast on Wednesday. \u201cPeople are furious today to cut on this and see Fauci hiding behind the Fifth Amendment \u2026 He should die in prison.\u201d \u201cWhy isn\u2019t he under arrest?\u201d far-right podcaster Matt Walsh wrote on X . \u201cWhy isn\u2019t he facing any real consequences? Why aren\u2019t you actually doing anything?\u201d Fauci appeared before the US Senate committee investigating his handling of the Covid-19 pandemic and invoked his constitutional right to stay silent, known as the Fifth Amendment, over 100 times. In his opening statement explaining his decision, he described Senator Rand Paul, who chaired the hearing, as having an \u201cunhinged obsession\u201d with him. \u201cThe only conclusion I can reach is that the sole reason he is calling me before this committee is to get me to say something, anything, that could vindicate his repeated public pledges that I end up, in his words, \u2018behind bars,\u2019\u201d Fauci said. Paul has long accused Fauci of covering up what could have been the origins of Covid-19. As calls for Fauci\u2019s imprisonment grow louder from far-right influencers and podcasters, WIRED turned to legal experts to assess just how likely it is that Republicans in Congress could jail the former public health official. Last year, Fauci received a preemptive pardon from...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:07+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3834
+  },
   "397dabe2cefc38f4b3705afc40c1705377b785461e839b0387a2b0c5a6323ea7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -11069,7 +11247,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:40:06+00:00",
+    "checked_at": "2026-08-02T03:51:14+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -14406,7 +14584,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Watermark Forensics for Generative Models An Information-Theoretic Perspective Xiaoyu Li 1 Zheng Gao 1 Xiaoyan Feng 2 Jiaojiao Jiang 1 Yulei Sui 1 Jiankun Hu 1 1 University of New South Wales 2 Griffith University {xiaoyu.li2, zheng.gao1, jiaojiao.jiang, yulei.sui}@unsw.edu.au xiaoyan.feng@griffithuni.edu.au j.hu@adfa.edu.au Abstract. A watermark in a generative model\u2019s output is normally asked only whether a text is machine-made. The same mark can do more: attribute it to the user who produced it, extract a hidden payload, or localize the part that survives editing. These form a forensic ladder, and we ask what each rung costs in the sample length n n . A single object organizes the answers. Let S S be the secret the mark carries (a user\u2019s identity, a payload), and let the information profile \u03bd \u200b ( t ) = I \u200b ( S ; X t \u2223 X < t ) \\nu(t)=I(S;X_{t}\\mid X_{ 0 h>0 ; the Shannon\u2013McMillan\u2013Breiman theorem is the only source hypothesis. To our knowledge this is the first tight h h -rate for multi-user attribution. Achievability is a surprisal-threshold decoder, and its threshold is forced , not tuned: an innocent key matches the observed text only with probability p nat \u200b ( X ) = e \u2212 \u0131 \u200b ( X ) p_{\\mathrm{nat}}(X)=e^{-\\imath(X)} , where \u0131 \u200b ( X ) = \u2212 log \u2061 p nat \u200b ( X ) \\imath(X)=-\\log p_{\\mathrm{nat}}(X) is the realized surprisal, so...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:48+00:00",
+    "checked_at": "2026-08-02T03:51:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15289,7 +15467,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:30:03+00:00",
+    "checked_at": "2026-08-02T03:51:25+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -15458,6 +15636,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4822
+  },
+  "4d67c042d43b25515655f1493e4bdef5ba75f24d3626b1bf60f83de26e7773e8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "After an OpenAI agent breached the Hugging Face platform earlier this month, the two companies said this week that the hacking spree was more extensive than previously thought and also involved intrusions into multiple third-party accounts and services as part of the attack on Hugging Face. The incident has made waves in the cybersecurity community amid broader discussions about how evolving AI capabilities are changing both offensive hacking and digital defense . But as more information emerges, many researchers have concluded that rather than elucidating AI\u2019s next frontier, the episode simply highlighted long-standing cybersecurity problems that are more consequential than ever in the AI age. \u201cPeople are YOLO-ing really hard. It\u2019s shocking how little people have really thought about a scenario like this,\u201d says Alex Zenla, cofounder and chief technology officer of the cloud security firm Edera. \u201cI consider all AI and anything AI touches to be fully untrusted\u2014which is fine, you just need to build against that. And this situation proves the point. The fact that OpenAI wasn't more paranoid about this seems kind of reckless.\" OpenAI did not provide comment for this story ahead of publication. The company said in its original disclosure about the Hugging Face hack that one of the two models that broke containment and made its way to the open internet for days was an experimental...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 3231
   },
   "4d83b770a7c60b5c37a01a7f72263dd7c50d2cac08a91707762ca23f34764eb7": {
     "access_status": "available",
@@ -16296,7 +16508,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:40+00:00",
+    "checked_at": "2026-08-02T03:51:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -16545,7 +16757,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit Chenyu Wu Abstract Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average precision, dollar recall, and dollar precision at fixed alert budgets over five seeds, with 95 percent day-block bootstrap intervals for the main contrasts. Results are narrower than expected. Amount-derived ratio and velocity features carry much of the signal, while raw amount fields add little once those features are in the model. In the matched setting, amount-conditioned training gives only small gains over class weighting and does not consistently beat the plain unweighted model. Stronger amount weights recover more fraudulent dollars, but at lower ranking quality and dollar precision.",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:40+00:00",
+    "checked_at": "2026-08-02T03:51:06+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -17743,7 +17955,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:32+00:00",
+    "checked_at": "2026-08-02T03:51:13+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -19379,7 +19591,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection Najmul Hasan University of North Carolina at Pembroke nh0033@bravemail.uncp.edu &Prashanth BusiReddyGari University of North Carolina at Pembroke Prashanth.BusiReddyGari@uncp.edu Abstract The Uniform Resource Locator (URL), introduced in a connectivity-first era to define access and locate resources, remains historically limited, lacking future- proof mechanisms for security, trust, or resilience against fraud and abuse, despite the introduction of reactive protections like HTTPS during the cybersecurity era. In the current AI-first threatscape, deceptive URLs have reached unprecedented sophistication due to the widespread use of generative AI by cybercriminals and the AI-vs-AI arms race to produce context-aware phishing websites and URLs that are virtually indistinguishable to both users and traditional detection tools. Although AI-generated phishing accounted for a small fraction of filter-bypassing attacks in 2024, phishing volume has escalated over 4,000% since 2022, with nearly 50% more attacks evading detection. At the rate the threatscape is escalating, and phishing tactics are emerging faster than labeled data can be produced, zero-shot and few-shot learning with large language models (LLMs) offers a timely and adaptable solution, enabling generalization with minimal supervision. Given...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:30:03+00:00",
+    "checked_at": "2026-08-02T03:51:24+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -20049,7 +20261,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:30:03+00:00",
+    "checked_at": "2026-08-02T03:51:25+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -20414,9 +20626,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one\u2019s television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG\u2019s webOS store allow unknown third-parties to route their Internet traffic through a user\u2019s TV. Proxy SDK prevalence among smart TV apps for LG (webOS) and Samsung (Tizen OS) televisions. Image: Spur.us. On July 2, we featured research by the security firm Spur that examined the prevalence of residential proxy software development kits (SDKs) in smart TV apps. Spur found more than 42 percent of apps available for download on LG smart TVs include SDKs that turn one\u2019s television in a proxy node indefinitely, and that more than a quarter of the apps made for Samsung\u2019s Tizen operating system had similar residential proxy components. Responding to questions about Spur\u2019s research, LG Senior Vice President John Taylor told KrebsOnSecurity the company was working with app developers to remove the residential proxy option from their apps on the webOS platform. Developers that fail to comply, he said, will find their apps suspended. \u201cA residential proxy network is not an intended use for LG smart TVs, and LG Electronics is working with developers to remove the residential...",
+    "article_excerpt": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user\u2019s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Fal\u00e9 is a threat researcher with the security firm Bitsight . Fal\u00e9 told KrebsOnSecurity he was able to peer inside a vast and complex ad fraud network by registering an expired domain name that was used to coordinate fake ad clicks across a particularly popular brand of these streaming devices known as H96 . An H96 TV streaming device currently advertised for sale on Amazon. Fal\u00e9 said the domain he scooped up was previously used for telemetry, periodically collecting full hardware information and the entire list of installed apps from tens of thousands of H96 streaming sticks plugged into television sets around the globe. But upon inspecting the traffic being funneled to the domain, he discovered nearly all of the TV boxes transmitting data claimed to be mobile phone models from a variety of manufacturers, including Samsung, Vivo, Huawei, and Xiaomi. \u201cWe noticed something was wildly wrong,\u201d Fal\u00e9 said....",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:27+00:00",
+    "checked_at": "2026-08-02T03:51:01+00:00",
     "direct_relevance_terms_found": [
       "account takeover"
     ],
@@ -20452,7 +20664,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 9622
+    "word_count": 10328
   },
   "68b69ab0ab96e8b95cfac3909dc5c8d45a5b8299313bb43c6835b70114836a3c": {
     "access_status": "available",
@@ -20541,6 +20753,36 @@
       "fraud"
     ],
     "word_count": 1935
+  },
+  "68fb83132ac9afa74819630112f57de51d399d8e15db967832cb96c57e4870c4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Executives at the professional social network tell WIRED that it plans to keep its investment in GPUs steady, and its compute and storage footprint is also remaining flat. The spending calculations apply to LinkedIn\u2019s fiscal year that began last month and ends next June. The company says it was able to avoid spending big on AI hardware because it found ways to use its existing GPUs twice as efficiently over the past six months. LinkedIn\u2019s plan could still unravel because the hardware demands of AI are shifting rapidly, but executives say the company has already taken into account surging prices for memory chips . \u201cOne of the goals we've set is to try to basically keep our compute footprint flat or as close to flat as possible while shipping more compute-hungry things to production,\u201d says Erran Berger, LinkedIn\u2019s chief technology officer for engineering. \u201cThat\u2019s a pretty bold statement to make in today's world.\u201d Berger and Raghu Hiremagalur, LinkedIn\u2019s chief technology officer for infrastructure, say they want to be prudent about spending and that the new constraints will motivate engineering teams to get more creative when developing the many new generative AI features LinkedIn is planning to launch. Berger says he believes the efficiency gains could compound over time, enabling LinkedIn to get more out of data center expansions when it eventually increases its budgets again....",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4861
   },
   "692821cba50567ae8e75f10745d280986b31e11540b6f66f737291dadcd284f8": {
     "access_status": "available",
@@ -21034,6 +21276,36 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "6bc783b5d5046f4902b9fe9000fd61c5fe111db4ed5e6c5d9b5493016fd9b772": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "He sits on the couch in his living room, clad in an orange shirt emblazoned with a cartoon version of the motorcycle driven by Italian racer Valentino Rossi. He props his feet up on the side table and leans back, a round, softly glowing circular Friend pendant dangling from a yellow cord around his neck. This is the second iteration of the Friend necklace , the controversial AI companion device that just about everyone ( me included ) seems to hate. The company announced the device on Thursday through its new X handle . The first version of Friend was an always-listening AI wearable that responded via text message. The big update here is a speaker on the back that lets the device voice its responses aloud. That has changed the shape of the pendant, as the underside with the speaker is bulkier than before. Its AI chops have also been upgraded, now running OpenAI\u2019s latest models . Courtesy of Friend Like the first go, Friend aims to be a digital companion users can talk to and hold long conversations with. Unlike the original, each new pendant comes with a random voice and personality already established.",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:03+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4160
+  },
   "6c1dfbba494d336bade96ade9962ad89cfbe233c2d360d6db66f7ab4f8a17d2a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21249,7 +21521,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:34+00:00",
+    "checked_at": "2026-08-02T03:51:03+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -23479,7 +23751,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Cybercrime Victimization Among Young Adult Males Aged 18\u201320: A Post-Pandemic Analysis of Converging Risk Factors Anveeksh Mahesh Rao Abstract Cybercrime victimization among young adult males aged 18\u201320 has become an increasingly urgent public safety concern in the post-pandemic digital environment. From 2022 to 2024, individuals aged 20\u201329 submitted 191,787 complaints to the FBI Internet Crime Complaint Center (IC3), reporting combined losses of more than $1.28 billion. Although this population represents a substantial share of cybercrime victims, the 18\u201320 male sub-cohort remains insufficiently examined as a distinct demographic group within cybercrime victimization research. This study presents an original risk factor analysis and theoretical synthesis, representing the first integration of criminological, neurological, and behavioral evidence for this specific demographic sub-cohort. Drawing on FBI IC3 and FTC Consumer Sentinel Network data from 2022\u20132024 alongside European cybersecurity threat intelligence from ENISA, the study develops a unified risk profile centered on three intersecting vulnerability factors: a guardianship gap created by the transition into unsupervised digital independence, heightened behavioral exposure to online risk, and reduced impulse regulation associated with ongoing prefrontal cortex...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:40+00:00",
+    "checked_at": "2026-08-02T03:51:06+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "fake investment",
@@ -24622,7 +24894,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:50+00:00",
+    "checked_at": "2026-08-02T03:51:13+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -26155,7 +26427,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:34+00:00",
+    "checked_at": "2026-08-02T03:51:03+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -26829,7 +27101,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:46+00:00",
+    "checked_at": "2026-08-02T03:51:10+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -27649,7 +27921,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Computer Science > Cryptography and Security arXiv:2607.16102 (cs) [Submitted on 17 Jul 2026] Title: DoSQ: A Cross-Layer Denial of Service Quality Attack by Exploiting Side Channels in 5G NR Authors: Mahmudul Hassan Ashik , Moinul Hossain View a PDF of the paper titled DoSQ: A Cross-Layer Denial of Service Quality Attack by Exploiting Side Channels in 5G NR, by Mahmudul Hassan Ashik and Moinul Hossain View PDF HTML (experimental) Abstract: The 3rd Generation Partnership Project (3GPP)'s Fifth Generation New Radio (5G NR) is critical to supporting mission-critical services. However, 5G systems are vulnerable to smart jamming attacks that can propagate to applications running on top of these networks (i.e., cross-layer). The 5G gNB broadcasts resource scheduling information for the legitimate UEs over the air interface, with a prevailing assumption that this surface alone reveals nothing useful about a user device. However, we show that using the Downlink Control Information (DCI) is sufficient to degrade Application layer service quality, i.e., Denial of Service Quality (DoSQ), by inferring the Application layer Goodput (i.e., via side-channel analysis). Therefore, we present DoSQ, a protocol-aware attack that decodes per-slot DCI to inject interference onto the victim UE's Physical Resource Blocks (PRBs) within the same 1 ms slot, while a cross-layer classifier estimates the...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:46+00:00",
+    "checked_at": "2026-08-02T03:51:10+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -27668,7 +27940,7 @@
     "weak_generic_terms_found": [
       "victim"
     ],
-    "word_count": 834
+    "word_count": 832
   },
   "89f5b6d078a884e20977384b4414d98a970c0f93ea72a7c12e6cc995e6d55034": {
     "access_status": "available",
@@ -27808,7 +28080,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:50+00:00",
+    "checked_at": "2026-08-02T03:51:13+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "messaging scam"
@@ -29342,7 +29614,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit Chenyu Wu Abstract Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average precision, dollar recall, and dollar precision at fixed alert budgets over five seeds, with 95 percent day-block bootstrap intervals for the main contrasts. Results are narrower than expected. Amount-derived ratio and velocity features carry much of the signal, while raw amount fields add little once those features are in the model. In the matched setting, amount-conditioned training gives only small gains over class weighting and does not consistently beat the plain unweighted model. Stronger amount weights recover more fraudulent dollars, but at lower ranking quality and dollar precision.",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:40+00:00",
+    "checked_at": "2026-08-02T03:51:06+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -30441,7 +30713,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:49+00:00",
+    "checked_at": "2026-08-02T03:51:13+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -30992,7 +31264,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: \u2013 Threat Vectors and the State of the Art in Defense Methods for Security in Neurotechnology Bryce Allen Bagley Cerberus Neurosecurity Research Institute Cognitive Security Institute Nathaniel Rose Cerberus Neurosecurity Research Institute Dura Labs Quintus Kilbourn Flashbots Matthew Canham Cerberus Neurosecurity Research Institute Cognitive Security Institute Abstract Brain-computer interfaces (BCIs) are a class of diverse hardware modalities, associated software, and connected devices which are widely used in a variety of fields, including neurosurgery, biomedical data analysis, and neuroimaging. Recent years have seen rapid advancements in BCI technology, and neurotechnology more broadly, with the first devices now passing clinical trials, early examples of consumer hardware entering the market, and many variants of consumer and medical hardware with increasingly extensive capabilities being developed rapidly. However, research and development in security for BCIs\u2013known as neurosecurity\u2013lags significantly behind the capabilities of BCIs themselves. In an effort to address as many vulnerabilities as feasible immediately, in this paper we review the current state of the art in neurosecurity, thoroughly survey the breadth and complexity of both firmly established and highly probable security threats to BCI systems, and provide...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:33+00:00",
+    "checked_at": "2026-08-02T03:51:02+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -31136,7 +31408,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Contact us",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:43+00:00",
+    "checked_at": "2026-08-02T03:51:08+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scam compound",
@@ -31167,7 +31439,7 @@
     "weak_generic_terms_found": [
       "victim"
     ],
-    "word_count": 372
+    "word_count": 365
   },
   "9e0ee5c1a8765fa8f8920103dd3547bf711fd0d0f2271a70d0e942d87ff93843": {
     "access_status": "available",
@@ -32877,6 +33149,40 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "a6140b72d1beeb55b51c22a8049d98787c4a1f4d097458a4f787ff58752e6c69": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Great question. In the wake of disclosures from both OpenAI and Anthropic that versions of their models escaped containment during internal cybersecurity experiments and hacked real-world organizations, calls for government regulation of AI have been mounting. But as more and more incidents emerge, questions about legal liability and repercussions have also come to the fore. Researchers and lawyers WIRED spoke to emphasize that these questions have not been answered in practice in the United States legal system. In other words, there haven't been decisions in enough relevant cases for the picture to start to form. But the recent high-profile incidents from OpenAI and Anthropic suggest that answers will need to come soon. \u201cJust because you\u2019re using an AI agent or AI model, that shouldn\u2019t somehow absolve you of any liability, but it's going to depend a lot on the facts in the particular situations\u201d as cases begin to be decided in courts, says Lauren Yu, a fellow with the ACLU\u2019s Speech, Privacy, & Technology Project. Experts say that so-called agency law could be relevant given that the doctrine focuses on situations where a \u201cprincipal\u201d has given an \u201cagent\u201d permission and authority to act on their behalf. To be clear: The \u201cagents\u201d in this area of law have always been human. Tort law, in which a wrong causes harm that leads to legal liability, could also potentially be invoked in...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 2217
+  },
   "a6515828442bec88c891aae2c5543591f947843ca25480256b52d22dde073c28": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -34282,6 +34588,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "abd1eef2d5510fb2efb7c2aa9d0b85cd7fcd123e3a9198a4ef332e19bf671681": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Each year\u2019s badge creator endeavors to top previous designs and blow the minds of hard-to-impress hackers. But this year\u2019s badges take a different tack. Instead of the badge designs being the star, it\u2019s what is inside the hardware that will really stand out. This year, Defcon asked legendary hardware hacker Andrew \u201cbunnie\u201d Huang to create the badges\u2014revealed here for the first time\u2014and they include an innovative open source chip that Huang designed and that aims to do no less than advance the state of security, transparency, and trustworthiness in computing. But the chip isn't just part of the badge. Its core module can be removed and used after the conference as a hardware security token, giving the badge a second life beyond Defcon. The chip\u2014called the Baochip-1x\u2014is a \u201cmostly\u201d open source microcontroller that has been three years in the making and fulfills Huang\u2019s years-long dream of making a chip whose security is verifiable. Huang has published the source code for the Baochip\u2019s operating system, firmware, processor core, cryptographic engines, and input-output system, on GitHub, making these components available for inspection and use. The chip is also packaged so that researchers can peer inside to check the silicon itself and compare what they see against the published design, rather than having to trust that the manufactured chip is what the designers intended. Computer...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "crypto wallets"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 5439
   },
   "abe49d47ebd04e3901c2cb35e7af4cb7d55f028bae252560fda5d1d73d7650d1": {
     "access_status": "available",
@@ -36063,7 +36404,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:31+00:00",
+    "checked_at": "2026-08-02T03:51:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -36191,7 +36532,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests Saviz Changizi, Nasibeh Mohammadzadeh, Mohammad Shojafar, and Rahim Tafazolli Saviz Changizi, Mohammad Shojafar, and Rahim Tafazolli are with the 6G Innovation Centre, Institute for Communication Systems, University of Surrey, UK (e-mail: {s.changizi, m.shojafar, r.tafazolli}@surrey.ac.uk).Nasibeh Mohammadzadeh is with the Department of Network Engineering, Polytechnic University of Catalonia, Barcelona, Spain (e-mail: nasibeh.m@gmail.com). Abstract Telecom fraud-control studies often stop at detector-level classification, but deployment use requires request-level policy resolution, lifecycle traceability, and auditability. This paper reframes fraud control as blockchain-linked auditable decision management for synthetic telecom/IoT fraud-control requests, and its main result is that the QLoRA-tuned LLM branch becomes much more usable than zero-shot prompting but mainly approaches, rather than outperforms, a lower-cost centralized ensemble. The framework maps each synthetic deployment record to a managed request, blocks explicit out-of-boundary cases through a deterministic hard-fraud gate, scores non-hard requests using centralized ML (M1), federated meta-learning (M2), or LLM-family risk sources (M3), and resolves actions through a shared...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:40:06+00:00",
+    "checked_at": "2026-08-02T03:51:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -39405,7 +39746,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:49+00:00",
+    "checked_at": "2026-08-02T03:51:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -40207,7 +40548,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:30:02+00:00",
+    "checked_at": "2026-08-02T03:51:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -41322,7 +41663,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Impact of Security and Privacy Controls on Users\u2019 Emotional Engagement with Generative AI Chatbots Jabari Kwesi Duke University Jiaxun Cao Duke University Hailee Cunningham Duke Kunshan University Pardis Emami-Naeini Duke University Abstract Chatbots powered by generative AI (e.g., OpenAI\u2019s ChatGPT and Google\u2019s Gemini) are increasingly being appropriated for emotional support and companionship. These tools offer a suite of security and privacy (S&P) controls, including model training opt-outs and memory toggles, yet how the presence of these controls influences users\u2019 attitudes toward emotionally sensitive disclosure remains understudied. We conducted a mixed-methods vignette study with 354 U.S. participants to examine how S&P controls influence users\u2019 willingness to engage with generative AI chatbots for emotional support, their perceptions of how protected they are when using these systems, and their perceptions of how effective the chatbots are for providing support. Controls enabling deletion of disclosures had the largest positive impact: these offerings outperformed technically sophisticated controls such as local-only processing and model training opt-outs, where participants expressed difficulty understanding the underlying mechanisms. Yet trust remains fragile, and participants often doubted S&P controls would...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:24+00:00",
+    "checked_at": "2026-08-02T03:51:00+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -41783,7 +42124,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:43+00:00",
+    "checked_at": "2026-08-02T03:51:08+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -41933,6 +42274,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4288
+  },
+  "cfefca8603657210366517a85183d6a97441eef17084dc1a6c6818d52ef6a36b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The company, Amazon subsidiary Zoox , says it will soon begin to charge for rides in Las Vegas, where it\u2019s been carrying passengers for free since last year. The company is also currently picking up a limited set of passengers in Austin, Miami, and San Francisco, all for free. The approval is a milestone for the autonomous vehicle industry. Waymo , the nation\u2019s leading robotaxi provider, uses vehicles that meet government design standards\u2014with steering wheels, pedals, and mirrors, and conventional seating arrangements. (Even the company\u2019s new, purpose-built robotaxi has those legally mandated features.) But some industry players argue that driverless tech can only reach its potential with vehicles built to be driven by computers\u2014ones that don\u2019t meet federal vehicle safety standards written for older technology. That has proven a difficult path. Zoox has worked for more than a decade to design, manufacture, and receive government approval for its vehicles, which don\u2019t have steering wheels or pedals and feature a \u201ccampfire-style\u201d seating arrangement where riders face each other. The NHTSA\u2019s two-year exemption from its safety standards will allow Zoox to deploy up to 5,000 robotaxis. The company will, in turn, be subject to more stringent government oversight and will submit extra data on crashes and unexplained stops. The NHTSA can retract Zoox\u2019s exemption if it finds that it\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:01+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2305
   },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
@@ -43092,7 +43463,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: [1] \\fnm Timothy Oluwapelumi \\sur Adeyemi [1] \\orgdiv WeAreGenius Research Institute, \\orgname Founder and Principal Researcher, \\orgaddress \\city Lagos, \\country Nigeria 2] \\orgdiv Park University, \\orgname MBA, \\orgaddress \\country United States Artificial Intelligence-Enabled Accounting Information Systems and Fraud Detection in Nigeria\u2019s Financial Services Sector: The Moderating Role of Natural Language Processing atimothy.dev@gmail.com * \\fnm Abigail Omotola \\sur Ojogbede abigailojogbede@gmail.com [ Abstract The rapid digitalisation of financial systems has improved operational efficiency and financial inclusion while simultaneously increasing exposure to sophisticated forms of cyber-enabled fraud and electronic financial misconduct. Conventional auditing systems, which largely depend on retrospective verification and rule-based monitoring, increasingly struggle to address the complexity and speed of modern financial crime. Consequently, financial institutions are progressively adopting Artificial Intelligence (AI)-enabled Accounting Information Systems (AIS) and Natural Language Processing (NLP) technologies to strengthen fraud detection, continuous auditing, and institutional monitoring. This study examined the influence of AI-enabled AIS on auditing and fraud detection effectiveness within Nigeria\u2019s financial services...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:44+00:00",
+    "checked_at": "2026-08-02T03:51:09+00:00",
     "direct_relevance_terms_found": [
       "account takeover",
       "financial fraud",
@@ -44796,6 +45167,53 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2924
+  },
+  "de91184318f85d6fcd15323915ecc5123ef6dad0ac9aac41b7bd27e4e58c5da0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "UN says human trafficking into Asian scam centres is surging Sign up now: Get insights on Asia's fast-moving developments Rows of small boxes lined with acoustic foam, used by scammers to make calls to victims, are seen amid debris and a partially collapsed ceiling inside a compound in O\u2019Smach used for scam operations in Samraong, Oddar Meanchey province, in Cambodia on Feb 2, 2026. PHOTO: REUTERS Published Jul 28, 2026, 10:36 PM Updated Jul 29, 2026, 10:35 AM Set as preferred source Listen Summarise The UN migration agency reports a sharp rise in people trafficked into Asian scam centres, forced to work in online fraud operations under threats and abuse. Scam centres in Myanmar, Cambodia, and Laos employ up to 300,000 workers, many deceived by fake job ads promising well-paid roles for educated English speakers. IOM urges global action to support victims, enhance law enforcement, and raise awareness of traffickers\u2019 methods, especially in remote Asian regions with weak policing. AI generated GENEVA \u2013 The United Nations (UN) migration agency on July 28 warned of a dramatic increase in the number of people forced into working at Asian scam compounds, saying people from more than 80 countries have been lured in through social media, with some being sexually abused. Huge scam centres employing as many as 300,000 workers across Myanmar, Cambodia and Laos have emerged to deploy...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "scam compound",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "scam compound",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "scam compound",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1679
   },
   "deb729e7675188d55cfbba585ac9dbf0a4346a479e423d27c2da9042ff792698": {
     "access_status": "available",
@@ -47069,7 +47487,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:28+00:00",
+    "checked_at": "2026-08-02T03:51:05+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -47487,7 +47905,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation Rahil Sharma Vrije Universiteit Amsterdam r.sharma4@student.vu.nl (July 2026) Abstract Fraud detection systems must scale with rising transaction volume while remaining explainable and reviewable. We study a layered pipeline on the PaySim dataset that combines a gradient-boosted classifier, graph-derived structural features, an autoencoder-based anomaly signal, TreeSHAP explanations, and a bounded LLM investigation agent applied to cases the classifier scores uncertainly. Before any model comparison, we identify and remove a simulator-specific balance shortcut that would otherwise inflate baseline performance. After this correction, neither the graph features nor the anomaly signal improves Average Precision on the full test set. Both, however, rank fraud better within the subset of cases receiving intermediate baseline scores. In a controlled experiment with injected multi-account fraud rings, engineered structural features recover all injected test transactions, while the tabular baseline misses roughly a quarter of them. The investigation agent underperforms direct thresholding of the classifier it relies on, reaching 65.0% accuracy against 71.7% on a balanced 60-case sample, despite having access to model...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:23+00:00",
+    "checked_at": "2026-08-02T03:51:02+00:00",
     "direct_relevance_terms_found": [
       "account takeover",
       "fake job",
@@ -50157,7 +50575,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents Xu Li Simon Yu Minzhou Pan Yiyou Sun Bo Li Dawn Song Xue Lin Weiyan Shi Abstract LLM-based agents are becoming increasingly capable, yet their safety lags behind. This creates a gap between what agents can do and should do. This gap widens as agents engage in multi-turn interactions and employ diverse tools, introducing new risks overlooked by existing benchmarks. To systematically scale safety testing into multi-turn, tool-realistic settings, we propose a principled taxonomy that transforms single-turn harmful tasks into multi-turn attack sequences. Using this taxonomy, we construct MT-AgentRisk ( M ulti- T urn Agent Risk Benchmark), the first benchmark to evaluate tool-using agent safety under multi-turn, harmful-distribution settings. Our experiments reveal substantial safety degradation: the Attack Success Rate (ASR) increases by 16% on average across open and closed models in multi-turn settings. To close this gap, we propose ToolShield , a training-free, tool-agnostic, self-exploration defense: when encountering a new tool, the agent autonomously generates test cases, executes them to observe downstream effects, and distills safety experiences for deployment. Experiments show that ToolShield effectively reduces ASR by 30% on...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:49+00:00",
+    "checked_at": "2026-08-02T03:51:12+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam",
@@ -50956,6 +51374,38 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "fdc430ffe9faeda79e2d49c39d233d72e67e507ce40398f0d81024ed603b17e1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "She wrote sentences she doubts she would have attempted before the advent of LLMs, avoiding what she calls \u201cwishy-washy metaphors,\u201d and took \u201ca more winding path to avoid an em dash or a tripartite list.\u201d Since the widespread adoption of LLMs, Robson says her writing has fundamentally changed for the better, becoming a deliberate inverse of what she sees as AI\u2019s default lack of style. \u201cI find myself writing less mechanically,\u201d she says. \u201cI have this urge to make little mistakes, like winks to the reader, to show that there\u2019s a human behind the words. Like: What if I just invented a phrase? What if I did something unexpected with my punctuation?\u201d Robson is part of a larger cohort of writers who are practicing what could be called an anti-AI writing style. Across journalism, criticism, creative writing, and especially among compulsive LinkedIn posters, writers are converging on a set of choices that implicitly resist the trappings of AI-generated prose. The style mostly takes shape through negation, often of the obvious AI tells, like lists of three, passive voice, not x but y , and em dashes. But it also prizes idiosyncrasy as its overriding principle, tapping into specific first-person anecdotes and eccentric similes that demonstrate the necessary drudgery of writing. \u201cI think AI could absolutely trigger a literary counterculture,\u201d says Robson. \u201cIt seems to me that literary...",
+    "cache_version": 8,
+    "checked_at": "2026-08-02T03:51:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 4322
   },
   "fdcc380e75f7c63eeb6d489a2c2b25c43abaa6067873090acd69a94c50cc13b9": {
     "access_status": "available",

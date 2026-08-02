@@ -2548,6 +2548,20 @@
       "url": "https://www.straitstimes.com/asia/south-asia/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka",
       "usefulness_category": "Operational intelligence"
     },
+    "straitstimes.com|2026-07-28|asian centres human scam surging trafficking": {
+      "article_type": "News report",
+      "normalised_title": "un says human trafficking asian scam centres surging",
+      "normalized_title_fingerprint": "un human trafficking asian scam centres surging",
+      "original_url": "https://www.straitstimes.com/asia/un-says-human-trafficking-into-asian-scam-centres-is-surging",
+      "parsed_date": "2026-07-28",
+      "raw_title": "UN says human trafficking into Asian scam centres is surging - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-07-28|asian centres human scam surging trafficking",
+      "sent_at": "2026-08-02T03:51:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "un says human trafficking asian scam centres surging",
+      "url": "https://www.straitstimes.com/asia/un-says-human-trafficking-into-asian-scam-centres-is-surging",
+      "usefulness_category": "Operational intelligence"
+    },
     "straitstimes.com|2026-07-28|bust centres charge city foreigners forest least malaysia": {
       "article_type": "Enforcement report",
       "normalised_title": "malaysia police bust two scam centres forest city least 194 foreigners charged",
@@ -5812,6 +5826,18 @@
       "sent_at": "2026-06-24T04:26:23+00:00",
       "source_domain": "channelnewsasia.com",
       "title": "two men linked cambodia based scam syndicate prince group investigated money laundering offences",
+      "usefulness_category": "Operational intelligence"
+    },
+    "un human trafficking asian scam centres surging": {
+      "article_type": "News report",
+      "normalised_title": "un says human trafficking asian scam centres surging",
+      "normalized_title_fingerprint": "un human trafficking asian scam centres surging",
+      "parsed_date": "2026-07-28",
+      "raw_title": "UN says human trafficking into Asian scam centres is surging - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-07-28|asian centres human scam surging trafficking",
+      "sent_at": "2026-08-02T03:51:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "un says human trafficking asian scam centres surging",
       "usefulness_category": "Operational intelligence"
     },
     "understanding scam trends rail paths reddit self disclosure narratives": {
@@ -10087,6 +10113,18 @@
       "title": "User-Centric Phishing Detection: A RAG and LLM-Based Approach",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yQWFubC02dmFkNU9SNzNGQjlsNVctWkpRcGZxZ1d3bDNsMXRiTFlzdG5mNVh4MzNBcDdSd0lKMS00aU5vTXlxcTZNcw?oc=5",
       "usefulness_category": "Product idea / data source"
+    },
+    "de91184318f85d6fcd15323915ecc5123ef6dad0ac9aac41b7bd27e4e58c5da0": {
+      "article_type": "News report",
+      "normalised_title": "un says human trafficking asian scam centres surging",
+      "normalized_title_fingerprint": "un human trafficking asian scam centres surging",
+      "parsed_date": "2026-07-28",
+      "same_story_key": "straitstimes.com|2026-07-28|asian centres human scam surging trafficking",
+      "sent_at": "2026-08-02T03:51:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "UN says human trafficking into Asian scam centres is surging - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/un-says-human-trafficking-into-asian-scam-centres-is-surging",
+      "usefulness_category": "Operational intelligence"
     },
     "dfb8033d353fd0b8cc41c26a842d9f934991de17dd011463da8b6ed942287773": {
       "article_type": "News report",
