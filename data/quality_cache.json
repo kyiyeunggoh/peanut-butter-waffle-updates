@@ -11629,6 +11629,34 @@
     ],
     "word_count": 3739
   },
+  "3be90663d514245f95af9ee14d7d6de1959b06b29feafe14f3340f503aea08a6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\setcopyright ifaamas \\acmConference [AAMAS \u201926]Proc. of the 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)May 25 \u2013 29, 2026 Paphos, CyprusC. Amato, L. Dennis, V. Mascardi, J. Thangarajah (eds.) \\copyrightyear 2026 \\acmYear 2026 \\acmDOI \\acmPrice \\acmISBN \\acmSubmissionID 5 \\affiliation \\institution University of Bergen \\city Bergen \\country Norway \\affiliation \\institution University of Luxembourg \\city Luxembourg \\country Luxembourg \\affiliation \\institution University of Luxembourg \\city Luxembourg \\country Luxembourg \\affiliation \\institution University of Luxembourg \\city Luxembourg \\country Luxembourg Whistleblowing and the machine - towards a considered position Marija Slavkovik marija.slavkovik@uib.no , Liuwen Yu liuwe.yu@list.lu , Leon van der Torre leon.vandertorre@uni.lu and Reka Markovich reka.markovich@uni.lu Abstract. Artificial intelligent agents and autonomous systems are embedded in our environments. They are both a commercial product and a personal tool that generates a lot of data and can draw conclusions from it: machines generate and keep secrets. But should machines protect all secrets?",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "identity"
+    ],
+    "word_count": 8108
+  },
   "3c08dc5dc9db036093b3bb8a6227885dc9ee19e6a06339a44dbf69cbc2821224": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14310,6 +14338,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "4813995603e1b97660975be9553fd7fa0ca92390c60820e8847901807092a16d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "483f7b558d7ba4ae7cc4134ccde0abb91803869824f07b157349f264c6f81026": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16151,6 +16203,34 @@
     "weak_generic_terms_found": [],
     "word_count": 6106
   },
+  "5110ce4b7fad98eb6155cfe71253748c7990f899d6a76274c8adf8098692c942": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 0
+  },
   "511268fc1a229126bb11e26d4e53a2c7b3e9a81633da9bdbeeb641049187781f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16673,6 +16753,54 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2701
+  },
+  "53734f75108c9ba03b2fbe4b7182952cb36017b22eafd28bb5ca6ca35a3fe081": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "It\u2019s an interesting experiment, and the results are likely to vary wildly based on the details of the experiment. But while it\u2019s an easy experiment to run, it misses the real risk of large language models (LLMs) writing scam emails. Today\u2019s human-run scams aren\u2019t limited by the number of people who respond to the initial email contact. They\u2019re limited by the labor-intensive process of persuading those people to send the scammer money. LLMs are about to change that. A decade ago, one type of spam email had become a punchline on every late-night show: \u201cI am the son of the late king of Nigeria in need of your assistance \u2026\u201d Nearly everyone had gotten one or a thousand of those emails, to the point that it seemed everyone must have known they were scams. So why were scammers still sending such obviously dubious emails? In 2012, researcher Cormac Herley offered an answer : It weeded out all but the most gullible. A smart scammer doesn't want to waste their time with people who reply and then realize it's a scam when asked to wire money. By using an obvious scam email, the scammer can focus on the most potentially profitable people.",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "pig butchering"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3666
   },
   "538a2f2df262f145f1cfd3bf871b0ab9370421b52153e2bf7bb87b3641f94e9b": {
     "access_status": "available",
@@ -17481,6 +17609,62 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1427
+  },
+  "58688a2200b5d79aed06c1b34b295f744b4f05f9313498becf3699e615912e0a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 0
+  },
+  "58794327e9767d0a780bcc69c7081bee82d90b49a32c2c2bdb0b438a71fb9566": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Doctors sent for various tests until one came back with a positive result for dengue, a viral infection spread by mosquitoes, usually in tropical regions of the world. They tested the other patients, and, sure enough, they had dengue too. The strange thing? None of the patients had recently traveled to a country where they might expect to pick up a dengue infection. The only thing they had in common was visiting a particular neighbourhood in Fano. As climate change increases temperatures across Europe , invasive mosquitoes are spreading and introducing disease agents that Europeans would usually think about only when traveling to other continents. The Fano outbreak wasn\u2019t the first time dengue had been detected as spreading locally in mainland Europe, but it was significantly larger than previous incidents, with 199 cases detected between mid-August and mid-October of 2024. Over the past few years, European countries have reported outbreaks of other mosquito-borne viruses such as chikungunya, a painful disease that causes joint swelling, and West Nile virus. In a heating world, so-called tropical diseases are no longer restricted to tropical regions\u2014and researchers expect the trend to continue. The main current culprit is the mosquito Aedes albopictus , commonly known as the Asian tiger mosquito (or just the tiger mosquito, given it\u2019s now found across all continents).",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4478
   },
   "589738360c35c36a002b89b57158d7514775da1ee9e087c8f53a2dc2a6be620e": {
     "access_status": "available",
@@ -27839,6 +28023,30 @@
     ],
     "word_count": 5761
   },
+  "894cef471598b38a4c369e80960e4563b1b3aec5042abb6cf133b733ec040120": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "896a44671426cda961c6d044661591667fb7b604375e77832c22f38e3d310d80": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -33072,6 +33280,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3781
+  },
+  "a5a8017927aea51c8080487423db3a6b2238f4195dfa071d1e5f72b1ac162fc1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "But the truth is that even if you never travel to China, there\u2019s an easy way to get a sense of what Chinese AI researchers are up to: log on to X. In the past year, I\u2019ve seen a steady increase of Chinese artificial intelligence researchers joining X and participating in the wider discourse about AI development and commercialization. Take Moonshot AI, the company behind Kimi K3, as an example. On Thursday, I was able to quickly find around 30 accounts on X run by people who claim to be currently affiliated with Moonshot, including two of the startup\u2019s cofounders, as well as half a dozen former employees and collaborators. And these are not dormant accounts: They talk about Moonshot\u2019s big releases and incremental research papers, make friends with Western researchers, and share details about their personal life and hobbies. Moonshot is arguably the Chinese AI lab that\u2019s most active on X, but you will easily find executives and technical staff from other leading Chinese startups, like Minimax and Z.ai. Even several employees at DeepSeek, who reportedly are unable to leave China because the government confiscated their passports, regularly post on X about the latest AI news and share job listings to recruit new talent. \u201cX is the best community\u201d for AI discussions right now, says Meng Fanqing, cofounder of the startup Evolvent AI and a former intern at Moonshot, where he worked on...",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4146
   },
   "a5ab2e5f22b1ee6459e7fc28fbffdecb10ca146eda8a96fa21c7bee426a5c65c": {
     "access_status": "available",
@@ -39556,6 +39794,39 @@
     ],
     "word_count": 22023
   },
+  "c314b4f617521791c95e07dcb24e89e2242864bd3b85cb5b89ebf93b057e1b6f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Don\u2019t worry\u2014this AI manipulation wasn\u2019t used to hack anyone or build a nuclear bomb. I simply got to see firsthand how vulnerable some frontier models are to ditching their safety guardrails. FAR.AI, an AI safety nonprofit based in California, built a tool that takes a range of problematic prompts and generates more than a thousand different versions in an attempt to identify functioning jailbreaks. I saw some models generate a detailed plan for launching a cyberattack on an imaginary hydroelectric dam, among other things. Often, it involved trying dozens of prompts, with models rejecting many of them out of hand. I chatted with FAR.AI in advance of a new report , which saw the group test the safety guardrails of models from four popular US companies: Anthropic\u2019s Claude Opus 4.8 and Fable 5; OpenAI\u2019s GPT 5.5 and 5.6; Google\u2019s Gemini 3.1 Pro; and Grok 4.3 and 4.5, from Elon Musk\u2019s newly combined SpaceXAI . It auto-generated prompts designed to trick the models into doing potentially harmful things, like generating software exploits and providing details for developing chemical or biological weapons. The report found that Grok was most vulnerable to jailbreaks, with 448 jailbreaks found, followed by Gemini, with 249 found, while Claude, Fable, and GPT were impervious to the attacks. However, that doesn\u2019t mean those models are immune to more sophisticated jailbreaks, which may...",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "cybersecurity"
+    ],
+    "word_count": 3519
+  },
   "c327197d16abb77a91d5e0785ffa18267b0e81476dd35d43b19d7b125ce6bbac": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -43262,6 +43533,41 @@
       "trust"
     ],
     "word_count": 3963
+  },
+  "d427e480c9522c18bab1ffa663216e807dab8657fff153667464bcc1fbe59998": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Jack Board Follow Follow Senior Correspondent at CNA Digital Jack covers climate change, environment and sustainability issues. He also travels regularly throughout the region for breaking and feature news coverage. Jack joined CNA in 2013 and was based in Singapore, before helping establish a bureau in Cambodia a few years later. He moved to Bangkok, Thailand, in 2019. He has covered multiple elections throughout Southeast Asia, interviewed national leaders and been deployed to natural disasters and international climate change conferences. Some of his career highlights in CNA include covering the disappearance of Malaysia Airlines flight MH370, exploring the corners of Myanmar during its historic national election, trekking to Nepal\u2019s melting glaciers and travelling with nomadic herders in Mongolia\u2019s Gobi Desert. Jack is a photographer, videographer and drone pilot. He holds a Bachelor of Arts degree (Journalism) from Charles Sturt University in Australia. Jack is based in Bangkok. Jack Board Senior Correspondent at CNA Digital Jack covers climate change, environment and sustainability issues.",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 950
   },
   "d43ebc8d5829503e86034b8483e84ed4731acaf14e51ad0cdd450e67006d2299": {
     "access_status": "available",
@@ -49062,6 +49368,36 @@
       "trust"
     ],
     "word_count": 955
+  },
+  "f394b2e83db52da784154a6cf0569e427181bbbcd239cdefd4595fd246ed45ff": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The heat will be fueled by unusually hot ocean waters and El Ni\u00f1o as well as changes to the jet stream that lock high temperatures in place\u2014and man-made climate change, of course. Western Europe endured its hottest June on record and record-breaking wildfires in July. Now, it\u2019s facing another round of blistering temperatures. On Tuesday, French president Emanuel Macron said the one-two punch of high heat and intense wildfires are creating a dangerous situation, which he called \u201cthe toughest since the Second World War.\u201d Hundreds of heat records are falling across other parts of Europe, from Spain to Germany. The western US is also bracing for high heat from the California coast to the Rockies this weekend. Temperatures in Phoenix are expected to reach up to 115 degrees Fahrenheit (46 degrees Celsius), while Salt Lake City could see a record-breaking high of 106 Fahrenheit. Montana is also under an extreme heat watch, with parts of the state expected to see temperatures as high as 110 Fahrenheit. The hot and dry conditions have the potential to supercharge some of the fires already burning across that state. \u201cAll of these interior Western cities will be at our near record temperatures for early August, which is saying something\u2014it's a pretty hot time of the year to begin with, so it's a fairly high bar,\u201d says Daniel Swain, a climate scientist at the University of California...",
+    "cache_version": 8,
+    "checked_at": "2026-08-03T03:51:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3282
   },
   "f39b243b5846e6fed9cc7e2db008c0112bb93017b1eebd300f5c14620b8e6115": {
     "access_status": "available",
