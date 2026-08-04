@@ -4851,6 +4851,35 @@
     ],
     "word_count": 3036
   },
+  "194046791ab32a69793ebb915249cadf1dc99fe999ff1c14f486d0f31c97975c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A decade ago it was controversial that the browser, the first to add automatic updates , distributed patches every six weeks. Now it's the norm for critical, widely used software to get security fixes every few weeks, but as AI vulnerability hunting produces a torrent of bugs in any and all software, the quantity and frequency of patches is spiking\u2014and the race to deliver them is on. In a report published Thursday , the Chrome security team says the browser's two major version releases in June included fixes for 1,072 security bugs\u2014more patches than the team shipped in the prior 23 big releases combined. And though many of these bugs come from researcher submissions, the spike has largely been driven by the Chrome security team\u2019s rapidly evolving internal process for using AI tools in vulnerability discovery, triage, and patch development. \u201cIn Chrome we\u2019ve been using machine learning\u2014using AI before it was called AI\u2014to help find vulnerabilities in particular and automate security fuzz testing work since at least 2012. It\u2019s been a huge part of how we find vulnerabilities and empower developers,\u201d Parisa Tabriz, Chrome\u2019s vice president and general manager, tells WIRED. \u201cBut I do think this year is very different. It really feels like an inflection point both for offense and defense.\u201d Chrome is already moving toward a new normal of pushing out a major release every two weeks with...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware"
+    ],
+    "word_count": 2580
+  },
   "19742f6b4081e40db13639f662a0ad0b36ec876fe37b442b82cbcdf845141b9d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10553,7 +10582,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: The Art of the Jailbreak: Formulating Jailbreak Attacks for LLM Security Beyond Binary Scoring Ismail Hossain 1 , Tanzim Ahad 1 , Md Jahangir Alam 1 , Sai Puppala 2 , Syed Bahauddin Alam 3 , Sajedul Talukder 1 1 Department of Computer Science, University of Texas at El Paso, TX, USA 79902 2 School of Computing, Southern Illinois University Carbondale, IL, USA 62901 3 University of Illinois Urbana-Champaign, IL, USA {ihossain, tahad, malam10}@miners.utep.edu sai.puppala@siu.edu , alams@illinois.edu, stalukder@utep.edu https://supreme-lab.github.io/optimus/ Abstract Jailbreak attacks \u2014 adversarial prompts that bypass LLM alignment through purely linguistic manipulation \u2014 pose a growing operational security threat, yet the field lacks large-scale, reproducible infrastructure for generating, categorizing, and evaluating them systematically. This paper addresses that gap with three tightly integrated contributions. (1) Large-scale compositional jailbreak dataset. We construct a corpus of 114,000 adversarial prompts by applying 912 in-the-wild composing strategies to 125 harmful seed prompts drawn from JailBreakV-28K. Unlike prior datasets that treat jailbreaks as undifferentiated collections, every prompt in our dataset is assigned to one of 14 cybersecurity attack categories (e.g., malware, phishing, privilege escalation) via a...",
     "cache_version": 8,
-    "checked_at": "2026-07-27T04:00:00+00:00",
+    "checked_at": "2026-08-04T03:34:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -11629,6 +11658,30 @@
     ],
     "word_count": 3739
   },
+  "3bbe8b5fc92c00c2dec760c1429b30db1442ac52f7f4dd3a01caff260a84e744": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It felt completely natural,\u201d Charpentier tells WIRED. \u201cBut just a little too pleasant to be human.\u201d The voice punctuated its sentences with pleases and thank yous. It was soft and friendly. Its attempts to upsell Charpentier on extra Snickers for her Blizzard were perfectly polite. But Charpentier worked the Dairy Queen drive-thru herself as a teenager. She knew something wasn\u2019t adding up. When she drove up to collect her Blizzard at the window of the Cary, North Carolina, drive-thru, she asked the worker in the window: Had AI taken her order? The employee confirmed to Charpentier that she was one of the thousands of customers across the US to have experienced an AI-voice-equipped drive-thru. In 2024, roughly 4 percent of fast-food locations in the US used voice AI technology in the drive-thru lane, according to Intouch Insight\u2019s annual Drive Thru Survey. Last year, that figure grew to 5 percent; early research suggests that has now climbed to 6 percent.",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5539
+  },
   "3be90663d514245f95af9ee14d7d6de1959b06b29feafe14f3340f503aea08a6": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -11662,7 +11715,31 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-27T04:00:02+00:00",
+    "checked_at": "2026-08-04T03:34:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
+  "3c1442b2b227676eeb1ee2c91f9c37d052b19f84acac6d58a5cddc5952c4845c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -12043,7 +12120,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Rethinking Fraud Safety Evaluation: Multi-Round Attacks Reveal Safety\u2013Utility Tradeoffs in Graph-Context LLM Defenders Laura Jiang Curtin University 22742957@curtin.edu.com.au Reza Ryan Curtin University reza.ryan@curtin.edu.au Qian Li Curtin University Qli@curtin.edu.au Nasim Ferdosian Curtin University nasim.ferdosian@curtin.edu.au Abstract Single-turn safety evaluation is a poor proxy for real fraud defense, where attackers escalate across multiple rounds. This paper evaluates fraud defenders under replay and adaptive multi-round attacks and measures when a defender refuses, not just whether it eventually refuses. On a frozen multi-round suite built from Fraud-R1, graph-context defenders improve early safe refusal relative to text-only baselines under both replay and adaptive fraud pressure, but they also produce substantially more benign over-refusal. Direct probing of the trained graph encoder, together with paired shuffle-risk ablations on both fraud and benign sides replicated across two seeds on the Qwen-1.5B backbone, localises this cost to how the defender LLM consumes structured context rather than to graph-encoder quality: the encoder cleanly separates fraud from benign, while the LLM responds primarily to the presence of structured graph fields and only secondarily, and asymmetrically, to risk-score magnitude....",
     "cache_version": 8,
-    "checked_at": "2026-07-28T03:31:38+00:00",
+    "checked_at": "2026-08-04T03:34:25+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "payment fraud",
@@ -21700,6 +21777,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "6cba64ac9d998d37b6800ddfe5860f10b2218dbdba1a87a0cc35cc2fd7481bc2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "6cf7effc4080610ae548f849e847f27e8f23104e5893cac4dcdc9e9cf5b05f0d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -25273,6 +25376,34 @@
     ],
     "word_count": 11692
   },
+  "7d7dc39629b82ee2b1f00a48a5940d6e2c1d47e6aac90aa8c55260a74675c8dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Starting on Sunday, citizens of the European Union must be informed when they are interacting with an AI system or viewing content generated or altered by the technology. These new transparency regulations come as part of the bloc\u2019s Artificial Intelligence Act , which goes into effect August 2. The act is intended to reduce deception and manipulation, and help people make informed choices within the wider aim of fostering trustworthy AI in Europe. \u201cIf a provider\u2019s really compliant with the transparency obligations, it will become very visible how much AI is used,\u201d Frederiek Fernhout, a technology lawyer at Stibbe, tells WIRED. \u201cEspecially in marketing.\u201d Ads or corporate social media posts using deepfakes will be slapped with a label stating they are AI-generated. Chatbots and hotlines handling complaints and other issues will have to state clearly if they are AI-based. Call centers using machine learning to monitor caller emotions and detect frustration will need to declare they are doing so at the start of the call. Even among businesses, any commercial use of the technology, including scheduling appointments, handling correspondence, or negotiating contracts, will have to be declared. If companies don\u2019t comply, they will face fines of up to \u20ac15 million ($17 million) or 3 percent of worldwide annual turnover\u2014whichever is higher. Model developers will also be subject to the...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "trust"
+    ],
+    "word_count": 2681
+  },
   "7d869847a74e192ade9d0b6e210c9cd8aeace7376ddccc12ce8797879e3ff72d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -25488,7 +25619,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-27T03:59:56+00:00",
+    "checked_at": "2026-08-04T03:34:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -29261,6 +29392,39 @@
     ],
     "word_count": 2263
   },
+  "9139420119b0095f85afb5034bc0c29e4b9d396b9c94d9f210b6a556870ba44d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Hacking How a 13-year old hacker is improving internet security By Madhumita Venkataramanan Hacking Growth hacking: hype or the holy grail for startups? By David Rowan Hacking FBI's PC spy malware tactics revealed By Kevin Poulsen Hacking Chinese military 'hacked' Israel's Iron Dome By Liat Clark Hacking It's easy for thieves to hack your home alarm system By Kim Zetter Hacking UK law introduces life sentence for cybercriminals By Olivia Solon Hacking The best Super Smash Bros. isn't made by Nintendo By Ryan Rigney Hacking Ellen Jorgensen is dragging genetic engineering away from the scare stories By Spencer Reiss Hacking Hackers fail at hacking into Chrome OS, leave \u00a32.1m prize unclaimed By Ian Steadman Hacking Evernote hacked, forces millions of users to reset their passwords By Philippa Warr Hacking Hackers hijack Montana TV station, broadcast zombie apocalypse warning By Ian Steadman Hacking Q gets an update: Wired meets Bond's new quartermaster By Tom Cheshire Hacking DNSChanger malware: how to check if you're infected, and how to fix it By Ian Steadman Hacking How to hire the best software engineers and developers for a startup By Kieran O'Neill Hacking Hacker Kevin Mitnick on Lulzsec, Stuxnet and Anonymous By Noah Shachtman Hacking When technology betrays us By Robert Vamosi Hacking The card master: Why Max Butler crowned himself king of a global online fraud network By...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:22+00:00",
+    "direct_relevance_terms_found": [
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "malware",
+      "fraud"
+    ],
+    "word_count": 446
+  },
   "91692ad81a694c5faf1c8f9a3dd02ff74212bc9bf79f9db540b2df01ee43b6a8": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -29336,6 +29500,40 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "91a91fcde455e97c61abf7db0fb19caaa674845beb7739bf66429e80c46ddb68": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu 1 Yitong Li 1 Haoren Zhao 1 Yaoxiang Bian 1 Jianan Ma 1,2 Jian Zhang 1 Jialuo Chen 3,2 Xinhao Deng 4,2,\u2020 Zhen Wang 1,\u2020 1 Hangzhou Dianzi University 2 Ant Group 3 Zhejiang University 4 Tsinghua University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate 11 state-of-the-art agents, including Gemini 3 Pro and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_healthcare_ai_cyber",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21814
   },
   "91b6e3dbe79278e970bb83e5dfe563842d5488d4718c1cada875b9d19c7c4481": {
     "access_status": "available",
@@ -29449,7 +29647,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Innovations in Cardless Artificial Intelligence Banking: A Comprehensive Framework for Cyber Secure and Fraud Mitigation using Machine Learning Algorithms Md Israfeel, Abstract The advent of cardless Artificial intelligence (AI) banking heralds a paradigm shift in the financial landscape, offering users unprecedented security and convenience. This paper outlines a comprehensive framework designed to elevate cyber security, introduce auto-generated virtual cards, and mitigate fraud risks within cardless AI banking systems. The framework envisions the future banking architecture, employing AI-powered data cryptography to create secure virtual cards for seamless transactions. By emphasizing the importance of secure communication channels, it ensures the integrity of financial activities among the bank system, cardholders, and third-party vendors. AI-based authorization methodologies play a pivotal role in authenticating each transaction while proactively identifying potential fraud, showcasing the framework\u2019s efficacy in fortifying cardless AI banking security. The initial approach, featuring an AI-driven, feature-based banking system, ensures the generate of virtual cards with encrypted data, minimizing information exposure and reducing fraud risks. Integrating a machine learning algorithm adds an extra layer of protection...",
     "cache_version": 8,
-    "checked_at": "2026-07-27T03:59:57+00:00",
+    "checked_at": "2026-08-04T03:34:22+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -34993,6 +35191,48 @@
     ],
     "word_count": 2256
   },
+  "acbbb42e65f09ba93f7f04c9e202316d9c805102a34a4490d6855a4c1cb08569": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "While many online scams involve direct outreach to victims by scammers (who are often themselves human trafficking victims trapped in scam compounds ), CFA\u2019s lawsuit focuses on fraudulent advertising that CFA alleges Meta profited from and allowed to \"proliferate on its platforms,\u201d despite publicly promising that it takes cracking down on fraud and scams seriously. In its complaint, CFA points to ads found in Meta\u2019s ads library that CFA claims are types of well-known scams, including several that appear to target people by their birth year and tout $1,400 checks, as well as others that advertise free government iPhones. In a statement, Meta spokesperson Chris Sgro says, \u201cThese allegations misrepresent the reality of our work and we will fight them.\u201d Speaking with WIRED, Ben Winters, CFA\u2019s director of AI and data privacy, says others can find more dubious ads just by searching Meta\u2019s ad library using key words like \u201cfree phone\u201d and \u201cstimulus check.\u201d WIRED\u2019s quick perusal of the ads library on Monday shows more live ads for \u201csecret tax checks\u201d that lead to a website that promises to reveal \u201cWall Street\u2019s recession-proof investing strategy.\u201d Meta did not respond to questions about whether the ads for \u201csecret tax checks\u201d are allowed under its policies. CFA is seeking to recover damages and what it says are illegal profits from Meta, in addition to business reforms. Winters says...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 3048
+  },
   "acc42ff3bdafd6cf65dedf60e7ea9c427e3d6bebc366b67a1d226b87f13366d3": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -35410,7 +35650,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-28T03:31:45+00:00",
+    "checked_at": "2026-08-04T03:34:30+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -38789,6 +39029,41 @@
     ],
     "word_count": 812
   },
+  "bec11a867b30c25079f95d1bfd970d06e6a47b421456ddf0f759438d439c4bf5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "It\u2019s used to describe someone\u2014most often the guy, when it comes to heterosexual relationships\u2014who acts like they are incapable of doing things like cooking, cleaning, scheduling, and just generally being thoughtful, in the hopes that their partner will simply take care of it. A new AI agent, Orchid , was advertised this week as a way to fix relationship problems by simply doing all of those tasks for an inconsiderate partner instead. In the promo , released on Wednesday, Sam, a boyfriend who is busy gaming and rifling through expired groceries, has forgotten his anniversary. \u201cOk ok, I can do this,\u201d he types to Orchid, when the AI agent reminds him of the day\u2019s significance. \u201cYou can\u2019t. That\u2019s why I\u2019m here,\u201d Orchid replies, as it goes about making a reservation and buying his girlfriend\u2019s favorite flowers\u2014lilies\u2014another detail he didn\u2019t remember. The girlfriend, who is also consulting Orchid throughout the day, is well aware that the AI assistant is doing all of this labor yet somehow allows Sam to take credit for the whole plan. The rollout was blasted by users on X, for advertising to \u201cadult babies uninterested in the world they live in\u201d and \u201cperpetuating \u2026 dead-end relationship[s] that both parties secretly hate .\u201d To state the obvious: Orchid will not fix long-simmering relationship resentments through task managing. \u201cTrying to outsource difficult but necessary...",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2481
+  },
   "bedc35e355f069a932160b51102b94c2bdb16db5a59f10e2958a7365421a26b7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39421,6 +39696,30 @@
       "fraud"
     ],
     "word_count": null
+  },
+  "c16cb023bb57af642493301ef49950bd11510ebe2a64308418d502df6bda468f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It\u2019s a beautiful old house, listed on the National Historic Registry, and is largely unchanged from the day it was built. This is exactly what we dreamed of in a house. It\u2019s loaded with history and vibes, mostly unmessed with across the decades. We\u2019re now simultaneously updating and restoring the home with a limited budget, big ideas, our own style, and plenty of sweat equity. The place we moved into was the level opposite of a \u201csmart home\u201d\u2014and figuring out thoughtful ways to integrate modern technology into this old house without sacrificing aesthetics or ruining the vibe is the guiding principle. We\u2019re only getting started, but after a busy six months of learning, researching, and working cutting-edge technology into a house from the Roosevelt administration (Teddy, not FDR), I\u2019ve kept a running log of the tech choices we\u2019ve made along the way. Today, our house is starting to feel simultaneously old and new, which is very much the goal. It\u2019s a lot of work, but I assure you it\u2019s also a wonderful time. Love WIRED? Add us as a preferred source on Google to see more of us.",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 10082
   },
   "c173ef9918b91ca9ac315553a7ca1d01bd885cdc833d6e02061afd77bb657c90": {
     "access_status": "available",
@@ -40069,6 +40368,42 @@
       "fraud"
     ],
     "word_count": 1360
+  },
+  "c4412ecf1b16be789e03569603cc391c76099dfcd6eb738faedc911102259edd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Instead, Immigration and Customs Enforcement officers were waiting to arrest him. According to a criminal complaint reviewed by WIRED, officers drove Moreno-Mendez to a nearby ICE field office. There, one deportation officer after another approached him with the same demand. Open your mouth. One officer tried to take his fingerprints and swab the inside of his cheek for DNA. He refused. Then another tried. Then a third. Each time, Moreno-Mendez refused. Four days later, Moreno-Mendez was charged with failing to register as a noncitizen and refusing to provide DNA while in federal custody\u2014the latter a misdemeanor that, as of 2021, ICE itself said it was unaware had ever been accepted for prosecution.",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 8768
   },
   "c48f9e8e5b21d9f4c4c5436f8039b72aee6c003fc43bcf84af94d6645dde0d3e": {
     "access_status": "available",
@@ -47402,7 +47737,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
     "cache_version": 8,
-    "checked_at": "2026-07-28T03:31:38+00:00",
+    "checked_at": "2026-08-04T03:34:30+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -48143,6 +48478,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3907
+  },
+  "ed25a863a29492139bd82568c30dd45c9b6b51bbd14b92fb882cad7f782f0b45": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "ed3588f1465d52e84fde92c70e546ef100cb9491accba190273169f4c8bb0932": {
     "access_status": "available",
@@ -50316,6 +50675,33 @@
       "fraud"
     ],
     "word_count": 1696
+  },
+  "f6f022735d61c9e438c9869872a7edd248e8cae956e11a12f8c77fdb6b9711cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Meet the Japanese cybersecurity startup made mostly in India Josys sells enterprises a defense against rising ransomware attacks Yasukane Matsumoto, Josys chief executive, said his startup was \"born from the beginning as a hybrid of India and Japan.\" (Nikkei montage/Source photos by Tsubasa Suruga, Josys and Reuters) TOKYO -- The entry point for a ransomware attack last October that halted deliveries at one of Japan's largest distributors of office supplies was an account held by an outside contractor. Shared by several staff members, the account was not protected by multifactor authentication. Read Next Latest on Cybersecurity Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 8,
+    "checked_at": "2026-08-04T03:34:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "ransomware"
+    ],
+    "word_count": 110
   },
   "f6f9c7fbc0e2e27533f4c9ed12e4ac280ada5a93d603b83a4ccdd46a433f8c7a": {
     "access_status": "available",
