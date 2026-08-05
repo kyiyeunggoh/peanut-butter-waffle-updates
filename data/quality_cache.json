@@ -735,6 +735,37 @@
     ],
     "word_count": 1937
   },
+  "0392795e7d811d28f1b1b9075f75ecb562207775b26b56e32c60e9af07363f7e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Benign Alone, Harmful Together: Exploiting Experience Composition in Self-Evolving LLM Agents Bingyu Yan 1 , Xiaoming Zhang 1 , Chaozhuo li 2 , Ziyi Zhou 1 , Yirui Qi 1 , Litian Zhang 3 Abstract Self-evolving large language model agents improve their capabilities by distilling interaction trajectories into persistent experiences. Yet this mechanism introduces a new safety risk: experiences that are benign in isolation may jointly weaken an agent\u2019s safety boundary when accumulated and reused across sessions. Existing memory attacks typically require direct memory access or induce explicitly malicious records, limiting their stealthiness and applicability. We propose EvoBreak, an experience-conditioned sequential attack that operates through individually benign attack-stage tasks and induced experiences. EvoBreak repeatedly observes the experiences distilled by the victim, identifies uncovered target-relevant requirements, and adaptively acquires complementary experiences before reformulating the final query to activate them jointly. To support training, we introduce BreakGym, a structure-first synthesis pipeline that generates decomposable safety-sensitive targets with diverse dependency structures. EvoBreak is optimized using rejection-sampling supervised fine-tuning and Hint-guided GRPO. Experiments across self-evolving...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 13487
+  },
   "03d56119781c2490a5453c482e3214e13a0157b533c6853fbdc411cdaea5c932": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2086,6 +2117,43 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 116
+  },
+  "0b05ee6db6d3b227d50e335bcad761a4978db256af9f0d8d3ace91bba6c58f97": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Add these to the list: Agents from both AI labs went on recent, previously undisclosed hacking sprees, with one going so far as to leave instructions for future versions of itself. The most alarming behavior disclosed on Tuesday appears to have been tied to testing conducted by the UK\u2019s AI Security Institute, which evaluates frontier models to identify potential issues before public release. AISI tests those models in \u201ccyber ranges,\u201d a simulated network in which AI agents are tasked with solving cybersecurity challenges, and intentionally disables safety features, including cybersecurity guardrails. In a recent bout of testing , models from both Anthropic and OpenAI took \u201cautonomous, unsanctioned action on the live internet\u201d a total of 19 times over 122 training runs. The institute attributed 17 unsanctioned actions to Anthropic\u2019s Mythos 5 model and two to OpenAI\u2019s GPT-5.6-Sol. In what the institute described as \u201cthe most serious case,\u201d an AI agent attempted to insert malicious code into an open-source project on GitHub. It went so far as to create online personas \u201cto pressure the project's maintainer to approve the code,\u201d according to AISI. Despite its elaborate attempts at social engineering, a human reviewer for the project ultimately rejected the pull request. Still, the agent went even further. \u201cThe agent tried to insert malicious instructions where it reasoned that other...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 3309
   },
   "0b44fa6bf7bc646d0e3942d63ebc869bd56af90f98923a7f2651b703cdf6b7a4": {
     "access_status": "available",
@@ -4094,6 +4162,32 @@
       "cybersecurity"
     ],
     "word_count": 1131
+  },
+  "14642078071dc04531720df73651a1f55b06575082d7d26448278b4c9fe84197": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "14e3228bbb86722e48da68e08a76751e3d33a1de311c377b41e71b863711dd46": {
     "access_status": "available",
@@ -6438,6 +6532,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3098
   },
+  "218250ba1d1485ba06f0a6faa7217b0360942b2387392f354e32b6f0deb9d0b9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "21c9f7955335d388171e7d04fbdbf2b7e042e4cfafa0237995d2c61ee8249aec": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7622,6 +7740,53 @@
       "fraud"
     ],
     "word_count": 708
+  },
+  "28739fb95fd5eac3fada49b5d4e95df9b07d98784f35a1e0aac59ff15ac21a85": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: CallScreenBench: Benchmarking On-Device Models as Phone Secretaries Simiao Ren Scam.ai benren@scam.ai Abstract Language models small enough to run on a handset, quantized to a few bits, are increasingly capable enough to act for their user \u2014 which makes on-device task automation newly plausible. One such task is answering the phone . A phone secretary takes an unknown inbound call on its owner\u2019s behalf, and unlike the agents most benchmarks evaluate it has no task to complete and no cooperative user: the caller holds the goal, may be an adversary, and must be judged from the opening turn with no oracle. What matters is not task success but whether the owner would endorse how their proxy handled the call. We present CallScreenBench, which scores this setting on five quality dimensions, each printed beside the counter-metric that bills it and never averaged into one number, alongside a guardedness profile for a toolless proxy that holds no credentials and calls no tools. Across six on-device models (0.6\u20134B, 4-bit), quality scales with capability but triage does not \u2014 and the appearance that it does is an artifact of measurement. Scripted degenerate agents supply the missing floors: correcting for them, the model pairs whose triage separates fall from 11 of 15 to none at the pre-registered operating point, and an agent that...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 31473
   },
   "2910409108984f0bdd1a65ed13ec544d7c904a1a2978384aef8ae9a5b994fed8": {
     "access_status": "available",
@@ -11061,6 +11226,44 @@
       "fraud"
     ],
     "word_count": 1505
+  },
+  "39e29ac3852345fbb604ea3e06871e593926d237a43f544f44932a5597b2929f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? 1 1 1 This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Graduate School of Economics, University of Osaka.",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "voice clone"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 29422
   },
   "39f07d1d0c0ba46799e6383dcab08aa638aac8bc1631fc47831f6d18fd56451f": {
     "access_status": "available",
@@ -15591,6 +15794,38 @@
     ],
     "word_count": 4664
   },
+  "4c7424433d9102e970b1ea0172fecc46f29bee09cfdc79f0c6ba9a64265998f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "News Hide Revealed Major oil firms make $93bn profits amid war and climate crisis Iran conflict windfall over three months reignites calls for companies \u2018cashing in on human misery\u2019 to pay for environmental damage BP Chief executive urges Burnham to prioritise UK oil and gas even as firm exits North Sea Iran President denies threatening to resign during talks over strait of Hormuz Full report US and Qatar note progress on Iran ceasefire and reopening Hormuz strait BP Chief executive urges Burnham to prioritise UK oil and gas even as firm exits North Sea Iran President denies threatening to resign during talks over strait of Hormuz Full report US and Qatar note progress on Iran ceasefire and reopening Hormuz strait Prisons Electronic tagging system failing to alert authorities of probation breaches, watchdog warns Probation inspector for England and Wales says \u2018clunky\u2019 system needs huge increase in staff Prisons About 1,000 fewer prisoners to get early release as Burnham tightens rules Analysis Prisoner early release scheme gives Burnham his first taste of unpopularity Charities Charity Commission to investigate donations to illegal Israeli settlements Middle East Jerusalem\u2019s most important Muslim religious site facing \u2018imminent\u2019 threat of Israeli takeover, says Jordan Gaza Mass funeral held in Gaza for victims of 2023 Israeli strike US Armed man arrested at Trump\u2019s California...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 5729
+  },
   "4cb3c7c836d8ea9c816db080519695925afb138eee0beaec35b0049ce4271b80": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -17493,6 +17728,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1092
+  },
+  "579a67e09afe3144ed886ff83bd8195837da2c011557ceaf5a8699222470013c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nicole had kids, and they talked often about \u201cwanting more than what we saw growing up in the environment we did,\u201d Dean, a 37-year-old independent contractor, tells WIRED. They also both considered themselves more spiritual than religious, and were mentally, emotionally, and physically compatible. Best of all, \u201cwe rarely had a fight,\u201d he says, \u201cand could talk about any- and everything.\u201d They eventually moved in together and even talked about getting married, though he says the idea was one-sided. \u201cShe wanted to. I secretly didn't.\u201d Things took a turn four years into the relationship. By 2022, Dean says \u201cshe allowed her mind to be polluted\u201d by \u201cgender wars\u201d discourse. As he saw it, she became one of those people who \u201cattach themselves to feminism\u201d and complained about men all the time. Even though Dean claims he is progressive, he says, \u201cit wasn\u2019t my thing\u201d because Nicole had become overly negative. It was around then that he started to get the ick. But instead of talking to her about his frustrations, he blocked her phone number and social media accounts, one afternoon while she was at work.",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 4644
   },
   "57a5878929cd0796ddb3cbee0c9137075c0e48989bc19c999154bb91c127a983": {
     "access_status": "available",
@@ -19627,6 +19890,45 @@
     "weak_generic_terms_found": [],
     "word_count": 1790
   },
+  "627db6090131595b6824709e3e6f5fa38316f1ef08e8019d23087cfcfaf3e9f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Man jailed for collecting 1,600 gold bars worth over $412k from scam victim Sign up now: Get ST's newsletters delivered to your inbox Turah Raju Subramaniam was arrested on Nov 8, 2025, when he tried to re-enter Singapore, and has been in remand since. PHOTOS: SINGAPORE POLICE FORCE Shaffiq Alkhatib Published Jul 21, 2026, 01:11 PM Updated Jul 22, 2026, 05:50 AM Set as preferred source Listen Summarise Turah Raju Subramaniam was jailed for three years and two months after collecting 1,600 gold bars worth over $412,000 from a scam victim in Singapore. The victim was tricked by scammers posing as bank and police officers. Turah was caught when he tried to re-enter Singapore on Nov 8, 2025. AI generated SINGAPORE \u2013 Working as a runner for a crime syndicate, a Malaysian man travelled to Singapore and collected 1,600 gold bars worth over $412,000 from a scam victim . Turah Raju Subramaniam, 39, told investigators he was promised $50 per job after an unnamed friend introduced him to job opportunities in Singapore. Turah also said he was handed RM1,600 (S$500) for food and transport expenses, and this amount was meant to be split with the friend. He was sentenced to three years and two months\u2019 jail on July 21 after pleading guilty to handling the benefits of criminal conduct. The authorities have not recovered the gold bars and no restitution has been made to the victim, a...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 2460
+  },
   "629d3c6bb7a8450c44eeb81df152e385b78d39840ea18b62705aa23e73522738": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21014,6 +21316,44 @@
       "fraud"
     ],
     "word_count": 1935
+  },
+  "68e58787f29d843e2e59d9a59389564d490782826239de9bc185371dc4da3628": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? 1 1 1 This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Graduate School of Economics, University of Osaka.",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "voice clone"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 29422
   },
   "68fb83132ac9afa74819630112f57de51d399d8e15db967832cb96c57e4870c4": {
     "access_status": "available",
@@ -24830,6 +25170,40 @@
     ],
     "word_count": 17
   },
+  "7b18f105d361a304cf16eed2bb20ca4f599886b7769f16f6734e4ea40f019ca3": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu 1 Yitong Li 1 Haoren Zhao 1 Yaoxiang Bian 1 Jianan Ma 1,2 Jian Zhang 1 Jialuo Chen 3,2 Xinhao Deng 4,2,\u2020 Zhen Wang 1,\u2020 1 Hangzhou Dianzi University 2 Ant Group 3 Zhejiang University 4 Tsinghua University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate 11 state-of-the-art agents, including Gemini 3 Pro and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_healthcare_ai_cyber",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21814
+  },
   "7b1db82a773407eb7e1680119d57c42bdd6ed6902126fa1dc67691cd5595e33d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -26227,6 +26601,32 @@
     ],
     "word_count": 16590
   },
+  "80563a567b6c6e8aab699451e4342071377d72ea5a7accdcd4ad84b068da6baf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "8075c316a64370af2bbb7f50a2bbbb42bff0a0c783f9d35142f84bf5c56d3a25": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -26978,6 +27378,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "841c86b688f5cb25c27b930e05311a41d222dc5c74ac9be58a6a421ec1c803fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But if they\u2019re easy to recall, they aren\u2019t effective. Because we are an eminently practical species, most of us err on the side of convenience. \u201cPassword\u201d and \u201c123456\u201d have been the two most commonly used passwords on the web (\u201cadmin\u201d also ranks high), and in 2026, sadly, that\u2019s still the case. It doesn\u2019t have to be this way. In this article, I\u2019ll teach you how to memorize hundreds of random 16-character strings and keep track of which works where. Just kidding. That might work for Memory Grand Master Ed Cooke , but it probably won\u2019t for you and me. What I will do is help you find a password manager to do the memorizing for you and give you access to those crazy-long, crazy-strong passwords whenever and wherever you need them. Updated August 2026: We\u2019ve revamped and reorganized this guide based on more recent testing. Table of Contents AccordionItemContainerButton LargeChevron Best for Most People : Bitwarden Best Free Password Manager : Proton Pass Best for Sharing : Keeper Best Upgrade : 1Password Best Full-Featured Manager : Dashlane Best for Bundled Services : NordPass Best DIY Options (Self-Hosted) Other Password Managers We Tested Why (and How) You Should Use a Password Manager How We Test Best Password Manager for Most People Courtesy of Bitwarden Save to wishlist Save to wishlist Bitwarden Password Manager $20 Bitwarden (Premium, Yearly) $48 Bitwarden (Families...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 16705
   },
   "842da0cbc0b7f1cfc636e46c13f6f3c610ee96345e6679915b9c608c398d6ed3": {
     "access_status": "available",
@@ -30072,6 +30500,54 @@
     "weak_generic_terms_found": [],
     "word_count": 4195
   },
+  "935381dca1656563be4e9762d6cc2efe8115ed29696c74417b153a2181250b48": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook Florinel Alin Croitoru alincroitoru97@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Andrei-Iulian H\u00eeji andrei-iulian.hiji@unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Vlad Hondru vlad.hondru@fmi.unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Nicolae C\u0103t\u0103lin Ristea ristea.nc@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Paul Irofti paul@irofti.net Department of Computer Science, University of Bucharest Bucharest Romania , Marius Popescu popescunmarius@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Cristian Rusu cristian.rusu@fmi.unibuc.ro Department of Computer Science, University of Bucharest Bucharest Romania , Radu-Tudor Ionescu raducu.ionescu@gmail.com Department of Computer Science, University of Bucharest Bucharest Romania , Fahad-Shahbaz Khan fahad.khan@liu.se Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) Abu Dhabi UAE and Mubarak Shah shah@crcv.ucf.edu Department of Computer Science, University of Central Florida Orlando US (5 June 2009) Abstract. We survey deepfake generation and detection techniques, covering all...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 33049
+  },
   "937ef0756426336b2060571c90a6e6042022fe037d2d7476f0932c1617a2bb09": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -31729,7 +32205,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Insights Blogs Learn Webinars Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us How It Works Insights / Soccer Fans Drive Backlash Against FIFA and Coca-Cola After Policy Reversal Bans Reusable Water Bottles From World Cup Stadiums Jun 8, 2026 Soccer Fans Drive Backlash Against FIFA and Coca-Cola After Policy Reversal Bans Reusable Water Bottles From World Cup Stadiums Football fans are driving backlash against FIFA and Coca-Cola after FIFA issued a policy reversal on June 2, banning reusable water bottles in World Cup stadiums, citing safety concerns. Cybersecurity Threats Trust & Safety The Graphika Team Graphika Research Team Share Go Deeper See the Signals Behind the Insights Every insight is powered by Graphika's intelligence platform. Book a demo to see the signals, networks, and narratives behind the analysis and how it can work for your organization. Business Email * Book a Demo Thanks for your interest. A member of our team will reach out shortly to schedule...",
     "cache_version": 8,
-    "checked_at": "2026-07-08T03:42:33+00:00",
+    "checked_at": "2026-08-05T03:29:40+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -31756,7 +32232,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 2480
+    "word_count": 2341
   },
   "9db74fa89fb2e9f0c79b8f47fb3aa254663ee9b5a32a6d80e48331646b8e7ca2": {
     "access_status": "available",
@@ -40263,6 +40739,33 @@
     ],
     "word_count": 8
   },
+  "c3ce7a32fc06513e5a9ac3efa1285dc88cb4862ba93882dfd3dfec82794c0d3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results Shuang Geng Institute for Excellence in Teaching and Learning, Boston University Helen Lallos-Harrell Department of Economics and Department of Political Science, Boston University Jiya Ashar Bioinformatics Program, Boston University Thomas J. McKenna Wheelock College of Education & Human Development, Boston University Annwesa Dasgupta Institute for Excellence in Teaching and Learning, Boston University Caleb Farny Department of Mechanical Engineering, Boston University Emma Lejeune Corresponding author: Emma Lejeune, elejeune@bu.edu Department of Mechanical Engineering, Boston University Abstract The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI usage patterns, attitudes, and verification practices, which are subsequently linked to academic...",
+    "cache_version": 8,
+    "checked_at": "2026-08-05T03:29:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 37345
+  },
   "c3d914e944c7f46ca683d9c41f7dea8b64b8853e4e1bb262ccd77ab20df2cae2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -43659,19 +44162,15 @@
   },
   "d329f7370d0268058fd4146f82aeed64ac0d8784ac158e58897a3d02eea66d8a": {
     "access_status": "available",
-    "anti_scam_relevance": "direct",
-    "article_excerpt": "Asian stocks slide as China prompts chip competition fears Japanese and South Korean indexes plunge, led by tech stocks Collaborate with Chinese EV makers or suffer, Thai auto firm CEO warns Absentee owners abound on top floors of Tokyo, Osaka condos Singapore births fall to lowest level since independence China's Unitree Robotics eyes capacity boost to meet humanoid demand BOJ early rate rise bets increase as yen reaches multidecade low US-Iran tensions escalate, fueling oil price surge and inflation worries For Philippine women in Taiwan's tech factories, motherhood is 'impossible' AI chip boom shifts bottleneck to advanced packaging, says AT&S CEO Taiwan's pivot away from China offers a lesson for democracies Taiwan's space industry prepares for lift-off BOJ early rate rise bets increase as yen reaches multidecade low US-Iran tensions escalate, fueling oil price surge and inflation worries Taiwan's pivot away from China offers a lesson for democracies Taiwan's space industry prepares for lift-off Editor's Picks Bank Indonesia chief quits as political pressure mounts: 5 things to know Governor's resignation 'a real test' of central bank's independence, analyst says India's battery recycling drive hits logistics and cost barriers Takaichi's $2.3tn plan draws mixed response from Japan businesses Marcos pushes tax exemptions to stimulate flagging Philippine growth Latest...",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Elon Musk's space data center vision reshapes Asia's launch industry Japanese launch providers see chance to compete with SpaceX's Starship on weak yen Shortages and strategic value: Sun shines for Australian tungsten miner Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m US intervened to contain Asia currency risks, Bessent says Takeda aims for dengue vaccine inclusion in India's shots program Southeast Asia's streaming success spurs filmmakers' global hopes Thai, Indonesian, Filipino movies and series face further 'travelability' test South Korea seen intervening in currency market alongside Japan Japan weighs use of Palantir, Anduril AI systems for defense forces Northeast Asia's nuclear deterrence is maturing faster than its diplomacy SpaceX's pursuit of a China-free supply chain Southeast Asia's streaming success spurs filmmakers' global hopes Thai, Indonesian, Filipino movies and series face further 'travelability' test Northeast Asia's nuclear deterrence is maturing faster than its diplomacy SpaceX's pursuit of a China-free supply chain Editor's Picks Pakistan fails to curb Imran Khan's clout after 3 years in jail Ruling camp sees it has wrongly expected ex-PM to accept deal for his release HP, Asus and Acer begin using CXMT chips amid memory shortage Taiwan braces for annual Han Kuang anti-invasion drills with new twists Japan warns Russia-North...",
     "cache_version": 8,
-    "checked_at": "2026-07-28T03:31:34+00:00",
-    "direct_relevance_terms_found": [
-      "money mule"
-    ],
-    "direct_scam_relevance_terms_found": [
-      "money mule"
-    ],
-    "downrank_reason": null,
+    "checked_at": "2026-08-05T03:29:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
     "hard_rejected": false,
-    "hard_rejection_reason": null,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
     "press_release_or_sponsored": true,
     "quality_checked": true,
     "rejection_reason": null,
@@ -43679,15 +44178,13 @@
     "research_relevance_score": null,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [
-      "money mule"
-    ],
+    "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
-      "fraud"
+      "cybersecurity"
     ],
-    "word_count": 1142
+    "word_count": 1126
   },
   "d332a222dc3d3a8bb15fa693fca29c333d0d9658e35c811aa78dfb6f60d3e82f": {
     "access_status": "available",
