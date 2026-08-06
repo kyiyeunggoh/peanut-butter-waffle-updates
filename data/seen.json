@@ -3443,6 +3443,20 @@
       "title": "ai scammers better building trust than humans",
       "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-08-05|breached found hacked hackers hundreds korean networks north": {
+      "article_type": "News report",
+      "normalised_title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "normalized_title_fingerprint": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "original_url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "parsed_date": "2026-08-05",
+      "raw_title": "A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide - WIRED",
+      "same_story_key": "wired.com|2026-08-05|breached found hacked hackers hundreds korean networks north",
+      "sent_at": "2026-08-06T03:33:24+00:00",
+      "source_domain": "wired.com",
+      "title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -5533,6 +5547,18 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "securenet comparative study deberta large language models phishing detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "security pro hacked north korean hackers he found they d breached hundreds networks worldwide": {
+      "article_type": "News report",
+      "normalised_title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "normalized_title_fingerprint": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "parsed_date": "2026-08-05",
+      "raw_title": "A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide - WIRED",
+      "same_story_key": "wired.com|2026-08-05|breached found hacked hackers hundreds korean networks north",
+      "sent_at": "2026-08-06T03:33:24+00:00",
+      "source_domain": "wired.com",
+      "title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "usefulness_category": "Operational intelligence"
     },
     "sevra bench social engineering vulnerabilities review agents": {
       "article_type": "Research paper",
@@ -7971,6 +7997,18 @@
       "title": "Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm - Network and Distributed System Security (NDSS) Symposium",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/s2522-pang-slides.pdf",
       "usefulness_category": "Product idea / data source"
+    },
+    "56bd6b2d3a95df6f553883ed90699b1acc6f8a78f150c8994ff7d5bab4ac81ac": {
+      "article_type": "News report",
+      "normalised_title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "normalized_title_fingerprint": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
+      "parsed_date": "2026-08-05",
+      "same_story_key": "wired.com|2026-08-05|breached found hacked hackers hundreds korean networks north",
+      "sent_at": "2026-08-06T03:33:24+00:00",
+      "source_domain": "wired.com",
+      "title": "A Security Pro Hacked North Korean Hackers. He Found They\u2019d Breached Hundreds of Networks Worldwide - WIRED",
+      "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
+      "usefulness_category": "Operational intelligence"
     },
     "57427af10fa5edbe4e6937cf21a31bd73d985255ea225a1a9c28225330bfa9bb": {
       "article_type": "Investigative report",
