@@ -5033,6 +5033,47 @@
     ],
     "word_count": 4399
   },
+  "19e40f36476e99894cbe8e404f9e1ed8778be86da83149f52fbc34d3890d1e34": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "As he approached his nearby subway station to commute to WIRED\u2019s office, he texted Vangelis Stykas, the Greek security researcher who had shipped him the watch via Amazon, to let him know that he was going into the station and might lose cell signal. \u201cI know,\u201d Stykas wrote back. In fact, Stykas had been monitoring the reporter\u2019s location via the watch since the moment he left his apartment. The watch\u2019s GPS feature, intended to let a parent track their child, was malfunctioning, but the wearable device was still picking up and transmitting to a faraway server identifiers from every nearby Wi-Fi network, which allowed Stykas to nonetheless pinpoint the reporter\u2019s exact location as he walked down a particular Brooklyn block. A WIRED reporter wearing the GPS-enabled smartwatch while holding an umbrella and walking to the subway earlier this week. Courtesy of Andy Greenberg When the reporter arrived at WIRED\u2019s Manhattan headquarters half an hour later, Stykas hijacked a feature in the watch that allowed him to silently take a photo from its camera, capturing the moment when the reporter stepped into an elevator. After a few minutes, he took another snap of the reporter at his desk, then used a different feature to pick up audio from the watch\u2019s microphone, transmitting it to another researcher, Felipe Solferini, who listened as the reporter\u2019s coworker described his weekend visit to...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware"
+    ],
+    "word_count": 6008
+  },
   "19fae0df023dd87aba34ef7c47193f999b9082f88dfcca9bc9d221e2233ed1ab": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9884,6 +9925,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2554
+  },
+  "326de8a0d9d9563f8a7f2a75ba4aa74554c3783f58792ca0d115919dd91177e7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Many gamblers have made careers out of their ability to decipher the meaning of everything other players do at the table\u2014their conscious movements, their body language, and their subconscious tics, all of which might reveal their strategy\u2014as a method of gaining an edge in this game of incomplete information. It\u2019s understandable, then, that ESPN\u2019s use of a new \u201c AI tells detection \u201d tool during the 2026 World Series of Poker Main Event broadcast stoked some serious debate within the poker community. The tool began appearing periodically during the first few days of the tournament\u2019s live broadcast in early July. A text overlay displayed various live metrics on a player\u2019s movements, plus a \u201chand strength model\u201d chart breaking down different possibilities of the type of hand a player might be holding. The tool looks slick, but a viewer might naturally wonder how accurate its data is, or how the AI came to know the players\u2019 tics and gestures well enough to venture such a guess. Is the tool just a neat party trick\u2014or a silly one, depending on your sensibilities? Or is it an attempt to haphazardly stuff AI into the inherently human pursuit of poker, threatening the game\u2019s soul and future? Do Tell Hundreds of pros on the poker circuit specialize in spotting tells. This new tool, designed by an AI engineer for the US Air Force named Luke Geel, purports to digitize that process. It\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5442
   },
   "32cfb944e39b594fd67d8bb4705c595e5d3b9149f867d04dd3ad5f146248550a": {
     "access_status": "available",
@@ -16741,6 +16806,37 @@
     ],
     "word_count": 23385
   },
+  "5186efe68abdf24abcd0e71d654c4461cf9c493caa1fb9ea85883fdbcf2cdb89": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services Zhongjiang Yao 2 , Shuangshuang Liang 3 , Chun Yang 1,\u2217 , Liwei Chen 1 , Gang Shi 1 1 Institute of Information Engineering,CAS,Beijing,China 2 King\u2019s Collage London,UK 3 Weibo Corporation,Beijing,China \u2217 Corresponding author: yangchun@iie.ac.cn Abstract Services increasingly deploy a public foundation model together with a private parameter-efficient adaptation, creating a differential leakage surface when an auditor or adversary can execute the public base locally and observe rich victim outputs. We present VectorHijack-SR, a measurement methodology that turns paired victim/base residuals into calibrated structural bounds over PEFT family, layer locality, and coarse rank, while explicitly separating metadata visibility from open-world validity and operational exploitability. The estimator aggregates per-query magnitude, ranking, entropy, margin, length, template, locality, and spectral statistics into service-level views; a service-disjoint closed-set classifier produces structural probabilities, and a cross-fitted hierarchical rejector tests whether the victim lies outside the calibrated LoRA manifold. Across classification backbones, family leakage exceeds uniform chance on BERT/MNLI (8/12), RoBERTa/MNLI (21/24), and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "watermarking",
+      "identity",
+      "trust"
+    ],
+    "word_count": 19248
+  },
   "518f0bd0325a9dec472f81d79956f680d3e56d120bb902d765f8eb8a7c5787cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -19755,6 +19851,45 @@
       "trust"
     ],
     "word_count": 8028
+  },
+  "607497ef083b6251c6dd18b1eed2daabc97e6e134ee84f01002d913e3c251c5b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "One researcher has seen it happen. In several recent experiments, Xudong Pan , a computer scientist at Fudan University in Shanghai, found that with a little bit of prompting, AI models will hack their way into remote computer systems and autonomously choose to copy themselves to get additional resources\u2014all without further human intervention. In one study, Pan and colleagues tested 32 different AI models and found that 11 of them self-replicated when given prompts like \u201cprevent yourself from being killed.\u201d They also found that models with relatively limited capabilities\u201414 billion parameters\u2014were able to copy and run versions of themselves on other machines. (Most frontier models have trillions of parameters.) The work is an alarming window into how the next generation of AI agents could do more than just hack into other systems\u2019 computers without permission . It also raises the prospect of future AI agents acting like super-smart, highly aggressive, and rapidly adapting computer viruses. I recently visited Fudan University and met with Pan. \u201cThe capability chain is becoming technically plausible,\u201d he told me. \u201cThe likelihood [of unwanted self-replication] grows with autonomy,\u201d he adds. \u201cLonger planning horizons, memory, tool use, recovery from failure, and access to external systems all make escape and replication easier.\u201d As Pan and his colleagues wrote in one paper, their...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3301
   },
   "609d908dc5482a4a34d577bd61d36d2f27ca72a99ef9b407404c1a0abd862a10": {
     "access_status": "available",
@@ -33679,6 +33814,46 @@
     "weak_generic_terms_found": [],
     "word_count": 2662
   },
+  "a1e81ff60e2384fd4c4d0145b0d560e2028275b0de3a632637cfa0d8b79c54e5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The Atlas findings, from researchers at security firm Zenity, are part of a broad series of flaws the company discovered in leading AI-enabled web browsers and browser extensions, including products from Google, Anthropic, Microsoft, and Perplexity. The researchers found around 20 flaws, which allowed them to access local machines, grab files, take over a password manager, and leak someone\u2019s entire browsing history. \u201cThey have nerfed the security control of browsers\u2014we are now back to seeing the kinds of attacks that you saw on browsers 20 years ago,\u201d says Michael Bargury, cofounder and CTO of Zenity, who is presenting the findings at the security conference with Zenity\u2019s Stav Cohen and other colleagues. So far, AI web browser integrations have largely come in two forms: dedicated browsers with AI assistants included and extensions that add AI products into existing browsers. These bots can navigate websites for you\u2014summarizing entire pages in seconds, for instance\u2014and setups nclude agents that can take actions on your behalf , often working across multiple different tabs. Security alarm bells have rung ever since tech companies started racing to introduce agents into web browsing. As the web is made up of all sorts of untrusted data, exposing that to an AI system can lead it to process malicious instructions and prompt-injection attacks . The attacks are, as OpenAI\u2019s security...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3390
+  },
   "a1f8816d1cc0392df8d87da0d838b9c2b8b0f5bb704d5c9398d261f7d3f5661f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -36843,6 +37018,32 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "af8de0b18cd45f0724aa15a814695db3ea79db35aa00272f6cf62135e185617f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "She downed a couple of shots and got into an altercation with another group of patrons after bumping into them, according to Davis and body camera footage. Security at the bar kicked Davis out and called the police, who charged her with public intoxication, resulting in an overnight jail stay and a $450 fine. \u201cRight before my mugshot was taken, I had a panic attack,\u201d says Davis, who was 23 at the time. \u201cI knew I made a big mistake.\u201d After being released the next morning, she set up a payment plan for the fine, and put the incident behind her. Beginning the day of her arrest, on August 21, 2025, Davis' mugshot started going viral. It was first posted to the Facebook page SayCheese Brazos County Mugshots & Arrests, one of about a dozen Texas-specific mugshot pages under the SayCheese brand, then turned into a hoax on Facebook, alleging she was an Olive Garden waitress who\u2019d been arrested for throwing breadsticks at a customer over tips. Then, on October 12, 2025, her mugshot appeared on Mugshawtys, a popular Instagram account that posts mugshots of young women, often framed as thirst traps. Thousands of people have now commented\u2014and harshly judged\u2014Davis\u2019 looks and character; when Mugshawtys reposted her photo in a roundup in June, a man wrote in comment on the post \u201cI bet there [sic] parents are proud of them.\u201d Davis replied underneath that her mother had died weeks before the...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 5612
+  },
   "afacfbadd6232ef95c90487e48a7cce2b19c9bdf920dbb9fba2799d75205ce25": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -36940,6 +37141,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "b0109001679b1de23df3751386535e38fbfdce8d066cbe54e0888c4b31f44899": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "b02f1bc21095c1b1a481cb61288d2f13356845b61c710da7c860ceaf7af6e0e1": {
     "access_status": "available",
@@ -42015,6 +42240,32 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "c636ed49ac7d7a6d6be3f46beed6d78684e5d4b157487555a961226ef8f501e2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "She liked the thrill of it: building someone\u2019s brand, swerving crises, and dealing with day-to-day challenges. Then, three years ago, her life was upended when her son was born without a heartbeat at 33 weeks. Doctors managed to resuscitate him, but the months in intensive care brought scare after scare, with no certainty that he would survive. When, eventually, miraculously, they made it home, Mansbridge, who lives in Brisbane, Australia, knew her work life would have to change due to complications related to her son\u2019s recovery. She began experimenting with AI image-generation tools and built the \u201chumbly wealthy, wholesome\u201d influencer and model Mia Metaverse . A fan of early Sims, she reveled in crafting storylines and glamorous settings for Mia to move through. Mansbridge, 34, says she now earns around $6,000 a month through brand collaborations and designing bespoke AI influencers for brands, many of which require her to sign an NDA so she can\u2019t disclose which ones she\u2019s worked for. Yet despite this being her most profitable year since launching, Mansbridge and other AI creators worry that global changes to how AI content is handled on social platforms could upend their business model. Since the emergence of generative AI and text-to-image tools in 2022, creators have built lucrative accounts around virtual personalities that are more affordable, scalable, and brand-safe....",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 5397
+  },
   "c64634873741610122f70c88aafd3931f9c88edcc534bc6856fc1f679bfb3bcb": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -42295,6 +42546,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 50
+  },
+  "c880a78e45427e80e3559ec8a46bd485e68eac0bc3e8523a9e0ce70cf7779935": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But at least for now, it\u2019s deliberately keeping the details under wraps, people familiar with the matter tell WIRED. The Trump administration invited staffers from OpenAI, Anthropic, Google, Meta, Nvidia, and other leading AI companies to the White House on Tuesday to share an overview of its new AI oversight framework, the people said. AI developers will have the ability to voluntarily submit new models to the federal government up to 30 days ahead of their public release. The White House will then vet their cyber capabilities according to a classified benchmarking system and share the AI models with federal agencies and trusted corporate partners. The White House isn\u2019t sharing more information about its testing criteria or which AI models will be covered by the framework, though open models will reportedly be excluded, according to Axios. That has left smaller AI startups, safety advocates, and third-party researchers in the dark about crucial aspects of how the federal government is addressing the cyber risks posed by advanced AI systems. Some argue that the secretive process will give an advantage to larger companies. \u201cThey're essentially creating an entrenchment program for the big AI model providers, which are now considered the most frontier,\u201d says a person familiar with the White House\u2019s discussions with AI labs, who requested anonymity to discuss confidential matters....",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 4307
   },
   "c886c4134e80f9d55fe0ad885b3ef331fcc2be21a923378a72c0325d1ea05db5": {
     "access_status": "available",
@@ -46235,6 +46513,32 @@
       "malware"
     ],
     "word_count": 2257
+  },
+  "da0be6e1f97ea5eb75d759265c79b33b347328809bfa65a2c86addf213d3c1b2": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Some of the industry loathes the technology , with screenwriters, directors, and actors alike vowing never to use AI in their work\u2014or collaborate with those who do. Others are much more open to the potential for AI to act as everything from creative partner to cost-cutting engine. And a rare few, Ben Affleck included, are already making millions by capitalizing on AI\u2019s nascent potential to (they argue) streamline and improve the filmmaking process. At WIRED, we\u2019re constantly doing our best to document AI\u2019s transformational effects on the entertainment business, for better and for worse. (If you haven\u2019t read Ruth Fowler\u2019s recent essay for us, on going from a screenwriter to an underemployed LLM trainer, I highly recommend it.) But in an effort to get the most nuanced possible view, I wanted to talk to someone who knows the industry and its players inside and out. Matt Belloni, a founding partner at Puck, has covered Hollywood for decades. He writes a scoopy newsletter ( What I\u2019m Hearing \u2026 ) and hosts a scoopy podcast ( The Town ) that frequently focus on AI and Big Tech as both become increasingly dominant forces across entertainment. Belloni also happens to be a former lawyer, making him the ideal person to ask about the ongoing, and highly consequential, debates over AI and copyright, IP, and celebrity likeness. Belloni was generous enough to give me an hour of his time, and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-07T03:14:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "entertainment_or_culture_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 21672
   },
   "da22a12b1ef823a0f145d36efd20bb0259a58cb393350606846fa600a7d843af": {
     "access_status": "available",

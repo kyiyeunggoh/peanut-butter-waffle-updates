@@ -255,6 +255,10 @@
     "canonical_url": "https://www.reuters.com/legal/transactional/view-openai-joins-anthropic-ipo-push-2026-06-08/",
     "resolved_at": "2026-06-10T04:45:51+00:00"
   },
+  "07165b36f990c03c1d6a0aa7d5f17aa9b17ba0e32acdfe6e1c2e46c0bfcbeaf5": {
+    "canonical_url": "https://arxiv.org/html/2608.05036v1",
+    "resolved_at": "2026-08-07T03:14:17+00:00"
+  },
   "073e4b0879c6346b247e8bd07beda65ca2fbc3216ded1a043154065fe731d0d6": {
     "canonical_url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/scamanda-review-weird-tale-cancer-faker-cheated-community-out-of-thousands",
     "resolved_at": "2026-06-17T05:11:29+00:00"
@@ -598,6 +602,10 @@
   "112162fdf1d41b81856a7a02faaaa32a038db90af5eacc54a61a905b5d5c2efe": {
     "canonical_url": "https://arxiv.org/pdf/2606.03215",
     "resolved_at": "2026-06-26T04:39:56+00:00"
+  },
+  "1159d56bd41a88c01235963b32be47de408ebade32b5b2d4c4b57cb927682ea3": {
+    "canonical_url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "resolved_at": "2026-08-07T03:14:23+00:00"
   },
   "116ba734602b23b76f545997fa17ff543607b617a2aa5cc6c3667a52602ee60a": {
     "canonical_url": "https://www.bbc.com/news/articles/c872e8d9el1o",
@@ -2483,6 +2491,10 @@
     "canonical_url": "https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/",
     "resolved_at": "2026-07-27T03:59:21+00:00"
   },
+  "423b79b2913cf0f5ac3e47a0ff87ac0b81d1d31683cf9f3094eb8f6736ac2105": {
+    "canonical_url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "resolved_at": "2026-08-07T03:14:21+00:00"
+  },
   "424ac1dfa5115ab878763f5793f68090ef11067da9b96eb0c17ddedc7f96d745": {
     "canonical_url": "https://www.bbc.com/news/articles/c982vm2jzl1o",
     "resolved_at": "2026-07-11T03:38:29+00:00"
@@ -2771,9 +2783,17 @@
     "canonical_url": "https://www.bbc.com/news/articles/cvgql9eqnq1o",
     "resolved_at": "2026-07-05T04:18:37+00:00"
   },
+  "4a600d9619e19de9bf2cfce6b6386504a737bd89226813f02aee1ba62d81cc20": {
+    "canonical_url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
+    "resolved_at": "2026-08-07T03:14:29+00:00"
+  },
   "4a6de1aec174bdbee05bbe39df2fc52f67aa527a6a3da42b6779cd5de8853909": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/4882452.pdf?abstractid=4882452&mirid=1",
     "resolved_at": "2026-07-28T03:31:11+00:00"
+  },
+  "4a6f11bb0c900519eacb67f840547e1cb1392d22efcb89e439c2b586758a0695": {
+    "canonical_url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+    "resolved_at": "2026-08-07T03:14:24+00:00"
   },
   "4a73ed025e2f7153bdbdd15d71f30f111dcfdb28e3168ccd3bbc6bcd965c0e07": {
     "canonical_url": "https://arxiv.org/html/2606.04580v1",
@@ -3070,6 +3090,10 @@
   "5203b0ad05e85e42aa5352d29ee754399a58b9bcd47f551e47053d90f5ed1e9e": {
     "canonical_url": "https://www.wired.com/story/large-language-model-phishing-scams/?_sp=d473f6d3-3058-4655-b5db-f2a1ee9f8e50",
     "resolved_at": "2026-08-03T03:51:01+00:00"
+  },
+  "5211e30f2872513b2ee9b88770fc80cd18e5140eb95d04840abb1733504a6722": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3772318.3791313",
+    "resolved_at": "2026-08-07T03:14:52+00:00"
   },
   "524a6cbab8251ee01ba656cb9019669822d07092fc35ade88d6d37ce9f0b81aa": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7229305",
@@ -4170,6 +4194,10 @@
   "7039bdc2fc7a08178a84960b1faca653f5eb69b954b9f3af43b8ff8cb4a97ace": {
     "canonical_url": "https://arxiv.org/pdf/2607.07751",
     "resolved_at": "2026-08-02T03:48:50+00:00"
+  },
+  "7078a57193d5bd286e5aa3b3296c0bcddda7d0d78fc629b6b0d1d05d43c065d3": {
+    "canonical_url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "resolved_at": "2026-08-07T03:14:12+00:00"
   },
   "70c14812b797916621f283cee61aef05789904d6f39dd6c9b9ffde0f9a8001f5": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5719943.pdf?abstractid=5719943&mirid=1",
@@ -5421,7 +5449,7 @@
   },
   "9460916e445b08faa0a4104406a4da839f64ed43a38990ab550a0428ccb55d4f": {
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791486",
-    "resolved_at": "2026-07-29T03:34:34+00:00"
+    "resolved_at": "2026-08-07T03:14:35+00:00"
   },
   "946cfcc2696f336e0d6fb4fdc2dd9d065109a38b66401f4c941984c33199bb3d": {
     "canonical_url": "https://apnews.com/article/ice-camp-detention-trump-homeland-security-dhs-immigration-deaths-abuse-30ec92636a5601b0071895efa871b990",
@@ -6979,6 +7007,10 @@
     "canonical_url": "https://www.bbc.com/news/articles/cp8rdw42k9go",
     "resolved_at": "2026-07-12T03:52:42+00:00"
   },
+  "bba3e0451820860542d2ee3fbf208ac8cf2faf47fd0c1c775ff54c8450bdf3ba": {
+    "canonical_url": "https://www.wired.com/story/viral-mugshot-accounts-are-ruining-womens-lives/",
+    "resolved_at": "2026-08-07T03:14:19+00:00"
+  },
   "bba609915ee811687e19835ff83d48c8ac8c3cfd6e61dcec2b40bdbeb31c72cc": {
     "canonical_url": "https://www.bbc.com/pidgin/articles/ce8je78g0jpo",
     "resolved_at": "2026-07-10T04:12:31+00:00"
@@ -7394,6 +7426,10 @@
   "c76cd88b5450ff4c6579367e12d9d98752704a6055f30105ff1a2e8d7cb3ae8c": {
     "canonical_url": "https://www.straitstimes.com/asia/se-asia/thai-police-arrest-11-in-scam-linked-weapons-cache-probe",
     "resolved_at": "2026-05-23T15:51:16+00:00"
+  },
+  "c7a7f30c616ced86828636952adce4d9c3d11eeba76e64ea997493361f7a6fd7": {
+    "canonical_url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "resolved_at": "2026-08-07T03:14:16+00:00"
   },
   "c7aef6972b64f8efdcdb3cbe748bcfacd5eec693c3f65025cf5406b057ff6f0b": {
     "canonical_url": "https://www.reuters.com/legal/transactional/unicredit-closes-commerzbank-battle-enters-endgame-2026-07-08/",
@@ -8402,6 +8438,10 @@
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "canonical_url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
     "resolved_at": "2026-07-17T03:35:46+00:00"
+  },
+  "e22be325d3bae36810ebf5da80a1ef63c1eee777119a4b181b1b56e27e732f11": {
+    "canonical_url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+    "resolved_at": "2026-08-07T03:14:27+00:00"
   },
   "e22f220fd3eb65cdc16804671a8b3e216ed9ec4baa3ea966362cc333f4440507": {
     "canonical_url": "https://www.404media.co/ice-phishing-scammers-are-sending-support-ice-emails-to-steal-credentials/",
