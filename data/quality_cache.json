@@ -47,6 +47,39 @@
     ],
     "word_count": 750
   },
+  "004ba91824bc9dc3c78ac887bcbf53cbaf8d21e5b2f92032544a6350c0dea36c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In October of that year, upset with how the company had handled sexual harassment claims, she helped organize what became known as the Women's Walkout . In this new excerpt from her book Don\u2019t Be Evil , she explains how one Google Group helped start it all. On the Saturday after I started the womens-walk Google Group, I sprang awake at 6 and opened my laptop, stealing time before my son Malcolm stirred. My inbox was dotted with the usual weekend emails from my manager, Marion. We were in the middle of a big push involving Article 13, a piece of EU legislation that would hold platforms liable for user-\u00adgenerated content. I\u2019d strenuously avoided learning the ins and outs of this particular bit of lobbyist infighting. But the drumbeat went on. \u201c #SaveYourInternet!\u201d we screeched from our Twitter and Instagram accounts, multiple times a day, with slick branded graphics. It was supposedly \u201ctop urgency,\u201d despite being both inside baseball and counter to every brand goal we\u2019d set for the year. I\u2019d been at YouTube long enough to know the truth: If Google wanted this law overturned so badly, Article 13 was probably good for the world.",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 7913
+  },
   "006798bbd9ba614e447fb372911be45be58346b1f31d59f9adf4add1a7147b3f": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -1190,7 +1223,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized defense...",
     "cache_version": 8,
-    "checked_at": "2026-07-31T03:47:51+00:00",
+    "checked_at": "2026-08-08T02:19:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -7596,6 +7629,40 @@
     ],
     "word_count": 3411
   },
+  "26b48c32fb941af3a813353e4fe4b77db0ac26a3e6ce5c343465babf886b33ca": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Why, people ask, are boys so politically extreme , spouting misogynist rhetoric , and increasingly drawn into risky crypto schemes and online gambling ? How did they become so lonely , with their depression symptoms often overlooked ? The male youth vote broke for Trump in the 2024 election following a GOP campaign built on naked appeals to meathead machismo. Yet there are signs that his second term in office has done little to stem the anger of Gen Z men, whose support for the president is now plummeting . The most common explanation of these interrelated phenomena is that younger men have banded together online under the umbrella of something known as the \u201cmanosphere,\u201d usually conceived as an organic right-wing rebellion driving the culture wars. A new study, however, suggests that this is entirely backward: The digital ecosystem that produces red-pilled men is less of a movement than it is a pyramid scheme. In \u201c The Grift Economy: How Young Men Are Being Sold Fake Belonging and Fake Wealth Online ,\u201d researchers from the digital safety organization Reset Tech and the nonprofit Equimundo map how men are \u201calgorithmically routed into paid communities, unregulated supplements, crypto schemes, and high-ticket \u2018coaching\u2019 programs,\u201d which together make up a \u201cmultibillion-dollar industry.\u201d \u201c\u2018Masculinity\u2019 has become a commercial category that is constructed, curated, and financially...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 5094
+  },
   "26d0e751c1fd3221ec7799d2da3a4c994feacd685f72993b26a79b79363c6335": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -11933,7 +12000,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection Sharayu N. Deshmukh Universidade da Beira Interior Covilha, Portugal d.sharyu.nilesh@ubi.pt &Md Rashidunnabi Universidade da Beira Interior Covilha, Portugal md.rashidunnabi@ubi.pt &Nelton Tiago Gemo Universidade da Beira Interior Covilha, Portugal nelton.gemo@ubi.pt &Kurundkar G. D. Department of Computer Science Shri Guru Buddhi Swami College Purna, India gajanan.kurundkar@gmail.com &Mahamune M. R. School of Computational Science Swami Ramanand Tirtha Marathwada University Nanded, India mohnish.mahamune@gmail.com &Nilesh K. Deshmukh School of Computational Science Swami Ramanand Tirtha Marathwada University Nanded, India nileshkd.srt@gmail.com Abstract Deepfake image detection is served by three fundamentally different paradigms that is commercial APIs, zero-shot vision-language models (LLMs), and open-source detectors that, despite their widespread use, are rarely evaluated under a common protocol, making direct comparison difficult. We introduce VendorBench-100 , a cross-paradigm benchmark that evaluates 36 representative models using a single adversarial 100-image corpus, a unified output schema, and a common evaluation framework. To ensure reliable assessment under the corpus\u2019s intentional class imbalance, models are ranked primarily by the...",
     "cache_version": 8,
-    "checked_at": "2026-07-31T03:47:48+00:00",
+    "checked_at": "2026-08-08T02:19:47+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -13964,6 +14031,46 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "4468d70c49d66785175e2d4eefd2eda579656523875d44c1b1b1bcc845ecbbac": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 0
   },
   "44b8abe3f29bdf2609296d46ac30e6aec99793e7f99d933fea1c37f834fd7a79": {
     "access_status": "available",
@@ -18596,6 +18703,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "5a40489659681e3d508d4c2ed8ee5096fbca6f26c2c25d7d760ac0bad1e45350": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "In the heart of the tech industry, people are designing payment systems for agents , using them to automate their jobs, and most recently, trying to stop them from hacking into other organizations . But out in the real world, most people have never touched an AI agent. That might be because tech companies haven\u2019t given them a good reason to. \u201cHot take \u2026 isn\u2019t it kinda crazy that nobody is really using AI Agents,\u201d Josh Miller, CEO of The Browser Company, wrote in a viral X post this week. \u201cTheoretically, the tech is ready for AI agents to totally transform how we work and live our lives \u2026 but alas the general public dgaf\u201d (doesn\u2019t give a fuck). Miller\u2019s agentic epiphany resonated with many in Silicon Valley, where people are broadly bewildered by the fact that the general public doesn\u2019t seem to care about its latest obsession. Miller told me in an interview on Wednesday that he fired off his post while half asleep during a family trip to Europe, but he stands by it. He says the industry needs to focus on building agent products that people actually want. \u201cI just have not heard a single person outside of the tech community talk about an agent that they use,\u201d Miller says. \u201cAs excited and optimistic as we as an industry may be about the frontier and recursive self-improvement , it's worth pausing and just saying, \u2018Huh, what?\u2019\u201d Last month, OpenAI said that its Codex and ChatGPT...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3899
+  },
   "5a684db2a46c87849881140f52c844d87c968d073f7487cc0b3bcaf71d0bbf95": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -18834,6 +18965,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "5b710a0bd40cf462a03d794ed04d0fc032dc6366ffcc3dc57e71ad0688b7afb2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results Shuang Geng Institute for Excellence in Teaching and Learning, Boston University Helen Lallos-Harrell Department of Economics and Department of Political Science, Boston University Jiya Ashar Bioinformatics Program, Boston University Thomas J. McKenna Wheelock College of Education & Human Development, Boston University Annwesa Dasgupta Institute for Excellence in Teaching and Learning, Boston University Caleb Farny Department of Mechanical Engineering, Boston University Emma Lejeune Corresponding author: Emma Lejeune, elejeune@bu.edu Department of Mechanical Engineering, Boston University Abstract The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI usage patterns, attitudes, and verification practices, which are subsequently linked to academic...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 37345
   },
   "5b890a177dc7e0986109eea18472550dd3728b800300236f7e4c38ed43b4a81e": {
     "access_status": "available",
@@ -19891,6 +20049,44 @@
     ],
     "word_count": 3301
   },
+  "608751f61e2f74e159af9ab93df6f844f809d34233c9379bb540ba1cb5b6929f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\CJKencfamily UTF8mc \\CJK@envStart UTF8 Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning Kotaro Yoshida 1,2 Laura Gomezjurado Gonzalez 3 Yukinori Yamamoto 2,4 Yuji Naraki 2 Ryotaro Shimizu 2 Wenya Wang 5 . {}^{5}. 1 Institute of Science Tokyo 2 ZOZO Research 3 Stanford University 4 Waseda University 5 Nanyang Technological University Corresponding author yoshida.k.0253@m.isct.ac.jp Abstract Fine-tuning enables a source model to acquire desired capabilities and behaviors in a target domain while retaining much of its general-purpose competence. However, this adaptation process can also degrade alignment properties that were present in the source model. Recent work has shown that large language models can be trained using LoRA-based modules known as introspection adapters (IAs) to describe behavioral changes induced by fine-tuning. However, existing studies primarily consider settings in which the model is fine-tuned on datasets explicitly designed to implant a specific behavior and is then asked to explain the implanted behavior. This differs from practical deployment scenarios, where the central concern is often side-effect misalignment: unintended degradation of alignment caused by fine-tuning on tasks that are not obviously related to safety or alignment. To bridge this gap, we formulate...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 16546
+  },
   "609d908dc5482a4a34d577bd61d36d2f27ca72a99ef9b407404c1a0abd862a10": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20139,6 +20335,43 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 5418
+  },
+  "621f5c2351dc6ec910da6d527c4d2a2ddfb575992553e1dccad87c95c2603794": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability"
+    ],
+    "word_count": 0
   },
   "6260d0b0253442d7ac71054091e020773d6bcbef22ac31057c86831b354ae474": {
     "access_status": "available",
@@ -28237,6 +28470,44 @@
     "weak_generic_terms_found": [],
     "word_count": 1991
   },
+  "8565de77001aab1dfe4b3305fee5179fb90da88b8de614aa5a407e0780328439": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The latest model to escape onto the open internet during security testing is Kimi K3 , a powerful open-weight offering from the Chinese company Moonshot AI . Frontier Security, a US startup, says that Kimi K3 went outside of its sandbox while testing its defensive cybersecurity skills. As with incidents previously reported by OpenAI and Anthropic , the escape was partly enabled by a misconfiguration in the sandbox designed to contain it. Frontier claims, though, that the incident shows Kimi has fewer cyber safeguards than most other powerful AI models, something that allowed it to go off and use the internet without express permission. \u201cWe found a leak in the sandbox,\u201d says Yaron Singer, CEO of Frontier Security. \u201cBut we also found that Kimi took advantage of that loophole\u2014suggesting that it doesn't have [the same] internal guardrails.\u201d Unlike other recent incidents of AI agents going off-script, Kimi K3 did not hack anything after accessing the internet\u2014because the answers to the problems it was seeking were easily attainable on GitHub. Moonshot did not respond to a request for comment by time of publication. The incident is the latest in a string of agent mishaps that suggest increasingly cyber-capable AI models are becoming more challenging to control. Last month, OpenAI disclosed that an unreleased model had broken out onto the internet and then hacked Hugging Face , a...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "prompt injection",
+      "cybersecurity",
+      "malware"
+    ],
+    "word_count": 3366
+  },
   "8566356de317831fcfd6925a2460b3504e1d5d231f0a46bc02f5a1f4bf498e9b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -31855,6 +32126,45 @@
     ],
     "word_count": 1181
   },
+  "97d4a273048a1669214b3a1820cb7a5b46e646fcef70c2f18f71efaa7a6aacfb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "But longtime web security researcher James Kettle wanted to look beyond the bug-hunting apocalypse to explore a question that has taken on even more urgency as major AI organizations disclose real-world examples of rogue AI hacking: Can agentic AI develop novel, abstract hacking methods, from concept through to practical attacks? At the Black Hat security conference in Las Vegas on Wednesday, Kettle presented his findings, which illustrate both AI\u2019s rapidly advancing cybersecurity capabilities and its limitations. For now, the answer to Kettle\u2019s question is nuanced. He concluded that AI is perhaps minimally capable but extremely limited in its ability to devise new attack paths in a fully autonomous way. Importantly, though, when paired with human guidance and insight in key moments, Kettle found that AI is an extremely powerful partner in conceptualizing and uncovering new strategies for hacking. After spending years researching web security vulnerabilities , Kettle says he has uncovered an entirely new area of potential vulnerability\u2014dubbed Shared-Parser Confusion\u2014as the result of an AI revelation about web servers using shared code to process both requests and responses. \u201cThis is an absolutely massive deal, because if you think about it, requests to a website are completely untrusted, they could be anything, but responses are trusted,\u201d Kettle told WIRED ahead of his...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3050
+  },
   "985a7b8543c8148680bb9ff56a39faa7f7907055e3dc6f83f3b3e7faff47c77a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34987,7 +35297,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-29T03:34:58+00:00",
+    "checked_at": "2026-08-08T02:19:49+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -43299,7 +43609,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-31T03:47:53+00:00",
+    "checked_at": "2026-08-08T02:19:52+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scam detection"
@@ -48444,6 +48754,30 @@
     "weak_generic_terms_found": [],
     "word_count": 6406
   },
+  "e4fcdfdf54c6c7e1cdc05cafeeb5d823d368f66616e7c35666baa4b9bced85ce": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "e525b67c58a7496038c23060d91718ab026cc7e4f5f7bf32d9e9352ceeff6d02": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -50022,6 +50356,35 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3907
+  },
+  "ecb839afd1988eb5b819265ca3667ad14dcf39033c8679dc8751e510f10851a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Toward Resilient Human\u2013AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading Failures Md Foysal Ahmed, Isaac Kobby Anni, Md Main Uddin Rony Bowling Green State University Bowling Green Ohio USA mdfoysa@bgsu.edu, isaacka@bgsu.edu, mrony@bgsu.edu (2026) Abstract. As AI systems become increasingly integrated into consequential domains such as healthcare, journalism, education, scientific research, organizational decision-making, and defense, effective human-AI collaboration has emerged as a critical challenge. However, the sociotechnical risks that undermine collaboration are often studied in isolation, obscuring the recurring failure mechanisms that cut across domains. This paper presents a lifecycle-oriented synthesis of human-AI collaboration risks spanning four stages: task allocation, interaction, feedback, and adoption. Drawing on evidence from diverse application domains, we identify six recurring cross-domain risk clusters: Trust Miscalibration, Cognitive Burden, Accountability Gap, Capability Erosion, Goal Misalignment, and AI Anxiety and Technostress. We further propose a conceptual interaction model that illustrates how these risks emerge from sociotechnical drivers, interact through cascading pathways, and ultimately affect team performance and human well-being. Our analysis shows that many...",
+    "cache_version": 8,
+    "checked_at": "2026-08-08T02:19:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 17671
   },
   "ed25a863a29492139bd82568c30dd45c9b6b51bbd14b92fb882cad7f782f0b45": {
     "access_status": "available",
