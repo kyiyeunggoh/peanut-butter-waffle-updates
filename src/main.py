@@ -2633,6 +2633,23 @@ def is_high_reputation_source(candidate: dict[str, Any], config: dict[str, Any])
     return source_reputation(candidate, config) == "high"
 
 
+def is_direct_reputable_research_metadata_item(candidate: dict[str, Any], config: dict[str, Any]) -> bool:
+    if candidate.get("article_type", classify_article_type(candidate)) != "Research paper":
+        return False
+    if candidate.get("anti_scam_relevance") != "direct":
+        return False
+    research_category = candidate.get("research_relevance_category")
+    if research_category in {"generic_fraud_ml", "generic_cybersecurity", "generic_ai_security", "irrelevant_or_adjacent"}:
+        return False
+    if not (
+        candidate.get("strong_scam_anchor_terms_found")
+        or terms_found(candidate_relevance_text(candidate), RESEARCH_DIRECT_TITLE_TERMS)
+        or int(candidate.get("research_relevance_score") or 0) >= 55
+    ):
+        return False
+    return is_high_reputation_source(candidate, config) or bool(candidate.get("research_reputation_signals"))
+
+
 def is_vendor_or_low_priority_source(candidate: dict[str, Any], config: dict[str, Any]) -> bool:
     return source_reputation(candidate, config) == "low"
 
@@ -3122,17 +3139,18 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
     usefulness_category = candidate.get("usefulness_category", classify_usefulness_category(candidate))
     title_context = candidate_relevance_text(candidate)
     direct_title_terms = terms_found(title_context, RESEARCH_DIRECT_TITLE_TERMS)
+    metadata_eligible_research = is_direct_reputable_research_metadata_item(candidate, config)
     if candidate.get("hard_rejected"):
         return candidate.get("hard_rejection_reason") or "hard_rejected"
     if is_topic_or_listing_page(candidate):
         return "topic_or_listing_page"
-    if is_browser_access_boilerplate_page(candidate):
+    if is_browser_access_boilerplate_page(candidate) and not metadata_eligible_research:
         return "browser_access_boilerplate"
     if not is_within_candidate_recency_window(candidate, config, datetime.now(timezone.utc), False):
         return "outdated_article"
     if anti_scam_relevance == "irrelevant":
         return "irrelevant_anti_scam_relevance"
-    if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not direct_title_terms:
+    if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not direct_title_terms and not metadata_eligible_research:
         return "generic_research_or_technical"
     positive_research_category = research_category not in {
         "generic_fraud_ml",
@@ -3145,7 +3163,7 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
     )
     if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and (
         anti_scam_relevance != "direct" or not has_direct_research_signal
-    ):
+    ) and not metadata_eligible_research:
         return "generic_research_or_technical"
     if research_category in {"generic_fraud_ml", "generic_cybersecurity", "generic_ai_security", "irrelevant_or_adjacent"}:
         return "generic_research_or_technical"
@@ -3165,10 +3183,12 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         "Technical abuse / vulnerability",
     }:
         return "adjacent_without_product_value"
-    if candidate.get("rejection_reason") == "fetch_failed" and not is_high_reputation_source(candidate, config):
+    if candidate.get("rejection_reason") in {"fetch_failed", "fetch_timeout"} and not (
+        is_high_reputation_source(candidate, config) or metadata_eligible_research
+    ):
         return "fetch_failed"
     high_rep_paywalled = candidate.get("access_status") == "paywalled_or_login" and is_high_reputation_source(candidate, config)
-    if isinstance(word_count, int) and word_count < 300 and not high_rep_paywalled:
+    if isinstance(word_count, int) and word_count < 300 and not high_rep_paywalled and not metadata_eligible_research:
         return "thin_article"
     if candidate.get("salesy_vendor_pitch"):
         return "salesy_vendor_pitch"
@@ -5824,7 +5844,7 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Do not optimise for general newsworthiness. Optimise for product-relevant adversarial intelligence: "
         "scam developments, attacker methods, technical vulnerabilities, research, operational intelligence, "
         "platform changes, local Singapore/Southeast Asia developments, product ideas, and data-source opportunities. "
-        "Select 1 to 5 genuinely strong articles, with 3 to 4 as the ideal daily digest size. Do not pad the list. Do not over-select enforcement/current-affairs stories. Singapore and Southeast Asia items are useful, but they must not dominate. "
+        "Select 2 to 5 genuinely strong articles when at least two final-eligible candidates are present, with 3 to 4 as the ideal daily digest size. Do not pad the list. Do not over-select enforcement/current-affairs stories. Singapore and Southeast Asia items are useful, but they must not dominate. "
         "Prioritise scammer modus operandi, scam infrastructure, victim psychology, scam methodology, LLM adverse-use research, academic studies, deep investigations, platform/telco/bank controls, and product-relevant technical insights. "
         "Prefer one excellent WIRED / C4ADS / 404 Media / arXiv / academic item over several similar local enforcement updates. "
         "If there are multiple Singapore enforcement stories, choose only the most operationally useful or novel one. Leave room for research, investigations, platform/product changes, and methodology pieces. "
@@ -5836,13 +5856,13 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Select for direct anti-scam product relevance. Do not select generic AI/cybersecurity articles unless they clearly help understand scammer modus operandi, victim manipulation, monetary-loss fraud, account takeover, scam infrastructure, platform/telco/bank controls, or technologies used by scammers to scale. "
         "You must not select generic AI/cybersecurity context items. Every final item must be directly useful for anti-scam product work. "
         "Never select an item with usefulness_category='General context', anti_scam_relevance='weak', or rejection_reason set. Do not let category quotas rescue these items. "
-        "Do not fill category quotas with weak items. If only 1 or 2 strong fresh items exist, return only those. A balanced list with weak items is worse than a shorter list of strong items. "
+        "Do not fill category quotas with weak items. If only 2 strong fresh items exist, return those 2. A balanced list with weak items is worse than a shorter list of strong items. "
         "Do not assign items to a specialist section unless the item actually matches that section. Generic AI cybersecurity does not belong under Deepfakes, synthetic identity & impersonation. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
         "Do not select research merely because it is technical or about fraud generally. Research should be selected only if it directly helps anti-scam product work: scammer methods, victim psychology, harmful persuasion, LLM-enabled scam abuse, scam detection, scam intervention, deepfake scams, synthetic identity, social engineering, or adverse-use benchmarks. "
         "Research reputation signals such as strong venues or affiliation domains are tie-breakers only; never select a paper solely because it has a prestigious venue or institution signal. "
         "Exclude generic cybersecurity, generic enterprise agent security, generic fraud ML, or unrelated technical domains unless there is a direct scam/social-engineering link. "
-        f"You may select between 1 and {sent_count} articles. Aim for 3 to 4 when enough strong fresh items exist, and never select more than 5. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
+        f"You may select between 2 and {sent_count} articles when at least two final-eligible candidates are available. Aim for 3 to 4 when enough strong fresh items exist, and never select more than 5. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
         "Do not pad the list with weak or generic items. If only 4 strong items exist, return 4. Never include duplicates or near-duplicates. Prefer direct anti-scam relevance over general AI/cyber news. "
         "Do not select duplicate or near-duplicate stories. If two items are from the same publisher, same date, and cover the same event, select only the stronger one. For example, two TechCrunch articles about scammers abusing a Microsoft email/account to send spam links are the same story; pick one. "
         "A good digest usually has 3 to 4 high-signal items, never more than 5. It should feel balanced across victim psychology or persuasion research, empirical scam-risk research, operational intelligence on scam compounds/syndicates/infrastructure, longform investigations into scam-enabling technology, technical or platform abuse, and selected regional developments. "
@@ -6939,14 +6959,22 @@ def main() -> None:
     gemini_runtime = time.monotonic() - gemini_started
     pipeline["timing"]["gemini_runtime_seconds"] = gemini_runtime
     pipeline["stats"]["gemini_selected_count"] = len(ranked_items)
-    final_available_items = ranked_items if cost_data.get("used_llm") else pipeline.get("ranked_candidates", ranked_items)
+    final_available_items = dedupe_final_items(
+        ranked_items
+        + pipeline.get("shortlist", [])
+        + pipeline.get("ranked_candidates", [])
+    )
     selected_items = select_final_items(ranked_items, config, max_items)
     selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "post_gemini")
     selected_items = repair_final_selection(selected_items, final_available_items, config, max_items, pipeline["stats"])
     selected_items = dedupe_near_duplicates(selected_items, pipeline["stats"], "final")
     if cost_data.get("used_llm"):
         before_summary_guard = len(selected_items)
-        selected_items = [item for item in selected_items if normalize_key_takeaways(item.get("key_takeaways"))]
+        selected_items = [
+            item
+            for item in selected_items
+            if not item.get("gemini_selected") or normalize_key_takeaways(item.get("key_takeaways"))
+        ]
         pipeline["stats"]["post_gemini_missing_takeaways_removed_count"] = before_summary_guard - len(selected_items)
     duplicate_pairs = near_duplicate_pairs(selected_items)
     if duplicate_pairs:
