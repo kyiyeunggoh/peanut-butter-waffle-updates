@@ -6693,7 +6693,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Position: AI/ML Deepfake Research is Misaligned with AI-Generated Non-Consensual Intimate Imagery (AIG-NCII) Li Qiwei Wells Lucas Santo Sarita Schoenebeck Eric Gilbert Abstract AI-generated non-consensual intimate imagery (AIG-NCII) is not adequately addressed in AI/ML literature regarding AI-generated media, commonly referred to as \u201cdeepfakes\u201d. While research on deepfakes currently focuses on its epistemic harms\u2014or harms relating to truth and authenticity\u2014this is misaligned with the dominant reality of generative AI abuse involving sexualized imagery. We conduct a landscape analysis of highly-cited works to demonstrate that technical interventions addressing deepfakes almost entirely ignore AIG-NCII, limiting the research ecosystem to authenticity detection tools. In this position paper, we argue that existing interventions address viewer-centric epistemic harms, such as fraud or scams, but ignore subject-centric dignity harms, such as AIG-NCII. We illustrate that knowing an image is synthetic does not mitigate harms to subjects and may, in some cases, even exacerbate them. We conclude by offering recommendations to realign the field, including updating threat models to consider subject-centric harms and addressing AIG-NCII in AI safety research. Finally, we caution that researchers should only engage in this high-risk domain...",
     "cache_version": 8,
-    "checked_at": "2026-08-01T03:47:18+00:00",
+    "checked_at": "2026-08-09T02:26:30+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "monetary loss"
@@ -7662,6 +7662,37 @@
       "fraud"
     ],
     "word_count": 5094
+  },
+  "26c85cc3cfe0bdb42908bafd7090bb3a1d06577c16b507301bf06e4446e5c923": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: When Do PEFT Adaptations Leak Structure? Measuring Black-Box Structural Bounds in Public-Base Model Services Zhongjiang Yao 2 , Shuangshuang Liang 3 , Chun Yang 1,\u2217 , Liwei Chen 1 , Gang Shi 1 1 Institute of Information Engineering,CAS,Beijing,China 2 King\u2019s Collage London,UK 3 Weibo Corporation,Beijing,China \u2217 Corresponding author: yangchun@iie.ac.cn Abstract Services increasingly deploy a public foundation model together with a private parameter-efficient adaptation, creating a differential leakage surface when an auditor or adversary can execute the public base locally and observe rich victim outputs. We present VectorHijack-SR, a measurement methodology that turns paired victim/base residuals into calibrated structural bounds over PEFT family, layer locality, and coarse rank, while explicitly separating metadata visibility from open-world validity and operational exploitability. The estimator aggregates per-query magnitude, ranking, entropy, margin, length, template, locality, and spectral statistics into service-level views; a service-disjoint closed-set classifier produces structural probabilities, and a cross-fitted hierarchical rejector tests whether the victim lies outside the calibrated LoRA manifold. Across classification backbones, family leakage exceeds uniform chance on BERT/MNLI (8/12), RoBERTa/MNLI (21/24), and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "watermarking",
+      "identity",
+      "trust"
+    ],
+    "word_count": 19248
   },
   "26d0e751c1fd3221ec7799d2da3a4c994feacd685f72993b26a79b79363c6335": {
     "access_status": "available",
@@ -12916,6 +12947,36 @@
     "weak_generic_terms_found": [],
     "word_count": 12
   },
+  "3f5c55ea89afae04d0021ea796a42243ca207bdcc07ca3eb0bec412975d280ca": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: An End-to-End Threat Model for the Quantum-as-a-Service Pipeline \u2020 \u2020 thanks: This work has been supported by the Business Finland through project SeQuSoS (Grant No. 112/31/2024), and Research Council of Finland through project Profi 8 - qSIME (Grants No. 365343). Badhon Rahman Majid Haghparast Tommi Mikkonen Abstract Cloud-based accessing of Quantum-as-a-Service (QaaS) platforms such as IBM Quantum, IonQ Cloud, and Amazon Braket is becoming popular day by day. Hybrid quantum-classical algorithms (VQE, QAOA, QML) transfer data via a long layered pipeline of orchestration, compilation, and execution. Recent works have demonstrated various critical attacks at individual stages: Calibration tampering, SWAP attacks, QubitHammer, and so on. However, these attacks remain separated because of their own terminology, and existing STRIDE-based threat modeling in the context of quantum lacks a structured view towards the QaaS stack itself. We address this concern by decomposing the workflow into six-stage model with STRIDE threat modeling. Our matrix demonstrated attack vectors in quantum-specific, inherited classical, and plausible tiers for each of the stages.",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "deepfake_or_synthetic_identity_scam",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity",
+      "trust"
+    ],
+    "word_count": 2460
+  },
   "3f658ae1efe2b32e4d5a9c775106a00e48fa2a5f100139d4069c0489fd493c87": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16338,6 +16399,47 @@
     ],
     "word_count": 10373
   },
+  "4da03b8c974fa0c246343abf1a45dfb94021296c725ca30d233d940143e0b837": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "WIRED is there covering the best of it. Let\u2019s get into it. Last month, OpenAI disclosed that a swarm of its AI agents went on a hacking spree that ended with a breach of Hugging Face. This week brought even more rogue-agent incidents\u2014and, at a last-minute Black Hat talk, a bizarre new detail emerged about how some of this unfolded. OpenAI revealed that its agents had built their own internal message board, where they shared exploits, divided up work, argued, and even discussed cryptographically signing messages to weed out imposters\u2014all without OpenAI noticing for days. Separately, researchers at Zenity found around 20 flaws across AI-powered browsers and extensions, including attacks that got OpenAI\u2019s Atlas browser to spam WhatsApp contacts and make an unauthorized Amazon purchase. And security researcher James Kettle found that while AI agents are still pretty bad at inventing new hacking techniques on their own, when paired with a human expert they can be extremely effective. Security researcher Vangelis Stykas had a busy week at BlackHat. He and a colleague hacked a cheap kid\u2019s smartwatch strapped to a WIRED reporter\u2019s wrist, tracking them across New York, secretly taking photos, and eavesdropping on conversations\u2014part of a broader investigation into flaws affecting tens of millions of kids\u2019 watches and car trackers. Stykas also revealed that, after nearly two years...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 5337
+  },
   "4df6e97a14a8034c89980de3de1cb11c947fc84073b0ce0d1c781c32fc77db21": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -18617,6 +18719,33 @@
     ],
     "word_count": 8
   },
+  "59770f60ab6d21c9b0f9ff2a048bb3bfaed7e571cfcee1fc216cbd3edcd9bb7f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Viral discourse about celebrity women becoming frighteningly thin has become inescapable on social media . There are images showing the most shocking evidence of weight loss, \u201cbefore and after\u201d compilations, and widespread speculation about covert GLP-1 usage . A lot of the conversation is being held under the guise of concern, but experts tell WIRED many of these posts\u2014even if well-intentioned\u2014misinform the public about eating disorders and can even serve as unhealthy inspiration or trigger those in recovery. The discourse has reached a fever pitch after Ariana Grande released a music video for her new single and album \u201cPetal,\u201d which features her auditioning endlessly for a table of misogynistic male studio executives who urge her to \u201close a few [pounds]\u201d and \u201cget some work done.\u201d Nearly every comment on the video expresses concern for Grande\u2019s health because of her thin appearance. Other celebrities like Jameela Jamil have spoken up , writing that the video was irresponsible for glamorizing a \u201cdeeply damaging image for her young fans.\u201d Following the public reaction to the video, Grande\u2019s team announced that she would be pulling out of a planned theatrical run on London\u2019s West End and \u201ctaking a much-deserved break from public-facing work and appearances, which has led to endless, ongoing public scrutiny\u201d after she wraps up her Eternal Sunshine Tour. But that statement...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware"
+    ],
+    "word_count": 4264
+  },
   "59c362b4ef9c9d09f903ce58e95484b8bba9e882b6ffd2ddb029303bda3bcf9c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -20697,6 +20826,53 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3358
+  },
+  "6381b5758f15a07c434e47ff14a00a69c287f8b1d725d82e5c8981cf2857e1cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unmasked: Scam kingpin Chen Zhi\u2019s top associates held significant cache of assets in Singapore Sign up now: Get ST's newsletters delivered to your inbox Chen Zhi, also known as \u201cVincent\u201d, is the founder and chairman of Prince Holding Group. PHOTO: PRINCE HOLDING GROUP Andrew Wong Published Aug 08, 2026, 12:00 PM Updated Aug 08, 2026, 09:59 PM Set as preferred source Listen SINGAPORE \u2013 They were identified in a criminal indictment filed in New York on Oct 8, 2025, as the co-conspirators of scam kingpin Chen Zhi , with few clues about where they lived and operated. Over the past six months, The Straits Times, working with investigative journalism group Organized Crime and Corruption Reporting Project (OCCRP), combed through hundreds of pages of official records to unmask the second co-conspirator, a key figure in the multibillion-dollar scam syndicate. The search uncovered a global web of shell companies and revealed the sophisticated system used by Chen Zhi and his company, Prince Holding Group, to launder billions of dollars in funds obtained on the backs of foreigners forced to work in scam compounds in Cambodia. The person referred to in the indictment as \u201cCo-conspirator-2\u201d is Chen Xing. Born in Shanghai in 1986, he changed his name to Chen Sokly after obtaining Cambodian citizenship around end-2017, according to the Cambodian government gazette. ST and OCCRP confirmed his...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6401
   },
   "63dfa921a15694374514476cfb9f044d3c713d850119351327273a31f62cfab3": {
     "access_status": "available",
@@ -23484,6 +23660,46 @@
       "trust"
     ],
     "word_count": 3276
+  },
+  "6f6793ca9f84420f6085a83f342ecdd57762ff2560e79cf818f6a852e9f8892b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Seriously\u2014it\u2019s a lot more. Since December 2024, one of the domains at which the security researcher receives email has registered 401,796 messages\u2014by his calculations that\u2019s an average of 699.99 pings per day. This deluge isn\u2019t the regular flood of spam, newsletters, and unwanted deals that fill many people\u2019s inboxes. Instead, companies and other organizations are inadvertently sending Solovewicz other people\u2019s private information and company secrets. Over the last few years, he\u2019s received injury reports from a city government, confirmation of people\u2019s pizza orders, and account setup emails from a school platform. \u201cI get service orders for people that need repairs. I get lots of test platform credentials,\u201d says Solovewicz , a security researcher and consultant. Solovewicz is receiving the avalanche of messages as he\u2019s the owner of the domains noreply.us and noreply.net , which he purchased in 2020 and 2024, respectively. After originally planning to use the noreply.us domain as a catch-all email\u2014which receives mail sent to any @ address on that domain\u2014to filter messages and enhance his privacy, the researcher quickly noticed that other systems were sending mail to @ noreply.us addresses. \u201cI created an accidental honeypot,\u201d Solovewicz tells WIRED.",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "ransomware"
+    ],
+    "word_count": 4023
   },
   "6f8f69299f35a15234ea47e5c988ed873d44588bb5a6c47bc204ab1225e79a69": {
     "access_status": "available",
@@ -35892,6 +36108,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "aa43f18ec932ca9a3cc0367c3991cb557845d78d327d85a11a8b69c3514f1322": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "aa4c68ea7dba61746a5607095f48900f3c599db1dc4d6a677c72e29454e6b9bd": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -37596,6 +37836,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1183
+  },
+  "b06c8f4c6e29ede3026ec9936c4f9226109089d18461a4dd680f739161f5927a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 0
   },
   "b06d57ee8cd46ea5b2dba929054f7b66f7c2e66ee3eb4ccfba1453a05edf842e": {
     "access_status": "available",
@@ -39848,6 +40114,33 @@
     ],
     "word_count": 153
   },
+  "bb84ad0cbd147b6189bf2df66a2cd74db1ba418ecb3d631b496cedbe117d23af": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It couldn't come soon enough. Drip coffee is my first true love when it comes to caffeine. But sadly, my first love is hopelessly addicted to plastic. From the very first Mr. Coffee machines in the 1970s, nearly every drip coffee maker on the market, including many of my favorite drip coffee makers , has included plastic at some point in the brewing process. But plastic, as we're now learning, can leach tiny particles called microplastics into coffee or water, which you then happily drink in your morning cup. The science isn't all in on health risks, but it doesn't seem great. Luckily, in the past year, a couple new machines have arrived with the promise to remove plastic from the equation: the Ratio Eight Series 2 ($799) and the Simply Good Coffee Plastic-Free Coffee Brewer ($480) . Each promises to deliver delicious, high-end coffee without the plastic. Each costs significantly more than machines made with injection-molded plastic parts that are easier to manufacture.",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware"
+    ],
+    "word_count": 11125
+  },
   "bba09b99216fba2a48384cb861652ac9b1e9fa7e776a0cdc0e94112d21e83c38": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -40223,6 +40516,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 878
+  },
+  "bccb6ed919749bc513718a14615074e2601037cb6462a00e19396a02ba9cdf35": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The decision could have far-reaching implications for federal funding, particularly in states where there are substantial numbers of racial and ethnic minorities, as well as on immigrant communities across the country. The proposed rule, which is being circulated across government agencies for review, says the census will eliminate questions about race and sexual orientation \u201cto protect from any distortions created from the inclusion of personal questions.\u201d The memo also states that \u201cillegal aliens (among others) should not be included in the apportionment count, they are not true inhabitants, members of the body politics [sic], or persons with \u2018usual residence\u2019 in the United States.\u201d This would likely require the reintroduction of a census question about a respondent\u2019s citizenship. During Donald Trump\u2019s first presidential term, Republicans attempted to add a citizenship question to the census for the first time since 1950. The effort was struck down by the Supreme Court, 5-4, with Chief Justice John Roberts siding with the Court\u2019s then-larger liberal bloc on the grounds that the justification for adding the question was \u201ccontrived.\u201d The decision did not, though, find that citizenship questions are inherently unconstitutional. The Department of Commerce did not reply to requests for comment. \u201cThis is about the Voting Rights Act,\u201d says Danah Boyd, a professor at Cornell...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2946
   },
   "bd0654f11eb6ca42c44c1b61c3ab99b823ecdf1aaa116ad4681f2c1cfa72c341": {
     "access_status": "available",
@@ -45565,6 +45884,53 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "d3a4ea1748ef025cac09662122238dfbc67556568ece15a18e56caca7230a943": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unmasked: Scam kingpin Chen Zhi\u2019s top associates held significant cache of assets in Singapore Sign up now: Get ST's newsletters delivered to your inbox Chen Zhi, also known as \u201cVincent\u201d, is the founder and chairman of Prince Holding Group. PHOTO: PRINCE HOLDING GROUP Andrew Wong Published Aug 08, 2026, 12:00 PM Updated Aug 08, 2026, 09:59 PM Set as preferred source Listen SINGAPORE \u2013 They were identified in a criminal indictment filed in New York on Oct 8, 2025, as the co-conspirators of scam kingpin Chen Zhi , with few clues about where they lived and operated. Over the past six months, The Straits Times, working with investigative journalism group Organized Crime and Corruption Reporting Project (OCCRP), combed through hundreds of pages of official records to unmask the second co-conspirator, a key figure in the multibillion-dollar scam syndicate. The search uncovered a global web of shell companies and revealed the sophisticated system used by Chen Zhi and his company, Prince Holding Group, to launder billions of dollars in funds obtained on the backs of foreigners forced to work in scam compounds in Cambodia. The person referred to in the indictment as \u201cCo-conspirator-2\u201d is Chen Xing. Born in Shanghai in 1986, he changed his name to Chen Sokly after obtaining Cambodian citizenship around end-2017, according to the Cambodian government gazette. ST and OCCRP confirmed his...",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6401
+  },
   "d3e0435ac4a56ce9789000b31cf75e1698dc711cde8ab96727747c475182e5d8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -45728,6 +46094,46 @@
       "identity"
     ],
     "word_count": 4036
+  },
+  "d491b35cc847b00b9d31f2c3115c96a448fe334b55412c067935dca882c2ed50": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:30+00:00",
+    "direct_relevance_terms_found": [
+      "vishing",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "vishing",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "vishing",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "vishing",
+      "financial fraud"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "d4940c8e86cb59c3c54e80ef3b7f0e6023a4862406d9afdb7ad2840127bc663d": {
     "access_status": "available",
@@ -49609,6 +50015,39 @@
       "fraud"
     ],
     "word_count": 833
+  },
+  "e9548cab4815b9cd09d4cb19ca7f57e3c18f4d0a56ca14bbe1c81ae79d877408": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: AI Assistance Reduces Persistence and Hurts Independent Performance Grace Liu Carnegie Mellon University gliu2@andrew.cmu.edu Brian Christian University of Oxford brian.christian@psy.ox.ac.uk Tsvetomira Dumbalska University of Oxford tsvetomira.dumbalska@psy.ox.ac.uk Michiel A. Bakker Massachusetts Institute of Technology bakker@mit.edu Rachit Dubey University of California, Los Angeles rdubey@ucla.edu Abstract People often optimize for long-term goals in collaboration: A mentor or companion doesn\u2019t just answer questions, but also scaffolds learning, tracks progress, and prioritizes the other person\u2019s growth over immediate results. In contrast, current AI systems are fundamentally short-sighted collaborators \u2013 optimized for providing instant and complete responses, without ever saying no (unless for safety reasons). What are the consequences of this dynamic? Here, through a series of randomized controlled trials on human-AI interactions ( N = 1 , 222 N=1,222 ), we provide causal evidence for two key consequences of AI assistance: reduced persistence and impairment of unassisted performance. Across a variety of tasks, including mathematical reasoning and reading comprehension, we find that although AI assistance improves performance in the short-term, people perform significantly worse without AI and are more likely to give up....",
+    "cache_version": 8,
+    "checked_at": "2026-08-09T02:26:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:cmu.edu",
+      "institution_domain:mit.edu",
+      "institution_domain:ox.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "trust"
+    ],
+    "word_count": 25396
   },
   "e95c65f34fe2ed05c26d05aa6a3143e07e99da54583e9e0c190c9440a16226fa": {
     "access_status": "available",

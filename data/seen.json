@@ -1078,6 +1078,20 @@
       "url": "https://arxiv.org/html/2606.06879v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-06-10|agents benchmarking defending many multi risks safety tool": {
+      "article_type": "Research paper",
+      "normalised_title": "unsafer many turns benchmarking defending multi turn safety risks tool using agents",
+      "normalized_title_fingerprint": "unsafer many turns benchmarking defending multi turn safety risks tool agents",
+      "original_url": "https://arxiv.org/html/2602.13379v2",
+      "parsed_date": "2026-06-10",
+      "raw_title": "Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents - arXiv",
+      "same_story_key": "arxiv.org|2026-06-10|agents benchmarking defending many multi risks safety tool",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "arxiv.org",
+      "title": "unsafer many turns benchmarking defending multi turn safety risks tool using agents",
+      "url": "https://arxiv.org/html/2602.13379v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-06-11|13757 2606 agents bench engineering review sevra social": {
       "article_type": "Research paper",
       "normalised_title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
@@ -2618,6 +2632,20 @@
       "url": "https://www.straitstimes.com/asia/se-asia/malaysia-police-bust-two-scam-centres-in-forest-city-at-least-194-foreigners-to-be-charged",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "straitstimes.com|2026-08-08|assets associates cache chen held kingpin scam significant": {
+      "article_type": "News report",
+      "normalised_title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "normalized_title_fingerprint": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "original_url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-scam-kingpin-chen-zhis-top-associates-held-significant-cache-of-assets-in-singapore?ref=latest-headlines",
+      "parsed_date": "2026-08-08",
+      "raw_title": "Unmasked: Scam kingpin Chen Zhi\u2019s top associates held significant cache of assets in Singapore - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-08-08|assets associates cache chen held kingpin scam significant",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-scam-kingpin-chen-zhis-top-associates-held-significant-cache-of-assets-in-singapore?ref=latest-headlines",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "techcrunch.com|2026-05-19|28m dome fight founder hacker iron phishing raised": {
       "article_type": "Technical article",
       "normalised_title": "teen hacker iron dome researcher founder raised 28m fight ai phishing",
@@ -3471,6 +3499,20 @@
       "title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
       "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/",
       "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-08-08|coaching dashcams flock flocks plans police revealed rideshare": {
+      "article_type": "News report",
+      "normalised_title": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "normalized_title_fingerprint": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "original_url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "parsed_date": "2026-08-08",
+      "raw_title": "Security News This Week: Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed - WIRED",
+      "same_story_key": "wired.com|2026-08-08|coaching dashcams flock flocks plans police revealed rideshare",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "wired.com",
+      "title": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "usefulness_category": "Detection / analytics / engineering insight"
     }
   },
   "titles": {
@@ -5574,6 +5616,18 @@
       "title": "securenet comparative study deberta large language models phishing detection",
       "usefulness_category": "Product idea / data source"
     },
+    "security news week flock s plans rideshare dashcams coaching police revealed": {
+      "article_type": "News report",
+      "normalised_title": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "normalized_title_fingerprint": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "parsed_date": "2026-08-08",
+      "raw_title": "Security News This Week: Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed - WIRED",
+      "same_story_key": "wired.com|2026-08-08|coaching dashcams flock flocks plans police revealed rideshare",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "wired.com",
+      "title": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "security pro hacked north korean hackers he found they d breached hundreds networks worldwide": {
       "article_type": "News report",
       "normalised_title": "security pro hacked north korean hackers he found they d breached hundreds networks worldwide",
@@ -5981,6 +6035,30 @@
       "source_domain": "arxiv.org",
       "title": "understanding scam trends rail paths reddit self disclosure narratives",
       "usefulness_category": "Research / novel method"
+    },
+    "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore": {
+      "article_type": "News report",
+      "normalised_title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "normalized_title_fingerprint": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "parsed_date": "2026-08-08",
+      "raw_title": "Unmasked: Scam kingpin Chen Zhi\u2019s top associates held significant cache of assets in Singapore - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-08-08|assets associates cache chen held kingpin scam significant",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "unsafer many turns benchmarking defending multi turn safety risks tool agents": {
+      "article_type": "Research paper",
+      "normalised_title": "unsafer many turns benchmarking defending multi turn safety risks tool using agents",
+      "normalized_title_fingerprint": "unsafer many turns benchmarking defending multi turn safety risks tool agents",
+      "parsed_date": "2026-06-10",
+      "raw_title": "Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents - arXiv",
+      "same_story_key": "arxiv.org|2026-06-10|agents benchmarking defending many multi risks safety tool",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "arxiv.org",
+      "title": "unsafer many turns benchmarking defending multi turn safety risks tool using agents",
+      "usefulness_category": "Product idea / data source"
     },
     "unseen cross stack llm unlearning defense against ar llm social engineering attacks": {
       "article_type": "Research paper",
@@ -7916,6 +7994,18 @@
       "url": "https://arxiv.org/pdf/2605.21246",
       "usefulness_category": "Research / novel method"
     },
+    "4da03b8c974fa0c246343abf1a45dfb94021296c725ca30d233d940143e0b837": {
+      "article_type": "News report",
+      "normalised_title": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "normalized_title_fingerprint": "security news week flock s plans rideshare dashcams coaching police revealed",
+      "parsed_date": "2026-08-08",
+      "same_story_key": "wired.com|2026-08-08|coaching dashcams flock flocks plans police revealed rideshare",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "wired.com",
+      "title": "Security News This Week: Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed - WIRED",
+      "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "4e3fdc99bc0c34736053a72660ff4c8f0f1100dfff65096f1b42cbebe00a84c6": {
       "article_type": "Research paper",
       "normalised_title": "2601 19342 modeling behavioral signals job scams human centered security study",
@@ -8275,6 +8365,18 @@
       "title": "Cybersecurity Risks of Online Piracy Websites in Malaysia: An Empirical Comparison of Scam Risk, Malware Exposure, and Advertising Ecosystems - SSRN eLibrary",
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6309900",
       "usefulness_category": "Product idea / data source"
+    },
+    "6381b5758f15a07c434e47ff14a00a69c287f8b1d725d82e5c8981cf2857e1cc": {
+      "article_type": "News report",
+      "normalised_title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "normalized_title_fingerprint": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
+      "parsed_date": "2026-08-08",
+      "same_story_key": "straitstimes.com|2026-08-08|assets associates cache chen held kingpin scam significant",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Unmasked: Scam kingpin Chen Zhi\u2019s top associates held significant cache of assets in Singapore - The Straits Times",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-scam-kingpin-chen-zhis-top-associates-held-significant-cache-of-assets-in-singapore?ref=latest-headlines",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
       "article_type": "Investigative report",
@@ -10735,6 +10837,18 @@
       "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdU9HOWhaN0F3akZzRGN2eTUtUUhmWXNZZk9sN2themRtNlNTbHA5N2tYdk44V3hjMFZFelVCaUVrYjRoQjdjWDEyVHFjR1J6VUtuakNSb1ZFZw?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "f9ef2dbfba3baa7218b0c0e9510ed4fdca518ce728da65ee4ca7bdb9a41e66ed": {
+      "article_type": "Research paper",
+      "normalised_title": "unsafer many turns benchmarking defending multi turn safety risks tool using agents",
+      "normalized_title_fingerprint": "unsafer many turns benchmarking defending multi turn safety risks tool agents",
+      "parsed_date": "2026-06-10",
+      "same_story_key": "arxiv.org|2026-06-10|agents benchmarking defending many multi risks safety tool",
+      "sent_at": "2026-08-09T02:26:36+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents - arXiv",
+      "url": "https://arxiv.org/html/2602.13379v2",
+      "usefulness_category": "Product idea / data source"
     },
     "fad475ff724731b60e8d31729c5321c384fa433be409ecf2d28641f7a4879551": {
       "article_type": "Research paper",
