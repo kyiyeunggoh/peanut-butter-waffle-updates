@@ -1787,7 +1787,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Forensic Schema for Psychological Manipulation in Cyber Fraud: LLM-Driven Victim Reports Analysis Zikai Alex Wen \u2020 , Corrazon Ogot \u2020 , Juan Li \u2021 , Yan Bai \u2020 Abstract Existing cybercrime classification schemas capture contact metadata and financial transactions but omit the psychological manipulation techniques perpetrators employ. We present a forensic schema (four categories, 35 questions) adding 11 manipulation indicators and cryptocurrency evidence fields to established forensic foundations. Applied to 10,994 victim reports via large language model (LLM)-driven annotation and validated against two human annotators (mean LLM-human \u03ba = 0.69 \\kappa=0.69 , matching inter-annotator \u03ba = 0.68 \\kappa=0.68 ), the schema revealed a statistically distinct manipulation profile for each major fraud type (Cram\u00e9r\u2019s V V up to 0.790 0.790 ). A rationale-based evidence audit nonetheless exposed a forensic detail gap : detection of manipulation techniques was reliable, but victim narratives varied widely in the actionable detail supporting each Yes answer, and blockchain-specific identifiers were nearly absent. These findings point to AI-assisted victim intake with schema-informed follow-up questions as the most direct way to close the gap. The tiered annotation strategy also provides a reusable template for LLM-based extraction from other...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:01+00:00",
+    "checked_at": "2026-08-10T02:32:31+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -3005,6 +3005,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3955
+  },
+  "0f50b01e0a6c36d81b4295e6de0bc68dca30b5ee2ffb37919978899c49cf45c5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Negotiating Risk Boundaries in AI for Policing Through Mixed-Stakeholder Deliberation Mackenzie Jorgensen 1 \\equalcontrib , Jo Reilly 2 \\equalcontrib , Alex Sutherland 3 , Miri Zilka 2 Abstract AI tools are being increasingly adopted in policing in the UK and worldwide. Racial bias is a known and well-documented risk, yet representatives of affected communities are rarely included in decisions about AI adoption. We present results from a mixed-stakeholder deliberation workshop bringing together 30 community representatives, police officers, and academics to assess the risks of 13 AI use cases in policing, with an explicit focus on racial bias. We found that participants were broadly open to AI adoption, rejecting only three use cases outright \u2013 most notably recidivism risk assessment, where objections targeted the premise rather than the implementation. Our analysis reveals that foregrounding racial equity did not narrow the deliberation. Instead, discussions gravitated toward a fundamental set of questions: does this tool actually work, will it deliver genuine benefit, and will that benefit extend to everyone? This integrated reasoning\u2014reminiscent of the curb-cut effect in inclusive design\u2014highlights the benefit of incorporating the racial bias lens into the risk-benefit analysis of AI use cases from the outset. 1...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 17888
   },
   "0f86871271364f2f0c12ee291aa89576dc86e8655e016cc6d7a989d4e60acf14": {
     "access_status": "available",
@@ -4400,7 +4428,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup \u2020 \u2020 thanks: Support by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI/EU) and PowerAI+ (SI4/PJI/2024-00062, CM/UAM). J.I. is an FPI MINECO/FEDER. Roberto Daza12, Javier Irigoyen1, Ivan Lopez1, Raquel Rodriguez-Carvajal3, Laura Gomez-Carbajo3, Julian Fierrez1, Ruben Tolosana1, and Aythami Morales14 Abstract We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human\u2013human, human\u2013AI and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronized behavioral and biometric acquisition, filtering, and deep-learning-based feature extraction. The dataset (AIriskEval-gaming-db) was collected from 15 participants who interacted with a role-conditioned GPT-5.4 agent in two concatenated games: an adapted Prisoner\u2019s Dilemma and an Ultimatum Game. It comprises 340 GB of raw and processed multimodal data across six streams: interaction logs, video, screen recordings, gaze logs, smartwatch...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:24+00:00",
+    "checked_at": "2026-08-10T02:32:43+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -5171,7 +5199,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:50:59+00:00",
+    "checked_at": "2026-08-10T02:32:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -9016,7 +9044,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:01+00:00",
+    "checked_at": "2026-08-10T02:32:24+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -9435,6 +9463,30 @@
       "victim"
     ],
     "word_count": 1219
+  },
+  "2f87b42f5775630e1ad5882ea1111db3326917570169b3ced811ec755beaf2ce": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "All Videos Showing 1360 of 32853 Order Oldest to Newest Most Recent News Video Reports South Korean voters head to local elections in first nationwide test for President Lee 02/06/2026 4 mins News Video Reports British Foreign Secretary Yvette Cooper meets Chinese counterpart Wang Yi as ties ease 02/06/2026 5 mins News Video Reports Computex 2026 kicks off in Taiwan with latest AI technologies on show 02/06/2026 6 mins News Video Reports Philippines' UN Security Council bid could amplify ASEAN voice on global issues: Analysts 02/06/2026 4 mins News Video Reports Israel and Hezbollah clash ahead of US-hosted talks 02/06/2026 5 mins News Video Reports A decade after Brexit, UK rethinks going it alone 02/06/2026 4 mins News Video Reports Life on Singapore\u2019s remote lighthouses: The keepers behind the light 02/06/2026 5 mins Podcasts Money Talks Podcast - Your parents bought you insurance - is it enough today? 02/06/2026 24 mins News Video Reports Retailers say supply chain disruptions affecting some World Cup merchandise 01/06/2026 3 mins News Video Reports A peek inside a retired couple's home filled with vintage treasures 01/06/2026 3 mins News Video Reports Omura's whale carcass found in Singapore last year sheds light on lesser-known species 01/06/2026 5 mins News Video Reports Fresh grads in Singapore may need to taper salary expectations amid uncertainty: Analysts 01/06/2026...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 422
   },
   "2f8cc2a534fb4eea7d365120eb282e5de2b0373f533e76a1e25d4bba90b8d392": {
     "access_status": "available",
@@ -9975,6 +10027,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "321af7dc2864a41cc5ddd04c61202f1f818175b6020aa88995374bf2d92f0c70": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Hacking Hacker Kevin Mitnick on Lulzsec, Stuxnet and Anonymous By Noah Shachtman Hacking When technology betrays us By Robert Vamosi Hacking The card master: Why Max Butler crowned himself king of a global online fraud network By Kevin Poulsen Hacking Your gas meter: The new frontline in cyberwar By Mic Wright Hacking When bad goes good: Hackers offer their tips By Leila Johnston Hacking Hacking Sweden's election with pen and paper By Duncan Geere Heist Society Art of the Steal: On the Trail of the World's Most Ingenious Thief By Joshuah Bearman Hacking 25 ideas for 2010: Neurosecurity By Vaughan Bell Hacking At home with the DNA hackers By Ben Hammersley Magazine Broken Machine Politics By Paul O'Donnell Hacker Kevin Mitnick on Lulzsec, Stuxnet and Anonymous When technology betrays us The card master: Why Max Butler crowned himself king of a global online fraud network Your gas meter: The new frontline in cyberwar When bad goes good: Hackers offer their tips Hacking Sweden's election with pen and paper Art of the Steal: On the Trail of the World's Most Ingenious Thief 25 ideas for 2010: Neurosecurity At home with the DNA hackers Broken Machine Politics",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:28+00:00",
+    "direct_relevance_terms_found": [
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 195
   },
   "324718291c8499af77b7350b3827d87a3c01e013cfeb00f8b8a2938fd3d66a60": {
     "access_status": "available",
@@ -15375,6 +15459,33 @@
     "weak_generic_terms_found": [],
     "word_count": 1202
   },
+  "49d5c5e0443b3a80e117dd6fe71771b70c8b6b59aa14e872f54a99e0c381cdf3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Some of the world\u2019s biggest oil giants have announced billions of dollars in quarterly profits over the past two weeks, boosted largely by the soaring price of oil thanks to the conflict in the Middle East. But the artificial intelligence boom is also giving fossil fuel companies a new industry to sell their gas, pipelines, and power plants to: data centers . Two American oil and gas companies, Williams and Chevron, are presenting that demand to investors as a huge win. Data centers are becoming \u201ca big driver for both power and gas demand in the US,\u201d says Ashish Sethia, the global head of commodities and energy at BloombergNEF. The group published a report last week that found that increased demand for natural gas by the mid-2030s, driven partly by data centers , means that the US would need to increase production by 36 percent. The boom could have big climate implications \u2014even when considering projects that aren\u2019t connected to the larger grid. Just five of the seven data-center-connected gas-fired power plants highlighted in these two companies\u2019 second quarter results could emit as much as 21 million tons of greenhouse gases per year, according to their permit applications. That\u2019s an amount roughly on par with the annual emissions of Guatemala, though the actual emissions may be lower than what\u2019s on the permits. Executives from both Williams and Chevron said on earnings...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware"
+    ],
+    "word_count": 4458
+  },
   "49d7c8f944318e9a72bf02e37d7e060d173a76ca0f9abdd6227f7b47fcce4486": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -15481,6 +15592,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3924
+  },
+  "4a07b280cb8deebfad6494f499cff5eda35e663d2135543bb5023c2df4f5dc92": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "E-paper Singapore Asia World Opinion Life Business Sport Visual Podcasts Submarine cables in Australia, Indo-Pacific face growing attack risk: Report Major disruptions can have an immediate and severe impact on the economy. Iran ties Hormuz reopening to US concessions on several demands \u2018Texas of the Mountain West\u2019: US state of Utah on drive to court Singapore investors Shein finds there\u2019s no place like China after Vietnam warehouse experiment disappoints Malaysian PM Anwar undergoes medical examination NDP 2026: Kallang roars as Singapore celebrates 61st birthday In Pictures: Singapore celebrates 61st National Day Air-con not needed to cool a building Latest headlines minutes ago Western Europe experienced hottest June-July on record: EU monitor minutes ago Malaysian students in a bind over new US visa rules minutes ago A picturesque London suburb feels the Ted Lasso effect minutes ago Malaysian PM Anwar undergoes medical examination minutes ago Taylor Farms recalls salsa and guacamole over salmonella risk Trending National Day National Day Parade 2026 Singapore Strait of Hormuz Weather Shorts 0:49 1:01 1:01 1:32 0:30 0:28 0:54 1:26 0:20 Singapore People with disabilities shine at NDP 2026 amid largest civilian participation in over a decade Over 1,200 civilians participated in NDP 2026's parade segment. NDP 2026: Faces of the parade NUS researchers brandish light beams for...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 1204
   },
   "4a242956d3ff3cdb7db93883aa9850fd7dd47ecce44f92996c872e014314f538": {
     "access_status": "available",
@@ -17339,7 +17485,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:06+00:00",
+    "checked_at": "2026-08-10T02:32:31+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -17636,7 +17782,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit Chenyu Wu Abstract Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average precision, dollar recall, and dollar precision at fixed alert budgets over five seeds, with 95 percent day-block bootstrap intervals for the main contrasts. Results are narrower than expected. Amount-derived ratio and velocity features carry much of the signal, while raw amount fields add little once those features are in the model. In the matched setting, amount-conditioned training gives only small gains over class weighting and does not consistently beat the plain unweighted model. Stronger amount weights recover more fraudulent dollars, but at lower ranking quality and dollar precision.",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:06+00:00",
+    "checked_at": "2026-08-10T02:32:31+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -20336,6 +20482,42 @@
     "weak_generic_terms_found": [],
     "word_count": 742
   },
+  "6157ad9d16dc4528cdc8c15b230978726371e69f99948abdcb3d17fc6a1fb0d5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "His stake in Ineffable Intelligence \u2014the artificial intelligence lab he founded\u2014is worth an ungodly fortune. But he stands to collect none of that money himself. He set things up that way. Between 2013 and 2025, Silver worked as a researcher at Google DeepMind. He specialized in reinforcement learning, a method of teaching an AI model through positive and negative feedback. In 2016, he led the development of AlphaGo, which became the first AI to defeat a human champion in the game of Go and was heralded as a narrow form of superintelligence . Silver left to start Ineffable Intelligence in January, betting that reinforcement learning breakthroughs will close the gap between human and machine cognition across the board. When he started Ineffable Intelligence, Silver raised $1.1 billion from investors at a $5.1 billion valuation, reportedly the largest seed round in Europe\u2019s history . He also vowed to donate all the money he makes from any future sale of his company to charity. \u201cI was thinking very deeply about what I could do to have the maximum impact on the world,\u201d Silver tells WIRED in an interview at his office in Kings Cross, London, around the corner from DeepMind\u2019s headquarters.",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 5402
+  },
   "6162336541aa1eec47491765ac948ef4d3aaf1bd64e2de4f3215962156545caa": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21582,7 +21764,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:25+00:00",
+    "checked_at": "2026-08-10T02:32:43+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -21947,9 +22129,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user\u2019s Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of a sprawling operation that seeks to defraud online merchants and advertising networks. Pedro Fal\u00e9 is a threat researcher with the security firm Bitsight . Fal\u00e9 told KrebsOnSecurity he was able to peer inside a vast and complex ad fraud network by registering an expired domain name that was used to coordinate fake ad clicks across a particularly popular brand of these streaming devices known as H96 . An H96 TV streaming device currently advertised for sale on Amazon. Fal\u00e9 said the domain he scooped up was previously used for telemetry, periodically collecting full hardware information and the entire list of installed apps from tens of thousands of H96 streaming sticks plugged into television sets around the globe. But upon inspecting the traffic being funneled to the domain, he discovered nearly all of the TV boxes transmitting data claimed to be mobile phone models from a variety of manufacturers, including Samsung, Vivo, Huawei, and Xiaomi. \u201cWe noticed something was wildly wrong,\u201d Fal\u00e9 said....",
+    "article_excerpt": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. \u201cJudische\u201d and \u201cWaifu,\u201d dated Oct 21, 2024, 9 days before Moucka\u2019s arrest. This image was included in an affidavit filed by an investigator with the Royal Canadian Mounted Police (RCMP). The U.S. Justice Department said between February and October 2024, Moucka and co-conspirators used stolen login credentials to steal cloud-hosted data belonging to at least 165 customers of a U.S.-based software-as-a-service company. The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Snowflake responded to the data thefts by increasing password complexity requirements and enforcing multi-factor authentication. Moucka adopted new nicknames frequently \u2014 sometimes operating multiple identities concurrently \u2014 but two of his best-known monikers were \u201c...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:01+00:00",
+    "checked_at": "2026-08-10T02:32:24+00:00",
     "direct_relevance_terms_found": [
       "account takeover"
     ],
@@ -21985,7 +22167,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 10328
+    "word_count": 10642
   },
   "68b69ab0ab96e8b95cfac3909dc5c8d45a5b8299313bb43c6835b70114836a3c": {
     "access_status": "available",
@@ -22932,7 +23114,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:03+00:00",
+    "checked_at": "2026-08-10T02:32:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -25492,6 +25674,33 @@
       "fraud"
     ],
     "word_count": 1086
+  },
+  "788838219c8b653ffa15fce89bd0ec23c1c4f3fbbbd7d040d75095bdbb4655dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "That\u2019s the idea behind ChatTJB. It\u2019s the creation of 32-year-old Tucker Bryant, a public speaker, artist, and former project manager at Google. A San Francisco billboard describes ChatTJB as \u201cthe leading chat interface powered by AI.\u201d In this case, though, AI stands for \u201caverage individual.\u201d Bryant didn\u2019t train an LLM to respond based on how he writes. He literally sits down and answers the prompts himself . If you request an image of a skunk wearing sunglasses, he\u2019ll scribble one up. If you ask how to fry an egg, he\u2019ll respond with a suggestion. Maybe. (WIRED asked ChatTJB how to become a morning person, and at the time of writing, we haven\u2019t received a response. The website notes that \u201cthousands of people are writing in right now.\u201d) Bryant tells WIRED he launched ChatTJB back in April , but it didn\u2019t take off until July 27, when his $6,000 billboard went up in San Francisco. News coverage soon followed .",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware"
+    ],
+    "word_count": 3214
   },
   "78a9056f9b8b6dfe6ff15ce1029a49288c4b2272ad3f1e30888c54ed9c60f3e0": {
     "access_status": "available",
@@ -28064,6 +28273,33 @@
     ],
     "word_count": 10059
   },
+  "82364dc7e56e250ae716202df79d823e7810d7e48febf2451bc37d2280ad8013": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "We've been testing fans for far longer than just this summer, and while historically this is one of the worst times of the year to try to save money on anything \u201ccooling,\" a few of our top picks are on sale. If you could use some extra chill, check them out before the deals are gone. For more recommendations, check out our guides to the Best Fans , the Best Handheld and Portable Fans , and the Best Window Air Conditioners . Love WIRED? Add us as a preferred source on Google to see more of us. Diveblues Portable Handheld Fan for $15 ($5 off) Photograph: Kat Merck Photograph: Kat Merck Photograph: Kat Merck Video: Kat Merck Chevron Chevron Save to wishlist Save to wishlist Diveblues Portable Handheld Fan $20 $15 (25% off) Amazon Our favorite portable fan goes on sale pretty often, but not for less than it is right now. It's discounted in nearly every color. It's versatile and can be clipped to a bag, stood up on a desk, or worn around your neck. WIRED editor Kat Merck also appreciated its digital display, which lets you know how much battery is left. At nearly 3 inches across, the head is capable of pushing out a pretty significant breeze to actually cool you down.",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware"
+    ],
+    "word_count": 2111
+  },
   "825367df2866788f274098fdcfe630edd50a0f130143fc18dc92577a85fefdbb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29768,7 +30004,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:13+00:00",
+    "checked_at": "2026-08-10T02:32:36+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "messaging scam"
@@ -31393,7 +31629,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Class Weighting versus Amount Conditioning in Credit-Card Fraud Detection: A Dollar-Metric Study with a Temporal Explanation Audit Chenyu Wu Abstract Credit-card fraud losses are monetary, but papers often judge models with transaction-level scores. We ask whether transaction amount should shape training weights or be used later to order alerts. To separate this question from ordinary class imbalance handling, we keep total fraud-case weight fixed and vary only its allocation across fraud cases. The experiments test two chronological card-fraud datasets with XGBoost under unweighted training, standard class weighting, matched log-amount weighting, stronger amount-weighted variants, and score times amount reranking. Metrics are average precision, dollar recall, and dollar precision at fixed alert budgets over five seeds, with 95 percent day-block bootstrap intervals for the main contrasts. Results are narrower than expected. Amount-derived ratio and velocity features carry much of the signal, while raw amount fields add little once those features are in the model. In the matched setting, amount-conditioned training gives only small gains over class weighting and does not consistently beat the plain unweighted model. Stronger amount weights recover more fraudulent dollars, but at lower ranking quality and dollar precision.",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:06+00:00",
+    "checked_at": "2026-08-10T02:32:31+00:00",
     "direct_relevance_terms_found": [
       "payment fraud"
     ],
@@ -32623,7 +32859,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:13+00:00",
+    "checked_at": "2026-08-10T02:32:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -37200,13 +37436,13 @@
   },
   "ad900b7c3e600821680cb29f53180a89650479d2662051d28c190e36fa984162": {
     "access_status": "available",
-    "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 656 posts Behind The Blog Behind the Blog: No Spoilers This week, we discuss astrology, Flock on the brain, The Odyssey, and more. Samantha Cole , Jason Koebler , Emanuel Maiberg , Joseph Cox \u00b7 Jul 24, 2026 ICE Leaked Document Shows the Surveillance Tech at ICE\u2019s Fingertips From phone location data, to social media monitoring, to online undercover tools, a document obtained by 404 Media lays out the surveillance tech available across ICE agency wide. Joseph Cox \u00b7 Jul 23, 2026 FOIA Forum Our New FOIA Forum! 7/30, 1PM ET Join us for our latest FOIA Forum where we teach you how to pry records from the government. Joseph Cox \u00b7 Jul 23, 2026 Podcast Podcast: Flock is Tracking People, Not Just Cars How cops are using Flock to look for specific people; the company buying mountains of books for AI companies; and the big Suno hack. Joseph Cox \u00b7 Jul 22, 2026 ICE You Opened a Credit Card. ICE Now Knows Where You Live Here's how your personal address travels from your credit card provider, through middlemen companies, and ends up with ICE. Joseph Cox \u00b7 Jul 22, 2026 Impact Apple Fixes Hide My Email Vulnerability After 404 Media Coverage For a year, Apple knew that an issue in its Hide My...",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 672 posts Behind The Blog Behind the Blog: Rare Books and Baseball Brain This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ. Samantha Cole , Jason Koebler , Joseph Cox , Emanuel Maiberg \u00b7 Aug 7, 2026 Flock Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system. Joseph Cox \u00b7 Aug 7, 2026 Tokenmaxxing Software Giant SAP Stops Most Travel and Hiring Because of AI\u2019s Soaring Cost SAP says it needs to \u201cbe disciplined in how we spend.\u201d That includes still freezing hires and travel. Unless it's to do with AI, of course. Joseph Cox \u00b7 Aug 6, 2026 Flock Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings. Joseph Cox \u00b7 Aug 6, 2026 Podcast Podcast: This Man Might Go to Prison for Wiping His Phone The case of Samuel Tunick allegedly wiping a phone before DHS could...",
     "cache_version": 8,
-    "checked_at": "2026-07-27T03:59:57+00:00",
+    "checked_at": "2026-08-10T02:32:30+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
-    "downrank_reason": null,
+    "downrank_reason": "weak_anti_scam_relevance",
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
@@ -37219,11 +37455,8 @@
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [
-      "vulnerability",
-      "fraud"
-    ],
-    "word_count": 529
+    "weak_generic_terms_found": [],
+    "word_count": 533
   },
   "ad93eb40c468abc3c976baa2815c64f5c973c9caf72c1bbe2947e4efce1b13de": {
     "access_status": "available",
@@ -38673,7 +38906,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:09+00:00",
+    "checked_at": "2026-08-10T02:32:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -39334,6 +39567,32 @@
       "trust"
     ],
     "word_count": 1315
+  },
+  "b7d10cf74cef0e725a0fae7424318596e4d49ac08f027d3ef3aca1ee54c8ad2e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The name at the top of their list: former Fox News star Tucker Carlson . On Saturday, former US representative Marjorie Taylor Greene of Georgia shared a picture on X taken at Carlson\u2019s cabin in Maine, where Greene and Carlson appeared around a large wooden table alongside former representative Thomas Massie and Joe Kent , the former head of the US National Counterterrorism Center. \u201cWe said no more foreign wars and we meant it and supported Donald Trump because he made that promise,\u201d Greene wrote in a caption accompanying the photo. \u201cBut he\u2019s betrayed us all. Our commitment is America First for all Americans, right, left, and center. The movement has begun.\u201d On Tuesday, Carlson shared Greene\u2019s post on his X account and wrote : \u201cMAGA was betrayed. We all were. It's time for a new path forward.\u201d Carlson promised to share more about the group\u2019s plans on his show on Wednesday evening. On Tuesday evening, Kent appeared on The Young Turks show and revealed that their group has been trying to convince Carlson to run for president in 2028. \u201cI\u2019d say all of us at one point in time told Tucker he needs to run, and Tucker's been pretty public that he's not going to run,\u201d said Kent.",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3039
   },
   "b7e95e5f1b39461adb13231bfabd3cba9bbf129edda2a83a61b17ee2b243c152": {
     "access_status": "available",
@@ -43155,7 +43414,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:24+00:00",
+    "checked_at": "2026-08-10T02:32:42+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -44297,7 +44556,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Impact of Security and Privacy Controls on Users\u2019 Emotional Engagement with Generative AI Chatbots Jabari Kwesi Duke University Jiaxun Cao Duke University Hailee Cunningham Duke Kunshan University Pardis Emami-Naeini Duke University Abstract Chatbots powered by generative AI (e.g., OpenAI\u2019s ChatGPT and Google\u2019s Gemini) are increasingly being appropriated for emotional support and companionship. These tools offer a suite of security and privacy (S&P) controls, including model training opt-outs and memory toggles, yet how the presence of these controls influences users\u2019 attitudes toward emotionally sensitive disclosure remains understudied. We conducted a mixed-methods vignette study with 354 U.S. participants to examine how S&P controls influence users\u2019 willingness to engage with generative AI chatbots for emotional support, their perceptions of how protected they are when using these systems, and their perceptions of how effective the chatbots are for providing support. Controls enabling deletion of disclosures had the largest positive impact: these offerings outperformed technically sophisticated controls such as local-only processing and model training opt-outs, where participants expressed difficulty understanding the underlying mechanisms. Yet trust remains fragile, and participants often doubted S&P controls would...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:00+00:00",
+    "checked_at": "2026-08-10T02:32:29+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -47083,6 +47342,35 @@
     ],
     "word_count": 2561
   },
+  "d9d6b260def9dad3b1c74403dde244ced9c06e2c45a7a575392e79423b0db832": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Toward Resilient Human\u2013AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading Failures Md Foysal Ahmed, Isaac Kobby Anni, Md Main Uddin Rony Bowling Green State University Bowling Green Ohio USA mdfoysa@bgsu.edu, isaacka@bgsu.edu, mrony@bgsu.edu (2026) Abstract. As AI systems become increasingly integrated into consequential domains such as healthcare, journalism, education, scientific research, organizational decision-making, and defense, effective human-AI collaboration has emerged as a critical challenge. However, the sociotechnical risks that undermine collaboration are often studied in isolation, obscuring the recurring failure mechanisms that cut across domains. This paper presents a lifecycle-oriented synthesis of human-AI collaboration risks spanning four stages: task allocation, interaction, feedback, and adoption. Drawing on evidence from diverse application domains, we identify six recurring cross-domain risk clusters: Trust Miscalibration, Cognitive Burden, Accountability Gap, Capability Erosion, Goal Misalignment, and AI Anxiety and Technostress. We further propose a conceptual interaction model that illustrates how these risks emerge from sociotechnical drivers, interact through cascading pathways, and ultimately affect team performance and human well-being. Our analysis shows that many...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 17671
+  },
   "d9de5b2782c956e846fc276e4fab4fabb17086cb1a0f8661d78a47961d0c353d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -49396,7 +49684,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44 \u00d7 \\times Fewer Parameters than Llama-Guard-3-8B One DeBERTa-v3 head, three safety axes (prompt injection, harm, BFSI compliance), 7-of-7 prompt-injection benchmark wins vs 8B Llama-Guard-3, zero false positives (FPR=0.000, n n =208) on benign agentic prompts, and a 100% real-world contamination-clean 76,204-row training corpus Tejasvi C. Addagada Independent Researcher tejasvi@tejasviaddagada.com \u22c5 \\cdot tejasviaddagada.com The name Semalith is built from Greek s\u0113ma (sign) and lithos (stone): a structured signal-bearing marker. This work is unrelated to Patronus AI\u2019s Lynx hallucination detector. Production weights and the evaluation harness are released under enterprise license; please contact the author for access. Abstract Deploying large language models in financial-services and agentic settings requires safety classifiers that simultaneously handle prompt injection, regulatory compliance, and general harm\u2014a combination no existing open guardrail addresses in a single inference pass. Semalith v1.4 is a 184M-parameter DeBERTa-v3-base classifier performing simultaneous three-axis safety classification\u2014prompt injection, general harm, and financial-services regulatory compliance\u2014in a single forward pass. Its 22-class...",
     "cache_version": 8,
-    "checked_at": "2026-07-29T03:34:53+00:00",
+    "checked_at": "2026-08-10T02:32:29+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -52446,6 +52734,32 @@
     ],
     "word_count": 3617
   },
+  "f48c05f8ef448e6bea68c224486c80faaafe002106bff62f92f5c28a1741c418": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 0
+  },
   "f4a474e1e3c30cd6759fdc6db5202663122f1114ef2b84d4875fa618cb9fad00": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -54536,6 +54850,44 @@
       "trust"
     ],
     "word_count": 2268
+  },
+  "fe0b6b01f28e8c4f5e11ddebfa9000ca3f6191360eeae8981eb69b0596ef3c34": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\CJKencfamily UTF8mc \\CJK@envStart UTF8 Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning Kotaro Yoshida 1,2 Laura Gomezjurado Gonzalez 3 Yukinori Yamamoto 2,4 Yuji Naraki 2 Ryotaro Shimizu 2 Wenya Wang 5 . {}^{5}. 1 Institute of Science Tokyo 2 ZOZO Research 3 Stanford University 4 Waseda University 5 Nanyang Technological University Corresponding author yoshida.k.0253@m.isct.ac.jp Abstract Fine-tuning enables a source model to acquire desired capabilities and behaviors in a target domain while retaining much of its general-purpose competence. However, this adaptation process can also degrade alignment properties that were present in the source model. Recent work has shown that large language models can be trained using LoRA-based modules known as introspection adapters (IAs) to describe behavioral changes induced by fine-tuning. However, existing studies primarily consider settings in which the model is fine-tuned on datasets explicitly designed to implant a specific behavior and is then asked to explain the implanted behavior. This differs from practical deployment scenarios, where the central concern is often side-effect misalignment: unintended degradation of alignment caused by fine-tuning on tasks that are not obviously related to safety or alignment. To bridge this gap, we formulate...",
+    "cache_version": 8,
+    "checked_at": "2026-08-10T02:32:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 16546
   },
   "fe23c5f826a60f89a5d2bb74c8a510a0dc5c08a6e54e01d7eb6dbd127196406e": {
     "access_status": "available",
