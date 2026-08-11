@@ -1400,6 +1400,20 @@
       "url": "https://arxiv.org/pdf/2607.22545",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-07-30|benchmark cross deepfake detection image paradigm unified vendorbench": {
+      "article_type": "Research paper",
+      "normalised_title": "vendorbench 100 unified cross paradigm benchmark deepfake image detection",
+      "normalized_title_fingerprint": "vendorbench unified cross paradigm benchmark deepfake image detection",
+      "original_url": "https://arxiv.org/html/2607.06254v2",
+      "parsed_date": "2026-07-30",
+      "raw_title": "VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection",
+      "same_story_key": "arxiv.org|2026-07-30|benchmark cross deepfake detection image paradigm unified vendorbench",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "arxiv.org",
+      "title": "vendorbench 100 unified cross paradigm benchmark deepfake image detection",
+      "url": "https://arxiv.org/html/2607.06254v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-08-02|benchmarking callscreenbench device models phone secretaries": {
       "article_type": "Research paper",
       "normalised_title": "callscreenbench benchmarking device models phone secretaries",
@@ -2296,6 +2310,20 @@
       "url": "https://ieeexplore.ieee.org/iel8/10851462/10851484/10851536.pdf",
       "usefulness_category": "Research / novel method"
     },
+    "ieeexplore.ieee.org|2026-07-19|agent approach detection engineering financial fraud llm multi": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering financial fraud multi agent llm approach vishing detection",
+      "normalized_title_fingerprint": "social engineering financial fraud multi agent llm approach vishing detection",
+      "original_url": "https://ieeexplore.ieee.org/document/11476161/",
+      "parsed_date": "2026-07-19",
+      "raw_title": "From Social Engineering to Financial Fraud: A Multi-Agent LLM Approach to Vishing Detection",
+      "same_story_key": "ieeexplore.ieee.org|2026-07-19|agent approach detection engineering financial fraud llm multi",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "social engineering financial fraud multi agent llm approach vishing detection",
+      "url": "https://ieeexplore.ieee.org/document/11476161/",
+      "usefulness_category": "Product idea / data source"
+    },
     "markets.ft.com|2026-05-20|accelerate criminals enabled engineering full network report security": {
       "article_type": "Technical article",
       "normalised_title": "visa threats report network security strengthens criminals accelerate shift ai enabled social engineering",
@@ -2673,6 +2701,20 @@
       "title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
       "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-scam-kingpin-chen-zhis-top-associates-held-significant-cache-of-assets-in-singapore?ref=latest-headlines",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "straitstimes.com|2026-08-10|assistants behind bosses chen global hired personal poreans": {
+      "article_type": "News report",
+      "normalised_title": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "normalized_title_fingerprint": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "original_url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-bosses-behind-chen-zhis-global-scam-syndicate-hired-sporeans-as-personal-assistants",
+      "parsed_date": "2026-08-10",
+      "raw_title": "Unmasked: Bosses behind Chen Zhi\u2019s global scam syndicate hired S\u2019poreans as personal assistants",
+      "same_story_key": "straitstimes.com|2026-08-10|assistants behind bosses chen global hired personal poreans",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-bosses-behind-chen-zhis-global-scam-syndicate-hired-sporeans-as-personal-assistants",
+      "usefulness_category": "Operational intelligence"
     },
     "techcrunch.com|2026-05-19|28m dome fight founder hacker iron phishing raised": {
       "article_type": "Technical article",
@@ -5776,6 +5818,18 @@
       "title": "social engineering analysis framework comprehensive playbook human hacking",
       "usefulness_category": "Product idea / data source"
     },
+    "social engineering financial fraud multi agent llm approach vishing detection": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering financial fraud multi agent llm approach vishing detection",
+      "normalized_title_fingerprint": "social engineering financial fraud multi agent llm approach vishing detection",
+      "parsed_date": "2026-07-19",
+      "raw_title": "From Social Engineering to Financial Fraud: A Multi-Agent LLM Approach to Vishing Detection",
+      "same_story_key": "ieeexplore.ieee.org|2026-07-19|agent approach detection engineering financial fraud llm multi",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "social engineering financial fraud multi agent llm approach vishing detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "social engineering threat phishing detection using machine learning approach": {
       "article_type": "Research paper",
       "normalised_title": "social engineering threat phishing detection using machine learning approach",
@@ -6088,6 +6142,18 @@
       "title": "understanding scam trends rail paths reddit self disclosure narratives",
       "usefulness_category": "Research / novel method"
     },
+    "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants": {
+      "article_type": "News report",
+      "normalised_title": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "normalized_title_fingerprint": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "parsed_date": "2026-08-10",
+      "raw_title": "Unmasked: Bosses behind Chen Zhi\u2019s global scam syndicate hired S\u2019poreans as personal assistants",
+      "same_story_key": "straitstimes.com|2026-08-10|assistants behind bosses chen global hired personal poreans",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "usefulness_category": "Operational intelligence"
+    },
     "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore": {
       "article_type": "News report",
       "normalised_title": "unmasked scam kingpin chen zhi s top associates held significant cache assets singapore",
@@ -6219,6 +6285,18 @@
       "source_domain": "wired.com",
       "title": "usps text scammers duped his wife so he hacked their operation",
       "usefulness_category": "Operational intelligence"
+    },
+    "vendorbench unified cross paradigm benchmark deepfake image detection": {
+      "article_type": "Research paper",
+      "normalised_title": "vendorbench 100 unified cross paradigm benchmark deepfake image detection",
+      "normalized_title_fingerprint": "vendorbench unified cross paradigm benchmark deepfake image detection",
+      "parsed_date": "2026-07-30",
+      "raw_title": "VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection",
+      "same_story_key": "arxiv.org|2026-07-30|benchmark cross deepfake detection image paradigm unified vendorbench",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "arxiv.org",
+      "title": "vendorbench 100 unified cross paradigm benchmark deepfake image detection",
+      "usefulness_category": "Product idea / data source"
     },
     "verifying intent harm unified defense against llm generated threats": {
       "article_type": "Research paper",
@@ -7710,6 +7788,18 @@
       "url": "https://www.channelnewsasia.com/singapore/scam-police-fraud-victims-money-couriers-6255511",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "3b6b4adb6b371dd9ae165d765876a6edf60d4fba1f3b4112011f0375f41a05b4": {
+      "article_type": "Research paper",
+      "normalised_title": "vendorbench 100 unified cross paradigm benchmark deepfake image detection",
+      "normalized_title_fingerprint": "vendorbench unified cross paradigm benchmark deepfake image detection",
+      "parsed_date": "2026-07-30",
+      "same_story_key": "arxiv.org|2026-07-30|benchmark cross deepfake detection image paradigm unified vendorbench",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "arxiv.org",
+      "title": "VendorBench-100: A Unified Cross-Paradigm Benchmark for Deepfake Image Detection",
+      "url": "https://arxiv.org/html/2607.06254v2",
+      "usefulness_category": "Product idea / data source"
+    },
     "3cb0ffd8eb3d4f8cd97b9aaf2a0244a6786810cd52a8d9db8ba30f53846fd937": {
       "article_type": "Research paper",
       "normalised_title": "memophishagent memory augmented multi modal llm agent phishing url detection",
@@ -7841,6 +7931,18 @@
       "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread - The Guardian",
       "url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "42b04811f8f3ccd7b2e3d5cabc803e1f599217c29d06f7096609823c0c382eb7": {
+      "article_type": "News report",
+      "normalised_title": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "normalized_title_fingerprint": "unmasked bosses behind chen zhi s global scam syndicate hired s poreans personal assistants",
+      "parsed_date": "2026-08-10",
+      "same_story_key": "straitstimes.com|2026-08-10|assistants behind bosses chen global hired personal poreans",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Unmasked: Bosses behind Chen Zhi\u2019s global scam syndicate hired S\u2019poreans as personal assistants",
+      "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-bosses-behind-chen-zhis-global-scam-syndicate-hired-sporeans-as-personal-assistants",
+      "usefulness_category": "Operational intelligence"
     },
     "43f58738bd6008bba9d09073722072fa84fa669886d0199f88d8957384a77906": {
       "article_type": "Enforcement report",
@@ -10276,6 +10378,18 @@
       "source_domain": "ieeexplore.ieee.org",
       "title": "Social Engineering Analysis Framework: A Comprehensive Playbook for Human Hacking",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vMUhtUC1yNWp2T01lXzdRWXQ4YndSUVgzekYxenpaWFk4UXd6WjQwYUZTNGRTRzZ6blUxUzFCSkx3RDk0bkQ0Z0k2eUVnWWxiQUpwcGxvbVlUWDFjZVl0MEpqUzZxV3RlR0tHRWVnRQ?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
+    "d491b35cc847b00b9d31f2c3115c96a448fe334b55412c067935dca882c2ed50": {
+      "article_type": "Research paper",
+      "normalised_title": "social engineering financial fraud multi agent llm approach vishing detection",
+      "normalized_title_fingerprint": "social engineering financial fraud multi agent llm approach vishing detection",
+      "parsed_date": "2026-07-19",
+      "same_story_key": "ieeexplore.ieee.org|2026-07-19|agent approach detection engineering financial fraud llm multi",
+      "sent_at": "2026-08-11T02:25:27+00:00",
+      "source_domain": "ieeexplore.ieee.org",
+      "title": "From Social Engineering to Financial Fraud: A Multi-Agent LLM Approach to Vishing Detection",
+      "url": "https://ieeexplore.ieee.org/document/11476161/",
       "usefulness_category": "Product idea / data source"
     },
     "d59f6b841558c3740e339a72c911c4090b9dd22d65174544bb67c81385354c0b": {

@@ -6453,6 +6453,36 @@
     "weak_generic_terms_found": [],
     "word_count": 2747
   },
+  "20a92879570b71a3d420740421cf3bf6e661007c00cf79e7b3fa6bc282072f4d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: University of Surrey, Guildford GU2 7XH, UK 2 2 institutetext: Adobe Research, San Jose CA 95110, USA Soft Redaction of Image Provenance via Zero-Knowledge Proofs Muhammad Awan John Collomosse Abstract Content provenance standards, such as C2PA, are increasingly used to attach signed records of origin, editing history, and rights to digital images. However, provenance transparency can conflict with privacy \u2013 assertions that strengthen trust in an image may also reveal sensitive information about the creator or capture context. We propose soft redaction for image provenance: a mechanism that replaces sensitive provenance assertions with zero-knowledge proofs (ZKPs) of selected properties over hidden data. Our work focuses on distance proofs. We first show how location assertions can support proofs of proximity to a public reference point, using Chebyshev polynomial approximations within the ZKP proof circuit. We then extend the approach to \u2113 2 \\ell_{2} distance proofs over biometric embeddings, enabling privacy-preserving claims related to likeness to help enforce personality rights with images. Finally, we apply the same distance-proof construction to perceptual hashes (visual fingerprints), supporting an anti-spoofing use case in watermark-based recovery of stripped provenance metadata. Our results...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "watermarking",
+      "identity",
+      "trust"
+    ],
+    "word_count": 12172
+  },
   "20c742cfc93011daa2515281b7c71e31c6180a3b0f5a3bab872c364aa318b3ef": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -13796,6 +13826,47 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "42b04811f8f3ccd7b2e3d5cabc803e1f599217c29d06f7096609823c0c382eb7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unmasked: Bosses behind Chen Zhi\u2019s global scam syndicate hired S\u2019poreans as personal assistants Sign up now: Get ST's newsletters delivered to your inbox Alfred Law Hon Kit (second from left) being interviewed at Sunseeker M Singapore\u2019s official launch in 2018. Law served as a director in the firm and was formerly hired as personal assistant to Chen Sokly (right). PHOTOS: ALFRED LAW, CHEN SOKLY Andrew Wong Published Aug 11, 2026, 05:00 AM Updated Aug 11, 2026, 08:38 AM Set as preferred source Listen Summarise Singaporeans were hired as personal assistants by Chen Zhi's syndicate, unknowingly involved in a multi-billion-dollar global scam and money laundering network. The US Treasury sanctioned Chen Zhi, his associates, and related companies for criminal activities, including operations in Palau and Mauritius. The Singaporeans involved denied knowledge of crimes, cut ties after sanctions, but were linked to luxury assets, shell companies, and extensive international travel. AI generated SINGAPORE \u2013 They were recruited through friends or over drinks, and within a few years the Singaporeans found themselves flying on private planes and driving luxury cars as they ran favours for their bosses. From 2017, Alfred Law Hon Kit, Ryan Lee Chee Keong, Jason Teo Jing Shen and Alex Lim Zhongliang ended up working for companies and individuals linked to Cambodian national Chen Zhi . Chen...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 7621
   },
   "42c4e5b1d9126e02f930ab35e3d6a4778e445c02d68ac8441df1a1375222dd24": {
     "access_status": "available",
@@ -28210,7 +28281,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:03+00:00",
+    "checked_at": "2026-08-11T02:25:22+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -29346,6 +29417,41 @@
     ],
     "word_count": 2084
   },
+  "876b5029e51d1e1df76ba81ba627dfe2dd435a515d872cb25de428bcb846c508": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "For more than 50 years, the United States military and its researchers have tried to develop laser weapons. None of them panned out. But now, the US Army is about to make a working laser weapon an official part of its arsenal. The Pentagon is poised to sign a contract to acquire and rapidly deploy what\u2019s called an Enduring High Energy Laser in and around bases across the world to defend them from drone attacks, according to sources familiar with the matter. The official announcement could come as early as this week. When the deal is signed, it will mark the first time that the US military will have committed to equipping its forces with laser weapons in significant numbers. \u201cFor years, lasers were going to be the future, and they never really came to their own. Now, they're actually coming to their own,\u201d Mark J. Lewis, the former Air Force chief scientist, tells WIRED. The Iran and Ukraine wars have shown that drones are now so cheap, so plentiful, and so deadly that they're impossible to stop with any single countermeasure.",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection"
+    ],
+    "word_count": 5502
+  },
   "876ed77c043408850fa86e7e2429a4b3e9fd2954dd9e06f9b89baaa36864b9e0": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -29845,7 +29951,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Computer Science > Cryptography and Security arXiv:2607.16102 (cs) [Submitted on 17 Jul 2026] Title: DoSQ: A Cross-Layer Denial of Service Quality Attack by Exploiting Side Channels in 5G NR Authors: Mahmudul Hassan Ashik , Moinul Hossain View a PDF of the paper titled DoSQ: A Cross-Layer Denial of Service Quality Attack by Exploiting Side Channels in 5G NR, by Mahmudul Hassan Ashik and Moinul Hossain View PDF HTML (experimental) Abstract: The 3rd Generation Partnership Project (3GPP)'s Fifth Generation New Radio (5G NR) is critical to supporting mission-critical services. However, 5G systems are vulnerable to smart jamming attacks that can propagate to applications running on top of these networks (i.e., cross-layer). The 5G gNB broadcasts resource scheduling information for the legitimate UEs over the air interface, with a prevailing assumption that this surface alone reveals nothing useful about a user device. However, we show that using the Downlink Control Information (DCI) is sufficient to degrade Application layer service quality, i.e., Denial of Service Quality (DoSQ), by inferring the Application layer Goodput (i.e., via side-channel analysis). Therefore, we present DoSQ, a protocol-aware attack that decodes per-slot DCI to inject interference onto the victim UE's Physical Resource Blocks (PRBs) within the same 1 ms slot, while a cross-layer classifier estimates the...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:10+00:00",
+    "checked_at": "2026-08-11T02:25:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -33015,6 +33121,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1625
+  },
+  "9a04d35395921d1b0c6d654c53a406e4085107883e3985be8463faf2c6113fcd": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "New records indicate ICE wants to feed that data into a Palantir system. Image: Cory Doctorow, via Flickr . Immigration and Customs Enforcement (ICE) plans to pay LexisNexis millions more dollars for continued access to data it can feed into a Palantir platform, according to newly published procurement records. The data is to help, among other sections, ICE\u2019s Enforcement and Removal Operations (ERO), the part of ICE focused on deportation. The documents provide some more insight into the sort of information ICE intends to use Palantir to process. In January, 404 Media revealed the existence of ELITE, a system Palantir made for ICE that helps the agency find which neighborhoods to target by bringing together data from private suppliers and government agencies. The news comes as ICE arrested more than 51,000 people in July, many of those at airports . \ud83d\udca1 Do you work at LexisNexis, Palantir, or ICE? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co.",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 1780
   },
   "9a5a467c13a3dc340a2e2bfa7e7e260c3509352bd9048d0a214a0c74348f7846": {
     "access_status": "available",
@@ -36747,6 +36880,40 @@
       "identity"
     ],
     "word_count": 7123
+  },
+  "ab504933ea70fdcdcc304059e8a0aa587c4f5a083253b0e41593402118c28c41": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: TU Wien, Vienna, Austria 1 1 email: {andreas.happe;juergen.cito}@tuwien.ac.at 2 2 institutetext: University of Klagenfurt, Klagenfurt, Austria 2 2 email: jasmin.wachter@aau.at The Ethics of Autonomous AI Agents for Offensive Security Andreas Happe J\u00fcrgen Cito Jasmin Wachter Abstract LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling \u2014 deterministic, narrowly scoped, and operated by trained practitioners \u2014 agentic security tools exhibit indeterminacy along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation. This complicates incident attribution and pre-deployment safety reviews. Second, their impact is open-ended due to their non-deterministic actions, agency of utilized models, and opaque LLM supply-chains. Third, their user population is indeterminate in both size and required skill: the operating skill floor for using or developing offensive capabilities has dropped sharply. These three properties are linked thematically, but are not derivable from one another. Combined with the structural cost asymmetry between offense and defense, they enable the industrialization of offensive capability. The net short-term effect favors attackers, even if the same...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "trust"
+    ],
+    "word_count": 16456
   },
   "ab6a38398a0436353e099bab1b326e48499e5ed3d895afc8515907e36bbd39e6": {
     "access_status": "available",
@@ -47865,6 +48032,46 @@
     "weak_generic_terms_found": [],
     "word_count": 1679
   },
+  "dbe4526d80d81bc789531cdd7c68bccb2bee74a1087b8c827e6332b32ba38bd1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: From Forensics to Ecosystems: Rethinking Watermarks for Generative AI Oversight Daniel Susser 1 , John Thickstun 2 , Gili Vidan 1 Authors listed alphabetically. All contributed equally. The authors thank Calvin Qiu for invaluable research assistance. Abstract The arrival of generative AI as a cheap, widely accessible commercial service, and the tidal wave of AI-generated synthetic content it has unleashed, have provoked deep epistemic and social anxieties and raised difficult governance questions that policymakers are struggling to address. One approach that has attracted both enthusiasm from regulators and skepticism from researchers is digital watermarking. Signals embedded in a synthetically-generated piece of content indicating that it was AI-generated\u2014possibly even identifying the specific systems that generated it\u2014appear to offer a path toward mitigating risks of genAI that avoids the downsides of more interventionist strategies. But critics warn that watermarks may prove technically brittle, epistemically ambiguous, and politically ineffectual tools. In this paper, we explore the challenges and opportunities of using digital watermarking for AI governance, paying special attention to the specific problem of watermarking AI-generated text. We argue that such critiques often treat the problem of identifying synthetic...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "cybersecurity",
+      "identity",
+      "trust"
+    ],
+    "word_count": 20965
+  },
   "dbe929bd6be76f05d01e5f148348a39f63d8d9b57540941e85f327d157aeca67": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -47896,6 +48103,37 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "dc1a18ac4404664a98251dccc469f81ad0ba04cb17e17a705252ad1fb60cc8b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: MatrAIx: Simulating the World with 8.3 Billion Persona Agents Organizers Xiaomin Li 1 & Yuexing Hao 2 2 2 footnotemark: 2 Contributors Jianheng Hou 3 , Jintao Huang 4 , Qianfeng Wen 5 , Shirley Huang 1,6 , Yifan Liu 5 , Xiaoyi Liu 7 , Yilan Fan 8 , Yijun Wang 1 , Koutian Wu 9 , Ruoqi Gao 11 , Muhammad Ahmed Mohsin 11 , Jing Tang 12 , Brihi Joshi 3 , Heming Liu 13 , Zheyuan Deng 7 , Zonglin Di 10 , Sankalp Jajee 14 , Jiuyao Lu 36 , Zhiwei Zhang 15 , Saksham Kapoor 16 , Ishan Gupta 17 , Yunhan Zhao 18 , Chanwoo Park 2 , Yucheng Lu 1,39 , Bing Hu 19 , Weihang Xiao 20 , Aravind Mohan 22 , Hanwen Xing 3 , Runyu Zhang 2 , Mihir Kulshreshtha 20 , Yuanda Xu 23 , Qianyu Zhu 2 , Dianzhuo Wang 1 , Yuxin Xiao 2 , Bowen Jiang 24 , Yongye Su 25 , Wenhao Chai 23 , Zuxin Liu 26 , Lawrence Yunliang Chen 21 , Xuandong Zhao 21 , Ethan Ye 26 , Shivam Patel 26 , Jason Xie 10 , Alex Martin Richmond 2 , Weixiang Ding 26 , Emre Okcular 27 , Diya Mathew 13 , Ziheng Wang 11 , Rana M. Shahroz Khan 28 , Zhejian Peng 13 , Fang Wu 11 , Fan Nie 11 , Xinyang Han 21 , Yubin Kim 2 , Jiawei Zhang 29 , Zhenting Qi 1 , Huangyuan Su 1 , Xu Pan 1 , Abinitha Gourabathina 2 , Hyewon Jeong 2 , Hemanth Neelgund Ramesh 30 , Kumail Alhamoud 2 , Kimia Hamidieh 2 , Zidi Xiong 1 , Samuel Schmidgall 31 , Pengrui Han 2,13 , Yepeng Huang 1,32 , Yongheng Wang 2 , Bowen Yang 33...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:PETS",
+      "institution_domain:mit.edu",
+      "institution_domain:harvard.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 43743
   },
   "dc291969fb2f2a1c949bab664615b380242849f73953fef98e801c47dc714927": {
     "access_status": "available",
@@ -54700,6 +54938,40 @@
       "identity"
     ],
     "word_count": 3039
+  },
+  "fd7288356c2a1244084a29d5f49c160597dae832d083b20d44e9db1c0b80aab6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to reliably generalize to...",
+    "cache_version": 8,
+    "checked_at": "2026-08-11T02:25:20+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 10059
   },
   "fda031636bdab2d5216f08ab2d4b88e0c7b0c5299051634bc8fa83e0a9033941": {
     "access_status": "available",
