@@ -41,7 +41,7 @@
   },
   "01f2913408517a81689db663ac12a01f9a1a18f274c23de2b3255bd86435add2": {
     "canonical_url": "https://arxiv.org/pdf/2607.13003",
-    "resolved_at": "2026-08-02T03:49:37+00:00"
+    "resolved_at": "2026-08-12T02:41:01+00:00"
   },
   "021f987b67402891af7bd1f092dcac4fb414ddd8f49f9500e4343513bdcc44dd": {
     "canonical_url": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
@@ -309,7 +309,7 @@
   },
   "0865bf7fc0c1270a2b1d78e366f5c0dc27361d70c2aa88f6fea530e5ed122858": {
     "canonical_url": "https://arxiv.org/html/2606.03215v1",
-    "resolved_at": "2026-08-04T03:33:59+00:00"
+    "resolved_at": "2026-08-12T02:41:08+00:00"
   },
   "0873942b3cde2f9bb630feb5601d463eaa6f1dea73c73b624916de4101fa9292": {
     "canonical_url": "http://news.bbc.co.uk/news/articles/c4gy3lgz1x3o",
@@ -323,6 +323,10 @@
     "canonical_url": "https://arxiv.org/pdf/2607.07751",
     "resolved_at": "2026-08-09T02:26:32+00:00"
   },
+  "08bb8d9cf5f2aff32e68ffda2ca87aba276511ae93a71f80450f5647e6ef302d": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3803632.3807887",
+    "resolved_at": "2026-08-12T02:40:43+00:00"
+  },
   "08c26aa249b2c98f7a6c16a8c21a37adc1f0b853a2572d3c92fb3ac15d278b4e": {
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3805036",
     "resolved_at": "2026-08-10T02:31:36+00:00"
@@ -330,6 +334,10 @@
   "08c723cab6082d8ad1ed9beac62b67be37f4a930c9eb00f083e31af4e9b2416b": {
     "canonical_url": "https://www.theguardian.com/world/video/2026/jun/18/ukrainian-drones-hit-oil-refinery-and-residential-building-in-moscow-video",
     "resolved_at": "2026-06-22T05:29:16+00:00"
+  },
+  "08d7dc5dac7e4e31605116eda4dbc094faf1b7267d80ce2d06c576c775a600c4": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7182278.pdf?abstractid=7182278&mirid=1",
+    "resolved_at": "2026-08-12T02:40:54+00:00"
   },
   "08e684bd802a3347407905b951fea3e64e9688211ffcef3587ff32ff348b574d": {
     "canonical_url": "https://arxiv.org/pdf/2606.08146",
@@ -1031,6 +1039,10 @@
     "canonical_url": "https://www.reuters.com/world/china/united-states-gives-philippines-four-underwater-vehicles-worth-13-million-2026-06-23/",
     "resolved_at": "2026-06-24T04:24:42+00:00"
   },
+  "1a8d6e80f40c6a2d976bdb32dbc1614506b3e46e9b89e4febcbb3083147d2ae0": {
+    "canonical_url": "https://restofworld.org/2026/tech-facebook-google-whatsapp-scams/",
+    "resolved_at": "2026-08-12T02:41:37+00:00"
+  },
   "1a9e17c75c4a7d69d9397e8ea04f01bd29a94fa6870d03ad0e6bf79cce2251c3": {
     "canonical_url": "https://arxiv.org/pdf/2606.18062",
     "resolved_at": "2026-07-12T03:52:54+00:00"
@@ -1073,7 +1085,7 @@
   },
   "1b4d2746cd36d6e1eb82e368cb4402714a793550a0dde95b0cb61693024163ee": {
     "canonical_url": "https://ieeexplore.ieee.org/document/11290431/",
-    "resolved_at": "2026-08-04T03:34:28+00:00"
+    "resolved_at": "2026-08-12T02:41:39+00:00"
   },
   "1b6cbe2695bb20688ca4d8c1b6022bd62c323eb5d421e28df791c78a0e65bba2": {
     "canonical_url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
@@ -1239,6 +1251,10 @@
     "canonical_url": "https://www.usenix.org/system/files/soups2025-wang.pdf",
     "resolved_at": "2026-06-01T04:10:54+00:00"
   },
+  "1ee68fe682857c8a2084056ab8ddd103b37b7460343dc30922fd57bbd6867731": {
+    "canonical_url": "https://ieeexplore.ieee.org/iel8/11563985/11564097/11564455.pdf",
+    "resolved_at": "2026-08-12T02:41:38+00:00"
+  },
   "1eff6759325191f0519f8e27f1c1aeb8e3a85dffbcd01479d4a889837157198a": {
     "canonical_url": "https://arxiv.org/html/2606.22673v1",
     "resolved_at": "2026-07-08T03:41:27+00:00"
@@ -1250,6 +1266,10 @@
   "1f76aca7533f7cbd8662664405ca6dc12fe97fc8fcfd1448e9a0f49fb19f96fd": {
     "canonical_url": "https://www.bbc.com/news/articles/c8x2zryk5evo",
     "resolved_at": "2026-07-13T03:55:19+00:00"
+  },
+  "1f8e096150e53455ed6bf7990a09bd450dd3f5368c2a81c25a6b868c27a9008a": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6728119.pdf?abstractid=6728119&mirid=1",
+    "resolved_at": "2026-08-12T02:40:59+00:00"
   },
   "1fa03a35a87ae4f95a012ce7ece848b936d343ba4b852729f4726ab7f69a84b7": {
     "canonical_url": "https://apnews.com/article/fox-trot-carousel-nashville-red-grooms-6fb1f3330fd917ec2fbec0dbd0ec42d4",
@@ -1937,7 +1957,7 @@
   },
   "3215b4230cf5bceeb8cd9e7e96d57c4ab0c0739746732f49233bbaa1f0a5805c": {
     "canonical_url": "https://arxiv.org/pdf/2607.14686",
-    "resolved_at": "2026-08-04T03:33:39+00:00"
+    "resolved_at": "2026-08-12T02:40:56+00:00"
   },
   "321b6b3b24f50da9039890dc2da61dd2c1f3a29f7b8dac7488a1e79527b6d4ab": {
     "canonical_url": "https://www.ft.com/content/06803444-ff1e-479c-876a-a07690b81ada?syn-25a6b1a6=1",
@@ -1961,7 +1981,7 @@
   },
   "32fd234f82a11d9019a3b4502285568825aa2c0265d679d1bc6f327506a63246": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7069598",
-    "resolved_at": "2026-08-04T03:33:55+00:00"
+    "resolved_at": "2026-08-12T02:41:05+00:00"
   },
   "330d27f8067f376adb294d9083d34f5eb734354c4b07c4ff4f1392d7c9bd9e09": {
     "canonical_url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
@@ -2643,6 +2663,10 @@
     "canonical_url": "https://www.graphika.com/blogs/deepfakes-seek-deep-pockets-gen-ai-s-boost-to-financial-fraud?utm_source=Organic%20Social&utm_campaign=Blog-Deepfakes-Financial-Fraud&utm_medium=Social&utm_source_drilldown=Bluesky",
     "resolved_at": "2026-06-17T05:12:53+00:00"
   },
+  "4468d70c49d66785175e2d4eefd2eda579656523875d44c1b1b1bcc845ecbbac": {
+    "canonical_url": "https://dl.acm.org/doi/10.1016/j.eswa.2026.132189",
+    "resolved_at": "2026-08-12T02:41:40+00:00"
+  },
   "446f7ea4d008f01246e485fc0a8904babfb57e4eb5ed96c17ee4310d033d84fd": {
     "canonical_url": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
     "resolved_at": "2026-07-25T16:26:38+00:00"
@@ -2838,6 +2862,10 @@
   "497817c04446d1241950c0ab19f876e36af986b4c9da2262dc19ac0e3c5ca0d8": {
     "canonical_url": "https://apnews.com/article/western-wildfires-cottonwood-dry-weather-9ee4881aa90bc892d7be36706b1ea526",
     "resolved_at": "2026-06-28T04:48:33+00:00"
+  },
+  "49adeae5e8e0c62c88eeb22947e6d78980e24d6ab7bbda9ecdae63600829c08b": {
+    "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3774761.3774919",
+    "resolved_at": "2026-08-12T02:41:14+00:00"
   },
   "49e1854f74c42ea7e8525f7d0a3bd8ca680c8d6a9cf6fdc9e21941556a633fdc": {
     "canonical_url": "https://www.reuters.com/legal/government/us-judge-halts-philadelphias-ice-out-ban-masked-federal-law-enforcement-agents-2026-07-02/",
@@ -4095,6 +4123,10 @@
     "canonical_url": "https://www.bbc.co.uk/videos/ckg81lrn0xzo",
     "resolved_at": "2026-06-21T05:18:14+00:00"
   },
+  "6a5054b121652fd74a493406a2650c448585492a0d58398dc0677e92ed8261b6": {
+    "canonical_url": "https://ieeexplore.ieee.org/iel8/11563985/11564097/11564455.pdf",
+    "resolved_at": "2026-08-12T02:40:58+00:00"
+  },
   "6a633e291f2af49576ee24ca5113693672e2b875465b1cca2835ec83bcf75c72": {
     "canonical_url": "https://apnews.com/article/trump-supreme-court-e-jean-carroll-sexual-abuse-1a50d1e9e1d12898e78e0803c4627771",
     "resolved_at": "2026-06-30T04:23:39+00:00"
@@ -4137,7 +4169,7 @@
   },
   "6b0793b5a7e01a60ea62301632d82b9c0282183d8ceb29aa9d742a0250651cf7": {
     "canonical_url": "https://arxiv.org/html/2607.28165v2",
-    "resolved_at": "2026-08-04T03:33:25+00:00"
+    "resolved_at": "2026-08-12T02:40:49+00:00"
   },
   "6b3f051050d84a707f068fe4c07f870d949dbf4676365a93a9a279c55aea04bb": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/f026368c-4b8f-49f9-a802-d8c6bd3ff03a-MECA.pdf?abstractid=6708194&mirid=1",
@@ -4419,6 +4451,10 @@
     "canonical_url": "https://apnews.com/article/venezuela-caracas-guaira-earthquakes-dead-injured-missing-b07aff1cb886cfe616a0e89b3687b8b8",
     "resolved_at": "2026-07-01T04:54:01+00:00"
   },
+  "72fd85df8311a457e51dbaaf66b36edd7232e553272c87a0eaf7e7fbf1a3890f": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7226659.pdf?abstractid=7226659&mirid=1",
+    "resolved_at": "2026-08-12T02:40:39+00:00"
+  },
   "7320a81e107764b76ae0c97eb5612a39bc565b0003292a84a05299d1dcdd6831": {
     "canonical_url": "https://arxiv.org/html/2401.11641v4",
     "resolved_at": "2026-06-09T04:25:39+00:00"
@@ -4486,6 +4522,10 @@
   "74f2b76c44580b60ad198f8e87a5df014c17fdf615b56afbee51a6f66ef6fedd": {
     "canonical_url": "https://www.wired.com/story/trump-administration-change-polluter-public-engagement-rules/",
     "resolved_at": "2026-07-28T03:30:37+00:00"
+  },
+  "7515235857d1432f386a85598ab69b51e588325a7bcbcecc15190a926a63b0c1": {
+    "canonical_url": "https://www.bbc.com/news/articles/cx2kvlye1k5o",
+    "resolved_at": "2026-08-12T02:40:41+00:00"
   },
   "755b375b86e76a68393053806ad410cdd9af06eb41e47da86431e68b48edb2da": {
     "canonical_url": "https://www.404media.co/township-leader-resigns-in-tears-over-openai-data-center-death-threats/",
@@ -4645,7 +4685,7 @@
   },
   "7a8b60cd1e1611628df09ca0fdeb082e17c1994cf048e23c5e697e4d4f722bb8": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/2ad0dfb0-4575-4695-90c3-ff5427413061-MECA.pdf?abstractid=5932790&mirid=1",
-    "resolved_at": "2026-08-01T03:47:00+00:00"
+    "resolved_at": "2026-08-12T02:41:12+00:00"
   },
   "7aa357b5f280cd27e9082e909689ce929e474cd0613a4d057346e1e4414ce3e0": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/teen-register-25-sim-cards-scam-victims-5610606",
@@ -5983,6 +6023,10 @@
     "canonical_url": "https://www.theguardian.com/society/ng-interactive/2026/jun/12/autistic-children-stem-cell-treatment-families",
     "resolved_at": "2026-06-13T04:49:07+00:00"
   },
+  "9e0889fe2d08d790d6c1e7b78800ec7526dda33ac9787a0b7fab8107a544cf6c": {
+    "canonical_url": "https://www.bbc.com/news/articles/cx2kvlye1k5o",
+    "resolved_at": "2026-08-12T02:41:38+00:00"
+  },
   "9e0ee5c1a8765fa8f8920103dd3547bf711fd0d0f2271a70d0e942d87ff93843": {
     "canonical_url": "https://www.channelnewsasia.com/east-asia/china-charges-alleged-scam-kingpin-chen-zhi-intentional-injury-report-6280861",
     "resolved_at": "2026-07-28T03:31:42+00:00"
@@ -6011,6 +6055,10 @@
     "canonical_url": "https://www.bbc.com/pidgin/articles/c5yzdznpzz3o",
     "resolved_at": "2026-07-12T03:52:51+00:00"
   },
+  "9ea777d3266b1df51330ba8bce8427108bb03c2c7e9f6178e6e171b55c19e63b": {
+    "canonical_url": "https://developers.cloudflare.com/api/typescript/resources/pipelines/",
+    "resolved_at": "2026-08-12T02:40:47+00:00"
+  },
   "9ec6b21c07204b9ab8d4b69c0cebdad450846da6b184c293ac4c011587a26505": {
     "canonical_url": "https://www.reuters.com/business/media-telecom/ukrainian-family-kyiv-loses-treasured-cultural-items-russian-attack-2026-07-03/",
     "resolved_at": "2026-07-07T04:15:42+00:00"
@@ -6029,7 +6077,7 @@
   },
   "9f1c581e8275a0feae5ac4a7550ba884ad3a10f02f847f4abbd8546ed55e776d": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7134418.pdf?abstractid=7134418&mirid=1",
-    "resolved_at": "2026-08-03T03:50:51+00:00"
+    "resolved_at": "2026-08-12T02:41:07+00:00"
   },
   "9f3e7e271e3a83a10fe014efc175ed8864b253aa13cfa11761aa0bf1029a8f29": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/wang-jue-sham-scheme-foreigner-pr-jail-6257886",
@@ -7037,7 +7085,7 @@
   },
   "b750d90d08f871847052e0df82e15eedb0917b86a9a00c8a91fe0a84a214d1cc": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6885622.pdf?abstractid=6885622&mirid=1",
-    "resolved_at": "2026-08-04T03:33:23+00:00"
+    "resolved_at": "2026-08-12T02:40:45+00:00"
   },
   "b7788dada48fe25fdb556bd2594a3502456ac3588075770de61549e42442c414": {
     "canonical_url": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
@@ -8219,6 +8267,10 @@
     "canonical_url": "https://www.channelnewsasia.com/asia/myanmar-scam-centres-thailand-victims-trapped-6203481",
     "resolved_at": "2026-06-24T04:26:15+00:00"
   },
+  "d6e136d8d0910ce224025392f57c12325fa836f345add2b6ecb508b84bd47f3a": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6988900.pdf?abstractid=6988900&mirid=1",
+    "resolved_at": "2026-08-12T02:40:37+00:00"
+  },
   "d6e723b6825536ee419630cb320d1930d20e68281c0b5a1bcae7b9933baf9078": {
     "canonical_url": "https://arxiv.org/html/2607.25990",
     "resolved_at": "2026-08-06T03:32:25+00:00"
@@ -8641,7 +8693,7 @@
   },
   "e224f5e857ced2c0a3b24cb43f30bd4bcb049932561d5fa3b184f2fdbefece5e": {
     "canonical_url": "https://arxiv.org/html/2605.22604v1",
-    "resolved_at": "2026-08-04T03:33:33+00:00"
+    "resolved_at": "2026-08-12T02:40:52+00:00"
   },
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "canonical_url": "https://www.abc.net.au/pacific/programs/pacificbeat/pacific-beat/106905972",
@@ -8797,7 +8849,7 @@
   },
   "e51c8b1c68324c5f4494457119f06fd732bd64ea9ca41d8198bceeb67c9748ee": {
     "canonical_url": "https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
-    "resolved_at": "2026-08-02T03:49:44+00:00"
+    "resolved_at": "2026-08-12T02:41:03+00:00"
   },
   "e521aca1471b0b3b37609292969b1abca7471d863dbaa7c679548dca30097c5b": {
     "canonical_url": "https://www.bbc.co.uk/sounds/play/m002xzly",

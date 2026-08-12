@@ -6120,6 +6120,34 @@
     ],
     "word_count": 17
   },
+  "1ee68fe682857c8a2084056ab8ddd103b37b7460343dc30922fd57bbd6867731": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 50
+  },
   "1efc1b0718f3be49d4f2be740df1d8cc341cef4020d14fbc95d3c8d2c003ae83": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9287,6 +9315,56 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2081
+  },
+  "2f012e1c9927fb2f1437e49344b3d65d6da18fbdae027e135c558411c9d8f9f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 0
+  },
+  "2f0b2d8d1b5b8d29d50a1476c5bdf2668c1144d24808bf19d9069c050f31be31": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Pipelines [DEPRECATED] List Pipelines Deprecated client.pipelines. list ( PipelineListParams { account_id , page , per_page , search } params , RequestOptions options ? ) : PipelineListResponse { result_info , results , success } GET /accounts/{account_id}/pipelines [DEPRECATED] Get Pipeline Deprecated client.pipelines. get ( string pipelineName , PipelineGetParams { account_id } params , RequestOptions options ? ) : PipelineGetResponse { id , destination , endpoint , 3 more } GET /accounts/{account_id}/pipelines/{pipeline_name} [DEPRECATED] Create Pipeline Deprecated client.pipelines. create ( PipelineCreateParams { account_id , destination , name , source } params , RequestOptions options ? ) : PipelineCreateResponse { id , destination , endpoint , 3 more } POST /accounts/{account_id}/pipelines [DEPRECATED] Update Pipeline Deprecated client.pipelines. update ( string pipelineName , PipelineUpdateParams { account_id , destination , name , source } params , RequestOptions options ? ) : PipelineUpdateResponse { id , destination , endpoint , 3 more } PUT /accounts/{account_id}/pipelines/{pipeline_name} [DEPRECATED] Delete Pipeline Deprecated client.pipelines. delete ( string pipelineName , PipelineDeleteParams { account_id } params , RequestOptions options ?",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 7366
   },
   "2f237cf6569c43d22b0e2ae351f0658116fd55fde4ea95726b61fa028911036e": {
     "access_status": "available",
@@ -12700,7 +12778,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Rethinking Fraud Safety Evaluation: Multi-Round Attacks Reveal Safety\u2013Utility Tradeoffs in Graph-Context LLM Defenders Laura Jiang Curtin University 22742957@curtin.edu.com.au Reza Ryan Curtin University reza.ryan@curtin.edu.au Qian Li Curtin University Qli@curtin.edu.au Nasim Ferdosian Curtin University nasim.ferdosian@curtin.edu.au Abstract Single-turn safety evaluation is a poor proxy for real fraud defense, where attackers escalate across multiple rounds. This paper evaluates fraud defenders under replay and adaptive multi-round attacks and measures when a defender refuses, not just whether it eventually refuses. On a frozen multi-round suite built from Fraud-R1, graph-context defenders improve early safe refusal relative to text-only baselines under both replay and adaptive fraud pressure, but they also produce substantially more benign over-refusal. Direct probing of the trained graph encoder, together with paired shuffle-risk ablations on both fraud and benign sides replicated across two seeds on the Qwen-1.5B backbone, localises this cost to how the defender LLM consumes structured context rather than to graph-encoder quality: the encoder cleanly separates fraud from benign, while the LLM responds primarily to the presence of structured graph fields and only secondarily, and asymmetrically, to risk-score magnitude....",
     "cache_version": 8,
-    "checked_at": "2026-08-04T03:34:25+00:00",
+    "checked_at": "2026-08-12T02:41:35+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "payment fraud",
@@ -15404,7 +15482,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Watermark Forensics for Generative Models An Information-Theoretic Perspective Xiaoyu Li 1 Zheng Gao 1 Xiaoyan Feng 2 Jiaojiao Jiang 1 Yulei Sui 1 Jiankun Hu 1 1 University of New South Wales 2 Griffith University {xiaoyu.li2, zheng.gao1, jiaojiao.jiang, yulei.sui}@unsw.edu.au xiaoyan.feng@griffithuni.edu.au j.hu@adfa.edu.au Abstract. A watermark in a generative model\u2019s output is normally asked only whether a text is machine-made. The same mark can do more: attribute it to the user who produced it, extract a hidden payload, or localize the part that survives editing. These form a forensic ladder, and we ask what each rung costs in the sample length n n . A single object organizes the answers. Let S S be the secret the mark carries (a user\u2019s identity, a payload), and let the information profile \u03bd \u200b ( t ) = I \u200b ( S ; X t \u2223 X < t ) \\nu(t)=I(S;X_{t}\\mid X_{ 0 h>0 ; the Shannon\u2013McMillan\u2013Breiman theorem is the only source hypothesis. To our knowledge this is the first tight h h -rate for multi-user attribution. Achievability is a surprisal-threshold decoder, and its threshold is forced , not tuned: an innocent key matches the observed text only with probability p nat \u200b ( X ) = e \u2212 \u0131 \u200b ( X ) p_{\\mathrm{nat}}(X)=e^{-\\imath(X)} , where \u0131 \u200b ( X ) = \u2212 log \u2061 p nat \u200b ( X ) \\imath(X)=-\\log p_{\\mathrm{nat}}(X) is the realized surprisal, so...",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:12+00:00",
+    "checked_at": "2026-08-12T02:41:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -17232,6 +17310,35 @@
     ],
     "word_count": 23385
   },
+  "51412c1aa8ee667065d8b7fc79b0aec178f798635915b66272869f808815cfbb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 0
+  },
   "5186efe68abdf24abcd0e71d654c4461cf9c493caa1fb9ea85883fdbcf2cdb89": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17673,6 +17780,50 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "52d95bbdb341cefb2a6aefadf944449136100d9913763e7fba113d4c414a073b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "iStock/Rest of World By Soumya Gupta 10 June 2026 Take a moment to think about your day: How many things did you do online? Perhaps you made a call or two via WhatsApp. You sent at least one WhatsApp text. You might have looked up a restaurant, office, or other location on Google Maps, perhaps run a Google search, and used Gmail to send an email. You might have built a shopping cart on Amazon after spotting a brand while scrolling Instagram. Along the way, you may have forgotten to book an Uber, until a WhatsApp message reminded you \u2013 \u201cwhere are you?\u201d Big Tech companies are increasingly running our lives. We rely on the apps for many, if not most, of our basic tasks. And the result is that we trust them to give us the right information, connect to our loved ones, bring us things securely, and get us places safely. That is a lot of trust placed in a very small group of private, profit-driven companies. What happens if they are incorrect?",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 5326
   },
   "52f80880156189aea40a9ec9f8fc795050ee15db4838e6d762d705469f460a51": {
     "access_status": "available",
@@ -19233,7 +19384,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:13+00:00",
+    "checked_at": "2026-08-12T02:41:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -23159,7 +23310,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-04T03:34:17+00:00",
+    "checked_at": "2026-08-12T02:41:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -23713,6 +23864,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1579
+  },
+  "6e9deddd98dccf556fc4181a5dbb62d400f7228e6dbd11dc872d623674a900e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 0
   },
   "6ef256cb8ac08afa9444cba91801f73d2c1a650720be5f208a3cd68969fbcbd1": {
     "access_status": "available",
@@ -29850,7 +30027,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-03T03:51:24+00:00",
+    "checked_at": "2026-08-12T02:41:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -31219,9 +31396,9 @@
   "91a91fcde455e97c61abf7db0fb19caaa674845beb7739bf66429e80c46ddb68": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
-    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu 1 Yitong Li 1 Haoren Zhao 1 Yaoxiang Bian 1 Jianan Ma 1,2 Jian Zhang 1 Jialuo Chen 3,2 Xinhao Deng 4,2,\u2020 Zhen Wang 1,\u2020 1 Hangzhou Dianzi University 2 Ant Group 3 Zhejiang University 4 Tsinghua University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate 11 state-of-the-art agents, including Gemini 3 Pro and...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu Yitong Li Haoren Zhao Yaoxiang Bian Jianan Ma Affiliation: Ant Group Jian Zhang [3pt] Jialuo Chen Affiliation: Ant Group Affiliation: Zhejiang University Xinhao Deng Affiliation: Ant Group Affiliation: Tsinghua University Zhen Wang [7pt] Hangzhou Dianzi University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate...",
     "cache_version": 8,
-    "checked_at": "2026-08-04T03:34:18+00:00",
+    "checked_at": "2026-08-12T02:41:31+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -31248,7 +31425,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 21814
+    "word_count": 21809
   },
   "91b6e3dbe79278e970bb83e5dfe563842d5488d4718c1cada875b9d19c7c4481": {
     "access_status": "available",
@@ -31362,7 +31539,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Innovations in Cardless Artificial Intelligence Banking: A Comprehensive Framework for Cyber Secure and Fraud Mitigation using Machine Learning Algorithms Md Israfeel, Abstract The advent of cardless Artificial intelligence (AI) banking heralds a paradigm shift in the financial landscape, offering users unprecedented security and convenience. This paper outlines a comprehensive framework designed to elevate cyber security, introduce auto-generated virtual cards, and mitigate fraud risks within cardless AI banking systems. The framework envisions the future banking architecture, employing AI-powered data cryptography to create secure virtual cards for seamless transactions. By emphasizing the importance of secure communication channels, it ensures the integrity of financial activities among the bank system, cardholders, and third-party vendors. AI-based authorization methodologies play a pivotal role in authenticating each transaction while proactively identifying potential fraud, showcasing the framework\u2019s efficacy in fortifying cardless AI banking security. The initial approach, featuring an AI-driven, feature-based banking system, ensures the generate of virtual cards with encrypted data, minimizing information exposure and reducing fraud risks. Integrating a machine learning algorithm adds an extra layer of protection...",
     "cache_version": 8,
-    "checked_at": "2026-08-04T03:34:22+00:00",
+    "checked_at": "2026-08-12T02:41:31+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -33719,6 +33896,53 @@
       "victim"
     ],
     "word_count": 365
+  },
+  "9e0889fe2d08d790d6c1e7b78800ec7526dda33ac9787a0b7fab8107a544cf6c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "These seaside apartments were a ghost city - then police say scammers moved in 3 hours ago Share Save Add as preferred on Google Gavin Butler Forest City, Malaysia Scammers busted in Southeast Asia's biggest ghost town From a distance, Malaysia's Forest City looks 3D-printed: a bristle of identical white blocks clustered on an otherwise unremarkable coastline. When it was unveiled by Chinese developers in 2016, the $100bn mega-project was pitched as \"a dream paradise for all mankind\": a special financial zone that could house some 700,000 residents. But a decade later, this 14-sq-km (3,400-acre) artificial island on Singapore's doorstep is thought to be inhabited by less than 1% of that. Rows of eerily vacant skyscrapers loom over quiet streets. Inside empty apartments, benchtops and windows are filmed with dust. \"In 2016 they described it here like the golden city; very, very beautiful,\" says Jason Deng, a 56-year-old investor who was among the first to buy in Forest City, paying \"a lot of money\" for five properties. \"If I had known it was not so good I would not have bought so many apartments,\" he says now. \"I thought it would be much, much better.\" As it turns out, this is only a golden city for some people \u2013 and they're not the ones developers had hoped to attract. In mid-July, Malaysian police raided two alleged scam operations spread across 32 premises in Forest City...",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 5198
   },
   "9e0ee5c1a8765fa8f8920103dd3547bf711fd0d0f2271a70d0e942d87ff93843": {
     "access_status": "available",
@@ -37712,7 +37936,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-04T03:34:30+00:00",
+    "checked_at": "2026-08-12T02:41:41+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -49016,6 +49240,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1122
   },
+  "e0b22454006513a8f37b92c1b768f3c441e28db59f3bec364e3a85ad9b5caea8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "e132efb0434e9b15facddb5224f0d39b837a1becf8cae6ef2920167be0defdad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -54744,6 +54992,30 @@
       "vulnerability"
     ],
     "word_count": 18320
+  },
+  "fc44ed9e24a7ba700bc32401b2f76f97673a67fff83c24067d3e5d9d78cefc98": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-12T02:41:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "fc490886455549da34da999884416c7324b0ca8e36c254b3b7b696fd43ebca80": {
     "access_status": "available",
