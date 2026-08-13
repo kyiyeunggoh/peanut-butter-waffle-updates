@@ -1021,6 +1021,43 @@
     ],
     "word_count": 2652
   },
+  "04c25bd5612bb9ca4524f90712bc98d0181d0d095ede88fc89571ec351b9d858": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Speaking succinctly and methodically, his accent rich with Spanish inflections, he told me about an experiment he had carried out in his lab at Columbia on the brains of mice, and specifically on that part of the cortex that responds to vision. His mentor had been the Swedish neuroscientist Torsten Wiesel, who won a Nobel Prize for his research into how our visual systems process information. \u201cHe discovered by chance that the strongest stimulus is a pattern of high-contrast dark and light bars.\u201d He held up one hand and waved his fingers back and forth. \u201cIf you imagine my fingers were bars of light surrounded by complete blackness\u2014if I move my fingers in front of your eyes, that fires up your whole visual cortex.\u201d To begin with, they used these moving images to train the mice. The bars were projected onto a computer screen in front of them, and when they moved up and down, it was a cue to take a drink from a tube of water. When they moved from side to side, they were to stop drinking. The researchers used a sophisticated laser system to monitor brain activity through the mouse\u2019s skull\u2014identifying exactly which neurons were firing when it was looking at the projected images. \u201cWe can see the neurons that are encoding the visual stimulus,\u201d Yuste explains. Having cracked this neuronal code, Yuste\u2019s group used a second holographic laser system to project a series of points inside...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 11166
+  },
   "04eadb27171891a7c1f9d3f9efbe807e47979c663c9d6a2341c46ae3a71754db": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -1781,6 +1818,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1956
+  },
+  "088377a7a6da555915a92fb13fa4944f56b2adcedc4eec3d94a28c6eb3c9c3d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:59+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "08a3650c94defeb2e7a4755b5702679fe3e2a1c8428c37db1cc77fbdce672da3": {
     "access_status": "available",
@@ -4229,7 +4300,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-05T03:29:35+00:00",
+    "checked_at": "2026-08-13T02:43:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -5754,6 +5825,35 @@
       "trust"
     ],
     "word_count": 21776
+  },
+  "1cf5bd278e49aaae57e3b980009294c663fcd240c3848b5f43a83ae050613075": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Topics as Proxies for Sociodemographics: How Conversational Context Affects LLM Answers Vera Neplenbroek Affiliation: Institute for Logic, Language and Computation, University of Amsterdam Gabriele Sarti Affiliation: Khoury College of Computer Sciences, Northeastern University Arianna Bisazza Affiliation: Center for Language and Cognition, University of Groningen {v.e.neplenbroek, raquel.fernandez}@uva.nl g.sarti@northeastern.edu a.bisazza@rug.nl Raquel Fern\u00e1ndez Affiliation: Institute for Logic, Language and Computation, University of Amsterdam Abstract When large language models (LLMs) are used in high-stakes scenarios, such as legal, medical and financial advice, even a single conversation history is enough to drive differences in outcomes between users. Prior work has demonstrated that this results in outcome disparities between sociodemographic groups, with some groups receiving more advantageous outcomes than others. In this work, we demonstrate that LLMs actually struggle to infer user sociodemographics from a single conversation history and that although there are disparities between sociodemographic groups, they are minimal in magnitude. To investigate what is the main driver of disparities between users , we compare user sociodemographics to a range of (psycho)linguistic features of conversations, including...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:PETS",
+      "institution_domain:mit.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 28952
   },
   "1d43344e35365e9b36ba63def5cf5076386e7921099a2345ded8939609227f0d": {
     "access_status": "unknown",
@@ -7576,6 +7676,40 @@
       "trust"
     ],
     "word_count": 3556
+  },
+  "26167f8023a4bc5394b1e644bf5b54b1165bc22a0e3bc22afcfd0a1a326472c9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:44:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 50
   },
   "2627d155214ccbc57d9b524052e7e4f5dc906038ee28188e733d8550ed7e46c8": {
     "access_status": "available",
@@ -11685,9 +11819,9 @@
   "39e29ac3852345fbb604ea3e06871e593926d237a43f544f44932a5597b2929f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? 1 1 1 This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Graduate School of Economics, University of Osaka.",
+    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Thanks: Graduate School of Economics, University of Osaka.",
     "cache_version": 8,
-    "checked_at": "2026-08-05T03:29:35+00:00",
+    "checked_at": "2026-08-13T02:43:58+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -11718,7 +11852,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 29422
+    "word_count": 29070
   },
   "39f07d1d0c0ba46799e6383dcab08aa638aac8bc1631fc47831f6d18fd56451f": {
     "access_status": "available",
@@ -15211,9 +15345,9 @@
   "483f7b558d7ba4ae7cc4134ccde0abb91803869824f07b157349f264c6f81026": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik, chandra}@super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.6, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology\u2014encoded in domain-specialized agents\u2014raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; and (4) a domain-specialized defense...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri Affiliation: {vivek, sunny, vipul, bhavik, chandra}@super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.6, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology\u2014encoded in domain-specialized agents\u2014raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; and (4) a...",
     "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:44+00:00",
+    "checked_at": "2026-08-13T02:43:59+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15240,7 +15374,7 @@
       "malware",
       "trust"
     ],
-    "word_count": 13793
+    "word_count": 13730
   },
   "4871b9379f6134aa1f06536be58529aef79a0e364f44ac96ca92e450171a098f": {
     "access_status": "available",
@@ -18809,7 +18943,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-03T03:51:24+00:00",
+    "checked_at": "2026-08-13T02:43:59+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -22508,9 +22642,9 @@
   "68e58787f29d843e2e59d9a59389564d490782826239de9bc185371dc4da3628": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? 1 1 1 This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Graduate School of Economics, University of Osaka.",
+    "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Thanks: Graduate School of Economics, University of Osaka.",
     "cache_version": 8,
-    "checked_at": "2026-08-05T03:29:36+00:00",
+    "checked_at": "2026-08-13T02:43:58+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -22541,7 +22675,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 29422
+    "word_count": 29070
   },
   "68fb83132ac9afa74819630112f57de51d399d8e15db967832cb96c57e4870c4": {
     "access_status": "available",
@@ -26489,9 +26623,9 @@
   "7b18f105d361a304cf16eed2bb20ca4f599886b7769f16f6734e4ea40f019ca3": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
-    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu 1 Yitong Li 1 Haoren Zhao 1 Yaoxiang Bian 1 Jianan Ma 1,2 Jian Zhang 1 Jialuo Chen 3,2 Xinhao Deng 4,2,\u2020 Zhen Wang 1,\u2020 1 Hangzhou Dianzi University 2 Ant Group 3 Zhejiang University 4 Tsinghua University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate 11 state-of-the-art agents, including Gemini 3 Pro and...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu Yitong Li Haoren Zhao Yaoxiang Bian Jianan Ma Affiliation: Ant Group Jian Zhang [3pt] Jialuo Chen Affiliation: Ant Group Affiliation: Zhejiang University Xinhao Deng Affiliation: Ant Group Affiliation: Tsinghua University Zhen Wang [7pt] Hangzhou Dianzi University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate...",
     "cache_version": 8,
-    "checked_at": "2026-08-05T03:29:35+00:00",
+    "checked_at": "2026-08-13T02:43:56+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -26518,7 +26652,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 21814
+    "word_count": 21809
   },
   "7b1db82a773407eb7e1680119d57c42bdd6ed6902126fa1dc67691cd5595e33d": {
     "access_status": "available",
@@ -26799,6 +26933,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "7be29d3eaddfb9127176234ab11cb4e1e5628e5d100f7d27a08def6a9c38fe6e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In reality, it happens when we push remarkably clever, but also kind of boneheaded, algorithms to follow our every command. I was first alerted to this looming agentic AI cybersecurity shit show in late 2025. Dawn Song, a UC Berkeley professor and one of the world\u2019s top experts on AI and cybersecurity, grabbed my arm as I was walking out of the academic conference NeurIPS. Song told me that I should warn people about the havoc likely to result from AI\u2019s rapidly advancing hacking skills. She is hardly prone to AI hype, so I duly did . But things have escalated rapidly, even in the last eight months. A string of incidents involving freewheeling AI agents that broke out of their confines and hacked into outside systems with abandon shows just how powerful this technology has become. I caught up with Song, who recently joined Meta, to ask where things might go next and what we ought to do about it. The bad news is Song thinks AI hacks will get worse before they get better. The good news is it seems clear why these little rascals are going off the rails in the first place.",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 2969
   },
   "7bec0910fef05fc8527cc6c13b3ad196c0582e83832ddb06a15dc4b5a364d01f": {
     "access_status": "available",
@@ -28425,6 +28598,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3036
+  },
+  "81fda5c8f6f4ee03928a01c3e95b88f0be7344120c4a7cd2c6ba4984c809eff1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Fairness for Unobserved Characteristics: Insights from Technological Impacts on Queer Communities Conference: Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society; May 19\u201321, 2021; Virtual Event, USA Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (AIES \u201921), May 19\u201321, 2021, Virtual Event, USA ISBN: 978-1-4503-8473-5/21/05 DOI: 10.1145/3461702.3462540 CCS: Computing methodologies Machine learning CCS: Social and professional topics Sexual orientation CCS: Social and professional topics Gender CCS: Social and professional topics Computing / technology policy Nenad Tomasev email: nenadt@deepmind.com OrcID: 0000-0003-1624-0220 Affiliation: DeepMind , London , United Kingdom , Kevin R. McKee email: kevinrmckee@deepmind.com OrcID: 0000-0002-4412-1686 Affiliation: DeepMind , London , United Kingdom , Jackie Kay email: kayj@deepmind.com Affiliation: DeepMind , London , United Kingdom Alternate Affiliation: Centre for Artificial Intelligence, University College London , London , United Kingdom and Shakir Mohamed email: shakir@deepmind.com OrcID: 0000-0002-1184-5776 Affiliation: DeepMind , London , United Kingdom 2021; \u00a9 rightsretained Abstract. Advances in algorithmic fairness have largely omitted sexual orientation and gender identity. We explore queer concerns in privacy, censorship...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22146
   },
   "8201532faab64b1151fbda8928bc0645c333c5c08bf9ddbb005781f59ecbfc7f": {
     "access_status": "available",
@@ -47417,6 +47622,33 @@
     ],
     "word_count": 823
   },
+  "d7b24a36879f5a3e6954981209d31a70dcb5a24eed3fc217e19b03c3460e1a92": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But one group of academic researchers has spent years testing a different, devious approach to aviation cybersecurity. Perhaps, they suggest, a plane could be hacked the same way that spies and saboteurs have targeted other high-value, offline computers: by surreptitiously gaining physical access to one and plugging in a device designed to silently run the attackers' malicious code. Tomorrow at the Usenix Cybersecurity Conference, researchers from the University of California at San Diego and Oberlin College will present a hacking technique capable of commandeering the autopilot of a Boeing 737 to redirect its navigation or silently altering key values in the plane's takeoff and fuel calculations while spoofing the results on the pilot's screen\u2014subtle changes the researchers say could potentially cause anything from runway overruns on takeoff to diversions to a different country's airspace to catastrophic crashes. To carry out that hacking, they've built a roughly coin-sized, Wi-Fi-enabled prototype device that costs less than $100. In less than a minute, that hardware implant can be fitted into a port accessible via a hatch on the exterior of the plane, one that's routinely within reach of maintenance workers or other airport and airline staff between flights. Once it's in place, the device can send electrical signals on one of the 737's internal networks to spoof commands to...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 7262
+  },
   "d7e663d31864c67c38cf1784a3f23cf703bea9494892eb95c2093d7670a66aba": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -47547,6 +47779,49 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3307
+  },
+  "d93f7b7b3b3894302b063062e8d34cd482667f3b0d8af35e5e8f4fc41a965140": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The consultant and former Los Angeles sheriff\u2019s detective claims that two times in recent months, robbers stole pricey hardware destined for AI data centers using a confrontational new tactic. It\u2019s left the freight industry on edge. The incidents involved two different shipments of high-value technology traveling from Silicon Valley to Southern California, according to Pachuca, who says he learned about the thefts from law enforcement authorities. Each truck was tailed by private security professionals driving unmarked escort vehicles, which were supposed to ensure the goods made it to their destinations safely. But hours into one journey, another driver rear-ended the escort in a hit-and-run, forcing it to stop. In the other case, the escort stopped after another car nudged it into a tailspin, a ploy commonly known as a PIT maneuver, and then fled. Everyone familiar with the \u201caccidents\u201d believes the escorts were deliberately immobilized, according to Pachuca. Once the semitrucks lost their escorts, the drivers proceeded without halting\u2014but not to their planned destinations. They were never heard from again, Pachua says, and millions of dollars in data center gear remains unaccounted for. WIRED attempted to independently confirm Pachuca's accounts with five state and local law enforcement agencies, but could not because he shared limited information to avoid jeopardizing what...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "ransomware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 5707
   },
   "d93fea1208b570fffb48920afd1b5ff239e7b5553d3a6f2dd239df0267078355": {
     "access_status": "available",
@@ -49615,6 +49890,35 @@
       "deception"
     ],
     "word_count": 1757
+  },
+  "e2766c5bc5412b1721779529e5837313aa2705c68cf1c50333c878aed8b1455c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The company featured the Savannah Police Department in a March 2022 YouTube video . Four officers and two workers from the department were recently placed on administrative leave after an internal investigation found \u201cpotential misuses\u201d of Flock\u2019s ALPR system. Also in Georgia, the Albany Police Department was the subject of a glossy 2024 video . Five officers from the department were recently arrested and charged in connection to their alleged misuse of the technology. Flock also highlighted the Sandy Springs Police Department in a 2020 video about how the company was helping police combat so-called porch pirates. Last year, a Sandy Springs Police Department officer was terminated amid an internal investigation into alleged misuse of Flock\u2019s technology. The Baytown Police Department was featured in Flock\u2019s 2025 video about responding to a carjacking; last week, a Baytown police officer resigned amid ongoing investigations into alleged misuse of the technology. Allegations of ALPR misuse have plagued police departments across the country , including in states like Kansas , North Carolina , Ohio , and Wisconsin . In Georgia alone\u2014home to the Savannah, Albany, and Sandy Springs police departments\u2014allegations of ALPR misuse have also been reported at the sheriff\u2019s offices of Coweta County , Cherokee County , Habersham County , and Richmond County . While these incidents show that...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3948
   },
   "e291bb278f4e00da693151a2146cd43502889d1150b630019aafb51a2d65fa63": {
     "access_status": "available",
@@ -55753,6 +56057,47 @@
       "trust"
     ],
     "word_count": 32917
+  },
+  "ff09381522156558eb814b776d9ecd946a1b0a8d4596417f4bbb45b0b3f8afcc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents Longtao Guo Zelin Zhang Kaifeng Huang Yang Shi Affiliation: Tongji University Email: {longtao_guo,zelinzhang,kaifengh,shiyang}@tongji.edu.cn Abstract LLM-based web agents automate user tasks by observing webpages and executing browser actions on behalf of users. As these agents operate on real web services, login becomes a sensitive authentication boundary because it involves credentials and sensitive information. Existing work shows that malicious webpage content can manipulate web agent actions, but it has not fully examined whether such content can induce login and cause end-to-end private data leakage. We study this attack surface and present LoginTrap, a task-agnostic login-inducing attack against LLM-based web agents. LoginTrap assumes a black box attacker that controls the webpage context and the induced login flow without knowing the user task or web agent internals. Under this threat model, LoginTrap uses webpage context to generate page-specific indirect injections through a fuzzing-inspired process, making login appear as a plausible prerequisite for continuing the task and guiding the agent to a controlled login page. We conduct a comprehensive analysis of LoginTrap across realistic web agent...",
+    "cache_version": 8,
+    "checked_at": "2026-08-13T02:43:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16199
   },
   "ff1ad9d57a2bc3a7642261588bd6ffdbeb8c9db30effc2c89345d8037d3fc116": {
     "access_status": "available",
