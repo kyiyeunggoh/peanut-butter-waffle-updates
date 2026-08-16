@@ -2549,6 +2549,38 @@
       "raw_candidate_count": 6354,
       "date_filtered_candidate_count": 754,
       "ranked_unseen_candidate_count": 27
+    },
+    {
+      "date": "2026-08-16",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": true,
+      "estimated_input_tokens": 5912,
+      "estimated_output_tokens": 1100,
+      "estimated_cost_usd": 0.003128,
+      "actual_prompt_tokens": 5864,
+      "actual_output_tokens": 369,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": 6233,
+      "actual_cost_usd": 0.00202,
+      "gemini_attempts": 1,
+      "gemini_max_attempts": 3,
+      "gemini_failed_attempts": [],
+      "gemini_items_without_takeaways": [],
+      "rejected_must_include": [],
+      "mix_constraints_satisfied": true,
+      "failed_constraints": [],
+      "candidate_count": 30,
+      "shortlist_count": 7,
+      "sent_count": 2,
+      "candidate_cache_used": false,
+      "cache_fallback_used": false,
+      "cache_fallback_allowed": true,
+      "fetch_skipped": false,
+      "rss_queries_run": 120,
+      "raw_candidate_count": 6413,
+      "date_filtered_candidate_count": 757,
+      "ranked_unseen_candidate_count": 30
     }
   ]
 }
