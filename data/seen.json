@@ -770,6 +770,20 @@
       "url": "https://arxiv.org/html/2603.26520v1",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot": {
+      "article_type": "Research paper",
+      "normalised_title": "benchmarking large language models zero shot few shot phishing url detection",
+      "normalized_title_fingerprint": "benchmarking large language models zero shot few shot phishing url detection",
+      "original_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wWlNfaVFodlUtcC1pZWVGVFlKT2kyc0dSbl9YTm9LdE1NNjZ4ZkRHQzFpN2VfMWV6c1E1cEM5bzNtVEtKaXJj?oc=5",
+      "parsed_date": "2026-04-05",
+      "raw_title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "benchmarking large language models zero shot few shot phishing url detection",
+      "url": "https://arxiv.org/pdf/2602.02641",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-04-13|conversational dataset detection engineering smishing social synthetic": {
       "article_type": "Research paper",
       "normalised_title": "synthetic conversational smishing dataset social engineering detection",
@@ -1525,6 +1539,20 @@
       "title": "callscreenbench benchmarking device models phone secretaries",
       "url": "https://arxiv.org/pdf/2608.01033",
       "usefulness_category": "Product idea / data source"
+    },
+    "arxiv.org|2026-08-05|effect fine induced introspecting looking mirror misalignments side": {
+      "article_type": "Research paper",
+      "normalised_title": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "normalized_title_fingerprint": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "original_url": "https://arxiv.org/pdf/2608.04347",
+      "parsed_date": "2026-08-05",
+      "raw_title": "Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning - arXiv",
+      "same_story_key": "arxiv.org|2026-08-05|effect fine induced introspecting looking mirror misalignments side",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "url": "https://arxiv.org/pdf/2608.04347",
+      "usefulness_category": "Research / novel method"
     },
     "arxiv.org|2026-08-06|against agents agnostic attacks based indirect injection llm": {
       "article_type": "Research paper",
@@ -4142,6 +4170,18 @@
       "title": "behind blog endless scam parade",
       "usefulness_category": "Operational intelligence"
     },
+    "benchmarking large language models zero shot few shot phishing url detection": {
+      "article_type": "Research paper",
+      "normalised_title": "benchmarking large language models zero shot few shot phishing url detection",
+      "normalized_title_fingerprint": "benchmarking large language models zero shot few shot phishing url detection",
+      "parsed_date": "2026-04-05",
+      "raw_title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
+      "same_story_key": "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "benchmarking large language models zero shot few shot phishing url detection",
+      "usefulness_category": "Product idea / data source"
+    },
     "big tech big cons scammers hiding apps make your life easy": {
       "article_type": "Investigative report",
       "normalised_title": "big tech big cons scammers hiding apps make your life easy",
@@ -5268,6 +5308,18 @@
       "sent_at": "2026-08-13T02:44:06+00:00",
       "source_domain": "arxiv.org",
       "title": "logintrap uncovering task agnostic phishing style indirect prompt injection attacks against llm based web agents",
+      "usefulness_category": "Research / novel method"
+    },
+    "looking mirror introspecting side effect misalignments induced fine tuning": {
+      "article_type": "Research paper",
+      "normalised_title": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "normalized_title_fingerprint": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "parsed_date": "2026-08-05",
+      "raw_title": "Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning - arXiv",
+      "same_story_key": "arxiv.org|2026-08-05|effect fine induced introspecting looking mirror misalignments side",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "looking mirror introspecting side effect misalignments induced fine tuning",
       "usefulness_category": "Research / novel method"
     },
     "lost your crypto access code wary there\u2018s scam too": {
@@ -8992,6 +9044,18 @@
       "url": "https://www.straitstimes.com/singapore/courts-crime/unmasked-scam-kingpin-chen-zhis-top-associates-held-significant-cache-of-assets-in-singapore?ref=latest-headlines",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "63dfa921a15694374514476cfb9f044d3c713d850119351327273a31f62cfab3": {
+      "article_type": "Research paper",
+      "normalised_title": "benchmarking large language models zero shot few shot phishing url detection",
+      "normalized_title_fingerprint": "benchmarking large language models zero shot few shot phishing url detection",
+      "parsed_date": "2026-04-05",
+      "same_story_key": "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
+      "url": "https://arxiv.org/pdf/2602.02641",
+      "usefulness_category": "Product idea / data source"
+    },
     "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
       "article_type": "Investigative report",
       "normalised_title": "block spammers scammers telemarketers your phone",
@@ -10528,6 +10592,18 @@
       "url": "https://www.straitstimes.com/asia/south-asia/crackdown-in-southeast-asia-pushes-scam-networks-to-sri-lanka",
       "usefulness_category": "Operational intelligence"
     },
+    "c260164226a7ecdd92d405029e07ede2ab438f459bf14323e3e4a37badb1616f": {
+      "article_type": "Research paper",
+      "normalised_title": "benchmarking large language models zero shot few shot phishing url detection",
+      "normalized_title_fingerprint": "benchmarking large language models zero shot few shot phishing url detection",
+      "parsed_date": "2026-04-05",
+      "same_story_key": "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9wWlNfaVFodlUtcC1pZWVGVFlKT2kyc0dSbl9YTm9LdE1NNjZ4ZkRHQzFpN2VfMWV6c1E1cEM5bzNtVEtKaXJj?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "c2a7b6c01c299fcc9e3026089f1fbe1f0c27103a6402b3b07cea9d4e887b702f": {
       "article_type": "News report",
       "normalised_title": "job scams growing getting tougher spot \u2018that\u2019s reality hell job market\u2019",
@@ -11607,6 +11683,18 @@
       "title": "Facebook Ads Promote Likely Scam World Cup Group Stage Ticket Sales - Graphika",
       "url": "https://www.graphika.com/insights/facebook-ads-promote-likely-scam-world-cup-group-stage-ticket-sales",
       "usefulness_category": "Platform policy / product change"
+    },
+    "fe0b6b01f28e8c4f5e11ddebfa9000ca3f6191360eeae8981eb69b0596ef3c34": {
+      "article_type": "Research paper",
+      "normalised_title": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "normalized_title_fingerprint": "looking mirror introspecting side effect misalignments induced fine tuning",
+      "parsed_date": "2026-08-05",
+      "same_story_key": "arxiv.org|2026-08-05|effect fine induced introspecting looking mirror misalignments side",
+      "sent_at": "2026-08-17T01:53:47+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning - arXiv",
+      "url": "https://arxiv.org/pdf/2608.04347",
+      "usefulness_category": "Research / novel method"
     },
     "fe23c5f826a60f89a5d2bb74c8a510a0dc5c08a6e54e01d7eb6dbd127196406e": {
       "article_type": "Research paper",
