@@ -2147,6 +2147,35 @@
     ],
     "word_count": 2595
   },
+  "0a3cc3563324d417249cdec5df8db8f49a012d2c8238908e6f39adf6d5354599": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Stigma and Support in Online Sexual Violence Narratives on Reddit Conference: 37th ACM Conference on Hypertext; September 14\u201318, 2026; London, United Kingdom 37th ACM Conference on Hypertext (HT \u201926), September 14\u201318, 2026, London, United Kingdom DOI: 10.1145/3800935.3830853 ISBN: 979-8-4007-2564-7/2026/09 CCS: Human-centered computing CCS: Social and professional topics Gender CCS: Applied computing Shirlene Rose Bandela Affiliation: Virginia Tech , Alexandria , USA email: shirleneroseb@vt.edu , Karan Bindal Affiliation: Drexel University , Philadelphia , USA email: kb3887@drexel.edu , Vaibhav Garg Note: Both authors contributed equally. Affiliation: Virginia Tech , Alexandria , USA email: vaibhavg@vt.edu and Rezvaneh Rezapour Affiliation: Drexel University , Philadelphia , USA email: sr3563@drexel.edu 2026; \u00a9 cc Abstract. Warning: This paper discusses sexual violence and may contain material that some readers, particularly survivors, may find distressing. Online communities increasingly provide spaces where survivors of sexual violence can share their experiences and seek support. Although prior research has examined stigma and social support separately, less is known about how stigma expressed in survivor narratives relates to the support offered in response. We introduce the SCOPE dataset, linking stigma signals in online...",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 11437
+  },
   "0ab0bf677ad1c480e4bbc2fcc27bf0ca94a38e2f8f9f85d75fe0ada6af566c37": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2569,6 +2598,64 @@
       "fraud"
     ],
     "word_count": 4832
+  },
+  "0c261089170528cafc5882fa6cca24b9294458d3838516d14b76dba22c9b85eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Jack Hughes et al. \u2217 \\ast ]Corresponding author. firstname.lastname@cl.cam.ac.uk 0Year 0Year 0Year Stand-Alone Complex or Vibercrime? Exploring the adoption and innovation of GenAI tools, coding assistants, and agents within cybercrime ecosystems Jack Hughes \\ORCID 0000-0002-0730-1055 Ben Collier \\ORCID 0000-0002-9207-3068 Daniel R. Thomas \\ORCID 0000-0001-8936-0683 Abstract Existential risk scenarios relating to Generative Artificial Intelligence often involve advanced systems or agentic models breaking loose and using hacking tools to gain control over critical infrastructure. We argue that the real threats posed by generative AI for cybercrime are rather different. We apply innovation theory and evolutionary economics \u2013 treating cybercrime as an ecosystem of small- and medium-scale tech start-ups, coining two novel terms that bound the upper and lower cases for disruption. At the high end, we propose the Stand-Alone Complex, in which cybercrime-gang-in-a-box solutions enable individual actors to further automate cybercrime-as-a-service arrangements. At the low end, we suggest the phenomenon of Vibercrime, in which \u2018vibe coding\u2019 chatbot assistants lower the barrier to entry, but do not fundamentally reshape the economic structures of cybercrime.",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:cam.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [
+      "fake accounts",
+      "organised crime",
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 48402
   },
   "0c39027bbe2b0a7d91b330f008807cd4b413c004743ed159236a1f200ce3713f": {
     "access_status": "available",
@@ -4557,9 +4644,9 @@
   "15fcd96736bf8fb0a3b558abcd2de3811d93589d2f6fe7936d6e967aae9b26cd": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup \u2020 \u2020 thanks: Support by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI/EU) and PowerAI+ (SI4/PJI/2024-00062, CM/UAM). J.I. is an FPI MINECO/FEDER. Roberto Daza12, Javier Irigoyen1, Ivan Lopez1, Raquel Rodriguez-Carvajal3, Laura Gomez-Carbajo3, Julian Fierrez1, Ruben Tolosana1, and Aythami Morales14 Abstract We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human\u2013human, human\u2013AI and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronized behavioral and biometric acquisition, filtering, and deep-learning-based feature extraction. The dataset (AIriskEval-gaming-db) was collected from 15 participants who interacted with a role-conditioned GPT-5.4 agent in two concatenated games: an adapted Prisoner\u2019s Dilemma and an Ultimatum Game. It comprises 340 GB of raw and processed multimodal data across six streams: interaction logs, video, screen recordings, gaze logs, smartwatch...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup Thanks: Support by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI/EU) and PowerAI+ (SI4/PJI/2024-00062, CM/UAM). J.I. is an FPI MINECO/FEDER. Roberto Daza 1 2 , Javier Irigoyen 1 , Ivan Lopez 1 , Raquel Rodriguez-Carvajal 3 , Laura Gomez-Carbajo 3 , Julian Fierrez 1 , Ruben Tolosana 1 , and Aythami Morales 1 4 Affiliation: 1 BiometricsAI, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: 2 GHIA, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: 3 Biological and Health Psychology Department, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: 4 Universidad de Las Palmas de Gran Canaria (ULPGC), Spain Affiliation: Corresponding author: roberto.daza@uam.es Abstract We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human\u2013human, human\u2013AI and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and synchronized behavioral and biometric acquisition, filtering, and...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:43+00:00",
+    "checked_at": "2026-08-18T01:49:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -4584,7 +4671,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 8033
+    "word_count": 8091
   },
   "1634c21d26a1543df828f9ebb196d7aa65af82fe678a739ee07611cdeda151f0": {
     "access_status": "available",
@@ -8222,6 +8309,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "2784471f1302926ff96918b0ec68f958135a8ec2bcdfe1095885bba7bf067746": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "These fancy fountains don't just make our lives easier. They can also help cats stay hydrated and live healthier. Ever wonder why your cat can't resist a dripping faucet but ignores its water bowl? In the wild, cats are drawn to moving water, since stagnant puddles can house bacteria. A water fountain plays into this natural instinct, encouraging cats to drink more. These techy fountains are also often connected to an app, which sends reminders and tracks drinking habits. After prolonged testing, I now look for these three things when shopping for an automatic cat water fountain: a wireless pump for easier cleaning, stainless steel (or glass) construction so it's more hygienic, and a window to monitor water levels (especially if it's not connected to an app). I think the Petkit EverSweet Ultra with AI Camera Pet Water Fountain ($250) is the overall best cat water fountain, and the cheaper Oneisall 3.5L Cord-Free Pet Water Fountain ($40) is the best choice for most people who are on a budget. Check out our related guides like the best automatic feeders , best automatic litter boxes , our favorite fancy cat furniture , and our favorite cat toys . More of a dog person?",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 15882
+  },
   "27895939c2dc36277428f447bde6bbad93192d1d98f02a80bfbba0da32b162b0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9548,7 +9659,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:24+00:00",
+    "checked_at": "2026-08-18T01:49:18+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -18334,7 +18445,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:31+00:00",
+    "checked_at": "2026-08-18T01:49:20+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -18900,6 +19011,32 @@
       "trust"
     ],
     "word_count": 3939
+  },
+  "547ee14a25fb816d3408741a53ecd44505fb35ac03b1f2ee3defd5b4eee4dc5d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:usenix.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "548d2e008e1505d3e4474ee57894b3f9d2990878d8919779e2f3bbeb2b618720": {
     "access_status": "available",
@@ -20222,9 +20359,9 @@
   "5b710a0bd40cf462a03d794ed04d0fc032dc6366ffcc3dc57e71ad0688b7afb2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results Shuang Geng Institute for Excellence in Teaching and Learning, Boston University Helen Lallos-Harrell Department of Economics and Department of Political Science, Boston University Jiya Ashar Bioinformatics Program, Boston University Thomas J. McKenna Wheelock College of Education & Human Development, Boston University Annwesa Dasgupta Institute for Excellence in Teaching and Learning, Boston University Caleb Farny Department of Mechanical Engineering, Boston University Emma Lejeune Corresponding author: Emma Lejeune, elejeune@bu.edu Department of Mechanical Engineering, Boston University Abstract The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI usage patterns, attitudes, and verification practices, which are subsequently linked to academic...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results Shuang Geng Affiliation: Institute for Excellence in Teaching and Learning, Boston University Helen Lallos-Harrell Affiliation: Department of Economics and Department of Political Science, Boston University Jiya Ashar Affiliation: Bioinformatics Program, Boston University Thomas J. McKenna Affiliation: Wheelock College of Education & Human Development, Boston University Annwesa Dasgupta Affiliation: Institute for Excellence in Teaching and Learning, Boston University Caleb Farny Affiliation: Department of Mechanical Engineering, Boston University Emma Lejeune Thanks: Corresponding author: Emma Lejeune, elejeune@bu.edu Affiliation: Department of Mechanical Engineering, Boston University Abstract The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI...",
     "cache_version": 8,
-    "checked_at": "2026-08-08T02:19:48+00:00",
+    "checked_at": "2026-08-18T01:49:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -20244,7 +20381,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 37345
+    "word_count": 37091
   },
   "5b890a177dc7e0986109eea18472550dd3728b800300236f7e4c38ed43b4a81e": {
     "access_status": "available",
@@ -21832,7 +21969,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-07-29T03:34:59+00:00",
+    "checked_at": "2026-08-18T01:49:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -23143,9 +23280,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers. A surveillance photo of Connor Riley Moucka, a.k.a. \u201cJudische\u201d and \u201cWaifu,\u201d dated Oct 21, 2024, 9 days before Moucka\u2019s arrest. This image was included in an affidavit filed by an investigator with the Royal Canadian Mounted Police (RCMP). The U.S. Justice Department said between February and October 2024, Moucka and co-conspirators used stolen login credentials to steal cloud-hosted data belonging to at least 165 customers of a U.S.-based software-as-a-service company. The hackers targeted stolen credentials for Snowflake customer accounts that did not enforce multi-factor authentication, and extorted or attempted to extort a host of well-known companies, including TicketMaster, Lending Tree, Advance Auto Parts and Neiman Marcus. Snowflake responded to the data thefts by increasing password complexity requirements and enforcing multi-factor authentication. Moucka adopted new nicknames frequently \u2014 sometimes operating multiple identities concurrently \u2014 but two of his best-known monikers were \u201c...",
+    "article_excerpt": "It can be daunting to determine who\u2019s responsible for showing ads on the websites we visit, or who\u2019s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you. A Decryptads summary of the advertising partnerships declared by espn.com. The newly launched decryptads.com says it is constantly scraping the files that websites and apps make publicly available to disclose the companies that are permitted to run ads or collect user data. These files include: \u2013 ads.txt : all of the adtech companies and data brokers that may run ads or harvest data from the site; \u2013 app-ads.txt : entities that can harvest data from or display ads on mobile and smart TV apps; \u2013 buyers.json/sellers.json : the entities buying, selling or reselling ad inventory for a given site or app. Zach Edwards is chief research officer for DecryptAds and a threat researcher at the security company Infoblox . Edwards said he and two other founders decided the service was needed because the adtech data in these files is generally only useful when it can be...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:24+00:00",
+    "checked_at": "2026-08-18T01:49:18+00:00",
     "direct_relevance_terms_found": [
       "account takeover"
     ],
@@ -23178,10 +23315,9 @@
       "malware",
       "ransomware",
       "cybercrime",
-      "fraud",
-      "identity"
+      "fraud"
     ],
-    "word_count": 10642
+    "word_count": 10280
   },
   "68b69ab0ab96e8b95cfac3909dc5c8d45a5b8299313bb43c6835b70114836a3c": {
     "access_status": "available",
@@ -24152,7 +24288,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:36+00:00",
+    "checked_at": "2026-08-18T01:49:21+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -30180,6 +30316,37 @@
     ],
     "word_count": 3741
   },
+  "84e90006db353b98cced7b0377480a1636d73fcfe0fe493a00ea2972cd0a7120": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: In-context learning for the classification of manipulation techniques in phishing emails Antony Dalmiere OrcID: 0009-0009-0019-112X Affiliation: CNRS, LAAS, 7 avenue du colonel Roche, F-31400, E-mail [firstname.lastname]@laas.fr Guillaume Auriol OrcID: 0009-0001-2775-5345 Affiliation: CNRS, LAAS, 7 avenue du colonel Roche, F-31400, E-mail [firstname.lastname]@laas.fr Affiliation: Universit\u00e9 de Toulouse, INSA, LAAS, F-31400 Vincent Nicomette OrcID: 0000-0001-9482-004X Affiliation: CNRS, LAAS, 7 avenue du colonel Roche, F-31400, E-mail [firstname.lastname]@laas.fr Affiliation: Universit\u00e9 de Toulouse, INSA, LAAS, F-31400 Pascal Marchand OrcID: 0000-0002-4190-8213 Affiliation: LERASS, Universit\u00e9 of Toulouse, France E-mail pascal.marchand@iut-tlse3.fr Abstract Traditional phishing detection often overlooks psychological manipulation. This study investigates using Large Language Model (LLM) In-Context Learning (ICL) for fine-grained classification of phishing emails based on a taxonomy of 40 manipulation techniques. Using few-shot examples with GPT-4o-mini on real-world French phishing emails (SignalSpam), we evaluated performance against a human-annotated test set (100 emails). The approach effectively identifies prevalent techniques (e.g., Baiting, Curiosity Appeal, Request For Minor Favor) with a promising accuracy of 0.76. This...",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:Network and Distributed System Security Symposium"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 13036
+  },
   "84f2b78cab738f266e5586cd1b8875cd4752c63a1bb12298f756c58c72c183d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -31479,7 +31646,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:36+00:00",
+    "checked_at": "2026-08-18T01:49:21+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "messaging scam"
@@ -34175,6 +34342,34 @@
     ],
     "word_count": 3050
   },
+  "98387ec7ce14786d120883b69864431a677094d721e805c2b262e7749d4a1f0c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "\u201cThere was one person who stood up, and they said, \u2018Well, what if we just want to make a minor bet on what turnout will be, that'll keep things interesting?\u2019 And we said: \u2018No, this is all bad,\u2019\u201d Allen, who oversees 383 precincts, recounts. As a result, Allen and the board of elections in Delaware County amended the oaths signed by people involved in elections to include \u201can affirmation that the workers have no direct or indirect interests in any bets, wagers, or prediction markets.\u201d Some 2,500 people, including everyone from full-time staff in the elections office to temporary employees helping process ballots on Election Day, have signed the oath ahead of November\u2019s midterms. \u201cThe rapid growth of prediction markets, and their plans to prey on elections, are direct threats to undermining trust in electoral outcomes,\u201d Allen tells WIRED. \u201cThe overriding concern is that prediction markets have the potential to monetize a reward for manipulating results and, equally concerning, capitalizing on the anger and frustration by those who lose in these prediction markets.\u201d Increased Threats With less than 100 days left until the midterms, and with President Donald Trump and members of his administration working overtime to undermine trust in American democracy , WIRED spoke to election officials across the country struggling to get their heads around how prediction markets could further...",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 6651
+  },
   "985a7b8543c8148680bb9ff56a39faa7f7907055e3dc6f83f3b3e7faff47c77a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34414,29 +34609,69 @@
   },
   "9919273dee1797d2bb73833dba536e4e4553341402e0d53cb34844ddd7d7edde": {
     "access_status": "available",
-    "anti_scam_relevance": "weak",
-    "article_excerpt": "",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\runningheads Carr, Chowdhury, Wani, ChiassonUnderstanding Human and Interface Design Factors in Canadian Cybercrime Reporting \\conference \\authorone Charlotte Carr, Ananta Chowdhury, Asra Sakeen Wani, Sonia Chiasson Carleton University, Canada ; {AnantaChowdhury, AsraSakeenWani, SoniaChiasson}@cunet.carleton.ca Understanding Human and Interface Design Factors in Canadian Cybercrime Reporting Abstract Cybercrime affects a majority of Canadians, yet most incidents go unreported. We conducted two studies to examine the factors influencing cybercrime reporting and the role of interface design in victims\u2019 reporting experiences. Our survey provides individual-level insights into the persistent gap in cybercrime reporting in Canada, showing how perceived incident severity and personal characteristics shape reporting behaviour. Our usability study compared reporting with an AI chatbot to an online form; chatbots facilitated more complete reports and led to higher user satisfaction, highlighting how interface design impacts reporting outcomes. keywords Cybercrime reporting, User interface, User study 1 Introduction In 2022, 70% of Canadians experienced a cybersecurity incident ( 35 ) , whereas only 4.6% of these crimes were reported to a government authority ( 9 ) . In 2024, Canadians lost over $638 million to fraud, with just 5-10%...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:36+00:00",
-    "direct_relevance_terms_found": [],
-    "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "checked_at": "2026-08-18T01:49:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "monetary loss",
+      "fake job",
+      "fake investment",
+      "romance scam",
+      "phone scam",
+      "phishing site",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "monetary loss",
+      "fake job",
+      "fake investment",
+      "romance scam",
+      "phone scam",
+      "phishing site",
+      "online fraud"
+    ],
+    "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "irrelevant_or_adjacent",
-    "research_relevance_score": -60,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [],
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "monetary loss",
+      "fake job",
+      "fake investment",
+      "romance scam",
+      "phone scam",
+      "phishing site",
+      "online fraud"
+    ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
-      "cybercrime"
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
     ],
-    "word_count": 0
+    "word_count": 20951
   },
   "997fada44976a5b525a38c85fdb4d5109c4dac9256f49a8a14f5637e61aabb0c": {
     "access_status": "available",
@@ -40649,7 +40884,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:36+00:00",
+    "checked_at": "2026-08-18T01:49:20+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -45344,9 +45579,9 @@
   "c857723e77bbc35151106cb4e0d1d92e1100346e642b76037d3949c2c58d5702": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:42+00:00",
+    "checked_at": "2026-08-18T01:49:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -45365,7 +45600,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 50
+    "word_count": 54
   },
   "c880a78e45427e80e3559ec8a46bd485e68eac0bc3e8523a9e0ce70cf7779935": {
     "access_status": "available",
@@ -46114,6 +46349,46 @@
     ],
     "word_count": 883
   },
+  "cafc7f6fd49ab06337913fbe73bb9f94bb627dd247d9e7164f669fc3fbb21c3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Revolutionizing Finance with LLMs: An Overview of Applications and Insights Huaqin Zhao, Zhengliang Liu, Zihao Wu, Yiwei Li, Tianze Yang, Peng Shu, Shaochen Xu, Haixing Dai, Lin Zhao, Hanqi Jiang, Yi Pan, Junhao Chen, Yifan Zhou, Wei Ruan, Zheyuan Zhang, Zeyu Zhang, Ruitong Sun, Gengchen Mai, Ninghao Liu, Tianming Liu \u2020 \\dagger Thanks: $\u2020$Corresponding authors: Tianming Liu Thanks: Huanqin Zhao, Zhengliang Liu, Zihao Wu, Yiwei Li, Tianze Yang, Peng Shu, Shaochen Xu, Haixing Dai, Lin Zhao, Hanqi Jiang, Yi Pan, Junhao Chen, Yifan Zhou, Wei Ruan, Ruitong Sun, Ninghao Liu, Tianming are with the School of Computing, The University of Georgia, Athens 30602, USA. Zheyuan Zhang is with the Northwestern University. Zeyu Zhang is with the Computer Science and Engineering, The University of Texas at Arlington, Arlington, TX, USA. Gengchen Mai is with the Department of Geography, University of Georgia, Athens 30602, USA. Abstract In recent years, Large Language Models (LLMs) like ChatGPT have seen considerable advancements and have been applied in diverse fields. Built on the Transformer architecture, these models are trained on extensive datasets, enabling them to understand and generate human language effectively. In the financial domain, the deployment of LLMs is gaining momentum. These models are being utilized for automating...",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud",
+      "ai-powered fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud",
+      "ai-powered fraud"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud",
+      "ai-powered fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 22826
+  },
   "cb09457e31b4c8c76222df6ff89cb146d4461e37d744cb5bd9e59d2fbddf6113": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -46312,6 +46587,30 @@
     ],
     "word_count": 23363
   },
+  "cb8b78fef36fa074ad35d7f0318a3e492d4d4c36ee6e3b959cd81f75064e3580": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u201cNot super intelligent, but very emotional, very easy to make friends with,\u201d says Bartosz Idzik, the person who created him. But when he doesn\u2019t talk, it\u2019s harder to forget what Warchocki really is: a 4-foot-tall humanoid robot that\u2019s wandering the city streets of Poland. Six months ago, Idzik and his friend Rados\u0142aw Grzelaczyk had the idea of buying a humanoid robot from China. They named it \u201cEdward Warchocki\u201d after Grzelaczyk\u2019s dog Eddie and the Polish word for growling, \u201cwarcze\u0107,\u201d but also because it sounds like a passable name for a Pole. The first few days they took Edward out, it couldn\u2019t speak, and people were clearly scared of it. Then Idzik, a software developer, wired Edward to a large language model that made it capable of having live conversations in Polish. \u201cWhen he started to talk, people loved him. Without talking, it\u2019s just a 40-kilogram machine,\u201d Idzik says. Edward soon made lots of friends. It visited the Polish parliament and talked to politicians, hiked up mountains and waded in the lake, and was jokingly arrested by the police.",
+    "cache_version": 8,
+    "checked_at": "2026-08-18T01:49:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4383
+  },
   "cbd9de51fe93f764de6c660e793116dae90a39f3c9eb12fc64e5ed40a18f50af": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -46486,9 +46785,9 @@
   "cc319789ace0322e36e98cd6353363cf62046a49187ae91901e24fdd04a5cee3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: The Impact of Security and Privacy Controls on Users\u2019 Emotional Engagement with Generative AI Chatbots Jabari Kwesi Duke University Jiaxun Cao Duke University Hailee Cunningham Duke Kunshan University Pardis Emami-Naeini Duke University Abstract Chatbots powered by generative AI (e.g., OpenAI\u2019s ChatGPT and Google\u2019s Gemini) are increasingly being appropriated for emotional support and companionship. These tools offer a suite of security and privacy (S&P) controls, including model training opt-outs and memory toggles, yet how the presence of these controls influences users\u2019 attitudes toward emotionally sensitive disclosure remains understudied. We conducted a mixed-methods vignette study with 354 U.S. participants to examine how S&P controls influence users\u2019 willingness to engage with generative AI chatbots for emotional support, their perceptions of how protected they are when using these systems, and their perceptions of how effective the chatbots are for providing support. Controls enabling deletion of disclosures had the largest positive impact: these offerings outperformed technically sophisticated controls such as local-only processing and model training opt-outs, where participants expressed difficulty understanding the underlying mechanisms. Yet trust remains fragile, and participants often doubted S&P controls would...",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Impact of Security and Privacy Controls on Users\u2019 Emotional Engagement with Generative AI Chatbots Jabari Kwesi Affiliation: Duke University Jiaxun Cao Affiliation: Duke University Hailee Cunningham Affiliation: Duke Kunshan University Pardis Emami-Naeini Affiliation: Duke University Abstract Chatbots powered by generative AI (e.g., OpenAI\u2019s ChatGPT and Google\u2019s Gemini) are increasingly being appropriated for emotional support and companionship. These tools offer a suite of security and privacy (S&P) controls, including model training opt-outs and memory toggles, yet how the presence of these controls influences users\u2019 attitudes toward emotionally sensitive disclosure remains understudied. We conducted a mixed-methods vignette study with 354 U.S. participants to examine how S&P controls influence users\u2019 willingness to engage with generative AI chatbots for emotional support, their perceptions of how protected they are when using these systems, and their perceptions of how effective the chatbots are for providing support. Controls enabling deletion of disclosures had the largest positive impact: these offerings outperformed technically sophisticated controls such as local-only processing and model training opt-outs, where participants expressed difficulty understanding the underlying mechanisms. Yet trust remains fragile...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:29+00:00",
+    "checked_at": "2026-08-18T01:49:19+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -46498,12 +46797,14 @@
     "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
-    "press_release_or_sponsored": false,
+    "press_release_or_sponsored": true,
     "quality_checked": true,
     "rejection_reason": null,
     "research_relevance_category": "llm_adverse_use_benchmark",
     "research_relevance_score": 55,
-    "research_reputation_signals": [],
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
       "financial fraud"
@@ -46516,7 +46817,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 23074
+    "word_count": 26476
   },
   "cc71bfe475597c7699e7a0e78323a02002f8d49826a3b1a72f547e45777eb3fd": {
     "access_status": "available",
@@ -49431,9 +49732,9 @@
   "d9d6b260def9dad3b1c74403dde244ced9c06e2c45a7a575392e79423b0db832": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Toward Resilient Human\u2013AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading Failures Md Foysal Ahmed, Isaac Kobby Anni, Md Main Uddin Rony Bowling Green State University Bowling Green Ohio USA mdfoysa@bgsu.edu, isaacka@bgsu.edu, mrony@bgsu.edu (2026) Abstract. As AI systems become increasingly integrated into consequential domains such as healthcare, journalism, education, scientific research, organizational decision-making, and defense, effective human-AI collaboration has emerged as a critical challenge. However, the sociotechnical risks that undermine collaboration are often studied in isolation, obscuring the recurring failure mechanisms that cut across domains. This paper presents a lifecycle-oriented synthesis of human-AI collaboration risks spanning four stages: task allocation, interaction, feedback, and adoption. Drawing on evidence from diverse application domains, we identify six recurring cross-domain risk clusters: Trust Miscalibration, Cognitive Burden, Accountability Gap, Capability Erosion, Goal Misalignment, and AI Anxiety and Technostress. We further propose a conceptual interaction model that illustrates how these risks emerge from sociotechnical drivers, interact through cascading pathways, and ultimately affect team performance and human well-being. Our analysis shows that many...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Toward Resilient Human\u2013AI Collaboration: A Lifecycle Taxonomy of Sociotechnical Risks and Cascading Failures Conference: ACM Conference on Human\u2013AI Complementarity and Alignment; September 27\u201330, 2026; Washington, DC, USA Md Foysal Ahmed, Isaac Kobby Anni, Md Main Uddin Rony Affiliation: Bowling Green State University , Bowling Green , Ohio , USA email: mdfoysa@bgsu.edu, isaacka@bgsu.edu, mrony@bgsu.edu 2026; \u00a9 , 2026 Abstract. As AI systems become increasingly integrated into consequential domains such as healthcare, journalism, education, scientific research, organizational decision-making, and defense, effective human-AI collaboration has emerged as a critical challenge. However, the sociotechnical risks that undermine collaboration are often studied in isolation, obscuring the recurring failure mechanisms that cut across domains. This paper presents a lifecycle-oriented synthesis of human-AI collaboration risks spanning four stages: task allocation, interaction, feedback, and adoption. Drawing on evidence from diverse application domains, we identify six recurring cross-domain risk clusters: Trust Miscalibration, Cognitive Burden, Accountability Gap, Capability Erosion, Goal Misalignment, and AI Anxiety and Technostress. We further propose a conceptual interaction model that illustrates how these risks emerge from...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:28+00:00",
+    "checked_at": "2026-08-18T01:49:21+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -49455,7 +49756,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 17671
+    "word_count": 16407
   },
   "d9de5b2782c956e846fc276e4fab4fabb17086cb1a0f8661d78a47961d0c353d": {
     "access_status": "available",
