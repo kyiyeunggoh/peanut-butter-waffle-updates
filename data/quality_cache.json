@@ -2321,6 +2321,43 @@
     ],
     "word_count": 3309
   },
+  "0b28720a66ecff3e5491f1315960f44abc4b550f8e4f5917678ee325c6dc6fc6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Benchmarking Identity-Sensitive LLM Outputs for Surveillance and Security Robots Nneka Hyman Affiliation: Hunter College, City University of New York New York, United States nneka.hyman81@myhunter.cuny.edu Jasmine Khan Affiliation: Hunter College, City University of New York New York, United States jasmine.khan09@myhunter.cuny.edu Raj Korpan Affiliation: Hunter College & The Graduate Center, City University of New York New York, United States raj.korpan@hunter.cuny.edu Abstract Large language models (LLMs) are increasingly used to generate textual robot design specifications, interaction policies, and risk assessments during early-stage robot development. Such outputs may influence how surveillance and security robots are conceptualized, documented, and ultimately implemented. This paper evaluates whether identity-conditioned prompts produce systematic differences in LLM-generated surveillance and security robot design descriptions. Using 236 demographic identity labels across single-label and model-augmented prompt conditions, we analyze readability as an initial benchmark for evaluating accessibility and identity-conditioned variation in generated robot design descriptions. The results show significant differences in readability across prompt conditions, design dimensions, and demographic identities. Although readability...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 8226
+  },
   "0b44fa6bf7bc646d0e3942d63ebc869bd56af90f98923a7f2651b703cdf6b7a4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -8405,6 +8442,35 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "27db03d9edb81acec0dc3891d95b954d7a14468175b49dd85eecf356fa20f503": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Memory-Aware Denial-of-Service Attacks on Shared Cache in Multicore Real-Time Systems Thanks: This research is supported in part by NSF CNS 1718880, CNS 1815959, and NSA Science of Security initiative contract #H98230-18-D-0009. Michael Bechtel Heechul Yun Affiliation: University of Kansas, USA. Affiliation: {mbechtel, heechul.yun}@ku.edu Abstract In this paper, we identify that memory performance plays a crucial role in the feasibility and effectiveness for performing denial-of-service attacks on shared cache. Based on this insight, we introduce new cache DoS attacks, which can be mounted from the user-space and can cause extreme worst-case execution time (WCET) impacts to cross-core victims\u2014even if the shared cache is partitioned\u2014by taking advantage of the platform\u2019s memory address mapping information and HugePage support. We deploy these enhanced attacks on two popular embedded out-of-order multicore platforms using both synthetic and real-world benchmarks. The proposed DoS attacks achieve up to 111X WCET increases on the tested platforms. Index Terms: Denial-of-Service Attack, Shared Cache, Multicore, Hugepage, Memory Address Mapping I Introduction Multicore computing platforms are increasingly used in safety-critical cyber-physical systems such as self-driving cars and drones. However, in a multicore platform, a task\u2019s...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability"
+    ],
+    "word_count": 11706
+  },
   "2828a085358ff3db6beee07559e7aa5109419c6996751adbf915be9358087d31": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -14233,6 +14299,43 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "412aeabddccfeab6d874d9e02e89a74091691a068a2257c574b16e1d9e89f7df": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cI Thought You Were The Uncensored Place\u201d: Norms, Rules, and Moderation in AI-Generated Sexual Content Communities Lucy Qin 1 1 1 * Both authors contributed equally to this work, share first authorship, and reserve the right to adjust ordering on personal documents. Affiliation: Georgetown University Email: lucy.qin@georgetown.edu Jaron Mink 1 1 1 * Both authors contributed equally to this work, share first authorship, and reserve the right to adjust ordering on personal documents. Affiliation: Arizona State University Email: jaron.mink@asu.edu Elissa M. Redmiles Affiliation: Georgetown University Email: elissa.redmiles@georgetown.edu Abstract As AI-generated sexual content (AIG-SC) is increasingly produced, online communities have emerged to support creators\u2019 needs. To understand whether and how community governance attempts work to prevent abuse while supporting free expression, we interviewed 24 members and moderators of large AIG-SC online communities (10,000+ members) with stated rules against creating and sharing abusive content (e.g., AI-generated CSAM). Through in-depth interviews, we offer insight into : (1) how and why these communities form ; (2) implicit community norms; (3) explicitly stated rules\u2014and their operationalization via content moderation; and (4) tensions between community values and moderation that...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 26893
   },
   "413a0d162adb9a0fd56d38735b209935cdb71546863ca36733efacffb4e303d6": {
     "access_status": "available",
@@ -20084,6 +20187,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3899
+  },
+  "5a53b3e9bda42bf9de1b2b6d98dc177a79e152d3a6f22b0c899b9328ba17c42b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Bandwidth-Efficient Transaction Relay in Bitcoin Gleb Naumenko email: naumenko.gs@gmail.com Affiliation: University of British Columbia , Gregory Maxwell email: greg@xiph.org Affiliation: , Pieter Wuille email: pwuille@blockstream.com Affiliation: Blockstream , Alexandra Fedorova email: sasha@ece.ubc.ca Affiliation: University of British Columbia and Ivan Beschastnikh email: bestchai@cs.ubc.ca Affiliation: University of British Columbia \u00a9 none Abstract. Bitcoin is a top-ranked cryptocurrency that has experienced huge growth and survived numerous attacks. The protocols making up Bitcoin must therefore accommodate the growth of the network and ensure security. Security of the Bitcoin network depends on connectivity between the nodes. Higher connectivity yields better security. In this paper we make two observations: (1) current connectivity in the Bitcoin network is too low for optimal security; (2) at the same time, increasing connectivity will substantially increase the bandwidth used by the transaction dissemination protocol, making it prohibitively expensive to operate a Bitcoin node. Half of the total bandwidth needed to operate a Bitcoin node is currently used to just announce transactions. Unlike block relay, transaction dissemination has received little attention in prior work. We propose a new transaction dissemination...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 21008
   },
   "5a684db2a46c87849881140f52c844d87c968d073f7487cc0b3bcaf71d0bbf95": {
     "access_status": "available",
@@ -29736,7 +29867,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-11T02:25:22+00:00",
+    "checked_at": "2026-08-19T01:51:25+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -32201,6 +32332,59 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "8da35a28e6c5c42d11d4a9e7113603d707979f08f45770b18c2190aad77d85ec": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\thetitle \\thedate Editors: Giulia Fanti 1,3 and Ari Juels 1,4 Authors: Sarah Allen 1,5 , Pranay Anchuri 6 , James Austgen 1,4 , Maryam Bahrani 7 , Samuel Breckenridge 1,4 , Aaron Buchwald 2 , Christian Cachin 1,9 , Andr\u00e9s F\u00e1brega 1,4 , Jared Fernandez 3 , James Hsin-yu Chiang 1,12 , Marwa Mouallem 1,8 , Roi Bar-Zur 14 , Neil DeSilva 1 , Ittay Eyal 1,8 , Giulia Fanti 1,3 , Ari Juels 1,4 , Andrew Miller 1,13 , Christian Sillaber 9 , Dani Vilardell 1,4 , Pramod Viswanath 11 , Wenhao Wang 1,10 , Matt Weinberg 1,11 , Sen Yang 1,10 , Jianzhu Yao 11 , and Fan Zhang 1,10 1 Initiative for CryptoCurrencies and Contracts (IC3), 2 Ava Labs, 3 Carnegie Mellon University, 4 Cornell Tech, 5 Flashbots, 6 Offchain Labs, 7 Ritual Labs, 8 Technion, 9 University of Bern, 10 Yale University, 11 Princeton University, 12 ETH Zurich, 13 Teleport; Flashbots(X), 14 Tel Aviv University \\nopagecolor Executive Summary The intersection of crypto x AI is spawning papers, products, online posts, and companies. All the surrounding buzz, though, obscures what exactly has been done, what the opportunities and challenges are, and what open questions deserve attention. This survey paper asks what AI can do for blockchain-based technologies (broadly construed as \u201ccrypto\u201d) (crypto x AI), and vice versa (AI x crypto). We systematize existing work, summarize key...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:mit.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [
+      "payment rails",
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "watermarking",
+      "cybersecurity",
+      "vulnerability",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 125708
   },
   "8dba53bc7737b131f0d46d8df0eeb96fcd20494907a3c80228e71924d3bc4961": {
     "access_status": "available",
@@ -39681,6 +39865,48 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "af2356163511f0d3627a573cbdca5bfb8c524e9b6797cec258c49b0946eb5735": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Supporting Early and Scalable Discovery of Disinformation Websites Austin Hounsel Affiliation: Princeton University email: ahounsel@cs.princeton.edu , Jordan Holland Affiliation: Princeton University email: jordanah@princeton.edu , Ben Kaiser Affiliation: Princeton University email: bkaiser@princeton.edu , Kevin Borgolte Affiliation: Princeton University email: borgolte@cs.princeton.edu , Nick Feamster Affiliation: University of Chicago email: feamster@uchicago.edu and Jonathan Mayer Affiliation: Princeton University email: jonathan.mayer@princeton.edu Abstract. Online disinformation is a serious and growing sociotechnical problem that threatens the integrity of public discourse, democratic governance, and commerce. The internet has made it easier than ever to spread false information, and academic research is just beginning to comprehend the consequences. In response to this growing problem, online services have established processes to counter disinformation. These processes predominantly rely on costly and painstaking manual analysis, however, often responding to disinformation long after it has spread. We design, develop, and evaluate a new approach for proactively discovering disinformation websites. Our approach is inspired by the information security literature on identifying malware distribution, phishing, and scam...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu",
+      "institution_domain:ox.ac.uk",
+      "institution_domain:princeton.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 24015
+  },
   "af4b67944aa619dd4ec2b419c9d5220f4130b470e84e05059e194ec234e123ff": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -40472,6 +40698,51 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "b26764f30f971c83a3c0d7280379913e89aaf5b7b14ce9cffcb549825a3b488c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Assessing AI-Generated vs. Human-Authored Spear Phishing SMS Attacks: An Empirical Study Jerson Francia Derek Hansen Benjamin Schooley Matthew Taylor Shydra Valynn Murray Rebekah Cornelius Greg Snow Abstract Personalized phishing is difficult to defend against because messages can be tailored to a target\u2019s work, interests, and social context. Large language models may make such tailoring faster and easier, but it remains unclear whether messages produced from simple prompts are more convincing than those written by people. This 25-target pilot study compared personalized smishing messages generated by GPT-4 with messages written by novice student authors working under time constraints. Using the proposed Threshold Ranking Approach for Personalized Deception (TRAPD), participants ranked 12 messages written for them, indicated the point at which they would intend to click, explained their reasoning, and judged whether each message was authored by GPT-4 or a human. GPT-4-generated messages elicited an intention to click more often than student-authored messages (28% versus 21%), although the difference was uncertain. More broadly, our findings suggest that a simple prompt can produce personalized messages that participants found comparably convincing within the uncertainty of this pilot study. Job-related messages were...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "vishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "vishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "smishing",
+      "vishing"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 31059
   },
   "b2916982c101c847570a2cb58e8c79313ef6de8c8c8bac6829fd3e520b2c1878": {
     "access_status": "available",
@@ -41458,6 +41729,39 @@
     "weak_generic_terms_found": [],
     "word_count": 1765
   },
+  "b76679c0531074399bd446f83cf137c0ab78a79abb3657b482a61421cce2d542": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Entertainment AI News Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019 Zelda, Zak, and Cody Williams say their father\u2019s Instagram account will be a \u2018trusted place\u2019 to share photos, videos, and memories. Zelda, Zak, and Cody Williams say their father\u2019s Instagram account will be a \u2018trusted place\u2019 to share photos, videos, and memories. by Emma Roth Aug 18, 2026, 7:48 PM UTC Link Share Gift Photo by Jason Kempin/Getty Images Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. Robin Williams\u2019 children are taking over their father\u2019s Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap . In a post on Tuesday , Zak, Zelda, and Cody Williams write that they want the late actor\u2019s Instagram profile to be a \u201csafe, trusted place where the stories, photos, videos, and memories shared reflect his legacy with authenticity, warmth, and care.\u201d A story posted to Zelda Williams\u2019 own Instagram account expands on the decision to bring back her father\u2019s profile, saying that it\u2019s meant to help combat \u201crampant AI abuse,\u201d according to The Wrap : I\u2019m sorry if anyone found Dad\u2019s old page posting again to be triggering. Believe me, I know it\u2019s a little strange. Making that space into one where people can find authentic...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:20+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ai abuse",
+      "trust"
+    ],
+    "word_count": 1973
+  },
   "b77c7c5c71945d0e219d88f524164a9dde139901b277f589aba16b742cf2e33e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42232,6 +42536,34 @@
     ],
     "word_count": 3475
   },
+  "babaa888b1f56999653d15a9d93483cf9359dafd89ec8e7d960c4de4a9fe98c0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Scalable Black-Box Model Attribution for Images Asaf Livne Affiliation: Tel Aviv University Amir Jevnisek Affiliation: Tel Aviv University Shai Avidan Affiliation: Tel Aviv University Abstract The rapid proliferation of generative models raises the model attribution problem: given only an image, can we determine which model produced it? Existing methods have grown as elaborate as the generators they target, on the assumption that a more sophisticated model demands a more sophisticated attributor. We show it does not. RPA (Raw-Patch Attribution) attributes images in the strictest black-box setting with a lightweight CNN. Despite its simplicity, it attributes more models at higher accuracy than prior work, reaching 98.0% on 25-class DRAGON and 92.9% on 27-class OpenFake; it is data-efficient and runs at a cost independent of the number of candidate models; and it stays robust to the compression, blur, and resizing images undergo in the wild. Training for closed-set attribution yields a versatile feature extractor: the same representation recovers model lineage without supervision, flags and groups unseen generators, and admits new models through few-shot adaptation rather than retraining. \u2020 \u2020 Project page: https://asaf-livne.github.io/RPA/ 1 Introduction Figure 1 : The same prompt rendered by 25 generators (DRAGON [ 1 ] ). The...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "watermarking"
+    ],
+    "word_count": 15578
+  },
   "bae394c6d11c8edf3a41acd7fb34bd6d22e2dd13e06fa8657ac3a2e5f69425a3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42461,6 +42793,39 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 124
+  },
+  "bba5698328d218509034dcd7e6745480d6a316cfe609e21301acc819a84f4f86": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Robustness of AI-Art Detectors under Generator Shift Shivank Singh Thakur 1 1 1 Department of Computer Science, San Jose State University Meien Li 1 1 footnotemark: 1 Mark Stamp 1 1 footnotemark: 1 2 2 2 mark.stamp @ @ sjsu.edu Abstract Text-to-image generative models have advanced rapidly, with modern Diffusion Transformer architectures producing images that are increasingly difficult to distinguish from human-created artwork. This development has raised significant concerns regarding copyright protection, misinformation, fraud, impersonation, and the authenticity of digital content. Most AI-art detectors are trained and evaluated on the same generator family, leaving robustness to newer architectures underexplored. In this chapter, we analyze generator shift based on a Stable Diffusion 3.5 Medium (SD3.5m) artwork dataset spanning ten art styles through reverse prompting of held-out human artwork samples. Five detectors are trained on U-Net-based latent diffusion artwork and evaluated in a zero-shot cross-generator setting on the SD3.5m dataset. Deep learning models perform strongly in-distribution but degrade under generator shift, misclassifying many SD3.5m images as human while human false positives remain low. The CLIP ViT-L/14 model performs best overall, while Grad-CAM analysis reveals weaker and more diffuse activation...",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "cybersecurity",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 31698
   },
   "bba609915ee811687e19835ff83d48c8ac8c3cfd6e61dcec2b40bdbeb31c72cc": {
     "access_status": "available",
@@ -51068,6 +51433,35 @@
     ],
     "word_count": 17
   },
+  "dfd6e29863aefe66294670447dc5361542b059fbf57cf5c447070c99bf66a6e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The requested URL was rejected. Please consult with your administrator. Your support ID is: <4156853657675743122> [Go Back]",
+    "cache_version": 8,
+    "checked_at": "2026-08-19T01:51:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:ieee.org",
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 17
+  },
   "dfe436e55818d6beb632168ae32dd5bdb6bc8967bb9dad611b464822835c80a3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -57432,9 +57826,9 @@
   "fd7288356c2a1244084a29d5f49c160597dae832d083b20d44e9db1c0b80aab6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to reliably generalize to...",
+    "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Affiliation: Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland Email: arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to...",
     "cache_version": 8,
-    "checked_at": "2026-08-11T02:25:20+00:00",
+    "checked_at": "2026-08-19T01:51:23+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -57461,7 +57855,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 10059
+    "word_count": 10136
   },
   "fda031636bdab2d5216f08ab2d4b88e0c7b0c5299051634bc8fa83e0a9033941": {
     "access_status": "available",
