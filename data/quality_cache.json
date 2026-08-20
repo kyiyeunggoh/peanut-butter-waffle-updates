@@ -1258,9 +1258,9 @@
   "05e3b6bb841c5e30d5a6bcd27625e5e2129a34635922d628c2e307b18f816c0f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized defense...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks Vivek Dahiya Sunny Nehra Vipul Dholariya Bhavik Shangari Chandra Khatri Affiliation: {vivek, sunny, vipul, bhavik,chandra} @super-intel.ai Abstract We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box web application security testing (five production-style applications with 118 ground-truth vulnerabilities across 20+ CWE families, which we will open-source). We test six frontier models (GPT-5.4, Codex 5.3, Claude Opus 4.7, Sonnet 4.6, Gemini 3.1 Pro and Gemini 3 Flash) and two domain-specialized models across four testing paradigms. Our findings are sobering: (1) every frontier model produces 10\u201350% false positive rates in white-box detection, systematically over-predicting vulnerabilities; (2) in black-box testing, frontier models achieve only 4\u20138% ground-truth coverage, improving to just 10\u201319% even with external security tools (Playwright MCP, Burp Suite MCP); (3) structured penetration-testing methodology encoded in domain-specialized agents raises per-family detection above 50%, demonstrating that methodology, not scale, is the primary lever; (4) a domain-specialized...",
     "cache_version": 8,
-    "checked_at": "2026-08-08T02:19:50+00:00",
+    "checked_at": "2026-08-20T01:49:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -1287,7 +1287,7 @@
       "malware",
       "trust"
     ],
-    "word_count": 14031
+    "word_count": 13968
   },
   "061f1ef2999fb4f943aa4aac4837766a214a10341722408e19194f6cb3134e73": {
     "access_status": "available",
@@ -3070,6 +3070,42 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "0e165f5dcb5cfa5ca8cfc923001677dd54ee129662e033c4ec10472d5f28a30d": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u220e TRUSTWORTHY LARGE MODELS IN VISION: A SURVEY Journal: Survey Ziyan Guo OrcID: 0000-0001-7741-5499 Li Xu OrcID: 0000-0003-1575-5724 Jun Liu OrcID: 0000-0002-4365-4165 Affiliation: Ziyan Guo, Li Xu, and Jun Liu are with Singapore University of Technology and Design, Singapore. (Email: ziyan_guo@mymail.sutd.edu.sg, li_xu@mymail.sutd.edu.sg, jun_liu@sutd.edu.sg). Corresponding author: Jun Liu. Received: date / Accepted: date Abstract The rapid progress of Large Models (LMs) has recently revolutionized various fields of deep learning with remarkable grades, ranging from Natural Language Processing (NLP) to Computer Vision (CV). However, LMs are increasingly challenged and criticized by academia and industry due to their powerful performance but untrustworthy behavior, which urgently needs to be alleviated by reliable methods. Despite the abundance of literature on trustworthy LMs in NLP, a systematic survey specifically delving into the trustworthiness of LMs in CV remains absent. In order to mitigate this gap, we summarize four relevant concerns that obstruct the trustworthy usage of LMs in vision in this survey, including 1) human misuse, 2) vulnerability, 3) inherent issue and 4) interpretability. By highlighting corresponding challenges, countermeasures, and discussion on each topic, we hope this survey will facilitate...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_healthcare_ai_cyber",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "watermarking",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 24782
   },
   "0ebc322d48c3319f48dab5e7e8a3c48bbb5bdc81842b6a543639aa8f60b2b03e": {
     "access_status": "available",
@@ -5525,6 +5561,46 @@
       "vulnerability"
     ],
     "word_count": 0
+  },
+  "1ab13c23121e33b890dace75e8002f5d131d6e7e39f091475cc6628aec425dcb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Malware and graph structure of the Web Sanja \u0160\u0107epanovi\u0107 Igor Mishkovski Jukka Ruohonen Frederick Ayala-G\u00f3mez Tuomas Aura Sami Hyrynsalmi Affiliation: [ Affiliation: [ Affiliation: [ Affiliation: [ Affiliation: [ Abstract Knowledge about the graph structure of the Web is important for understanding this complex socio-technical system and for devising proper policies supporting its future development. Knowledge about the differences between clean and malicious parts of the Web is important for understanding potential treats to its users and for devising protection mechanisms. In this study, we conduct data science methods on a large crawl of surface and deep Web pages with the aim to increase such knowledge. To accomplish this, we answer the following questions. Which theoretical distributions explain important local characteristics and network properties of websites? How are these characteristics and properties different between clean and malicious (malware-affected) websites? What is the prediction power of local characteristics and network properties to classify malware websites? To the best of our knowledge, this is the first large-scale study describing the differences in global properties between malicious and clean parts of the Web. In other words, our work is building on and bridging the gap between Web science that...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [
+      "domain generation"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 19063
   },
   "1aba2c10ce3418bee669021e35a33e4810c56a51e8f49aa4def3cfc920e33976": {
     "access_status": "available",
@@ -16598,16 +16674,14 @@
   "4a07b280cb8deebfad6494f499cff5eda35e663d2135543bb5023c2df4f5dc92": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "E-paper Singapore Asia World Opinion Life Business Sport Visual Podcasts Submarine cables in Australia, Indo-Pacific face growing attack risk: Report Major disruptions can have an immediate and severe impact on the economy. Iran ties Hormuz reopening to US concessions on several demands \u2018Texas of the Mountain West\u2019: US state of Utah on drive to court Singapore investors Shein finds there\u2019s no place like China after Vietnam warehouse experiment disappoints Malaysian PM Anwar undergoes medical examination NDP 2026: Kallang roars as Singapore celebrates 61st birthday In Pictures: Singapore celebrates 61st National Day Air-con not needed to cool a building Latest headlines minutes ago Western Europe experienced hottest June-July on record: EU monitor minutes ago Malaysian students in a bind over new US visa rules minutes ago A picturesque London suburb feels the Ted Lasso effect minutes ago Malaysian PM Anwar undergoes medical examination minutes ago Taylor Farms recalls salsa and guacamole over salmonella risk Trending National Day National Day Parade 2026 Singapore Strait of Hormuz Weather Shorts 0:49 1:01 1:01 1:32 0:30 0:28 0:54 1:26 0:20 Singapore People with disabilities shine at NDP 2026 amid largest civilian participation in over a decade Over 1,200 civilians participated in NDP 2026's parade segment. NDP 2026: Faces of the parade NUS researchers brandish light beams for...",
+    "article_excerpt": "E-paper Singapore Asia World Opinion Life Business Sport Visual Podcasts SG Arrival Card to get refreshed interface with 19 language options, passport scan autofill The new features will be available on ICA's website from Aug 26. Trump threatens economic punishment on \u2018any country\u2019 helping Iran US debt crosses $50 trillion threshold after doubling under Trump and Biden Field Notes from Negeri Sembilan Unearthing gold bargains in two small Malaysian towns Prince Harry and Meghan to move back to Britain, media reports say US Fed policymakers\u2019 inflation concerns increased at July meeting, minutes show The rich world is afraid of AI. The poor world is not. Why? ST Live: News as it happens Latest headlines minutes ago Arsenal can become world\u2019s best club: Mikel Arteta minutes ago Gold holds near $4,500 as US Treasury buyback sends yields lower minutes ago Messi scores emotional first goal since father\u2019s death minutes ago Asian stocks to gain as US Treasury supports bonds minutes ago Hong Kong banks turn to student housing as property bright spot Trending Johor Environmental issues Trade Donald Trump RTS/Rapid Transit System Link Shorts 1:58 0:56 0:21 0:34 0:33 0:21 0:25 0:31 0:38 Singapore New moves tackling social media ads long overdue; will stem scam scourge: Experts But experts cautioned that the new measures are not foolproof and urged consumers to stay vigilant. Cross-border...",
     "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:29+00:00",
+    "checked_at": "2026-08-20T01:49:56+00:00",
     "direct_relevance_terms_found": [
-      "scam",
-      "investment scam"
+      "scam"
     ],
     "direct_scam_relevance_terms_found": [
-      "scam",
-      "investment scam"
+      "scam"
     ],
     "downrank_reason": null,
     "hard_rejected": false,
@@ -16620,15 +16694,12 @@
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
-      "scam",
-      "investment scam"
+      "scam"
     ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [
-      "victim"
-    ],
-    "word_count": 1204
+    "weak_generic_terms_found": [],
+    "word_count": 1267
   },
   "4a242956d3ff3cdb7db93883aa9850fd7dd47ecce44f92996c872e014314f538": {
     "access_status": "available",
@@ -18168,7 +18239,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:28+00:00",
+    "checked_at": "2026-08-20T01:49:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -18394,7 +18465,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-06T03:33:21+00:00",
+    "checked_at": "2026-08-20T01:50:01+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -18883,6 +18954,38 @@
       "fraud"
     ],
     "word_count": 1847
+  },
+  "53b5047f2ea56a88b92d95e61896a034291ae0ddc018fef4c819f4bf91735114": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I\u2019m sitting upstairs in Rolex\u2019s flagship London store on Old Bond Street. I\u2019ve just handed over a fake Rolex to the staff and requested that its bracelet be adjusted, a simple bit of maintenance that requires removing a few links. I haven\u2019t volunteered that the watch is a phony, but I haven\u2019t said it\u2019s legit, either. My imposter Oyster Perpetual is now on a workbench in the glass-fronted servicing room on the second floor. I can see staff in white lab coats working diligently as a salesperson joins them to carefully examine the timepiece before downsizing the metal bracelet. This replica is one of a few WIRED has purchased on the internet. So far, nobody in the store has spotted that the watch is a fake. Surely the game's about to be up? Maybe there\u2019s just time to slip away before the police are called. After what feels like far too long, the salesperson returns.",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 11483
   },
   "540caa39c30064d4ffb1c02f5b2ecd75481bc2d32a5929bfcb21fbc58e89ae38": {
     "access_status": "available",
@@ -20001,6 +20104,40 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "593702d7bab93b598eed652b9336fbb7dcaa14117381a318d009d9362c12d1d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cThere is literally zero funding\u201d: Understanding the Emerging Role of Trusted Flaggers under the EU Digital Services Act ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Applied computing Law CCS: Social and professional topics Governmental regulations CCS: Human-centered computing Empirical studies in HCI Marie-Therese Sekwenz Note: All authors contributed equally to this research. Affiliation: TU Delft , Netherlands , Kyle Beadle Affiliation: UCL , United Kingdom and Simon Parkin Affiliation: TU Delft , Netherlands 2026\u00a9 , 2026; Abstract. The European Union\u2019s Digital Services Act (DSA) introduced regulatory mechanisms which serve as a way to manage harmful content online. The recognition of Trusted Flaggers (TFs) is one such mechanism which accredits entities with experience, platform independence, and skill in identifying and reporting illegal content. With the DSA\u2019s TF role being roughly one year old, we interviewed representatives of seven such TF organizations to learn about their experiences of becoming a TF and how it impacts their interactions with online platforms and with individual users. We additionally ran a workshop involving TF representatives, primarily as it was requested by TFs themselves, who collectively wanted to share experiences of their new role and learn from each other rather than be isolated. Notably, we found...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22040
+  },
   "593f4886b898e702f70b1529ea76742dcaeedfd00da2f29a94364a0eb9bc6494": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20376,7 +20513,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:34+00:00",
+    "checked_at": "2026-08-20T01:49:58+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -24393,7 +24530,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:28+00:00",
+    "checked_at": "2026-08-20T01:49:56+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -24985,7 +25122,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:32+00:00",
+    "checked_at": "2026-08-20T01:49:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -26072,6 +26209,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4321
+  },
+  "736bc5b23093891ec3600c0309caedc6911eebbc4a5dfabc38d79fd5db6e9595": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I visited the Cambridge, Massachusetts, offices of a startup called Generalist AI , where I watched robot arms perform simple chores like stacking cups, putting blocks into bowls, and the like. I was astonished by how quickly they figured things out\u2014it was reminiscent of a flesh-and-blood person. The arms mastered a range of tasks after ingesting a short, instructional video and, most impressively, no specific training for a given task. One of the most striking examples involved a robot that was instructed to sweep a block into a bowl using a dustpan and brush. When the brush was removed from the scene, the robot improvised by using the dustpan like a brush and flicking the block into the bowl. Courtesy of Generalist AI In another case, a two-armed robot watched a videoclip of someone unzipping a purse before removing some banknotes. I watched\u2014somewhat slack-jawed\u2014as the robot unzipped a different kind of purse and carefully removed the notes. Most amazingly, when it couldn\u2019t grab the money, it switched from using its right gripper to its left to get a better angle of attack. \u201cHa,\u201d said one engineer standing nearby. \u201cIt never did that before.\u201d \u201cThis is exactly the kind of thing people were really excited about with GPT-3,\u201d Generalist cofounder and CEO Pete Florence told me, in reference to OpenAI\u2019s breakthrough large language model, released in 2020.",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3508
   },
   "7394c761ff3cff2e75d44771411a8722cbb241f7aae7dfed6655db1d21846914": {
     "access_status": "available",
@@ -31517,7 +31689,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:34+00:00",
+    "checked_at": "2026-08-20T01:49:58+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -38855,9 +39027,9 @@
   "ab504933ea70fdcdcc304059e8a0aa587c4f5a083253b0e41593402118c28c41": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: TU Wien, Vienna, Austria 1 1 email: {andreas.happe;juergen.cito}@tuwien.ac.at 2 2 institutetext: University of Klagenfurt, Klagenfurt, Austria 2 2 email: jasmin.wachter@aau.at The Ethics of Autonomous AI Agents for Offensive Security Andreas Happe J\u00fcrgen Cito Jasmin Wachter Abstract LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling \u2014 deterministic, narrowly scoped, and operated by trained practitioners \u2014 agentic security tools exhibit indeterminacy along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation. This complicates incident attribution and pre-deployment safety reviews. Second, their impact is open-ended due to their non-deterministic actions, agency of utilized models, and opaque LLM supply-chains. Third, their user population is indeterminate in both size and required skill: the operating skill floor for using or developing offensive capabilities has dropped sharply. These three properties are linked thematically, but are not derivable from one another. Combined with the structural cost asymmetry between offense and defense, they enable the industrialization of offensive capability. The net short-term effect favors attackers, even if the same...",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Ethics of Autonomous AI Agents for Offensive Security Andreas Happe OrcID: 0009-0000-2484-0109 Affiliation: TU Wien, Vienna, Austria E-mail {andreas.happe;juergen.cito}@tuwien.ac.at J\u00fcrgen Cito OrcID: 0000-0001-8619-1271 Affiliation: TU Wien, Vienna, Austria E-mail {andreas.happe;juergen.cito}@tuwien.ac.at Jasmin Wachter OrcID: 0000-0003-0560-8974 Affiliation: University of Klagenfurt, Klagenfurt, Austria E-mail jasmin.wachter@aau.at Abstract LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling \u2014 deterministic, narrowly scoped, and operated by trained practitioners \u2014 agentic security tools exhibit indeterminacy along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation. This complicates incident attribution and pre-deployment safety reviews. Second, their impact is open-ended due to their non-deterministic actions, agency of utilized models, and opaque LLM supply-chains. Third, their user population is indeterminate in both size and required skill: the operating skill floor for using or developing offensive capabilities has dropped sharply. These three properties are linked thematically, but are not derivable from one another. Combined with the structural cost asymmetry...",
     "cache_version": 8,
-    "checked_at": "2026-08-11T02:25:20+00:00",
+    "checked_at": "2026-08-20T01:49:56+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -38884,7 +39056,7 @@
       "ransomware",
       "trust"
     ],
-    "word_count": 16456
+    "word_count": 16480
   },
   "ab6a38398a0436353e099bab1b326e48499e5ed3d895afc8515907e36bbd39e6": {
     "access_status": "available",
@@ -39090,6 +39262,42 @@
       "trust"
     ],
     "word_count": 4681
+  },
+  "ac00d5396e4dd52f3f924049f3a59f72f28a0a078e1822dc8e35dd716104a53f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Beyond the pale: Assessing prevalence and contents of extremist speech in LLM training data Dmitry Nikolaev Ashley A. Mattheis Affiliation: University of Manchester Email: {dmitry.nikolaev,ashley.mattheis}@manchester.ac.uk Abstract Despite a strong interest on the part of the research community in the topic of trustworthy and safe AI, the composition of the text corpora that large language models (LLMs) encounter in pre- and post-training has not yet drawn much attention. In this work, we address the question of whether LLMs are exposed to unfiltered, uncontextualised extremist speech. Using several definitions of extremist speech, stemming from official documents and research literature, and an extraction pipeline combining automated text processing with expert verification, we provide a lower bound on the prevalence of extremist documents in Dolma, an open training corpus underpinning the OLMo series of models. We show that Dolma is likely to include hundreds of thousands of documents containing extremist content and hate speech of several types, including direct calls for violence, and discuss the implications of this for data curation and model pre-training. 1 Introduction The subject of trustworthy and safe AI has become one of the largest foci of research interest and grant support in the area of AI/machine learning ( 15...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 65642
   },
   "ac10275c49518ec8135c387917f351626a187419ba7b04968a24c93cb88787dd": {
     "access_status": "available",
@@ -39683,7 +39891,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:41+00:00",
+    "checked_at": "2026-08-20T01:50:01+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -56676,6 +56884,35 @@
     ],
     "word_count": 36608
   },
+  "f83d2d1169ba44e66e52e3c8c3267527fd5d71e44690ab2dbdd94a54b2cac7fe": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: A Systematic Review of Ethical Concerns with Voice Assistants Conference: AAAI/ACM Conference on AI, Ethics, and Society; August 8\u201310, 2023; Montr\u00e9al, QC, Canada AAAI/ACM Conference on AI, Ethics, and Society (AIES \u201923), August 8\u201310, 2023, Montr\u00e9al, QC, Canada Price: 15.00 DOI: 10.1145/3600211.3604679 ISBN: 979-8-4007-0231-0/23/08 CCS: Human-centered computing Natural language interfaces CCS: Human-centered computing HCI theory, concepts and models William Seymour email: william.1.seymour@kcl.ac.uk OrcID: 0000-0002-0256-6740 Affiliation: King\u2019s College London , Bush House, 30 Aldwych , London , UK , WC2B 4BG , Xiao Zhan email: xiao.zhan@kcl.ac.uk OrcID: 0000-0003-1755-0976 Affiliation: King\u2019s College London , Bush House, 30 Aldwych , London , UK , WC2B 4BG , Mark Cot\u00e9 email: mark.cote@kcl.ac.uk Affiliation: King\u2019s College London , Chesham Building, Strand , London , UK , WC2R 2LS and Jose Such email: jose.such@kcl.ac.uk Affiliation: King\u2019s College London , Bush House, 30 Aldwych , London , UK , WC2B 4BG 2023; \u00a9 acmlicensed Abstract. Since Siri\u2019s release in 2011 there have been a growing number of AI-driven domestic voice assistants that are increasingly being integrated into devices such as smartphones and TVs. But as their presence has expanded, a range of ethical concerns have been identified around the use of voice...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 27418
+  },
   "f85480c9a6448401e9d399c34b1d39ac68af6c86e7d28069f27b9689ca2ec4a1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -57196,6 +57433,42 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "fa444cba1a9c537bc8b680e2c5d43fdb512883c2e9696f1caa1d2073feaeb8ed": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "And a second misconfiguration publicly exposed people\u2019s email addresses and phone numbers. Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of images, including what appeared to be profile images, screenshots, and other photographs of adults, teenagers, and children. All of the images were stored in an unsecured Amazon S3 bucket, with files in folders named \u201cfaces\u201d and \u201cprofiles,\u201d which could be accessed by anyone online through a URL included in the company\u2019s publicly available website code. ClarityCheck is one of a number of so-called people-finder tools that have appeared online in recent years. These websites broadly claim to be able to search the web, public records, and other databases to identify individuals. ClarityCheck\u2019s website says it can run searches on phone numbers, email addresses, vehicle identification numbers, and names. Its photo-search page says it can help \u201cidentify anyone in a photo\u201d and find social media profiles \u201cin seconds.\u201d While ClarityCheck secured the giant image database after WIRED contacted the company in July, Fowler warns that it was seemingly exposed for months, and his initial efforts to flag the problem to the company were unsuccessful. Accidental data exposures create risk for any personal information, but particularly for sensitive and...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "malware"
+    ],
+    "word_count": 3825
+  },
   "fa50860d4e78ba5f224b4f2838bf0b5348161394dc749ebf9e4bad6ab00d66cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -57295,6 +57568,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2451
+  },
+  "fadd4507c6b1eb6b14f4c9177926c8a3525b0025bf543319e9dddc6eb2fed69a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Don\u2019t you want to know what got Trump in such a tizzy? Stream the much buzzed-about South Park, fan-favorite Yellowstone, original series MobLand, and rebooted crime drama Dexter & Dexter on Paramount+. The streaming network has a bingeable TV series for almost everyone. And whether you want to remember Lindsay Lohan\u2019s old face in the classic Mean Girls flick, or wonder just how many more sequels Tom Cruise has left in him with Top Gun: Maverick , there\u2019s a bevy of films to stream, too. If you\u2019re like me and have at least half a dozen streaming services, our Paramount+ coupon codes can help you save so you can watch the content you want without having to get rid of one of your other beloved content platforms. (I love pretending the world isn\u2019t full of suffering around me and instead focus on Sylvester Stallone\u2019s ever-changing Play-Doh face in Tulsa King .) Paramount Has a $1.5 Billion South Park Problem The White House says the show is \u201cfourth-rate\u201d after it showed Trump with \u201ctiny\u201d genitals. The controversy comes just as the FCC has greenlit Paramount\u2019s merger with Skydance and promised to end DEI. By Manisha Krishnan Try Paramount+ Free With a One-Week Trial If you\u2019re unsure if you\u2019ll actually want to commit to Paramount+, or if there\u2019s a sports event like March Madness games and you only need to access the content for a little while, Paramount+\u2019s free trial is a great...",
+    "cache_version": 8,
+    "checked_at": "2026-08-20T01:49:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5155
   },
   "faede2da52f7865f54370cf2e2083bbfc28843d53623b06e4e56151c3d27e291": {
     "access_status": "available",

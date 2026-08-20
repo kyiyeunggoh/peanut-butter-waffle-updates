@@ -1,4 +1,8 @@
 {
+  "0018d177a6febc5af543f1b27b6a0a7d10b03527be54777548c2774c9b6c120c": {
+    "canonical_url": "https://arxiv.org/pdf/2608.14813",
+    "resolved_at": "2026-08-20T01:49:25+00:00"
+  },
   "0018f00b99561c1578b9886315c39d0a91100d1a9b7c4e0c384457c92c7d251a": {
     "canonical_url": "https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/",
     "resolved_at": "2026-05-23T15:57:28+00:00"
@@ -313,7 +317,7 @@
   },
   "0865bf7fc0c1270a2b1d78e366f5c0dc27361d70c2aa88f6fea530e5ed122858": {
     "canonical_url": "https://arxiv.org/html/2606.03215v1",
-    "resolved_at": "2026-08-12T02:41:08+00:00"
+    "resolved_at": "2026-08-20T01:49:36+00:00"
   },
   "0873942b3cde2f9bb630feb5601d463eaa6f1dea73c73b624916de4101fa9292": {
     "canonical_url": "http://news.bbc.co.uk/news/articles/c4gy3lgz1x3o",
@@ -329,7 +333,7 @@
   },
   "08bb8d9cf5f2aff32e68ffda2ca87aba276511ae93a71f80450f5647e6ef302d": {
     "canonical_url": "https://dl.acm.org/doi/10.1145/3803632.3807887",
-    "resolved_at": "2026-08-12T02:40:43+00:00"
+    "resolved_at": "2026-08-20T01:49:23+00:00"
   },
   "08c26aa249b2c98f7a6c16a8c21a37adc1f0b853a2572d3c92fb3ac15d278b4e": {
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3805036",
@@ -1125,7 +1129,7 @@
   },
   "1b4d2746cd36d6e1eb82e368cb4402714a793550a0dde95b0cb61693024163ee": {
     "canonical_url": "https://ieeexplore.ieee.org/document/11290431/",
-    "resolved_at": "2026-08-12T02:41:39+00:00"
+    "resolved_at": "2026-08-20T01:50:00+00:00"
   },
   "1b6cbe2695bb20688ca4d8c1b6022bd62c323eb5d421e28df791c78a0e65bba2": {
     "canonical_url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
@@ -1317,7 +1321,7 @@
   },
   "1f8e096150e53455ed6bf7990a09bd450dd3f5368c2a81c25a6b868c27a9008a": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6728119.pdf?abstractid=6728119&mirid=1",
-    "resolved_at": "2026-08-12T02:40:59+00:00"
+    "resolved_at": "2026-08-20T01:49:28+00:00"
   },
   "1fa03a35a87ae4f95a012ce7ece848b936d343ba4b852729f4726ab7f69a84b7": {
     "canonical_url": "https://apnews.com/article/fox-trot-carousel-nashville-red-grooms-6fb1f3330fd917ec2fbec0dbd0ec42d4",
@@ -1653,7 +1657,7 @@
   },
   "2725e1c2da501e53d781c01bfd5c1dbad3928740d6e5e802a3d4a2c205584369": {
     "canonical_url": "https://arxiv.org/html/2607.20255v2",
-    "resolved_at": "2026-08-11T02:24:35+00:00"
+    "resolved_at": "2026-08-20T01:49:17+00:00"
   },
   "272f05222149790c08931a98e3796cfa8bb6b723a2dee918d90d4199de8cd955": {
     "canonical_url": "https://www.reuters.com/business/finance/hsbcs-australia-unit-faces-246-million-penalty-over-scam-protection-failures-2026-06-18/",
@@ -1721,7 +1725,7 @@
   },
   "28d567ba89a5e3d28d44b603a095f4b6cc97406bffd59e5313d670d5226ce75c": {
     "canonical_url": "https://arxiv.org/html/2605.23243v4",
-    "resolved_at": "2026-08-08T02:19:23+00:00"
+    "resolved_at": "2026-08-20T01:49:27+00:00"
   },
   "2909728407dd80abcc6013bc4e0638722112e44671a13a2895ee7561e0f32252": {
     "canonical_url": "https://www.wired.com/story/landmark-deal-would-officially-add-laser-weapons-to-us-army-arsenal/",
@@ -2057,7 +2061,7 @@
   },
   "32fd234f82a11d9019a3b4502285568825aa2c0265d679d1bc6f327506a63246": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7069598",
-    "resolved_at": "2026-08-12T02:41:05+00:00"
+    "resolved_at": "2026-08-20T01:49:33+00:00"
   },
   "330d27f8067f376adb294d9083d34f5eb734354c4b07c4ff4f1392d7c9bd9e09": {
     "canonical_url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
@@ -2595,6 +2599,10 @@
     "canonical_url": "https://markets.ft.com/data/announce/full?dockey=600-202605200916BIZWIRE_USPRX____20260520_BW153924-1",
     "resolved_at": "2026-06-09T04:24:17+00:00"
   },
+  "3f2f9467d250d7787e43d422399df1e1855f2a64329c099de3a248ee15cc04b5": {
+    "canonical_url": "https://arxiv.org/html/2605.24245v1",
+    "resolved_at": "2026-08-20T01:49:40+00:00"
+  },
   "3f6ae8efefc25cc3a60acfd5af9a5f47f01476742c3aae3baef1868819dd977e": {
     "canonical_url": "https://arxiv.org/pdf/2607.22545",
     "resolved_at": "2026-08-10T02:31:13+00:00"
@@ -2754,6 +2762,10 @@
   "43b52740601e4cbf97de491371fcf0dd263ff2206dd166a4afcd3e8ce1ac24bb": {
     "canonical_url": "https://www.theguardian.com/business/2026/jul/01/trump-voters-housing-affordability-bill",
     "resolved_at": "2026-07-05T04:19:21+00:00"
+  },
+  "43c1b5b2db55e930628788a68240bc28784dd823cff1a74c785e2fda552a4a1f": {
+    "canonical_url": "https://www.wired.com/story/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+    "resolved_at": "2026-08-20T01:49:11+00:00"
   },
   "43d2b23cc289c22e5d75c199c426bb7329dbe81b44f810c4423fa34a06d6082f": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/08/trump-administration-voter-election-crackdown",
@@ -2997,7 +3009,7 @@
   },
   "49adeae5e8e0c62c88eeb22947e6d78980e24d6ab7bbda9ecdae63600829c08b": {
     "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3774761.3774919",
-    "resolved_at": "2026-08-12T02:41:14+00:00"
+    "resolved_at": "2026-08-20T01:49:41+00:00"
   },
   "49e1854f74c42ea7e8525f7d0a3bd8ca680c8d6a9cf6fdc9e21941556a633fdc": {
     "canonical_url": "https://www.reuters.com/legal/government/us-judge-halts-philadelphias-ice-out-ban-masked-federal-law-enforcement-agents-2026-07-02/",
@@ -3069,7 +3081,7 @@
   },
   "4a97611751b5a04ce2f10ecd18f427ad535d102f71b40c02bb13d7c21751c7f6": {
     "canonical_url": "https://www.straitstimes.com/",
-    "resolved_at": "2026-08-10T02:31:10+00:00"
+    "resolved_at": "2026-08-20T01:49:15+00:00"
   },
   "4adcc27bd4012ed7fbf9998ba49244b32d6a4250a9b217eb233cd8cb083bf94c": {
     "canonical_url": "https://therecord.media/russia-and-china-pledge-cooperation-2026",
@@ -3295,6 +3307,10 @@
     "canonical_url": "https://arxiv.org/html/2607.11707v1",
     "resolved_at": "2026-07-15T03:30:19+00:00"
   },
+  "5072159b1a847a2bde1a1b8c3c4033bfc8b182f5844ac1d9f4193330a26e7e48": {
+    "canonical_url": "https://arxiv.org/html/2211.04193v3",
+    "resolved_at": "2026-08-20T01:49:30+00:00"
+  },
   "507ecd387631484f10f3326d99f901924e0947e0730130d6791121e2292a7c0a": {
     "canonical_url": "https://arxiv.org/html/2608.05614v1",
     "resolved_at": "2026-08-18T01:48:30+00:00"
@@ -3314,6 +3330,10 @@
   "50f626fbf871c3b18d17dd8a02a25576091061fe386a2065d6bb210f66f1ce3f": {
     "canonical_url": "https://www.channelnewsasia.com/asia/malaysia-police-transnational-scam-syndicate-visa-policy-6125416",
     "resolved_at": "2026-06-01T04:10:43+00:00"
+  },
+  "50f7c5fe3ee47b8145338f2d238c9733e17137317da2bda70c18a8dba9d59684": {
+    "canonical_url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+    "resolved_at": "2026-08-20T01:49:14+00:00"
   },
   "5106addbf4fd364591af55bb37427ec0eb57614638592b8b1889489a59eafd00": {
     "canonical_url": "https://apnews.com/article/supreme-court-securities-exchange-commission-regulatory-agencies-0f0ffb4f6bebafa5454ec8406477be4e",
@@ -3369,7 +3389,7 @@
   },
   "5211e30f2872513b2ee9b88770fc80cd18e5140eb95d04840abb1733504a6722": {
     "canonical_url": "https://dl.acm.org/doi/10.1145/3772318.3791313",
-    "resolved_at": "2026-08-07T03:14:52+00:00"
+    "resolved_at": "2026-08-20T01:50:01+00:00"
   },
   "524a6cbab8251ee01ba656cb9019669822d07092fc35ade88d6d37ce9f0b81aa": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7229305",
@@ -4091,6 +4111,10 @@
     "canonical_url": "https://www.theguardian.com/world/2026/jun/22/ukraine-intensifies-attacks-on-crimea-to-raise-cost-of-russia-occupation",
     "resolved_at": "2026-06-25T04:22:50+00:00"
   },
+  "63fb63dee15ae046253b21ff67fed1b9905ecb3ca38e5f858c4fb36a3555832c": {
+    "canonical_url": "https://arxiv.org/html/1707.06071v1",
+    "resolved_at": "2026-08-20T01:49:06+00:00"
+  },
   "642f2a6f292c08b6d3acbf1b2d80f1bebbb547b3a099a7913e6b05bfc0763f5c": {
     "canonical_url": "https://arxiv.org/html/2608.11513v1",
     "resolved_at": "2026-08-15T01:47:46+00:00"
@@ -4258,6 +4282,10 @@
   "695d0b1328488cb14054fc257912357e9036eace9057db76005d19f81b896d55": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/13/justice-department-uaw-president-investigation",
     "resolved_at": "2026-07-14T03:30:06+00:00"
+  },
+  "695d459f0a06e0b3a30f4b5e33add61a3e81e722f6718e38c982d0b331cd0dc1": {
+    "canonical_url": "https://arxiv.org/html/2603.29874v1",
+    "resolved_at": "2026-08-20T01:49:09+00:00"
   },
   "695e7bc245d99fc10b40742067e04df9db477d4a0c05031ba4c467162f66bf19": {
     "canonical_url": "https://arxiv.org/pdf/2605.01143",
@@ -4986,6 +5014,10 @@
   "7d009985404cc254466a7059cc946451c0e93e879a7e8536af7adee3c9223458": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/29/holidaymakers-warned-over-social-media-scams-for-fake-accommodation",
     "resolved_at": "2026-06-30T04:23:47+00:00"
+  },
+  "7d834fe1b86e0c984e28099b787d626cd61269e70ce359c9490713eddb9b6af2": {
+    "canonical_url": "https://arxiv.org/html/2311.09680v5",
+    "resolved_at": "2026-08-20T01:49:18+00:00"
   },
   "7d8c7a026704a54d3109c3a61c0b2aea7eea4992e706dff9457457b1672ddf2f": {
     "canonical_url": "https://apnews.com/article/britain-immigration-refugee-routes-71c403ff344e5d23109636e0a5770ab4",
@@ -6357,7 +6389,7 @@
   },
   "9f1c581e8275a0feae5ac4a7550ba884ad3a10f02f847f4abbd8546ed55e776d": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7134418.pdf?abstractid=7134418&mirid=1",
-    "resolved_at": "2026-08-12T02:41:07+00:00"
+    "resolved_at": "2026-08-20T01:49:35+00:00"
   },
   "9f30e30c69939d3034d8fc6111dc3918b8cc62a9223ff456c7c2af379fb09bfc": {
     "canonical_url": "https://www.wired.com/story/cbp-workers-allegedly-used-government-databases-to-spy-on-exes-crushes-and-colleagues/",
@@ -7421,7 +7453,7 @@
   },
   "b750d90d08f871847052e0df82e15eedb0917b86a9a00c8a91fe0a84a214d1cc": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6885622.pdf?abstractid=6885622&mirid=1",
-    "resolved_at": "2026-08-12T02:40:45+00:00"
+    "resolved_at": "2026-08-20T01:49:12+00:00"
   },
   "b7788dada48fe25fdb556bd2594a3502456ac3588075770de61549e42442c414": {
     "canonical_url": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
@@ -7714,6 +7746,10 @@
   "bf41ca92477dbf71b16781c5a8ee5608e815fd405f008cdd7fffafd9e78297be": {
     "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202605140900BIZWIRE_USPRX____20260514_BW990193-1",
     "resolved_at": "2026-06-09T04:24:19+00:00"
+  },
+  "bf53fb5c365ef1195313eb55dff60dbb0c9153fe337ae818a490967c10889e47": {
+    "canonical_url": "https://www.wired.com/story/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+    "resolved_at": "2026-08-20T01:49:20+00:00"
   },
   "bf638046bb051e7f0b0ba9f67d0e6f999fdb26bdc0529d5d36a3155d4886cd17": {
     "canonical_url": "https://www.bbc.com/news/articles/c1kyygjvz7go",
@@ -8847,6 +8883,10 @@
     "canonical_url": "https://therecord.media/uk-plans-for-cybercrime-law-reform-limited-protections",
     "resolved_at": "2026-05-24T10:11:56+00:00"
   },
+  "dbbada5afb3e4806a6a65d8fcb98aaa8a8bfb41dd9ac4d5dc42ff8518d1238a5": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3799891",
+    "resolved_at": "2026-08-20T01:49:43+00:00"
+  },
   "dbe4526d80d81bc789531cdd7c68bccb2bee74a1087b8c827e6332b32ba38bd1": {
     "canonical_url": "https://arxiv.org/html/2608.07337v1",
     "resolved_at": "2026-08-11T02:25:23+00:00"
@@ -9265,7 +9305,7 @@
   },
   "e51c8b1c68324c5f4494457119f06fd732bd64ea9ca41d8198bceeb67c9748ee": {
     "canonical_url": "https://www.usenix.org/conference/usenixsecurity26/technical-sessions",
-    "resolved_at": "2026-08-12T02:41:03+00:00"
+    "resolved_at": "2026-08-20T01:49:31+00:00"
   },
   "e521aca1471b0b3b37609292969b1abca7471d863dbaa7c679548dca30097c5b": {
     "canonical_url": "https://www.bbc.co.uk/sounds/play/m002xzly",
@@ -9766,6 +9806,10 @@
   "f19ebb7c96dc842c92a322b01c8f4e2aa8d972d2103dd474e32771bb9975b299": {
     "canonical_url": "https://www.abc.net.au/news/2026-06-14/africans-stranded-amid-scams-crackdown/106790704",
     "resolved_at": "2026-06-14T05:06:45+00:00"
+  },
+  "f1a3fd4fabf16170e32fcf605b3c827be89be54f17bed4859bfd3c062d5bfb7e": {
+    "canonical_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "resolved_at": "2026-08-20T01:49:07+00:00"
   },
   "f1b4146ea6724648d611434118544af48bc9217d65dcf3ed31ebc38a3718cf4d": {
     "canonical_url": "https://arxiv.org/pdf/2607.07271",
