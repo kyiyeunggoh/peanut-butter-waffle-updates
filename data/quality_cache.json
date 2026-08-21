@@ -4493,7 +4493,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-13T02:43:57+00:00",
+    "checked_at": "2026-08-21T01:56:47+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -6918,9 +6918,9 @@
   "20a92879570b71a3d420740421cf3bf6e661007c00cf79e7b3fa6bc282072f4d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: 1 1 institutetext: University of Surrey, Guildford GU2 7XH, UK 2 2 institutetext: Adobe Research, San Jose CA 95110, USA Soft Redaction of Image Provenance via Zero-Knowledge Proofs Muhammad Awan John Collomosse Abstract Content provenance standards, such as C2PA, are increasingly used to attach signed records of origin, editing history, and rights to digital images. However, provenance transparency can conflict with privacy \u2013 assertions that strengthen trust in an image may also reveal sensitive information about the creator or capture context. We propose soft redaction for image provenance: a mechanism that replaces sensitive provenance assertions with zero-knowledge proofs (ZKPs) of selected properties over hidden data. Our work focuses on distance proofs. We first show how location assertions can support proofs of proximity to a public reference point, using Chebyshev polynomial approximations within the ZKP proof circuit. We then extend the approach to \u2113 2 \\ell_{2} distance proofs over biometric embeddings, enabling privacy-preserving claims related to likeness to help enforce personality rights with images. Finally, we apply the same distance-proof construction to perceptual hashes (visual fingerprints), supporting an anti-spoofing use case in watermark-based recovery of stripped provenance metadata. Our results...",
+    "article_excerpt": "Content selection saved. Describe the issue below: Soft Redaction of Image Provenance via Zero-Knowledge Proofs Muhammad Awan Affiliation: University of Surrey, Guildford GU2 7XH, UK John Collomosse Affiliation: University of Surrey, Guildford GU2 7XH, UK Affiliation: Adobe Research, San Jose CA 95110, USA Abstract Content provenance standards, such as C2PA, are increasingly used to attach signed records of origin, editing history, and rights to digital images. However, provenance transparency can conflict with privacy \u2013 assertions that strengthen trust in an image may also reveal sensitive information about the creator or capture context. We propose soft redaction for image provenance: a mechanism that replaces sensitive provenance assertions with zero-knowledge proofs (ZKPs) of selected properties over hidden data. Our work focuses on distance proofs. We first show how location assertions can support proofs of proximity to a public reference point, using Chebyshev polynomial approximations within the ZKP proof circuit. We then extend the approach to \u2113 2 \\ell_{2} distance proofs over biometric embeddings, enabling privacy-preserving claims related to likeness to help enforce personality rights with images. Finally, we apply the same distance-proof construction to perceptual hashes (visual fingerprints), supporting an anti-spoofing use case in watermark-based recovery of...",
     "cache_version": 8,
-    "checked_at": "2026-08-11T02:25:20+00:00",
+    "checked_at": "2026-08-21T01:56:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -6931,7 +6931,9 @@
     "rejection_reason": null,
     "research_relevance_category": "direct_scam_relevance",
     "research_relevance_score": 50,
-    "research_reputation_signals": [],
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [
@@ -6943,7 +6945,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 12172
+    "word_count": 13379
   },
   "20c742cfc93011daa2515281b7c71e31c6180a3b0f5a3bab872c364aa318b3ef": {
     "access_status": "available",
@@ -8040,7 +8042,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
     "cache_version": 8,
-    "checked_at": "2026-08-13T02:44:02+00:00",
+    "checked_at": "2026-08-21T01:56:55+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -11157,6 +11159,51 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "33bf0ea33926157263d06e68d8cdb573980996b5dce14cdb16cf25f9fc74276f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A compound reportedly used by scam operators in O\u2019Smach, Cambodia. Photograph: Chalinee Thirasupa/Reuters View image in fullscreen A compound reportedly used by scam operators in O\u2019Smach, Cambodia. Photograph: Chalinee Thirasupa/Reuters They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped The cyber-fraud industry has flourished in Thailand, Cambodia and Myanmar, with thousands of people trafficked into the industry. But even those who have managed to find a way out often cannot return home A rtillery fire thundered. Windows shattered. Roofs caved in. And thousands of foreign workers \u2013 many who had been tricked and trafficked into the vast cyber-fraud industry that has flourished in south-east Asia \u2013 fled. For a brief moment, the regional crackdown appeared to mark a turning point in one of the world\u2019s fastest-growing criminal industries, which has defrauded millions of people globally and generated billions of dollars for organised crime networks. Police and troops across Thailand, Cambodia and Myanmar conducted mass raids to empty and demolish some of the region\u2019s massive scam centres.",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 4824
+  },
   "33c63a9c721ecd2218cbff235051251c1acae00e3a0a878ff1d2775978a92ca4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12499,7 +12546,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Thanks: Graduate School of Economics, University of Osaka.",
     "cache_version": 8,
-    "checked_at": "2026-08-13T02:43:58+00:00",
+    "checked_at": "2026-08-21T01:56:48+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -14744,6 +14791,62 @@
       "fraud"
     ],
     "word_count": 1774
+  },
+  "426905f056848d621483cbf5952f5484035a6d891790c4883351fc52639b0d56": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Bonik Somiti : A Social-market Tool for Safe, Accountable, and Harmonious Informal E-Market Ecosystem in Bangladesh DOI: 10.1145/1122445.1122456 Conference: CHI; Nov 5-9, 2026; USA CHI\u201924, Nov, 2026, USA Price: 15.00 DOI: 10.1145/3491102.43 ISBN: 978-1-4503-9157-3/22/04 CCS: Human-centered computing Web-based interaction CCS: Human-centered computing Social networking sites ATM Mizanur Rahman Affiliation: Computer Science , University of Illinois Urbana-Champaign , Champaign , Illinois , USA email: amr12@illinois.edu and Sharifa Sultana Affiliation: Computer Science , University of Illinois Urbana-Champaign , Champaign , Illinois , USA email: sharifas@illinois.edu 2026; \u00a9 acmlicensed Abstract. People in informal e-markets often try to deal with fraud and financial harm by sharing posts, screenshots, and warnings in social media groups. However, buyers and sellers frequently face further problems because these reports are scattered, hard to verify, and rarely lead to resolution. We studied these issues through a survey with 124 participants and interviews with 36 buyers, sellers, and related stakeholders from Bangladesh and designed Bonik Somiti, a socio-technical system that supports structured reporting, admin-led mediation, and accountability in informal e-markets. Our evaluation with 32 participants revealed several...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27687
   },
   "426b45d2f831ef185ce8ba45ba70e293536a7b5181f118b45188a55280d9fcd6": {
     "access_status": "available",
@@ -17659,6 +17762,48 @@
     ],
     "word_count": 5337
   },
+  "4de48470d38fa272905a14364210da49a26c0beba184b9d85ee818dc0a3d68fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: RecTen: A Recursive Hierarchical Low Rank Tensor Factorization Method to Discover Hierarchical Patterns in Multi-modal Data Risul Islam Affiliation: UC Riverside Email: risla002@ucr.edu Md Omar Faruk Rokon Affiliation: UC Riverside Email: mroko001@ucr.edu Evangelos E. Papalexakis Affiliation: UC Riverside Email: epapalex@cs.ucr.edu Michalis Faloutsos Affiliation: UC Riverside Email: michalis@cs.ucr.edu Abstract How can we expand the tensor decomposition to reveal a hierarchical structure of the multi-modal data in a self-adaptive way? Current tensor decomposition provides only a single layer of clusters. We argue that with the abundance of multi-modal data and time-evolving networks nowadays, the ability to identify emerging hierarchies is important. To this effect, we propose RecTen, a recursive hierarchical soft clustering approach based on tensor decomposition. Our approach enables us to: (a) recursively decompose clusters identified in the previous step, and (b) identify the right conditions for terminating this process. In the absence of proper ground truth, we evaluate our approach with synthetic data and test its sensitivity to different parameters. We also apply RecTen on five real datasets which involve the activities of users in online discussion platforms, such as security forums. This analysis helps us reveal...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "trust"
+    ],
+    "word_count": 16771
+  },
   "4df6e97a14a8034c89980de3de1cb11c947fc84073b0ce0d1c781c32fc77db21": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -18667,6 +18812,45 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "52d228e848935338e31ac91371d11e88232a900b18e33308161500ed43709e82": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Phish-Defence: Phishing Detection Using Deep Recurrent Neural Networks Aman Rangapur is with the School of Computer Science and Engineering, VIT-AP University, Andhra Pradesh, India, 522237. Email: amanrangapur@gmail.com Tarun Kanakam is with the School of Computer Science and Engineering, VIT-AP University, Andhra Pradesh, India, 522237, Email: kanakamtarunkumartk@gmail.com Ajith Jubilson is with the School of Computer Science and Engineering, VIT-AP University, Andhra Pradesh, India, 522237, Email: ajith.jubilson@vitap.ac.in Aman Rangapur, Tarun Kanakam and Dhanvanthini P Abstract In the growing world of the internet, the number of ways to obtain crucial data such as passwords and login credentials, as well as sensitive personal information has expanded. Page impersonation, often known as phishing, is one method of obtaining such valuable information. Phishing is one of the most straightforward forms of cyber-attack for hackers, as well as one of the simplest for victims to fall for. It can also provide hackers with everything they need to access their targets\u2019 personal and corporate accounts. Such websites do not provide a service but instead gather personal information from users. In this paper, we achieved state-of-the-art accuracy in detecting malicious URLs using recurrent neural networks. Unlike previous studies, which...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:43+00:00",
+    "direct_relevance_terms_found": [
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "phishing site"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 10210
   },
   "52d46f571c5ef1cba6eb8b42b6ebc54ffe7242726aee3962256735cb7b3f31c2": {
     "access_status": "available",
@@ -19876,7 +20060,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 8,
-    "checked_at": "2026-08-13T02:43:59+00:00",
+    "checked_at": "2026-08-21T01:56:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -20874,6 +21058,57 @@
       "victim"
     ],
     "word_count": 1325
+  },
+  "5c202612bbdcbc03f1807d4ae0ee38e7a51805ef368d65b8e146a125ddb5b7ab": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Achievement Unlocked: Let\u2019s Get Hacked! An Empirical Study of Cybercrime in the Video Gaming Ecosystem Janine Schneider 1 , Jan Kallenborn 2 , Tim Hoffmann 3 , Maximilian Eichhorn 3 , Thorsten Holz 4 , Bhupendra Acharya 5 Affiliation: 1 University of Augsburg Affiliation: 2 Saarland University Affiliation: 3 Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg Affiliation: 4 Max Planck Institute for Security and Privacy Affiliation: 5 University of Louisiana at Lafayette Abstract The ubiquity of the video game industry and its large user base have transformed video games into complex social and economic ecosystems. Unfortunately, this growing popularity also attracts cybercriminals who deliberately exploit game-specific mechanisms to target players. Despite this growing threat, cybercrime in the gaming ecosystem has received little systematic attention in prior research. In this work, we present an empirical study of cybercrime affecting video game players, combining qualitative and observational analyses to characterize gaming-related attacks, identify common attack vectors and motivations, and examine player responses. Our study is based on an online survey with 57 international participants, semi-structured interviews with two confirmed victims of gaming-related cybercrime, and an analysis of 2,574 publicly available posts...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "account takeover"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "account takeover"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "account takeover"
+    ],
+    "technology_modus_terms_found": [
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22422
   },
   "5c283f6c82d3346b45b994d9b8622471dc160c85bbe0b4b8f49706cd5a941970": {
     "access_status": "available",
@@ -23706,7 +23941,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Do people rely on ChatGPT more than their peers to detect deepfake news? This research has benefited from the financial support of (a) the Joint Usage/Research Center, the Institute of Social and Economic Research (ISER), and the University of Osaka; (b) Grants-in-Aid for Scientific Research (Nos. 20H05631, 23H00055, and 25H00388) KAKENHI from the Japan Society for the Promotion of Science; and (c) the Support for Pioneering Research Initiated by the Next Generation program of the Japan Science and Technology Agency (No. JPMJSP2138). The design of the experiment reported in this paper was approved by the IRB of ISER (#20231001) in October 2023, and the experiment is preregistered at aspredicted.org (#149838). We thank Tiffany Tsz Kwan Tse and Taisuke Imai for their helpful comments and suggestions. We are also grateful to Bor Hodo\u0161\u010dek, Takahiro Honda, Hiroshi Mito, Masao Ochi, Yushi Sugimoto, Eri Tanaka, and Yoko Yumoto for providing advice materials in the additional experiment, and to those experts who wished to remain anonymous. Finally, we gratefully acknowledge the support of Yuta Shimodaira, Zhelin Zhang, and Satsuki Yamada in conducting the experiment. Yuhao Fu Thanks: Graduate School of Economics, University of Osaka.",
     "cache_version": 8,
-    "checked_at": "2026-08-13T02:43:58+00:00",
+    "checked_at": "2026-08-21T01:56:48+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -25499,6 +25734,49 @@
     "weak_generic_terms_found": [],
     "word_count": 2026
   },
+  "7004aa10c89a703d3e919109df8e12da80fea0e277ccbc4949c44f9c3ca11057": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In this image provided by the Royal Thai Police, Chinese actor Wang Xing (front right) talks with Thai police officers in Mae Sot district, in Thai-Myanmar border, Tak province on Jan 7, 2025. (Photo: The Royal Thai Police via AP) New: You can now listen to articles. This audio is generated by an AI tool. 20 Aug 2026 03:52PM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST SHANGHAI: Seventeen members of a Myanmar-based human trafficking syndicate accused of luring Chinese citizens overseas and selling them to scam compounds have been charged in a Shanghai court, prosecutors said on Wednesday (Aug 19). Chinese actor Wang Xing, whose disappearance near the Thailand-Myanmar border made headlines last year , was among the victims, according to Chinese state broadcaster CCTV. The 17 suspects face charges including trafficking women, illegal detention, robbery and kidnapping, the Second Branch of the Shanghai People\u2019s Procuratorate said on Wednesday in a notice posted on its official WeChat account.",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2738
+  },
   "70ad4d21d8a44081a2020522843feff29ffd4d5b9535d8224fab07af8f7e8114": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -26975,6 +27253,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2203
+  },
+  "77a3714411e659b68397c030ec05bd19fee7187b07e5de9ef8d2d04374425de7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: alshehri@mines.edu malek.ben.salem@accenture.com ding@american.edu Are Smart Home Devices Abandoning IPV Victims? Ahmed Alshehri Affiliation: Accenture Labs Arlington, VA Malek Ben Salem Affiliation: Accenture Labs Arlington, VA Lei Ding Affiliation: American University Washington, D.C. Abstract Smart home devices have brought us many benefits such as advanced security, convenience, and entertainment. However, these devices also have made unintended consequences like giving ultimate power for devices\u2019 owners over their intimate partners in the same household which might lead to tech-facilitated domestic abuse (tech-abuse) as recent research has shown. In this paper, we systematize findings on tech-abuse in smart homes. We show that domestic abuse and Intimate Partner Violence (IPV) in smart homes is more effective and less risky for abusers. Victims find it more harmful and more challenging to protect themselves from. We articulate a comprehensive analysis of all the phases of abuse in smart homes and categorize risks and needs in each phase. Technical analysis of current smart home technologies is conducted to shed light upon their limitations.",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 13704
   },
   "77b6f81c597714d6a392caf2739281ddc10c1558c80cd49e0b810f362cf39d06": {
     "access_status": "available",
@@ -30155,6 +30463,34 @@
       "vulnerability"
     ],
     "word_count": 2519
+  },
+  "825ce14094c10edd81d4a9ee226e93b1a61d346fa9347aab70807a14fcd8a664": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 0
   },
   "828a2c9a8198286286a0949377b61bce160647cfd2be7fd4f18fa4e2a16146cb": {
     "access_status": "available",
@@ -34557,6 +34893,34 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "97a264c01aa103f135e617b804c415d861e1e2e7d92e3784adf4f31e3e1b465a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "If you think that\u2019s a far-fetched scenario, think again. WIRED\u2019s Andy Greenberg got rare access to the closed-door war game and walked away with some disturbing conclusions. This week, Brian Barrett sits down to talk with Andy about Volt Typhoon, the Chinese state-sponsored hacking group that\u2019s spent the past three years pre-positioning itself inside American infrastructure. Article mentioned in this episode: What Happens If China Hacks the US Water Supply? I Went to a Secret War Game to Find Out You can follow Brian Barrett on Bluesky at @brbarrett and Andy Greenberg on Bluesky at @agreenberg . Write to us at [email protected] . How to Listen You can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how: If you're on an iPhone or iPad, open the app called Podcasts, or just tap this link . You can also download an app like Overcast or Pocket Casts and search for \u201cUncanny Valley.\u201d We\u2019re on Spotify too. Transcript Note: This is an automated transcript, which may contain errors. Brian Barrett : This is WIRED\u2019s Uncanny Valley .",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "malware"
+    ],
+    "word_count": 11123
+  },
   "97a7232e896523211d7efaf3adcaabe262852442b28382fa78249fe3558dd275": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -35676,6 +36040,41 @@
       "trust"
     ],
     "word_count": 2396
+  },
+  "9d879180c8374f3a7b43ca92cb9058f4ca4a1227390009da7bb0944a97dbb580": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Theater chain apps suffered apparent outages as moviegoers waited in long virtual lines, hoping to finally glimpse a seat map with some empty spots left on it. In Manhattan, those who have grown mistrustful of this unreliable tech found time on a weekday morning to line up around the block at AMC Lincoln Square\u2014hours before the box office opened. It was the third frenzied rush for blockbuster tickets in a few short weeks, following sky-high demand for Christopher Nolan\u2019s The Odyssey and Destin Daniel Cretton\u2019s Spider-Man: Brand New Day . Customers have been particularly keen to see these films on IMAX screens, with Dune: Part Three and The Odyssey also available in the even more exclusive IMAX 70mm format. Only 25 theaters in the US are capable of showing a film this way. While directors and studios have embraced such premium screenings for tentpole releases (not least because those tickets are more expensive), the rarity of theaters equipped for them has contributed to a scarcity mindset. People are so bent on experiencing these movies in the \u201cbest\u201d possible way, and, if not on opening night, as soon after as possible, that ticket resellers have attempted to auction them off for hundreds of dollars , while some cinephiles have embarked on Homeric journeys to IMAX theaters multiple states away. As such, this week\u2019s competition for Dune: Part Three tickets renewed a feeling of...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4116
   },
   "9db74fa89fb2e9f0c79b8f47fb3aa254663ee9b5a32a6d80e48331646b8e7ca2": {
     "access_status": "available",
@@ -38074,6 +38473,47 @@
     ],
     "word_count": 1100
   },
+  "a783abe079c0a5f6a20cb2cd3f0a669a7b0186a7595ccbd7270fb17a996c4521": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps Sujin Chen Thanks: Equal contribution. Lijun Li 1 1 footnotemark: 1 Thanks: Corresponding authors. Tianyi Du Jing Shao 2 2 footnotemark: 2 Affiliation: Shanghai Artificial Intelligence Laboratory Email: {chensujin,lilijun,shaojing}@pjlab.org.cn Abstract LLM-powered GUI agents that autonomously operate smartphones are rapidly transitioning from research prototypes to early real-world deployment. However, because these agents routinely process untrusted environmental content, they are highly vulnerable to environmental injection attacks, which include indirect prompt injections and adversarial instructions. Such attacks can manipulate the behavior of agents without user awareness through diverse channels encountered in everyday mobile use. Despite these risks, existing benchmarks often fail to capture everyday user scenarios, lacking a systematic evaluation of GUI agents under environmental injection attacks on mobile devices. To address this gap, we introduce MobileWorldSafety , a benchmark of 142 risk tasks built on real Android applications. For each task, we define a programmatically verifiable risk indicator over the final system state and evaluate outcomes with a two-stage pipeline: rule-based verification handles...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "monetary loss"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 23867
+  },
   "a794fbfaf050059cd2d87ed557a50411cce839111382c7c53444d50d7bc5b4be": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -39885,6 +40325,32 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ae365871746c3021e17fb68babe8159f7dbc2a97c9979c1a24bb5d7308cec9b7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The ChatGPT maker says it is introducing a number of new monitoring, security, and alignment requirements to better address the increasingly advanced hacking abilities of its frontier AI models . \u201cWe have to focus our energy on bringing these training runs up to those requirements and expectations. As long as it takes to get there, that's how long people are unable to proceed with their workloads,\u201d Amelia Glaese, OpenAI\u2019s vice president of research and safety, said in a briefing with reporters Tuesday. Among the new safeguards OpenAI announced is a more robust system for monitoring its AI models. One of the controls it implemented involves chain-of-thought monitoring, a technique in which classifiers review the internal \u201cthinking\u201d processes generated by AI reasoning models. The company says the updated system relies on computationally expensive \u201cautomated investigators\u201d that analyze potentially concerning behavior and aim to issue an alert to humans within 30 minutes. OpenAI also said it is expanding its alignment efforts across the training process to prevent \u201creward hacking,\u201d a behavior in which AI models pursue their goals through unintended or undesirable means. The company says it plans to share more details about this work in the future. OpenAI has been scrambling in recent weeks to respond to what may be the most consequential safety incident in its history. Earlier...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2500
   },
   "ae3f25666a41925211deea8aac4307f5543a975dcbff898d4424500f233a7798": {
     "access_status": "available",
@@ -45364,6 +45830,30 @@
     "weak_generic_terms_found": [],
     "word_count": 4050
   },
+  "c51432e9eeaf293998fb5a2666572fc888135936ababc8a5f22676cd0ba46fe0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It\u2019s always easier to keep to one ecosystem as much as you can with smart home gear, letting you stick to a single app and single subscription if you decide to invest in one. While we\u2019ve liked Ring\u2019s cameras and home security products fine enough, they\u2019re hard to recommend at the top of our guides since Ring is reintroducing a policy to enable local law enforcement to request footage directly from Ring users. It\u2019s up to you if that\u2019s something you want to invest in, and if you already have Ring products, it might make the most sense to continue adding onto that ecosystem than diving into a new one. No matter the reason, if you\u2019re looking to add a Ring product to your home, don\u2019t get one without using our Ring coupon codes to get it for a better price. Ring Promo Code: 50% Off Ring Cameras, Doorbells, and Outdoor Cameras Ring is running a deal all month long with up to 50% off different products and bundles . You can get all kinds of Ring cameras and security accessories for a variety of discounts, from Ring\u2019s video doorbell to indoor and outdoor cameras. The Outdoor Smart Home Gear I\u2019ll Always Recommend These locks, lights, and other smart home upgrades let you add automation without messing up your home\u2019s vibe. By Nena Farrell Save $150 on Wired Doorbell Pro and Floodlight Cam If you\u2019re looking for an outdoor combination, you can get both Ring\u2019s Starter Pro Kit , which...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3093
+  },
   "c54b1546e83f909474b327c95d2db8413a8163fc3959c96e7cf7230a4692ee61": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -46452,6 +46942,44 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "c98fd334d856e56c2faf928cf8736d4374039ee3e2ea3757017dccfe68cb310c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Digi Raksha - Interactive cyber safety Simulation The IEEE Society on Social Implications of Technology (SSIT) Student Chapter, Department of Information Technology, Anurag University, organized an interactive session on \u201cDigi Raksha \u2013 Cyber Safety Simulation\u201d on 19th August 2026 at a Government School. The session was designed to create awareness among students about digital safety, cybersecurity threats, and responsible online practices through interactive and practical activities. Participants were introduced to real-world cyber risks through phishing simulations, password security demonstrations, QR scam detection, social engineering challenges, and poster presentations . The programme emphasized safe digital behaviour, awareness of common cyber threats, and the importance of protecting personal information while using online services. The hands-on and engaging format helped students understand cybersecurity concepts in a simple and practical manner. Date and Time Location Hosts Registration Speakers Topic: Cyber Safety and Awareness Email: Address: Telengana, India Cyber Safety and Awareness Email: Address: Telengana, India",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity"
+    ],
+    "word_count": 148
+  },
   "c9c2546ded04e51592f2117a15139de6c56d3c1b360cd6d55c77d3064ab8a0d2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -47439,6 +47967,35 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "cd2ee72a844c0b9c6f313c5c74777a512517870280c59c6e5a419de3d1709ea3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: opML: Optimistic Machine Learning on Blockchain DOI: XXXXXXX.XXXXXXX Conference: Make sure to enter the correct conference title from your rights confirmation emai; June 03\u201305, 2018; Woodstock, NY Price: 15.00 ISBN: 978-1-4503-XXXX-X/18/06 KD Conway Affiliation: Hyper Oracle email: 0x1cc@hyperoracle.io , Cathie So Affiliation: Hyper Oracle email: cathie@hyperoracle.io , Xiaohang Yu Affiliation: Hyper Oracle email: nom4dv3@hyperoracle.io and Kartin Wong Affiliation: Hyper Oracle email: kartin@hyperoracle.io 2018\u00a9 , 2018; Abstract. The integration of machine learning with blockchain technology has witnessed increasing interest, driven by the vision of decentralized, secure, and transparent AI services. In this context, we introduce opML (Optimistic Machine Learning on chain), an innovative approach that empowers blockchain systems to conduct AI model inference. opML lies a interactive fraud proof protocol, reminiscent of the optimistic rollup systems. This mechanism ensures decentralized and verifiable consensus for ML services, enhancing trust and transparency. Unlike zkML (Zero-Knowledge Machine Learning), opML offers cost-efficient and highly efficient ML services, with minimal participation requirements. Remarkably, opML enables the execution of extensive language models, such as 7B-LLaMA, on standard PCs without GPUs...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:ACM Conference on Computer and Communications Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 19946
   },
   "cd456e1e53e00a9845a55a917b19a6bed02af69ac201c54c5c099fcbd6758be3": {
     "access_status": "available",
@@ -51567,6 +52124,35 @@
     ],
     "word_count": 0
   },
+  "defea5557b73c0fbb8487377e133f33330edfe489b0d0b3866f6b7cb1901563c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: 0 Remote-Timer-as-a-Service: Efficient Microarchitectural Leakage in the Cloud with Remote Timers Martin Schwarzl Affiliation: Cloudflare, Inc. , USA , Haocheng Xiao Affiliation: University of Edinburgh , United Kingdom , Albert Pedersen Affiliation: Cloudflare, Inc. , USA , Sam Ainsworth Affiliation: University of Edinburgh , United Kingdom and Nigel Topham Affiliation: University of Edinburgh , United Kingdom \u00a9 none Abstract. Edge computing solutions have become a crucial part of the industry, delivering fast, flexible and scalable applications close to the end users, with typical use cases including dynamic content creation, image resizing and chatbots. Cloudflare Workers is one such framework, which handles millions of HTTP requests per second across the world. To reduce start-up latency, Cloudflare Workers removes process-isolation boundaries between multiple tenants and leverages language-level isolation. This architecture poses the risk of Spectre attacks. To mitigate these, Cloudflare Workers previously introduced several countermeasures such as restricted timer measurements, no shared memory, no multithreading and Dynamic Process Isolation (DyPrIs), detecting potential attacks and process-isolating potentially malicious scripts. In this paper, we demonstrate that the production implementation of DyPrIs was...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability"
+    ],
+    "word_count": 25523
+  },
   "df0f51ed29640ce6a34297f0b0594cc0d0649a6720271d5479efc0759f820d09": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -52248,6 +52834,41 @@
       "watermarking"
     ],
     "word_count": 3706
+  },
+  "e262608d6a81a895770c40861b4c398132a94a7382f63a0b72ff683d12e1b00b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Founder of China\u2019s Evergrande jailed for life after pleading guilty to fraud North Korea fires 10 missiles day after Trump curtails South Korea joint drills Blizzards, nuclear anxiety and a fragile bond: two sisters in Japan \u2013 in pictures They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped The boy behind the Baby Shark phenomenon: I used to hum it without even realising \u2018Like a miracle\u2019: 84-year-old woman pulled alive from rubble three days after Indonesian quake \u2018Like a seagull in a stiff breeze\u2019: what it\u2019s like flying into Wellington, the world\u2019s windiest city",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 101
   },
   "e268b01f992bd790707619749a8405aea5bd92bd3d7fa96beba8ef067dd947f4": {
     "access_status": "available",
@@ -55298,6 +55919,39 @@
     ],
     "word_count": 2367
   },
+  "f1817b7d47bc8bd6e10ba721a8064ee8f4600015ede90eddbdd594628b066885": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Peters, the former clerk of Mesa County, Colorado, has yet to publicly comment on the offer, but her lawyer Peter Ticktin tells WIRED she \u201cis giving consideration to helping in the efforts in Shasta County, as there most definitely has been monkey business in the way the election was handled.\u201d Peters was convicted after she allowed Conan Hayes , a former pro surfer who later worked for pillow salesman turned election denier Mike Lindell , unauthorized access to election equipment in Mesa County as part of a scheme to prove that the 2020 presidential election had been stolen from Donald Trump. (Hayes was never charged for his role in the scheme). Colorado governor Jared Polis commuted Peters\u2019 sentence in May after months of pressure from President Trump, who purported to have issued his own pardon even though Peters was convicted on state charges. Recently released court papers show how Trump and his advisers coordinated with federal agencies to cut federal funding and grants to Colorado as part of a pressure campaign to free Peters. Curtis told The Guardian that Peters would not have access to the county\u2019s voting system but refused to specify what her duties would include. Curtis did not respond to a request for comment. Should Peters accept the role, she would likely feel right at home in Shasta County, a deep-red enclave in Northern California that has become ground zero for...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 4385
+  },
   "f1866aa46f0a65d8d2e6a05885bdb02965591c7ec7500b87f05d58d236af297c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -57568,6 +58222,35 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2451
+  },
+  "fad80b0aaed36c9143486b1f7c17ff9296c504db98a00e3147339958d6b0301c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Explainable Authorship Verification in Social Media via Attention-based Similarity Learning PubID: pubid: \u00a92019 IEEE Thanks: This work was in significant parts performed on a high performance computing cluster at Bucknell University through the support of the National Science Foundation, Grant Number 1659397. Abstract Authorship verification is the task of analyzing the linguistic patterns of two or more texts to determine whether they were written by the same author or not. The analysis is traditionally performed by experts who consider linguistic features, which include spelling mistakes, grammatical inconsistencies, and stylistics for example. Machine learning algorithms, on the other hand, can be trained to accomplish the same, but have traditionally relied on so-called stylometric features. The disadvantage of such features is that their reliability is greatly diminished for short and topically varied social media texts. In this interdisciplinary work, we propose a substantial extension of a recently published hierarchical Siamese neural network approach, with which it is feasible to learn neural features and to visualize the decision-making process. For this purpose, a new large-scale corpus of short Amazon reviews for text comparison research is compiled and we show that the Siamese network topologies outperform...",
+    "cache_version": 8,
+    "checked_at": "2026-08-21T01:56:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 18038
   },
   "fadd4507c6b1eb6b14f4c9177926c8a3525b0025bf543319e9dddc6eb2fed69a": {
     "access_status": "available",
