@@ -37,7 +37,7 @@ SEEN_NEAR_DUPLICATE_CACHE: dict[tuple[int, int, int, int], list[dict[str, Any]]]
 CACHE_TTL_DAYS = 7
 CANDIDATE_CACHE_TTL_HOURS = 12
 CACHE_MAX_ENTRIES = 5000
-QUALITY_CACHE_VERSION = 8
+QUALITY_CACHE_VERSION = 9
 DOMAIN_QUERY_TERMS = (
     "AI",
     "artificial intelligence",
@@ -81,6 +81,21 @@ INVESTIGATIVE_MONITORED_SOURCE_QUERY_TERMS = (
     "deepfake scam",
     "scam infrastructure",
 )
+AI_SCAM_METHODOLOGY_QUERY_TERMS = (
+    "AI-powered voice phishing",
+    "automated vishing",
+    "AI vishing",
+    "voice phishing attacks LLM",
+    "AI voice synthesis scams",
+    "LLM fraud assistance",
+    "multi-turn LLM phishing",
+    "multilingual LLM scam assistance",
+    "LLM social engineering agents",
+    "AI scam methodology",
+    "AI scam modus operandi",
+    "scam scripts LLM",
+    "automated social engineering scams",
+)
 GLOBAL_FALLBACK_QUERIES = (
     "deepfake",
     "AI fraud",
@@ -114,6 +129,15 @@ GLOBAL_FALLBACK_QUERIES = (
     "victim as a service",
     "scam detection intervention study",
     "scam reporting triage research",
+    "AI-powered voice phishing",
+    "automated vishing",
+    "AI voice synthesis scams",
+    "LLM fraud assistance",
+    "multi-turn LLM phishing",
+    "multilingual LLM scam assistance",
+    "LLM social engineering agents",
+    "AI scam methodology",
+    "scam scripts LLM",
     "scam compounds Southeast Asia investigation",
     "cyber scam compounds investigation",
     "pig butchering scam compound investigation",
@@ -163,6 +187,10 @@ SPECIFIC_PRODUCT_RADAR_QUERIES = (
     '"Chinese nationals" "cyberscam compound" Myanmar',
     '"Victim as a Service" scammers',
     '"Designing a System for Engaging with Interactive Scammers"',
+    '"Evaluating AI Models" "Automate Voice Phishing Attacks"',
+    '"AI Models" "Automate Voice Phishing Attacks"',
+    '"Helpful to a Fault" "Illicit Assistance"',
+    '"Multi-Turn, Multilingual LLM Agents" "Illicit Assistance"',
     "site:arxiv.org scam victim psychology",
     "site:arxiv.org social engineering persuasion LLM",
     "site:arxiv.org harmful persuasion fraud scam",
@@ -177,6 +205,15 @@ SPECIFIC_PRODUCT_RADAR_QUERIES = (
     "site:arxiv.org LLM social engineering benchmark",
     "site:arxiv.org deepfake scam detection",
     "site:arxiv.org synthetic identity fraud",
+    "site:arxiv.org AI-powered voice phishing",
+    "site:arxiv.org automated vishing",
+    "site:arxiv.org voice phishing LLM",
+    "site:arxiv.org AI voice synthesis scam",
+    "site:arxiv.org LLM fraud assistance multi-turn",
+    "site:arxiv.org multilingual LLM agents illicit assistance",
+    "site:arxiv.org LLM social engineering agents",
+    "site:arxiv.org scam methodology LLM",
+    "site:arxiv.org AI scam modus operandi",
     "site:ssrn.com fraud victim decision making",
     "site:ssrn.com social engineering fraud",
     "site:osf.io scam victim psychology",
@@ -406,6 +443,19 @@ ENFORCEMENT_TERMS = (
 RESEARCH_METHOD_TERMS = (
     "victim as a service",
     "interactive scammers",
+    "voice phishing",
+    "vishing",
+    "automated vishing",
+    "ai-powered voice phishing",
+    "ai voice synthesis",
+    "scam scenarios",
+    "scam scenario",
+    "compliance rates",
+    "illicit assistance",
+    "multi-turn",
+    "multilingual",
+    "scam methodology",
+    "modus operandi",
     "detection",
     "dataset",
     "benchmark",
@@ -426,6 +476,90 @@ PRODUCT_DATA_SOURCE_TERMS = (
     "data source",
     "webhook",
     "feed",
+)
+AI_SCAM_METHODOLOGY_TERMS = (
+    "ai-powered voice phishing",
+    "automated vishing",
+    "ai vishing",
+    "voice phishing",
+    "voice phishing attacks",
+    "ai voice synthesis",
+    "voice synthesis",
+    "voice cloning",
+    "scam scenarios",
+    "scam scenario",
+    "scam scripts",
+    "compliance rates",
+    "caller persuasiveness",
+    "persuasiveness",
+    "ai-powered scams",
+    "ai-enabled vishing",
+    "automated social engineering",
+    "illicit assistance",
+    "multi-turn",
+    "multilingual llm agents",
+    "llm agents",
+    "llm fraud assistance",
+    "llm scam assistance",
+    "scam methodology",
+    "modus operandi",
+)
+LOW_SIGNAL_RESEARCH_CONTEXT_TERMS = (
+    "informal e-market",
+    "e-market ecosystem",
+    "social-market tool",
+    "harmonious informal",
+    "marketplace mediation",
+    "admin-led mediation",
+    "crypto x ai",
+    "enhancing crypto with ai",
+    "ai and blockchain",
+    "blockchain ai",
+    "crypto with ai",
+    "crypto ecosystem survey",
+    "side-effect misalignment",
+    "side effect misalignment",
+    "introspection adapters",
+    "fine-tuning",
+    "finetuning",
+    "model misalignment",
+    "model safety",
+    "safety guardrails",
+    "alignment auditing",
+)
+HIGH_VALUE_RESEARCH_CONTEXT_TERMS = (
+    "scam methodology",
+    "modus operandi",
+    "scam scenario",
+    "scam scenarios",
+    "scammer",
+    "scammer-victim",
+    "victim compliance",
+    "compliance rates",
+    "caller persuasiveness",
+    "victim vulnerability",
+    "psychological",
+    "behavioral factors",
+    "voice phishing",
+    "vishing",
+    "ai-powered voice phishing",
+    "automated vishing",
+    "illicit assistance",
+    "fraud assistance",
+    "phishing kit",
+    "scam kit",
+    "scam detection",
+    "scam intervention",
+    "fake website detection",
+    "scam call detection",
+    "scam message detection",
+    "mule",
+    "scam compound",
+    "romance scam",
+    "pig butchering",
+    "investment scam",
+    "deepfake scam",
+    "synthetic identity fraud",
 )
 DIRECT_ANTI_SCAM_TERMS = (
     "scam",
@@ -601,6 +735,24 @@ RESEARCH_POSITIVE_TERMS = (
     "scam kit",
     "llm misuse",
     "ai-enabled fraud",
+    "ai-powered voice phishing",
+    "automated vishing",
+    "ai vishing",
+    "voice phishing",
+    "voice phishing attacks",
+    "ai voice synthesis",
+    "scam scenarios",
+    "scam scenario",
+    "scam scripts",
+    "compliance rates",
+    "scam compliance",
+    "illicit assistance",
+    "multi-turn",
+    "multilingual llm agents",
+    "automated social engineering",
+    "ai-powered scams",
+    "scam methodology",
+    "modus operandi",
 )
 RESEARCH_NEGATIVE_TERMS = (
     "enterprise security",
@@ -617,6 +769,15 @@ RESEARCH_NEGATIVE_TERMS = (
     "rootkit only",
     "network intrusion only",
     "vulnerability management only",
+    "informal e-market",
+    "e-market ecosystem",
+    "social-market tool",
+    "marketplace mediation",
+    "crypto x ai",
+    "enhancing crypto with ai",
+    "ai and blockchain",
+    "blockchain ai survey",
+    "crypto with ai",
 )
 RESEARCH_DIRECT_TITLE_TERMS = (
     "scam",
@@ -632,6 +793,10 @@ RESEARCH_DIRECT_TITLE_TERMS = (
     "phishing",
     "smishing",
     "vishing",
+    "voice phishing",
+    "ai-powered voice phishing",
+    "automated vishing",
+    "ai vishing",
     "impersonation",
     "romance scam",
     "investment scam",
@@ -647,6 +812,12 @@ RESEARCH_DIRECT_TITLE_TERMS = (
     "grooming",
     "harmful persuasion",
     "fraud assistance",
+    "illicit assistance",
+    "multi-turn llm",
+    "multilingual llm",
+    "scam scripts",
+    "scam methodology",
+    "modus operandi",
     "scam farm",
     "scam compound",
     "phishing kit",
@@ -735,6 +906,10 @@ STRONG_SCAM_ANCHOR_TERMS = (
     "gen ai fraud",
     "deepfake fraud",
     "deepfake scam",
+    "voice phishing",
+    "ai-powered voice phishing",
+    "automated vishing",
+    "ai vishing",
     "voice cloning scam",
     "synthetic identity fraud",
     "scam kit",
@@ -1288,7 +1463,7 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
     seen_source_domains: set[str] = set()
 
     targeted_queries = sorted(
-        SPECIFIC_PRODUCT_RADAR_QUERIES,
+        SPECIFIC_PRODUCT_RADAR_QUERIES + AI_SCAM_METHODOLOGY_QUERY_TERMS,
         key=lambda query: (0 if is_longform_query_text(query) else 1, query.lower()),
     )
     for query in targeted_queries:
@@ -2179,6 +2354,14 @@ def classify_usefulness_category(item: dict[str, Any]) -> str:
     if any(term in haystack for term in ("victim as a service", "interactive scammers")):
         return "Research / novel method"
     if article_type == "Research paper":
+        if any(term in haystack for term in AI_SCAM_METHODOLOGY_TERMS):
+            return "Research / novel method"
+        if any(term in haystack for term in ("voice phishing", "vishing", "ai-powered voice phishing", "automated vishing")) and any(
+            term in haystack for term in ("persuasiveness", "compliance", "susceptibility", "psychological", "behavioral", "behavioural", "victim")
+        ):
+            return "Research / novel method"
+        if any(term in haystack for term in ("illicit assistance", "multi-turn", "multilingual llm", "llm fraud assistance", "llm scam assistance")):
+            return "Research / novel method"
         if any(term in haystack for term in PRODUCT_DATA_SOURCE_TERMS + RESEARCH_METHOD_TERMS):
             return "Product idea / data source"
         return "Research / novel method"
@@ -2315,6 +2498,9 @@ def classify_research_relevance(candidate: dict[str, Any], text: str) -> tuple[s
 
     direct_terms = terms_found(text, RESEARCH_POSITIVE_TERMS)
     negative_terms = terms_found(text, RESEARCH_NEGATIVE_TERMS)
+    methodology_terms = terms_found(text, AI_SCAM_METHODOLOGY_TERMS)
+    low_signal_context_terms = terms_found(text, LOW_SIGNAL_RESEARCH_CONTEXT_TERMS)
+    high_value_context_terms = terms_found(text, HIGH_VALUE_RESEARCH_CONTEXT_TERMS)
     has_scam_context = any(
         term in text
         for term in (
@@ -2328,11 +2514,19 @@ def classify_research_relevance(candidate: dict[str, Any], text: str) -> tuple[s
             "harmful persuasion",
         )
     )
+    if low_signal_context_terms and not high_value_context_terms:
+        if any(term in text for term in ("crypto", "blockchain")):
+            return "generic_fraud_ml", -35
+        return "irrelevant_or_adjacent", -60
     if direct_terms and set(direct_terms).issubset({"persuasion", "manipulation", "deception"}) and not has_scam_context:
         direct_terms = []
 
     if any(term in text for term in ("victim as a service", "interactive scammers", "scam conversation")):
         return "direct_scam_relevance", 60
+    if methodology_terms and any(term in text for term in ("llm", "ai", "voice", "vishing", "phishing", "scam", "fraud")):
+        if any(term in text for term in ("compliance", "persuasiveness", "victim", "psychological", "behavioral", "behavioural")):
+            return "victim_psychology_or_persuasion", 70
+        return "llm_adverse_use_benchmark", 65
     scam_psych_context = has_scam_context
     if any(term in text for term in ("grooming", "trust-building", "harmful persuasion", "victimology")) or (
         scam_psych_context and any(term in text for term in ("persuasion", "manipulation", "deception"))
@@ -2854,10 +3048,14 @@ def is_psychology_item(item: dict[str, Any]) -> bool:
         for term in (
             "victim psychology",
             "victim vulnerability",
+            "victim susceptibility",
+            "susceptibility",
             "user vulnerability",
             "psychological",
             "behavioral factors",
             "behavioural factors",
+            "compliance rates",
+            "caller persuasiveness",
             "fraud victim",
             "scam victim",
             "persuasion",
@@ -2876,18 +3074,44 @@ def is_psychology_item(item: dict[str, Any]) -> bool:
     )
 
 
+def is_ai_scam_methodology_item(item: dict[str, Any]) -> bool:
+    text = candidate_relevance_text(item)
+    return bool(terms_found(text, AI_SCAM_METHODOLOGY_TERMS)) and any(
+        term in text
+        for term in (
+            "scam",
+            "phishing",
+            "vishing",
+            "fraud",
+            "social engineering",
+            "illicit assistance",
+            "victim",
+        )
+    )
+
+
+def is_low_signal_generic_research_context(item: dict[str, Any]) -> bool:
+    text = candidate_relevance_text(item)
+    if not terms_found(text, LOW_SIGNAL_RESEARCH_CONTEXT_TERMS):
+        return False
+    return not terms_found(text, HIGH_VALUE_RESEARCH_CONTEXT_TERMS)
+
+
 def is_llm_adverse_use_item(item: dict[str, Any]) -> bool:
     text = candidate_signal_text(item)
-    return any(term in text for term in ("llm", "large language model", "benchmark", "evaluation", "eval")) and any(
+    return any(term in text for term in ("llm", "large language model", "benchmark", "evaluation", "eval", "multi-turn", "multilingual")) and any(
         term in text
         for term in (
             "scam",
             "phishing",
             "fraud assistance",
+            "illicit assistance",
             "harmful persuasion",
             "social engineering",
             "deception",
             "scammer",
+            "voice phishing",
+            "vishing",
         )
     )
 
@@ -3024,6 +3248,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
     has_scam_anchor = bool(candidate.get("strong_scam_anchor_terms_found"))
     if is_psychology_item(candidate):
         quality_score += 90
+    if is_ai_scam_methodology_item(candidate):
+        quality_score += 120
     if is_investigative_or_operational_item(candidate):
         quality_score += 85
     if is_direct_research_item(candidate):
@@ -3127,6 +3353,8 @@ def compute_quality_score(candidate: dict[str, Any], config: dict[str, Any]) -> 
         quality_score -= 15
     if research_category in {"generic_fraud_ml", "generic_cybersecurity", "generic_ai_security", "irrelevant_or_adjacent"}:
         quality_score -= 10
+    if is_low_signal_generic_research_context(candidate):
+        quality_score -= 160
 
     return quality_score
 
@@ -3150,6 +3378,8 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         return "outdated_article"
     if anti_scam_relevance == "irrelevant":
         return "irrelevant_anti_scam_relevance"
+    if article_type == "Research paper" and is_low_signal_generic_research_context(candidate):
+        return "generic_research_or_technical"
     if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not direct_title_terms and not metadata_eligible_research:
         return "generic_research_or_technical"
     positive_research_category = research_category not in {
@@ -5860,6 +6090,8 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Do not assign items to a specialist section unless the item actually matches that section. Generic AI cybersecurity does not belong under Deepfakes, synthetic identity & impersonation. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
         "Do not select research merely because it is technical or about fraud generally. Research should be selected only if it directly helps anti-scam product work: scammer methods, victim psychology, harmful persuasion, LLM-enabled scam abuse, scam detection, scam intervention, deepfake scams, synthetic identity, social engineering, or adverse-use benchmarks. "
+        "Strong research examples include AI-powered voice phishing/vishing experiments, scam-scenario compliance studies, voice synthesis or LLM systems that automate scammer workflows, illicit-assistance benchmarks for multi-turn or multilingual LLM agents, and papers that reveal scam modus operandi or intervention methods. "
+        "Do not select generic e-marketplace, crypto-AI, blockchain, or broad platform-governance papers just because they mention fraud. Select them only if they expose concrete scam methodology, attacker workflow, victim manipulation, detection/intervention design, scam infrastructure, or AI-enabled scam abuse. "
         "Research reputation signals such as strong venues or affiliation domains are tie-breakers only; never select a paper solely because it has a prestigious venue or institution signal. "
         "Exclude generic cybersecurity, generic enterprise agent security, generic fraud ML, or unrelated technical domains unless there is a direct scam/social-engineering link. "
         f"You may select between 2 and {sent_count} articles when at least two final-eligible candidates are available. Aim for 3 to 4 when enough strong fresh items exist, and never select more than 5. Do not always select the maximum. Select only articles that are genuinely relevant to anti-scam product work. "
