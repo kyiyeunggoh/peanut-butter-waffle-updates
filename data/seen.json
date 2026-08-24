@@ -1652,6 +1652,20 @@
       "url": "https://arxiv.org/html/2506.22515",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-08-17|door foot jailbreak llms multi turn": {
+      "article_type": "Research paper",
+      "normalised_title": "foot door multi turn jailbreak llms",
+      "normalized_title_fingerprint": "foot door multi turn jailbreak llms",
+      "original_url": "https://arxiv.org/html/2502.19820v3",
+      "parsed_date": "2026-08-17",
+      "raw_title": "Foot-In-The-Door : A Multi-turn Jailbreak for LLMs",
+      "same_story_key": "arxiv.org|2026-08-17|door foot jailbreak llms multi turn",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "foot door multi turn jailbreak llms",
+      "url": "https://arxiv.org/html/2502.19820v3",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-08-18|achievement cybercrime ecosystem empirical gaming get hacked let": {
       "article_type": "Research paper",
       "normalised_title": "achievement unlocked let s get hacked empirical study cybercrime video gaming ecosystem",
@@ -2450,6 +2464,20 @@
       "url": "https://dl.acm.org/doi/10.1016/j.eswa.2026.132189",
       "usefulness_category": "Product idea / data source"
     },
+    "gbhackers.com|2026-08-18|apps asterix crypto fake operation phrases seed steal": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "normalized_title_fingerprint": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "original_url": "https://gbhackers.com/operation-asterix-uses-vishing/",
+      "parsed_date": "2026-08-18",
+      "raw_title": "Operation ASTERIX Uses Vishing and Fake Crypto Wallet Apps to Steal Seed Phrases",
+      "same_story_key": "gbhackers.com|2026-08-18|apps asterix crypto fake operation phrases seed steal",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "gbhackers.com",
+      "title": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "url": "https://gbhackers.com/operation-asterix-uses-vishing/",
+      "usefulness_category": "Platform policy / product change"
+    },
     "graphika.com|2024-12-18|frauds holiday infographic scams unwrapped": {
       "article_type": "Deep analysis",
       "normalised_title": "infographic holiday scams frauds unwrapped",
@@ -2869,6 +2897,20 @@
       "title": "evaluating ai enabled fraud detection systems protecting businesses financial losses scams",
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5267872.pdf?abstractid=5267872&mirid=1",
       "usefulness_category": "Product idea / data source"
+    },
+    "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi": {
+      "article_type": "Technical article",
+      "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "normalized_title_fingerprint": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "original_url": "https://www.rescana.com/post/levi-strauss-co-social-engineering-cyberattack-exposes-corporate-data-incident-analysis-and-mitigation-recommendations",
+      "parsed_date": "2026-08-09",
+      "raw_title": "Levi Strauss & Co. Social Engineering Cyberattack Exposes Corporate Data: Incident Analysis and Mitigation Recommendations",
+      "same_story_key": "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "rescana.com",
+      "title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "url": "https://www.rescana.com/post/levi-strauss-co-social-engineering-cyberattack-exposes-corporate-data-incident-analysis-and-mitigation-recommendations",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "restofworld.org|2026-05-05|anthropic attacks cybersecurity deepens gap global mythos powered": {
       "article_type": "News report",
@@ -3485,6 +3527,20 @@
       "title": "they escaped south east asia s scam compounds then they realised they were still trapped",
       "url": "https://www.theguardian.com/global-development/2026/aug/20/scam-compounds-trafficked-cambodia-rescued-sleeping-rough-detention",
       "usefulness_category": "Operational intelligence"
+    },
+    "theguardian.com|2026-08-20|asia cambodia compounds east escaped realised scam south": {
+      "article_type": "News report",
+      "normalised_title": "they escaped south east asia s scam compounds then they realised they were still trapped",
+      "normalized_title_fingerprint": "cambodia",
+      "original_url": "https://www.theguardian.com/world/cambodia",
+      "parsed_date": "2026-08-20",
+      "raw_title": "They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped",
+      "same_story_key": "theguardian.com|2026-08-20|asia cambodia compounds east escaped realised scam south",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "theguardian.com",
+      "title": "they escaped south east asia s scam compounds then they realised they were still trapped",
+      "url": "https://www.theguardian.com/world/cambodia",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "therecord.media|2025-05-08|amazon cogui impersonating japan kit orgs phishing rakuten": {
       "article_type": "Technical article",
@@ -4524,6 +4580,18 @@
       "title": "callscreenbench benchmarking device models phone secretaries",
       "usefulness_category": "Product idea / data source"
     },
+    "cambodia": {
+      "article_type": "News report",
+      "normalised_title": "they escaped south east asia s scam compounds then they realised they were still trapped",
+      "normalized_title_fingerprint": "cambodia",
+      "parsed_date": "2026-08-20",
+      "raw_title": "They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped",
+      "same_story_key": "theguardian.com|2026-08-20|asia cambodia compounds east escaped realised scam south",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "theguardian.com",
+      "title": "they escaped south east asia s scam compounds then they realised they were still trapped",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
@@ -5148,6 +5216,18 @@
       "title": "filipino trial being part cambodia scam syndicate says she travelled there office job wanted return home",
       "usefulness_category": "Operational intelligence"
     },
+    "foot door multi turn jailbreak llms": {
+      "article_type": "Research paper",
+      "normalised_title": "foot door multi turn jailbreak llms",
+      "normalized_title_fingerprint": "foot door multi turn jailbreak llms",
+      "parsed_date": "2026-08-17",
+      "raw_title": "Foot-In-The-Door : A Multi-turn Jailbreak for LLMs",
+      "same_story_key": "arxiv.org|2026-08-17|door foot jailbreak llms multi turn",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "foot door multi turn jailbreak llms",
+      "usefulness_category": "Research / novel method"
+    },
     "foreign workers flee phnom penh after mass exits scam compounds": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -5580,6 +5660,18 @@
       "title": "least s 3 6 million lost investment scams involving chat groups since may",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations": {
+      "article_type": "Technical article",
+      "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "normalized_title_fingerprint": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "parsed_date": "2026-08-09",
+      "raw_title": "Levi Strauss & Co. Social Engineering Cyberattack Exposes Corporate Data: Incident Analysis and Mitigation Recommendations",
+      "same_story_key": "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "rescana.com",
+      "title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "livestream replay inside world online romance scams": {
       "article_type": "Investigative report",
       "normalised_title": "livestream replay inside world online romance scams",
@@ -5963,6 +6055,18 @@
       "source_domain": "cyberpress.org",
       "title": "operation asterix processes 885 000 phone numbers find crypto users targeted fraud",
       "usefulness_category": "Operational intelligence"
+    },
+    "operation asterix uses vishing fake crypto wallet apps steal seed phrases": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "normalized_title_fingerprint": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "parsed_date": "2026-08-18",
+      "raw_title": "Operation ASTERIX Uses Vishing and Fake Crypto Wallet Apps to Steal Seed Phrases",
+      "same_story_key": "gbhackers.com|2026-08-18|apps asterix crypto fake operation phrases seed steal",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "gbhackers.com",
+      "title": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "usefulness_category": "Platform policy / product change"
     },
     "operational evidence gaps llms fraud detection trust safety workflows": {
       "article_type": "Research paper",
@@ -8150,6 +8254,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15dVAyNHJ0UWlTTmwzWWYyT1lXVlZ5cEdieHJMUUhYMjVPaTNJanRKWHFJYmF1WjV4Zl85dnpTR05iMHFnTVlseGxDTVpreTRYQ3pqc3JZLTREZw?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "20fdfc4abf66ad30dc03822cebe4824aef3b219d1ca42732fb2d6b10198dad44": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "normalized_title_fingerprint": "operation asterix uses vishing fake crypto wallet apps steal seed phrases",
+      "parsed_date": "2026-08-18",
+      "same_story_key": "gbhackers.com|2026-08-18|apps asterix crypto fake operation phrases seed steal",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "gbhackers.com",
+      "title": "Operation ASTERIX Uses Vishing and Fake Crypto Wallet Apps to Steal Seed Phrases",
+      "url": "https://gbhackers.com/operation-asterix-uses-vishing/",
+      "usefulness_category": "Platform policy / product change"
+    },
     "21390ac8894bfebd5778a145eb184f8911a68605472776eab1659d91275813d7": {
       "article_type": "Research paper",
       "normalised_title": "didn t feel right but i needed job so desperately understanding people s emotions help needs during financial scams",
@@ -9061,6 +9177,18 @@
       "title": "This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZWNmdHc3aWZmaDFxMWpkdmFkWmJkVEZ2Qmptd2tIVEp6TUV5dW1uSERsRHdTZ1BteWpZdkx2RERlV25iWERSSnY4eGg3R1NqWE11OERhdE45S2Fxd2U5dDF3?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "4bec341bdab71d2699dd15ebd2599f257dcca7342e29899d2aae0865342ceba6": {
+      "article_type": "Technical article",
+      "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "normalized_title_fingerprint": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "parsed_date": "2026-08-09",
+      "same_story_key": "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "rescana.com",
+      "title": "Levi Strauss & Co. Social Engineering Cyberattack Exposes Corporate Data: Incident Analysis and Mitigation Recommendations",
+      "url": "https://www.rescana.com/post/levi-strauss-co-social-engineering-cyberattack-exposes-corporate-data-incident-analysis-and-mitigation-recommendations",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "4cc8b48ae905d793ef6e4b51523686ded2e31217f1eb90c37f3220e811e51b52": {
       "article_type": "Research paper",
@@ -10958,6 +11086,18 @@
       "url": "https://www.straitstimes.com/asia/se-asia/187-arrested-as-malaysian-police-bust-global-scam-rings",
       "usefulness_category": "Operational intelligence"
     },
+    "b83d76cff56383f30d7adabe2e42eaf906a5cee3a890c4092ee9e59045c7155a": {
+      "article_type": "News report",
+      "normalised_title": "they escaped south east asia s scam compounds then they realised they were still trapped",
+      "normalized_title_fingerprint": "cambodia",
+      "parsed_date": "2026-08-20",
+      "same_story_key": "theguardian.com|2026-08-20|asia cambodia compounds east escaped realised scam south",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "theguardian.com",
+      "title": "They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped",
+      "url": "https://www.theguardian.com/world/cambodia",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "b8988a16232797359a0c2e428552f30b77e825725b513faee00242fec43cafe7": {
       "article_type": "Research paper",
       "normalised_title": "guardphish securing open source llms phishing abuse",
@@ -10968,6 +11108,18 @@
       "source_domain": "arxiv.org",
       "title": "GuardPhish: Securing Open-Source LLMs from Phishing Abuse - arXiv",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8tTFBOVHJ5ZHFwNFM2YlAybml1anhZdHZsVkFpMXJ4aDM0SmtYWVp0N2xmYXpvVl9xSUFCazNaOHFLQXNnSTY4?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
+    "b89b474931154a767be5261fe587dc6c7503869d9aca78ec521630264e2d2d29": {
+      "article_type": "Research paper",
+      "normalised_title": "foot door multi turn jailbreak llms",
+      "normalized_title_fingerprint": "foot door multi turn jailbreak llms",
+      "parsed_date": "2026-08-17",
+      "same_story_key": "arxiv.org|2026-08-17|door foot jailbreak llms multi turn",
+      "sent_at": "2026-08-24T01:56:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Foot-In-The-Door : A Multi-turn Jailbreak for LLMs",
+      "url": "https://arxiv.org/html/2502.19820v3",
       "usefulness_category": "Research / novel method"
     },
     "ba616a6803a885aace1c879e2fb3d1029f51fb2d2f6fc1d51b64ed46e4197e7f": {

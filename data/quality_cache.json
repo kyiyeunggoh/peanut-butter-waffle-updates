@@ -5984,6 +5984,39 @@
     ],
     "word_count": 2021
   },
+  "1b9c752ec55e819f3146eb3cdc3e32553f27d98a4d474a2f90354bbd4b1075f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Combating Misinformation in the Age of LLMs: Opportunities and Challenges Canyu Chen Affiliation: Illinois Institute of Technology , Chicago IL , USA email: cchen151@hawk.iit.edu and Kai Shu Affiliation: Illinois Institute of Technology , Chicago IL , USA email: kshu@iit.edu \u00a9 none Abstract. Misinformation such as fake news and rumors is a serious threat to information ecosystems and public trust. The emergence of Large Language Models (LLMs) has great potential to reshape the landscape of combating misinformation. Generally, LLMs can be a double-edged sword in the fight. On the one hand, LLMs bring promising opportunities for combating misinformation due to their profound world knowledge and strong reasoning abilities. Thus, one emergent question is: can we utilize LLMs to combat misinformation? On the other hand, the critical challenge is that LLMs can be easily leveraged to generate deceptive misinformation at scale. Then, another important question is: how to combat LLM-generated misinformation? In this paper, we first systematically review the history of combating misinformation before the advent of LLMs.",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "watermarking",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 48638
+  },
   "1ba7270bb460261baf1891630db3e2d01ac19f45d4fd47a2953edd700ee32e84": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -6348,18 +6381,18 @@
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
     "article_excerpt": "Content selection saved. Describe the issue below: Piggybacking on Perception: Stealthy Concurrent Audio Prompt Injections against Multimodal LLM Agents Mingxiao Liu Yitong Li Haoren Zhao Yaoxiang Bian Jianan Ma Affiliation: Ant Group Jian Zhang [3pt] Jialuo Chen Affiliation: Ant Group Affiliation: Zhejiang University Xinhao Deng Affiliation: Ant Group Affiliation: Tsinghua University Zhen Wang [7pt] Hangzhou Dianzi University Abstract Large Language Model (LLM)-driven multimodal agents are increasingly deployed to execute autonomous tasks via continuous audio interaction. While this paradigm enhances interaction naturalness, it introduces a critical yet under-explored attack surface, as audio inputs inevitably contain environmental noise beyond user control. In this paper, we investigate concurrent audio prompt injection attacks targeting multimodal agents. Distinct from traditional acoustic attacks on voice devices, we propose novel techniques for instruction augmentation and scenario concealment. These methods allow malicious audio instructions to imperceptibly \"piggyback\" onto user speech, thereby hijacking agents to execute malicious actions. To systematically quantify this threat, we construct AudioAgentSecurity, the first comprehensive benchmark for audio instruction injection attacks, encompassing 8 real-world task scenarios and 10 distinct attack patterns. We evaluate...",
-    "cache_version": 8,
-    "checked_at": "2026-08-22T01:49:24+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "negative_domain_context",
+    "downrank_reason": "negative_domain_context, irrelevant_or_adjacent",
     "hard_rejected": true,
     "hard_rejection_reason": "generic_healthcare_ai_cyber",
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "victim_psychology_or_persuasion",
-    "research_relevance_score": 60,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
     "research_reputation_signals": [
       "venue_term:IEEE Symposium on Security and Privacy"
     ],
@@ -22186,6 +22219,34 @@
     ],
     "word_count": 1679
   },
+  "5dac69b5600a6b3dcd0da9926f1681f71ba052fd9ee10201da25668b6eab70d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis Xiao Liu 1 1 1 Equal contribution. Affiliation: Wangxuan Institute of Computer Technology, Peking University, China Da Yin 1 1 1 Equal contribution. Affiliation: Computer Science Department, University of California, Los Angeles Yansong Feng 2 2 2 Corresponding author. Affiliation: Wangxuan Institute of Computer Technology, Peking University, China Affiliation: The MOE Key Laboratory of Computational Linguistics, Peking University, China {lxlisa,fengyansong,wyting,zhaody}@pku.edu.cnda.yin@cs.ucla.edu Yuting Wu Affiliation: Wangxuan Institute of Computer Technology, Peking University, China Dongyan Zhao Affiliation: Wangxuan Institute of Computer Technology, Peking University, China Affiliation: The MOE Key Laboratory of Computational Linguistics, Peking University, China {lxlisa,fengyansong,wyting,zhaody}@pku.edu.cnda.yin@cs.ucla.edu Abstract Causal inference is the process of capturing cause-effect relationship among variables. Most existing works focus on dealing with structured data, while mining causal relationship among factors from unstructured data, like text, has been less examined, but is of great importance, especially in the legal domain. In this paper, we propose a novel G raph-based C ausal I nference ( GCI ) framework, which builds causal...",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 17694
+  },
   "5db43c6c8d99ebc85e746bb343efdbaf97a36a5ae020cd0be459936fd84a2627": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -24542,6 +24603,35 @@
     ],
     "word_count": 10280
   },
+  "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 0
+  },
   "68b69ab0ab96e8b95cfac3909dc5c8d45a5b8299313bb43c6835b70114836a3c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24923,6 +25013,46 @@
       "trust"
     ],
     "word_count": 26280
+  },
+  "69c2eb55720c503234c266bd556ce0bdd210441157c27410adb23f0e5466b899": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia opens Senate building tied to sanctioned tycoon Sign up now: Get insights on Asia's fast-moving developments The four-and-half-storey Solidarity Palace building has a helipad on the roof and will mainly be used to host overseas visitors. PHOTO: EPA Published Aug 21, 2026, 04:46 PM Updated Aug 21, 2026, 04:46 PM Set as preferred source Summarise Cambodia opened a new Senate building called Solidarity Palace, funded by top businesspeople including US-sanctioned tycoon Ly Yong Phat. Ly Yong Phat was sanctioned for alleged human rights abuses linked to online scam centres, which he denies, while Cambodia is known as a scam hub. The building also had donations from Hun To, linked to a shuttered, US-sanctioned digital payments platform involved in money laundering and cyber scams. AI generated PHNOM PENH - Cambodian leaders inaugurated a new Senate building on Aug 21 funded by the country\u2019s top business people, including a tycoon sanctioned by the United States for alleged involvement in scam centres. King Norodom Sihamoni cut the ribbon on the \u201cSolidarity Palace\u201d, flanked by senior officials including Hun Sen, Cambodia\u2019s former long-time leader and currently president of the Senate, and his son, Prime Minister Hun Manet. \u201cI am very pleased to preside over the inauguration of the finest Solidarity Palace,\u201d Sihamoni said, hailing it as an \u201cachievement\u201d for the nation....",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1667
   },
   "69e4e3a2f4adbd5f3b70a8c3a4268f83688c15972b21d97223fd04fc88579076": {
     "access_status": "available",
@@ -27851,6 +27981,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2756
+  },
+  "76a1d43c14e244c952da2eb4b4a4193e2e3f3f122f0cac2ca77036c105942b30": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 0
   },
   "76dbc9a52226bbc57a892b6fffbc76a2697771bfb1cae69704d234d6f377410e": {
     "access_status": "available",
@@ -40661,8 +40817,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: The Ethics of Autonomous AI Agents for Offensive Security Andreas Happe OrcID: 0009-0000-2484-0109 Affiliation: TU Wien, Vienna, Austria E-mail {andreas.happe;juergen.cito}@tuwien.ac.at J\u00fcrgen Cito OrcID: 0000-0001-8619-1271 Affiliation: TU Wien, Vienna, Austria E-mail {andreas.happe;juergen.cito}@tuwien.ac.at Jasmin Wachter OrcID: 0000-0003-0560-8974 Affiliation: University of Klagenfurt, Klagenfurt, Austria E-mail jasmin.wachter@aau.at Abstract LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling \u2014 deterministic, narrowly scoped, and operated by trained practitioners \u2014 agentic security tools exhibit indeterminacy along three independent dimensions. First, their actions are drawn from a non-deterministic policy whose outputs resist both ex-ante and ex-post explanation. This complicates incident attribution and pre-deployment safety reviews. Second, their impact is open-ended due to their non-deterministic actions, agency of utilized models, and opaque LLM supply-chains. Third, their user population is indeterminate in both size and required skill: the operating skill floor for using or developing offensive capabilities has dropped sharply. These three properties are linked thematically, but are not derivable from one another. Combined with the structural cost asymmetry...",
-    "cache_version": 8,
-    "checked_at": "2026-08-20T01:49:56+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -40671,8 +40827,8 @@
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "llm_adverse_use_benchmark",
-    "research_relevance_score": 55,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
     "research_reputation_signals": [
       "venue_term:USENIX Security"
     ],
@@ -41155,6 +41311,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "accec28631028079ae31139683d8a9243f3fd996c5c6c68629832d355090d857": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: SemPipes \u2013 Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines Olga Ovcharenko Affiliation: BIFOLD & TU Berlin Correspondence to: ovcharenko@tu-berlin.de Matthias Boehm Affiliation: BIFOLD & TU Berlin Sebastian Schelter Affiliation: BIFOLD & TU Berlin Correspondence to: schelter@tu-berlin.de Abstract Real-world machine learning on tabular data relies on complex data preparation pipelines for prediction, data integration, augmentation, and debugging. Designing these pipelines requires substantial domain expertise and engineering effort, motivating the question of how large language models (LLMs) can support tabular ML through code synthesis. We introduce SemPipes , a novel declarative programming model that integrates LLM-powered semantic data operators into tabular ML pipelines. Semantic operators specify data transformations in natural language while delegating execution to a runtime system. During training, SemPipes synthesizes custom operator implementations based on data characteristics, operator instructions, and pipeline context. This design enables the automatic optimization of data operations in a pipeline via LLM-based code synthesis guided by evolutionary search. We evaluate SemPipes across diverse tabular ML tasks and show that semantic operators substantially improve end-to-end predictive...",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 50606
   },
   "acd3bd5b0e3b478f6de89210e2771bc22438aa3b97f1bdfbf2edfe7cb7098824": {
     "access_status": "available",
@@ -43857,6 +44041,48 @@
     ],
     "word_count": 15601
   },
+  "b83d76cff56383f30d7adabe2e42eaf906a5cee3a890c4092ee9e59045c7155a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia August 2026 They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped The cyber-fraud industry has flourished in Thailand, Cambodia and Myanmar, with thousands of people trafficked into the industry. But even those who have managed to find a way out often cannot return home July 2026 Australia\u2019s best pie has a Malaysian prawn curry filling \u2013 and its bakers have even bolder flavours in mind Ryan and Chan Khun of Country Cob bakery in Victoria have won accolades for their satay fish and Cambodian pork pies, with a Singapore chilli crab filling on its way June 2026 Brief letters The US\u2019s role in the rise of communist regimes Brief letters: American foreign policy | Donald Trump\u2019s self-reflection | Tony Blair\u2019s Toryism | Keir Starmer on Whatsapp | Nine times table May 2026 Reg Austin obituary Courageous lawyer who helped Zimbabwe gain independence and oversaw elections in Cambodia and Afghanistan April 2026 Border wars, rising costs or a marital reprieve: why are Thai men racing to enlist in the Army? \u2018We still deserve due process,\u2019 says Cambodian man deported by US to Eswatini March 2026 The age of extinction Secrets of the karst: new species found in Cambodia\u2019s limestone caves \u2013 in pictures A survey has revealed the vast array of wildlife \u2013 some never seen before \u2013 living within the south-east Asian country\u2019s karst ecosystems. New species...",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "scam farm",
+      "cambodia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "scam farm",
+      "cambodia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound",
+      "scam farm",
+      "cambodia scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 768
+  },
   "b83eb2eab8152fd6ed5c8b6e7d0847d7a6825c3f57afb681c63c0fb48ffff9a4": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -43955,12 +44181,51 @@
     "weak_generic_terms_found": [],
     "word_count": 54
   },
+  "b89b474931154a767be5261fe587dc6c7503869d9aca78ec521630264e2d2d29": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Foot-In-The-Door : A Multi-turn Jailbreak for LLMs Zixuan Weng 1\u2217 , Xiaolong Jin 2\u2217 , Jinyuan Jia 3 , Xiangyu Zhang 2 Affiliation: 1 University of Notre Dame 2 Purdue University 3 Pennsylvania State University zxweng0701@gmail.com jin509@purdue.edu jinyuan@psu.edu xyzhang@cs.purdue.edu Affiliation: Website: https://fitd-foot-in-the-door.github.io/ Abstract Ensuring AI safety is crucial as large language models become increasingly integrated into real-world applications. A key challenge is jailbreak, where adversarial prompts bypass built-in safeguards to elicit harmful disallowed outputs. Inspired by psychological foot-in-the-door principles, we introduce FITD , a novel multi-turn jailbreak method that leverages the phenomenon where minor initial commitments lower resistance to more significant or more unethical transgressions. Our approach progressively escalates the malicious intent of user queries through intermediate bridge prompts and aligns the model\u2019s response by itself to induce toxic responses. Extensive experimental results on two jailbreak benchmarks demonstrate that FITD achieves an average attack success rate of 94% across seven widely used models, outperforming existing state-of-the-art methods. Additionally, we provide an in-depth analysis of LLM self-corruption, highlighting vulnerabilities in current alignment...",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16386
+  },
   "b8a55badd214640fb26d5780e000bb6ad15fc7f3b2ca4c762a27097e45614729": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: From Viral to Void: Multi-Dimensional Behavioral and Contractual Analysis for Rug Pull Identification Jinyin Song Hainan University Haikou, China 1656351698@qq.com Hongping Wang Hainan University Haikou, China hobinary.wong@gmail.com Xiaoqi Li Hainan University Haikou, China csxqli@ieee.org Abstract As the blockchain and decentralized finance (DeFi) ecosystems continue to expand and mature, rug pull scams involving meme coins are occurring with increasing frequency, posing a threat to the security of investors\u2019 assets and the healthy development of the industry. Rug Pull scams are characterized by extremely low deployment costs, covert execution, rapid fund transfers, and high detection difficulty. Traditional manual reviews or fixed rules struggle to meet real-time early warning requirements, and existing detection methods generally suffer from issues such as a single feature dimension, inadequate handling of class imbalance, and weak model generalization and interpretability. To address these shortcomings, this paper focuses on the detection of Ethereum-based rug pull scams. First, we clarify their definitions, types, and harm mechanisms, and construct a multi-dimensional feature system based on dimensions such as malicious smart contract design, on-chain transaction anomalies, liquidity manipulation, and social media...",
-    "cache_version": 8,
-    "checked_at": "2026-08-22T01:49:29+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:31+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud",
@@ -44359,6 +44624,34 @@
       "fraud"
     ],
     "word_count": 4352
+  },
+  "ba4e02185ac0830a98931f3a2f86eec7f3bbb0b6801c86621b0d4911ff0e4231": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 0
   },
   "ba616a6803a885aace1c879e2fb3d1029f51fb2d2f6fc1d51b64ed46e4197e7f": {
     "access_status": "available",
@@ -47866,9 +48159,9 @@
   "c76a3bfe1a6ac077de0a0448b70cfc30ade5277ed0dc8c5e91253c1460eefdfc": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us .",
-    "cache_version": 8,
-    "checked_at": "2026-08-16T01:56:30+00:00",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:34+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scam detection"
@@ -47901,7 +48194,7 @@
     "weak_generic_terms_found": [
       "phishing"
     ],
-    "word_count": 50
+    "word_count": 54
   },
   "c76c35cfb5a1bc80da61b2cd7b7b7f24ac127343a7845b4b869af55b9a371162": {
     "access_status": "available",
@@ -55729,6 +56022,33 @@
       "trust"
     ],
     "word_count": 7839
+  },
+  "e9d3470f5f1f2c26f9609029b7c5cd65f5caf071c81e77d2e565ade662c88f71": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Cockroach Janta party supporters in Mumbai, India, celebrate the resignation of the education minister following protests over an exam paper leak that affected millions of students. Photograph: Indranil Aditya/Reuters View image in fullscreen Cockroach Janta party supporters in Mumbai, India, celebrate the resignation of the education minister following protests over an exam paper leak that affected millions of students. Photograph: Indranil Aditya/Reuters AI cheating, leaked papers and marking errors: how exam protests went global Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide F amilies with teenagers in education know the private, hidden pain of exam season. But this year, what might have been a summer of quiet family anxiety has erupted in several countries into public unrest. Exam-related turmoil has led to mass student protests in Mexico after nearly 60,000 university applicants were forced to resit tests amid suspected cheating , while Portugal\u2019s disastrous attempt to digitise school exam marking sparked the country\u2019s worst education crisis in decades. By far the largest and most ground-shaking incident was in India, however, where an exam paper leak affected millions of students and was linked to more than a dozen students taking their own lives. The scandal forced the education minister to resign...",
+    "cache_version": 9,
+    "checked_at": "2026-08-24T01:56:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3309
   },
   "e9f0962d7da1a0b0db5f6e108f9400ede616f5e78a15c0f526503749c9a761e0": {
     "access_status": "available",
