@@ -137,8 +137,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing Sam Relins a,b,* Daniel Birks a,b a ESRC Vulnerability and Policing Futures Research Centre b School of Law, University of Leeds, Leeds, UK * Corresponding author: s.relins@leeds.ac.uk Abstract Public services face growing pressure to adopt artificial intelligence (AI) to close the gap between rising demand and falling resources. That pressure has intensified with the arrival of general-purpose AI (GPAI): AI built on large language models, that can be directed by prompt alone to perform an effectively unbounded range of tasks. We argue that the properties that make these models attractive: their generality, accessibility, and the low cost and expertise required to deploy them, undermine the conditions under which AI safety has historically been pursued. The safety concepts that public service governance frameworks foreground - accuracy, bias, explainability, and accountability - were made tractable by narrow, purpose-built AI, and the mitigations that guidance documents continue to prescribe presuppose exactly what GPAI removes. Accuracy cannot be quantified over unbounded outputs. Bias cannot be disaggregated when outputs are free-text judgements rather than categorical predictions. Explainability gives way to the...",
-    "cache_version": 8,
-    "checked_at": "2026-08-22T01:49:28+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:16+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -148,7 +148,7 @@
     "quality_checked": true,
     "rejection_reason": null,
     "research_relevance_category": "victim_psychology_or_persuasion",
-    "research_relevance_score": 60,
+    "research_relevance_score": 70,
     "research_reputation_signals": [
       "institution_domain:ox.ac.uk"
     ],
@@ -1999,6 +1999,45 @@
     "weak_generic_terms_found": [],
     "word_count": 1956
   },
+  "086272d18edd9082fc9f265cff9b9d5c05f9608cbe3b10b72715fa91d67aa099": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Evidence-Consistent Generative Detection under Scenario-Level Distribution Shift Conference: Proceedings of the 35th ACM International Conference on Information and Knowledge Management; November 07\u201311, 2026; Rome, Italy Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM \u201926), November 07\u201311, 2026, Rome, Italy DOI: 10.1145/3799682.3840763 ISBN: 979-8-4007-2539-5/2026/11 CCS: Computing methodologies Supervised learning by classification CCS: Computing methodologies Learning under covariate shift CCS: Security and privacy Phishing San Kim Affiliation: Sungkyunkwan University , Suwon , Republic of Korea email: kimsan1120@g.skku.edu and JinYeong Bak Affiliation: Sungkyunkwan University , Suwon , Republic of Korea email: jy.bak@skku.edu \u00a9 cc Abstract. Conventional in-distribution evaluation can overestimate robustness when training and test data share recurring task-specific patterns or surface cues. This risk is especially relevant in social-engineering fraud detection, where attackers can preserve malicious intent while changing the scenario, impersonated entity, or wording. We study this problem as scenario-level out-of-distribution (SL-OOD) detection for SMS and voice phishing, where entire attack scenarios are held out from training while the label space remains fixed. This...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:09+00:00",
+    "direct_relevance_terms_found": [
+      "smishing",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "smishing",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "smishing",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 20103
+  },
   "088377a7a6da555915a92fb13fa4944f56b2adcedc4eec3d94a28c6eb3c9c3d8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2323,9 +2362,9 @@
   "0a3cc3563324d417249cdec5df8db8f49a012d2c8238908e6f39adf6d5354599": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Stigma and Support in Online Sexual Violence Narratives on Reddit Conference: 37th ACM Conference on Hypertext; September 14\u201318, 2026; London, United Kingdom 37th ACM Conference on Hypertext (HT \u201926), September 14\u201318, 2026, London, United Kingdom DOI: 10.1145/3800935.3830853 ISBN: 979-8-4007-2564-7/2026/09 CCS: Human-centered computing CCS: Social and professional topics Gender CCS: Applied computing Shirlene Rose Bandela Affiliation: Virginia Tech , Alexandria , USA email: shirleneroseb@vt.edu , Karan Bindal Affiliation: Drexel University , Philadelphia , USA email: kb3887@drexel.edu , Vaibhav Garg Note: Both authors contributed equally. Affiliation: Virginia Tech , Alexandria , USA email: vaibhavg@vt.edu and Rezvaneh Rezapour Affiliation: Drexel University , Philadelphia , USA email: sr3563@drexel.edu 2026; \u00a9 cc Abstract. Warning: This paper discusses sexual violence and may contain material that some readers, particularly survivors, may find distressing. Online communities increasingly provide spaces where survivors of sexual violence can share their experiences and seek support. Although prior research has examined stigma and social support separately, less is known about how stigma expressed in survivor narratives relates to the support offered in response. We introduce the SCOPE dataset, linking stigma signals in online...",
-    "cache_version": 8,
-    "checked_at": "2026-08-18T01:49:19+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: Stigma and Support in Online Sexual Violence Narratives on Reddit Conference: 37th ACM Conference on Hypertext; September 14\u201318, 2026; London, United Kingdom 37th ACM Conference on Hypertext (HT \u201926), September 14\u201318, 2026, London, United Kingdom DOI: 10.1145/3800935.3830853 ISBN: 979-8-4007-2564-7/2026/09 CCS: Human-centered computing CCS: Social and professional topics Gender CCS: Applied computing Shirlene Rose Bandela Affiliation: Virginia Tech , Alexandria , USA email: shirleneroseb@vt.edu , Karan Bindal Affiliation: Drexel University , Philadelphia , USA email: kb3887@drexel.edu , Vaibhav Garg Note: Both authors contributed equally. Affiliation: Virginia Tech , Alexandria , USA email: vaibhavg@vt.edu and Rezvaneh Rezapour Affiliation: Drexel University , Philadelphia , USA email: sr3563@drexel.edu \u00a9 cc Abstract. Warning: This paper discusses sexual violence and may contain material that some readers, particularly survivors, may find distressing. Online communities increasingly provide spaces where survivors of sexual violence can share their experiences and seek support. Although prior research has examined stigma and social support separately, less is known about how stigma expressed in survivor narratives relates to the support offered in response. We introduce the SCOPE dataset, linking stigma signals in online...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:03+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -2347,7 +2386,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 11437
+    "word_count": 11387
   },
   "0ab0bf677ad1c480e4bbc2fcc27bf0ca94a38e2f8f9f85d75fe0ada6af566c37": {
     "access_status": "available",
@@ -3866,6 +3905,41 @@
     ],
     "word_count": 2836
   },
+  "1148e6f6f679210c8d51a946d1296681f0ec5f7b936ec9443f7d6d3c24b5855b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Characterizing Agentic Flooding of Government Services Chris Schmitz Lewis Hammond Alan Chan Abstract AI agents are making it easier for the public to interact with government, such as by helping them apply for benefits, understand complex policies, and make their opinions heard. Although improving service accessibility is beneficial, any resulting surges in demand could strain unprepared government services. We term such surges agentic flooding of government services (\u201cflooding\u201d) and provide three contributions. First, based on a collected dataset of 84 potential cases of flooding across 11 jurisdictions, we posit that flooding is likely occurring widely today, mostly through large language models (LLMs) generating text cheaply. Second, we evaluate what services are most exposed to flooding. We develop a risk matrix to analyze a service\u2019s exposure, and suggest that near-term risk is highest for financially attractive, but complex services. Finally, we map possible government responses to flooding. Precedent suggests these responses will likely be sufficient to stop most cases of flooding, but the fastest to deploy \u2013 friction-inducing measures like fees \u2013 often trade off equitable access to public services. Accordingly, we close by recommending near-term actions that may allow governments to mitigate flooding without invoking...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:11+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21048
+  },
   "118a55480c1242137b40683f85e3cf38f73b8c34e2fa7de36da945b6fd54f537": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -4904,6 +4978,77 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "15c70155287f9ca51dc7374be58b9ed6dcbcfdc10cd43286dba3cd5fdd845f4b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Page Not Found It seems we can't find what you're looking for.",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 12
+  },
+  "15e858612b0634406e0651e4b333a0998c895842b9b45434a3dfa18ecd044e54": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Computer Science New submissions Cross-lists Replacements See recent articles Showing new listings for Monday, 24 August 2026 Total of 818 entries Showing up to 2000 entries per page: fewer | more | all New submissions (showing 486 of 486 entries) [1] arXiv:2608.20341 [ pdf , other ] Title: SDAD: Spec-Driven Agentic Development for the AI-Native SDLC Vu Hung Nguyen , Thanh Nguyen Subjects: Artificial Intelligence (cs.AI) ; Software Engineering (cs.SE) Frontier coding agents backed by large language models with context windows from hundreds of thousands to millions of tokens are restructuring the Software Development Life Cycle (SDLC). Rich context handling and multi-step reasoning now allow substantial Functional Requirement Documents (FRDs) and repository context to be ingested in a single workflow, making specification quality the execution fuel for autonomous delivery. This report formalises Spec-Driven Agentic Development (SDAD) as a synthesis of disciplined up-front formalisation and high-velocity implementation: intent capture, machine-readable specification, agentic synthesis, and independent multi-agent verification under human sign-off. We revisit the historical pendulum between Waterfall and Agile, introduce AI-code as a fourth production paradigm, and compare Human-Agile (circa 2020) with Agentic-SDAD (circa 2026) across artefacts, cadence, accountability, and...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:10+00:00",
+    "direct_relevance_terms_found": [
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "voice phishing"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "watermarking",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 351938
   },
   "15eec282451a41f8ce32a9c8f5d6ee8bba828479a8f41ef35774abacef2deb23": {
     "access_status": "available",
@@ -14197,6 +14342,42 @@
     ],
     "word_count": 19742
   },
+  "3dc4a87bea3d41403dd390cb954fb9ffd86668622397978eee97b5c9dc1f9749": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Attacker Attribution of Audio Deepfakes Nicolas M. M\u00fcller \u2020 \u2020 thanks: * Equal contribution Franziska Dieckmann Jennifer Williams Abstract Deepfakes are synthetically generated media often devised with malicious intent. They have become increasingly more convincing with large training datasets advanced neural networks. These fakes are readily being misused for slander, misinformation and fraud. For this reason, intensive research for developing countermeasures is also expanding. However, recent work is almost exclusively limited to deepfake detection - predicting if audio is real or fake. This is despite the fact that attribution ( who created which fake? ) is an essential building block of a larger defense strategy, as practiced in the field of cybersecurity for a long time. This paper considers the problem of deepfake attacker attribution in the domain of audio.",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 7972
+  },
   "3ddc57d751ff0bb7518b099183476ce10f4f19731add13489df1aecb9a2a108e": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -18946,8 +19127,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
-    "cache_version": 8,
-    "checked_at": "2026-08-03T03:51:26+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -20980,9 +21161,9 @@
   "593702d7bab93b598eed652b9336fbb7dcaa14117381a318d009d9362c12d1d8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: \u201cThere is literally zero funding\u201d: Understanding the Emerging Role of Trusted Flaggers under the EU Digital Services Act ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Applied computing Law CCS: Social and professional topics Governmental regulations CCS: Human-centered computing Empirical studies in HCI Marie-Therese Sekwenz Note: All authors contributed equally to this research. Affiliation: TU Delft , Netherlands , Kyle Beadle Affiliation: UCL , United Kingdom and Simon Parkin Affiliation: TU Delft , Netherlands 2026\u00a9 , 2026; Abstract. The European Union\u2019s Digital Services Act (DSA) introduced regulatory mechanisms which serve as a way to manage harmful content online. The recognition of Trusted Flaggers (TFs) is one such mechanism which accredits entities with experience, platform independence, and skill in identifying and reporting illegal content. With the DSA\u2019s TF role being roughly one year old, we interviewed representatives of seven such TF organizations to learn about their experiences of becoming a TF and how it impacts their interactions with online platforms and with individual users. We additionally ran a workshop involving TF representatives, primarily as it was requested by TFs themselves, who collectively wanted to share experiences of their new role and learn from each other rather than be isolated. Notably, we found...",
-    "cache_version": 8,
-    "checked_at": "2026-08-20T01:49:55+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cThere is literally zero funding\u201d: Understanding the Emerging Role of Trusted Flaggers under the EU Digital Services Act ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Applied computing Law CCS: Social and professional topics Governmental regulations CCS: Human-centered computing Empirical studies in HCI Marie-Therese Sekwenz Note: All authors contributed equally to this research. Affiliation: TU Delft , Netherlands , Kyle Beadle Affiliation: UCL , United Kingdom and Simon Parkin Affiliation: TU Delft , Netherlands 2026 Abstract. The European Union\u2019s Digital Services Act (DSA) introduced regulatory mechanisms which serve as a way to manage harmful content online. The recognition of Trusted Flaggers (TFs) is one such mechanism which accredits entities with experience, platform independence, and skill in identifying and reporting illegal content. With the DSA\u2019s TF role being roughly one year old, we interviewed representatives of seven such TF organizations to learn about their experiences of becoming a TF and how it impacts their interactions with online platforms and with individual users. We additionally ran a workshop involving TF representatives, primarily as it was requested by TFs themselves, who collectively wanted to share experiences of their new role and learn from each other rather than be isolated. Notably, we found that...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:03+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -21009,7 +21190,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 22040
+    "word_count": 22419
   },
   "593f4886b898e702f70b1529ea76742dcaeedfd00da2f29a94364a0eb9bc6494": {
     "access_status": "available",
@@ -24119,8 +24300,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: SESAME: S\u0331oftware defined E\u0331nclaves to S\u0331ecure Inference A\u0331ccelerators with M\u0331ulti-tenant E\u0331xecution Sarbartha Banerjee Affiliation: University of Texas at Austin Prakash Ramrakhyani Affiliation: ARM Research Shijia Wei Affiliation: University of Texas at Austin Mohit Tiwari Affiliation: { sarbartha,shijiawei } @utexas.edu prakash.ramrakhyani@arm.com tiwari@austin.utexas.edu Affiliation: University of Texas at Austin Abstract Hardware-enclaves that target complex CPU designs compromise both security and performance. Programs have little control over micro-architecture, which leads to side-channel leaks, and then have to be transformed to have worst-case control- and data-flow behaviors and thus incur considerable slowdown. We propose to address these security and performance problems by bringing enclaves into the realm of accelerator-rich architectures. The key idea is to construct software-defined enclaves (SDEs) where the protections and slowdown are tied to an application-defined threat model and tuned by a compiler for the accelerator\u2019s specific domain. This vertically integrated approach requires new hardware data-structures to partition, clear, and shape the utilization of hardware resources; and a compiler that instantiates and schedules these data-structures to create multi-tenant enclaves on accelerators. We...",
-    "cache_version": 8,
-    "checked_at": "2026-08-22T01:49:24+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:04+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -38185,6 +38366,51 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "a1438d536c503c3f4c8841dc6bef27ddcdc17a8968ea07eb70cfcd3c739e4b72": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "An operation conducted in Cambodia. (Photo: Singapore Police Force) New: You can now listen to articles. This audio is generated by an AI tool. Lydia Lam Lydia Lam 24 Aug 2026 05:59PM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST SINGAPORE: A Filipino woman who purportedly went to Cambodia for a job but found herself in a scam compound was sentenced to 25 months' jail on Monday (Aug 24) for being part of a syndicate and a conspiracy to cheat people in Singapore. The judge found that the prosecution had proven the charges against 35-year-old De Villar Rizalyn Panganiban and said she had not been coerced or forced into committing any of the acts she did. While there were some limits on what she could do in Phnom Penh , Cambodia, she had a substantial amount of freedom and could have left the group's premises or obtained help, said Principal District Judge Thian Yee Sze.",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "cambodia scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 3060
+  },
   "a148f00375f05cf9f0c11d12b243ae464d8e7ebf8ca89209eb15841a177e2b50": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -41599,13 +41825,17 @@
   },
   "ad900b7c3e600821680cb29f53180a89650479d2662051d28c190e36fa984162": {
     "access_status": "available",
-    "anti_scam_relevance": "weak",
-    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 672 posts Behind The Blog Behind the Blog: Rare Books and Baseball Brain This week, we discuss Flock blogging, \"rare\" books, and Jesus Christ. Samantha Cole , Jason Koebler , Joseph Cox , Emanuel Maiberg \u00b7 Aug 7, 2026 Flock Flock Pitched a Plan To Turn Uber and Lyft Drivers Into Roaming Surveillance Vehicles A Flock presentation shows the company planned to use around 350,000 Uber, Lyft, and delivery drivers to collect license plate data for its surveillance system. Joseph Cox \u00b7 Aug 7, 2026 Tokenmaxxing Software Giant SAP Stops Most Travel and Hiring Because of AI\u2019s Soaring Cost SAP says it needs to \u201cbe disciplined in how we spend.\u201d That includes still freezing hires and travel. Unless it's to do with AI, of course. Joseph Cox \u00b7 Aug 6, 2026 Flock Cities Are Ditching Flock, Immediately Replacing It With Axon License Plate Readers Rather than get rid of ALPR cameras entirely, many cities and towns are switching to Axon, whose cameras can be mounted to an existing streetlamp, helping them blend into their surroundings. Joseph Cox \u00b7 Aug 6, 2026 Podcast Podcast: This Man Might Go to Prison for Wiping His Phone The case of Samuel Tunick allegedly wiping a phone before DHS could...",
-    "cache_version": 8,
-    "checked_at": "2026-08-10T02:32:30+00:00",
-    "direct_relevance_terms_found": [],
-    "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "weak_anti_scam_relevance",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 681 posts Behind The Blog Behind the Blog: Early Birthday Reflections This week, we discuss our party and panel coming up, and do some light reminiscing. Jason Koebler , Joseph Cox , Emanuel Maiberg , Samantha Cole \u00b7 Aug 21, 2026 Podcast Podcast: Amazon is Destroying Rare Books to Train AI Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses. Joseph Cox \u00b7 Aug 19, 2026 Flock The National Park Service Is Using Flock. Rangers Are Pissed \u201cI fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.\u201d Joseph Cox \u00b7 Aug 18, 2026 Behind The Blog Behind the Blog: Endless Scam Parade This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move. Jason Koebler , Joseph Cox , Emanuel Maiberg \u00b7 Aug 14, 2026 Privacy Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, create a series of video...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:06+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
@@ -41615,11 +41845,13 @@
     "research_relevance_score": null,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [],
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 533
+    "word_count": 548
   },
   "ad93eb40c468abc3c976baa2815c64f5c973c9caf72c1bbe2947e4efce1b13de": {
     "access_status": "available",
@@ -42829,6 +43061,35 @@
       "trust"
     ],
     "word_count": 31059
+  },
+  "b267b7cfe030060caeaf4923e8a8bbb141b827b6d1099ef86674b1697f8d6d3d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 0
   },
   "b2916982c101c847570a2cb58e8c79313ef6de8c8c8bac6829fd3e520b2c1878": {
     "access_status": "available",
@@ -44154,6 +44415,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 335
+  },
+  "b888efa288517d806a3cfa2fa95eab8c1c108e64c994d3e423d5a69af717a533": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Mitigation of Flooding and Slow DDoS Attacks in a Software-Defined Network Thomas Lukaseder 1 , Shreya Ghosh 2 , Frank Kargl 1 Affiliation: Affiliation: 1 Institute of Distributed Systems Ulm University, Germany {firstname}.{lastname}@uni-ulm.de Affiliation: Affiliation: 2 Department of Electronics and Communication Engineering Heritage Institute of Technology, India shreya.ghosh.ece19@heritageit.edu.in I Introduction Distributed denial of service (DDoS) attacks are a constant threat for services in the Internet. This year, the record for the largest DDoS attack ever observed was set at 1.7 Tbps. Meanwhile, detection and mitigation mechanisms are still lacking behind. Many mitigation systems require the assistance by the victim \u2014 or the victim\u2019s administrator themself has to become active to mitigate attacks. We introduced a system that can detect attacks, identify attackers, and mitigate the attacks purely within the network infrastructure. With the improved flexibility of software-defined networks, new possibilities to mitigate such attacks can be implemented. In addition to our short paper on the mitigation of reflective DDoS attacks on LCN 2018 [ 3 ] , we also like to demonstrate our work on mitigating flooding attacks presented at LCN 2017 [ 1 ] and our mitigation of slow DDoS attacks [ 2 ] . In our demo, we show how...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 4092
   },
   "b894ddf05107586435100c3d4729a881a5317359aa5b624c4df1509744c8745a": {
     "access_status": "available",
@@ -50559,6 +50846,34 @@
     ],
     "word_count": 0
   },
+  "d12426d29aadaf83ea1e87cef1972c3a733e11b6e39d7f178f171acc8ec3ba4c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service Dou Goodman Affiliation: Baidu X-Lab Beijing, China liu.yan@baidu.com Abstract In recent years, Deep Learning(DL) techniques have been extensively deployed for computer vision tasks, particularly visual classification problems, where new algorithms reported to achieve or even surpass the human performance. While many recent works demonstrated that DL models are vulnerable to adversarial examples. Fortunately, generating adversarial examples usually requires white-box access to the victim model, and real-world cloud-based image classification services are more complex than white-box classifier,the architecture and parameters of DL models on cloud platforms cannot be obtained by the attacker. The attacker can only access the APIs opened by cloud platforms. Thus, keeping models in the cloud can usually give a (false) sense of security. In this paper, we mainly focus on studying the security of real-world cloud-based image classification services. Specifically, (1) We propose a novel attack method, Fast Featuremap Loss PGD (FFL-PGD) attack based on Substitution model, which achieves a high bypass rate with a very limited number of queries. Instead of millions of queries in previous studies, our method finds the adversarial examples using only...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:01+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "cybercrime"
+    ],
+    "word_count": 9099
+  },
   "d15ef106246c54d478fabcbacb4bf431a1fd0547c7d4fd7a6a8943f8ee0bfbad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -52285,6 +52600,69 @@
     ],
     "word_count": 4574
   },
+  "d892e6228b4ef1079d066f00060af56e677f1a71497bdbe00063fe47d73c1203": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cDon\u2019t quote me on that\u201d: Finding Mixtures of Sources in News Articles Alexander Spangher Nanyun Peng Jonathan May Emilio Ferrara Affiliation: Information Sciences Institue / University of Southern California Affiliation: {spangher, peng, jonmay, ferrarae}@isi.edu Abstract Journalists publish statements provided by people, or sources to contextualize current events, help voters make informed decisions, and hold powerful individuals accountable. In this work, we construct an ontological labeling system for sources based on each source\u2019s affiliation and role . We build a probabilistic model to infer these attributes for named sources and to describe news articles as mixtures of these sources. Our model outperforms existing mixture modeling and co-clustering approaches and correctly infers source-type in 80% of expert-evaluated trials. Such work can facilitate research in downstream tasks like opinion and argumentation mining, representing a first step towards machine-in-the-loop computational journalism systems. 1 Introduction A dominant form of information published in news articles is derived from people, called sources . Through direct conversation, statements or written correspondence, journalists interact with sources to obtain quotations that inform news consumers\u2019 understanding of current events, facilitate the voting...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 10407
+  },
+  "d8dec1075d6f1089b500c2721592a8609a7dd1cc069a1c33c68a53e8e50d5db1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: AutoRISE : Agent-Driven Strategy Evolution for Red-Teaming Large Language Models Tanmay Gautam Affiliation: Responsible AI, Microsoft Email: gautamtanmay@microsoft.com Alireza Bahramali Affiliation: Responsible AI, Microsoft Email: abahramali@microsoft.com Sandeep Atluri Affiliation: Responsible AI, Microsoft Email: saatluri@microsoft.com Abstract Automated red-teaming methods for large language models typically optimize attack prompts within a fixed, human-designed strategy, leaving the attack strategy itself unchanged. We instead optimize the strategy. We propose AutoRISE , a method that searches over executable attack programs rather than individual prompts. At each iteration, a coding agent edits a strategy and a fixed evaluation harness scores the resulting attacks, returning both a scalar objective and per-example diagnostics that guide subsequent edits. This allows structural changes, including new attack components and altered control flow, that prompt-level methods do not directly express. We also release two benchmark suites developed on disjoint target sets and evaluate on 11 models from five families against seven established jailbreak datasets. Across held-out models, AutoRISE improves average attack success rate by 17.0 points over the strongest baseline, and improves attack success by up to 16 points on frontier...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 36994
+  },
   "d910ab91364f20a91117cfc793c008880267315532e305b69f814a67481fb018": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -52836,6 +53214,30 @@
       "cybersecurity"
     ],
     "word_count": 8
+  },
+  "dabf1d4b56e566caf178a57e2d3f94e4ff96ec8e128852bcb9c060906568d386": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "All Videos Showing 1584 of 33066 Order Oldest to Newest Most Recent News Video Reports St Petersburg International Economic Forum: Russia seeks to deepen trade ties beyond West 02/06/2026 2 mins News Video Reports South Korean voters head to local elections in first nationwide test for President Lee 02/06/2026 4 mins News Video Reports British Foreign Secretary Yvette Cooper meets Chinese counterpart Wang Yi as ties ease 02/06/2026 5 mins News Video Reports Computex 2026 kicks off in Taiwan with latest AI technologies on show 02/06/2026 6 mins News Video Reports Philippines' UN Security Council bid could amplify ASEAN voice on global issues: Analysts 02/06/2026 4 mins News Video Reports Israel and Hezbollah clash ahead of US-hosted talks 02/06/2026 5 mins News Video Reports A decade after Brexit, UK rethinks going it alone 02/06/2026 4 mins News Video Reports Life on Singapore\u2019s remote lighthouses: The keepers behind the light 02/06/2026 5 mins Podcasts Money Talks Podcast - Your parents bought you insurance - is it enough today? 02/06/2026 24 mins News Video Reports Retailers say supply chain disruptions affecting some World Cup merchandise 01/06/2026 3 mins News Video Reports A peek inside a retired couple's home filled with vintage treasures 01/06/2026 3 mins News Video Reports Omura's whale carcass found in Singapore last year sheds light on lesser-known species 01/06/2026...",
+    "cache_version": 9,
+    "checked_at": "2026-08-25T01:51:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 425
   },
   "dacc42af3e5e4c67790c716ad6219d039af392748fe0bb98aaa85cd05b99a166": {
     "access_status": "available",
