@@ -2333,6 +2333,47 @@
     ],
     "word_count": 2595
   },
+  "0a12b5671e5585c8136b94a20ab1c582920522fb42079905ad96fd9d43cbe259": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions DOI: XXXXXXX.XXXXXXX Conference: Make sure to enter the correct conference title from your rights confirmation email; June 03\u201305, 2018; Woodstock, NY ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Social and professional topics Computing / technology policy CCS: Human-centered computing Interaction design Catherine King Affiliation: Carnegie Mellon University , Pittsburgh , USA email: cking2@andrew.cmu.edu , Lynnette Hui Xian Ng Affiliation: Carnegie Mellon University , Pittsburgh , USA email: lynnetteng@cmu.edu and Kathleen M. Carley Affiliation: Carnegie Mellon University , Pittsburgh , USA email: kathleen.carley@cs.cmu.edu Received 5 June 2009 Abstract. Designers and policymakers in sociotechnical domains like content moderation, privacy interfaces, recommender systems and beyond, must choose among a growing menu of proposed interventions, but typically lack a principled basis for comparing them. Prior work tends to evaluate interventions individually and mostly along the effectiveness criteria, while implementation constraints such as cost, effort and feasibility are often considered separately. We present a multi-criteria framework for evaluating sociotechnical interventions. This framework is instantiated through the case of...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:57:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:cmu.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "forwarding limits"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 28754
+  },
   "0a1d2b62750a894255d4f9de5b357a018e63e7a60c6ec22015a5e9f21a9c251c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -8591,6 +8632,32 @@
     ],
     "word_count": 17
   },
+  "2631bee7c54fc34e51d3ab6b8a67ed4c65e70396417b57e162e41b23f2858af6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:usenix.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "264aa00a641e1a8414ccfbf1e40657550d695aefa074d9cc2978396fe152cc18": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -11908,6 +11975,32 @@
       "trust"
     ],
     "word_count": 1503
+  },
+  "341590e9a06b1aecf3f17fdcecc24536fb8d19b5b225b1828be035c83b17e687": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "When he showed up as Darth Vader, the world started watching. Anthony Ralphs has been showing up to San Diego City Council meetings to speak against Flock's presence in his city for a year. At first, he took the podium during public comment in business casual \u2014 dress shirts, pants, suits, \"respectable\" clothing \u2014 to voice his concerns about the city's deal with the surveillance company. \"I did all the right things. I wore the suits. I said all the correct talking points. I made all the compelling arguments,\" Ralphs told me in a phone call. He cited Supreme Court precedent, like Chatrie v. United States , which challenged the constitutionality of geofence warrants where police could collect location history data from cell phones. \"It seemed like no matter how many cases I brought up, no matter how many violations of the Constitution this technology breaks, no matter how many constituents, no matter how many organizations, no matter how well I dress, no matter how fine my talking points, they weren't listening,\" he said.",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3209
   },
   "34189004393f732e893f1450f13de42b11416b5d469cc19cc98dfd924464da5d": {
     "access_status": "available",
@@ -16065,6 +16158,30 @@
     ],
     "word_count": 17
   },
+  "44488321c4d6257f335139e20f53d15f95cb9855668c926c9d3fd1b9013e435f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Photo by Dima Solomin / Unsplash I can clearly remember the first time I saw a deepfake. I was waiting for the train on my way to the Vice office in 2017 when I got a Twitter DM from someone who saw it posted to Reddit. It was a short .gif from the start of a porn video, showing a woman lying on a bed and talking to the camera, only the woman\u2019s face had been edited to look like Gal Gadot. The deepfake was shockingly realistic for the time, and as Sam\u2019s reporting on it from that day on has shown, deepfakes have primarily been used to harass and degrade women. We were surprised by how advanced the technology seemed at the time and knew that the internet and the law wasn\u2019t prepared to deal with it. The technology has advanced exponentially since then, and the internet and the law has still not caught up to it. But as concerning as deepfakes clearly were the moment we laid eyes on them, the problem was never that we thought Gal Gadot actually made an adult video. Deepfakes can look convincing, but they never fooled us that what we were seeing was real. But for the past few months I\u2019ve been looking at a new and strange type of AI generated nonconsensual image on X that I think will fool a lot of people. These images, which I\u2019ve started calling subtlefakes, are not as clearly offensive, but they are a lot more convincing.",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4700
+  },
   "4468d70c49d66785175e2d4eefd2eda579656523875d44c1b1b1bcc845ecbbac": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -16534,6 +16651,30 @@
       "trust"
     ],
     "word_count": 16856
+  },
+  "45c3e69220e6e0cc6f435bd2eed141e1c71c2961b761642a6aa59768f99e69f7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Photo by Andrew Hall / Unsplash Ypsilanti Township in Michigan passed a six month moratorium on \u201cmajor electric utility infrastructure\u201d on Tuesday night. The moratorium is a delaying tactic, the latest in the Township\u2019s long fight to stop the construction of a $1.2 billion data center that\u2019s backed by the University of Michigan and the Pentagon\u2019s nuclear war scientists at Los Alamos National Laboratories (LANL). Last year, the university announced it was partnering with LANL on the construction of a massive 220,000 square foot hyperscale data center in Ypsilanti Township and residents have been fighting it ever since. During a meeting of the Township Board on August 18, the council unanimously passed a resolution that will delay the construction of new electrical infrastructure for 180 days. \ud83d\udca1 Do you know anything else about this story? Is your town fighting a data center? I would love to hear from you. Using a non-work device, you can message me securely on Signal at +1 347 762-9212 or send me an email at matthew@404media.co. Data centers need a lot of energy , and Michigan\u2019s power authority will have to build new substations in the Township to power the proposed facility. The moratorium asked the local power authorities to use the six month delay to study noise pollution and how the new infrastructure would affect existing customers.",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1806
   },
   "45d84cae452411aff61d2235634e77b583664913bdb11c4c55aacff4a0dacdfd": {
     "access_status": "available",
@@ -22741,6 +22882,30 @@
     ],
     "word_count": 3054
   },
+  "6005ee87b5b8a0ce16ba036dd4bd0efacf3ebd36099876ab144efccfc27f2ff8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:57:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_ai_security",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_ai_security",
+    "research_relevance_score": -40,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "60289dd647f413cb4cffe30e7e92e6eaba14918ab7d60ed076fa5e94adb82a52": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -23473,6 +23638,30 @@
       "fraud"
     ],
     "word_count": 686
+  },
+  "6311510a0d717048e2d12664b31611c2e6a297bea1eea47d3cefd1a50e214f1a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A 3D-printed Flock model (not from Oviedo). Image via Printables A police department in Florida used \u201cdecoy\u201d Flock cameras that an officer 3D-printed at home to \u201cbait\u201d would-be vandals. Police officers monitored the fake cameras for days, then charged a man with three felonies after he cut down and destroyed one of the plastic devices. The police department in question refuses to release any information about how the decoy operation was devised or carried out and claims there is zero paper trail whatsoever about the operation. Oviedo, Florida mayor Megan Sladek said she \u201chad NO idea\u201d that this was happening and said she was \u201cspeechless\u201d over the sting operation, which was first reported by News 6 Orlando . The arrest shows that police have escalated their attempts to catch potential Flock vandals, and that some departments have dedicated significant resources into doing so. Sladek told 404 Media that the 3D-printed camera in question was \u201cfree.\u201d Despite the decoy camera being worth, at most, several dollars worth of plastic filament, Evan Meyer was charged with three felonies: attempted larceny/grand theft, criminal mischief of property damage worth more than $1,000, and property crimes against computer equipment supplies, according to an arrest report obtained by 404 Media. The arrest report states that the operation was devised after several Flock cameras in Oviedo were...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3818
   },
   "63314b3ac45320eeaa9f8703f905b0dbd5cec281a54d44bedb1fdf942b4cf980": {
     "access_status": "unknown",
@@ -27921,6 +28110,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "750f29b3762ed88b5472a9fedb2a103c2fd6ef09add0593af8d0fff13d63f322": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Content selection saved. Describe the issue below: On the Effectiveness of Dataset Watermarking in Adversarial Settings CCS: Security and privacy CCS: Computing methodologies Machine learning CCS: Computing methodologies Neural networks Buse G. A. Tekgul Affiliation: Aalto University , Espoo , Finland email: buse.atlitekgul@aalto.fi and N. Asokan Affiliation: University of Waterloo & Aalto University , Waterloo , Canada email: asokan@acm.org \u00a9 none Abstract. In a data-driven world, datasets constitute a significant economic value. Dataset owners who spend time and money to collect and curate the data are incentivized to ensure that their datasets are not used in ways that they did not authorize. When such misuse occurs, dataset owners need technical mechanisms for demonstrating their ownership of the dataset in question. Dataset watermarking provides one approach for ownership demonstration which can, in turn, deter unauthorized use. In this paper, we investigate a recently proposed data provenance method, radioactive data ( Sablayrolles et al., 2020 ) , to assess if it can be used to demonstrate ownership of (image) datasets used to train machine learning (ML) models.",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "watermarking",
+      "trust"
+    ],
+    "word_count": 14691
   },
   "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
     "access_status": "available",
@@ -40436,6 +40657,51 @@
     ],
     "word_count": null
   },
+  "a8f66175645205b56b0c3437fff8cfdb6f06dec65d97199be2e3c9f2c4f709f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: [ BoldFont = TeXGyreTermesX-Bold.otf, ItalicFont = TeXGyreTermesX-Italic.otf, BoldItalicFont = TeXGyreTermesX-BoldItalic.otf ] Register Shifts Break LLM Safety: A Bengali Benchmark with Culturally Grounded Harms Naymul Islam 1 Nusrat Jahan Lia 2 1 1 footnotemark: 1 Shubhashis Roy Dipta 3 1 1 footnotemark: 1 Sabik Bin Sultan 4 Abdullah Khan Zehady 5 1 BanglaLLM 2 Institute of Information Technology, University of Dhaka 3 University of Maryland, Baltimore County 4 Bangladesh Air Force Shaheen College Kurmitola 5 Ciroos Inc. naymul504@gmail.com bsse1306@iit.du.ac.bd sroydip1@umbc.edu sabikbinsultan@gmail.com azehady@ciroos.ai Project Page Code Dataset Leaderboard Thanks: Equal contribution. Abstract Bengali is the seventh-most-spoken language globally, yet LLM safety evaluation remains overwhelmingly English-centric. We introduce BanglaSafe , a benchmark of 879 879 Bengali prompts combining 309 309 natively authored prompts with 570 570 expert-reviewed prompts, spanning 17 17 culturally grounded harm categories and five prompting conditions that vary language, writing style, and authority framing. Evaluating 18 frontier LLMs, we find that over half of all responses are unsafe or partially unsafe (53.6%) while 14.7% contains strictly harmful content, and that the strongest observed effect is not the switch from English to Bengali...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "modus operandi"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 19240
+  },
   "a91bfaa942a8a5674ea3c7361f60655e92c4eab02625565303851f4ede5bb9df": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -44709,6 +44975,30 @@
     ],
     "word_count": 1353
   },
+  "b90bd19c7b2a5b173d5cf5e5d06fd6c20ed552c021bf241de94847d6c7307089": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Left: Screengrab via KWCH news . Right: Photo via Emporia High School website. Emporia Kansas has dropped its criminal case against Lux Claridge, a high school teacher who was arrested for clapping during a city data center meeting. \u201cToday, I was informed by my attorney that the city has dropped my charges and has passed my information along to the county. As far as I know, I'm in the clear unless the county is feeling froggy,\u201d Claridge told 404 Media in an email on Monday. Claridge's lawyer forwarded them a message from Emporia's assistant city attorney: \"Due to conflicts on this matter, the case has been dismissed without prejudice in municipal court and sent to the County Attorney\u2019s office for their review.\" The small town of Emporia, Kansas is fighting against its city commission and a proposed hyperscale data center project that would sit on 1,000 acres of prairie land near Claridge\u2019s home. Claridge attended a commission meeting on July 22 and planned to speak out against the project, but was dragged out of the meeting and arrested by police when they clapped during a presentation. Emporia held Claridge for eight hours and charged them with disorderly conduct and interfering with a law enforcement officer. The city refused to show 404 Media a copy of the arrest report and has not responded to a request for comment about the dropped charges. After Clardige\u2019s arrest...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:57:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1293
+  },
   "b91701db539f1f3b566d00d4dcf63296ac106039a11e7c25b5bc478ea8522338": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -46593,6 +46883,32 @@
       "victim"
     ],
     "word_count": 543
+  },
+  "c00d6377763e96bb23eb05c5b1c36e49c0f54d1fdd4657e3bd7005d1d3c8c120": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Technical Report: Comparative Evaluation of AR-based, VR-based, and Traditional Basic Life Support Training Enes Yigitbas Sebastian Krois Timo Renzelmann Gregor Engels Affiliation: Paderborn University Zukunftsmeile 2, 33102 Paderborn, Germany , E-mail enes@mail.upb.de, skrois@mail.upb.de, tire@mail.upb.de, engels@upb.de Abstract Basic life support (BLS) is crucial in the emergency response system as sudden cardiac arrest is still a major cause of death worldwide. In the majority of cases, cardiac arrest is witnessed out-of-hospital where execution of BLS including resuscitation through by-standers gets indispensable. However, survival rates of cardiac arrest victims could majorly increase if BLS skills would be trained regularly. In this context, technology-enhanced BLS training approaches utilizing augmented (AR) and virtual reality (VR) have been proposed in recent works. However, these approaches are not compliant with the medical BLS guidelines or focus only on specific steps of BLS training such as resuscitation. Furthermore, most of the existing training approaches do not focus on automated assessment to enhance efficiency and effectiveness through fine-grained real-time feedback. To overcome these issues, we present a novel AR- and VR-based training environment which supports a comprehensive BLS training compliant with...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 28176
   },
   "c02443d4d890f66c9e53672a02e6f047e3eba48aa5bfb7786687a5353b7a31b1": {
     "access_status": "available",
@@ -52107,6 +52423,33 @@
     ],
     "word_count": 10633
   },
+  "d61587b8fb28ca87dfc2d1a09ce182dd79a4ed20621f0dc2fa181ddef714eea5": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Image: U.S. Immigration and Customs Enforcement, via Flickr . Immigration and Customs Enforcement (ICE) is looking for a federal contractor to provide it with access to the country\u2019s voter registration and voter history data, according to newly released procurement records reviewed by 404 Media. The procurement records say ICE is seeking the data to help detect fraud. But given the administration\u2019s habit of using fraud as a pretense for large immigration enforcement actions, and President Trump\u2019s constant comments about election security in the lead up to the midterms, the planned hiring of a contractor to handle voter data raises questions around what exactly ICE plans to do with the data. \ud83d\udca1 Do you work at ICE or CBP? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co. \u201cThe purpose of this acquisition is for the handling and secure delivery of publicly available voter registration files and voter history files to support Homeland Security Investigations (HSI) fraud detection and data segmentation activities,\u201d a section of the procurement records reads . The records are part of a Request for Information, or RFI, which means the government is asking potentially capable contractors to come forward.",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1559
+  },
   "d62350fee04d69a63ca17dc436cf29cf4c1681fcca24f0a997a744f517095e01": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -52887,6 +53230,33 @@
     ],
     "word_count": 1420
   },
+  "d9be519947f9fe43379672754702ec64505781ef2a22d3b73567adea67a19562": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models Sahil Kale Affiliation: Pune Institute of Computer Technology Affiliation: Pune, India Email: sahilrkale05@gmail.com Ian Harris Affiliation: University of California, Irvine Affiliation: Irvine, CA, USA Email: iharris@uci.edu Abstract Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completely. Current approaches rely on disjoint forget and retain sets composed of independent facts, and measure success using simple and direct factual recall. This framing fails to capture a key requirement of unlearning, namely the ability to eliminate harmful behaviors while preserving benign and beneficial knowledge. We argue that effective unlearning must operate at the level of concepts, ensuring complete removal of unsafe applications while maintaining their correct and useful usage, thereby achieving conceptually meaningful and complete unlearning. To better evaluate unlearning techniques from such a practical viewpoint, we introduce the notion of dual-use concepts: concepts that can be used in both harmful and benign contexts. Building on these concepts, we construct a benchmark called ConceptGuard where forget and...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 15115
+  },
   "d9cb85eb6d2a768667c80330a36218b73ff838340dd902a484de1a1b88ccd642": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -53485,6 +53855,47 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1679
+  },
+  "db9425295434386e07e1984bcaf6007b56a9aff61b9df2115ceb08038164515b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Shoolini Opens Book Nooks to Promote Reading and Reuse Shoolini & C-DAC Organise National Quantum Training Programme Viksit Bharat@2047: Shoolini Students Take Nasha Mukti Pledge Shoolini Faculty Learn to Use AI in Teaching & Research Shoolini Cycling Club rides for a greener planet on World Environment Day Shoolini Wins ICF India Coaching Excellence Award 2026 Earth Day Drive Highlights Sustainability Action on Campus NCC Unit Marks 10 Years of Discipline and Service Shoolini Alumna at BBC News Hindi Leads Journalism Session for Media Students Shoolini Alumna Dalia Das Joins NLU Delhi as a Legal Fellow From Shoolini\u2019s CSE Classroom to the World\u2019s Top 10 Coders Forbes 30 Under 30 Asia 2026 Has Two Shoolini Names This Year Shoolini\u2013Infinite Partnership for Internships and Placements Shoolini Student Lands \u20b942-Lakh Job at Algo8 Placement Vision, Strategies and Goals for 2024 From Shoolini to the Bank of America! Prof Pardeep on Research, Resilience & the Road Ahead From Admissions to Placements: Breaking Barriers and Records \u2018Rising Demand for Mental Health Professionals in India\u2019 Creating Next-Gen Media Mavericks with Prof Pubby Why Research Experience Defines Shoolini\u2019s Bioinformatics Program A Defining Year for the Research Ecosystem at Shoolini University How Shoolini\u2019s SRP Transforms Undergrads Into Inventors Forest to Factory: How Pine Cones Can Power a Cleaner Industry...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4593
   },
   "dbe4526d80d81bc789531cdd7c68bccb2bee74a1087b8c827e6332b32ba38bd1": {
     "access_status": "available",
@@ -57355,6 +57766,34 @@
     ],
     "word_count": 1212
   },
+  "edc3a55985080ab2b2cff80dcb715811e42aafb72729df94cae425f17c8bb7eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Progressive Induction-Aware Optimization Improves LLM Safety Against Multi-Turn Jailbreaks Large language models can appear safe in a single exchange yet become increasingly vulnerable when a conversation unfolds over many turns. A new study introduces a training framework designed to confront that gradual erosion of safeguards, arguing that the most dangerous jailbreaks are not always sudden attacks but carefully constructed dialogues that slowly shift a model\u2019s internal interpretation of what is acceptable. The method, called Progressive Induction-Aware Representation Separation, or PIARS, is presented as an optimization strategy that tracks how risk accumulates throughout a conversation and reshapes the model\u2019s internal representations accordingly. The research, published in Machine Learning, addresses a growing weakness in the safety alignment of generative AI systems. Conventional approaches such as supervised fine-tuning and preference optimization teach models to refuse harmful requests and follow safety rules, but they are often evaluated primarily on isolated prompts. Multi-turn attacks exploit a different failure mode. An attacker may begin with harmless questions, establish a cooperative role-playing scenario, introduce apparently legitimate context, and only later make a request that would have been rejected if presented at the beginning. By then, the earlier turns...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "vulnerability"
+    ],
+    "word_count": 1784
+  },
   "edd2c0eac16d8dd8398b5ae20073108ab3565fcdb01f0586ce1b6f6f0c9f2cde": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -61116,6 +61555,33 @@
     ],
     "word_count": 10136
   },
+  "fd7f306c050ce362b9b697cad834c605c6893bbf7049276d678802ad38a66f12": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Cloud-based Image Classification Service Is Not Robust To Simple Transformations:A Forgotten Battlefield Dou Goodman Affiliation: Baidu X-Lab Tao Wei Affiliation: Baidu X-Lab Abstract Many recent works demonstrated that Deep Learning models are vulnerable to adversarial examples.Fortunately, generating adversarial examples usually requires white-box access to the victim model, and the attacker can only access the APIs opened by cloud platforms. Thus, keeping models in the cloud can usually give a (false) sense of security.Unfortunately, cloud-based image classification service is not robust to simple transformations such as Gaussian Noise , Salt-and-Pepper Noise , Rotation and Monochromatization . In this paper,(1) we propose one novel attack method called Image Fusion(IF) attack, which achieve a high bypass rate,can be implemented only with OpenCV and is difficult to defend; and (2) we make the first attempt to conduct an extensive empirical study of Simple Transformation (ST) attacks against real-world cloud-based classification services. Through evaluations on four popular cloud platforms including Amazon, Google, Microsoft, Clarifai, we demonstrate that ST attack has a success rate of approximately 100% except Amazon approximately 50%, IF attack have a success rate over 98% among different classification services. (3) We...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:57:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime"
+    ],
+    "word_count": 11508
+  },
   "fda031636bdab2d5216f08ab2d4b88e0c7b0c5299051634bc8fa83e0a9033941": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -61373,6 +61839,61 @@
       "trust"
     ],
     "word_count": 15537
+  },
+  "fe53e6c473d6b4ac13934c877d41e0ec9e4521fcedbda41c7a96ef053158d456": {
+    "access_status": "paywalled_or_login",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: 1] Fudan University 2] Deakin University 3] The University of Melbourne 4] City University of Hong Kong \\correspondence , \\checkdata [Website] https://fresh-ma.github.io/HarmProfile/ HarmProfile: Characterizing Harmful Distributions in Frontier LLMs Zhouyuan Ma 1 Yutao Wu 2 Hanxun Huang 3 Xiang Zheng 4 Xiao Liu 2 Yixin Cao 1 Zuxuan Wu 1 Xingjun Ma 1 \u2020 \\dagger Yu-Gang Jiang 1 \u2020 Affiliation: [ Affiliation: [ Affiliation: [ Affiliation: [ Email: xingjunma@fudan.edu.cn Email: ygj@fudan.edu.cn Abstract Abstract Frontier large language models (LLMs) safety evaluation has largely treated harmful generation as an attack outcome rather than as an object of analysis. Consequently, little is known about the harmful outputs produced during model misbehavior, partly because large-scale, high-quality collections of frontier-LLM misbehavior are difficult to obtain. To address this gap, we introduce HarmProfile , a content-centric benchmark dataset that collects model misbehavior across diverse harm categories and model families, and defines the resulting harmful-output distribution as a model-level risk profile. The premise is that, just as linguistic behavior can be characterized from an utterance corpus, model risk can be characterized from the content, severity, and variation of its safety failures. HarmProfile contains over 80,000...",
+    "cache_version": 9,
+    "checked_at": "2026-08-26T01:56:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [
+      "platform abuse",
+      "session hijacking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 30129
   },
   "fe5fb67bacfe60fea5c11f0c5c45aa32b9e68c956653b4ac353d3d17a88a8bea": {
     "access_status": "available",
