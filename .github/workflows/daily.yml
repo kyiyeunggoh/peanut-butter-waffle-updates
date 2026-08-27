@@ -19,13 +19,14 @@ on:
         default: "false"
         type: boolean
   schedule:
-    # Staggered attempts for 08:13, 08:43, and 09:13 Asia/Singapore.
+    # Staggered attempts for 08:13, 08:43, 09:13, and 11:17 Asia/Singapore.
     # GitHub scheduled workflows can be delayed or occasionally dropped;
     # the daily guard below prevents duplicate sends when an earlier attempt
     # already completed.
     - cron: "13 0 * * *"
     - cron: "43 0 * * *"
     - cron: "13 1 * * *"
+    - cron: "17 3 * * *"
 
 permissions:
   contents: write

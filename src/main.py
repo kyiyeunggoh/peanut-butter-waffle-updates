@@ -37,7 +37,7 @@ SEEN_NEAR_DUPLICATE_CACHE: dict[tuple[int, int, int, int], list[dict[str, Any]]]
 CACHE_TTL_DAYS = 7
 CANDIDATE_CACHE_TTL_HOURS = 12
 CACHE_MAX_ENTRIES = 5000
-QUALITY_CACHE_VERSION = 9
+QUALITY_CACHE_VERSION = 10
 DOMAIN_QUERY_TERMS = (
     "AI",
     "artificial intelligence",
@@ -982,6 +982,8 @@ FINAL_DISALLOWED_REJECTION_REASONS = {
     "vendor_product_launch_no_scam_anchor",
     "irrelevant_anti_scam_relevance",
     "entertainment_or_culture_no_scam_anchor",
+    "topic_or_listing_page",
+    "homepage_or_index_url",
 }
 SOFT_FINAL_REJECTION_REASONS = {"fetch_failed", "fetch_timeout"}
 TECHNICAL_TYPES = {"Technical article", "Threat intelligence report", "Official report", "Research paper"}
@@ -1548,6 +1550,47 @@ def build_rss_queries(sources: list[dict[str, Any]], config: dict[str, Any] | No
     return queries
 
 
+def select_rss_queries_for_run(queries: list[dict[str, str]], max_queries: int) -> list[dict[str, str]]:
+    """Preserve editorial source balance when the configured query list exceeds the run cap."""
+    if len(queries) <= max_queries:
+        return queries
+
+    minimums = (
+        ("investigative", 27),
+        ("current_affairs", 27),
+        ("academic", 20),
+        ("psychology", 10),
+        ("international", 12),
+        ("platform_product", 8),
+        ("singapore_sea", 3),
+        ("targeted", 5),
+    )
+    selected: list[dict[str, str]] = []
+    selected_ids: set[str] = set()
+
+    def add(query: dict[str, str]) -> None:
+        identity = query.get("url") or query.get("query", "")
+        if identity and identity not in selected_ids and len(selected) < max_queries:
+            selected.append(query)
+            selected_ids.add(identity)
+
+    for group, target in minimums:
+        added = 0
+        for query in queries:
+            if added >= target or len(selected) >= max_queries:
+                break
+            if query_group_for_query(query.get("query", ""), query.get("priority", "")) == group:
+                before = len(selected)
+                add(query)
+                added += len(selected) - before
+
+    for query in queries:
+        add(query)
+        if len(selected) >= max_queries:
+            break
+    return selected
+
+
 def query_group_for_query(query: str, priority: str = "") -> str:
     lowered = query.lower()
     if priority == "monitored_current_affairs" or any(domain in lowered for domain in HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS):
@@ -1985,7 +2028,7 @@ def is_likely_homepage_or_index_url(item: dict[str, Any]) -> bool:
     path = parsed.path.rstrip("/").lower()
     if not parsed.hostname:
         return False
-    return path in {"", "/blog", "/news", "/reports", "/insights", "/security", "/category"}
+    return path in {"", "/blog", "/news", "/reports", "/insights", "/security", "/category"} or is_topic_or_listing_page(item)
 
 
 def same_story_key(candidate: dict[str, Any]) -> str:
@@ -2147,11 +2190,61 @@ def is_topic_or_listing_page(item: dict[str, Any]) -> bool:
 
     if len(segments) >= 2 and segments[0] in {"topic", "topics", "tag", "tags"}:
         return True
+    if segments and segments[0] in {"category", "categories", "section", "sections", "archive", "search"}:
+        return True
     if segments and segments[-1] in {"search", "latest", "topics", "tags"}:
         return True
+    domain = (parsed.hostname or "").lower().removeprefix("www.")
+    if domain.endswith("theguardian.com"):
+        # Guardian article URLs contain a dated path; country/desk paths such as
+        # /world/cambodia are listing pages even when a resolver associates an article headline.
+        is_dated_article = bool(re.search(r"/\d{4}/[a-z]{3}/\d{1,2}/", f"/{path.lstrip('/')}"))
+        if not is_dated_article and segments and segments[0] in {
+            "world",
+            "technology",
+            "business",
+            "money",
+            "society",
+            "global-development",
+            "international",
+            "uk-news",
+            "us-news",
+            "australia-news",
+        }:
+            return True
     if any(phrase in title for phrase in ("latest news & coverage", "latest news and coverage", "news & coverage")):
         return True
     return False
+
+
+def research_title_has_direct_scam_focus(item: dict[str, Any]) -> bool:
+    title = strip_publisher_suffix(display_title(item.get("title", ""))).lower()
+    return bool(terms_found(title, RESEARCH_DIRECT_TITLE_TERMS))
+
+
+def generic_research_title_without_scam_focus(item: dict[str, Any]) -> bool:
+    if item.get("article_type", classify_article_type(item)) != "Research paper":
+        return False
+    if research_title_has_direct_scam_focus(item):
+        return False
+    title = strip_publisher_suffix(display_title(item.get("title", ""))).lower()
+    generic_focus_terms = (
+        "llm safety",
+        "model safety",
+        "safety benchmark",
+        "harmful distributions",
+        "frontier llms",
+        "fine-tuning",
+        "fine tuning",
+        "misalignment",
+        "jailbreak",
+        "ransomware",
+        "malware analysis",
+        "cybercrime video gaming",
+        "adversarial augmentation",
+        "enterprise security",
+    )
+    return any(term in title for term in generic_focus_terms)
 
 
 def is_browser_access_boilerplate_text(text: str) -> bool:
@@ -3378,7 +3471,11 @@ def quality_rejection_reason(candidate: dict[str, Any], config: dict[str, Any]) 
         return "outdated_article"
     if anti_scam_relevance == "irrelevant":
         return "irrelevant_anti_scam_relevance"
+    if article_type == "Research paper" and not research_title_has_direct_scam_focus(candidate):
+        return "generic_research_or_technical"
     if article_type == "Research paper" and is_low_signal_generic_research_context(candidate):
+        return "generic_research_or_technical"
+    if generic_research_title_without_scam_focus(candidate):
         return "generic_research_or_technical"
     if article_type in {"Research paper", "Technical article", "Threat intelligence report"} and not direct_title_terms and not metadata_eligible_research:
         return "generic_research_or_technical"
@@ -3845,6 +3942,10 @@ def final_ineligibility_reason(
         return "general_context"
     if article_type == "Other":
         return "other_article_type"
+    if article_type == "Research paper" and not research_title_has_direct_scam_focus(item):
+        return "generic_research_or_technical"
+    if is_topic_or_listing_page(item):
+        return "topic_or_listing_page"
     if is_likely_homepage_or_index_url(item):
         return "homepage_or_index_url"
     if config and is_vendor_or_low_priority_source(item, config) and is_sponsored_vendor_item(item) and not is_relevant_sponsored_vendor_item(item):
@@ -4460,6 +4561,7 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
             selected.append(match)
 
     add_match(is_non_academic_longform_operational_item)
+    add_match(is_reputable_current_affairs_item)
     add_match(is_psychology_item)
     add_match(is_investigative_or_operational_item)
     add_match(is_direct_research_item)
@@ -4468,7 +4570,6 @@ def select_final_items(items: list[dict[str, Any]], config: dict[str, Any], max_
     add_match(is_technical_item)
     add_match(is_deep_analysis_item)
     add_match(is_platform_product_item)
-    add_match(is_reputable_current_affairs_item)
     add_match(is_scam_development_item)
     add_match(is_local_sea_item, strict=True)
 
@@ -5000,13 +5101,11 @@ def is_investigative_longform_recency_exception(item: dict[str, Any]) -> bool:
     ) + HIGH_VALUE_CURRENT_AFFAIRS_DOMAINS
     if article_type in {"News report", "Enforcement report", "Official report", "Advisory / guidance"}:
         return False
-    return (
-        article_type in {"Investigative report", "Deep analysis", "Policy analysis"}
-        or (query_group == "investigative" and any(domain.endswith(host) for host in longform_domains))
-        or (
-            any(domain.endswith(host) for host in longform_domains)
-            and (is_investigative_or_operational_item(item) or usefulness_category in {"Operational intelligence", "Technical abuse / vulnerability"})
-        )
+    return article_type in {"Investigative report", "Deep analysis", "Policy analysis"} or (
+        query_group == "investigative"
+        and any(domain.endswith(host) for host in longform_domains)
+        and is_investigative_or_operational_item(item)
+        and usefulness_category != "General context"
     )
 
 
@@ -5262,11 +5361,11 @@ def fetch_candidates(
     now = datetime.now(timezone.utc)
 
     query_cap_reached = len(queries) > max_queries
-    queries_to_run = queries[:max_queries]
+    queries_to_run = select_rss_queries_for_run(queries, max_queries)
     monitored_domains_queried = {
         match.group(1).lower().removeprefix("www.")
         for query in queries_to_run
-        if query.get("priority") == "monitored_source"
+        if str(query.get("priority", "")).startswith("monitored_")
         for match in [re.search(r"site:([^\s]+)", query.get("query", ""))]
         if match
     }
@@ -5362,6 +5461,14 @@ def fetch_candidates(
         "reference_examples_loaded_count": len(configured_reference_examples(config)),
         "reference_urls_included_as_candidates_count": len(reference_entries),
         "monitored_sources_queried_count": len(monitored_domains_queried),
+        "query_group_budget_distribution": query_group_distribution(
+            [
+                {
+                    "query_group": query_group_for_query(query.get("query", ""), query.get("priority", ""))
+                }
+                for query in queries_to_run
+            ]
+        ),
     }
 
 
@@ -5436,6 +5543,15 @@ def non_google_news_url(url: str) -> str | None:
     return absolute_url
 
 
+def non_google_news_article_url(url: str) -> str | None:
+    candidate_url = non_google_news_url(url)
+    if not candidate_url:
+        return None
+    if is_topic_or_listing_page({"url": candidate_url}):
+        return None
+    return candidate_url
+
+
 def refresh_url(content: str, base_url: str) -> str | None:
     match = re.search(r"url\s*=\s*([^;]+)", content, flags=re.IGNORECASE)
     if not match:
@@ -5496,7 +5612,7 @@ def decode_google_news_article_url(article_id: str) -> str | None:
         decoded_url = json.loads(parsed_data[0][2])[1]
     except (IndexError, TypeError, json.JSONDecodeError):
         return None
-    return non_google_news_url(decoded_url)
+    return non_google_news_article_url(decoded_url)
 
 
 def resolve_google_news_url_with_method(url: str) -> tuple[str, str]:
@@ -5509,7 +5625,7 @@ def resolve_google_news_url_with_method(url: str) -> tuple[str, str]:
         except Exception:
             result = None
         if isinstance(result, dict) and result.get("status") is True:
-            decoded_url = non_google_news_url(result.get("decoded_url", ""))
+            decoded_url = non_google_news_article_url(result.get("decoded_url", ""))
             if decoded_url:
                 return decoded_url, "googlenewsdecoder"
 
@@ -5533,32 +5649,32 @@ def resolve_google_news_url_with_method(url: str) -> tuple[str, str]:
     except requests.RequestException:
         return url, "unresolved"
 
-    resolved_url = response.url
-    if resolved_url and "news.google.com" not in urlparse(resolved_url).netloc.lower():
+    resolved_url = non_google_news_article_url(response.url or "")
+    if resolved_url:
         return resolved_url, "fallback"
 
     soup = BeautifulSoup(response.text, "html.parser")
     canonical_link = soup.find("link", rel=lambda value: value and "canonical" in value)
     if canonical_link:
-        candidate_url = non_google_news_url(urljoin(url, canonical_link.get("href", "")))
+        candidate_url = non_google_news_article_url(urljoin(url, canonical_link.get("href", "")))
         if candidate_url:
             return candidate_url, "fallback"
 
     og_url = soup.find("meta", property="og:url")
     if og_url:
-        candidate_url = non_google_news_url(urljoin(url, og_url.get("content", "")))
+        candidate_url = non_google_news_article_url(urljoin(url, og_url.get("content", "")))
         if candidate_url:
             return candidate_url, "fallback"
 
     refresh_meta = soup.find("meta", attrs={"http-equiv": lambda value: value and value.lower() == "refresh"})
     if refresh_meta:
         candidate_url = refresh_url(refresh_meta.get("content", ""), url)
-        candidate_url = non_google_news_url(candidate_url or "")
+        candidate_url = non_google_news_article_url(candidate_url or "")
         if candidate_url:
             return candidate_url, "fallback"
 
     for link in soup.find_all("a", href=True):
-        candidate_url = non_google_news_url(urljoin(url, link["href"]))
+        candidate_url = non_google_news_article_url(urljoin(url, link["href"]))
         if candidate_url:
             return candidate_url, "fallback"
 
@@ -5659,8 +5775,12 @@ def canonicalise_top_candidates(
             method = "not_google_news"
             cache_key = url_hash(candidate["original_url"])
             cached = (url_cache or {}).get(cache_key)
-            if cached and cache_record_fresh(cached, "resolved_at"):
-                candidate["canonical_url"] = cached.get("canonical_url", candidate["url"])
+            cached_url = str((cached or {}).get("canonical_url") or "")
+            cached_url_is_valid = bool(cached_url) and (
+                is_google_news_url(cached_url) or not is_topic_or_listing_page({"url": cached_url})
+            )
+            if cached and cache_record_fresh(cached, "resolved_at") and cached_url_is_valid:
+                candidate["canonical_url"] = cached_url
                 method = "cache"
                 if was_google_news and stats is not None:
                     stats["url_cache_hit_count"] = stats.get("url_cache_hit_count", 0) + 1
@@ -5750,6 +5870,7 @@ def print_pipeline_report(pipeline: dict[str, Any]) -> None:
     print(f"cache_fallback_used: {bool(cache_info.get('cache_fallback_used', False))}")
     print(f"cache_fallback_allowed: {bool(cache_info.get('cache_fallback_allowed', True))}")
     print(f"Total RSS queries run: {stats['rss_queries_run']}")
+    print(f"Query group budget distribution: {stats.get('query_group_budget_distribution', {})}")
     print(f"Total raw candidates fetched: {stats['raw_candidate_count']}")
     print(f"Total candidates after date filter: {stats['date_filtered_candidate_count']}")
     print(f"Total candidates filtered as already seen: {stats['seen_filtered_candidate_count']}")
@@ -6086,6 +6207,7 @@ def build_gemini_prompt(items: list[dict[str, Any]], sent_count: int) -> str:
         "Select for direct anti-scam product relevance. Do not select generic AI/cybersecurity articles unless they clearly help understand scammer modus operandi, victim manipulation, monetary-loss fraud, account takeover, scam infrastructure, platform/telco/bank controls, or technologies used by scammers to scale. "
         "You must not select generic AI/cybersecurity context items. Every final item must be directly useful for anti-scam product work. "
         "Never select an item with usefulness_category='General context', anti_scam_relevance='weak', or rejection_reason set. Do not let category quotas rescue these items. "
+        "Never select a homepage, country page, topic page, tag page, category page, search page, archive, or publisher section URL. Every URL must point to a specific article, report, paper, advisory, or changelog entry. "
         "Do not fill category quotas with weak items. If only 2 strong fresh items exist, return those 2. A balanced list with weak items is worse than a shorter list of strong items. "
         "Do not assign items to a specialist section unless the item actually matches that section. Generic AI cybersecurity does not belong under Deepfakes, synthetic identity & impersonation. "
         "Reject healthcare/radiology/enterprise-security/generic-cyber items unless they have a direct scam/fraud/social-engineering link. "
