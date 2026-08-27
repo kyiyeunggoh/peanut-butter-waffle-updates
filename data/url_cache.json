@@ -1,7 +1,7 @@
 {
   "0018d177a6febc5af543f1b27b6a0a7d10b03527be54777548c2774c9b6c120c": {
     "canonical_url": "https://arxiv.org/pdf/2608.14813",
-    "resolved_at": "2026-08-20T01:49:25+00:00"
+    "resolved_at": "2026-08-27T09:37:21+00:00"
   },
   "0018f00b99561c1578b9886315c39d0a91100d1a9b7c4e0c384457c92c7d251a": {
     "canonical_url": "https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/",
@@ -283,6 +283,10 @@
     "canonical_url": "https://arxiv.org/html/2608.05036v1",
     "resolved_at": "2026-08-22T01:48:49+00:00"
   },
+  "07375e5edb1fb8d01ab437891cdd4ee73f5d93433e7d24a0e45c55ff4836992f": {
+    "canonical_url": "https://arxiv.org/html/1911.10742v1",
+    "resolved_at": "2026-08-27T09:37:14+00:00"
+  },
   "073e4b0879c6346b247e8bd07beda65ca2fbc3216ded1a043154065fe731d0d6": {
     "canonical_url": "https://www.theguardian.com/tv-and-radio/2026/jun/16/scamanda-review-weird-tale-cancer-faker-cheated-community-out-of-thousands",
     "resolved_at": "2026-06-17T05:11:29+00:00"
@@ -333,7 +337,7 @@
   },
   "0865bf7fc0c1270a2b1d78e366f5c0dc27361d70c2aa88f6fea530e5ed122858": {
     "canonical_url": "https://arxiv.org/html/2606.03215v1",
-    "resolved_at": "2026-08-20T01:49:36+00:00"
+    "resolved_at": "2026-08-27T09:37:20+00:00"
   },
   "0873942b3cde2f9bb630feb5601d463eaa6f1dea73c73b624916de4101fa9292": {
     "canonical_url": "http://news.bbc.co.uk/news/articles/c4gy3lgz1x3o",
@@ -370,6 +374,10 @@
   "090385724815c706f92509ae18c46d4f14cdc424bd1325460c82bb535408255d": {
     "canonical_url": "https://www.wired.com/story/livestream-book-club-inside-the-world-of-online-romance-scams/",
     "resolved_at": "2026-07-17T03:35:46+00:00"
+  },
+  "092da38ea0b46d187598bb9ae1897adbaa35aac6e08d200032ce13ff8fc208f1": {
+    "canonical_url": "https://iol.co.za/news/crime-and-courts/2026-08-05-is-ai-the-new-frontier-for-cybercriminals-in-africa/",
+    "resolved_at": "2026-08-27T09:36:43+00:00"
   },
   "0958c7f595a5eaf32af20d2e2247e28a379025ae10f35bbe8139f33b6830d750": {
     "canonical_url": "https://www.theguardian.com/us-news/video/2026/jul/01/us-supreme-court-reform-stateside-podcast",
@@ -639,6 +647,10 @@
     "canonical_url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
     "resolved_at": "2026-08-08T02:19:14+00:00"
   },
+  "0f7d0c6960d1fd01e1bc1620e4562e576d2f42a6b8c1dbfa1b8300999cec8a0b": {
+    "canonical_url": "https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing/",
+    "resolved_at": "2026-08-27T09:37:54+00:00"
+  },
   "0fae0b8d59b670eccdff032310333c68a9afaeb2144826c638e404bf1d7519de": {
     "canonical_url": "https://arxiv.org/pdf/2605.15047",
     "resolved_at": "2026-06-08T05:00:42+00:00"
@@ -667,6 +679,14 @@
     "canonical_url": "https://www.economist.com/the-world-in-brief/2026/06/30/2ff0785d-ff21-4c77-a3cc-125a055caf44",
     "resolved_at": "2026-07-05T04:19:09+00:00"
   },
+  "104eab6ce0e6e8bd0fb5039b02072d3f3f8a631c60577834ee126aab9193589d": {
+    "canonical_url": "https://cyberpress.org/balonx-targets-mexican-banks-2/",
+    "resolved_at": "2026-08-27T09:36:46+00:00"
+  },
+  "1055201985899fbd5570af75512220f93c272b35e936f8cb2df689aaac0ee8b9": {
+    "canonical_url": "https://www.graphika.com/insights/coordinated-network-impersonates-us-assistant-attorney-general-across-platforms-in-likely",
+    "resolved_at": "2026-08-27T09:37:52+00:00"
+  },
   "10626139f133c47913a15dcea918bde1fc60c7ff8445baf81e2fc0e502cd63b7": {
     "canonical_url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
     "resolved_at": "2026-05-28T01:55:35+00:00"
@@ -686,6 +706,10 @@
   "10a96a78e271b018a1905e00f1d35ef7c89ab43e4e1c083216688dd31b573bf3": {
     "canonical_url": "https://www.channelnewsasia.com/business/trump-sign-order-ai-oversight-security-fears-mount-among-supporters-6132846",
     "resolved_at": "2026-05-23T15:51:11+00:00"
+  },
+  "10c5cde250a995b53f1db14077bc65c1e46c1effbe40fb8846d5966f9eb472ba": {
+    "canonical_url": "https://www.graphika.com/reports/umbrae-ex-machina",
+    "resolved_at": "2026-08-27T09:36:53+00:00"
   },
   "10ca81f2b785711ea7f568c13b9f0a1d6532e4df18f73e2ea5fbd92a5077b633": {
     "canonical_url": "https://www.theguardian.com/media/2026/jul/10/online-platforms-ban-scam-ads-uk-fraud-ofcom-online-safety-act",
@@ -1189,7 +1213,7 @@
   },
   "1b4d2746cd36d6e1eb82e368cb4402714a793550a0dde95b0cb61693024163ee": {
     "canonical_url": "https://ieeexplore.ieee.org/document/11290431/",
-    "resolved_at": "2026-08-20T01:50:00+00:00"
+    "resolved_at": "2026-08-27T09:37:55+00:00"
   },
   "1b6cbe2695bb20688ca4d8c1b6022bd62c323eb5d421e28df791c78a0e65bba2": {
     "canonical_url": "https://www.wired.com/story/the-manosphere-isnt-a-movement-its-a-multibillion-dollar-grievance-industry/",
@@ -1219,6 +1243,10 @@
     "canonical_url": "https://arxiv.org/html/2606.13892v1",
     "resolved_at": "2026-08-19T01:50:48+00:00"
   },
+  "1c0f64af800b103f96b774ec8890ad1062ffb6a0aca0a7ae3563481e26831be2": {
+    "canonical_url": "http://ieeexplore.ieee.org/iel8/8858/11517592/11426774.pdf",
+    "resolved_at": "2026-08-27T09:37:53+00:00"
+  },
   "1c260eb0546771376e74003fce7506eaa7980d0b83b2bd6ee788890e304d8602": {
     "canonical_url": "https://ieeexplore.ieee.org/document/11410611/",
     "resolved_at": "2026-06-04T05:03:52+00:00"
@@ -1246,6 +1274,10 @@
   "1c896c9cf5b95cad3f4ee4715576f32cb773683adf29a909e122dc0818a06665": {
     "canonical_url": "https://arxiv.org/html/2104.09656v1",
     "resolved_at": "2026-08-25T01:50:03+00:00"
+  },
+  "1c9eaefc9d9e33b6539c401e0c4cf9539cb9a2d1f4d451e7038f90eab9751517": {
+    "canonical_url": "https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing/",
+    "resolved_at": "2026-08-27T09:37:03+00:00"
   },
   "1cd4c5ed99c8a195585210e2a8bafedc026b99ebdadc4bea3823410f77acb68f": {
     "canonical_url": "https://www.bbc.com/news/videos/c9v2w1eg4jpo",
@@ -1575,6 +1607,10 @@
     "canonical_url": "https://www.wired.com/sponsored/story/lloyds-banking-agentic-ai-fight-against-fraud/",
     "resolved_at": "2026-06-11T04:58:25+00:00"
   },
+  "23ff27c02e69f8accb7f79432747b4def39d284c21f23bd6e5b94c004a531985": {
+    "canonical_url": "https://www.theguardian.com/world/south-and-central-asia/2026/aug/20/all",
+    "resolved_at": "2026-08-27T09:36:58+00:00"
+  },
   "2401be5bf5f3750e6440a8eaf6941892f2cce29c614c0bed76a0aefbc09e6b49": {
     "canonical_url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
     "resolved_at": "2026-07-25T16:25:44+00:00"
@@ -1733,7 +1769,7 @@
   },
   "2725e1c2da501e53d781c01bfd5c1dbad3928740d6e5e802a3d4a2c205584369": {
     "canonical_url": "https://arxiv.org/html/2607.20255v2",
-    "resolved_at": "2026-08-20T01:49:17+00:00"
+    "resolved_at": "2026-08-27T09:36:56+00:00"
   },
   "272f05222149790c08931a98e3796cfa8bb6b723a2dee918d90d4199de8cd955": {
     "canonical_url": "https://www.reuters.com/business/finance/hsbcs-australia-unit-faces-246-million-penalty-over-scam-protection-failures-2026-06-18/",
@@ -1863,6 +1899,10 @@
     "canonical_url": "https://arxiv.org/html/2003.07684v5",
     "resolved_at": "2026-08-26T01:56:04+00:00"
   },
+  "2ac9ff34cf0ad2d93922963f5b7f4506e8442dac58cc735b3bb065d0a79ee133": {
+    "canonical_url": "https://shooliniuniversity.com/blog/from-deepfakes-to-ai-powered-cyberattacks-why-ai-safety-is-more-important-than-ever/?amp=1",
+    "resolved_at": "2026-08-27T09:36:34+00:00"
+  },
   "2ae0ac5bab9fb2df7624e7904b37dbefcfd6a57b97fb0752d50e68baabd0c13f": {
     "canonical_url": "https://arxiv.org/html/2605.09089v2",
     "resolved_at": "2026-08-14T02:42:59+00:00"
@@ -1870,6 +1910,10 @@
   "2ae361f7328c3e39a7bbf40a5787fdc9eab29102a47b596761fa78f4185076c4": {
     "canonical_url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
     "resolved_at": "2026-05-28T01:55:49+00:00"
+  },
+  "2af113ee28b8ddcab6d4ded3318b7dd272a7fed479535fe03d8fd700bce979f8": {
+    "canonical_url": "https://asia.nikkei.com/spotlight/cybersecurity/google-openai-meta-tiktok-team-up-with-japan-to-fight-scams",
+    "resolved_at": "2026-08-27T09:36:44+00:00"
   },
   "2af285224c3ca3fcdadcc136f484085f839613f4b7671d0c3168ac9bdb1a6b3f": {
     "canonical_url": "https://www.bbc.com/news/articles/cnv93j9pv78o",
@@ -2149,7 +2193,7 @@
   },
   "32fd234f82a11d9019a3b4502285568825aa2c0265d679d1bc6f327506a63246": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7069598",
-    "resolved_at": "2026-08-20T01:49:33+00:00"
+    "resolved_at": "2026-08-27T09:37:23+00:00"
   },
   "330d27f8067f376adb294d9083d34f5eb734354c4b07c4ff4f1392d7c9bd9e09": {
     "canonical_url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
@@ -2250,6 +2294,10 @@
   "34ac34325db71c971e1c27380b0a917f7a9ea45522731fcb4e1260f22b0463a1": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6812866",
     "resolved_at": "2026-06-06T04:18:54+00:00"
+  },
+  "34ae970e06638f4e75013aa50367af037935f6c77a59c274c82704e1cf31f262": {
+    "canonical_url": "https://www.404media.co/how-a-network-of-volunteers-is-liberating-critical-court-records-for-everyone/",
+    "resolved_at": "2026-08-27T09:37:09+00:00"
   },
   "34bf5761cbb133a3e84c31c358326a84978fbb86c33cd7f05f23b23604d817f1": {
     "canonical_url": "https://www.ft.com/content/51519ad0-8bf5-4a35-ad31-482b1d7a7957?syn-25a6b1a6=1",
@@ -2943,6 +2991,10 @@
     "canonical_url": "https://www.theguardian.com/world/2026/jun/07/gorlitzer-park-berlin-fight-germany-mayor",
     "resolved_at": "2026-06-10T04:45:34+00:00"
   },
+  "4539b36bcc1c880841c8490ca094a14045ef7e98c18496af0f95265611c02849": {
+    "canonical_url": "https://arxiv.org/pdf/2608.24778",
+    "resolved_at": "2026-08-27T09:36:40+00:00"
+  },
   "4547138f1cfb7680ce06776da635d640f29ff655833d24b393a9064eb5d57be3": {
     "canonical_url": "https://arxiv.org/pdf/2605.31257",
     "resolved_at": "2026-06-08T05:01:21+00:00"
@@ -3145,7 +3197,7 @@
   },
   "49adeae5e8e0c62c88eeb22947e6d78980e24d6ab7bbda9ecdae63600829c08b": {
     "canonical_url": "https://dl.acm.org/doi/abs/10.1145/3774761.3774919",
-    "resolved_at": "2026-08-20T01:49:41+00:00"
+    "resolved_at": "2026-08-27T09:37:25+00:00"
   },
   "49e1854f74c42ea7e8525f7d0a3bd8ca680c8d6a9cf6fdc9e21941556a633fdc": {
     "canonical_url": "https://www.reuters.com/legal/government/us-judge-halts-philadelphias-ice-out-ban-masked-federal-law-enforcement-agents-2026-07-02/",
@@ -3338,6 +3390,10 @@
   "4deb4ab3f14d0804a8e4f8fe6a7ad55c8c9527eb5e4a8035552ea5a489e72341": {
     "canonical_url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
     "resolved_at": "2026-06-01T04:09:29+00:00"
+  },
+  "4df3882de3bbebec53014cea5dd7dbb05665907c7d9ff330bcbea11b5aa8f793": {
+    "canonical_url": "https://arxiv.org/html/2509.15867v2",
+    "resolved_at": "2026-08-27T09:37:13+00:00"
   },
   "4e20d720c0069be4c7e4918e933f0ae218a744ed78018d261aef5373830211b3": {
     "canonical_url": "https://c4ads.org/commentary/africa-corps-flight-tracking-sahel/",
@@ -3566,6 +3622,10 @@
   "52bc093ef8dfc4221a2d4a4cc5fcf7a10848f813c749931d6e13c6ad573e2cfa": {
     "canonical_url": "https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/",
     "resolved_at": "2026-05-27T02:48:49+00:00"
+  },
+  "52c04941ae839742ec1046dfb4ab55c8ceafea51f03f650accb8ad551bc1b7b1": {
+    "canonical_url": "https://cyberpress.org/novastealer-targets-crypto-wallets/",
+    "resolved_at": "2026-08-27T09:36:42+00:00"
   },
   "52f237f205db2ecb78b1164301e0caefeefe05c3789f4d185b3f12108745c05f": {
     "canonical_url": "https://www.404media.co/buspatrol-put-ai-cameras-in-tens-of-thousands-of-school-buses-now-they-want-to-give-cops-access/",
@@ -4207,6 +4267,10 @@
     "canonical_url": "https://dl.acm.org/doi/full/10.1145/3767320",
     "resolved_at": "2026-06-03T05:11:51+00:00"
   },
+  "6258a60cf98bfc5b6bb842e42b1319f8e925f3015fccf62c7d8ab3a83502ca08": {
+    "canonical_url": "https://arxiv.org/html/2608.24588v1",
+    "resolved_at": "2026-08-27T09:37:07+00:00"
+  },
   "62598f16c3ef051a07cbb331f9f079e05b2564103ec3ffbbd5e3cfc7a166b419": {
     "canonical_url": "https://www.bbc.com/news/articles/cg4w39gvdw1o",
     "resolved_at": "2026-07-07T04:15:50+00:00"
@@ -4301,7 +4365,7 @@
   },
   "63fb63dee15ae046253b21ff67fed1b9905ecb3ca38e5f858c4fb36a3555832c": {
     "canonical_url": "https://arxiv.org/html/1707.06071v1",
-    "resolved_at": "2026-08-20T01:49:06+00:00"
+    "resolved_at": "2026-08-27T09:37:04+00:00"
   },
   "640532e8d5acb33d526ca7c5ebabefe96f206afc0a39f9747994098da60b336d": {
     "canonical_url": "https://en.cryptonomist.ch/2026/08/03/ai-crypto-scams-solana-threat/",
@@ -4370,6 +4434,10 @@
   "6625faf68e9772b896947f0d7ddb4c3b09088b6cf55da1993c3f138a169b148d": {
     "canonical_url": "https://apnews.com/article/venezuela-earthquake-caracas-la-guaira-187d64e541983800b16f063ca5a8392c",
     "resolved_at": "2026-06-28T04:49:04+00:00"
+  },
+  "662dab0f5b14e3c1568587739c9ba05bf02e0f157e3dbe9098d93d8e815c1a5c": {
+    "canonical_url": "https://www.graphika.com/insights/coordinated-network-impersonates-us-assistant-attorney-general-across-platforms-in-likely",
+    "resolved_at": "2026-08-27T09:36:37+00:00"
   },
   "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
     "canonical_url": "https://www.wired.com/story/how-to-block-calls-and-spam-messages/",
@@ -4474,6 +4542,10 @@
   "68cc8f0ec22bf8ef002846524a1dceb626ef19449b363fd76a8f975313bdb5c2": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/08/julia-gillard-victorian-premier-jacinta-allan-ditch-the-witch-condemned-ntwnfb",
     "resolved_at": "2026-06-10T04:45:29+00:00"
+  },
+  "68cdb0c906bd4faafcb4ab0da3024fc13187997297df3c718705a7bf7db73609": {
+    "canonical_url": "https://www.404media.co/podcast-amazon-is-destroying-rare-books-to-train-ai/",
+    "resolved_at": "2026-08-27T09:37:01+00:00"
   },
   "68d5d195535677a84c650d3a5a98501e7f265ba51cbf093fe661f308f39421f1": {
     "canonical_url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
@@ -4626,6 +4698,10 @@
   "6b8415f4bbc1aa54eaa55075d6720680c3f96a38df58c226ab3681bfa6f9b9fe": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7069598.pdf?abstractid=7069598&mirid=1",
     "resolved_at": "2026-08-04T03:33:52+00:00"
+  },
+  "6bc749eb2bda65dfee41e61db41f8be8924847abfa8afb24f53c9e9a1f5b33a6": {
+    "canonical_url": "https://ieeexplore.ieee.org/abstract/document/11632800/",
+    "resolved_at": "2026-08-27T09:37:11+00:00"
   },
   "6bcbd7d4cd2d0335edc0e2240fbb0bb8fdfa6423f89ba8dc23b8a027d676e145": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/police-new-unit-launch-scams-cybercrime-cyber-command-6228666",
@@ -5455,6 +5531,10 @@
     "canonical_url": "https://www.bbc.com/news/articles/cwy076gyq0vo",
     "resolved_at": "2026-06-19T05:22:40+00:00"
   },
+  "80c9f127ef07721f7d2fb2e4a6db92ecc76b5862b95e2b9fe764cb9b2b574f50": {
+    "canonical_url": "https://asia.nikkei.com/spotlight",
+    "resolved_at": "2026-08-27T09:36:57+00:00"
+  },
   "80da0cb710a52ec61c9d25e5ed530197599d33c96af685cc69c66dea035f5182": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6762100.pdf?abstractid=6762100&mirid=1",
     "resolved_at": "2026-06-08T05:00:38+00:00"
@@ -5538,6 +5618,10 @@
   "82ca6db7d70b7f7023278158af6d488bebd200e349983928d6d6bfeec6e4dead": {
     "canonical_url": "https://www.abc.net.au/news/2026-07-15/e-jean-carroll-wins-8m-in-trump-sex-abuse-and-defamation-case/106916478",
     "resolved_at": "2026-07-15T03:29:28+00:00"
+  },
+  "8317fa429246712c78cdb21a6870aa9bc9e7c698df74ceaee1a2b60f64bc6230": {
+    "canonical_url": "https://arxiv.org/html/1911.10742v1",
+    "resolved_at": "2026-08-27T09:37:52+00:00"
   },
   "8319f446a1d8ff245800e6cc1ad920f6814bf71e402065f01f49e1e7027df980": {
     "canonical_url": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo",
@@ -5750,6 +5834,10 @@
   "88629793286a335323b84edc2d6c7cc42e3fb54a199f41d940c5c259ace28986": {
     "canonical_url": "https://arxiv.org/html/2005.10864v2",
     "resolved_at": "2026-08-26T01:56:10+00:00"
+  },
+  "88696fd99b3519b7b690f533028755cf263aed719cede18b30b87585ff438fa5": {
+    "canonical_url": "https://www.scworld.com/brief/anonymouskit-phishing-service-targets-apple-credentials-and-activation-lock",
+    "resolved_at": "2026-08-27T09:36:48+00:00"
   },
   "887ca0d46e328dd4925e2acecdc680c7d72818849846d3e8a03e8c4418a9d722": {
     "canonical_url": "https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media",
@@ -6114,6 +6202,10 @@
   "905dc3d84938ccac1194181377e2784e3747a689b4ce4472a52a51a149bd320e": {
     "canonical_url": "https://www.wired.com/story/what-is-bike-suspension/",
     "resolved_at": "2026-06-04T05:03:17+00:00"
+  },
+  "9062d35de3407107a3d69dd88fe0876430b3ac1ffe77ad9a38b5c46877805372": {
+    "canonical_url": "https://cybersecuritynews.com/synkloader-mimic-as-it-support/",
+    "resolved_at": "2026-08-27T09:36:36+00:00"
   },
   "907e5d7aa3aa188e76fcd8c2a53f5cccab0a10056d09df1cca1883dd9de7aaab": {
     "canonical_url": "https://apnews.com/article/marijuana-cannabis-legal-sales-virginia-weed-shops-7da81e3fe8d50f7ea37262a04015e4dc",
@@ -6539,6 +6631,10 @@
     "canonical_url": "https://www.bbc.com/news/articles/cvg49lq1jw6o",
     "resolved_at": "2026-07-09T04:11:39+00:00"
   },
+  "9a88b1348bd908af9ed8c1466547e4a881e91478a8fa4e5118f99f66572f76fc": {
+    "canonical_url": "https://arxiv.org/html/2303.09387v3",
+    "resolved_at": "2026-08-27T09:37:16+00:00"
+  },
   "9a8e02b86ee9438f4396cdf2ddd0814c923fb82565233f717914d53bce10ee60": {
     "canonical_url": "https://www.graphika.com/world-cup-2026",
     "resolved_at": "2026-06-17T05:11:52+00:00"
@@ -6558,6 +6654,10 @@
   "9afc15c681bd13e55969fe6ed098859939c7024b6987515bf83f397261e756b8": {
     "canonical_url": "https://www.reuters.com/legal/government/trump-pardons-11-most-violating-clean-air-act-2026-07-04/",
     "resolved_at": "2026-07-05T04:19:30+00:00"
+  },
+  "9b03f5fcc2cf0d503b6331321da51757970c779f1f61dd2dad7ac5d42284d35d": {
+    "canonical_url": "https://cybersecuritynews.com/ai-powered-anonymouskit-phaas/amp/",
+    "resolved_at": "2026-08-27T09:36:38+00:00"
   },
   "9b15c92e86af52b52cce82d93a6f10a43247b539927c399e5dd0225993831ca8": {
     "canonical_url": "https://arxiv.org/html/2607.21549v1",
@@ -6847,6 +6947,10 @@
     "canonical_url": "https://arxiv.org/html/2606.31790v1",
     "resolved_at": "2026-07-02T04:21:44+00:00"
   },
+  "a16b4ecd94af46ace7046d25584e10311af7befe03a083568151fb49746f38b8": {
+    "canonical_url": "https://arxiv.org/html/2309.04884v1",
+    "resolved_at": "2026-08-27T09:37:00+00:00"
+  },
   "a1794356bbd188ebb1a2a78ee758c37645056affc3271743e3bae785818764a0": {
     "canonical_url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
     "resolved_at": "2026-05-24T03:14:55+00:00"
@@ -6930,6 +7034,10 @@
   "a34fa8273928354eb68f6b641c622f8aa13a1c7eac1f7c3f035705c159b5908a": {
     "canonical_url": "https://www.bbc.com/news/articles/c8x22wnyxzzo",
     "resolved_at": "2026-07-11T03:38:15+00:00"
+  },
+  "a35e42faccf2221021f28ee2fcb3030432d392dfc0fc3ea663817a22ee1c72e0": {
+    "canonical_url": "https://arxiv.org/html/2602.16800v1?ref=tftc.ghost.io",
+    "resolved_at": "2026-08-27T09:37:06+00:00"
   },
   "a366957dada845df070229fd29fe3faf3e3bdb40c7f0317f72d5e0b13265cbe5": {
     "canonical_url": "https://www.theguardian.com/environment/2026/jun/25/australian-energy-prices-going-up-electricity-bills",
@@ -7825,7 +7933,7 @@
   },
   "b750d90d08f871847052e0df82e15eedb0917b86a9a00c8a91fe0a84a214d1cc": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6885622.pdf?abstractid=6885622&mirid=1",
-    "resolved_at": "2026-08-20T01:49:12+00:00"
+    "resolved_at": "2026-08-27T09:36:52+00:00"
   },
   "b7788dada48fe25fdb556bd2594a3502456ac3588075770de61549e42442c414": {
     "canonical_url": "https://www.theguardian.com/commentisfree/2026/jun/08/writing-is-an-exercise-in-the-art-of-persuasion-if-we-use-ai-we-lose-the-art",
@@ -7997,7 +8105,7 @@
   },
   "bb6c5c576b35c87a8df709e7e5b6a641385fe95fedf10c5badd9074f02181051": {
     "canonical_url": "https://arxiv.org/html/2401.11641v5",
-    "resolved_at": "2026-08-18T01:48:18+00:00"
+    "resolved_at": "2026-08-27T09:37:18+00:00"
   },
   "bb77083214b193a79e3c4a83465f30b8a3a02d98b87ac0726f88ce26f98df430": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6691598",
@@ -8723,6 +8831,10 @@
     "canonical_url": "https://www.abc.net.au/news/2026-06-10/tas-nant-whisky-supreme-court-keith-batt-months-long-trial/106780768",
     "resolved_at": "2026-06-11T04:58:21+00:00"
   },
+  "cd0ff94a078aed6ca9fc034c038fe16c71607eda040561a2c1974bf13107acc7": {
+    "canonical_url": "https://arxiv.org/html/2202.08548v4",
+    "resolved_at": "2026-08-27T09:37:10+00:00"
+  },
   "cd178fb11705c87c7accb8c4a2a9f47e5b35dcc6d3ee0a865ae1b0d64eb6d15d": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6487758.pdf?abstractid=6487758&mirid=1",
     "resolved_at": "2026-05-26T01:30:18+00:00"
@@ -9087,6 +9199,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/5259359.pdf?abstractid=5259359&mirid=1",
     "resolved_at": "2026-06-01T04:09:20+00:00"
   },
+  "d5cef0bbea1613f7d608a82be52fa5cf8cef3fa05aae6c338487fe2eec8134c2": {
+    "canonical_url": "https://www.graphika.com/reports/umbrae-ex-machina",
+    "resolved_at": "2026-08-27T09:37:52+00:00"
+  },
   "d5d8235dc38cc76705fecd580e34023bff1f184207086ea97b239712b8e4dd2d": {
     "canonical_url": "https://www.reuters.com/legal/government/google-targets-ai-powered-phishing-new-york-lawsuit-2026-06-12/",
     "resolved_at": "2026-06-14T05:05:33+00:00"
@@ -9149,7 +9265,7 @@
   },
   "d6e136d8d0910ce224025392f57c12325fa836f345add2b6ecb508b84bd47f3a": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6988900.pdf?abstractid=6988900&mirid=1",
-    "resolved_at": "2026-08-12T02:40:37+00:00"
+    "resolved_at": "2026-08-27T09:36:54+00:00"
   },
   "d6e723b6825536ee419630cb320d1930d20e68281c0b5a1bcae7b9933baf9078": {
     "canonical_url": "https://arxiv.org/html/2607.25990",
@@ -9353,7 +9469,7 @@
   },
   "dbbada5afb3e4806a6a65d8fcb98aaa8a8bfb41dd9ac4d5dc42ff8518d1238a5": {
     "canonical_url": "https://dl.acm.org/doi/10.1145/3799891",
-    "resolved_at": "2026-08-20T01:49:43+00:00"
+    "resolved_at": "2026-08-27T09:37:27+00:00"
   },
   "dbe4526d80d81bc789531cdd7c68bccb2bee74a1087b8c827e6332b32ba38bd1": {
     "canonical_url": "https://arxiv.org/html/2608.07337v1",
@@ -9983,6 +10099,10 @@
     "canonical_url": "https://thediplomat.com/2026/06/xis-authoritarian-blueprint-for-the-myanmar-junta/",
     "resolved_at": "2026-06-19T05:23:13+00:00"
   },
+  "e91b7982d5e103b387a22a6af12957f57879c73bd887a61a33280252e9220079": {
+    "canonical_url": "https://arxiv.org/pdf/2608.24127",
+    "resolved_at": "2026-08-27T09:36:49+00:00"
+  },
   "e92b12ab9bccd9731df562d30cf038dc9a2232f349fc37a95e2c7593383dca33": {
     "canonical_url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation",
     "resolved_at": "2026-06-11T04:58:14+00:00"
@@ -10327,6 +10447,10 @@
     "canonical_url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
     "resolved_at": "2026-08-20T01:49:07+00:00"
   },
+  "f1aae5db720b22c2c288e3983c19b04f5109aafa20a40c2fcb75cd5431716169": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6086710.pdf?abstractid=6086710&mirid=1",
+    "resolved_at": "2026-08-27T09:37:29+00:00"
+  },
   "f1b4146ea6724648d611434118544af48bc9217d65dcf3ed31ebc38a3718cf4d": {
     "canonical_url": "https://arxiv.org/pdf/2607.07271",
     "resolved_at": "2026-07-31T03:47:17+00:00"
@@ -10514,6 +10638,10 @@
   "f5f0bf2d40ec7da214ff264bdd98722cbfb511b5610b7c8ec07759cf2d63d13a": {
     "canonical_url": "https://www.ft.com/content/5083e285-0ba2-4507-b17c-f6dfa17ff21e?syn-25a6b1a6=1",
     "resolved_at": "2026-06-18T05:01:19+00:00"
+  },
+  "f61885163ff15f08c9aa801740e9c544765d362ff0895ef202b64c0b90415012": {
+    "canonical_url": "https://www.cio.com/article/4211674/when-ai-explains-its-decision-humans-may-stop-thinking-independently.html",
+    "resolved_at": "2026-08-27T09:36:50+00:00"
   },
   "f619bb191924f97dfd371713b3fb8b2007d160f41e5ee2145833c95b9d1d9257": {
     "canonical_url": "https://developers.cloudflare.com/api/resources/registrar_sandbox/subresources/update_status/",

@@ -3,37 +3,6 @@
     {
       "article_type_distribution": {
         "Enforcement report": 1,
-        "News report": 1,
-        "Research paper": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 15,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 4,
-        "current_affairs": 10,
-        "psychology": 1
-      },
-      "shortlist_count": 7,
-      "source_domain_distribution": {
-        "abc.net.au": 1,
-        "apnews.com": 2,
-        "arxiv.org": 1,
-        "channelnewsasia.com": 1,
-        "theguardian.com": 2
-      },
-      "timestamp": "2026-06-30T04:25:56+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Local Singapore / Southeast Asia relevance": 1,
-        "Research / novel method": 1,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
-        "Enforcement report": 1,
         "Investigative report": 1
       },
       "candidate_cache_age_minutes": null,
@@ -1368,6 +1337,36 @@
       "usefulness_category_distribution": {
         "Product idea / data source": 1,
         "Research / novel method": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Investigative report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 42,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 25,
+        "investigative": 2,
+        "psychology": 9,
+        "targeted": 6
+      },
+      "shortlist_count": 12,
+      "source_domain_distribution": {
+        "arxiv.org": 3,
+        "en.cryptonomist.ch": 2,
+        "graphika.com": 2,
+        "ieeexplore.ieee.org": 4,
+        "rapid7.com": 1
+      },
+      "timestamp": "2026-08-27T09:38:00+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 1,
+        "Product idea / data source": 1
       }
     }
   ]

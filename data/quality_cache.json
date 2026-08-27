@@ -1773,6 +1773,32 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "0743f2da3e29639be3c884d10f34f595916e4ff5e43f15c9f5af75911009108d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Photo by Anil Baki Durmus on Unsplash This article was republished from our friends over at Court Watch . Please consider subscribing to them if you want the early scoop on what's happening in our court system, from the concerning to the bizarre. Madeleine O\u2019Neill is a freelance reporter in Baltimore. Hundreds of street arrests that court records show disproportionately targeted Latinos in and around New York City. Detainees shuffled across the country one day before a congressional oversight visit. A judicial emergency in the Eastern District of California. Each of these stories came to light because of habeas corpus \u2014 a centuries-old legal writ that has become a powerful tool for freeing immigrants swept up in the Trump administration\u2019s mass detention and deportation campaign. Because they\u2019re public court filings, habeas corpus petitions also offer a window into the often cryptic world of immigration enforcement. But there\u2019s a catch. Across the country, the nearly 50,000 habeas corpus petitions filed in recent immigration cases are public records only in theory, because a 2007 court rule makes the petitions impossible to access online like most other federal court records.",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 3981
+  },
   "07558456b914fdeba90a79ccd23fc51c2f4dbe628ae11660c630c294865537e1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1935,6 +1961,51 @@
       "victim"
     ],
     "word_count": 2801
+  },
+  "080d88c2752afec28800bd4f57455ee0764e1cfc74408ed79e09c6022f1e4393": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "News Crime and Courts Is AI the new frontier for cybercriminals in Africa? Robin-Lee Francke | Published 3 weeks ago Ask AI 3 min Africa has become a haven for cybercrimes. Image: File Artificial intelligence (AI) is reported to be enabling 55% of reported cybercrimes across Africa . According to findings detailed in the International Criminal Police Organization (Interpol) African Cyberthreat Assessment Report, AI is making attacks faster, more scalable, and increasingly difficult for victims and platforms to detect. The 40-page report draws on survey data from 36 African member countries and highlights a defining shift: cyber-criminality has evolved from isolated incidents into an industrialised, borderless ecosystem. With more than 1.1 billion mobile subscribers recorded in 2025, Africa\u2019s digital transformation is expanding rapidly. Cybercrime legislation is fragmented, and AI readiness in law enforcement agencies remains alarmingly low. According to the report, East Africa has become the hub for mobile money fraud and infrastructure-targeted ransomware While business email compromise and romance scams targeting both corporate and individuals are prolific in Central and West Africa. It further stated that Southern Africa\u2019s ultra-high connectivity makes it a magnet for global threat actors seeking maximum disruption. The report highlighted the fact that the financial toll of...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "ransomware",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1208
   },
   "0820e9c10d4b4b886b25dde851fcf6505214173d7a7f64010e09f61f4d5eef83": {
     "access_status": "available",
@@ -3551,6 +3622,50 @@
     ],
     "word_count": 17888
   },
+  "0f7d0c6960d1fd01e1bc1620e4562e576d2f42a6b8c1dbfa1b8300999cec8a0b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Back to Blog Threat Research Operation ASTERIX: Anatomy of a Crypto Fraud Pipeline Anna \u0160irokova | Jan Recinsky Aug 17, 2026 | Last updated on Aug 18, 2026 | 22 min read DISCOVER RAPID7 MDR Operation ASTERIX overview Rapid7 researchers identified an exposed web directory on infrastructure used to support a cryptocurrency fraud operation. The server contained raw phone-number datasets, account-validation tools, enriched lead records, phishing panels, voice-dialing scripts, fake wallet applications, persistence mechanisms, and Telegram exfiltration code. Among the artifacts was evidence that the operator relied on AI coding assistants throughout the campaign's development; recovered prompts, shell history, and project files show AI being used to package Electron applications, obfuscate code, troubleshoot builds, modify phishing infrastructure, and prepare malware for distribution. When one model began resisting parts of that workflow, the operator switched providers and attempted to bypass the next model's safety controls with a custom jailbreak prompt. Together, these artifacts provide an unusual view into how AI was integrated into the development of an active phishing operation rather than simply being used to generate isolated snippets of code. We track this activity as Operation ASTERIX, named after the Asterisk open-source telephony platform recovered on the server. The...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "vishing"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "prompt injection",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 14062
+  },
   "0f86871271364f2f0c12ee291aa89576dc86e8655e016cc6d7a989d4e60acf14": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -3635,6 +3750,50 @@
       "trust"
     ],
     "word_count": 2953
+  },
+  "1055201985899fbd5570af75512220f93c272b35e936f8cb2df689aaac0ee8b9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Insights Blogs Learn Webinars Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us How It Works Insights / Coordinated Network Impersonates US Assistant Attorney General Across Platforms in Likely Attempt to Scam Fraud Victims Aug 25, 2026 Coordinated Network Impersonates US Assistant Attorney General Across Platforms in Likely Attempt to Scam Fraud Victims We identified a very likely coordinated network of accounts across Facebook, Instagram, Pinterest, Threads, TikTok, X, and YouTube that is impersonating U.S. Assistant Attorney General Colin McDonald, who serves in the Department of Justice\u2019s National Fraud Enforcement Division. Scams & Fraud Trust & Safety The Graphika Team Graphika Research Team Share Go Deeper See the Signals Behind the Insights Every insight is powered by Graphika's intelligence platform. Book a demo to see the signals, networks, and narratives behind the analysis and how it can work for your organization. Business Email * Book a Demo Thanks for...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3475
   },
   "10578a0fe1bdfaca10e7b1e381eafbc4a8e7934f1fde09250387089858914e30": {
     "access_status": "available",
@@ -6356,6 +6515,34 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 3211
+  },
+  "1beeb1f7e276c3c927285bdefa0cda123fc143efe1cf5f63d04fd1a3e11607ea": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: FAIR: Framing AI\u2019s Role in Programming Competitions \u2014 Understanding How LLMs Are Changing the Game in Competitive Programming Conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems; April 13\u201317, 2026; Barcelona, Spain Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI \u201926), April 13\u201317, 2026, Barcelona, Spain DOI: 10.1145/3772318.3791410 ISBN: 979-8-4007-2278-3/2026/04 CCS: Human-centered computing Empirical studies in HCI CCS: Applied computing Interactive learning environments CCS: Social and professional topics Computing / technology policy Dongyijie Primo Pan email: dpan750@connect.hkust-gz.edu.cn Affiliation: Hong Kong University of Science and Technology (Guangzhou) , Guangzhou , Guangdong , China , Lan Luo email: lluo476@connect.hkust-gz.edu.cn Affiliation: Hong Kong University of Science and Technology (Guangzhou) , Guangzhou , Guangdong , China , Ji Zhu Note: These authors contributed equally to this work email: zhuji@cuc.edu.cn Affiliation: Communication University of China , Beijing , China , Zhiqi Gao email: zhiqigao@link.cuhk.edu.cn Affiliation: The Chinese University of Hong Kong, Shenzhen , Shenzhen , Guangdong , China , Xin Tong Note: Corresponding author email: xtong@hkust-gz.edu.cn Affiliation: Hong Kong University of Science and Technology...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "identity",
+      "trust"
+    ],
+    "word_count": 35898
   },
   "1bf720a661e8c47d0f8dae847353e9bbcb6416b8db842eb0a458609ae8b5e20c": {
     "access_status": "available",
@@ -10628,8 +10815,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
-    "cache_version": 8,
-    "checked_at": "2026-08-12T02:41:27+00:00",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:48+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -16330,6 +16517,33 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "45255de51aa8fe13b17a1e4d3775f2755e07dae8f24648649f4ca74a5e24e4bf": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Topics by Taryn Plumb When AI explains its decision, humans may stop thinking independently News Aug 19, 2026 6 mins AI is known to be confidently wrong, and now it\u2019s influencing humans to be that way, too. In a new study, researchers tested AI\u2019s influence on humans reviewing innovation proposals, and found that AI recommender tools were persuasive enough to convince the evaluators to reject decisions made by independent human experts, thus causing them to pass on promising innovations. Similarly, they went along with AI approval of ideas that the human experts found sub-par. Interestingly, reviewers were also more inclined to defer to an incorrect AI decision when the model explained itself. Narrative explanations degraded human judgment, rather than enhancing it. People did better when they weren\u2019t given a reason for the AI\u2019s decision. \u201cOur findings reveal that LLM explanations do not necessarily improve decision-making,\u201d the researchers, associated with Harvard Business School, MIT, and the University of Washington explained in their findings . \u201cEffective human-AI collaboration requires designs that preserve rather than supplant independent human judgment.\u201d AI rationale can undermine human judgment Every enterprise screens proposed projects before pursuing them, but there is always uncertainty, and the risk of trade-offs like false positives (going forward with projects...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 3524
+  },
   "453f509b152f8b72214121bdb36a6a243a7cfd5fb2d2cc1165538b9ea7281ed9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17043,6 +17257,44 @@
       "identity"
     ],
     "word_count": 29369
+  },
+  "478d24e24b42a87f6e3c213e3b74fe196a4c4e5a3ec1e553d99e0482da4f8a65": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Large-scale online deanonymization with LLMs Simon Lermen * MATS Daniel Paleka * ETH Zurich Joshua Swanson ETH Zurich Michael Aerni ETH Zurich Nicholas Carlini Anthropic Florian Tram\u00e8r ETH Zurich Abstract We show that large language models can be used to perform at-scale deanonymization. With full Internet access, our agent can re-identify Hacker News users and Anthropic Interviewer participants at high precision, given pseudonymous online profiles and conversations alone, matching what would take hours for a dedicated human investigator. We then design attacks for the closed-world setting. Given two databases of pseudonymous individuals, each containing unstructured text written by or about that individual, we implement a scalable attack pipeline that uses LLMs to: (1) extract identity-relevant features, (2) search for candidate matches via semantic embeddings, and (3) reason over top candidates to verify matches and reduce false positives. Compared to prior deanonymization work (e.g., on the Netflix prize) that required structured data or manual feature engineering, our approach works directly on raw user content across arbitrary platforms. We construct three datasets with known ground-truth data to evaluate our attacks. The first links Hacker News to LinkedIn profiles, using cross-platform references that appear in the...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:stanford.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "identity"
+    ],
+    "word_count": 26368
   },
   "4790a8f6dc0f6091228a2092db7429238f9dddcefec8fcf2f99a27546b12e0d1": {
     "access_status": "available",
@@ -18883,6 +19135,51 @@
     ],
     "word_count": 3463
   },
+  "4ee2cddffca5ec0b5c0bbb76923cf5e486bb0fd3ee55d148212f2d926ef58883": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Home Cyber Security News SynkLoader Mimic as IT Support Personnel Attacking Users Via Microsoft Teams By Tushar Subhra Dutta August 25, 2026 SynkLoader is using Microsoft Teams conversations to turn routine IT support requests into a route for malware delivery. The campaign relies on impersonation rather than a software flaw, placing the decision to install a supposed fix directly in front of an employee. Attackers contact targets through Teams messages and voice phishing, also called vishing, while posing as support personnel. They persuade victims to download a fraudulent MSI installer called \u201cPowerShell Cleaner,\u201d making a familiar workplace channel part of the attack chain. Analysts from ReliaQuest Threat Research identified SynkLoader as a hash-gated PowerShell loader. The threat is notable because it combines a convincing social approach with code designed to reveal little when researchers or automated tools inspect it. ReliaQuest Threat Research said in a report shared with Cyber Security News (CSN) that the operation can slip past controls that focus mainly on email attachments or obvious malicious websites. By using legitimate Azure Blob Storage for delivery and keeping key activity in memory, it can make a harmful download look less suspicious while reducing the traces left for defenders. SynkLoader Mimic as IT Support Personnel The opening move is simple: a message...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:42+00:00",
+    "direct_relevance_terms_found": [
+      "vishing",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "vishing",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "vishing",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2099
+  },
   "4f71870e8b0850b9b8b48d9cb1d32d29cc72a573733f151af0f3be38e51e60c8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -20371,6 +20668,34 @@
       "trust"
     ],
     "word_count": 4343
+  },
+  "546af0b562000c32ce641b75a5c8ad6e5a06fd298011b50508772fd7e68f7200": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 54
   },
   "546fc45ad5091bbddef5aa41865adcb29b262062ba61d0523075aff8059e40f7": {
     "access_status": "available",
@@ -27575,6 +27900,34 @@
     "weak_generic_terms_found": [],
     "word_count": 3147
   },
+  "72a7f8f129356de320903f62ec96183dbc0f852bbdeed48bae9bdff169cb5457": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Unusual Traffic Detected (Error 418) IEEE Xplore has detected an unusual request pattern. To protect site performance, this action has been restricted. If you require high-volume access to IEEE content, please request an IEEE API key . If you have questions or believe you received this in error, please contact us . Your support ID is:",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue:ieee.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 54
+  },
   "72ad1ba498ae5db5cd0435232e5ebaeaed9ae93da60f8766732c40828d8f4ab5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28409,6 +28762,41 @@
       "phishing"
     ],
     "word_count": 0
+  },
+  "76c217bdc115b96bf21ed07c2cd214570fc67b38b651e27d0d0a26f29d896114": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: From Utility to Capability: A New Paradigm to Conceptualize and Develop Inclusive PETs Conference: FULL CONF NAME; DATE; LOCATION Price: 15.00 Partha Das Chowdhury email: partha.daschowdhury@bristol.ac.uk Affiliation: Department of Computer Science , University of Bristol , United Kingdom , Andr\u00e9s Dom\u00ednguez Hern\u00e1ndez email: andres.dominguez@bristol.ac.uk Affiliation: Department of Computer Science , University of Bristol , United Kingdom , Kopo M. Ramokapane email: marvin.ramokapane@bristol.ac.uk Affiliation: Department of Computer Science , University of Bristol , United Kingdom and Awais Rashid email: awais.rashid@bristol.ac.uk Affiliation: Department of Computer Science , University of Bristol , United Kingdom \u00a9 acmlicensed Abstract. The wider adoption of PETs ( PETs ) has relied on usability studies \u2013 which focus mainly on an assessment of how a specified group of users interface, in particular contexts, with the technical properties of a system. While human-centred efforts in usability aim to achieve important technical improvements and drive technology adoption, a focus on the usability of PETs alone is not enough. PETs development and adoption requires a broadening of focus to adequately capture the specific needs of individuals, particularly of vulnerable individuals and/or individuals in marginalized populations. We...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security",
+      "institution_domain:mit.edu",
+      "institution_domain:ox.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27518
   },
   "76dbc9a52226bbc57a892b6fffbc76a2697771bfb1cae69704d234d6f377410e": {
     "access_status": "available",
@@ -32060,6 +32448,48 @@
     ],
     "word_count": 1681
   },
+  "8317fa429246712c78cdb21a6870aa9bc9e7c698df74ceaee1a2b60f64bc6230": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: End-to-End Trainable Non-Collaborative Dialog System Yu Li Kun Qian Weiyan Shi Zhou Yu Affiliation: University of California, Davis Affiliation: {yooli, kunqian, wyshi, joyu}@ucdavis.edu Abstract End-to-end task-oriented dialog models have achieved promising performance on collaborative tasks where users willingly coordinate with the system to complete a given task. While in non-collaborative settings, for example, negotiation and persuasion, users and systems do not share a common goal. As a result, compared to collaborate tasks, people use social content to build rapport and trust in these non-collaborative settings in order to advance their goals. To handle social content, we introduce a hierarchical intent annotation scheme, which can be generalized to different non-collaborative dialog tasks. Building upon TransferTransfo [ 2019 ] , we propose an end-to-end neural network model to generate diverse coherent responses. Our model utilizes intent and semantic slots as the intermediate sentence representation to guide the generation process. In addition, we design a filter to select appropriate responses based on whether these intermediate representations fit the designed task and conversation constraints. Our non-collaborative dialog model guides users to complete the task while simultaneously keeps them engaged. We test our...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity",
+      "trust"
+    ],
+    "word_count": 13901
+  },
   "83276b23654ca583753cea6f8c375e344abbc0d8b1fd819d845d974c6f05a093": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -32710,6 +33140,32 @@
       "identity"
     ],
     "word_count": 4241
+  },
+  "85bf189727a7c06f6fbe693f1854b87949819d8e707c56849c92ec4e497c7d35": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Sorry, you have been blocked You are unable to access scworld.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a31a197fdbbb682b \u2022 Your IP: Click to reveal 4.154.182.180 \u2022 Performance & security by Cloudflare",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 121
   },
   "85cbbb705673cdae9540f39d50a03a908a1d3e010ee18d0912231138fb38c86e": {
     "access_status": "available",
@@ -33489,6 +33945,33 @@
     ],
     "word_count": 5761
   },
+  "890eadecebfa888b25e479ccb8f057f4ea93e3beaae0358d5b25e39b0914f501": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents Bo Ren Affiliation: Fudan University Affiliation: WeChat, Tencent Inc. Yirong Mao Affiliation: WeChat, Tencent Inc. Yi Yang Affiliation: WeChat, Tencent Inc. Wenhui Que Affiliation: WeChat, Tencent Inc. Abstract Large Language Model (LLM) agents increasingly solve long-horizon tasks through multi-turn interactions with users and external tools. In these settings, relevant task information often unfolds over time rather than being fully specified at the initial prompt. Service agents make this challenge especially concrete: users may clarify or revise their goals, while tool responses provide information needed for subsequent decisions. Thus, a final reward alone cannot indicate which actions contributed to resolving the task. Recent methods rely on comparative evidence from other trajectories or resampled continuations, or on separately constructed step-level learning signals, to refine credit.",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 13245
+  },
   "894cef471598b38a4c369e80960e4563b1b3aec5042abb6cf133b733ec040120": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34190,6 +34673,34 @@
     "weak_generic_terms_found": [],
     "word_count": 1179
   },
+  "8cbf9a4c815a4248b3b5cc76e21e7ef0588f1e2e4a13db976242cf34dc1cb356": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Spotlight Asian nations scramble to find tourists missing in Himalayan floods Hundreds of foreigners unaccounted for as Nepal and China mount rescue operations The challenge lies in tamping down inflation without slowing economic growth Former leader pleads not guilty at Kuala Lumpur court AMD, Broadcom likely among first adopters as Taiwan supplier plans $2.2bn investment Auto parts maker has cut use of heavy rare earths after Beijing's export curbs Beijing's embassy says Washington uses cybersecurity to 'smear or discredit China' Monopiles anchoring structures on seabed to be built at home instead of Europe and China Ankara collected $259m from tolls in Bosphorus, Dardanelles straits in past year Scrutiny will expand to fund transfer companies, fintech firms, telecom providers Swiss monitors ranked Kuala Lumpur the world's second-most polluted major city on Wednesday Founder and CEO says Australian government needs to set clear rules Public-private initiative targets fraud linked to Cambodia, Myanmar, other hubs Buying of Hong Kong-listed shares follows Alibaba's announcement offering 710m new shares Ex-PM Morrison says ties with Japan, South Korea can relieve China 'vulnerability' Alleged misconduct fuels concern as prosecutors lose investigative powers Chinese company sees deal as latest milestone in licensing its intellectual property Rohingya face killings, torture and...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 363
+  },
   "8cfae869dbb2c63585c4a827307304d12decb548e1283c4eac0c595f1eb18f1c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34668,6 +35179,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1279
+  },
+  "8f395adcd2ee68ff2eb9dbd5cc2a0656aaf0ec8edbd6e3470534ecf0c3271e1c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "8f83448b7eebb4e6716f1b472f9992f521da8612b94e4c1a379ccdada0e18727": {
     "access_status": "available",
@@ -37392,6 +37927,60 @@
     ],
     "word_count": 5973
   },
+  "9c07718d23a7cdd648e8a7c18c1d1afb3c9c2b0a5d26d667ae35c5273ec3f999": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Balonx Sistema PhaaS Targets 20+ Mexican Banks With AI Vishing and Android RAT By Varshini August 26, 2026 Categories: Cyber Security News Malware Phishing Mexico\u2019s financial sector is facing a growing phishing threat from Balonx Sistema, a Phishing-as-a-Service (PhaaS) platform targeting more than 20 banks. The operation combines real-time phishing, Android malware, rotating domains, and AI-powered voice fraud to steal banking credentials and financial data. Group-IB researchers identified Balonx as a subscription-based criminal service operated by an individual in Mexico. The platform reportedly harvested credentials and financial information from more than 1,100 victims since at least October 2025. It is advertised through Facebook groups linked to telemarketing fraud and recruits affiliates through Telegram. Balonx offers weekly plans, allowing criminals with limited technical skills to launch banking scams. Its Individual Plan supports two devices, while its Office Plan enables up to eight subordinate accounts. Payments are automated using cryptocurrency exchange services, helping the operators run the platform like a commercial SaaS business. Balonx Targets Mexican Banks Unlike ordinary phishing kits that only collect credentials through a fake webpage, Balonx maintains a persistent WebSocket connection between the victim\u2019s phishing page and the attacker\u2019s control panel....",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "voice phishing",
+      "ai vishing",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "voice phishing",
+      "ai vishing",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "vishing",
+      "voice phishing",
+      "ai vishing",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [
+      "phishing kits"
+    ],
+    "title_scam_anchor_terms_found": [
+      "vishing",
+      "ai vishing"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 1483
+  },
   "9c28e881871d0fd86630788cb1dac0f7092786e29c18320883b8408fff735af5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39416,6 +40005,37 @@
     "weak_generic_terms_found": [],
     "word_count": 273
   },
+  "a35a3049826d6a0b51c6fe13b4670e5c15a3b4659f563817dfed6b4837a8bf2e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenClaw NovaStealer Attacks Target 60+ Crypto Wallets, SSH Keys and AWS Credentials By Varshini August 20, 2026 Categories: AI Cyber Security News Malware OpenClaw deployments have become a target for threat actors using supply-chain poisoning, ClickFix social engineering, and indirect prompt injection. According to Trellix Advanced Research Center, attackers abused the ClawHub skill registry to distribute NovaStealer, an information-stealing malware variant designed to target cryptocurrency wallets, developer credentials, browser data, and AI-agent context. The campaign, tracked as ClawHavoc, reportedly affected more than 300 skills and platforms during early 2026. Attackers uploaded malicious packages that impersonated legitimate OpenClaw tools, including typosquatted names such as \u201cclawhub-cli,\u201d \u201cclawhubb,\u201d and \u201copenclawcli.\u201d Some packages were artificially promoted through manipulated download metrics. OpenClaw connects large language models to local systems, allowing agents to read files, run terminal commands, access messaging apps, and automate workflows. This level of access can become dangerous when an agent processes untrusted skills, documents, emails, or web content. NovaStealer Targets Crypto Wallets Malicious ClawHub skills reportedly included deceptive instructions in SKILL.md files. These instructions persuaded users to install a supposed \u201cAuthTool\u201d or...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "crypto wallets"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 1353
+  },
   "a3669413ed0045ab3e3c6907950d4d3bf9075ddeae4f0f4a40fd92b52f25dc37": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39996,6 +40616,40 @@
     ],
     "word_count": 2760
   },
+  "a6bb1269dd3d44844aa565ad9acb6626ef7f6ffdbd88f0b7580db792024aa63d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Characterizing Manipulation from AI Systems Conference: Equity and Access in Algorithms, Mechanisms, and Optimization; October 30-November 1, 2023; Boston, MA, USA Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO \u201923), October 30-November 1, 2023, Boston, MA, USA DOI: 10.1145/3617694.3623226 ISBN: 979-8-4007-0381-2/23/11 Micah Carroll Note: Joint lead authors. Author order was determined with a coin flip. email: mdc@berkeley.edu Affiliation: University of California, Berkeley , Berkeley , USA , Alan Chan email: alan.chan@mila.quebec Affiliation: Mila, Universit\u00e9 de Montr\u00e9al , Montr\u00e9al , Canada , Henry Ashton email: IG88R2Q5@protonmail.com Affiliation: University of Cambridge , Cambridge , UK and David Krueger email: dsk30@cam.ac.uk Affiliation: University of Cambridge , Cambridge , UK \u00a9 rightsretained Abstract. Manipulation is a concern in many domains, such as social media, advertising, and chatbots. As AI systems mediate more of our digital interactions, it is important to understand the degree to which AI systems might manipulate humans without the intent of the system designers . Our work clarifies challenges in defining and measuring this kind of manipulation from AI systems. Firstly, we build upon prior literature on manipulation and characterize the space of possible notions of manipulation, which we...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu",
+      "institution_domain:berkeley.edu",
+      "institution_domain:cam.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 24161
+  },
   "a6bc81cfbb887420b708afdf96eb8125e81493b33c7bdee62ae9d0bfa17d4133": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -40154,6 +40808,58 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2524
+  },
+  "a751c49d653107e7f4cea47d7727ab104d5f7e1809e73983b722d6c45db34f9c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "AI-Powered AnonyMousKIT PhaaS Steals Apple IDs and 2FA Codes to Unlock Stolen iPhones AnonyMousKIT is turning stolen iPhones into an entry point for account theft. The phishing-as-a-service platform targets people already searching for a lost device, then uses convincing recovery messages to capture the Apple ID credentials needed to remove Activation Lock. The operation combines email, text messages, WhatsApp, recorded calls and AI-generated voice calls. Its messages can draw on the phone model and live Find My status, making a fake recovery notice feel believable at exactly the moment an owner is anxious to get a device back. Researchers at SOCRadar identified the platform as a credit-based service built for the stolen-device market. Their analysis linked its shared code to 506 domains and 168 storefront brands, showing that the activity is a broader reseller network rather than a single phishing site. SOCRadar said in a report shared with Cyber Security News (CSN) The risk extends beyond the resale value of a handset. A stolen Apple ID can expose cloud backups, saved credentials and work email, while a live verification code lets criminals complete account changes before a victim realizes the contact was fraudulent. AI-Powered AnonyMousKIT PhaaS AnonyMousKIT begins with details taken from a stolen device, including its model, owner contact data and Find My state. It then...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "phishing site",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "phishing site",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "account takeover",
+      "phishing site",
+      "voice phishing",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [
+      "phishing kits",
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "fraud"
+    ],
+    "word_count": 920
   },
   "a7621dd202131a03905e6863d3ca81e2a32417fd0ba637dc9e915fa6621e64da": {
     "access_status": "available",
@@ -45149,6 +45855,68 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "b9f31fa9c51da533b41de7a79f9e8af3602fc2c073ad346c241fe297867c908c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Anatomy of a Scam Call What 10,000 real scam and spam calls reveal about how phone scammers operate Ethan Traister, Ankit Raj * , Jiaqi Gan * , Xingyu Shen * , Tyler Wu * , Yuchen Zhou * , Tommy Duong * , Kidus Zewde * , Siying Chen * , and Simiao Ren scam.ai * Equal contribution; listed in no particular order. Corresponding author: benren@scam.ai Preprint \u00b7 August 2026 Abstract Telephone fraud is pervasive and costly, but its inner workings are rarely observed at scale because complete recordings of real scam conversations are hard to obtain. We analyze a complete corpus of 10,211 real inbound scam and spam calls\u2014913 hours of audio and 330,956 transcribed turns from 5,780 distinct originating numbers\u2014collected over 54 days by an AI voice-agent honeypot that answered callers and kept them talking while recording and transcribing every call, and introduced in a companion data descriptor [ 1 ] . We ask a set of deliberately simple questions about how phone scammers actually behave, separating outright scams\u2014calls that solicit sensitive information\u2014from the far larger stream of predatory but legal lead-generation (\u201cspam\u201d) that funds and feeds them. Scam operations keep office hours (6.6 times as many calls per weekday as per weekend day); a churn of thousands of distinct numbers runs only a small catalog of recycled scripts...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 20803
+  },
   "ba0a20f274f08909b7f85e332d9610368e0476a25793cf64f3b8ea9e3b1c0cc2": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -47627,6 +48395,47 @@
     ],
     "word_count": 14098
   },
+  "c358742f88650ae07ad314b26407867022f50d09876dfc6b8569d42134a9909d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Loading\u2026 Btech CSE Facebook X Pinterest WhatsApp Artificial intelligence is now part of everyday life. We use it to write emails, create images, translate languages, search for information, edit videos and complete tasks that once required hours of work. But as AI becomes more capable, its risks are becoming harder to ignore. A voice can be cloned to impersonate a family member. A deepfake can make someone appear to endorse a product they have never used. AI can also help cybercriminals create more convincing scams, automate attacks and conceal fraudulent activity. With these capabilities expanding, who makes sure AI remains safe? Part of the answer lies with people who understand how AI works, where it can fail, and how to identify and manage its risks. What Is AI Safety? AI safety is the practice of designing, testing and using artificial intelligence systems in ways that reduce harm and keep them under appropriate human control.",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3935
+  },
   "c35a58ac302d96cf3a9f2a689bd7164d1c2235c1f12ca062274772ec122eebc5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -49847,6 +50656,36 @@
     ],
     "word_count": null
   },
+  "cb639d4730de7c3dfcf6c1bb6089ebc0b187f2400ac800db90f7a380279a87bf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: RecAD: Towards A Unified Library for Recommender Attack and Defense Conference: Seventeenth ACM Conference on Recommender Systems; September 18\u201322, 2023; Singapore, Singapore Seventeenth ACM Conference on Recommender Systems (RecSys \u201923), September 18\u201322, 2023, Singapore, Singapore Price: 15.00 DOI: 10.1145/3604915.3609490 ISBN: 979-8-4007-0241-9/23/09 CCS: Information systems Recommender systems Changsheng Wang Note: The first two authors contributed equally to this research. email: wcsa23187@gmail.com Affiliation: University of Science and Technology of China , No.96 Jinzhai Road , Hefei , Anhui , China , 230000 , Jianbai Ye email: jianbaiye1999@gmail.com Affiliation: University of Science and Technology of China , Hefei , Anhui , China , Wenjie Wang email: wenjiewang96@gmail.com Note: Corresponding author. Affiliation: National University of Singapore , Singapore , Chongming Gao email: chongming.gao@gmail.com Affiliation: University of Science and Technology of China , No.96 Jinzhai Road , Hefei , Anhui , China , 230000 , Fuli Feng email: fulifeng93@gmail.com Affiliation: University of Science and Technology of China , No.96 Jinzhai Road , Hefei , Anhui , China , 230000 and Xiangnan He email: xiangnanhe@gmail.com Affiliation: University of Science and Technology of China , No.96 Jinzhai Road , Hefei , Anhui , China , 230000...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "trust"
+    ],
+    "word_count": 15668
+  },
   "cb89af07d4dbb8ba02db5168693bc5f59221c8d09edcbfa8953ae159f5a322a6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -50270,6 +51109,42 @@
       "trust"
     ],
     "word_count": 409
+  },
+  "cd60243351ea4162a3a725e2d9bdd663b0b33eee97c14656978bfda74c9afd86": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Google, OpenAI, Meta, TikTok team up with Japan to fight scams Public-private initiative targets fraud linked to Cambodia, Myanmar, other hubs Tech groups and Japanese authorities and businesses launched the Japan Anti-Scam Alliance in Tokyo on Aug. 26. (Photo by Tsubasa Suruga) TOKYO -- Google, OpenAI, Meta and TikTok joined forces Wednesday with Japanese authorities and local businesses to fight a wave of online scams, as criminal networks operating in Southeast Asia increasingly use the latest technology to target victims. Read Next Latest on Cybersecurity Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 98
   },
   "cd7b8e2b37e272931e2a7f67bec4e3cd3800efe865aaffc4c7acab98875fca8e": {
     "access_status": "available",
@@ -51190,6 +52065,32 @@
     ],
     "word_count": 9099
   },
+  "d148c9c2fe39dc9a466a9126c78385ebedf2cc57f8393ca6ca7854a2afe70e95": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Collage by 404 Media. We start this week with Emanuel\u2019s big story about Amazon buying, and destroying, masses of books to train AI. After the break we talk about a couple of wild cases where people are using AI. In the subscribers-only section, we talk about Meta\u2019s new smart glasses patent and research into how perverts are using them. Listen to the weekly podcast on Apple Podcasts , Spotify , or YouTube . Become a paid subscriber for access to this episode's bonus content and to power our journalism. If you become a paid subscriber, check your inbox for an email from our podcast host Transistor for a link to the subscribers-only version! You can also add that subscribers feed to your podcast app of choice and never miss an episode that way. The email should also contain the subscribers-only unlisted YouTube link for the extended video version too. It will also be in the show notes in your podcast player.",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection"
+    ],
+    "word_count": 762
+  },
   "d15ef106246c54d478fabcbacb4bf431a1fd0547c7d4fd7a6a8943f8ee0bfbad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51983,6 +52884,39 @@
     "weak_generic_terms_found": [],
     "word_count": 1295
   },
+  "d44c5166dc060d74622c15adcc5d76c028aeff65114a611c2211af0d544408e8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Jailed ex-Pakistan PM Imran Khan allowed brief hospital visit after uproar over health They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:49+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 27
+  },
   "d459be676ebc8982cec70b8fcdc22308f78998bd2417f91f2b830313ad24e858": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -52298,6 +53232,40 @@
       "trust"
     ],
     "word_count": 13544
+  },
+  "d5cef0bbea1613f7d608a82be52fa5cf8cef3fa05aae6c338487fe2eec8134c2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Insights Blogs Learn Webinars Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us How It Works Research Reports / Umbrae Ex Machina Gated Aug 25, 2026 Umbrae Ex Machina Mapping Russian Ghostwriting Operations Across African News Outlets Influence Operations The Graphika Team Graphika Research Team Share Free Download Access the Full Report Get the complete findings from Graphika's latest research, including in-depth network analysis, narrative mapping, and intelligence across platforms. Email * Are you interested in a FREE trial? * Yes No Get the Report By submitting this form, you agree to receive communications from Graphika. Overview Russia has been planting ghost reporters and fake experts in the African media landscape to advance its strategic interests on the continent since at least 2021 . For this report, we consider ghost reporters to be bylines that are used to plant articles that primarily promote Russian interests in authentic African media outlets but are...",
+    "cache_version": 9,
+    "checked_at": "2026-08-27T09:37:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 2231
   },
   "d5d4b00f7fe39e48867e896e452a3ae6c38115f60512a8455b53f536be4a7394": {
     "access_status": "available",
