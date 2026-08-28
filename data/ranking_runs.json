@@ -2,34 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Enforcement report": 1,
-        "Investigative report": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 17,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 4,
-        "current_affairs": 12,
-        "investigative": 1
-      },
-      "shortlist_count": 6,
-      "source_domain_distribution": {
-        "abc.net.au": 2,
-        "apnews.com": 2,
-        "bbc.co.uk": 1,
-        "graphika.com": 1
-      },
-      "timestamp": "2026-07-01T04:55:46+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Operational intelligence": 1,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Enforcement report": 2,
         "News report": 1,
         "Research paper": 1
@@ -1367,6 +1339,49 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 1,
         "Product idea / data source": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Investigative report": 1,
+        "News report": 1,
+        "Policy / platform update": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 60,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 5,
+        "current_affairs": 1,
+        "international": 3,
+        "investigative": 1,
+        "platform_product": 1,
+        "psychology": 48,
+        "singapore_sea": 1
+      },
+      "shortlist_count": 18,
+      "source_domain_distribution": {
+        "arxiv.org": 3,
+        "asia.nikkei.com": 1,
+        "cybersecurity-insiders.com": 1,
+        "dailydemocrat.com": 1,
+        "dl.acm.org": 4,
+        "graphika.com": 1,
+        "nature.com": 1,
+        "news.tvb.com": 1,
+        "straitstimes.com": 1,
+        "therecord.media": 3,
+        "tovima.com": 1
+      },
+      "timestamp": "2026-08-28T11:21:47+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Operational intelligence": 1,
+        "Platform policy / product change": 1,
+        "Research / novel method": 1
       }
     }
   ]
