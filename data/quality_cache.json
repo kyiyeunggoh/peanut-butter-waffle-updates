@@ -4008,6 +4008,32 @@
     ],
     "word_count": 1942
   },
+  "10bcfa8ea9181d27f4bbe3f2997f10842f16478f885203b3c87361bb7b454577": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "For the most part, though, the 37-page document raises more questions than it answers, including about what preceded the incident and how OpenAI can stop another one like it from happening again. What remains especially perplexing is why one of the world\u2019s preeminent AI development labs seemingly underestimated its own models\u2019 capabilities. OpenAI has spent years warning the world about the rapid advancement of AI systems. And yet it failed to implement long-established network security and isolation measures that may have prevented the hacking spree. \u201cWith the benefit of hindsight, some early signals identified in this report could have triggered an earlier response,\u201d OpenAI says in the postmortem. In the report, OpenAI shared new details about how a set of AI agents escaped the company\u2019s internal evaluation environments, left messages for one another in the crevices of its software infrastructure over several months, and coordinated to hack the AI platform Hugging Face\u2014all in a wild quest to complete a cybersecurity assessment. OpenAI previously shared some information about the breach in blog posts and a talk at the Black Hat cybersecurity conference. Hugging Face initially disclosed the incident on July 16 without naming the culprit; five days later, OpenAI acknowledged that its own agents were responsible. The revelation sparked a broader reckoning across the industry...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 5918
+  },
   "10c2f08254417979d079d8953ffc3c17ef8d7a3217c24a706303a5886c389ede": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7312,6 +7338,30 @@
       "trust"
     ],
     "word_count": 4474
+  },
+  "1dbaa737a9d23c4f7da1298a061df10f745c44f3d812ae2acb64ac659ab1ea3c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Signals Intelligence Last updated Aug 26, 2026 | Copy as Markdown | View as Markdown | Agent setup Bot Management customers can view aggregate intelligence data for each JA4 fingerprint based on traffic across the Cloudflare network. Use this data to understand why a request received a specific bot score or to feed into your own machine learning models running in Cloudflare Workers or at your origin. Specifically, for each JA4 fingerprint, you will be able to access the following information: The percentage of traffic associated with browsers that Cloudflare sees. The percentage of traffic associated with known bots that Cloudflare sees. The number of networks Cloudflare sees actively using this fingerprint. The number of Cloudflare sites that see traffic from this fingerprint. The frequency that fingerprint requests caches content and generates errors. You can also use these fields with Workers AI to build custom machine learning models. Signals Intelligence fields Signals Intelligence fields show observations about a particular JA4 that Cloudflare has seen globally over the last hour. Field name Description h2h3_ratio_1h The ratio of HTTP/2 and HTTP/3 requests combined with the total number of requests for the JA4 fingerprint in the last hour.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1412
   },
   "1e2e501474d2254aa235477753d57ad6fab7436bcb52ba33e34c2f2850236070": {
     "access_status": "available",
@@ -11238,6 +11288,32 @@
     "weak_generic_terms_found": [],
     "word_count": 7366
   },
+  "2f12b1ea5771b3b6a78034222b3deb743c382009ba81ffe047c0f336fad402af": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Osborn, who is running for the US Senate in Nebraska as an independent against Republican incumbent Pete Ricketts, said that he and the man didn\u2019t have much common ground\u2014at first. \u201cThen I said, \u2018Hey, what\u2019s your take on AI and data centers?\u2019\u201d Osborn says. \u201cBoy, right away, we were in lockstep, 100 percent agreement.\u201d Osborn is one of more than 15 politicians running for office in states across the country who have signed on to the AI Pact , a set of five promises around regulating both data centers and AI itself. As concerns about data centers have exploded in the midterm cycle, politicians are scrambling to respond to voters\u2019 worries about their environmental impacts, the secrecy surrounding their construction, and the corporate power behind them. The new pledge is intended, according to its website, to provide \u201ca needed baseline to ensure a humanity-first future.\u201d The pact is an offshoot of the Political Integrity Project, an anti-money-in-politics group that has a similar pledge for candidates. Daniel Lobo-Lewis, one of the founders, says that he and his cofounders came up with the five promises in the AI Pact\u2014which include advocating for mandatory safety reviews for AI models, supporting policies that would create an AI dividend for workers, and ensuring that consumers and companies can sue over harms caused by models\u2014by networking with AI safety groups and other...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 4268
+  },
   "2f237cf6569c43d22b0e2ae351f0658116fd55fde4ea95726b61fa028911036e": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12095,6 +12171,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "320dc9dd42f013eff793c2d7f60067eaae6d2a746fd86b2de1a5b691f71fd9f7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts August 28, 2026 Z.ai GLM-5.3 now available on Workers AI Workers AI @cf/zai-org/glm-5.3 is now available on Workers AI. It is Z.ai's flagship agentic coding model, built for long-running, tool-driven development workflows rather than single-turn chat. GLM-5.3 uses the same base model as GLM-5.2, with every gain coming from post-training. The results are substantial on coding and agentic benchmarks: Z.ai reports \u00e2\u0086\u0097 a 50% improvement over GLM-5.2 on its in-house Z.ai Code Bench, and calls GLM-5.3 the most capable open-weights model for coding. On public benchmarks, it scores 88.2 on Terminal Bench 2.1 (up from 81.0), 28.3 on Terminal Bench 3.0 \u00e2\u0080\u0094 open-source state of the art, up from 4.6 \u00e2\u0080\u0094 66.9 on DeepSWE (up from 46.2), 78.1 on FrontierSWE (up from 67.5), and 42.5 on SWE-Marathon (up from 19.4). It is also the top-scoring model in Z.ai's comparisons on CyberGym for vulnerability discovery (84.5) and on long-horizon automation tasks like AutomationBench (48.2). The price-to-performance ratio is the compelling part. On Workers AI, GLM-5.3 costs the same as GLM-5.2 \u00e2\u0080\u0094 $1.40 per M input tokens, $0.26 per M cached input tokens, and $4.40 per M output tokens \u00e2\u0080\u0094 while roughly doubling GLM-5.2's scores on long-horizon benchmarks like SWE-Marathon, and improving them by more than 6x on Terminal Bench 3.0. GLM-5.3 requires the...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 866
+  },
   "321af7dc2864a41cc5ddd04c61202f1f818175b6020aa88995374bf2d92f0c70": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12754,6 +12856,43 @@
     "weak_generic_terms_found": [],
     "word_count": 3380
   },
+  "34f6e210c7649fd051692af6d963fb96e33c518778ad91ea9ed2429aba8e5951": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Non-Parametric Stochastic Sequential Assignment With Random Arrival Times Danial Dervovic Affiliation: J.P. Morgan AI Research Email: {danial.dervovic Parisa Hassanzadeh Affiliation: J.P. Morgan AI Research Email: parisa.hassanzadeh Samuel Assefa Affiliation: J.P. Morgan AI Research Email: samuel.a.assefa Prashant Reddy Affiliation: J.P. Morgan AI Research Email: prashant.reddy}@jpmorgan.com Abstract We consider a problem wherein jobs arrive at random times and assume random values. Upon each job arrival, the decision-maker must decide immediately whether or not to accept the job and gain the value on offer as a reward, with the constraint that they may only accept at most n n jobs over some reference time period. The decision-maker only has access to M M independent realisations of the job arrival process. We propose an algorithm, Non-Parametric Sequential Allocation (NPSA), for solving this problem. Moreover, we prove that the expected reward returned by the NPSA algorithm converges in probability to optimality as M M grows large.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:02:01+00:00",
+    "direct_relevance_terms_found": [
+      "payment fraud",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "payment fraud",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "payment fraud",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 26889
+  },
   "352b75b4174075d4f40f0b52a147f213adbece047e91c5e51d03c9f1f18cb2fd": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -12941,6 +13080,50 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "366963935cecb7575aa5b290d79329c4b21e52ecc9e641f5558a4568a0effaa4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: PhiShark2026: A Multi-Layer Active-Web Raw-Evidence Dataset for Phishing Website Research Furkan \u00c7olhak 1,* , Ferhat Demirk\u0131ran 2 , Hasan Da\u011f 1 , and Alexander Iliev 3,4 Affiliation: 1 Kadir Has University 2 University at Albany, SUNY 3 Institute of Mathematics and Informatics, Bulgarian Academy of Sciences 4 SRH Berlin University Abstract Phishing websites are short-lived and rapidly changing, yet many phishing datasets reduce observations to URLs or precomputed features, constraining researchers to predefined representations and discarding the underlying evidence needed to derive alternative features, apply new extraction methods, examine cross-layer relationships, and reanalyze observations as phishing techniques evolve. This study addresses this limitation with a multi-layer active-web dataset comprising 67,502 scans, including 33,387 phishing observations from operational feeds and 34,115 screened benign reference observations. The corpus preserves raw evidence across HTML content and screenshots, URL and redirect behavior, HTTP and security headers, compliance files, TLS certificates, DNS and domain registration, open ports, geolocation and accessibility measurements, and network infrastructure, while explicitly recording unavailable evidence rather than treating it as negative observations. To avoid misleading...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "ransomware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 15606
   },
   "3673a4bc7b5ddae9604f16b6e6d59734b19941c55b161496ee3c571bf3640849": {
     "access_status": "available",
@@ -14242,6 +14425,41 @@
       "trust"
     ],
     "word_count": 1261
+  },
+  "3b03da1b961d283e8f874cac90235862a3836fb1414d2d7dce16c80f26e8d279": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_timeout",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "3b194388a3754be1890a4bd597a957e23f397c5218cbe04221eff9335237322e": {
     "access_status": "available",
@@ -18121,6 +18339,42 @@
     ],
     "word_count": 997
   },
+  "48eac001ec6da63aacadc6c95540778b836272ea8edaa26142ab57c2e3709df6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 8
+  },
   "490a1f5793c2f687cd83d409eb67d2598adf9aceb417bc796bccde741d321e0a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20085,6 +20339,30 @@
       "fraud"
     ],
     "word_count": 21670
+  },
+  "50be8a7c21f8b49cfc71d84d5561545ced590c1b184f6c3aef29c990227f3801": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "glm-5.3 Text Generation \u00e2\u0080\u00a2 Zhipu AI Copy as Markdown | View as Markdown | Agent setup @cf/zai-org/glm-5.3 Cloudflare-hosted Function calling Reasoning GLM-5.3 is Z.ai's flagship agentic coding model, pairing a 1M-token context window with reasoning, function calling, and structured outputs to power multi-step, tool-driven development workflows. Model Info Context Window \u00e2\u0086\u0097 1,048,576 tokens Function calling \u00e2\u0086\u0097 Yes Reasoning Yes Unit Pricing $1.40 per M input tokens, $4.40 per M output tokens, $0.26 per M cached input tokens Playground Try out this model with Workers AI LLM Playground. It does not require any setup or authentication and is an instant way to preview and test a model directly in the browser. Launch the LLM Playground Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role: \"user\" , content: \"What is the origin of the phrase Hello, World\" , }, ]; const stream = await env. AI . run ( \"@cf/zai-org/glm-5.3\" , { messages, stream: true , }); return new Response (stream, { headers: { \"content-type\" : \"text/event-stream\" }, }); }, } satisfies ExportedHandler < Env >; export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2701
   },
   "50bee141d0349bd9b608d54d973f6d227a69e084fca33322fb1f4b7700bc76d9": {
     "access_status": "available",
@@ -23823,6 +24101,47 @@
     ],
     "word_count": 1792
   },
+  "5f49f5af086def86c036ba620cc8fc7e532fdf0757091029b6e9084d4559cf13": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia claims it has wiped out online scam compounds after a sweeping crackdown Thai soldiers inspect a work station at the scam compound in O\u2019Smach, Cambodia, April 7, 2026. (AP Photo/Sakchai Lalit, File) Add AP News on Google Add AP News as your preferred source to see more of our stories on Google. Share Share Facebook Copy Link copied Print Email X LinkedIn Bluesky Flipboard Pinterest Reddit PHNOM PENH, Cambodia (AP) \u2014 Cambodia , notorious for being a major center for international online scams, claimed Friday it no longer hosts any of the compounds where the lucrative cybercrime was carried out, although some remain skeptical. The government\u2019s Ad-Hoc Commission for Combating Online Scams, CCOS, claimed success for its crackdown at a Thursday meeting with about 50 representatives of foreign diplomatic missions and international organizations led by Senior Minister Chhay Sinarith, who heads the anti-scam agency, it said in a statement issued Friday. \u201cThis follows the complete eradication of large-scale online scam operations , strict legal actions against perpetrators, networks and involved officials, alongside the systematic establishment of a cybersecurity legal framework,\u201d it said. Chhay Sinarith\u2019s claims were met with both skepticism and guarded optimism from independent groups that have tracked the scam compounds, which are infamous not only for bilking billions of...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1192
+  },
   "5f6171c0a0c40789e3ab396322444dc40512afc89029be60965a862f5ce6f8af": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24694,6 +25013,30 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "62ad15c26fa0d1cf7a163902875b83ea4e34acbe37471b60ae853cf27c8f72b5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Realtime Kit Presets Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Replace a preset PUT /accounts/{account_id}/realtime/kit/{app_id}/presets/{preset_id} Replace all details for the preset using the provided preset ID. Security API Token The preferred authorization scheme for interacting with the Cloudflare API. Create a token . Example: Authorization: Bearer Sn3lZJTBX6kkg7OdcBUAxOO963GEIyGQqnFTOFYY Accepted Permissions (at least one required) Realtime Admin Realtime P ath Parameters Expand Collapse account_id : string The account identifier tag. maxLength 32 app_id : string The app identifier tag. maxLength 32 preset_id : string format uuid Body Parameters JSON Expand Collapse config : object { max_screenshare_count , max_video_streams , media , 2 more } max_screenshare_count : number Maximum number of screen shares that can be active at a given time max_video_streams : object { desktop , mobile } Maximum number of streams that are visible on a device desktop : number Maximum number of video streams visible on desktop devices mobile : number Maximum number of streams visible on mobile devices media : object { screenshare , video , audio } Media configuration options. eg: Video quality screenshare : object { frame_rate , quality } Configuration options for participant screen shares frame_rate : number Frame rate of...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2503
   },
   "62de0b4d2a5d9268f8e60c2a6f051528a5f8121904bcd617eda34a2b76db1f09": {
     "access_status": "available",
@@ -28245,6 +28588,66 @@
     "weak_generic_terms_found": [],
     "word_count": 1054
   },
+  "70f30049453857912089efd00f55a272b1b1ae4432fc549fb74df9f6170fd8bd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Dating with Scambots: Understanding the Ecosystem of Fraudulent Dating Applications Thanks: Yangyu Hu, Haoyu Wang and Bingxuan Luo are with Beijing University of Posts and Telecommunications, China. E-mail: {huyangyu910731, haoyuwang, unique_girl}@bupt.edu.cn Yajin Zhou is with Zhejiang University. Email: yajin_zhou@zju.edu.cn Yao Guo is with Peking University. Email: yaoguo@pku.edu.cn Li Li is with Monash University. Email: li.li@monash.edu Fangren Xu is with Rivermont Collegiate. Email:fangrenx@rvmt.org Haoyu Wang and Yajin Zhou are co-corresponding authors. Yangyu Hu Haoyu Wang Yajin Zhou Yao Guo Affiliation: Li Li, Bingxuan Luo and Fangren Xu Abstract In this work, we are focusing on a new and yet uncovered way for malicious apps to gain profit. They claim to be dating apps. However, their sole purpose is to lure users into purchasing premium/VIP services to start conversations with other (likely fake female) accounts in the app.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "fraud ring",
+      "identity fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "fraud ring",
+      "identity fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security",
+      "institution_domain:pku.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "fraud ring",
+      "identity fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "fake accounts"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 19813
+  },
   "70f49ee6cdac45eeac7a9e451dc18bd1b375a945cc6c6d4fcde3544326907bc3": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -28270,6 +28673,30 @@
       "fraud"
     ],
     "word_count": 4179
+  },
+  "7106f2b9478a9cb53e5f2e363b5f557b7b0414f62fb713b0ac99293451a4b29b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "710d6809a7185d5cbe3c6ccbec91af2caae340b98c41c97fb9d2302b4e1c2ff7": {
     "access_status": "available",
@@ -31191,6 +31618,53 @@
       "trust"
     ],
     "word_count": null
+  },
+  "7bd1a5bd1cd554f04777a67a46e47ec17bc10d640be4bb5ef30011fbaee9c2cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Image: Sora Shimazaki via Pexels German court convicts alleged mastermind behind global investment scam network A German court has sentenced a suspected central figure in the so-called Milton Group call-center fraud network to seven-and-a-half years in prison. The Bamberg Regional Court in Bavaria handed down the sentence last Thursday after an 11-day trial conducted under heightened security measures, according to reports by local media and the Organized Crime and Corruption Reporting Project (OCCRP) . Although the court did not publicly name the defendant, court records reviewed by OCCRP indicate the person convicted was Mikheil Biniashvili, a citizen of Georgia and Israel. Judges found that between 2017 and 2019, the defendant ran a call-center operation in Albania that used trained agents to persuade victims to invest in fraudulent online trading schemes. The scheme caused losses of about \u20ac8 million ($9.4 million) to victims, mostly in German-speaking countries. The operation employed up to 600 people at its peak. Call-center agents allegedly posed as investment advisers, building trust with targets before persuading them to deposit funds into fake trading platforms controlled by the network. According to the court, victims were promised large investment returns, but their money was never invested. Instead, judges said, the funds were \u201cpocketed\u201d by operators running the...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:02:05+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1913
   },
   "7bd1e88168041081a2941b597359f28516f07a45a9a65d4775fcba661239a9d0": {
     "access_status": "unknown",
@@ -34394,6 +34868,30 @@
     ],
     "word_count": 4369
   },
+  "866b665fa19e07566a7241dc5219796e5caacf30d4cdee4a7b26d7d658be22ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts August 26, 2026 WAF Release - 2026-08-26 - Emergency WAF This emergency release updates an existing Next.js remote code execution rule to identify CVE-2026-75604 and adds a new rule for remote code execution in the Next.js Image Optimizer via crafted AVIF images. Key Findings CVE-2026-75604 affects Windows-hosted Next.js applications using both the Pages Router and App Router without Cache Components and can lead to unauthenticated remote code execution. GHSA-2xp9-vwfh-vxw4 affects the Next.js Image Optimizer and can lead to unauthenticated remote code execution when it optimizes an attacker-controlled AVIF image. Impact Next.js recommends updating to version 16.3.3 or 15.5.24 to address these vulnerabilities. Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Managed Ruleset ...2ca6cce3 N/A Next.js - Remote Code Execution - CVE:CVE-2026-75604 Block N/A Rule metadata description refined. Detection unchanged. Cloudflare Managed Ruleset ...80256efe N/A Next.js - Image Optimizer Remote Code Execution via Crafted AVIF N/A Block This is a new detection. August 26, 2026 WAF Release - 2026-08-26 - Emergency WAF This emergency release updates an existing Next.js remote code execution rule to identify CVE-2026-75604 and adds a new rule for remote code execution in the Next.js Image Optimizer via...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 449
+  },
   "867e8d9df500442d4facc13d1d04c49aff69d7b83a8b9a24d6658449f52c7815": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -36980,6 +37478,55 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "91fcbab4bbe4c9c89b2f2dec4642864f7c68b328c51078d4ca20888de1af7a4b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Over $410m lost to scams in first half of 2026; 8 in 10 victims voluntarily handed money to scammers Sign up now: Get ST's newsletters delivered to your inbox Singapore has lost more than $4 billion to scams since 2019. PHOTO: ST FILE Nadine Chua Published Aug 26, 2026, 03:00 PM Updated Aug 26, 2026, 07:01 PM Set as preferred source Listen Summarise Scam losses in Singapore fell to $410.6 million in the first half of 2026, from over $500 million during the same period in 2025. Cases involving Pokemon trading cards surged from 279 cases ($472k lost) in the first half of 2025 to 605 cases ($1.2m lost) during the same period in 2026. The authorities recovered over $97 million and issued restriction orders to limit transaction capabilities of stubborn scam victims. AI generated SINGAPORE \u2013 The scam situation in Singapore has continued to improve since 2025, with losses dropping to $410.6 million in the first six months of 2026. Victims lost $500.2 million during the same period in 2025, with $913.1 million lost that year . In releasing the mid-year scam statistics on Aug 26, the police said there were significant dips in the number of cases for certain scam types like insurance services, fake friend call and phishing scams in the first half of 2026. Measures that led to the drop included efforts to prevent and block scammers from reaching victims, by directing Apple, Google and...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam",
+      "money mule"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam",
+      "money mule"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "investment scam",
+      "money mule"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud"
+    ],
+    "word_count": 3853
+  },
   "91fceda24588114501e5ac6b637b65772ecc95553d895ba609aa8347e8dc301a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -37866,6 +38413,55 @@
       "fraud"
     ],
     "word_count": 3066
+  },
+  "951988e21f33f73f917caee39454bb7ff8b0ba6cbfc81f4325d368a9af1749a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Buildings shut down for hosting scamming operations in Chrey Thum, Cambodia in May 2026. (File photo: CNA/Jack Board) 28 Aug 2026 05:11PM (Updated: 28 Aug 2026 05:16PM) Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST PHNOM PENH: Cambodia said on Friday (Aug 28) it had closed more than 700 online scam centres in a crackdown over the past year, detaining nearly 30,000 suspects including a clutch of senior government officials. The Southeast Asian country has emerged as a hub for crime syndicates running fake romantic relationship and cryptocurrency investment schemes in which scammers - some willing, others trafficked - defraud internet users around the world. But under pressure from several countries including the United States and China, Cambodian authorities say they are cracking down on the industry. A government statement on Friday said authorities have cleared more than 700 compounds and deported 58,266 foreign nationals over the past year. CNA Games Guess Word Crack the word, one row at a time Buzzword Create words using the given letters...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1746
   },
   "9529c1b03442bf28cb8a4830cc8e540e63e1be79b972268c3d5abc5c553050de": {
     "access_status": "available",
@@ -41157,6 +41753,38 @@
     ],
     "word_count": 1221
   },
+  "a23bc8242ea42cee6e9ad2aa95892cd136b4c81b1725209b1cd2566e834036be": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Checking your browser before redirecting. Loading... You are seeing this because the administrator of this website has set up a firewall to protect the server against automated traffic. Checking your browser before redirecting. Loading... You are seeing this because the administrator of this website has set up a firewall to protect the server against automated traffic.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 56
+  },
   "a24942942edcbc407a1cb398ae0a9e4b088cfa2c24878f4fa9ddafd637117c9c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -41686,6 +42314,55 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "a4c1c3e98961cd587c863eded83f0b8c99d93c438d597df1607d4e0848e9f4f6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "After initially chatting Zhao up on the Chinese social media platform Xiaohongshu , he asked to move their conversation to Microsoft Teams, where he was happy to provide her with an account and password she could use. \u201cI didn\u2019t think much because I had used this app before. And since it was developed by Microsoft, I kind of trusted it,\u201d says Zhao, who requested to use only her last name for privacy reasons. Once they switched to Teams, the scammer began promising to build a future with Zhao when they eventually got together and introduced her to a cryptocurrency investment project, which he said would turn a profit much faster than trading stocks. Zhao says that at first, she was excited about the opportunity, and even took out loans from several banks so she could invest more. Then the scammer disappeared with all of her money. Because she can no longer log into the Teams account he told her to use, she can\u2019t share the chat logs with police. After Zhao began talking about her experience on social media, she says she started hearing from dozens of other people in China who have fallen prey to the same scheme. They claim to have lost anywhere from $1,500 to $300,000, and only one reported that they were able to recover some of the funds\u2014by tracking down the recipient\u2019s bank account. The victims all describe the same pattern.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4907
+  },
   "a52cc706bd28fe09ba908e0a616598a14665fae1511b34a29123f2e9afb97822": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42044,6 +42721,30 @@
       "trust"
     ],
     "word_count": 3027
+  },
+  "a69003b89d95266784d47bc780c4ef7bf01b619d832e3e1cb51ed26090a3e822": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The snarl is exacerbating already years-long wait times for viable projects, and it's messing with attempts to forecast energy demand and plan grid expansions. In July, the UK\u2019s energy regulator, Ofgem, laid out a proposal meant to force phantom data centers out of the swollen queue. Under the plans, set to be finalized after an industry feedback process that ends in September, developers would be required to put down a steep, nonrefundable deposit that could balloon to hundreds of millions of dollars for the very largest data centers. Developers would also be required to line up customers in advance and prove they have the funding to complete their builds. However, Ofgem faces a Goldilocks conundrum: The reforms must be burdensome enough to deter speculators but not so much that they drive legitimate data center projects to other shores, undermining the UK\u2019s ambitions to meet the voracious demand for the compute required to run sophisticated AI models. Data center developers face delays almost everywhere; similar grid congestion issues afflict the US and countries across Europe . But whereas the US is a highly desirable market , Ofgem\u2019s reforms risk making the UK\u2014already unattractive for the high cost of energy and dearth of land\u2014one of the world\u2019s most expensive places to build a data center, industry experts believe. The frenzied data center buildout \u201cis bringing a huge...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4153
   },
   "a699fe1e25d61827936d2ef78639b7aafee6632d92f8a79327c7475c26ff64a8": {
     "access_status": "available",
@@ -45085,6 +45786,32 @@
     ],
     "word_count": 3232
   },
+  "b043a9a646e3ffe23fbd9fba186ec6439fd690513926d216bea80de9fd0faba0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia pauses revenue sharing deals with AI cloud companies: Report Sign up now: Get ST's newsletters delivered to your inbox The chip giant stepped back from the programme last week, adding that it could still revamp the initiative later or fold it into another programme. PHOTO: BLOOMBERG Published Aug 28, 2026, 09:00 AM Updated Aug 28, 2026, 09:23 AM Set as preferred source Listen Nvidia has paused some deals that were part of its new financing initiative that offered credit support to AI cloud companies in exchange for a share of revenue, the Wall Street Journal reported on Aug 27, citing people familiar with the matter. The chip giant stepped back from the programme last week, the Journal said, adding that it could still revamp the initiative later or fold it into another programme. \u201cThe new business model... that opens up compute access to the fast-growing AI ecosystem is still in place and continues to evolve due to high demand,\u201d an Nvidia spokesperson said. The reported move comes less than two months after Nvidia announced the programme, designed to support financing needs at small artificial intelligence cloud firms. Nvidia had sought to rent compute capacity back from cloud customers if they were unable to sell it, providing them with a guaranteed buyer and making it easier for the firms to borrow the capital needed to fund their purchases of Nvidia\u2019s AI chips. Under...",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:02:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1542
+  },
   "b04a6a9b2a243c925f7de88b3daa64b5cddf70b46d35410a876ad9f3c56934d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -45990,6 +46717,44 @@
     "weak_generic_terms_found": [],
     "word_count": 3365
   },
+  "b3f2a06c03e2bed1fdb6b340815dcebcae9053abced63fdb4c7897b5d97cdf8c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia claims to have eradicated all online scam compounds Government says 624 sites shut and nearly 30,000 people detained, but rights groups and analysts remain skeptical Cambodian officials brief foreign diplomats on Aug. 27, claiming that no large-scale scam sites remain in operation in the country. (Cambodian Ministry of Information) PHNOM PENH -- The Cambodian government says it has inspected close to 800 online scam locations, shut down more than 600 and left not a single large-scale fraud compound operating in the country, a claim that comes amid increasing international pressure to end the illicit industry. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 115
+  },
   "b3fa47d18b23d609d5792b84697bd9eb95952e6dcb00baf4e642142c17f767b8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -46531,6 +47296,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "b646a5d07aa614094f3fe462e36eacad12d25786e0ef3944991bfabc0598f5fb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Immigration and Customs Enforcement (ICE) plans to buy at least a million dollars worth of robots from Boston Dynamics, the company that makes the dog-like SPOT robots, with the purpose of improving \u201cofficer safety,\u201d according to a Department of Homeland Security (DHS) announcement. The news shows that ICE continues to spend millions of dollars on new technology. On Thursday, U.S. procurement records showed that ICE has contracted to buy 6,000 pairs of electric shock gloves for $16.7 million, the Associated Press reported . This post is for paid members only Become a paid member for unlimited ad-free access to articles, bonus podcast content, and more. Subscribe Sign up for free access to this post Free members get access to posts like this one along with an email round-up of our week's stories. Subscribe Already have an account? The news shows that ICE continues to spend millions of dollars on new technology. On Thursday, U.S. procurement records showed that ICE has contracted to buy 6,000 pairs of electric shock gloves for $16.7 million, the Associated Press reported .",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 438
   },
   "b66d6afa50909790217f76597492dcc396df99f8241d046fa258337ca1d38693": {
     "access_status": "available",
@@ -47773,6 +48562,30 @@
       "watermarking"
     ],
     "word_count": 15578
+  },
+  "bae108f5a691f66e37a85fefbdb3fc64a9bbfd63b2eac53c5fb92e16a6eb6cd1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends higher as tech rebounds before Nvidia results Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange, in New York City, on Aug 24. PHOTO: REUTERS Published Aug 26, 2026, 04:49 AM Updated Aug 26, 2026, 04:49 AM Set as preferred source Listen Summarise Wall Street rose as tech stocks rebounded ahead of Nvidia's earnings, helped by lower oil prices and bond yields easing investor worries. Nvidia's upcoming results are crucial for sustaining the AI-driven rally amid concerns over high valuations and spending methods. Investors await key economic reports and Fed Chair Warsh's speech for guidance on inflation, interest rates, and monetary policy direction. AI generated NEW YORK - Wall Street\u2019s main indexes closed higher on Aug 25, as technology stocks recovered from a selloff ahead of AI heavyweight Nvidia\u2019s results, while investors found some relief in drops in oil prices and bond yields. The gains could ease investor concerns sparked by a recent bond market rout that lifted yields and pressured equities. They could also help set the tone for September, a historically weaker month for stocks. Longer-dated Treasury yields fell on Aug 25 as oil prices dropped to a one-week low and traders continued to weigh the implications of Treasury Secretary Scott Bessent\u2019s decision to expand Treasury buybacks....",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2015
   },
   "bae394c6d11c8edf3a41acd7fb34bd6d22e2dd13e06fa8657ac3a2e5f69425a3": {
     "access_status": "available",
@@ -65275,6 +66088,33 @@
       "trust"
     ],
     "word_count": 40960
+  },
+  "fef0c097ea37654fcafebdfd6e5f24620b92ffccd0bc80ac02047b60127a8cee": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Item 1 of 2 White House Deputy Chief of Staff Stephen Miller speaks while U.S. President Donald Trump listens during an event to sign executive orders related to birthright citizenship and the polysilicon industry, in the Oval Office at the White House in Washington, D.C., U.S., August 6, 2026. REUTERS/Evelyn Hockstein [1/2] White House Deputy Chief of Staff Stephen Miller speaks while U.S. President Donald Trump listens during an event to sign executive orders related to birthright citizenship and the polysilicon... Purchase Licensing Rights , opens new tab Read more GREENBELT, Maryland, Aug 28 (Reuters) - A federal judge on Friday declined to immediately block U.S. President Donald Trump's newest executive order limiting the number of people \u200beligible for birthright citizenship, even as she sharply questioned its viability after the U.S. Supreme \u200cCourt rejected his previous effort to do so. U.S. District Judge Deborah Boardman in Greenbelt, Maryland, rejected a request for a temporary restraining order sought by immigrant rights advocates who had last year secured a ruling from her blocking the Trump \u200badministration from enforcing his initial 2025 executive order curtailing birthright citizenship. Sign up here.",
+    "cache_version": 10,
+    "checked_at": "2026-08-29T07:01:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1474
   },
   "ff09381522156558eb814b776d9ecd946a1b0a8d4596417f4bbb45b0b3f8afcc": {
     "access_status": "available",
