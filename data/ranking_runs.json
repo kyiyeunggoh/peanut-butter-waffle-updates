@@ -2,39 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Enforcement report": 1,
-        "Investigative report": 1,
-        "Policy / platform update": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 22,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 3,
-        "current_affairs": 17,
-        "investigative": 2
-      },
-      "shortlist_count": 8,
-      "source_domain_distribution": {
-        "abc.net.au": 1,
-        "apnews.com": 1,
-        "bbc.co.uk": 1,
-        "bbc.com": 1,
-        "channelnewsasia.com": 1,
-        "graphika.com": 2,
-        "wired.com": 1
-      },
-      "timestamp": "2026-07-03T04:08:25+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Local Singapore / Southeast Asia relevance": 1,
-        "Operational intelligence": 1,
-        "Platform policy / product change": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Investigative report": 1,
         "Policy / platform update": 1
       },
@@ -1390,6 +1357,46 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 2,
         "Product idea / data source": 2
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Investigative report": 1,
+        "Policy / platform update": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 51,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 5,
+        "current_affairs": 2,
+        "international": 1,
+        "psychology": 42,
+        "singapore_sea": 1
+      },
+      "shortlist_count": 17,
+      "source_domain_distribution": {
+        "apnews.com": 1,
+        "arxiv.org": 3,
+        "bbc.co.uk": 1,
+        "cybersecurity-insiders.com": 1,
+        "dailydemocrat.com": 1,
+        "dl.acm.org": 4,
+        "nature.com": 1,
+        "straitstimes.com": 1,
+        "therecord.media": 2,
+        "tovima.com": 1,
+        "wired.com": 1
+      },
+      "timestamp": "2026-08-30T05:20:21+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 2,
+        "Platform policy / product change": 1,
+        "Product idea / data source": 1
       }
     }
   ]

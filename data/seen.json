@@ -504,6 +504,20 @@
       "url": "https://apnews.com/article/online-scam-center-iom-migration-pope-trafficking-75d4ba9ea77b31987e82d966269c3e83",
       "usefulness_category": "Scam development"
     },
+    "apnews.com|2026-08-28|ae52ba73f813548d8a0cd9f81cd4469a cambodia claims compounds crackdown cybercrime online out": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia claims wiped out online scam compounds after sweeping crackdown",
+      "normalized_title_fingerprint": "cambodia claims wiped out online scam compounds sweeping crackdown",
+      "original_url": "https://apnews.com/article/cambodia-online-scam-compounds-cybercrime-ae52ba73f813548d8a0cd9f81cd4469a",
+      "parsed_date": "2026-08-28",
+      "raw_title": "Cambodia claims it has wiped out online scam compounds after a sweeping crackdown - AP News",
+      "same_story_key": "apnews.com|2026-08-28|ae52ba73f813548d8a0cd9f81cd4469a cambodia claims compounds crackdown cybercrime online out",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "apnews.com",
+      "title": "cambodia claims wiped out online scam compounds after sweeping crackdown",
+      "url": "https://apnews.com/article/cambodia-online-scam-compounds-cybercrime-ae52ba73f813548d8a0cd9f81cd4469a",
+      "usefulness_category": "Operational intelligence"
+    },
     "arxiv.org|2025-05-21|benchmark psychological psyscam real scams techniques world": {
       "article_type": "Research paper",
       "normalised_title": "psyscam benchmark psychological techniques real world scams",
@@ -769,6 +783,20 @@
       "title": "characterizing scam driven human trafficking across chinese borders online community responses rednote",
       "url": "https://arxiv.org/html/2603.26520v1",
       "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-04-01|aware beyond detection metadata multimodal policy scam videos": {
+      "article_type": "Research paper",
+      "normalised_title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "normalized_title_fingerprint": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ROFNWbHhFQ2ZwVHFNYlQxa3FWV0JESUdTT1JCTzFZbUpTTTFadWNMV0lEN2pzYTBYQU5Fb0xCVTh6YUZ1NS1ZQ3ctUQ?oc=5",
+      "parsed_date": "2026-04-01",
+      "raw_title": "Beyond Metadata: Multimodal, Policy-Aware Detection of YouTube Scam Videos - arXiv",
+      "same_story_key": "arxiv.org|2026-04-01|aware beyond detection metadata multimodal policy scam videos",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "url": "https://arxiv.org/html/2509.23418v2",
+      "usefulness_category": "Product idea / data source"
     },
     "arxiv.org|2026-04-05|benchmarking detection few language large models phishing shot": {
       "article_type": "Research paper",
@@ -3794,6 +3822,20 @@
       "url": "https://therecord.media/feds-seize-alleged-cyber-scam-infrastructure-southeast-asia",
       "usefulness_category": "Operational intelligence"
     },
+    "therecord.media|2026-07-23|cyber department foreign imposes restrictions scammers state visa": {
+      "article_type": "Investigative report",
+      "normalised_title": "state department imposes visa restrictions foreign cyber scammers",
+      "normalized_title_fingerprint": "state department imposes visa restrictions foreign cyber scammers",
+      "original_url": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "parsed_date": "2026-07-23",
+      "raw_title": "State Department imposes visa restrictions on foreign cyber scammers - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-07-23|cyber department foreign imposes restrictions scammers state visa",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "state department imposes visa restrictions foreign cyber scammers",
+      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "usefulness_category": "Operational intelligence"
+    },
     "therecord.media|2026-08-05|asia compound compounds cyber department issue raised scam": {
       "article_type": "Investigative report",
       "normalised_title": "state department says trump raised cyber scam compound issue xi",
@@ -4269,6 +4311,20 @@
       "title": "security news week flock s plans rideshare dashcams coaching police revealed",
       "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "wired.com|2026-08-28|become becoming china chinese haven microsoft scammers teams": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "microsoft teams become haven scammers china",
+      "normalized_title_fingerprint": "microsoft teams become haven scammers china",
+      "original_url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "parsed_date": "2026-08-28",
+      "raw_title": "Microsoft Teams Has Become a Haven for Scammers in China - WIRED",
+      "same_story_key": "wired.com|2026-08-28|become becoming china chinese haven microsoft scammers teams",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "wired.com",
+      "title": "microsoft teams become haven scammers china",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "usefulness_category": "Platform policy / product change"
     }
   },
   "titles": {
@@ -4716,6 +4772,18 @@
       "title": "beyond detection evaluating defensive llms against ai generated social engineering live turn turn interaction",
       "usefulness_category": "Product idea / data source"
     },
+    "beyond metadata multimodal policy aware detection youtube scam videos": {
+      "article_type": "Research paper",
+      "normalised_title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "normalized_title_fingerprint": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "parsed_date": "2026-04-01",
+      "raw_title": "Beyond Metadata: Multimodal, Policy-Aware Detection of YouTube Scam Videos - arXiv",
+      "same_story_key": "arxiv.org|2026-04-01|aware beyond detection metadata multimodal policy scam videos",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "usefulness_category": "Product idea / data source"
+    },
     "big tech big cons scammers hiding apps make your life easy": {
       "article_type": "Investigative report",
       "normalised_title": "big tech big cons scammers hiding apps make your life easy",
@@ -4810,6 +4878,18 @@
       "sent_at": "2026-05-29T02:28:21+00:00",
       "source_domain": "reuters.com",
       "title": "cambodia charges investigative journalist mech dara who exposed trafficking scam compounds incitement",
+      "usefulness_category": "Operational intelligence"
+    },
+    "cambodia claims wiped out online scam compounds sweeping crackdown": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia claims wiped out online scam compounds after sweeping crackdown",
+      "normalized_title_fingerprint": "cambodia claims wiped out online scam compounds sweeping crackdown",
+      "parsed_date": "2026-08-28",
+      "raw_title": "Cambodia claims it has wiped out online scam compounds after a sweeping crackdown - AP News",
+      "same_story_key": "apnews.com|2026-08-28|ae52ba73f813548d8a0cd9f81cd4469a cambodia claims compounds crackdown cybercrime online out",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "apnews.com",
+      "title": "cambodia claims wiped out online scam compounds after sweeping crackdown",
       "usefulness_category": "Operational intelligence"
     },
     "cambodia says 310 000 suspected scammers left country amid crackdown": {
@@ -6144,6 +6224,18 @@
       "title": "methodology ap \u2018frontline\u2019 investigation us tech abused global scams",
       "usefulness_category": "Scam development"
     },
+    "microsoft teams become haven scammers china": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "microsoft teams become haven scammers china",
+      "normalized_title_fingerprint": "microsoft teams become haven scammers china",
+      "parsed_date": "2026-08-28",
+      "raw_title": "Microsoft Teams Has Become a Haven for Scammers in China - WIRED",
+      "same_story_key": "wired.com|2026-08-28|become becoming china chinese haven microsoft scammers teams",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "wired.com",
+      "title": "microsoft teams become haven scammers china",
+      "usefulness_category": "Platform policy / product change"
+    },
     "missing singaporean woman who unexpectedly left cambodia found safe": {
       "article_type": "Enforcement report",
       "normalised_title": "missing singaporean woman who unexpectedly left cambodia found safe",
@@ -7139,6 +7231,18 @@
       "source_domain": "arxiv.org",
       "title": "stand alone complex vibercrime exploring adoption innovation genai tools coding assistants agents within cybercrime ecosystems",
       "usefulness_category": "Scam development"
+    },
+    "state department imposes visa restrictions foreign cyber scammers": {
+      "article_type": "Investigative report",
+      "normalised_title": "state department imposes visa restrictions foreign cyber scammers",
+      "normalized_title_fingerprint": "state department imposes visa restrictions foreign cyber scammers",
+      "parsed_date": "2026-07-23",
+      "raw_title": "State Department imposes visa restrictions on foreign cyber scammers - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-07-23|cyber department foreign imposes restrictions scammers state visa",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "state department imposes visa restrictions foreign cyber scammers",
+      "usefulness_category": "Operational intelligence"
     },
     "state department trump raised cyber scam compound issue xi": {
       "article_type": "Investigative report",
@@ -9938,6 +10042,18 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1peTNNbTZSYVNKczNUaUhLaWloMTc4MEg1eUFmdV9RMlRlLVVBX1VEMFdPajgtTTNLbG50ZVlOM3ZNZFE1T05v?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "5f49f5af086def86c036ba620cc8fc7e532fdf0757091029b6e9084d4559cf13": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia claims wiped out online scam compounds after sweeping crackdown",
+      "normalized_title_fingerprint": "cambodia claims wiped out online scam compounds sweeping crackdown",
+      "parsed_date": "2026-08-28",
+      "same_story_key": "apnews.com|2026-08-28|ae52ba73f813548d8a0cd9f81cd4469a cambodia claims compounds crackdown cybercrime online out",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "apnews.com",
+      "title": "Cambodia claims it has wiped out online scam compounds after a sweeping crackdown - AP News",
+      "url": "https://apnews.com/article/cambodia-online-scam-compounds-cybercrime-ae52ba73f813548d8a0cd9f81cd4469a",
+      "usefulness_category": "Operational intelligence"
+    },
     "5f5a48b07f87dda17d0f2f503bcda6f0f10e7b35521e04d19b8de0b90c65e26e": {
       "article_type": "Technical article",
       "normalised_title": "nigeria arrests suspected raccoono365 phishing kit developer tip microsoft fbi",
@@ -10682,6 +10798,18 @@
       "url": "https://arxiv.org/html/2606.13757v2",
       "usefulness_category": "Research / novel method"
     },
+    "824a06610c996f30672af78b6a5a4d9fac923b56bd67f9003e5acf7787e6a8c3": {
+      "article_type": "Research paper",
+      "normalised_title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "normalized_title_fingerprint": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "parsed_date": "2026-04-01",
+      "same_story_key": "arxiv.org|2026-04-01|aware beyond detection metadata multimodal policy scam videos",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Beyond Metadata: Multimodal, Policy-Aware Detection of YouTube Scam Videos - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ROFNWbHhFQ2ZwVHFNYlQxa3FWV0JESUdTT1JCTzFZbUpTTTFadWNMV0lEN2pzYTBYQU5Fb0xCVTh6YUZ1NS1ZQ3ctUQ?oc=5",
+      "usefulness_category": "Product idea / data source"
+    },
     "82c0aaf4566c0b7dd161feb02425aa5aa1dfc62243bb556046438be46b4c11e0": {
       "article_type": "Research paper",
       "normalised_title": "phishdebate llm based multi agent framework phishing website detection",
@@ -11294,6 +11422,18 @@
       "url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
       "usefulness_category": "Scam development"
     },
+    "a4c1c3e98961cd587c863eded83f0b8c99d93c438d597df1607d4e0848e9f4f6": {
+      "article_type": "Policy / platform update",
+      "normalised_title": "microsoft teams become haven scammers china",
+      "normalized_title_fingerprint": "microsoft teams become haven scammers china",
+      "parsed_date": "2026-08-28",
+      "same_story_key": "wired.com|2026-08-28|become becoming china chinese haven microsoft scammers teams",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "wired.com",
+      "title": "Microsoft Teams Has Become a Haven for Scammers in China - WIRED",
+      "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
+      "usefulness_category": "Platform policy / product change"
+    },
     "a511f0ff9ec8d265cfb0fd30625c58dd29e3ff00b3c2f35595b7cc901258bbf7": {
       "article_type": "Investigative report",
       "normalised_title": "\u2018hello boss\u2019 inside chinese realtime deepfake software powering scams around world",
@@ -11473,6 +11613,18 @@
       "title": "\u2018A very good clone\u2019: news stories faked to lure victims to scam investment sites - The Guardian",
       "url": "https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media",
       "usefulness_category": "Scam development"
+    },
+    "addce9e6302153891c482193d59c102f2c10e4fc5be2eaa68b762d3fa01073f8": {
+      "article_type": "Research paper",
+      "normalised_title": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "normalized_title_fingerprint": "beyond metadata multimodal policy aware detection youtube scam videos",
+      "parsed_date": "2026-04-01",
+      "same_story_key": "arxiv.org|2026-04-01|aware beyond detection metadata multimodal policy scam videos",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Beyond Metadata: Multimodal, Policy-Aware Detection of YouTube Scam Videos - arXiv",
+      "url": "https://arxiv.org/html/2509.23418v2",
+      "usefulness_category": "Product idea / data source"
     },
     "b12b9ebdfe114ffd85aef96a73727f252cfbcc62636a897bf67dd9d01f1db1f7": {
       "article_type": "Investigative report",
@@ -12252,6 +12404,18 @@
       "source_domain": "graphika.com",
       "title": "Umbrae Ex Machina - Graphika",
       "url": "https://www.graphika.com/reports/umbrae-ex-machina",
+      "usefulness_category": "Operational intelligence"
+    },
+    "d64d9bc84f15a1be0dd973fe0a976f454d9eec2813988f63b4c3fd3bd8c3f437": {
+      "article_type": "Investigative report",
+      "normalised_title": "state department imposes visa restrictions foreign cyber scammers",
+      "normalized_title_fingerprint": "state department imposes visa restrictions foreign cyber scammers",
+      "parsed_date": "2026-07-23",
+      "same_story_key": "therecord.media|2026-07-23|cyber department foreign imposes restrictions scammers state visa",
+      "sent_at": "2026-08-30T05:20:21+00:00",
+      "source_domain": "therecord.media",
+      "title": "State Department imposes visa restrictions on foreign cyber scammers - The Record from Recorded Future News",
+      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
       "usefulness_category": "Operational intelligence"
     },
     "d6b73886fabf4e53e191941068a0867e3283d8790fa105df2ba0c20fdd24ab2e": {
