@@ -1764,6 +1764,20 @@
       "url": "https://arxiv.org/html/2602.12650v1",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-08-20|deep defence detection networks neural phish phishing recurrent": {
+      "article_type": "Research paper",
+      "normalised_title": "phish defence phishing detection using deep recurrent neural networks",
+      "normalized_title_fingerprint": "phish defence phishing detection deep recurrent neural networks",
+      "original_url": "https://arxiv.org/html/2110.13424v4",
+      "parsed_date": "2026-08-20",
+      "raw_title": "Phish-Defence: Phishing Detection Using Deep Recurrent Neural Networks",
+      "same_story_key": "arxiv.org|2026-08-20|deep defence detection networks neural phish phishing recurrent",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phish defence phishing detection using deep recurrent neural networks",
+      "url": "https://arxiv.org/html/2110.13424v4",
+      "usefulness_category": "Product idea / data source"
+    },
     "arxiv.org|2026-08-21|analysis avaddon decryption depth infected ransomware": {
       "article_type": "Research paper",
       "normalised_title": "avaddon ransomware depth analysis decryption infected systems",
@@ -2996,6 +3010,20 @@
       "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606300901PR_NEWS_USPRX____LA95059-1",
       "usefulness_category": "Platform policy / product change"
     },
+    "nature.com|2026-03-27|analysis based cold conversations dynamics framework linguistic multi": {
+      "article_type": "Technical article",
+      "normalised_title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "normalized_title_fingerprint": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "original_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HQ1NFNmp5elJudlBTQk5BUk12cEpMb1VCVXlickp3RXpkYnhjSHZnLXdWWWpoTGpEZXk0bGFXZlo2cnVKcWxpQVRpWjh2TG1lbVJ2WFFvakFjcENta2w0?oc=5",
+      "parsed_date": "2026-03-27",
+      "raw_title": "Linguistic dynamics of online scam conversations: a multi-stage analysis based on the COLD framework",
+      "same_story_key": "nature.com|2026-03-27|analysis based cold conversations dynamics framework linguistic multi",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "nature.com",
+      "title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "url": "https://www.nature.com/articles/s41599-026-07052-y",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "ndss-symposium.org|2025-02-24|attacks aware context create data language large media": {
       "article_type": "Research paper",
       "normalised_title": "poster utilizing large language models create context aware spear phishing attacks using social media data",
@@ -3037,6 +3065,20 @@
       "title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
       "url": "https://www.ndss-symposium.org/wp-content/uploads/s2522-pang-slides.pdf",
       "usefulness_category": "Product idea / data source"
+    },
+    "news.tvb.com|2026-08-10|2nd disguising fraudsters fraudstersdisguisingaslawyerspullingvictiminto2ndscam lawyers pulling scam victim": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "normalized_title_fingerprint": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "original_url": "https://news.tvb.com/tc/1188232-Fraudstersdisguisingaslawyerspullingvictiminto2ndscam",
+      "parsed_date": "2026-08-10",
+      "raw_title": "Fraudsters disguising as lawyers pulling victim into 2nd scam",
+      "same_story_key": "news.tvb.com|2026-08-10|2nd disguising fraudsters fraudstersdisguisingaslawyerspullingvictiminto2ndscam lawyers pulling scam victim",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "url": "https://news.tvb.com/tc/1188232-Fraudstersdisguisingaslawyerspullingvictiminto2ndscam",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "papers.ssrn.com|2026-02-09|analytical decision engineering framework making papers social uncertainty": {
       "article_type": "Research paper",
@@ -5696,6 +5738,18 @@
       "title": "fraudsmswalker benchmarking agentic large language models sms webpage fraud detection",
       "usefulness_category": "Product idea / data source"
     },
+    "fraudsters disguising lawyers pulling victim 2nd scam": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "normalized_title_fingerprint": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "parsed_date": "2026-08-10",
+      "raw_title": "Fraudsters disguising as lawyers pulling victim into 2nd scam",
+      "same_story_key": "news.tvb.com|2026-08-10|2nd disguising fraudsters fraudstersdisguisingaslawyerspullingvictiminto2ndscam lawyers pulling scam victim",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "fundamental limits fraud detection card payment networks": {
       "article_type": "Research paper",
       "normalised_title": "fundamental limits fraud detection card payment networks",
@@ -6054,6 +6108,18 @@
       "sent_at": "2026-08-24T01:56:39+00:00",
       "source_domain": "rescana.com",
       "title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "linguistic dynamics online scam conversations multi stage analysis based cold framework": {
+      "article_type": "Technical article",
+      "normalised_title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "normalized_title_fingerprint": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "parsed_date": "2026-03-27",
+      "raw_title": "Linguistic dynamics of online scam conversations: a multi-stage analysis based on the COLD framework",
+      "same_story_key": "nature.com|2026-03-27|analysis based cold conversations dynamics framework linguistic multi",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "nature.com",
+      "title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
     "livestream replay inside world online romance scams": {
@@ -6535,6 +6601,18 @@
       "source_domain": "abc.net.au",
       "title": "perfect dupes abc articles fuelling industrial scale scam",
       "usefulness_category": "Scam development"
+    },
+    "phish defence phishing detection deep recurrent neural networks": {
+      "article_type": "Research paper",
+      "normalised_title": "phish defence phishing detection using deep recurrent neural networks",
+      "normalized_title_fingerprint": "phish defence phishing detection deep recurrent neural networks",
+      "parsed_date": "2026-08-20",
+      "raw_title": "Phish-Defence: Phishing Detection Using Deep Recurrent Neural Networks",
+      "same_story_key": "arxiv.org|2026-08-20|deep defence detection networks neural phish phishing recurrent",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phish defence phishing detection using deep recurrent neural networks",
+      "usefulness_category": "Product idea / data source"
     },
     "phishark2026 multi layer active web raw evidence dataset phishing website research": {
       "article_type": "Research paper",
@@ -8626,6 +8704,18 @@
       "url": "https://arxiv.org/html/2607.11707v1",
       "usefulness_category": "Product idea / data source"
     },
+    "190769bb877fc3c6fe04100e6c23c41fee814a8201e8dd72b6026dcb2ea983ce": {
+      "article_type": "Technical article",
+      "normalised_title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "normalized_title_fingerprint": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "parsed_date": "2026-03-27",
+      "same_story_key": "nature.com|2026-03-27|analysis based cold conversations dynamics framework linguistic multi",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "nature.com",
+      "title": "Linguistic dynamics of online scam conversations: a multi-stage analysis based on the COLD framework",
+      "url": "https://www.nature.com/articles/s41599-026-07052-y",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "19742f6b4081e40db13639f662a0ad0b36ec876fe37b442b82cbcdf845141b9d": {
       "article_type": "Enforcement report",
       "normalised_title": "chelmsford fraudster who stole gift aid worth \u00a3700k jailed",
@@ -9502,6 +9592,18 @@
       "url": "https://www.abc.net.au/news/2026-06-06/chinese-police-scam-banks-savings-scammers-fake-documents/106731990",
       "usefulness_category": "Scam development"
     },
+    "4411bb1fdd4bf5bba871151a8f609142f6ab66b2aa7c1b04ac537854fc03a72e": {
+      "article_type": "Enforcement report",
+      "normalised_title": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "normalized_title_fingerprint": "fraudsters disguising lawyers pulling victim 2nd scam",
+      "parsed_date": "2026-08-10",
+      "same_story_key": "news.tvb.com|2026-08-10|2nd disguising fraudsters fraudstersdisguisingaslawyerspullingvictiminto2ndscam lawyers pulling scam victim",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "Fraudsters disguising as lawyers pulling victim into 2nd scam",
+      "url": "https://news.tvb.com/tc/1188232-Fraudstersdisguisingaslawyerspullingvictiminto2ndscam",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "4468d70c49d66785175e2d4eefd2eda579656523875d44c1b1b1bcc845ecbbac": {
       "article_type": "Research paper",
       "normalised_title": "ethereum phishing scam detection via multi view contrastive learning higher order networks",
@@ -9825,6 +9927,18 @@
       "title": "DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound - WIRED",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPazhYVllVMkRsZmpjejY5VWhWak55V19waHZMSDl4enVacmN6Rzk0RlNFQVlLeEw3Y3JndWJMMWhXSEZWSEVpbnZnS3VtNlVCQnFUTE96b1N5UjFnTGFsMndHUkNKdFhwNUZKaDJ0cmtVOU1aTXJXdWZTTlFoRnJSVXdCS2FnNGQ2d0xTcFh2LVpwclNobGEtbFNHVi11b2RVbUg5bW5VeXluaHFfemFZMTVZVWRnV1FnNnlGY2J3VVA?oc=5",
       "usefulness_category": "Operational intelligence"
+    },
+    "52d228e848935338e31ac91371d11e88232a900b18e33308161500ed43709e82": {
+      "article_type": "Research paper",
+      "normalised_title": "phish defence phishing detection using deep recurrent neural networks",
+      "normalized_title_fingerprint": "phish defence phishing detection deep recurrent neural networks",
+      "parsed_date": "2026-08-20",
+      "same_story_key": "arxiv.org|2026-08-20|deep defence detection networks neural phish phishing recurrent",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Phish-Defence: Phishing Detection Using Deep Recurrent Neural Networks",
+      "url": "https://arxiv.org/html/2110.13424v4",
+      "usefulness_category": "Product idea / data source"
     },
     "52d95bbdb341cefb2a6aefadf944449136100d9913763e7fba113d4c414a073b": {
       "article_type": "Investigative report",
@@ -10845,6 +10959,18 @@
       "title": "\u201cMy Parents\u2019 Expectations Were Overwhelming\u201d: Online Dating Romance Scams Targeting Minors in Iran Through Exploitation of Parental Pressure | Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems - ACM Digital Library",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VckRrV2hqd3NCek80TlFHR1UwUGdzcDZpNUFzb284WVlXTWgxYUdkLUNSeGd6Z0R2WDJWSkZjMkROaXhqY1JZZHBVdkRZQklDUnh4NHJHRmQ0Zw?oc=5",
       "usefulness_category": "Product idea / data source"
+    },
+    "8349f926da40d6f9f719157d9b510d7900d8900e5afcbb9e7491f1fa9dacbfe9": {
+      "article_type": "Technical article",
+      "normalised_title": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "normalized_title_fingerprint": "linguistic dynamics online scam conversations multi stage analysis based cold framework",
+      "parsed_date": "2026-03-27",
+      "same_story_key": "nature.com|2026-03-27|analysis based cold conversations dynamics framework linguistic multi",
+      "sent_at": "2026-08-31T05:28:06+00:00",
+      "source_domain": "nature.com",
+      "title": "Linguistic dynamics of online scam conversations: a multi-stage analysis based on the COLD framework",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HQ1NFNmp5elJudlBTQk5BUk12cEpMb1VCVXlickp3RXpkYnhjSHZnLXdWWWpoTGpEZXk0bGFXZlo2cnVKcWxpQVRpWjh2TG1lbVJ2WFFvakFjcENta2w0?oc=5",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "838d9f2d9ff818e98400178e1c3ea7921e57f04203432155ca709e48985f1c4a": {
       "article_type": "Research paper",
