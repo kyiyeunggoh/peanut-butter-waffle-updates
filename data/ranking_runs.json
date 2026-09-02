@@ -5,31 +5,6 @@
         "News report": 2
       },
       "candidate_cache_age_minutes": null,
-      "candidate_count": 13,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 3,
-        "current_affairs": 10
-      },
-      "shortlist_count": 4,
-      "source_domain_distribution": {
-        "abc.net.au": 1,
-        "bbc.com": 1,
-        "theguardian.com": 2
-      },
-      "timestamp": "2026-07-06T04:38:38+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 1,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
-        "News report": 2
-      },
-      "candidate_cache_age_minutes": null,
       "candidate_count": 14,
       "failed_constraints": [],
       "final_mix_constraints_satisfied": true,
@@ -1408,6 +1383,42 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 2,
         "Research / novel method": 2
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 39,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 3,
+        "psychology": 36
+      },
+      "shortlist_count": 15,
+      "source_domain_distribution": {
+        "arxiv.org": 1,
+        "asaaseradio.com": 1,
+        "bbc.co.uk": 1,
+        "dailydemocrat.com": 1,
+        "dl.acm.org": 4,
+        "en.tempo.co": 2,
+        "frontiersin.org": 1,
+        "nzherald.co.nz": 1,
+        "straitstimes.com": 1,
+        "tovima.com": 1,
+        "wionews.com": 1
+      },
+      "timestamp": "2026-09-02T04:25:37+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Research / novel method": 2,
+        "Scam development": 1
       }
     }
   ]

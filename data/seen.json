@@ -1834,6 +1834,20 @@
       "url": "https://arxiv.org/html/2608.23199",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-08-24|chatgpt detecting phishing sites": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting phishing sites using chatgpt",
+      "normalized_title_fingerprint": "detecting phishing sites chatgpt",
+      "original_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRaUJfTF9BMHhwN1N0UWtqVzl5b0JxaUJXdjl5VFVkQjdUejY1MlpOQ3AwS0RQeEZWUE5WblFjeFZmdHVQaE5fRk9lOA?oc=5",
+      "parsed_date": "2026-08-24",
+      "raw_title": "Detecting Phishing Sites Using ChatGPT - arXiv",
+      "same_story_key": "arxiv.org|2026-08-24|chatgpt detecting phishing sites",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "detecting phishing sites using chatgpt",
+      "url": "https://arxiv.org/html/2306.05816v3",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-08-24|collaborative dialog end non system trainable": {
       "article_type": "Research paper",
       "normalised_title": "end end trainable non collaborative dialog system",
@@ -1972,6 +1986,20 @@
       "source_domain": "bbc.co.uk",
       "title": "police stop scam victim selling home wed actor jay harrington",
       "url": "https://www.bbc.co.uk/news/articles/clyx0yxy8kxo",
+      "usefulness_category": "Scam development"
+    },
+    "bbc.co.uk|2026-04-19|back but cj60pl5g4z4o fighting grown have more people": {
+      "article_type": "News report",
+      "normalised_title": "scams have grown more sophisticated but people fighting back",
+      "normalized_title_fingerprint": "scam have grown more sophisticated but people fighting back",
+      "original_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QenpyQ09mc3RDd0Q3S1NlVzNvWC15aGN6eVY3VEZjWmFQbGNQRnFURzN0bFhja1djLXYxRnl1Q3hYekVNX1lMSmt1WDVfUk1qR1BRd3ZkQmw2a2xj?oc=5",
+      "parsed_date": "2026-04-19",
+      "raw_title": "Scams have grown more sophisticated, but people are fighting back - BBC",
+      "same_story_key": "bbc.co.uk|2026-04-19|back but cj60pl5g4z4o fighting grown have more people",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "bbc.co.uk",
+      "title": "scams have grown more sophisticated but people fighting back",
+      "url": "https://www.bbc.co.uk/news/articles/cj60pl5g4z4o",
       "usefulness_category": "Scam development"
     },
     "bbc.co.uk|2026-06-23|aid ce8j6xrk24xo chelmsford fraudster gift jailed stole who": {
@@ -2674,6 +2702,20 @@
       "url": "https://dl.acm.org/doi/10.1145/3772318.3791313",
       "usefulness_category": "Product idea / data source"
     },
+    "dl.acm.org|2026-05-31|era industrialization llm messaging scam": {
+      "article_type": "Research paper",
+      "normalised_title": "industrialization messaging scams llm era",
+      "normalized_title_fingerprint": "industrialization messaging scam llm era",
+      "original_url": "https://dl.acm.org/doi/10.1145/3803629.3803676",
+      "parsed_date": "2026-05-31",
+      "raw_title": "The Industrialization of Messaging Scams in the LLM Era - ACM Digital Library",
+      "same_story_key": "dl.acm.org|2026-05-31|era industrialization llm messaging scam",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "dl.acm.org",
+      "title": "industrialization messaging scams llm era",
+      "url": "https://dl.acm.org/doi/10.1145/3803629.3803676",
+      "usefulness_category": "Research / novel method"
+    },
     "dl.acm.org|2026-08-06|contrastive detection eswa ethereum higher learning multi networks": {
       "article_type": "Research paper",
       "normalised_title": "ethereum phishing scam detection via multi view contrastive learning higher order networks",
@@ -2687,6 +2729,20 @@
       "title": "ethereum phishing scam detection via multi view contrastive learning higher order networks",
       "url": "https://dl.acm.org/doi/10.1016/j.eswa.2026.132189",
       "usefulness_category": "Product idea / data source"
+    },
+    "en.tempo.co|2026-06-02|bust fbi major online police scam solo": {
+      "article_type": "Enforcement report",
+      "normalised_title": "police fbi bust major online scam hq solo",
+      "normalized_title_fingerprint": "police fbi bust major online scam hq solo",
+      "original_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9fcGlsWEtxVHhyQjZoTHRpdFAzaWFxNDJfOEh3NzlCV2t4T2ZZOEJkdlhXY09aZ2NVdjdULTNVUlNDbG5mMGZDMzdMMFV1azRpNzVzNG9Qcko2bTBhM2ZjRjBPTTQwVlVjVkVXMjM1V3ZmVXhPbHowY2JHeXAzUHpJQQ?oc=5",
+      "parsed_date": "2026-06-02",
+      "raw_title": "Police, FBI Bust Major Online Scam HQ in Solo - Tempo.co English",
+      "same_story_key": "en.tempo.co|2026-06-02|bust fbi major online police scam solo",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "en.tempo.co",
+      "title": "police fbi bust major online scam hq solo",
+      "url": "https://en.tempo.co/read/2106408/police-fbi-bust-major-online-scam-hq-in-solo",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "gbhackers.com|2026-08-18|apps asterix crypto fake operation phrases seed steal": {
       "article_type": "Policy / platform update",
@@ -5458,6 +5514,18 @@
       "title": "destruction notorious myanmar scam compound appears have been \u2018performative\u2019",
       "usefulness_category": "Operational intelligence"
     },
+    "detecting phishing sites chatgpt": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting phishing sites using chatgpt",
+      "normalized_title_fingerprint": "detecting phishing sites chatgpt",
+      "parsed_date": "2026-08-24",
+      "raw_title": "Detecting Phishing Sites Using ChatGPT - arXiv",
+      "same_story_key": "arxiv.org|2026-08-24|chatgpt detecting phishing sites",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "detecting phishing sites using chatgpt",
+      "usefulness_category": "Research / novel method"
+    },
     "detecting social engineering attacks using tinybert explainable ai techniques": {
       "article_type": "Research paper",
       "normalised_title": "detecting social engineering attacks using tinybert explainable ai techniques",
@@ -6069,6 +6137,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "indonesia malaysia\u2019s idea tighter visa rules counter foreign scammers may not \u2018a cure\u2019",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "industrialization messaging scam llm era": {
+      "article_type": "Research paper",
+      "normalised_title": "industrialization messaging scams llm era",
+      "normalized_title_fingerprint": "industrialization messaging scam llm era",
+      "parsed_date": "2026-05-31",
+      "raw_title": "The Industrialization of Messaging Scams in the LLM Era - ACM Digital Library",
+      "same_story_key": "dl.acm.org|2026-05-31|era industrialization llm messaging scam",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "dl.acm.org",
+      "title": "industrialization messaging scams llm era",
+      "usefulness_category": "Research / novel method"
     },
     "infographic holiday scams frauds unwrapped": {
       "article_type": "Deep analysis",
@@ -6814,6 +6894,18 @@
       "title": "podcast chinese deepfake software powering scams",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "police fbi bust major online scam hq solo": {
+      "article_type": "Enforcement report",
+      "normalised_title": "police fbi bust major online scam hq solo",
+      "normalized_title_fingerprint": "police fbi bust major online scam hq solo",
+      "parsed_date": "2026-06-02",
+      "raw_title": "Police, FBI Bust Major Online Scam HQ in Solo - Tempo.co English",
+      "same_story_key": "en.tempo.co|2026-06-02|bust fbi major online police scam solo",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "en.tempo.co",
+      "title": "police fbi bust major online scam hq solo",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "police stop scam victim selling home wed actor jay harrington": {
       "article_type": "Enforcement report",
       "normalised_title": "police stop scam victim selling home wed actor jay harrington",
@@ -7017,6 +7109,18 @@
       "source_domain": "abc.net.au",
       "title": "scam compounds australia s doorstep uncovered",
       "usefulness_category": "Operational intelligence"
+    },
+    "scam have grown more sophisticated but people fighting back": {
+      "article_type": "News report",
+      "normalised_title": "scams have grown more sophisticated but people fighting back",
+      "normalized_title_fingerprint": "scam have grown more sophisticated but people fighting back",
+      "parsed_date": "2026-04-19",
+      "raw_title": "Scams have grown more sophisticated, but people are fighting back - BBC",
+      "same_story_key": "bbc.co.uk|2026-04-19|back but cj60pl5g4z4o fighting grown have more people",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "bbc.co.uk",
+      "title": "scams have grown more sophisticated but people fighting back",
+      "usefulness_category": "Scam development"
     },
     "scam victims could entitled 3 000 cashback abc news headlines": {
       "article_type": "News report",
@@ -8676,6 +8780,18 @@
       "url": "https://dl.acm.org/doi/abs/10.1145/3719027.3760708",
       "usefulness_category": "Research / novel method"
     },
+    "123502e3d65ffcdb092f4977272b5c1f7af7246cecef71a64d5a71e67df6855f": {
+      "article_type": "Enforcement report",
+      "normalised_title": "police fbi bust major online scam hq solo",
+      "normalized_title_fingerprint": "police fbi bust major online scam hq solo",
+      "parsed_date": "2026-06-02",
+      "same_story_key": "en.tempo.co|2026-06-02|bust fbi major online police scam solo",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "en.tempo.co",
+      "title": "Police, FBI Bust Major Online Scam HQ in Solo - Tempo.co English",
+      "url": "https://en.tempo.co/read/2106408/police-fbi-bust-major-online-scam-hq-in-solo",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "124efe3e4731191e33b105630da3d848625e93a2fa1581fd5999e16b448662e5": {
       "article_type": "Research paper",
       "normalised_title": "\u201ci strongly suspect website scam\u201d benchmarking pii leakage detection without defense autonomous web agents",
@@ -8926,6 +9042,18 @@
       "source_domain": "arxiv.org",
       "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BcHRwZlBoZmtwaVM0eEQzMWtHejVRbDg2bXR5RkVtamRmSm53MmR2OXFWcXRpNTR6U0RUSUhDbUVPVVRFZ2x3?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
+    "203a2d838af7475d495aa7cdddfb7bdbf4842c1b3689e7174b93ad0536791ac3": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting phishing sites using chatgpt",
+      "normalized_title_fingerprint": "detecting phishing sites chatgpt",
+      "parsed_date": "2026-08-24",
+      "same_story_key": "arxiv.org|2026-08-24|chatgpt detecting phishing sites",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Detecting Phishing Sites Using ChatGPT - arXiv",
+      "url": "https://arxiv.org/html/2306.05816v3",
       "usefulness_category": "Research / novel method"
     },
     "20d57bfc1fcf6964e43a1990853f83c5d19be32287aea27899cefaa3eb6a94fa": {
@@ -9828,6 +9956,18 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHJqNjlsU3p1cjR1YmEzWjBjTkotLXl3OTR0QzI3M0N0MGd5NUdueTlzdzVuaXlESjBkTW5NYkNDVHUwWl9BTFlvQ3pJWmlUejhUTmxnWllOMEpZdUl2eElsRUZkN2hma3RxMGRoNjlmTnYzcnl3aXNVd1dIV3dvOTRBb3ZLT012RS16YXNoZF9XV00tbmpOZXdiZkhDeUFsY240V1poY3J2bnlYSWZLb08wWVJkUjctSDFLZg?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "487e89a59191fc07b293df275c7caaed9fd50ff29d01d227e4eebd3a49a8a01f": {
+      "article_type": "Enforcement report",
+      "normalised_title": "police fbi bust major online scam hq solo",
+      "normalized_title_fingerprint": "police fbi bust major online scam hq solo",
+      "parsed_date": "2026-06-02",
+      "same_story_key": "en.tempo.co|2026-06-02|bust fbi major online police scam solo",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "en.tempo.co",
+      "title": "Police, FBI Bust Major Online Scam HQ in Solo - Tempo.co English",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRV9fcGlsWEtxVHhyQjZoTHRpdFAzaWFxNDJfOEh3NzlCV2t4T2ZZOEJkdlhXY09aZ2NVdjdULTNVUlNDbG5mMGZDMzdMMFV1azRpNzVzNG9Qcko2bTBhM2ZjRjBPTTQwVlVjVkVXMjM1V3ZmVXhPbHowY2JHeXAzUHpJQQ?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "48d352742a4c34cf72c8b74efc16067856b88e01dbf1fbc3e79173b62b3c9039": {
       "article_type": "Enforcement report",
       "normalised_title": "police stop scam victim selling home wed actor jay harrington",
@@ -10044,6 +10184,18 @@
       "url": "https://www.404media.co/the-sim-farm-hardware-seized-by-the-secret-service-is-also-popular-with-ticket-scalpers/",
       "usefulness_category": "Scam development"
     },
+    "524d8f1d878dc28375a2d7d750c62a3ce9468e7d3c81c548d46df7d292df3c0b": {
+      "article_type": "News report",
+      "normalised_title": "scams have grown more sophisticated but people fighting back",
+      "normalized_title_fingerprint": "scam have grown more sophisticated but people fighting back",
+      "parsed_date": "2026-04-19",
+      "same_story_key": "bbc.co.uk|2026-04-19|back but cj60pl5g4z4o fighting grown have more people",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "bbc.co.uk",
+      "title": "Scams have grown more sophisticated, but people are fighting back - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QenpyQ09mc3RDd0Q3S1NlVzNvWC15aGN6eVY3VEZjWmFQbGNQRnFURzN0bFhja1djLXYxRnl1Q3hYekVNX1lMSmt1WDVfUk1qR1BRd3ZkQmw2a2xj?oc=5",
+      "usefulness_category": "Scam development"
+    },
     "52bc093ef8dfc4221a2d4a4cc5fcf7a10848f813c749931d6e13c6ad573e2cfa": {
       "article_type": "Investigative report",
       "normalised_title": "doj issued seizure warrant starlink over satellite internet systems used scam compound",
@@ -10163,6 +10315,18 @@
       "title": "[2606.13757] SEVRA-BENCH: Social Engineering of Vulnerabilities in Review Agents",
       "url": "https://arxiv.org/abs/2606.13757",
       "usefulness_category": "Research / novel method"
+    },
+    "58f9539383bc18803f5ffc9e379ab7dda9b6acf65f302f6c3882cc6381a461e3": {
+      "article_type": "News report",
+      "normalised_title": "scams have grown more sophisticated but people fighting back",
+      "normalized_title_fingerprint": "scam have grown more sophisticated but people fighting back",
+      "parsed_date": "2026-04-19",
+      "same_story_key": "bbc.co.uk|2026-04-19|back but cj60pl5g4z4o fighting grown have more people",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "bbc.co.uk",
+      "title": "Scams have grown more sophisticated, but people are fighting back - BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj60pl5g4z4o",
+      "usefulness_category": "Scam development"
     },
     "591238ca0e3e89820c79b3f86f1c757a74e4f07f1469082acba0938b652c6b8c": {
       "article_type": "Research paper",
@@ -10427,6 +10591,18 @@
       "title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
       "url": "https://arxiv.org/pdf/2602.02641",
       "usefulness_category": "Product idea / data source"
+    },
+    "650af6ac5bb4dfe14b7d26e7f3d0b9775b70bc121b9ce5ec346e1750d3b92def": {
+      "article_type": "Research paper",
+      "normalised_title": "detecting phishing sites using chatgpt",
+      "normalized_title_fingerprint": "detecting phishing sites chatgpt",
+      "parsed_date": "2026-08-24",
+      "same_story_key": "arxiv.org|2026-08-24|chatgpt detecting phishing sites",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Detecting Phishing Sites Using ChatGPT - arXiv",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRaUJfTF9BMHhwN1N0UWtqVzl5b0JxaUJXdjl5VFVkQjdUejY1MlpOQ3AwS0RQeEZWUE5WblFjeFZmdHVQaE5fRk9lOA?oc=5",
+      "usefulness_category": "Research / novel method"
     },
     "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
       "article_type": "Investigative report",
@@ -11231,6 +11407,18 @@
       "title": "Malaysia police bust two scam centres in Forest City; at least 194 foreigners to be charged - The Straits Times",
       "url": "https://www.straitstimes.com/asia/se-asia/malaysia-police-bust-two-scam-centres-in-forest-city-at-least-194-foreigners-to-be-charged",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "8a3450ecaa9754122b815598e89561e20563dd08780a6438f96c509fa640538f": {
+      "article_type": "Research paper",
+      "normalised_title": "industrialization messaging scams llm era",
+      "normalized_title_fingerprint": "industrialization messaging scam llm era",
+      "parsed_date": "2026-05-31",
+      "same_story_key": "dl.acm.org|2026-05-31|era industrialization llm messaging scam",
+      "sent_at": "2026-09-02T04:25:37+00:00",
+      "source_domain": "dl.acm.org",
+      "title": "The Industrialization of Messaging Scams in the LLM Era - ACM Digital Library",
+      "url": "https://dl.acm.org/doi/10.1145/3803629.3803676",
+      "usefulness_category": "Research / novel method"
     },
     "8ba5f9857252436ccfe5cd7d919583cf9a3c78e3bd24420a9ed366276fff3f6c": {
       "article_type": "Research paper",
