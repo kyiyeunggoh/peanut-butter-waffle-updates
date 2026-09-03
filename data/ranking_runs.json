@@ -10,30 +10,6 @@
       "final_mix_constraints_satisfied": true,
       "query_group_distribution": {
         "academic": 3,
-        "current_affairs": 11
-      },
-      "shortlist_count": 3,
-      "source_domain_distribution": {
-        "abc.net.au": 1,
-        "thediplomat.com": 1,
-        "theguardian.com": 1
-      },
-      "timestamp": "2026-07-07T04:16:56+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Scam development": 2
-      }
-    },
-    {
-      "article_type_distribution": {
-        "News report": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 14,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 3,
         "current_affairs": 10,
         "investigative": 1
       },
@@ -1419,6 +1395,43 @@
         "Local Singapore / Southeast Asia relevance": 1,
         "Research / novel method": 2,
         "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 1,
+        "Technical article": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 40,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 3,
+        "current_affairs": 1,
+        "psychology": 36
+      },
+      "shortlist_count": 13,
+      "source_domain_distribution": {
+        "apnews.com": 1,
+        "arxiv.org": 1,
+        "dailydemocrat.com": 1,
+        "dl.acm.org": 3,
+        "gulftoday.ae": 1,
+        "hellorayo.co.uk": 1,
+        "nzherald.co.nz": 1,
+        "straitstimes.com": 2,
+        "themorning.lk": 1,
+        "wionews.com": 1
+      },
+      "timestamp": "2026-09-03T04:20:08+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Research / novel method": 1,
+        "Scam development": 2,
+        "Technical abuse / vulnerability": 1
       }
     }
   ]
