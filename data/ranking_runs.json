@@ -2,31 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "News report": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 14,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 3,
-        "current_affairs": 10,
-        "investigative": 1
-      },
-      "shortlist_count": 4,
-      "source_domain_distribution": {
-        "abc.net.au": 2,
-        "channelnewsasia.com": 1,
-        "thediplomat.com": 1
-      },
-      "timestamp": "2026-07-08T03:42:41+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Scam development": 2
-      }
-    },
-    {
-      "article_type_distribution": {
         "Enforcement report": 1,
         "Policy / platform update": 1
       },
@@ -1432,6 +1407,40 @@
         "Research / novel method": 1,
         "Scam development": 2,
         "Technical abuse / vulnerability": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 38,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 3,
+        "psychology": 35
+      },
+      "shortlist_count": 14,
+      "source_domain_distribution": {
+        "arxiv.org": 1,
+        "asaaseradio.com": 1,
+        "cybersecurity-insiders.com": 1,
+        "dl.acm.org": 3,
+        "goodyfeed.com": 1,
+        "loveballymena.online": 1,
+        "news.tuoitre.vn": 1,
+        "nzherald.co.nz": 1,
+        "securitybrief.co.uk": 1,
+        "straitstimes.com": 2,
+        "tovima.com": 1
+      },
+      "timestamp": "2026-09-04T04:26:33+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Product idea / data source": 1,
+        "Research / novel method": 1
       }
     }
   ]
