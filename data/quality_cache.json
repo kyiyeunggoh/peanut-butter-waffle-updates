@@ -4654,7 +4654,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Two men have been charged with obtaining by deception and were due to appear in Rotorua District Court today. Photo / Andrew Warner Two men have been arrested and charged after a vulnerable Bay of Plenty man was allegedly defrauded of a significant amount of money in an elaborate scam. According to police, the victim was manipulated into withdrawing cash from his bank account and handing it over to the alleged offenders. Detective Senior Sergeant Mark Van Kempen said scammers were often highly convincing and tended to target people when they were vulnerable or feeling pressured. A police investigation identified those allegedly responsible and led to a targeted operation, which resulted in the arrest of two men. They have been charged with obtaining by deception and were due to appear in Rotorua District Court today. They potentially face further charges. \u201cThis was a thorough investigation that enabled us to identify those we believe were responsible and hold them to account,\u201d Van Kempen said. The investigation is ongoing, and police are using the case as a reminder that scams can happen to anyone. Van Kempen said scams were increasingly common and were not always obvious.",
     "cache_version": 10,
-    "checked_at": "2026-08-31T05:28:02+00:00",
+    "checked_at": "2026-09-08T04:30:10+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -4687,7 +4687,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 1228
+    "word_count": 1268
   },
   "1148e6f6f679210c8d51a946d1296681f0ec5f7b936ec9443f7d6d3c24b5855b": {
     "access_status": "available",
@@ -5580,6 +5580,30 @@
       "manipulation"
     ],
     "word_count": 1023
+  },
+  "135aae6611f6bf3ee898020f3d7c14792db2ceea91fdc194a67f4d669a008e26": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "I can't recommend them enough. They can be pricey, but never having to scoop poop again is priceless. We at WIRED\u2014well, our WIRED cats\u2014tested a dozen of the highest-rated and most technologically advanced automatic litter boxes on the market for at least a week, often more (using standard clay clumping litter unless otherwise indicated), to see if they were really worth the money\u2014or the hype. Our new favorite automatic litter box is the Purobot Max Pro 2 because of its compact design and camera for monitoring. The Litter-Robot 4 is a close second, mostly because of its LitterHopper attachment that easily refills litter for you. Plus, we still love the more basic Petkit PuraMax 2 (and think it's a great option for most people). Check out our related guides, like the Best Automatic Feeders , Best Cat Water Fountains , Best Pet Cameras , and Best Cat Toys . More of a dog person? We've got you covered; see our Best Dog Accessories . Updated September 2026: We've added the PetPivot AutoScooper 12 and Whisker Litter-Robot EVO, and updated links and prices throughout.",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 23478
   },
   "137cd0b51d7c42ff934e7b74e934506bcb4801e0b04adc03bb0b3afbc77c831c": {
     "access_status": "available",
@@ -12385,6 +12409,51 @@
     ],
     "word_count": 32464
   },
+  "2d6002ed40f648f4e3e45199dcf8e31b096f9d8762bf54cea0c5b1db75f813d7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models Zongrui Wang, Xiangyang Zhu, Sicheng Wang, Han Wang, Dingyi Rong, Zeyu Zhang, Chunyi Li, Yue Shi, Kaiwei Zhang, Zicheng Zhang, Yuan Tian, Qi Jia, Yan Teng, Wei Sun, Ning Liu, Guangtao Zhai Affiliation: Shanghai Jiao Tong University Shanghai Artificial Intelligence Laboratory East China Normal University Affiliation: Corresponding authors Project leader Abstract Multimodal safety moderation requires distinguishing risks arising from visual content, user intent, and assistant behavior. Existing safeguards, however, are typically trained for a single judgment target and reduce safety assessment to a binary decision. Consequently, risk becomes difficult to compare across a multimodal interaction, and ambiguous cases are obscured. We introduce SafeAtlas-VL , a dataset of 1.5M training instances that places image-, request-, and response-level judgments on a five-level ordered scale. We curate a broad collection of safety-relevant data from both real-world and synthetic sources and apply a disagreement-aware annotation procedure. The resulting dataset spans 15 harm categories and 55 fine-grained subcategories, covering a broad range of multimodal safety scenarios. We also construct SafeAtlas-Bench , a held-out set of 5,000 instances for evaluating...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 30886
+  },
   "2d7d0898bd5b359c1a0dee350a31d94d5f8bde76f8d3de08d8ce20e9106bb022": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -12408,6 +12477,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3115
+  },
+  "2dada365785ad77091203089dec73b5f2cea82c81a5fda045398106350dec9d1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity Sign up now: Get ST's newsletters delivered to your inbox The deal comes ahead of Firmus\u2019 rumoured initial public offering in 2026, which could be one of Australia\u2019s largest in recent years. PHOTO: REUTERS Published Sep 08, 2026, 10:35 AM Updated Sep 08, 2026, 10:45 AM Set as preferred source Listen Summarise Firmus signed a multi-year deal with OpenAI to supply computing capacity from two Malaysian data centres, making OpenAI an anchor customer amid rising AI infrastructure demand. Firmus, valued above US$10.5 billion and backed by Nvidia and others, now has contracted capacity exceeding 900 megawatts across customers. Malaysia's fast-growing data centre market supports Firmus' Asia-Pacific expansion with Nvidia\u2019s Vera Rubin processors, despite concerns over resource use in rapid data centre growth. AI generated SYDNEY \u2013 Australia\u2019s Firmus said on Sept 8 it had signed a multi-year deal with OpenAI to supply computing capacity from two Malaysian data centres, making the ChatGPT maker an anchor customer as demand surges for infrastructure to run advanced AI models. The deal comes ahead of Firmus\u2019 rumoured initial public offering in 2026, which could be one of Australia\u2019s largest in recent years. The AI infrastructure firm was valued at above US$10.5 billion (S$13.3 billion) in its last fund-raising...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1159
   },
   "2de74ca684529f2ed1cf4d32db493104b3bfc5e7f45bc5057838fd50c0cc1d96": {
     "access_status": "available",
@@ -12545,6 +12638,47 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 291
+  },
+  "2e7a261dbf427934804bc04a9883da0486e1015d1651a049e4765fead0a32396": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Engineered Persuasion: Evaluating Personalized Pretexts in LLM-Generated Spear Phishing Jerson Francia, Derek Hansen, Benjamin Schooley, and Shydra Valynn Murray Affiliation: Department of Electrical and Computer Engineering Brigham Young University Provo, UT 84602, USA jersno@byu.edu (J.F.); dlhansen@byu.edu (D.H.); ben_schooley@byu.edu (B.S.); shywilli@byu.edu (S.V.M.) Abstract Large language models can insert workplace details into phishing pretexts at low cost, but those details may either support or undermine a message\u2019s credibility. We recruited 180 U.S. working adults to evaluate simulated, AI-generated phishing emails in a disclosed survey. The emails used four cumulative levels of information: workplace (Level 1); recipient name and job title; job responsibilities; and coworker/shared-project context (Level 4). Participants rated each message\u2019s convincingness from 0 to 100, chose one stated action (open the link, investigate, delete, or report), and explained why their highest- and lowest-rated messages stood out. Across 1,436 valid evaluations, convincingness increased by 2.40 points per personalization level in a sensitivity analysis, while the odds of expressing click intention increased by 28% per level. Among participants who did not express an intention to click, investigation remained common, reporting...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 22628
   },
   "2ed2dcc625b3b90ffc282557662ab76484b58c0789fdb07189bd083595fee010": {
     "access_status": "available",
@@ -13910,6 +14044,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "33b1fadc9e73166c24aa0e32a742f472cc8851f21697c00f86bb2ce153315e93": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Vestra Assets Launches AI Family Law Forensic Analysis Service, Bringing Financial Transparency to Divorce Litigation Published Sep 08, 2026, 09:00 AM Vestra Assets Launches AI Family Law Forensic Analysis Service, Bringing Financial Transparency to Divorce Litigation The issuer is solely responsible for the content of this announcement. Press release Vestra Assets Launches AI Family Law Forensic Analysis Service, Bringing Financial Transparency to Divorce Litigation Published Sep 08, 2026, 09:00 AM Vestra Assets Launches AI Family Law Forensic Analysis Service, Bringing Financial Transparency to Divorce Litigation The issuer is solely responsible for the content of this announcement. Press release Vestra Assets Launches AI Family Law Forensic Analysis Service, Bringing Financial Transparency to Divorce Litigation Published Sep 08, 2026, 09:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 162
   },
   "33b7560f79793944d1e99c25bff9dde5062cff4dfbae0de23b2bd2662dc96a04": {
     "access_status": "available",
@@ -17174,6 +17332,30 @@
       "cybercrime"
     ],
     "word_count": 20768
+  },
+  "3e0b4d1a624a41ffde7fa77a20a779f9703ba7c4700ae6746ada0073d28ce7db": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "UN urges \u2018accountability\u2019 after 23 die in US immigration custody in 2026 Sign up now: Get ST's newsletters delivered to your inbox UN High Commissioner for Human Rights Volker Turk also urged Washington to halt deportations to places where people face \u201cirreparable harm\u201d, including Haiti. PHOTO: EPA Published Sep 07, 2026, 06:10 PM Updated Sep 07, 2026, 06:49 PM Set as preferred source Listen Summarise The UN rights chief reported 23 deaths in US immigration custody in 2026 and demanded accountability for these fatalities. The UN urged the US to stop deportations to dangerous locations like Haiti and to ensure due process for removals to third countries. Concerns were raised about ICE's plan to buy electric shock gloves, which may increase violence during enforcement operations. AI generated Geneva \u2013 The United Nations rights chief on Sept 7 demanded accountability for swelling numbers of deaths in US immigration custody, and urged Washington to halt deportations to places where people face \u201cirreparable harm\u201d. Speaking before the UN Human Rights Council, Volker Turk highlighted that \u201cfour more people have died in US immigration custody since my last update to this council\u201d in June. That meant there had been \u201ca total of 23 deaths in 2026 alone\u201d, he said, insisting that \u201cthere needs to be accountability for these deaths\u201d. US President Donald Trump has made combating illegal...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1517
   },
   "3e484268a5db19bde5f93169833ebdc9a1d78805b7c6be2961222e82da56b9b3": {
     "access_status": "available",
@@ -21022,6 +21204,32 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "4a6331fb73d6410ea1d676ea515fbc3befd4d41fd57abeef9c71fdc8fd997987": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "4a79c1eb30b10af387f5de89926c241a16c865c177d1e5491fc335d859437ff0": {
     "access_status": "available",
@@ -27366,6 +27574,30 @@
     ],
     "word_count": 0
   },
+  "623abd9f8aa92ca144b1b7419b48f5f9cabcce33ce1df9b441782f9dc8026807": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "New movement to get S\u2019poreans to read 15 minutes a day through tracking platform, virtual rewards Sign up now: Get ST's newsletters delivered to your inbox The ReadSG Challenge includes features such as personal goal-setting, reading streaks, experience points and redeemable virtual coins. ST PHOTO: KUA CHEE SIONG Syarafana Shafeeq Published Sep 06, 2026, 06:00 PM Updated Sep 07, 2026, 07:51 PM Set as preferred source Listen SINGAPORE \u2013 A new five-year national movement is encouraging Singaporeans to pick up a book for at least 15 minutes a day as part of efforts to strengthen the country\u2019s reading culture. They can track their daily reading time and earn virtual rewards as part of a challenge under the ReadSG movement launched by the National Library Board (NLB) on Sept 6. The ReadSG Challenge, which runs on government citizen engagement platform CrowdTask SG, includes features such as personal goal-setting, reading streaks, experience points and redeemable virtual coins. It is being piloted from Sept 6 to Dec 31, with new features and enhancements to be introduced based on feedback. Another initiative under ReadSG is Get It Now, which will make a popular title available to all Libby users on the first Friday of each month until March 2027 with no waiting time required. ReadSG\u2019s launch marks the start of National Reading Month, to be held every September with reading-related...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3230
+  },
   "6260d0b0253442d7ac71054091e020773d6bcbef22ac31057c86831b354ae474": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -28435,6 +28667,30 @@
       "trust"
     ],
     "word_count": 3748
+  },
+  "65cb42b929756927fe38a5d1d09a7af0bd1eab96f380d01ae51f2db08ab28aac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "There\u2019s really only one way to stop students from cheating with AI We need to address the issue at its root. Sign up now: Get ST's newsletters delivered to your inbox We need to get at the root of the problem by changing students\u2019 underlying motivations, says the writer. PHOTO: ADOBE STOCK Adam Grant Published Sep 01, 2026, 01:00 PM Updated Sep 01, 2026, 01:08 PM Set as preferred source Unlock audio The day before a take-home exam in my undergraduate course at Wharton, a few students sent me frantic messages that some of their peers were planning to use artificial intelligence to cheat. Having spent the semester trying to bring out the best in each of them, I was dismayed to discover the worst in them. It felt like a betrayal. When the 95 students logged in for the exam, however, they got a surprise. I had ditched the multiple-choice and short-answer questions I usually include. Instead, I asked the students to write an essay, using the principles of organisational psychology they had been studying, on how to motivate students to stop cheating. See more on Artificial Intelligence Universities - overseas Cheating Tertiary education Education and schools There\u2019s really only one way to stop students from cheating with AI We need to address the issue at its root. Sign up now: Get ST's newsletters delivered to your inbox We need to get at the root of the problem by changing...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 618
   },
   "65cd5f69b7e6a60b9bc69afcd01b086d56a685078236abf3517156330261d7be": {
     "access_status": "available",
@@ -35334,6 +35590,35 @@
     ],
     "word_count": 1352
   },
+  "7dcd83244518b6d7b77e674c600ee735661e037b0657b180b62457c9ef093e52": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Accountable Safety for Rollups Ertem Nusret Tas Note: Part of this work was done by the author as part of an internship at Celestia. Affiliation: Stanford University E-mail {nusret,dntse}@stanford.edu John Adler Affiliation: Celestia E-mail {john,mustafa,ismail}@celestia.org Mustafa Al-Bassam Affiliation: Celestia E-mail {john,mustafa,ismail}@celestia.org Ismail Khoffi Affiliation: Celestia E-mail {john,mustafa,ismail}@celestia.org David Tse Affiliation: Stanford University E-mail {nusret,dntse}@stanford.edu Nima Vaziri Affiliation: Polychain Capital E-mail nima@polychain.capital Abstract Accountability, the ability to provably identify protocol violators, gained prominence as the main economic argument for the security of proof-of-stake (PoS) protocols. Rollups, the most popular scaling solution for blockchains, typically use PoS protocols as their parent chain. We define accountability for rollups, and present an attack that shows the absence of accountability on existing designs. We provide an accountable rollup design and prove its security, both for the traditional \u2018enshrined\u2019 rollups and for sovereign rollups, an emergent alternative built on lazy blockchains, tasked only with ordering and availability of the rollup data. 1 Introduction \u201cMan is condemned to be free; because once thrown into the world, he is responsible...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 26323
+  },
   "7dda1ab70ac209a62abe9c4dc3d5d0590892519eeb781ee51097f84b60443066": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -35925,6 +36210,30 @@
       "fraud"
     ],
     "word_count": 13502
+  },
+  "7f5c8f34b4bdd75fcaaf308b86c1e3a4db86eb58001bf22a93c56bc7a7cd24d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Robots take to Warsaw streets to protest rampant AI Sign up now: Get ST's newsletters delivered to your inbox Robots, ranging from bipedal humanoids to dog-like quadripeds, are seen at a demonstration calling for AI regulation in front of the Polish digital affairs ministry in Warsaw on Sept 7, 2026. PHOTO: AFP Published Sep 08, 2026, 03:49 AM Updated Sep 08, 2026, 03:49 AM Set as preferred source WARSAW - Waving flags, \u201cchanting\u201d slogans, and marching in circles: around 30 robots took to the streets of Warsaw on Sept 7 to campaign for AI regulation in front of the Polish digital affairs ministry. The protest was organised by Democratism, an initiative that, according to its website, aims to launch debate \u201con how AI and robotisation affect the labour market\u201d. \u201cThe robots present here are meant to show that this technology is already a reality,\u201d Agibot A3, one of the AI-powered humanoid robots, told AFP. Chants of: \u201cDefend workplaces\u201d, \u201cTime for rules\u201d, and \u201cDon\u2019t wait, regulate\u201d played on loudspeakers as the robots \u2013 which ranged from bipedal humanoids to dog-like quadripeds \u2013 demonstrated. \u201cWe particularly want to address the issue of the potential replacement of people both by humanoid robots and by artificial intelligence in cognitive work,\u201d organiser Grzegorz Kulis told AFP. \u201cIf we don\u2019t react now, we may soon have a problem,\u201d he added, emphasising the need for \u201crules and...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1431
   },
   "7f60ddd5f5cb402630380182b23accd1d0a74f2297911402884e8b9b0a8ddd2a": {
     "access_status": "available",
@@ -43774,7 +44083,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 10,
-    "checked_at": "2026-08-30T05:20:17+00:00",
+    "checked_at": "2026-09-08T04:30:05+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -44420,7 +44729,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio Candice R. Gerstner Affiliation: Research Directorate and AI Security Center Affiliation: National Security Agency Affiliation: Fort George G. Meade MD, USA Email: crgerst@uwe.nsa.gov Abstract With the advancements in AI speech synthesis, it is easier than ever before to generate realistic audio in a target voice\u2014one only needs a few seconds of reference audio from the target\u2014quite literally putting words in the target person\u2019s mouth. This imposes a new set of forensics-related challenges on speech-based authentication systems, videoconferencing, and audio-visual broadcasting platforms, where we want to detect synthetic speech. At the same time, leveraging AI speech synthesis can enhance the different modes of communication through features such as low-bandwidth communication and audio enhancements\u2014leading to ever-increasing legitimate use-cases of synthetic audio. In this case, we want to verify if the synthesized voice is actually spoken by the user. This will require a mechanism to verify whether a given synthetic audio is driven by an authorized identity, or not. We term this task audio avatar fingerprinting . As a step towards audio forensics in these new and emerging situations, we analyze and extend an...",
     "cache_version": 10,
-    "checked_at": "2026-08-31T05:28:00+00:00",
+    "checked_at": "2026-09-08T04:30:05+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -48264,6 +48573,30 @@
     ],
     "word_count": 2715
   },
+  "ab06cd44574a6e2e9795eb0ddd5338e94fd221e77afbd63500f6058f6f4fa96f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Vietnam's pragmatic path toward Myanmar on display in Min Aung Hlaing visit Hanoi pursues trade and security ties while promoting dialogue through ASEAN Myanmar President Min Aung Hlaing, left, shakes hands with Vietnamese President To Lam at the National Assembly Building of Vietnam, in Hanoi, on Sept. 5, in this screengrab taken from a video. \u00a9 Reuters BANGKOK -- Vietnam welcomed Myanmar President Min Aung Hlaing this weekend, signaling Hanoi's increasingly pragmatic approach toward Myanmar as the Association of Southeast Asian Nations remains divided over how to engage with the country. Read Next Latest on International relations Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 109
+  },
   "ab10060090ad8530996e06b0324ddb4278997903a592769155acfb092bb2ed66": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -50765,6 +51098,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4428
+  },
+  "b325be6124b96a0440a400c206108b86fca406a3985fb94d60392a8e025008b5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The city famously has a skewed male-to-female ratio (per census data , there are about 105 men for every 100 women), and there\u2019s a perception among many women that men who work in tech tend to have poor social and emotional skills and a lack of style\u2014opting for Patagonia vests and Meta glasses rather than putting substantive effort into their appearance. On August 31, however, Celeste Amadon, the founder of the AI-powered dating app Known , valiantly attempted to reverse that stereotype. In an X thread accompanied by a moody, upward-angled selfie, she announced that she and her team were compiling a list of \u201cSF\u2019s most dateable people,\u201d titled \u201cSan Francisco\u2019s Hot List.\u201d She attached a link for people to nominate their single friends according to criteria like \u201cambition,\u201d \u201caccomplishment,\u201d \u201creputation,\u201d and \u201caura.\u201d The post was skewered online by many in and outside of the tech scene, with some referring to it as \u201ccringe\u201d or mocking the lack of eligible singles in San Francisco: \u201cThe solution to dating in SF is to leave SF,\u201d posted one female founder. But it was an extremely effective bit of marketing for Known, garnering more than 15,000 submissions 24 hours after the tweet was posted, according to Amadon. It was also an effective piece of counter-propaganda to the stereotype of San Franciscans, officially heralding that San Francisco Is Hot. \u201cNot to be cheesy, but I think the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2834
   },
   "b34dfae60740c46f06c2944361c4acb0bf6fcbd83d989b6b045a10fb727c4e52": {
     "access_status": "available",
@@ -58036,6 +58393,38 @@
     "weak_generic_terms_found": [],
     "word_count": 4383
   },
+  "cbc942ae3deca73eb83c8e7b5bc4cadd0abc341e18495568a83f8ba8ab646d0b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:30:07+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "cbd9de51fe93f764de6c660e793116dae90a39f3c9eb12fc64e5ed40a18f50af": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -61973,7 +62362,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Digital arrest scam: Doctors, engineers, CEOs - Why smart Indians keep getting trapped by the fraud | WION Decodes 'You will be arrested': The psychological trick behind digital arrest scams Photograph: (AI-Generated image) Doctors, engineers, business owners and even cybersecurity-aware professionals are increasingly becoming victims of digital arrest scams. Experts say the reason has little to do with intelligence and everything to do with psychology. This is the trick you must know to avoid. Doctors, engineers, business owners and even cybersecurity-aware professionals are increasingly becoming victims of digital arrest scams. Experts say the reason has little to do with intelligence and everything to do with psychology. This is the trick you must know to avoid. Doctors, engineers, business owners, retired government officials and even technology professionals have all fallen victim to digital arrest scams. That raises an uncomfortable question: if educated people know about cybercrime, why are they still getting trapped? The answer has less to do with intelligence and more to do with psychology. The psychology behind Digital arrest scams Digital arrest scams are designed to create fear before logic has a chance to catch up.",
     "cache_version": 10,
-    "checked_at": "2026-08-31T05:28:01+00:00",
+    "checked_at": "2026-09-08T04:30:06+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -62007,7 +62396,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 1149
+    "word_count": 1092
   },
   "d9d050b3bc136fbe8334593c19de3d1282672ecaf8672eed1380fa23a47beb64": {
     "access_status": "available",
@@ -63241,7 +63630,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: On the Robustness of Audio Deepfake Detection under Audio Watermarking Zi Qian Yong 1 , Ajinkya Kulkarni 2 , Julia K. Lau 1 , Hwa Hui Tew 1 , Shu-Min Leong 1 , Rapha\u00ebl C.-W. Phan 1 , S\u00e9bastien Marcel 2 Affiliation: Affiliation: 1 School of Information Technology, Monash University, Malaysia campus Affiliation: Affiliation: 2 Idiap Research Institute, Switzerland Affiliation: Affiliation: {zi.yong, julia.lau, hwa.tew, leong.shumin, raphael.phan}@monash.edu {ajinkya.kulkarni, marcel}@idiap.ch Abstract Recent advances in generative audio models have enabled highly realistic synthetic speech, increasing the importance of reliable audio deepfake detection (ADD) systems. While prior studies have primarily focused on adversarially optimized perturbations, the robustness of ADD systems under realistic signal transformations remains insufficiently understood. In this work, we investigate the impact of audio watermarking on ADD systems by treating watermarking as a structured, non-adversarial perturbation rather than a conventional attack mechanism. Using a watermark-based evaluation framework built upon WavMark, we evaluate multiple self-supervised learning (SSL), Convolutional Neural Network (CNN) and Graph Neural Netrowk (GNN)-based ADD models across several benchmark datasets. Beyond conventional detection metrics, we further...",
     "cache_version": 10,
-    "checked_at": "2026-08-31T05:27:44+00:00",
+    "checked_at": "2026-09-08T04:29:53+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -63417,6 +63806,57 @@
       "trust"
     ],
     "word_count": 1760
+  },
+  "dec307ce83fc4e6c5f35cb7d6880ada039b16d84bd92ea16573cd481aec45d31": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Combating Organized Platform Abuse: Amplifying Weak Risk Signals with Structural Information HE Meng Affiliation: Trust & Safety, Grab Holdings China he.meng@grabtaxi.com Corresponding: hemeng86@gmail.com Jia Long LOH Affiliation: Trust & Safety, Grab Holdings Singapore jialong.loh@grabtaxi.com Abstract Large-scale online service platforms face severe challenges from organized platform abuse\u2014multiple forms such as credit card fraud and promotion abuse continually emerge, characterized by large numbers of involved accounts, rapid outbreaks, and constantly shifting tactics. Existing mainstream approaches\u2014whether heuristic rules limited in precision, supervised learning with insufficient generalization, or graph models that are engineering-heavy and dependent on seed users\u2014have failed to address such threats effectively. This paper returns to first principles and, starting from the economic constraints of fraudulent behavior, proposes the Fraudster\u2019s Trilemma : organized attackers cannot simultaneously achieve scale, low cost, and dispersed cash-out. Building on this theory, we derive a robust structural invariant in organized fraud\u2014 centralized cash-out \u2014and use a simple statistical method to turn low-precision individual weak signals into high-precision strong decisions. The method requires no labels, is nearly parameter-free...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:47+00:00",
+    "direct_relevance_terms_found": [
+      "account takeover",
+      "money mule",
+      "mule account",
+      "payment fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "account takeover",
+      "money mule",
+      "mule account",
+      "payment fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "account takeover",
+      "money mule",
+      "mule account",
+      "payment fraud"
+    ],
+    "technology_modus_terms_found": [
+      "platform abuse",
+      "account takeover",
+      "organized fraud"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 20090
   },
   "ded5409174370e9a8ea949140c637e34347535a0601a6d61ee0a3764380b0e21": {
     "access_status": "available",
@@ -64187,6 +64627,32 @@
       "trust"
     ],
     "word_count": 2403
+  },
+  "e1fdd5100355b538eae3de75bcb0aed433c518b5ea2c2b8c1c3a2bcbe446df9e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI top scientist urges \u2018extreme caution\u2019 with pace of AI Sign up now: Get ST's newsletters delivered to your inbox AI models can now quickly operate computers, collaborate with humans and other AI systems and carry out research projects. PHOTO: REUTERS Published Sep 08, 2026, 07:44 AM Updated Sep 08, 2026, 10:44 AM Set as preferred source Listen Summarise OpenAI's chief scientist warns AI is evolving too fast, urging voluntary slowdowns to ensure safety and better human control. AI models now perform complex tasks and soon may self-improve without humans, raising serious concerns about consequences. Despite risks, companies and startups invest heavily in advanced AI, including recursive self-improvement, aiming for more human-like intelligence. AI generated SAN FRANCISCO \u2013 OpenAI\u2019s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, saying he expects AI labs to voluntarily slow development for safety reasons. In a relatively short space of time, AI models can operate computers, collaborate with humans and other AI systems and carry out research projects , chief scientist Jakub Pachocki wrote in a post on Sept 6. It will not be long before they can also improve themselves without human intervention, a process known as recursive self-improvement, he said. \u201cThis is a time...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1754
   },
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "access_status": "available",
@@ -67738,6 +68204,35 @@
     ],
     "word_count": 1996
   },
+  "f0ab43561e28cbc1b6c12bc8c260e1a5d8118e320f35d0b0a613c82e1e4eab0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Image: George Oliver / Unsplash US and Canadian court data exposed in Thomson Reuters breach Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada, the company publicly disclosed Wednesday. Thomson Reuters has not said how the attacker gained access, who was responsible or how much data was taken. The number of people affected also remains unclear. The company stressed the breach occurred within its environment and was not caused by the networks, systems or data security of the affected courts. The breach involved C-Track, a court case management platform operated by a Thomson Reuters subsidiary. The company has published notification pages for affected users in both the U.S. and Canada . Thomson Reuters said it discovered the unauthorized activity on June 30, prompting an investigation with outside cybersecurity experts and law enforcement.",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 2331
+  },
   "f0f2b822e9709ba00f0b5258d5dc6937016cf6665dff7496efe560002291132f": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -68925,6 +69420,42 @@
     "weak_generic_terms_found": [],
     "word_count": 2145
   },
+  "f50a0d54f5fca55b166322641fa5cdd2fd7ab4bbeb41c310cef74fa3996e564e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Nebulon Enterprise Simulated Threats for Phishing Research (NEST-Phish): A Synthetic Enterprise Phishing Email Dataset for Behavioral and Machine-Learning Research Thanks: Corresponding author: dnsanc@sandia.gov Emily J. Winokur Lauren S. Treiman Allen G. Moore Affiliation: Paul Schutte, Joe Ingram, and Danielle N. Sanchez September 2026 Abstract Phishing remains one of the most persistent cyber threats, yet publicly shareable datasets for studying phishing in realistic enterprise email settings remain limited. To address this gap, we introduce a synthetic enterprise phishing email dataset built around a fictitious organization, Nebulon. The dataset spans a broad set of workplace communication themes and includes matched synthetic legitimate and phishing emails with interpretable phishing-cue annotations. Here, \u201clegitimate\u201d denotes the non-phishing class, not legitimately occurring organizational emails. Human-subject categorizations and classifier evaluations show that the dataset supports meaningful variation in phishing judgments while also providing learnable signal for supervised detection.",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud"
+    ],
+    "word_count": 17953
+  },
   "f511eec581649aba30902882fa46d1206f9026144816882f0218ddaf4796a07c": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -68979,6 +69510,32 @@
       "fraud"
     ],
     "word_count": 10373
+  },
+  "f563dfdaf986d581da422b36475ef2c823cb7330e3a4ae50c95f02becbef8183": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "S\u2019pore and Luxembourg working to deepen ties in quantum tech, AI, space, satellite communications Sign up now: Get ST's newsletters delivered to your inbox Anjali Raguraman Published Sep 07, 2026, 06:15 PM Updated Sep 07, 2026, 09:30 PM Set as preferred source Listen SINGAPORE \u2013 Singapore and Luxembourg are looking to deepen cooperation in technologies like quantum computing and artificial intelligence, as well as space and satellite communications. Such \u201cemerging and critical\u201d areas are among those where both countries will do more together, said Prime Minister Lawrence Wong during an official lunch he hosted for his Luxembourg counterpart Luc Frieden on Sept 7. PM Frieden is on an official visit to the Republic from Sept 6 to 8 \u2013 his first as prime minister. During a toast speech, PM Wong outlined how Luxembourg was not only a good partner, but also a \u201ckindred spirit\u201d of Singapore. While the two countries may be far apart geographically, they are close in circumstances and spirit, he said. Besides being small countries surrounded by much larger neighbours, they both have limited domestic markets and no natural resources. \u201cBut we have never allowed our size to define the limits of our ambitions,\u201d said PM Wong, who is also Finance Minister. \u201cInstead, we have turned our smallness into a reason to look outwards \u2013 staying open to the world, connecting people and businesses across...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2057
   },
   "f583c2e68db5b2422250df782e5607ad953ef3f1a600de16a23702365deb967c": {
     "access_status": "unknown",
@@ -69918,6 +70475,30 @@
       "trust"
     ],
     "word_count": 1334
+  },
+  "f8f738027b3afa77186b1f4df77bcd3edb1b00ea5460eb2cdb14156c8c08e52d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Tourist complaints in South Korea hit record high in just seven months Sign up now: Get insights on Asia's fast-moving developments People out on a street in Seoul. From January to July, 1,753 tourism complaints were filed nationwide, surpassing the 1,744 logged for all of 2025. PHOTO: AFP Published Sep 07, 2026, 09:15 AM Updated Sep 07, 2026, 08:52 PM Set as preferred source Listen Summarise Tourist complaints in South Korea hit a record 1,753 in the first seven months of 2026, surpassing the total for all of 2025, with lodging and shopping issues leading. Seoul recorded the most complaints, followed by Busan, where complaints surged due to a BTS concert attracting 110,000 visitors. Most complaints came from Chinese tourists, highlighting issues like unfair cancellation penalties, rude service, and reckless taxi driving amid a booming tourism industry. AI generated SEOUL \u2013 Complaints from tourists visiting South Korea have already hit an all-time high just seven months into 2026, with reckless taxi driving, poor accommodation and overcharging at stores the top gripes. From January to July, 1,753 tourism complaints were filed nationwide, already surpassing the 1,744 logged for all of 2025, the Korea Tourism Organisation said, citing figures released on Sept 6 from its Korea Tourism Data Lab. The figures are compiled from reports submitted through the Tourist Complaint Centre...",
+    "cache_version": 10,
+    "checked_at": "2026-09-08T04:29:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1724
   },
   "f9074c98f28c29b7e32f6d6b26e5280623d36c8e0410f81b310c3b40c86b0394": {
     "access_status": "available",
