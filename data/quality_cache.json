@@ -1271,6 +1271,30 @@
     ],
     "word_count": 0
   },
+  "04a6517aec38aefe62397deb4468b3bfa6b2c4d623f5229433ddc17dd6810097": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Security settings Last updated Aug 19, 2026 | Copy as Markdown | View as Markdown | Agent setup This page describes the security settings available in the new security dashboard for a given domain. To access security settings in the new security dashboard, go to the Settings page. Go to Settings \u2197 Security setting categories Security settings and detection tools are categorized by the type of threat that they detect and mitigate. Web application exploits In the Web application exploits security category you can manage the following settings: Detection tools: Leaked credentials detection Malicious uploads detection Sensitive data detection Cloudflare managed ruleset OWASP Core ruleset AI Security for Apps Under Attack mode in Security Level Managed security.txt Refer to each linked page for details. DDoS attacks The DDoS attacks security category shows the multiple mitigation services against DDoS attacks provided by Cloudflare. You can create rules to override DDoS attack protection tools. DDoS attack protection overrides are only available to Enterprise customers with the Advanced DDoS Protection subscription. To learn more about DDoS protection overrides, refer to the following resources: HTTP DDoS attack protection overrides Network-layer DDoS attack protection overrides Additionally, you can manage the following settings: Block AI Bots Bot Management (depending on your...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1886
+  },
   "04c25bd5612bb9ca4524f90712bc98d0181d0d095ede88fc89571ec351b9d858": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -3440,7 +3464,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Username or email Password Keep me signed in until I sign out Home News Elliot Nuertey writes: Why smart people fall for online scams: 3 psychological tricks cybercriminals use Getting your Trinity Audio player ready... On a regular Monday afternoon, Kwaku Rasta, a graduate of the University of Ghana with a first degree in Psychology, receives a supposed SMS alert from his bank, prompting him to click a link to answer certain questions that will enable the bank to safeguard his accounts. Kwaku assumes it is a normal routine. In the process, he is made to provide the name on his bank account, his bank account number, email address attached to the account and a box is provided for him to input a One-Time Password (OTP) sent to him. He completes the process thinking his money is safe, and in less than 10 minutes, he receives an alert that a substantial amount of money has been debited from his account. Was Kwaku Rasta ignorant? Did he engage an entity or brand he is not familiar with? Did he act out of greed? He did what all smart people would do: take advantage of an opportunity to secure their funds! This has been the fate of many diligent and educated individuals, corporate institutions, and even religious bodies.",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:33+00:00",
+    "checked_at": "2026-09-09T04:36:20+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -3479,7 +3503,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 3553
+    "word_count": 3540
   },
   "0c9f527d5505d49cf83a3f398032be08060e848ee1ca6c1f2c95abe7c4c2afe7": {
     "access_status": "available",
@@ -12005,6 +12029,30 @@
     ],
     "word_count": 3603
   },
+  "2bb0ee5904132d05332979d7ab84a88e05436df13f8da1309f34401a5a64d133": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "S&P 500 falls as AI worries hit software makers Sign up now: Get ST's newsletters delivered to your inbox Trader working on the floor of the New York Stock Exchange in New York City on Sept 8. PHOTO: REUTERS Published Sep 09, 2026, 04:18 AM Updated Sep 09, 2026, 04:18 AM Set as preferred source Listen NEW YORK - The S&P 500 ended lower on Sept 8, with Salesforce and other software makers losing ground, while hostilities in the Middle East lifted oil prices and investors awaited inflation data that could affect the chance of an interest rate hike. Salesforce shares, ServiceNow and Intuit declined. OpenAI\u2019s launch last week of its newest model, GPT-6 Astra, reignited speculation that AI could compete with services now offered by specialised software companies. The S&P 500 software and services index fell for a second straight day. \u201cAstra has kind of reignited the software disruption fears and it\u2019s resumed that old trend that we got used to for a while, where semiconductor stocks and data centre capex beneficiaries do well, while software stocks do poorly,\u201d said Jed Ellerbroek, portfolio manager at Argent Capital Management. Intel jumped and Qualcomm also rose after striking a deal with Amazon to develop custom AI chips. Traders increased bets on an interest rate hike at the US Federal Reserve\u2019s Sept 15-16 meeting after the Labour Department reported last week that employers...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1943
+  },
   "2bc384f218b8bd294dafef5cb49eba6cd0a7cf3249ace76009c47c36935ddb2a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14619,6 +14667,32 @@
     ],
     "word_count": 1978
   },
+  "358168bfb7c06d82d8aed237eb8a637899f1e9dbe75d929bfe7d933f565c172d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US\u2019 Bessent warns \u2018nothing would matter\u2019 if China wins the AI race Sign up now: Get ST's newsletters delivered to your inbox US Treasury Secretary Scott Bessent\u2019s comments appear aimed at some voices in the US upset that large data centre projects are getting built in their backyards. PHOTO: REUTERS Published Sep 09, 2026, 11:34 AM Updated Sep 09, 2026, 11:34 AM Set as preferred source Summarise US Treasury Secretary Scott Bessent warned that if China wins the AI race, the US' defence budget and efforts would become irrelevant. US agencies accused Chinese AI firms of extracting billions of data tokens from US AI models, possibly with Chinese government knowledge. US and China are preparing talks on AI safety before Chinese leader Xi Jinping meets President Trump in Washington on Sept 24. AI generated WASHINGTON \u2013 US Treasury Secretary Scott Bessent warned the US faces dire consequences if it loses out in the AI race with China, highlighting the angst in Washington about its rival\u2019s tech advances. \u201cThere is no day after tomorrow if China wins at this,\u201d Bessent said at a Breitbart News event in Washington on Sept 8, indicating also that the US\u2019 large defence budget would fail to protect the nation. \u201cIf they were to pull away from us on AI, then nothing else would matter.\u201d The comments appear aimed at some voices in the US upset that large data centre projects are getting built...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1480
+  },
   "35d51c26f1d798907bf5a4d0fd2cf4a1f096352fc215cc6aedd618449954ce97": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -16866,6 +16940,30 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "3ccc66262b00c71f8d5b1036768304378081c4a2b64b72c96f48bc6600a8b5fd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release TCL Earns Over 30 Global Honors at IFA 2026, Recognizing Cutting-Edge Innovations Across Display, AI and Smart Living Published Sep 08, 2026, 03:00 PM TCL Earns Over 30 Global Honors at IFA 2026, Recognizing Cutting-Edge Innovations Across Display, AI and Smart Living The issuer is solely responsible for the content of this announcement. Press release TCL Earns Over 30 Global Honors at IFA 2026, Recognizing Cutting-Edge Innovations Across Display, AI and Smart Living Published Sep 08, 2026, 03:00 PM TCL Earns Over 30 Global Honors at IFA 2026, Recognizing Cutting-Edge Innovations Across Display, AI and Smart Living The issuer is solely responsible for the content of this announcement. Press release TCL Earns Over 30 Global Honors at IFA 2026, Recognizing Cutting-Edge Innovations Across Display, AI and Smart Living Published Sep 08, 2026, 03:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 177
   },
   "3ced052928af37ed2c46a1fd0d847d4f24562b3226b6415a3f84d1022cbbea8d": {
     "access_status": "available",
@@ -24491,9 +24589,9 @@
   "570d0ca9117215166f71712c72b85098653a0f5db057c2b9a42e3688deb50521": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Zuckerberg, Musk make plea at G-20 for more AI data centres Sign up now: Get ST's newsletters delivered to your inbox Meta CEO Mark Zuckerberg speaking via video conference during a G-20 meeting in Chapel Hill, North Carolina, on Sept 1. PHOTO: REUTERS Published Sep 02, 2026, 08:28 AM Updated Sep 02, 2026, 08:36 AM Set as preferred source Listen Summarise Mark Zuckerberg and Elon Musk urged G-20 ministers to support more AI data centres and the necessary electric power to fuel them amid growing US opposition. Zuckerberg highlighted a shortage of skilled workers for building data centres, while Musk warned of an imminent power crisis giving China an advantage. Musk criticised European overregulation that slows innovation, advocating for AI development to be \"relatively free of regulation\" to boost economic growth and global impact. AI generated CHAPEL HILL, North Carolina - Mark Zuckerberg and Elon Musk on Sept 1 stressed the need for more AI data centres and the electric power needed to support them at a meeting of G-20 technology ministers focused on the disruptions and opportunity brought by artificial intelligence. The US tech bosses spoke virtually at a G-20 meeting in Chapel Hill, North Carolina organised by the White House, which is dedicated to keeping the AI revolution largely free of government rules and scrutiny. The talks came amid a growing backlash against the...",
+    "article_excerpt": "Zuckerberg, Musk make plea at G-20 meeting for more AI data centres Sign up now: Get ST's newsletters delivered to your inbox Meta CEO Mark Zuckerberg speaking via video conference during a G-20 meeting in Chapel Hill, North Carolina, on Sept 1. PHOTO: REUTERS Published Sep 02, 2026, 08:28 AM Updated Sep 02, 2026, 09:14 PM Set as preferred source Listen Summarise Mark Zuckerberg and Elon Musk urged G-20 ministers to support more AI data centres and the necessary electric power to fuel them amid growing US opposition. Zuckerberg highlighted a shortage of skilled workers for building data centres, while Musk warned of an imminent power crisis giving China an advantage. Musk criticised European overregulation that slows innovation, advocating for AI development to be \"relatively free of regulation\" to boost economic growth and global impact. AI generated CHAPEL HILL, North Carolina \u2013 Mark Zuckerberg and Elon Musk on Sept 1 stressed the need for more AI data centres and the electric power needed to support them at a meeting of G-20 technology ministers focused on the disruptions and opportunity brought by artificial intelligence. The US tech bosses spoke virtually at a G-20 meeting in Chapel Hill, North Carolina organised by the White House, which is dedicated to keeping the AI revolution largely free of government rules and scrutiny. The talks came amid a growing backlash against...",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:16+00:00",
+    "checked_at": "2026-09-09T04:36:07+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -24900,6 +24998,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3418
+  },
+  "5804e31a65d1bda9f3c529ae6e0e10c4a3ba6f7031d4ddae3a5d18f1f0280d0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Stadtwerke Landsberg installed a photovoltaic plant in the Landsberg am Lech region in 2024. Credit: Stadtwerke Landsberg Cyberattack encrypts systems at Bavarian municipal utility A municipal utility in Bavaria said Monday that hackers encrypted its central IT network in a cyberattack last week. In a notice to customers, Stadtwerke Landsberg said the attack disrupted office systems but is not affecting electricity, water and other essential services. The incident began overnight on September 1, the utility said, prompting it to disconnect the affected systems from the internet, activate its crisis team and bring in external cybersecurity specialists. Although the operator described an encryption event, it did not identify a specific ransomware group that may have committed the attack nor say whether it has received an extortion demand. The city-owned utility said its staff \u201care currently only available to a limited extent by phone and email\u201d and that the specialists\u2019 forensic investigation is ongoing. Stadtwerke Landsberg warned customers that it could not rule out whether attackers accessed or stole their personal data. The potentially affected information includes names, addresses, phone numbers, email addresses and bank details. Ransomware and other disruptive cyberattacks remain a persistent problem for German companies and public-sector organizations. Germany\u2019s federal...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_cybersecurity",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_cybersecurity",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 2278
   },
   "5808867835a3d1e12756e4772a80e4dbf115673ff8aa4d0d48982bc827e00666": {
     "access_status": "available",
@@ -26734,6 +26860,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1695
+  },
+  "5e9f715a720208cccf23a3956e7c919ced07d4001c589cdb89878c6ddb1a18cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Qunabox Group Opens '99 Quna Festival,' Debuting Consumer-Facing Physical AI Entertainment Published Sep 09, 2026, 11:01 AM Qunabox Group Opens '99 Quna Festival,' Debuting Consumer-Facing Physical AI Entertainment The issuer is solely responsible for the content of this announcement. Press release Qunabox Group Opens '99 Quna Festival,' Debuting Consumer-Facing Physical AI Entertainment Published Sep 09, 2026, 11:01 AM Qunabox Group Opens '99 Quna Festival,' Debuting Consumer-Facing Physical AI Entertainment The issuer is solely responsible for the content of this announcement. Press release Qunabox Group Opens '99 Quna Festival,' Debuting Consumer-Facing Physical AI Entertainment Published Sep 09, 2026, 11:01 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 142
   },
   "5ec10a9be37c493f4707a137b34a694a54414c4c1983e6029fd11b433c5e5444": {
     "access_status": "available",
@@ -30544,7 +30694,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:30+00:00",
+    "checked_at": "2026-09-09T04:36:18+00:00",
     "direct_relevance_terms_found": [
       "smishing"
     ],
@@ -33473,6 +33623,30 @@
       "trust"
     ],
     "word_count": 3546
+  },
+  "778b06bf475bec77c74f672240cd9fcae1a6bc05236869e8961cabc095d22493": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says Sign up now: Get ST's newsletters delivered to your inbox OpenAI is pushing its AI into specialised industries and undercutting open-source rivals on cost, said chief financial officer Sarah Friar. PHOTO: REUTERS Published Sep 09, 2026, 09:28 AM Updated Sep 09, 2026, 09:28 AM Set as preferred source Summarise OpenAI is targeting specialised industries like chip design and life sciences with AI solutions and experimenting with pricing based on business outcomes to meet enterprise demands. OpenAI cut the price of its Luna model by 80%, resulting in a tenfold usage increase, and its enterprise revenue grew 32% from June to July. OpenAI claims its lower-cost models are cheaper than Chinese open-source alternatives on cloud platforms, highlighting competitive pricing and accelerating enterprise growth. AI generated SAN FRANCISCO - OpenAI is pushing its AI into specialised industries and undercutting open-source rivals on cost, chief financial officer Sarah Friar said on Sept 7, as the ChatGPT maker sees accelerating enterprise growth. Speaking at Goldman Sachs\u2019 Communacopia + Technology Conference in San Francisco, Friar said OpenAI is focusing on sectors including chip design, life sciences and financial services, as businesses increasingly seek AI systems tailored to specific tasks. It is also...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1406
   },
   "779aa3448e2a95c14e0254b57c9dbe1ca5c829da61385223a4aa0315f541b050": {
     "access_status": "available",
@@ -37452,9 +37626,9 @@
   "82c445fe3ce1ee08eb2ad93cf5ee52c81cc144352e89bde52f9730abc84b3589": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Need help caring for grandma? Undergrads create the Ahma app to help caregivers The TL;DR: Inspired by their experiences caring for grandparents and friends, four NUS undergraduates develop an AI-powered app for caregivers that listens and provides information. Sign up now: Get ST's newsletters delivered to your inbox NUS computer science students (from left) Andrew Soon, Aishwarya Goyal, Abhishek Paranjape and Hazel Low designed the Ahma app to support caregivers. PHOTO: COURTESY OF AHMA Ang Yiying Published Sep 02, 2026, 06:19 AM Updated Sep 02, 2026, 06:19 AM Set as preferred source Listen Summarise Four NUS undergraduates developed Ahma, an AI-powered voice app that supports caregivers by listening and providing relevant information and resources. The app personalises support by storing user context and helps with tasks like writing e-mails and managing schedules. Caregivers contributed to the app's design, and feedback from users and organisations like Mindfull Community is guiding further improvements before launch. AI generated SINGAPORE \u2013 Imagine venting about caregiving frustrations to an app, then receiving words of encouragement, as well as links to verified sources such as community organisations. Four National University of Singapore (NUS) students are aiming to make their prototype app Ahma, which is powered by artificial intelligence, a reality. The team said it...",
+    "article_excerpt": "Need help caring for grandma? Undergrads create the Ahma app to help caregivers The TL;DR: Inspired by their experiences caring for grandparents and friends, four NUS undergraduates develop an AI-powered app for caregivers that listens and provides information. Sign up now: Get tips on how to grow your career and money NUS computer science students (from left) Andrew Soon, Aishwarya Goyal, Abhishek Paranjape and Hazel Low designed the Ahma app to support caregivers. PHOTO: COURTESY OF AHMA Ang Yiying Published Sep 02, 2026, 06:19 AM Updated Sep 02, 2026, 04:41 PM Set as preferred source Listen Summarise Four NUS undergraduates developed Ahma, an AI-powered voice app that supports caregivers by listening and providing relevant information and resources. The app personalises support by storing user context and helps with tasks like writing e-mails and managing schedules. Caregivers contributed to the app's design, and feedback from users and organisations like Mindfull Community is guiding further improvements before launch. AI generated SINGAPORE \u2013 Imagine venting about caregiving frustrations to an app, then receiving words of encouragement, as well as links to verified sources such as community organisations. Four National University of Singapore (NUS) students are aiming to make their prototype app Ahma, which is powered by artificial intelligence, a reality. The team said...",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:22+00:00",
+    "checked_at": "2026-09-09T04:36:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -37471,7 +37645,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2581
+    "word_count": 2593
   },
   "82ec62215626c48ab194bce33d9a32bfc879c231640e37ebca91a2171909a882": {
     "access_status": "available",
@@ -41907,6 +42081,30 @@
     ],
     "word_count": 2538
   },
+  "93d2730220fd3bd1019e6736788a15181a23a5cdb304670610762ea37b2a9625": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US accuses Chinese AI firms of \u2018malicious\u2019 copying of AI technology Sign up now: Get ST's newsletters delivered to your inbox US officials accused China\u2019s DeepSeek, Moonshot AI, Alibaba, MiniMax and StepFun of using variants of American-made AI models to train their AI products. PHOTO: REUTERS Published Sep 09, 2026, 03:30 AM Updated Sep 09, 2026, 04:23 AM Set as preferred source Listen Summarise US officials accuse Chinese AI firms of maliciously copying advanced American AI technology using a method called distillation. Chinese companies like DeepSeek, Moonshot AI, and Alibaba allegedly trained AI models based on US variants with likely Chinese government awareness. These accusations come ahead of President Xi Jinping's US visit and upcoming US-China talks on AI safety risks. AI generated WASHINGTON - The US government on Sept 8 accused Chinese artificial intelligence companies of maliciously copying technology from American AI firms, potentially complicating relations ahead of a planned meeting between leaders of the world\u2019s two biggest economies later this month. The Chinese companies copied US AI labs\u2019 intellectual property through a technique known as distillation, according to a statement from US law enforcement and intelligence officials. Distillation is the process of training smaller AI models using output from larger, more expensive ones as part of an effort to...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1405
+  },
   "93d936f2bd22ec37642ce19cbac25bb46938a9fc859b71505d1b93600581f786": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -43315,7 +43513,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "South Korea proposes record $761b 2027 budget to supercharge AI investment Sign up now: Get insights on Asia's fast-moving developments The proposal signals a shift in Asia\u2019s fourth-largest economy under South Korean President Lee Jae-myung. PHOTO: REUTERS Published Sep 01, 2026, 03:24 PM Updated Sep 01, 2026, 04:14 PM Set as preferred source Listen SEOUL - South Korea on Sept 1 unveiled its most aggressive fiscal spending plan on record, setting total government expenditure for 2027 at 821 trillion won (S$760.7 billion) to strengthen the country\u2019s technological edge amid the global AI race. In its annual budget proposal, the budget ministry said the spending plan represented a 12.8 per cent rise from 2026, marking the largest year-on-year increase on record. The proposal signals a shift in Asia\u2019s fourth-largest economy under President Lee Jae-myung, who has championed an expansionary fiscal policy since taking office in June 2025, pivoting away from three years of austerity under his predecessor. The historic spending increase is being fuelled by a windfall from the country\u2019s semiconductor industry. Samsung Electronics and SK Hynix are generating unprecedented profits driven by global demand for high-bandwidth memory (HBM) chips used in the AI boom. Total tax revenue is seen increasing 40.7 per cent in 2027 to 584.4 trillion won, with corporate tax receipts alone projected to...",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:20+00:00",
+    "checked_at": "2026-09-09T04:36:10+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -43771,7 +43969,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Tulsa News 8 screenshot via YouTube. A city in Oklahoma tried to charge a farmer more than $17,000 to fulfill a public records request for information related to a proposed data center and the farmer\u2019s arrest at a city council meeting. Now, in a win for the farmer, the State\u2019s attorney general has stepped in and told the city to drop the fees and \u201cprovide access promptly\u201d to the documents. Farmer Darren Blanchard attended a meeting about Project Mustang \u2014 a proposed 225 acre data center in Claremore, Oklahoma \u2014 in February and planned to speak in opposition to the project. He left in handcuffs after the city council ordered him arrested for going 30 seconds over his allotted three minute speaking limit. Claremore charged Blanchard with trespassing, a municipal crime with a $200 penalty. Blanchard pleaded not guilty, hired an attorney, and vowed to fight the charges on free speech grounds. As part of his defense, Blanchard and his lawyers filed a public records request asking the bodycam footage from the arrest and city records related to previous disturbances at public meetings. Claremore told Blanchard and his lawyers that they\u2019d be happy to fulfill his request, but it would cost $17,125.44. Katie Griffin, one of Blanchard's lawyers, filed a complaint with the Oklahoma Attorney General about the fees and requested someone at the State take a look.",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:20+00:00",
+    "checked_at": "2026-09-09T04:36:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -43788,7 +43986,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3182
+    "word_count": 3815
   },
   "9aad3502bbe012df5c64d492a934805650f3130844011a3ff13d447a3cf93523": {
     "access_status": "available",
@@ -47998,6 +48196,30 @@
     ],
     "word_count": 19240
   },
+  "a905deb0d8e0a4f8a319e70c9c38feee8bd73768d5bf7907de3a7c5a5be5eb15": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Two-thirds of S\u2019pore students use AI to help them learn at least once a week: PISA study Sign up now: Get tips on how to help your child succeed Nearly half of students here frequently use AI to research new topics, summarise texts and draft text for writing assignments. PHOTO: ST FILE Shermaine Ang Published Sep 08, 2026, 03:30 PM Updated Sep 08, 2026, 07:15 PM Set as preferred source Listen Summarise Two-thirds of Singapore students use AI chatbots weekly for learning, but those who don't use AI tend to score about 20 points higher in science. Moderate and guided AI use can support learning, while overuse or lack of guidance may cause distraction and lower performance. Family support for students in Singapore has declined, which concerns experts, as parental involvement strongly influences educational outcomes. AI generated SINGAPORE \u2013 Two-thirds of Singapore students reported using AI chatbots to help them learn at least once a week, compared with 46 per cent of students on average across Organisation for Economic Cooperation and Development (OECD) countries. Nearly half \u2013 41 per cent to 46 per cent \u2013 of students here said they frequently use AI to do research on new topics, summarise texts and draft text for writing assignments. And only 4 per cent of students said they never or hardly ever use AI chatbots for schoolwork, according to a background questionnaire that was...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3911
+  },
   "a90df032fb59871842b68bb3612ccb613f94f9d6cb1c3ff5225a62775bcd468f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -50484,6 +50706,35 @@
     ],
     "word_count": 2012
   },
+  "b0ea85851950f58363841db7e01a32457fcdcd2fe3b61c2511726554c8f978d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Reader discretion is strongly advised. Early last month, Meta deleted around 50 ads posted on Facebook, Instagram, and Threads that directly included child sexual abuse material (CSAM), following reporting by WIRED. At the time, the company said that most of the abusive ads had been published prior to it rolling out new AI tools designed to \u201cbetter detect and block\u201d harmful ads being uploaded. That AI system, however, doesn\u2019t appear to have been entirely effective. Instead of spotting a decline in the abusive ads in recent weeks, researchers say they have now discovered hundreds more of the disturbing ads containing graphic sexual scenes involving children\u2014including some that were identical to those Meta recently removed. More than 250 additional ads containing CSAM have run across Meta\u2019s social media platforms since the start of August, according to researchers at the nonprofit Tech Transparency Project who shared its findings with WIRED. Unlike the 53 ads TTP researchers initially discovered , they were able to identify images of real children in the new ads. These included sexual content depicting a minor belonging to a European royal family, transforming an officially released photograph into a video of a \u201cgraphic sex act.\u201d The researchers are not naming the royal to protect the victim and say they contacted officials in the country. WIRED confirmed the source image came...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "identity",
+      "trust"
+    ],
+    "word_count": 7274
+  },
   "b0fac197526135095c11ec084ce6299495525f0a663aba1f5fb2d2109c8e5b8f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51054,9 +51305,9 @@
   "b2e7ca2ca51e7b971f71f6eb93f11695097115cf4c1218a3be8211c87747960a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Taiwan semiconductor firm UMC pours billions into Singapore to claim a stake in the AI boom Sign up now: Get ST's newsletters delivered to your inbox UMC\u2019s new plant (left), which is next to its existing fab facility, will take its annual production of integrated circuit wafers to 1.3 million in the next few years. ST PHOTO: LIM YAOHUI Ovais Subhani Published Sep 02, 2026, 06:00 AM Updated Sep 02, 2026, 10:25 AM Set as preferred source Unlock audio Summarise UMC has invested US$5 billion to expand its Singapore chip manufacturing, increasing wafer production to 1.3 million annually and doubling skilled employees to support AI technology demands. The company focuses on silicon photonics and co-packaged optics in Singapore to improve AI data centre speed and energy efficiency, partnering with Silith Technology for photonic chip production. Singapore's semiconductor industry is growing rapidly, driven by AI demand, with strong government support and collaboration with R&D institutions to strengthen manufacturing and innovation capabilities. AI generated SINGAPORE \u2013 After more than two decades of a relatively quiet existence here, one of the world\u2019s top chipmakers has expanded its footprint in Singapore to capture a leading position in a frontier technology seen as crucial to AI data centres . Taiwan-based United Microelectronics Corporation (UMC), which manufactures chips...",
+    "article_excerpt": "Taiwan semiconductor firm UMC pours billions into Singapore to claim a stake in the AI boom Sign up now: Get ST's newsletters delivered to your inbox UMC\u2019s new plant (left), which is next to its existing fab facility, will take its annual production of integrated circuit wafers to 1.3 million in the next few years. ST PHOTO: LIM YAOHUI Ovais Subhani Published Sep 02, 2026, 06:00 AM Updated Sep 02, 2026, 06:46 PM Set as preferred source Unlock audio Summarise UMC has invested US$5 billion to expand its Singapore chip manufacturing, increasing wafer production to 1.3 million annually and doubling skilled employees to support AI technology demands. The company focuses on silicon photonics and co-packaged optics in Singapore to improve AI data centre speed and energy efficiency, partnering with Silith Technology for photonic chip production. Singapore's semiconductor industry is growing rapidly, driven by AI demand, with strong government support and collaboration with R&D institutions to strengthen manufacturing and innovation capabilities. AI generated SINGAPORE \u2013 After more than two decades of a relatively quiet existence here, one of the world\u2019s top chipmakers has expanded its footprint in Singapore to capture a leading position in a frontier technology seen as crucial to AI data centres . Taiwan-based United Microelectronics Corporation (UMC), which manufactures chips...",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:19+00:00",
+    "checked_at": "2026-09-09T04:36:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -51073,7 +51324,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 849
+    "word_count": 732
   },
   "b31a79145f0373dcb8a3a966b277558f03ad3a7b5cb90c605e78d44b3f6db110": {
     "access_status": "available",
@@ -57340,6 +57591,32 @@
     ],
     "word_count": 847
   },
+  "c90d6961ddec2e444265a5cb1519a745af66f79ed221c02bf19c0f09a9fe45a7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "c91026ecc74ee0980de652c648ff65ca72f29444917699e683e6793388a93308": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -59452,6 +59729,30 @@
     "weak_generic_terms_found": [],
     "word_count": 4288
   },
+  "cfbf66a0021425b369d82a9257294af53f8d65546de5bb22ab6e45edf715af33": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence Published \u00c2 Sep 05, 2026, 05:00 AM Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence The issuer is solely responsible for the content of this announcement. Press release Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence Published \u00c2 Sep 05, 2026, 05:00 AM Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence The issuer is solely responsible for the content of this announcement. Press release Midea SMART MASTER at IFA 2026: From AI Agents to Embodied Intelligence Published \u00c2 Sep 05, 2026, 05:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:13+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 150
+  },
   "cfc58afeefe2ee1c496ff0e65a93e5dd2ef4ffd8c10804d5ff46f51d0b0c126f": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -60288,6 +60589,32 @@
       "fraud"
     ],
     "word_count": 60
+  },
+  "d271175b53038b9dd4ba7be692d34c590eac076432fdd2d17b8094e40f6d0c13": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Visa Unveils Revised Singapore Security Roadmap to Strengthen Trust and Resilience in the AI Era Published Sep 09, 2026, 09:33 AM Visa Unveils Revised Singapore Security Roadmap to Strengthen Trust and Resilience in the AI Era The issuer is solely responsible for the content of this announcement. Press release Visa Unveils Revised Singapore Security Roadmap to Strengthen Trust and Resilience in the AI Era Published Sep 09, 2026, 09:33 AM Visa Unveils Revised Singapore Security Roadmap to Strengthen Trust and Resilience in the AI Era The issuer is solely responsible for the content of this announcement. Press release Visa Unveils Revised Singapore Security Roadmap to Strengthen Trust and Resilience in the AI Era Published Sep 09, 2026, 09:33 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 162
   },
   "d29576a682f1f377b3831eba84bd69f9ecac45f8e59d43637eb71a4252f70757": {
     "access_status": "available",
@@ -61239,6 +61566,32 @@
       "trust"
     ],
     "word_count": 2994
+  },
+  "d5f2a5f3f16e22e3ce690182f7d4c1e17c01592bfdf84a0ddab9926351dc53c3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore businesses to get easier access to government support through AI-powered BizSG portal Sign up now: Get ST's newsletters delivered to your inbox The BizSG initiative will bring government support and services together, with its first touchpoint, the BizSG portal, going live on Sept 30. PHOTO: ST FILE Vihanya Rakshika Published Sep 09, 2026, 11:00 AM Updated Sep 09, 2026, 12:08 PM Set as preferred source Listen Summarise Singapore will launch the BizSG portal on Sept 30 to simplify access to government grants and services using AI recommendations tailored to business needs. The portal integrates various grants like EDGE, covering over 150 activities, and aims to become a trusted digital concierge for SMEs by 2027. The SME Centre Conference highlighted AI adoption, with workshops and expert talks encouraging SMEs to use AI strategically for business growth and efficiency. AI generated SINGAPORE \u2013 Businesses will soon have a simpler way to find government grants and services through a new portal that will use artificial intelligence to recommend support based on their needs and growth plans. The BizSG initiative will bring government support and services together, with its first t ouchpoint , the BizSG portal, going live on Sept 30. Senior Minister of St ate for Trade and Industry Low Yen Ling announced the initiative at the SME Centre Conference on S ept 9. \u201cWe...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2529
   },
   "d5f66a67cdf58622110929f3c4ae399ceff05433dccad361fe593073aae813b8": {
     "access_status": "available",
@@ -67326,9 +67679,9 @@
   "eda4cca7c6210eda59395eb7af603d02c73b6dc38780690a8e554d6228ffddd9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US urges hands-off approach to AI regulation at G-20 tech meeting Sign up now: Get ST's newsletters delivered to your inbox AI companies want less regulation around the world for their rapidly growing businesses, or to shape the rules as they are written. PHOTO: REUTERS Published Sep 02, 2026, 09:13 AM Updated Sep 02, 2026, 09:13 AM Set as preferred source Summarise The US urged G-20 members to avoid broad AI regulations, promoting the \"Carolina Principles\" to focus only on novel AI situations and signed by China. Industry leaders like Zuckerberg, Musk, and Hassabis addressed the meeting, debating AI safety, open-weight models, and the impact of EU regulations. The US faces rising AI competition from China, stressing the need to keep the world within the American tech ecosystem amid security and innovation concerns. AI generated CHAPEL HILL, North Carolina - The US pressed G-20 members on Sept 1 to take a hands-off approach to AI regulation and avoid creating rules for the technology at a gathering of industry titans and commerce ministers in North Carolina. The US goals largely align with the thinking of the world\u2019s biggest AI companies, nearly all of which are American. They want less regulation around the world for their rapidly growing businesses, or to shape the rules as they are written. Federal government requirements could hurt the industry\u2019s profits if they slow the...",
+    "article_excerpt": "US urges hands-off approach to AI regulation at G-20 tech meeting Sign up now: Get ST's newsletters delivered to your inbox AI companies want less regulation around the world for their rapidly growing businesses, or to shape the rules as they are written. PHOTO: REUTERS Published Sep 02, 2026, 09:13 AM Updated Sep 02, 2026, 09:13 AM Set as preferred source Listen Summarise The US urged G-20 members to avoid broad AI regulations, promoting the \"Carolina Principles\" to focus only on novel AI situations and signed by China. Industry leaders like Zuckerberg, Musk, and Hassabis addressed the meeting, debating AI safety, open-weight models, and the impact of EU regulations. The US faces rising AI competition from China, stressing the need to keep the world within the American tech ecosystem amid security and innovation concerns. AI generated CHAPEL HILL, North Carolina - The US pressed G-20 members on Sept 1 to take a hands-off approach to AI regulation and avoid creating rules for the technology at a gathering of industry titans and commerce ministers in North Carolina. The US goals largely align with the thinking of the world\u2019s biggest AI companies, nearly all of which are American. They want less regulation around the world for their rapidly growing businesses, or to shape the rules as they are written. Federal government requirements could hurt the industry\u2019s profits if they...",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:18+00:00",
+    "checked_at": "2026-09-09T04:36:08+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -67345,7 +67698,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2695
+    "word_count": 2697
   },
   "eda77bd558989d4db92986a724635d070fb25937d2ea816d91d7b04c6db2374e": {
     "access_status": "available",
@@ -71420,7 +71773,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:15+00:00",
+    "checked_at": "2026-09-09T04:36:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -71506,6 +71859,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4960
+  },
+  "fc302143e6419bc7c640b721ce2c84c5b440038a28e38b55ac25426c7d88d63e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Mistral AI raises $4.4b in Samsung-led round, at $31b valuation Sign up now: Get ST's newsletters delivered to your inbox Mistral has struck deals with large European industrial companies including Airbus SE, BMW AG and Dutch chip-machine maker ASML. PHOTO: REUTERS Published Sep 08, 2026, 02:34 PM Updated Sep 08, 2026, 03:24 PM Set as preferred source Listen Summarise Mistral AI raised \u20ac3 billion (S$4.41 billion) at a \u20ac21 billion valuation in a Samsung-led round to develop AI models and build computing infrastructure, doubling its 2025 valuation. The company focuses on industrial AI and open-source large language models, partnering with European firms like Airbus, BMW, ASML, and expanding in the US and Asia. Mistral aims to offer a European alternative amid geopolitical tensions, investing heavily in data centres and seeking government support to reduce reliance on US and Chinese AI technologies. AI generated Mistral AI has raised \u20ac3 billion ( S$4.41 billion ) at a valuation of more than \u20ac21 billion from investors led by Samsung Electronics to fund the development of artificial intelligence models and build computing infrastructure. The EU\u2019s Scaleup Europe Fund and PSG Equity co-led the round, the company said in a statement on Sept 8 . The Paris-based startup has nearly doubled its \u20ac11.7 billion valuation from its last fundraising round in 2025 . The funding will give Mistral...",
+    "cache_version": 10,
+    "checked_at": "2026-09-09T04:36:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1788
   },
   "fc39f44fa395154d57b164fee709e762448ca28b72241f3c774604f366317abd": {
     "access_status": "available",

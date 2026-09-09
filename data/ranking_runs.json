@@ -2,31 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "News report": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 10,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 3,
-        "current_affairs": 7
-      },
-      "shortlist_count": 3,
-      "source_domain_distribution": {
-        "bbc.com": 1,
-        "channelnewsasia.com": 1,
-        "theguardian.com": 1
-      },
-      "timestamp": "2026-07-13T03:56:19+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Local Singapore / Southeast Asia relevance": 1,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Enforcement report": 1,
         "News report": 2
       },
@@ -1475,6 +1450,38 @@
       "usefulness_category_distribution": {
         "Product idea / data source": 1,
         "Research / novel method": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 38,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 2,
+        "psychology": 36
+      },
+      "shortlist_count": 10,
+      "source_domain_distribution": {
+        "asaaseradio.com": 1,
+        "dailydemocrat.com": 1,
+        "dl.acm.org": 4,
+        "nwemail.co.uk": 1,
+        "nzherald.co.nz": 1,
+        "tovima.com": 1,
+        "wionews.com": 1
+      },
+      "timestamp": "2026-09-09T04:36:24+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Deepfakes, synthetic identity & impersonation": 1,
+        "Research / novel method": 2,
         "Scam development": 1
       }
     }
