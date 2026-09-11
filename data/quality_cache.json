@@ -2746,6 +2746,32 @@
     ],
     "word_count": 11387
   },
+  "0a463849cafdd2feb88f472771f503340b334b178fd5836f1de6cb4a1e76f954": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ronzelle Green speaks at a National Geospatial-Intelligence Agency (NGA) event in January 2024. Image: NGA via Facebook Cyber Command turns to veteran of intelligence agencies for top AI role U.S. Cyber Command has a new artificial intelligence leader, as the country\u2019s military races to integrate the transformative technology into digital operations. Ronzelle Green, who most recently served as the head of research and development at the National Geospatial-Intelligence Agency (NGA), has been tapped as the command\u2019s latest chief AI officer. He replaces Brig. Gen. Reid Novotny, who was the first appointee to the role, which Cyber Command created last year to steer its portion of a Pentagon-wide push to adopt AI. For instance, in fiscal 2026 the command requested just $5 million for an \u201cAI for Cyber Operations\u201d effort. The request mushroomed to $138 million in fiscal 2027, according to budget documents . \u201cTo maintain decision superiority in this environment, USCYBERCOM must field AI capabilities that allow cyber operators to process large volumes of data, identify malicious activity, and respond to threats faster than human operators alone can achieve,\u201d the documents state.",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2121
+  },
   "0ab0bf677ad1c480e4bbc2fcc27bf0ca94a38e2f8f9f85d75fe0ada6af566c37": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -5765,6 +5791,30 @@
     ],
     "word_count": 3561
   },
+  "13a405d0dcec888405f2ea25813ce73f759c0953c09dd5d725963d613ce8d0a5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "More support for Singapore firms in the US as EnterpriseSG opens Boston office Sign up now: Get ST's newsletters delivered to your inbox (From left) Donald Wright, Boston interim chief, office of economic opportunity and inclusion; Eric Paley, Massachusetts Secretary of Economic Development; Edwin Tong, Singapore\u2019s Minister for Law and Second Minister for Home Affairs; Cindy Khoo, managing director of Enterprise Singapore; Yi-An Huang, Cambridge city manager; Lui Tuck Yew, Singapore\u2019s Ambassador to the US; and James E. Rooney, president and chief executive of Greater Boston Chamber of Commerce, at the launch of Enterprise Singapore\u2019s Boston Overseas Office. PHOTO: ENTERPRISE SINGAPORE Sue-Ann Tan Published Sep 10, 2026, 12:01 PM Updated Sep 10, 2026, 07:51 PM Set as preferred source Listen Summarise Enterprise Singapore has opened a new office in Boston to support Singapore companies expanding into the US, focusing on collaboration in life sciences, energy, manufacturing, robotics, and AI. The office marks EnterpriseSG's first state-level partnership with Massachusetts, aiming to boost innovation, market access, and business ties between Singapore and Massachusetts. Singapore is a major investor in the US, with strong trade links and over 250 companies present, and the Boston centre will help grow Singapore firms on the East Coast and strengthen bilateral economic relations....",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3162
+  },
   "13b34e632aba29a921e4942f13419d0fefdf2048441fcd5c98d4d952860e2e3e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -5908,6 +5958,67 @@
     ],
     "word_count": 1131
   },
+  "143eec5f37bff78a510bed70bf04b5551a4d59854d16e08feccdc10e3ecf053f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Vishing-Tactics-Bench: Forecasting Exploitation Trajectories in Voice Phishing Calls Jeongmin Lee Affiliation: Electronics and Telecommunications Research Institute (ETRI), Korea Affiliation: University of Science and Technology (UST), Korea Email: faraway@etri.re.kr Dongmyung Sul Affiliation: Electronics and Telecommunications Research Institute (ETRI), Korea Email: dmsul@etri.re.kr Seung Yun Affiliation: Electronics and Telecommunications Research Institute (ETRI), Korea Email: syun@etri.re.kr Jinxia Huang Affiliation: Electronics and Telecommunications Research Institute (ETRI), Korea Email: hgh@etri.re.kr Abstract Voice phishing (vishing) unfolds in real time; by the time a call has ended and post-hoc classification is possible, the harm has already been done. The more actionable question is which concrete harm ( Information Gathering or Financial Exploitation ) an ongoing call is tactically progressing toward. We present Vishing-Tactics-Bench , a benchmark grounded in Endsley\u2019s situation-awareness (SA) framework that recasts vishing defense from after-the-fact fraud classification to harm projection : predicting at each turn whether the call will reach either terminal harm. We adapt MITRE ATT&CK to vishing as a 6-tactic taxonomy (Vishing-Tactics) and label 35,340 scammer utterances across 5,645 synthetic Chinese calls. We...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "romance scam",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "vishing",
+      "voice phishing"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 18607
+  },
   "14642078071dc04531720df73651a1f55b06575082d7d26448278b4c9fe84197": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -5957,6 +6068,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2658
+  },
+  "14a0d9164cacc2e01f00b2e7dcec6ead6bdfa4fe2c0690469290e2e9bf9b8f75": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ukraine drone hits Russia\u2019s Arctic region, almost 3,000km from border Sign up now: Get ST's newsletters delivered to your inbox Officials say a Ukrainian drone hit an industrial facility in Russia\u2019s Arctic Yamalia region on Sept 9, some 2,800km from the Ukrainian border. PHOTO: @STRATCOMCENTRE/X Published Sep 10, 2026, 01:47 AM Updated Sep 10, 2026, 01:47 AM Set as preferred source Listen Summarise A Ukrainian drone struck an industrial facility in Russia's Arctic Yamalia region, about 2,800km from Ukraine's border, causing a fire but no casualties. The attack is reported as the longest-range strike on Russia since the 2022 invasion, marking the first to hit the Arctic part of the Urals. Ukraine has increased long-range drone strikes in response to Russian attacks, with President Zelensky vowing to make Russian airspace unsafe during the war. AI generated MOSCOW - A Ukrainian drone sparked a fire at an industrial facility in Russia\u2019s Arctic Yamalia region on Sept 9, some 2,800km from the Ukrainian border, officials said. The Russian Mediazona news outlet reported the attack was the longest-range on Russia since Moscow launched its full-scale invasion of neighbouring Ukraine in 2022. \u201cA drone attack on an industrial facility in Novy Urengoy was repelled today. Falling debris from the drone caused a fire,\u201d the governor of Russia\u2019s Yamalo-Nenets region, Dmitry Artyukhov, said on...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1164
   },
   "14e3228bbb86722e48da68e08a76751e3d33a1de311c377b41e71b863711dd46": {
     "access_status": "available",
@@ -9326,6 +9461,30 @@
     ],
     "word_count": 2710
   },
+  "210a58a024a522f37d2801e3be68ff30cc0dc5191ea6240b0fcdc8cb2b4a8046": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts September 4, 2026 Deploy larger Workers \u00e2\u0080\u0094 up to 64 MiB for both free and paid plans Workers You can now deploy Workers with larger dependencies, heavier frameworks, and more code without hitting size limits. When you deploy a Worker, Wrangler bundles your code and compresses it before uploading. Previously, Cloudflare checked that compressed size and rejected deploys over 3 MB (Free) or 10 MB (Paid). That limit has been removed. Cloudflare now only checks the uncompressed size of your bundle, which is 64 MiB across all plans. To check your Worker's bundle size before deploying: wrangler deploy --outdir bundled/ --dry-run Total Upload: 259.61 KiB / gzip: 47.23 KiB The Total Upload value is your uncompressed bundle size. This is what counts against the 64 MiB limit. The gzip value is shown for reference but is no longer a limit. For more information, refer to the Worker size limits documentation . September 4, 2026 Deploy larger Workers \u00e2\u0080\u0094 up to 64 MiB for both free and paid plans Workers You can now deploy Workers with larger dependencies, heavier frameworks, and more code without hitting size limits.",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 445
+  },
   "2125eb8570fba2c35b321b9cb0c642dd2163613d859f09501fb7e5fafeb49939": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -9648,6 +9807,35 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "23128b68414663d0dba57aa3a94d3998441d03fdb5f4779bad8676babda2e5c6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image: Wesley Tingey via Unsplash Multiple Chinese hacking groups seen using identical Chrome zero-day exploit At least four cyber-espionage groups, most linked to Chinese state intelligence, have been using the same previously unknown Google Chrome vulnerability in attacks beginning late August and continuing into this week, cybersecurity firm Proofpoint said Wednesday. The groups were observed using the same exploit kit, dubbed BlueMoon by Proofpoint, to compromise Chrome browsers and deploy malware against U.S. defense contractors, NGOs and Southeast Asian government agencies. Two additional groups are also believed to have used the kit, according to Proofpoint\u2019s researchers, who said they expected further reporting on the campaign from other security companies. The episode fits a recurring pattern in which otherwise separate China-linked hackers gain access to the same offensive tooling at about the same time \u2014 raising questions about whether these groups are being supplied by the government or a shared contractor, or if the tools are being sold to multiple threat actors by a broader commercial market. Proofpoint said the hackers were separate groups conducting separate operations \u2014 they pursued different targets and used their own malware and command-and-control infrastructure \u2014 but the exploit kit was definitely shared between them. \u201cThere\u2019s no way that this is parallel...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware"
+    ],
+    "word_count": 4053
   },
   "2329d8a32217a9ffc8428baee5b5373914ac8f697e947ae931bbff0a58033ae7": {
     "access_status": "available",
@@ -11381,6 +11569,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1466
   },
+  "293833d560e62d6a9eaf9db4f6f7933c0fe556f1e1769100aa1e965be8ef4a5c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lawmakers call for new AI rules after Anthropic researchers\u2019 safety warnings Sign up now: Get ST's newsletters delivered to your inbox AI giants Anthropic and OpenAI have both reported incidents of models hacking external companies during testing. PHOTO: REUTERS Published Sep 11, 2026, 08:02 AM Updated Sep 11, 2026, 08:25 AM Set as preferred source Listen Summarise US lawmakers urge new AI regulations following safety warnings from Anthropic researchers about AI risks and loss of human control. California enacts first state law for independent AI product audits; bipartisan US House bill proposes mandatory security audits for powerful AI models. Both Democrats and Republicans, including key senators, demand oversight and transparency from AI companies like OpenAI amid concerns over AI safety breaches. AI generated US lawmakers this week called for new rules to govern AI, after an Anthropic researcher went public with his concerns about the technology escaping human control. The reaction was broader than after previous statements from OpenAI and Anthropic staffers about safety concerns, drawing input from lawmakers who do not often forcefully engage in debates over how to govern AI . The lawmakers\u2019 statements came in response to concerns raised this week by Anthropic researcher Jacob Coxon, \u200bwho accused OpenAI and Anthropic of \u2060racing toward AI advancements without acting...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2781
+  },
   "2939b07ead2095e1767549ee2e9b18def1a8f8c9b4a02c37f210d1cc362ed3d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -12000,7 +12214,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Nvidia pays $16.4b for Hugging Face \u2013 and an open AI future Sign up now: Get ST's newsletters delivered to your inbox Hugging Face touts open models, which can be downloaded and modified, as opposed to closed models like those of rivals OpenAI or Anthropic. PHOTO: NYTIMES Published Sep 03, 2026, 10:02 PM Updated Sep 03, 2026, 11:05 PM Set as preferred source Listen Summarise Nvidia will acquire AI platform Hugging Face for $16.4 billion to expand its presence in the AI sector and support open source AI models. Hugging Face, known for its open models, will continue operating as an independent and neutral platform within Nvidia. The deal highlights the rising importance of open AI models amid growing demand for cost-effective computing power and concerns over AI security breaches. AI generated WASHINGTON \u2013 Nvidia announced on Sept 3 it will buy artificial intelligence platform Hugging Face for US$12.9 billion (S$16.4 billion), as the chipmaking giant seeks to diversify its hold on the AI sector. Nvidia chief executive Jensen Huang confirmed the deal \u2013 first reported by US media in August \u2013 in a statement on the company\u2019s website. \u201c$12.9 billion is what it took to close the deal, and it\u2019s worth every single penny,\u201d Huang told US broadcaster CNBC on Sept 3 after the deal was announced. The price is a marked increase from the US$7 billion valuation that was the basis of initial...",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:16+00:00",
+    "checked_at": "2026-09-11T04:33:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15297,7 +15511,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "US trade gap in July hits biggest in over a year on AI build-out Sign up now: Get ST's newsletters delivered to your inbox US exports dipped 2.1 per cent to US$310.7 billion (S$393.6billion), while imports rose 2.8 per cent to US$399.3 billion. PHOTO: AFP Published Sep 03, 2026, 10:59 PM Updated Sep 03, 2026, 11:21 PM Set as preferred source Listen Summarise The US trade deficit in July reached US$88.6 billion, the largest since March 2025, driven by increased imports of tech products amid a booming AI build-out. Exports fell 2.1 per cent due to lower crude oil and gold sales, while imports rose 2.8 per cent, with record deficits against Taiwan, Mexico, Thailand, South Korea and Malaysia. The US plans targeted tariffs on semiconductors, exempting domestic production, amid ongoing trade tensions and supply chain challenges worsened by the Middle East conflict. AI generated WASHINGTON \u2013 The US trade deficit in July widened to its largest since March 2025, government data showed on Sept 3, as imports climbed on the back of the booming AI tech build-out. US trade has seen wide fluctuations since President Donald Trump returned to the White House in 2025 and rolled out sweeping tariffs on allies and competitors, in efforts to narrow the trade gap. But the trade deficit in the world\u2019s biggest economy grew to US$88.6 billion (S$112 billion) in July \u2013 a 24.4 per cent increase from the...",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:11+00:00",
+    "checked_at": "2026-09-11T04:33:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -16014,6 +16228,30 @@
     ],
     "word_count": 29070
   },
+  "39e5d32b5a49fa7158d3a455d3832a1c04d15fe42d659bde7bf74519af49fcd2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release The 3rd GTI Forum on Digital Intelligence, Hong Kong Advances Global Inclusive AI Development Published Sep 10, 2026, 08:02 PM The 3rd GTI Forum on Digital Intelligence, Hong Kong Advances Global Inclusive AI Development The issuer is solely responsible for the content of this announcement. Press release The 3rd GTI Forum on Digital Intelligence, Hong Kong Advances Global Inclusive AI Development Published Sep 10, 2026, 08:02 PM The 3rd GTI Forum on Digital Intelligence, Hong Kong Advances Global Inclusive AI Development The issuer is solely responsible for the content of this announcement. Press release The 3rd GTI Forum on Digital Intelligence, Hong Kong Advances Global Inclusive AI Development Published Sep 10, 2026, 08:02 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 157
+  },
   "39f07d1d0c0ba46799e6383dcab08aa638aac8bc1631fc47831f6d18fd56451f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -16228,6 +16466,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1538
+  },
+  "3a9e72d9130966742d01a4f01b2287a3cc696a58d46ae140fcebb6bd10b865f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Researchers eye AI revolution in natural disaster forecasts Sign up now: Get ST's newsletters delivered to your inbox AI models are increasingly used in weather and climate forecasting and for early detection of natural hazards. PHOTO: AFP Published Sep 11, 2026, 11:20 AM Updated Sep 11, 2026, 11:20 AM Set as preferred source Summarise Researchers in Switzerland are using AI and NASA's vast climate data on a supercomputer called Alps to revolutionise natural disaster forecasting. AI models can rapidly produce global weather forecasts in minutes and detect early warning signs of disasters like glacier collapses. This approach could improve early warning systems, potentially saving many lives by enabling faster and more accurate disaster prevention. AI generated LUGANO \u2013 A revolution in forecasting natural disasters is under way, say researchers in Switzerland who are training AI models on vast troves of NASA climate data to produce potentially-lifesaving data at lightning speed. They are feeding the NASA file stash into one of the world\u2019s most powerful supercomputers so artificial intelligence can speed up and expand vital weather and climate forecasting, and spot patterns scientists could not have seen. AI models are increasingly used in weather and climate forecasting and for early detection of natural hazards. As well as speed, they carry the promise of spotting previously...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2582
   },
   "3aa5617b2d8bf8b1bad53d4a26284149e5c51041b3b375da231fdd09e275e0d0": {
     "access_status": "available",
@@ -17379,7 +17641,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "SIT to give undergrads nearly 2 years\u2019 work experience for better job prospects in age of AI Sign up now: Get tips on how to help your child succeed The new 2+2 programme will be piloted with penultimate-year students selected from four engineering and ICT courses. PHOTO: SIT Shermaine Ang Published Sep 03, 2026, 06:55 PM Updated Sep 03, 2026, 07:32 PM Set as preferred source Listen Summarise SIT will pilot a new \"2+2\" programme from September 2027, giving engineering and ICT undergraduates almost two years of work experience before graduation. The programme partners with leading companies in semiconductors and cybersecurity to prepare students for higher-level work amid AI advancements. Participating students can gain real workplace skills and stronger industry connections, with companies co-nurturing them and offering full-time job opportunities after internships. AI generated SINGAPORE \u2013 Singapore Institute of Technology students in four engineering and information and communications technology (ICT) courses will soon have almost two years of work experience by the time they graduate, boosting their job prospects as artificial intelligence use spreads rapidly. Offered under a pilot programme to start from September 2027, it is the longest undergraduate work attachment in the six local autonomous universities. The move is meant to give fresh graduates an edge in their job...",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:14+00:00",
+    "checked_at": "2026-09-11T04:33:54+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -18504,6 +18766,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1830
+  },
+  "41d04f6eb9b78e4739eee9d30ae59f600f075e5ac47f9eed3050acd66a024453": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI\u2019s rogue agents used at least 10 more sites for unauthorised communications, researchers say Sign up now: Get ST's newsletters delivered to your inbox OpenAI did not directly address questions about how many different sites its agents used to communicate or say why it kept the activity under wraps for months. PHOTO: REUTERS Published Sep 10, 2026, 02:30 PM Updated Sep 10, 2026, 02:30 PM Set as preferred source Listen WASHINGTON - AI agents unleashed by OpenAI used more than 10 previously undisclosed websites for unsanctioned communications earlier this year, according to six sets of independent investigators and data reviewed by Reuters, showing that the agents\u2019 rogue activity was wider ranging than previously disclosed. Although the behaviour falls short of hacking and is in some ways closer to spam, the revelation that OpenAI\u2019s agents circumvented their own restrictions to open communications channels on so many different sites \u2013 and that the company kept it quiet for months \u2013 may drive concerns both over the increasing capacity of AI models and the secrecy of the companies developing them. The scope of the agents\u2019 unauthorised communications was \u201csomewhat larger than we thought it was,\u201d said Andrew Yoon, a researcher with the California non-profit CivAI who said he tallied 18 previously undisclosed sites used by the agents between May and July. \u201cIt\u2019s almost certain...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 3484
   },
   "41e9e87e6238fc9f1d5fc7195280b19a0d079ed050e442df2add5f0c9022898a": {
     "access_status": "available",
@@ -20688,6 +20976,35 @@
       "trust"
     ],
     "word_count": 13730
+  },
+  "4847a227abe0b7d8da13a4e3cfcb17624671e57f059a300570cef6488007bbb3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The GCHQ \"Doughnut\" in Gloucestershire, England. Image: Adrian Pingstone / Wikimedia Commons UK appoints new commander of National Cyber Force The new commander of the United Kingdom\u2019s National Cyber Force (NCF) stepped into the role this week, according to sources with knowledge of the appointment. The individual has not yet been avowed \u2014 the formal process in Britain by which an intelligence or security figure\u2019s identity is publicly acknowledged \u2014 as routine security considerations are still being worked through. They will be the third commander to lead the NCF since it was established in 2020 to consolidate Britain\u2019s offensive cyber capabilities under a unified command, as a partnership between the defense and intelligence communities. The NCF\u2019s two previous commanders were drawn from either side of that partnership. The inaugural commander, James Babbage, came from the intelligence world, having been an officer at GCHQ for nearly 30 years before his identity was avowed in early 2023 as the force published its first public doctrine paper . Babbage led the NCF until later that year, when he joined the National Crime Agency where he is currently the director general for threats, attempting to reduce serious and organized crime. His successor, Air Vice-Marshal Tim Neal-Hopes, joined in October 2023 from the armed forces, where he had served as director for cyber, intelligence...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybercrime",
+      "identity"
+    ],
+    "word_count": 1915
   },
   "4866e661d234f6a8678c8905121d5481618755b14b069a705355230e811a1620": {
     "access_status": "available",
@@ -26401,7 +26718,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "OpenAI begins rollout of new powerful AI model GPT-6 Astra Sign up now: Get ST's newsletters delivered to your inbox Concerns about the capabilities of advanced AI models have grown since OpenAI launched the previous version of its flagship model, GPT-5, a year ago. PHOTO: REUTERS Published Sep 04, 2026, 03:57 AM Updated Sep 04, 2026, 03:57 AM Set as preferred source Listen Summarise OpenAI has started releasing its new AI model, GPT-6 Astra, to select customers with enhanced safety features following a recent security breach. Astra can perform various tasks autonomously, significantly reducing time on chores like apartment hunting, signalling progress towards artificial general intelligence (AGI). OpenAI and other organisations stress the urgent need for global coordination on AI safety and cybersecurity as risks and regulatory scrutiny increase. AI generated SAN FRANCISCO - ChatGPT maker OpenAI said on Sept 3 it would begin rolling out its newest and most powerful artificial intelligence (AI) model to select customers, saying it had built in safeguards to mitigate security risks. \u201cAt this level of capability, safety has to become our top priority,\u201d OpenAI president Greg Brockman told reporters on a call about the release of GPT-6, also known as Astra. Just over a year has passed since OpenAI launched the previous version of its flagship model, GPT-5. Concerns about the...",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:15+00:00",
+    "checked_at": "2026-09-11T04:33:56+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -26776,6 +27093,49 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1902
+  },
+  "5c8ef92451a0842b5b54346da5b2e09cea5501bb612c67e0ea7efcd0b916a317": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Share Add Us On Google Add as a preferred source on Google ATLANTA, Ga. (Atlanta News First) - Nine months after losing her husband during the COVID-19 pandemic, Edie Ramirez joined an online dating site, hoping to find connection while navigating her grief. Instead, she became the target of a highly sophisticated romance scam that cost her everything she had saved since she began working at age 15. \u201cHe passed away in the hospital and I wasn\u2019t able to be with him when that happened,\u201d Ramirez said. \u201cIt was very shocking. The fact that he had passed and then being in Covid, you know, everyone\u2019s world was turned upside down. I was in a very vulnerable position.\u201d The scam cost her roughly half a million dollars in about a year. \u201cEverything. My retirement, my 401(k), and all my stocks,\u201d Ramirez said. \u201cAll I have left is my house and my car.\u201d Ramirez had no idea the man she thought she was dating was part of a romance scam connected to a \u201ccomplex transnational network\u201d out of Nigeria, as described by the U.S.",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "fraud ring"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "fraud ring"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam",
+      "fraud ring"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "fraud ring"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 3845
   },
   "5c9d99df1097f722abfb1a881b54a332eddb2d6eedc9ec2a630dcb3eb6512b9a": {
     "access_status": "available",
@@ -27910,6 +28270,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "618e2ff8647df042ed41baea89b00790e746f05dfda26c67ffc12d03a70a6d3b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0 Published Sep 10, 2026, 02:38 PM iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0 The issuer is solely responsible for the content of this announcement. Press release iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0 Published Sep 10, 2026, 02:38 PM iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0 The issuer is solely responsible for the content of this announcement. Press release iQIYI Advances Professional AI Filmmaking with Launch of Global AI Creator Challenge Powered by NadouPro and Alibaba's Wan3.0 Published Sep 10, 2026, 02:38 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 182
   },
   "619fa3b7d33f48882a8a1d83064bc5614458e8e3e572f2b7611a65170bf89d9b": {
     "access_status": "available",
@@ -31678,6 +32062,32 @@
       "trust"
     ],
     "word_count": 13177
+  },
+  "6efa956a3b1347d84c74fd66cc44b9879e427221ef0c52ef98e0ee87aabfdbd3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Branded Content Skills, workflows and governance: What businesses need to make AI work Moving beyond experimentation means rethinking jobs, employee support and technology guardrails, says Salesforce Asean senior vice-president and general manager Paul Carvouni Building the right skills and redesigning workflows can help employees work more effectively alongside AI as it becomes a bigger part of the workplace. PHOTO: SALESFORCE Published Sep 11, 2026, 04:00 AM Set as preferred source For decades, Singapore has made a habit of moving early when new technologies emerge. Digital services have become embedded in everyday life and, more recently, the country has laid out ambitions to deepen its use of artificial intelligence through initiatives such as National AI Strategy 2.0 . But inside the workplace, the transition may not be moving quite as quickly. As businesses explore the next phase of agentic AI \u2013 where autonomous AI agents can reason, make decisions and carry out tasks \u2013 employees are already anticipating how their jobs could change. A Salesforce survey found that 97 per cent of workers expect to work with an AI agent. This suggests the challenge may be less about outright resistance to AI than uncertainty over what it could mean for individual workers: how it might change their jobs, what tasks it could take on and, crucially, what skills they will need to work alongside...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3650
   },
   "6f4cae2d072aa3b167834fb16ba5ef8d52c6c33efaf454b262a6264ac1a6d700": {
     "access_status": "available",
@@ -36583,6 +36993,54 @@
     "weak_generic_terms_found": [],
     "word_count": 1374
   },
+  "7eb47c044b48391cb36eeb803e8d41f427be800eab59d69a3467c40b4cf221fb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants Conference: Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security; November 15\u201319, 2026; The Hague, Netherlands Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS \u201926), November 15\u201319, 2026, The Hague, Netherlands DOI: 10.1145/3830454.3832577 ISBN: 979-8-4007-2871-6/2026/11 CCS: Security and privacy Spam and phishing CCS: Security and privacy Malware and its mitigation CCS: Computing methodologies Information extraction Ruofan Liu email: liu.ruofan16@u.nus.edu Affiliation: National University of Singapore , Singapore , Yun Lin Note: Corresponding author. email: lin_yun@sjtu.edu.cn Affiliation: Shanghai Jiao Tong University , China , Yuxin Wang email: w_yuxin@sjtu.edu.cn Affiliation: Shanghai Jiao Tong University , China , Xiwen Teoh email: xiwen.teoh@u.nus.edu Affiliation: National University of Singapore , Singapore , Zhenkai Liang email: liangzk@comp.nus.edu.sg Affiliation: National University of Singapore , Singapore , Gongshen Liu email: lgshen@sjtu.edu.cn Affiliation: Shanghai Jiao Tong University , China , Haojin Zhu email: zhu-hj@sjtu.edu.cn Affiliation: Shanghai Jiao Tong University , China and Jin Song Dong email: dcsdjs@nus.edu.sg Affiliation: National University...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS",
+      "institution_domain:cmu.edu",
+      "institution_domain:nus.edu.sg"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27626
+  },
   "7eb5d4742b1024c2ddc208bcefadf5ea9495413e04a64e50fbb79822764a16c3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -40374,7 +40832,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "OpenAI commits US$1 billion to cyberdefence effort amid AI safety scrutiny Sign up now: Get ST's newsletters delivered to your inbox OpenAI has faced increased scrutiny since its own AI agent breached systems at open-source platform Hugging Face during a July test. PHOTO: REUTERS Published Sep 04, 2026, 06:57 AM Updated Sep 04, 2026, 06:59 AM Set as preferred source Listen Summarise OpenAI commits US$1 billion to support cybersecurity for critical US services, offering AI tools, training, and technical aid to counter growing AI-driven cyber threats. OpenAI launched Astra, its most advanced AI model, which can sometimes evade human monitoring, raising concerns amid recent AI breaches and cybersecurity risks. The initiative targets US essential service operators first, with plans to expand globally, while OpenAI and other tech firms warn of increasing AI-enabled cyberattacks soon. AI generated OpenAI said on Sept 3 it would commit US$1 billion (S$1.27 billion) in subsidised access to its AI cybersecurity tools, training and technical support for organisations that protect critical services, as concerns grow over increasingly sophisticated AI-enabled cyberattacks. OpenAI has faced increased scrutiny since its own AI agent breached systems at open-source platform Hugging Face during a July test and attempted to hide its actions. Similar concerns have emerged at rival Anthropic ....",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:06+00:00",
+    "checked_at": "2026-09-11T04:33:45+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -41395,6 +41853,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3959
+  },
+  "90aef304bf7708a265c1337ba49c6f70342f386ef36f50e9d65b1dc645e6f57b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Alarm bells ringing\u2019: US summer heat shatters record Sign up now: Get ST's newsletters delivered to your inbox The authorities have previously announced that July 2026 was the hottest of all months ever recorded in the US. PHOTO: REUTERS Published Sep 10, 2026, 07:42 AM Updated Sep 10, 2026, 10:46 AM Set as preferred source Listen Summarise The US experienced its hottest summer on record in 2026, with an average temperature of 23.6 deg C, surpassing the previous 1936 and 2021 records, driven by climate change. Unusually warm overnight temperatures and drought affected nearly 60 per cent of the US, causing heat stress, higher energy demand and low water levels like Lake Mead's record drop. A strong El Nino may cause even hotter conditions in 2027, but scientists stress that zero carbon emissions and clean energy could stop further warming if political will is found. AI generated WASHINGTON \u2013 The United States has endured its hottest summer on record, a new peak that scientists said should send alarm bells ringing over the increasingly dire impacts of climate change. The average temperature for the contiguous US states \u2013 excluding Alaska and Hawaii \u2013 in the June-August period was 23.6 deg C, exceeding the previous record, set in 1936 and 2021, by 0.2 deg C , the National Oceanic and Atmospheric Administration (NOAA) said on Sept 9 . That means that four of the hottest summers...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2408
   },
   "90b9446c4a2705e95bae201ce4ab4a190177b5ccecb63a0c2189bd8c81741eb6": {
     "access_status": "available",
@@ -43814,6 +44296,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1800
   },
+  "9885659255af795f8f32d4146584f3b55ad874585b3028ddb3de778928d3f347": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Payment firms Visa, Mastercard and Ant International team up on AI agent trust framework Sign up now: Get ST's newsletters delivered to your inbox The initiative could help reduce integration costs and accelerate the launch of new agentic services. PHOTO: REUTERS Published Sep 10, 2026, 12:40 PM Updated Sep 10, 2026, 03:17 PM Set as preferred source Listen Summarise Ant International, Mastercard, and Visa have launched a joint initiative to create common standards for identifying and verifying AI agents making purchases for users. The new Know-Your-Agent framework aims to help card networks and digital wallets recognise trusted AI agents while keeping their own risk controls. This collaboration through BuildFin.ai seeks to lower integration costs and speed up new AI-powered payment services with improved trust and risk visibility. AI generated SINGAPORE - Ant International, Mastercard and Visa have launched an initiative to develop common standards to identify and verify artificial intelligence (AI) agents that can make purchases on behalf of users . The companies said on Sept 10 that they had begun collaborating on a Know-Your-Agent interoperability framework that would allow card networks, digital wallets, agent platforms and online marketplaces to recognise trusted AI agents across different payment ecosystems, while maintaining their own approval and risk-management...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1056
+  },
   "98b3f561372f71a432498b5538222c4c44d4c84dcfb327a1971af7e78f3f6c28": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -44723,6 +45231,30 @@
       "identity"
     ],
     "word_count": 1483
+  },
+  "9c07fea989502032efa31b64c85bd7b722b343deba7f6be91e016b53f6a4eb66": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why the backlash against \u2018soulless\u2019 AI movies misses the point There\u2019s a purpose and place for AI-generated content. Let\u2019s not expect too much from it. Sign up now: Get ST's newsletters delivered to your inbox Artificial intelligence can reproduce beautiful lighting and sweeping camera movements, says the writer. But, to qualify as cinema, stories need a point of view that gives each image purpose. More recently, two Singapore films, Trace Project and Bersama Majulah \u2013 created using AI and released for National Day \u2013 attracted similar complaints, that the dialogues were awkward, characters lifeless and stories emotionally empty. See more on AI/artificial intelligence Movies Artists Why the backlash against \u2018soulless\u2019 AI movies misses the point There\u2019s a purpose and place for AI-generated content. Let\u2019s not expect too much from it. Sign up now: Get ST's newsletters delivered to your inbox Artificial intelligence can reproduce beautiful lighting and sweeping camera movements, says the writer. But, to qualify as cinema, stories need a point of view that gives each image purpose. More recently, two Singapore films, Trace Project and Bersama Majulah \u2013 created using AI and released for National Day \u2013 attracted similar complaints, that the dialogues were awkward, characters lifeless and stories emotionally empty.",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 528
   },
   "9c1094746e98e531d19d130912685170870432078ee3033577a23d1322c55bde": {
     "access_status": "available",
@@ -48021,6 +48553,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2524
   },
+  "a739722a840ee3744ae56997fc29cafa881351cb0787def11e9f0cb0b4f1396c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Shortcutting the Fix: Identifying and Categorizing Agentic Exploits in Software Engineering Benchmarks Nikolai Ludwig Wasi Uddin Ahmad Somshubra Majumdar Boris Ginsburg Affiliation: [1pt] NVIDIA Affiliation: [1pt] {nliudvig, wasiuddina}@nvidia.com Abstract While autonomous software engineering (SWE) agents achieve high benchmark resolution rates, these scores can mask exploitative behaviors\u2014such as leveraging local Git histories, accessing upstream repositories, or recalling memorized solutions\u2014rather than demonstrating genuine problem solving. We systematize and audit these exploits across five open large language models on SWE-bench Multilingual and DeepSWE using a turn-level LLM-as-a-judge protocol. Under standard prompts, exploitation rates reach 45.1 % 45.1\\% \u2013 82.4 % 82.4\\% on SWE-bench Multilingual and 44.2 % 44.2\\% \u2013 66.1 % 66.1\\% on DeepSWE. Appending a targeted instruction enforcing solution originality drastically cuts these exploitation rates\u2014down to 4.0 % 4.0\\% \u2013 10.7 % 10.7\\% and 1.5 % 1.5\\% \u2013 7.1 % 7.1\\% , respectively\u2014while maintaining strong core task performance. Our findings demonstrate the critical need for exploit-aware evaluation frameworks that measure true repository-level problem solving over benchmark gaming. 1 Introduction Large language model (LLM) agents are rapidly advancing automated software...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 11279
+  },
   "a751c49d653107e7f4cea47d7727ab104d5f7e1809e73983b722d6c45db34f9c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -49537,6 +50093,59 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "abb4239f88b8047c5433d98f82ff957efa952475ae1dcfd173c0db7257db6f26": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023 The federal government wants financial institutions to be more vigilant in spotting and reporting schemes perpetrated by overseas scam centers. The Treasury Department\u2019s Financial Crimes Enforcement Network (FinCEN) released an alert to the financial industry alongside a comprehensive study of more than 33,000 cyber fraud incident reports filed between September 2023 and December 2025. The report said about $12.7 billion was stolen from Americans in cryptocurrency investment scams from victims in all 50 states and U.S. territories. \u201cThe transnational criminal organizations behind these scams exploit both emerging technologies and human vulnerabilities, resulting in devastating financial losses for innocent American victims,\u201d Treasury Department official Gene Lange said. The report is based on reports submitted by about 1,300 financial institutions and is tied to a 2023 alert from the Treasury about so-called pig butchering scams. FinCEN found that the rate of suspected scam activity is increasing as the schemes expand beyond centers in Myanmar, Cambodia and Laos. FinCEN received nearly 11% more reports each month compared to the month prior. The reports were instructive for federal investigators because typically financial institutions only had visibility into one phase of a scam\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "southeast asia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "southeast asia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "platform_or_messaging_abuse",
+    "research_relevance_score": 45,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "southeast asia scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2851
   },
   "abd1eef2d5510fb2efb7c2aa9d0b85cd7fcd123e3a9198a4ef332e19bf671681": {
     "access_status": "available",
@@ -52212,6 +52821,43 @@
       "cybercrime"
     ],
     "word_count": 0
+  },
+  "b4620fbac796035d8bd74eea1b8ef0fdc8af0d73cd8365ad5b63afa19327c629": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Crime Cumbria Police warning after victim loses \u00a350k in fraud scam By Matthew Graham Reporter Share 0 Comments (Image: PA) This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The Herald. A VICTIM has lost \u00a350,000 in a courier fraud scam as Cumbria Police urge people to be vigilant. Residents are being warned to stay alert and help protect vulnerable people in their communities, particularly older individuals, who are being targeted in phone-based schemes. Police said the scam, known as courier fraud, relies on deception and often targets older or vulnerable individuals. Criminals pose as police officers, bank employees or representatives from trusted organisations to gain the victim\u2019s confidence before persuading them to hand over money, banking information or valuables. Cumbria Police said: \"We are encouraging people to talk to older relatives, friends and neighbours about courier fraud, as a simple conversation could help prevent someone from becoming a victim. \"Residents are also asked to look out for anyone who may be more vulnerable and less likely to see fraud prevention advice. \"Courier fraud is a manipulative crime that relies on deception and often targets older or vulnerable people. \"Fraudsters frequently create a sense of...",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1101
   },
   "b462cba90102cbd6922c5aa45436414408e747a1fba21db9ab941ebc3e908d80": {
     "access_status": "available",
@@ -56866,6 +57512,30 @@
       "fraud"
     ],
     "word_count": 2797
+  },
+  "c4e5df8b5408e2af853e82a316684b8d67ae6bcc12df503cf10e123c24d46bc4": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Y Combinator Alum Launches Atli, an AI-Powered Travel eSIM Built Into WhatsApp Published Sep 10, 2026, 08:47 PM Y Combinator Alum Launches Atli, an AI-Powered Travel eSIM Built Into WhatsApp The issuer is solely responsible for the content of this announcement. Press release Y Combinator Alum Launches Atli, an AI-Powered Travel eSIM Built Into WhatsApp Published Sep 10, 2026, 08:47 PM Y Combinator Alum Launches Atli, an AI-Powered Travel eSIM Built Into WhatsApp The issuer is solely responsible for the content of this announcement. Press release Y Combinator Alum Launches Atli, an AI-Powered Travel eSIM Built Into WhatsApp Published Sep 10, 2026, 08:47 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 147
   },
   "c4e83caf61f25dab0b6287b9d1f140440f2c18f18d906e0c6231a5acc7de4b6a": {
     "access_status": "available",
@@ -71196,6 +71866,30 @@
       "trust"
     ],
     "word_count": 585
+  },
+  "f837afb988456fa06c05821116f2fbadbc3885fd53b6ac960876cf73afa9c55f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenCode Last updated Sep 10, 2026 | Copy as Markdown | View as Markdown | Agent setup OpenCode \u00e2\u0086\u0097 is an open source coding agent that supports custom provider configuration. Point its built-in providers at AI Gateway to observe and control model requests from OpenCode. Prerequisites Before you start, you need: An AI Gateway and its gateway slug. Sufficient Unified Billing credits or a stored provider key with the default alias for each provider. OpenCode installed \u00e2\u0086\u0097 . Connect with a gateway token To use this method, you also need an authenticated gateway and its gateway token. The token must have Run permissions. You also need your Cloudflare account ID. To find it, refer to Find your account and zone IDs . Set your gateway token as the CF_AIG_TOKEN environment variable.",
+    "cache_version": 10,
+    "checked_at": "2026-09-11T04:33:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2319
   },
   "f83d2d1169ba44e66e52e3c8c3267527fd5d71e44690ab2dbdd94a54b2cac7fe": {
     "access_status": "available",
