@@ -417,7 +417,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "What To Read Next Featured Video Latest What To Read Next Branded Content",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:50+00:00",
+    "checked_at": "2026-09-12T04:30:22+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -6419,7 +6419,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Nemotron 3.5 Content Safety Moderator: A Compact Multimodal, Multilingual, and Reasoning Enabled Content Safety Moderator Varun Singh Anuj Doshi Makesh Narsimhan Sreedhar Shaona Ghosh Katherine Luna Affiliation: NVIDIA Affiliation: Santa Clara, CA Affiliation: {vasingh, andoshi, makeshn, shaonag, kluna}@nvidia.com Abstract Safety moderation for deployed AI applications is moving beyond text-only prompts: systems increasingly need to judge images, documents, screenshots, and generated responses under policies that vary across domains. Existing guardrails usually cover only part of this setting, making it difficult to combine broad coverage, custom policy control, and low compute cost. We present Nemotron 3.5 Content Safety Moderator, also referred to as Nemotron 3.5 CS in this paper for brevity, a compact 4B vision-language safety moderator that jointly classifies user prompts, images, and assistant responses across 12 languages. Nemotron 3.5 CS returns safety labels for latency-sensitive moderation and can additionally produce concise reasoning traces that apply supplied custom policies and identify violated categories when reasoning is requested. We also release a multimodal and multilingual safety dataset for guard training, spanning human-labeled real-image moderation, benign vision-language and document tasks, synthetic...",
     "cache_version": 10,
-    "checked_at": "2026-09-03T04:19:35+00:00",
+    "checked_at": "2026-09-12T04:30:23+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -6455,7 +6455,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Evaluating Social Engineering Risks in AI-based Interaction using Biometrics and a Gaming Setup Thanks: Support by C\u00e1tedra ENIA UAM-VERIDAS en IA Responsable (NextGenerationEU PRTR TSI-100927-2023-2), M2RAI (PID2024-160053OB-I00, MICIU/FEDER), TRUST-ID (PID2025-173396OB-I00, MICIU/AEI/EU) and PowerAI+ (SI4/PJI/2024-00062, CM/UAM). J.I. is an FPI MINECO/FEDER. Roberto Daza 1 2 , Javier Irigoyen 1 , Ivan Lopez 1 , Raquel Rodriguez-Carvajal 3 , Laura Gomez-Carbajo 3 , Julian Fierrez 1 , Ruben Tolosana 1 , and Aythami Morales 1 4 Affiliation: Affiliation: 1 BiometricsAI, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: Affiliation: 2 GHIA, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: Affiliation: 3 Biological and Health Psychology Department, Universidad Aut\u00f3noma de Madrid (UAM), Spain Affiliation: Affiliation: 4 Universidad de Las Palmas de Gran Canaria (ULPGC), Spain Affiliation: Affiliation: Corresponding author: roberto.daza@uam.es Abstract We introduce AIriskEval-gaming, an open platform and dataset to evaluate social engineering risks in LLM-mediated multimodal interaction through controlled games. It supports human\u2013human, human\u2013AI and AI\u2013AI settings, combining configurable game templates, role-conditioned LLM agents, psychology-informed participant profiling, structured interaction trees, and...",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:21:01+00:00",
+    "checked_at": "2026-09-12T04:30:30+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -10157,6 +10157,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "2437b21bf005035154ec2e740a7f670ee6327c1bd3cea6a1678c391aaf5036b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "2461308bd86561f032517cea66cd9c510be4c09bd1b1e2cb98a218aa30198b4e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -11468,6 +11492,32 @@
       "trust"
     ],
     "word_count": 725
+  },
+  "290ddb875658ea20792d9af4fbd78ec5319747c3fb74ef54f538e150e7145fe9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia in talks to invest in Anthropic\u2019s mega IPO, sources say Sign up now: Get ST's newsletters delivered to your inbox Anthropic is seeking to raise as much as US$100 billion (S$126.7 billion) that could value the artificial intelligence start-up at around US$2 trillion. PHOTO: REUTERS Published Sep 12, 2026, 08:50 AM Updated Sep 12, 2026, 10:43 AM Set as preferred source Listen Summarise Anthropic is planning a mega IPO to raise up to US$100 billion, potentially valuing the AI start-up at about US$2 trillion, with Nvidia considering a US$10 billion investment. Nvidia's involvement as an anchor investor would boost confidence and deepen ties between the chipmaker and Anthropic, which relies heavily on Nvidia GPUs for computing power. Anthropic's valuation and revenue have surged rapidly, backed by major tech firms like Amazon and Google, with plans to complete the IPO before the US midterm elections in November. AI generated SAN FRANCISCO \u2013 Anthropic is in talks to bring Nvidia as an anchor investor into what could be the largest IPO in history, two people familiar with the matter told Reuters. Anthropic is seeking to raise as much as US$100 billion (S$126.7 billion) that could value the artificial intelligence start-up at around US$2 trillion, the people said. Nvidia is considering investing up to US$10 billion in the IPO, one of the sources added. The plans remain under...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2288
   },
   "2910409108984f0bdd1a65ed13ec544d7c904a1a2978384aef8ae9a5b994fed8": {
     "access_status": "available",
@@ -13092,6 +13142,30 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "2eebb0b322d6a430437f03a790f7628bf54b0a8452d437efad6b32e6153f5eaf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Zettabyte and Raku Advanced Tech Sign MOU on Green AI Data Centers Across Asia Published Sep 11, 2026, 10:51 PM Zettabyte and Raku Advanced Tech Sign MOU on Green AI Data Centers Across Asia The issuer is solely responsible for the content of this announcement. Press release Zettabyte and Raku Advanced Tech Sign MOU on Green AI Data Centers Across Asia Published Sep 11, 2026, 10:51 PM Zettabyte and Raku Advanced Tech Sign MOU on Green AI Data Centers Across Asia The issuer is solely responsible for the content of this announcement. Press release Zettabyte and Raku Advanced Tech Sign MOU on Green AI Data Centers Across Asia Published Sep 11, 2026, 10:51 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 157
   },
   "2ef1ada1872c5778a18d8c58ebe058e1757625a38ec6070c82ca8d1778121d53": {
     "access_status": "available",
@@ -19871,6 +19945,41 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "44e21ceb355fe472fdd0fbd15f8be8d76fcae86528e34a628e89c3d3251ab5a3": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_timeout",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "45024cd02195cf52debad8a162816cf709716de313918dd08b8f783eb0065922": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -23004,6 +23113,44 @@
     ],
     "word_count": 794
   },
+  "4e5dbb88fca0a1756ed34d6cff845414b7e37c525afa5352da7e7363b80f0334": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Weapons, spying and cyber operations: Anthropic exposes Claude misuse Sign up now: Get ST's newsletters delivered to your inbox Anthropic\u2019s Claude AI models were used by various actors for activities ranging from weapons development and cyber operations to surveillance and fraud. ILLUSTRATION: REUTERS Published Sep 12, 2026, 09:15 AM Updated Sep 12, 2026, 09:15 AM Set as preferred source Anthropic said in a threat intelligence report on Sept 10 that several actors had used its Claude AI models for activities ranging from weapons development and cyber operations to surveillance and fraud. Here are some of the most notable cases described in the report as alleged by Anthropic. Conventional weapons China-Taiwan air defences: Anthropic said a China-based actor used Claude to develop an electronic-warfare and air-defence suppression software suite that ranked targets and modeled radar jamming. During the project, the actor changed a simulation to include 12 targets in Taiwan, including early-warning radar, Patriot and Tien Kung missile batteries, air bases and a command bunker. Anthropic said account information linked the actor to Chinese research institutions including the People\u2019s Liberation Army Academy of Military Sciences. Anthropic banned accounts linked to the actor. China\u2019s foreign ministry said it was not aware of the Anthropic report and that the government maintains...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:08+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "fake accounts"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 5996
+  },
   "4ed39f8bcd7e7ef0b88c321fee40ea11548068bcacdb2f491c04d91f8a0cb22b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -24816,7 +24963,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:21:03+00:00",
+    "checked_at": "2026-09-12T04:30:31+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -24916,6 +25063,30 @@
       "fraud"
     ],
     "word_count": 5039
+  },
+  "5574e867cb7428316c389e0aa6284eaee29851e6844ad0dfc86e6e9564a8437e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "True Fitness and True Yoga to shutter; customers report losses of more than $609,000 Sign up now: Get ST's newsletters delivered to your inbox The True Singapore Group has recorded substantial losses and net liabilities exceeding HK$400 million (S$64 million). ST PHOTO: GIN TAY Calista Wong and Ann Neo Published Sep 11, 2026, 10:00 AM Updated Sep 11, 2026, 11:07 PM Set as preferred source Listen Summarise True Fitness and True Yoga in Singapore have closed suddenly, causing customers to lose over $63,000 in unused memberships and packages, with 28 complaints reported to the consumer watchdog CASE. The parent company, Kontafarma China Holdings, cited fierce market competition, rising costs, and financial losses as reasons for the closure and winding-up of all outlets. Provisional liquidators have been appointed, and creditors' meetings are scheduled, while affected members express shock and frustration over the abrupt shutdowns and locked outlets. AI generated SINGAPORE \u2013 Fitness chains True Fitness and True Yoga in Singapore are set to close down, with their Hong Kong parent company declaring that it is winding up the businesses owing to market competition and cost pressures. In a market announcement on Sept 10 , parent company Kontafarma China Holdings said the directors of True Yoga and True Fitness passed resolutions saying they were unable to continue their businesses...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3737
   },
   "55b9498c23fbbe3e1b83e34e08d01b8c7104b17115be69ac111f546d0bc898fb": {
     "access_status": "available",
@@ -27478,7 +27649,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "US, China gear up for mid-September AI safety talks Sign up now: Get insights on Asia's fast-moving developments FILE PHOTO: Visitors stand near a sign of artificial intelligence at an AI robot booth at Security China, an exhibition on public safety and security, in Beijing, China June 7, 2023. REUTERS/Florence Lo/ File Photo Published Sep 05, 2026, 12:31 AM Updated Sep 05, 2026, 07:01 AM Set as preferred source Listen BEIJING, Sept 4 - The U.S. and China are gearing up to discuss AI safety risks during a dialogue planned for mid-September, two sources briefed on the discussions told Reuters, as rapidly advancing frontier AI capabilities reach a global tipping point. The talks, the first official bilateral discussions devoted exclusively to AI between the U.S. and China since U.S. President Donald Trump took office for a second time, will be led by U.S. Treasury Secretary Scott Bessent on the U.S. side, the sources, who were briefed on the planning, said on condition of anonymity. Reuters is reporting the tentative mid-September period for the first time. A White House official said \"there is currently no planned AI-related meeting in mid-September.\" Trump and Chinese President Xi Jinping are due to meet on September 24 during a summit in Washington.",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:40+00:00",
+    "checked_at": "2026-09-12T04:30:08+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -27688,6 +27859,30 @@
       "victim"
     ],
     "word_count": 3304
+  },
+  "5f7dc600b8a0f90a46f84defc7dd88e8e06f008bf4da85e9e82a42520ed3ce29": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "UAE revises AI data center plan after Iranian attacks, sources say Sign up now: Get ST's newsletters delivered to your inbox Published Sep 11, 2026, 05:11 PM Updated Sep 11, 2026, 05:51 PM Set as preferred source Listen Sept 11 - The United Arab Emirates is quietly revising plans for a 5-gigawatt AI data center project \u2013 one of the biggest outside the U.S. \u2013 after the Iran war prompted a rethink of how and where critical infrastructure should be built, six people familiar with the matter told Reuters. Originally envisaged as a 10-square-mile (26-square-kilometer) campus in Abu Dhabi, the project will now likely comprise a network of data centers spread across the UAE, according to four of the sources, who all spoke on condition of anonymity. Authorities are also considering ways to better protect the facilities from drone and missile attacks, including with air defenses and by building some underground, they said. The likely modifications to the project\u2019s blueprint have not previously been reported. DATA CENTER PROJECT IS CENTRAL TO UAE\u2019S GLOBAL AI AMBITIONS Plans for the UAE-US AI Campus, which is being built in partnership with American tech companies, were announced during President Donald Trump's visit last year to the wealthy Gulf state. The project is central to the UAE's ambitions to become a global AI powerhouse as it shifts its economy away from oil. It is led by G42...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2944
   },
   "5f8de9346070bd342b4af6b82dd3694b986144fbabddc0a964296e95766a1adf": {
     "access_status": "available",
@@ -30172,9 +30367,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images. A record available at this identity theft service that includes the drivers license for U.S. Defense Secretary Pete Hegseth, one of several high-ranking U.S. government officials whose drivers licenses can be found for sale. On Monday, Aug. 31, a source alerted KrebsOnSecurity to a service advertised by a new user on the Russian cybercrime forum Exploit , offering access to digital scans of identity documents on more than 170 million people in North America. The source brought it to my attention because the proprietor of this identity theft service offered my Virginia drivers license as a free sample in their initial sales thread on Exploit. The service, dubbed Nexus , claims to have more than 153 million drivers licenses for people in the United States and Canada, as well as more than 10 million identification cards; more...",
+    "article_excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month\u2019s patch bundle obliterates the software giant\u2019s previous record set in July , when it released updates for at least 570 security vulnerabilities. September\u2019s Patch Tuesday brings this year\u2019s total to more than 2,600, more than twice Microsoft\u2019s previous record-setting patch year in 2020 (1,245) and with three more months to go. There are two \u201czero-day\u201d flaws fixed this month that are being actively exploited: both CVE-2026-81963 and CVE-2026-85880 allow an attacker to elevate their privileges on Windows system. Fully 113 of the bugs addressed today earned Microsoft\u2019s \u201ccritical\u201d rating, meaning they could be abused by malware or miscreants to seize control over a vulnerable Windows machine with little or no help from the user. Continue reading \u2192 Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch...",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:43+00:00",
+    "checked_at": "2026-09-12T04:30:09+00:00",
     "direct_relevance_terms_found": [
       "voice phishing"
     ],
@@ -30194,9 +30389,7 @@
     "strong_scam_anchor_terms_found": [
       "voice phishing"
     ],
-    "technology_modus_terms_found": [
-      "robocall"
-    ],
+    "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
       "victim",
@@ -30208,7 +30401,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 12778
+    "word_count": 12124
   },
   "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
     "access_status": "available",
@@ -33462,6 +33655,32 @@
     "weak_generic_terms_found": [],
     "word_count": 113
   },
+  "73a910a6019cbbb70b0ffc36c00d9ecbe0f625c17b921954e69ae08344cbd390": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say Sign up now: Get ST's newsletters delivered to your inbox Many incidents have heightened concerns over the increasing capacity of AI models and developers\u2019 ability to contain them. ILLUSTRATION: REUTERS Published Sep 12, 2026, 09:20 AM Updated Sep 12, 2026, 09:20 AM Set as preferred source AI agents being tested by OpenAI attacked software service RubyGems two months before they hacked open-source platform Hugging Face , researchers said, the latest revelation of cyber attacks linked to major AI developers that have spooked the public and spurred calls for tighter regulation. Many incidents where AI agents from developers such as OpenAI and rival Anthropic have hacked or attempted to access external systems have heightened concerns over the increasing capacity of AI models and developers\u2019 ability to contain them. The latest revelation also comes as growing numbers of US lawmakers call for new rules to govern AI systems after dire warnings from two Anthropic researchers that rapidly progressing AI could lead to the extinction of the human race in the not-too-distant future. AI agents uploaded hundreds of malicious packages to RubyGems on May 11, according to a group of researchers who posted their findings online on Sept 11, saying they believed \u201cthese were authored by internal OpenAI agents\u201d. OpenAI...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 1321
+  },
   "73ae66ca802fe45e9b8de10f9ec9edc3adb124961003b1c077af51bd5c4ac5ea": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34892,6 +35111,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4262
+  },
+  "78f3ffe425afdd331e24f79d2f219a904ab2ef6395526fd324e8c9443d16f791": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Top maths prize winners warn AI race is threat to field Sign up now: Get ST's newsletters delivered to your inbox AI giant OpenAI said one of its models had cracked in a matter of days a Millennium Prize Problem that had eluded mathematicians for generations. PHOTO: REUTERS Published Sep 12, 2026, 09:10 AM Updated Sep 12, 2026, 09:54 AM Set as preferred source Listen Summarise Twenty-five Fields Medal winners warned that AI companies racing to solve famous maths problems risk harming the field and misalign with the goals of mathematical understanding. They emphasised maths problems are tools for developing insight through time, human interaction and conceptual understanding, which AI rapid solutions may undermine. The letter urges urgent discussion among mathematicians, AI developers and society to address risks as AI changes intellectual work, following OpenAI's claim of solving a Millennium Prize Problem. AI generated WASHINGTON \u2013 Twenty-five winners of the Fields Medal, the highest honour in mathematics, warned in a joint letter on Sept 11 that the rush by AI companies to solve famous unsolved problems risked doing lasting harm to the field. Their warning, signed by mathematicians including Australian-American mathematician Terence Tao and published on his blog, came days after AI giant OpenAI said one of its models had cracked in a matter of days a Millennium Prize Problem...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1507
   },
   "791ce33d5ae9202257f5e80b63974c3a031d93bc0acbd2531231977447594520": {
     "access_status": "available",
@@ -38567,6 +38810,44 @@
     "weak_generic_terms_found": [],
     "word_count": 584
   },
+  "83600f530c1488408cca5df0cf73edb12b2cede26e68935350fb61b6d4cf2c24": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Virginia Senator Presses Navy Federal To Provide Relief To \u2018Parking Lot Scam\u2019 Victims 08/29/2026 01:15 pm Tweet VIENNA, Va.\u2014A Virginia state senator is pressing Navy Federal Credit Union to provide relief to members who say they are being required to repay personal loans fraudulently opened through their mobile phones\u2014some carrying interest rates of 18%, WTKR reported. Bill DeSteph State Sen. Bill DeSteph, a Republican representing Virginia\u2019s 20th District, said he has discussed the problem several times with leaders of the $204-billion Navy Federal and also contacted NCUA, Virginia regulators and banking and credit union trade groups. \u201cEveryone I've talked to knew it was a problem. Every single one of the individuals at every level knew this was a problem,\u201d DeSteph told WTKR. Federal prosecutors call the fraud the \u201cparking lot scam.\u201d Criminals approach victims in public places, persuade them to hand over their phones and then access financial apps to apply for personal loans and transfer the proceeds. Federal court records show one prosecution involved 10 defendants and allegations including wire fraud, bank fraud and money laundering. Authorities have documented more than 500 victim reports and at least $2 million in losses. WTKR reported several victims said Navy Federal continued holding them responsible for the fraudulent debt after they filed claims. Attorney Gary C.",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:18+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "bank fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "bank fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "bank fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 850
+  },
   "83612992d18edeea32543a07c0ff33580b9f8825e73228277627478931722684": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -41233,7 +41514,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Society 25.08.2026 13:30 Society Newsroom Share Pella Phone Scam Victim Loses \u20ac15,000 And Gold Coins Police arrested one man after scammers tricked an elderly woman into handing over her savings and gold coins; his accomplices are still being sought Society 25.08.2026 13:30 Society Newsroom Share The suspects allegedly targeted elderly people in southern Athens, promising tax refunds or retroactive pension payments before persuading victims to hand over money, jewelry or other valuables \u039cake us preferred on Google Greek police have arrested two men accused of belonging to an organized group that posed as accountants to defraud elderly people in the southern Athens suburbs of Nea Smyrni and Palaio Faliro. The suspects, aged 41 and 44, were arrested by officers from the Greek Police Special Operations Unit in Menidi and Ano Liosia, respectively. A criminal case was filed against them for participating in a criminal organization established to commit fraud, both completed and attempted, professionally and repeatedly. Suspects allegedly posed as accountants According to the police investigation, the group began operating in late March, primarily targeting elderly people who were walking in the area. The 41-year-old suspect, who had a leadership role in the group, would approach potential victims and introduce himself as an accountant. NEWSLETTER TABLE TALK Never miss a story....",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:21:05+00:00",
+    "checked_at": "2026-09-12T04:30:10+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -41268,7 +41549,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 2764
+    "word_count": 2733
   },
   "8da35a28e6c5c42d11d4a9e7113603d707979f08f45770b18c2190aad77d85ec": {
     "access_status": "available",
@@ -41634,7 +41915,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:50+00:00",
+    "checked_at": "2026-09-12T04:30:21+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -43058,6 +43339,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2316
+  },
+  "93df13441426feaa69c4ec62bd224dc21cd09870da7129715ec75f023e7c3957": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 0
   },
   "93eb2b4918c75346e22d99168968088e8dcf9208d1fcf40e89081a05aacd7720": {
     "access_status": "available",
@@ -44807,6 +45114,55 @@
     "weak_generic_terms_found": [],
     "word_count": 1625
   },
+  "9a035bbdde18dbe92368ff3e528d2537f1e4f5c2cce3a9e791c6a726dc75427d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Machines Are Calling: Measuring Automated and Synthetic Voices in Unwanted Inbound Calls Xingyu Shen Tommy Duong Muduo Xu Xiaodong An Jiaqi Gan Haoyuan Tang Jamey Z. Liang Affiliation: Siyu Zhang, Yan Zhang, and Simiao Ren \u2020 Affiliation: Scam AI (Reality Inc.) Affiliation: \u2020 Corresponding author: benren@scam.ai September 7, 2026 Abstract In February 2024 the U.S. Federal Communications Commission (FCC) placed AI-generated voices under the Telephone Consumer Protection Act (TCPA) [ 1 ] . Yet no peer-reviewed measurement says how much unwanted call traffic is placed by a machine, or how much of that machine speech is synthesized rather than played from a recording. We report both with a disclosed pipeline. An interactive voice honeypot (language-model personas on real U.S. numbers, the caller recorded on its own track) recorded 10,987 calls over 66 days; 11 days on which our stack answered silently are set aside. Three instruments read each opening: an audio fingerprint that finds the same recording played on other calls, a commercial synthetic-speech detector on the caller\u2019s first ten seconds, and blinded listeners who check what it flags. Of the 7,233 calls our persona greeted on normal days, 13.8% open with a recording we also heard on another call, and 13.1% with fresh audio the detector labels synthetic .",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "phishing",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 39867
+  },
   "9a04d35395921d1b0c6d654c53a406e4085107883e3985be8463faf2c6113fcd": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -46295,7 +46651,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:21:03+00:00",
+    "checked_at": "2026-09-12T04:30:31+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -47803,6 +48159,32 @@
       "fraud"
     ],
     "word_count": 1773
+  },
+  "a41961bcdea6348ccdd0df248349fa1abb6f52f77725b773fa10dd50208f0eab": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore banks up AI game in apps with expenses tracking for retail customers Sign up now: Get ST's newsletters delivered to your inbox Trust Bank\u2019s new AI chatbot feature in its banking app lets customers ask questions related to their card transactions in the way they normally converse. PHOTO: TRUST BANK Kenny Chee Published Sep 12, 2026, 05:00 AM Updated Sep 12, 2026, 09:41 AM Set as preferred source Listen Summarise Singapore banks like Trust Bank, DBS, and OCBC are launching AI chatbots in their apps to help customers track spending and manage banking tasks more easily. These AI tools allow natural language interaction for checking transactions, rewards and wealth management, reducing manual effort and improving customer convenience. Banks aim to cut costs, boost earnings and enhance customer service, but AI features will soon be standard rather than a unique competitive advantage. AI generated SINGAPORE \u2013 Tracking your monthly dining, wellness or overseas spending is now as simple as asking a chatbot. With the launch of a new artificial intelligence tool in digital-only lender Trust Bank\u2019s app , these once-manual tasks are now fully automated. DBS Bank and OCBC Bank have plans for similar roll-outs from later this year. These AI-fuelled upgrades are the latest attempts by local banks to automate and lift customer service. Announced on Sept 8, Trust Bank\u2019s new AI chatbot...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2902
   },
   "a422d679b5fd5a8e4f9e6c0dfce542349d3c18f197eb438f40b0f0cdf732be28": {
     "access_status": "available",
@@ -50308,6 +50690,33 @@
       "trust"
     ],
     "word_count": 40993
+  },
+  "ac3bd243bafd43be3e3726e74d2c25c1cf3eb70515c01c668e1e6eb4bbcdcea8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Voting records from the Commodity Futures Trading Commission, the federal agency that regulates prediction markets , shed new light on how the government approaches these investigations. In early May, CFTC chairman Michael Selig approved an order allowing the agency\u2019s enforcement division to launch a private investigation into potential insider trading on Polymarket event contracts related to pardons issued by former president Joseph Biden. The order granted permission to take testimony, obtain subpoenas, administer oaths, and require the production of documents in the course of the investigation. The documents obtained by WIRED did not specify which trades were under suspicion, but the order came several weeks after an NPR report on a suspicious Polymarket trader who netted over $300,000 on pardon-related markets in the final days of the Biden administration. The trader correctly wagered that the former president would issue preemptive pardons to a number of prominent MAGA critics, including former US representatives Liz Cheney and Adam Kinzinger, and US senator Adam Schiff. At the end of May, Selig approved another investigation order. This time, the topic was \u201cIran event contracts\u201d on Polymarket. As with the Biden pardon documents, the investigation order did not provide details, but it came two weeks after 60 Minutes aired a report on a network of suspicious Polymarket...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud"
+    ],
+    "word_count": 3203
   },
   "ac639fe29386de15c0956647d09086d646aba7e0799d96ff14f8d5da7d3bb640": {
     "access_status": "available",
@@ -55527,6 +55936,60 @@
     "weak_generic_terms_found": [],
     "word_count": 2717
   },
+  "bd3e33280257726b147bb861878bbf8c4a80c3e0385a719d734403d2cd00a024": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Deep-Fake CAPTCHA: Mitigating Next-Generation Social Engineering Attacks Guy Frankovits Lior Yasur Fred M. Grabovski and Yisroel Mirsky \u2020 \u2020 thanks: G. Frankovits, L. Yasur, F. M. Grabovski, and Y. Mirsky are with Ben-Gurion University, 1 Ben-Gurion Ave., Beersheba 8410501, Israel (e-mail: guyfrank@post.bgu.ac.il; lioryasu@post.bgu.ac.il; freddie@post.bgu.ac.il; yisroel@bgu.ac.il). \u2020 \u2020 thanks: Corresponding author: Yisroel Mirsky (e-mail: yisroel@bgu.ac.il). Abstract This paper presents DF-CAPTCHA, an active defense against real-time deepfake impersonation in voice and video calls.",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:31+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "deepfake scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "deepfake scam"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:NDSS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "deepfake scam"
+    ],
+    "technology_modus_terms_found": [
+      "deepfake video call"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27983
+  },
   "bd465e74a507f68be983115c9ac682c9bde0bc81312457ba1025c351c0180afe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -56598,6 +57061,30 @@
       "victim"
     ],
     "word_count": 2070
+  },
+  "c119ea973464caf1a397e6aee924f81cb53810b3f52938b890826c114975fe67": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "c13486a83b44ccaf9a2d30cfbb4f4e7d4ddfc5dd73eef313806cdd2b38747df8": {
     "access_status": "available",
@@ -60766,6 +61253,41 @@
     ],
     "word_count": 1435
   },
+  "cf5b713983f08886b8e07ac410c6cd5705b0f6d3f6ffde0f5c0829836ef46046": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "How Anthropic says Claude was used for weapons, spying and cyber operations Sign up now: Get ST's newsletters delivered to your inbox Published Sep 12, 2026, 03:26 AM Updated Sep 12, 2026, 03:53 AM Set as preferred source Listen Sept 11 - Anthropic said in a threat intelligence report on Thursday that several actors had used its Claude AI models for activities ranging from weapons development and cyber operations to surveillance and fraud. Here are some of the most notable cases described in the report as alleged by Anthropic. CONVENTIONAL WEAPONS \u2022 CHINA-TAIWAN AIR DEFENSES: Anthropic said a China-based actor used Claude to develop an electronic-warfare and air-defense suppression software suite that ranked targets and modeled radar jamming. During the project, the actor changed a simulation to include 12 targets in Taiwan, including early-warning radar, Patriot and Tien Kung missile batteries, air bases and a command bunker. Anthropic said account information linked the actor to Chinese research institutions including the People's Liberation Army Academy of Military Sciences. Anthropic banned accounts linked to the actor. China's foreign ministry said it was not aware of the Anthropic report and that the government maintains that AI should be developed for good and opposes distortion of facts and smears against the country. China claims democratically governed Taiwan as its...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:09+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 4888
+  },
   "cf671cf6ae9efb274a862abe2af1ef25306ab61a6fbb2d2e00ed560cc52ab7fe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62882,6 +63404,34 @@
       "fraud"
     ],
     "word_count": 1611
+  },
+  "d662a54c6db4877114b884a83ac8c4ad85be00bde9b686521ed8e80f1f89d75d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Many comments don\u2019t mean many people\u2019: Azalina cautions against AI perception attacks Sign up now: Get insights on the biggest stories in Malaysia Fake X accounts, fabricated news websites and content containing false allegations could be used to influence political discussions. PHOTO: ANDRES KUDACKI/NYTIMES Published Sep 12, 2026, 12:25 PM Updated Sep 12, 2026, 12:25 PM Set as preferred source Summarise Azalina Othman Said warns that many social media comments may be generated by AI bots and do not represent the majority view or truth. Reports reveal about 1,000 fake accounts and fabricated content aimed at influencing Malaysian political discussions, though no evidence shows election impact. She urges Malaysians to verify information, respect factual criticism, ensure fair law enforcement, and not be swayed by comment volume or social media popularity. AI generated KUALA LUMPUR \u2013 A flood of comments on social media does not necessarily mean they reflect the views of the majority, especially with artificial intelligence (AI) being used to create fake accounts and generate content, says Azalina Othman Said. The Umno information chief said AI-powered bots could be used to produce large numbers of comments supporting one side or attacking another. \u201cWhen the same thing is repeated by dozens or hundreds of accounts, people may get the impression that it is the majority view,\u201d she...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "fake accounts"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1873
   },
   "d6710f35377b4c26e36fd05ab648573a228129c3f4e4fcb1db0cb50defa6881e": {
     "access_status": "available",
@@ -68925,6 +69475,50 @@
     ],
     "word_count": 1212
   },
+  "edb9b4ad192241727f43f4e2f5426c99945aa674e7474fce3a502c22d5ded683": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "SHARE A person in Northern Ireland lost \u00a3250,000 after falling for an investment scam that began with an apparently AI-generated video featuring a well-known personality. Contents How Did the AI Celebrity Scam Begin? How Did the Fraudsters Gain the Victim\u2019s Trust? How Was \u00a3250,000 Taken? Why Are AI Celebrity Endorsements Dangerous? What Warning Signs Should People Watch For? How Can People Check Whether an Investment Is Genuine? How Can People Stay Safe From AI Investment Scams? How Did the AI Celebrity Scam Begin? The victim saw what appeared to be an AI-generated video featuring a well-known personality from the financial sector.",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1757
+  },
   "edc3a55985080ab2b2cff80dcb715811e42aafb72729df94cae425f17c8bb7eb": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -70910,6 +71504,41 @@
     ],
     "word_count": 2284
   },
+  "f4db5395fe6b8c379d51c8498845f762ee942ac109d5d8e99ddc785b1a6367a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety Adithiyan Rajan Indira Saravanan Affiliation: Faculty of Engineering Affiliation: University of Ottawa Affiliation: Ottawa, Canada Email: aindi023@uottawa.ca Kathleen C. Fraser Affiliation: Faculty of Engineering Affiliation: University of Ottawa Affiliation: Ottawa, Canada Email: kathleen.fraser@uottawa.ca Abstract Allowing large language models (LLMs) to retrieve information from a set of trusted documents can increase reliability and reduce hallucination. However, recent work has demonstrated that retrieval-augmented generation (RAG) can have unintended side effects on the overall safety of the generated responses, when prompted for harmful or dangerous content. A clearer understanding of the mechanisms leading to this result is needed, as increasing numbers of end users turn to RAG to incorporate corporate documents and knowledge bases into LLM-based systems. We introduce RAG-Safety-Bench, a benchmark to measure the safety impact of RAG on LLM models. By removing the confounding effect of retriever quality, and cleanly separating the problem into four conditions \u2013 non-RAG, RAG with an oracle document containing the answer to the harmful request, RAG with documents related to the harmful request but without the specific answer, and RAG with random, safe...",
+    "cache_version": 10,
+    "checked_at": "2026-09-12T04:30:09+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 17805
+  },
   "f4fbff7cce70cf9b18dfa4a10219deec9a0ef42dcd20275facc9827fa13cc2d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -72517,7 +73146,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Receive news updates on the go. Why smart people fall for online scams: 3 Psychological tricks cybercriminals use Audio By Carbonatix On a regular Monday afternoon, Kwaku Rasta, a graduate of the University of Ghana with a first degree in Psychology, receives a supposed SMS alert from his bank, prompting him to click a link to answer certain questions that will enable the bank to safeguard his accounts. Kwaku assumes it is a normal routine. In the process, he is made to provide the name on his bank account, his bank account number, email address attached to the account and a box is provided for him to input a One-Time Password (OTP) sent to him. He completes the process, thinking his money is safe, and in less than 10 minutes, he receives an alert that a substantial amount of money has been debited from his account. Was Kwaku Rasta ignorant? Did he engage with an entity or brand he is not familiar with? Did he act out of greed? He did what all smart people would do: take advantage of an opportunity to secure their funds! This has been the fate of many diligent and educated individuals, corporate institutions, and even religious bodies.",
     "cache_version": 10,
-    "checked_at": "2026-08-28T11:21:13+00:00",
+    "checked_at": "2026-09-12T04:30:18+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",

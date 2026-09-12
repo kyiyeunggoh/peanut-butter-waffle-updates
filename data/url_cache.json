@@ -77,7 +77,7 @@
   },
   "0237146fced5cba5fb77bebf7e960b8bf7270c1b0099b8aa041ddca1bdc6f00f": {
     "canonical_url": "https://krebsonsecurity.com/",
-    "resolved_at": "2026-09-05T04:19:43+00:00"
+    "resolved_at": "2026-09-12T04:29:04+00:00"
   },
   "024873e26968115baf936f1ac129677ddb3b5252a22a2de4d28678f438bce743": {
     "canonical_url": "https://arxiv.org/html/2601.12460v1",
@@ -1265,7 +1265,7 @@
   },
   "1888ac029896fab259fb3b600fa02d8d1cd87cc5fcd20bc786f53f7798e7eea7": {
     "canonical_url": "https://www.straitstimes.com/asia/us-china-gear-up-for-mid-september-ai-safety-dialogue",
-    "resolved_at": "2026-09-05T04:19:36+00:00"
+    "resolved_at": "2026-09-12T04:29:01+00:00"
   },
   "1888b6df433248bab4a330e7694ae8527868a37c806f1b1bec38820bb2b58974": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6663219",
@@ -1867,6 +1867,10 @@
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3774761.3774918",
     "resolved_at": "2026-06-03T05:11:42+00:00"
   },
+  "24d8ec3febb18e2c1bb6eb4324099dc9498979f3ed9071d3d31c6e0acc3b6415": {
+    "canonical_url": "https://www.straitstimes.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say",
+    "resolved_at": "2026-09-12T04:29:18+00:00"
+  },
   "24d9f07d5852108a45abaffbbee49b88c38a18e822ac5821c0957acec93828e2": {
     "canonical_url": "https://www.reuters.com/world/us/trumps-give-speech-about-foreign-interference-2020-election-ms-now-reports-2026-07-13/",
     "resolved_at": "2026-07-14T03:30:21+00:00"
@@ -2186,6 +2190,10 @@
   "2a6057dc7f1222b07d3828a478e13d9e9af64af828dc197220b98e38dff32331": {
     "canonical_url": "https://arxiv.org/html/2608.04347v1",
     "resolved_at": "2026-08-08T02:19:19+00:00"
+  },
+  "2a65550767f96941d06c3e87999fcd18e216a34df915d8041a6a24156a491dca": {
+    "canonical_url": "https://arxiv.org/html/2609.11404v1",
+    "resolved_at": "2026-09-12T04:30:26+00:00"
   },
   "2a6563b290805c5739db0bf7eb147b6eca40fa58c3bc3d0a4ab33d89082ffaaa": {
     "canonical_url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
@@ -2647,6 +2655,10 @@
     "canonical_url": "https://apnews.com/article/cambodia-online-scam-compounds-cybercrime-ae52ba73f813548d8a0cd9f81cd4469a",
     "resolved_at": "2026-08-29T07:00:51+00:00"
   },
+  "344613955f14b72cee750a9209e28d5e0794bc159f6ab9f37f6f0e2dbfd6521f": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say",
+    "resolved_at": "2026-09-12T04:29:31+00:00"
+  },
   "34543221897089ebd1d69f1b5afa242a091c7ff008b20020eecb7319e3553135": {
     "canonical_url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
     "resolved_at": "2026-06-12T05:01:09+00:00"
@@ -3021,7 +3033,7 @@
   },
   "3b6ef1a03ae4b6e5291606d8ca1edbbbdb52647a9deb0875968662e3cc155e2a": {
     "canonical_url": "https://www.myjoyonline.com/why-smart-people-fall-for-online-scams-3-psychological-tricks-cybercriminals-use/",
-    "resolved_at": "2026-08-28T11:19:17+00:00"
+    "resolved_at": "2026-09-12T04:29:13+00:00"
   },
   "3b85a5ad3f8c0011f585e11971813f9942c42435c331b4f6f40c1a3ec90b452f": {
     "canonical_url": "https://www.reuters.com/legal/government/singapore-police-say-ai-chip-fraud-suspects-face-additional-fraud-money-2026-07-01/",
@@ -3090,6 +3102,10 @@
   "3cef8fa8ade2ac0a457036cb5a53e28c7574e54e0a19e6abc67f323414638320": {
     "canonical_url": "https://arxiv.org/pdf/2605.16363",
     "resolved_at": "2026-06-16T05:31:49+00:00"
+  },
+  "3cf9feaa159cfa6d046b68242c5c486e6c604659923b15437315206b4e79c23a": {
+    "canonical_url": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
+    "resolved_at": "2026-09-12T04:29:23+00:00"
   },
   "3d0a97e8f63f55fec62eb370f83dcb60ef5f68b7148304d7b3ce5690efb7da46": {
     "canonical_url": "https://www.404media.co/heres-the-bodycam-footage-of-the-cybertruck-that-drove-into-a-lake/",
@@ -3279,6 +3295,10 @@
     "canonical_url": "https://www.wired.com/story/the-fcc-is-coming-for-robot-vacuums/",
     "resolved_at": "2026-08-02T03:48:34+00:00"
   },
+  "40e9676e21d6cb54e0f2c28e64299343a2d02aab5a31627d2b92c4e8ccc0e6b6": {
+    "canonical_url": "https://arxiv.org/html/2609.11758v1",
+    "resolved_at": "2026-09-12T04:29:03+00:00"
+  },
   "411150f72878f62df7d2137d40f51dd704700b971422a19dc819861c5afdeaab": {
     "canonical_url": "https://arxiv.org/html/1906.07997v2",
     "resolved_at": "2026-08-26T01:56:19+00:00"
@@ -3454,6 +3474,10 @@
   "4468d70c49d66785175e2d4eefd2eda579656523875d44c1b1b1bcc845ecbbac": {
     "canonical_url": "https://dl.acm.org/doi/10.1016/j.eswa.2026.132189",
     "resolved_at": "2026-08-12T02:41:40+00:00"
+  },
+  "446ebb18e19d9600027c4cdd6bd2966ef9b5abace0eabf75d8a1519c8cd38818": {
+    "canonical_url": "https://www.straitstimes.com/asia/se-asia/many-comments-dont-mean-many-people-azalina-cautions-against-ai-perception-attacks",
+    "resolved_at": "2026-09-12T04:29:10+00:00"
   },
   "446f7ea4d008f01246e485fc0a8904babfb57e4eb5ed96c17ee4310d033d84fd": {
     "canonical_url": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
@@ -3695,6 +3719,10 @@
     "canonical_url": "https://www.reuters.com/legal/government/trump-puts-election-security-center-republicans-midterm-fight-2026-07-17/",
     "resolved_at": "2026-07-18T03:27:23+00:00"
   },
+  "491f5d44acaacaaadc869e04e3df578dcb417b84e43096d5999c24357f80a711": {
+    "canonical_url": "https://www.straitstimes.com/paid-press-releases/zettabyte-and-raku-advanced-tech-sign-mou-on-green-ai-data-centers-across-asia-20260911",
+    "resolved_at": "2026-09-12T04:29:12+00:00"
+  },
   "4943e5dfeb3715af77ff6211b44859e07597c90e2a76d8fa508cd4315dbfc6b2": {
     "canonical_url": "https://arxiv.org/html/2608.09820v1",
     "resolved_at": "2026-08-15T01:47:31+00:00"
@@ -3757,7 +3785,7 @@
   },
   "4a313ffa78d5d0db6085a0d1ce6167e92f281ad7be07defc8dce1806945c8f04": {
     "canonical_url": "https://www.wsj.com/tech/cybersecurity/cyber-scam-risks-retirees-28a25760",
-    "resolved_at": "2026-09-05T04:20:55+00:00"
+    "resolved_at": "2026-09-12T04:30:28+00:00"
   },
   "4a3e50aa45f365faef553ba06867ecf665d22e790e56530f1aa95b77ce0778d0": {
     "canonical_url": "https://www.abc.net.au/news/2026-07-01/cybercrime-report-finds-increase-in-scams-fall-in-vigilance/106861692",
@@ -3879,6 +3907,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6768558",
     "resolved_at": "2026-09-09T04:35:43+00:00"
   },
+  "4cd0a105ac60334e1e77bded35595e18fd4dd4d8043d3f4dad0424875c24e4d3": {
+    "canonical_url": "https://arxiv.org/html/2511.15352v4",
+    "resolved_at": "2026-09-12T04:29:38+00:00"
+  },
   "4cd172edd7b7e4aac9262a0b45704469b04477de0fe8b88f374a954ec46576e8": {
     "canonical_url": "https://www.bbc.com/news/articles/c3eye52g9zpo",
     "resolved_at": "2026-07-15T03:30:08+00:00"
@@ -3970,6 +4002,10 @@
   "4e40ef7746654cd5cd1373ab7babaf244aa6437a86fc45bd8ed01b8f3cb820f9": {
     "canonical_url": "https://ieeexplore.ieee.org/iel8/11340590/11341918/11342253.pdf",
     "resolved_at": "2026-08-04T03:34:30+00:00"
+  },
+  "4e5dbb88fca0a1756ed34d6cff845414b7e37c525afa5352da7e7363b80f0334": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/weapons-spying-and-cyber-operations-anthropic-exposes-claude-misuse",
+    "resolved_at": "2026-09-12T04:30:25+00:00"
   },
   "4e6358d3e22be355a5bdc6b7687dcf6903e46d9baa14b50732b6b68a278047c2": {
     "canonical_url": "https://www.abc.net.au/news/2026-06-10/adelaide-woman-charged-with-alleged-5m-ndis-fraud-plot/106782874",
@@ -4455,6 +4491,10 @@
     "canonical_url": "https://arxiv.org/html/2103.11002v1",
     "resolved_at": "2026-08-24T01:55:39+00:00"
   },
+  "5799fd5d69bca1fd1eebac9b95c1961947bf4c15973676fe014d73780c959a36": {
+    "canonical_url": "https://www.straitstimes.com/world/nvidia-in-talks-to-invest-in-anthropics-mega-ipo-sources-say",
+    "resolved_at": "2026-09-12T04:29:33+00:00"
+  },
   "57c9983ae0a4482d5e70b652b61fcc67a41eb3b4d80d93ddb2974a9853cd2d6e": {
     "canonical_url": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era",
     "resolved_at": "2026-06-28T04:48:57+00:00"
@@ -4558,6 +4598,10 @@
   "5979b7a809af438a11facaef65794cdccabc7c025af566a90990bd557915cf8b": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/fc5692a0-d016-4d32-945f-2b8344f0e438-MECA.pdf?abstractid=6636659&mirid=1",
     "resolved_at": "2026-05-31T04:49:58+00:00"
+  },
+  "597f2e47ada4f731c64a8d706ba44fefe6ed33ac09335e0ef5b0203c5eff4bfb": {
+    "canonical_url": "https://www.asahi.com/ajw/articles/16669718",
+    "resolved_at": "2026-09-12T04:30:30+00:00"
   },
   "59b7acaef6bab7ec8acecf944fbcb66e2e34e40f2965691533bd73740af19e3b": {
     "canonical_url": "https://arxiv.org/html/2601.10383",
@@ -5495,6 +5539,10 @@
     "canonical_url": "https://www.wired.com/story/the-science-behind-why-soccer-players-at-the-2026-world-cup-are-cutting-their-socks/",
     "resolved_at": "2026-07-08T03:41:11+00:00"
   },
+  "6c772a5bfe357553f49c2c4ad3e0130390fa9f2af10a6bb557b5fc4419a79ecc": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/how-anthropic-says-claude-was-used-for-weapons-spying-and-cyber-operations",
+    "resolved_at": "2026-09-12T04:29:06+00:00"
+  },
   "6c82d0ea83093f001e0ed9f81aa6f221abf17e02c870d6e603c1fe38fc110b28": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/30/guo-wengui-chinese-tycoon-sentenced-us-prison-fraud",
     "resolved_at": "2026-07-01T04:53:14+00:00"
@@ -5851,6 +5899,14 @@
     "canonical_url": "https://www.theguardian.com/us-news/2026/jun/05/first-thing-bondi-distances-herself-from-botched-release-of-epstein-files",
     "resolved_at": "2026-06-09T04:23:26+00:00"
   },
+  "73cf8b39d0e22411f74299cc328d414969b2fb5ce5352c2f08ba3cd6346aa676": {
+    "canonical_url": "https://www.cutoday.info/Fresh-Today/Virginia-Senator-Presses-Navy-Federal-To-Provide-Relief-To-Parking-Lot-Scam-Victims",
+    "resolved_at": "2026-09-12T04:29:15+00:00"
+  },
+  "73dcda20da207dfebf9e2e808127850b38e203c0cdce74b0e1984bec39abb3eb": {
+    "canonical_url": "https://www.straitstimes.com/world/top-math-prize-winners-warn-ai-race-is-threat-to-field",
+    "resolved_at": "2026-09-12T04:29:22+00:00"
+  },
   "73e2efdb15d5776ca7c7cb96ab1825d508150b06e8e631b61de10decfca5dfa5": {
     "canonical_url": "https://arxiv.org/html/2606.26377v1",
     "resolved_at": "2026-06-28T04:49:41+00:00"
@@ -5938,6 +5994,10 @@
   "75fd621835984e29745c33a8c03f275a3f8f14466fb1528fef2bf9b516bbee83": {
     "canonical_url": "https://arxiv.org/pdf/2602.09256",
     "resolved_at": "2026-07-19T03:49:18+00:00"
+  },
+  "7639ac95f15a5a716f4ebf63eb514790825465e46c9e7aa7bdb4ed9df03c6683": {
+    "canonical_url": "https://arxiv.org/pdf/2608.23185",
+    "resolved_at": "2026-09-12T04:29:21+00:00"
   },
   "765f1d905a13175967cfdeb5bdebaba1b51c0ea3b66703adc6e7bab86eba19b7": {
     "canonical_url": "https://www.straitstimes.com/paid-press-releases/tcl-earns-over-30-global-honors-at-ifa-2026-recognizing-cutting-edge-innovations-across-display-ai-and-smart-living-20260908",
@@ -6701,7 +6761,7 @@
   },
   "86451e2b45416ad41d587c02604ec8b9bd23b9d4cce9a4dcead48ce094ece739": {
     "canonical_url": "https://arxiv.org/pdf/2608.27548",
-    "resolved_at": "2026-09-03T04:18:28+00:00"
+    "resolved_at": "2026-09-12T04:29:34+00:00"
   },
   "8654f2b5aaf1c2fb4b1d92bc586d2d3473f8975b8cb17e098b2450866d170b6c": {
     "canonical_url": "https://www.reuters.com/world/asia-pacific/japan-arrests-man-suspected-links-alleged-scam-syndicate-prince-group-media-2026-06-22/",
@@ -6826,6 +6886,10 @@
   "88b5d857dbe290b77d8cb2f3d556cf86ab2ca9822a475f727ac17e6b318cac06": {
     "canonical_url": "https://www.nzherald.co.nz/rotorua-daily-post/news/two-men-charged-after-scam-allegedly-targets-vulnerable-victim-in-bay-of-plenty/VJZ3EACJS5FJXDPEHZ3FSRFJQE/",
     "resolved_at": "2026-09-08T04:30:05+00:00"
+  },
+  "88df71796f0b8992e3c4cb4166609e3e8522421e33d8f1773db6ec5b7cf09718": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7406538.pdf?abstractid=7406538&mirid=1",
+    "resolved_at": "2026-09-12T04:29:16+00:00"
   },
   "88ea5d10e26cd8ef211841692c678da250183c3a0b789118512c2ffb998e3ca8": {
     "canonical_url": "https://apnews.com/article/kashmir-india-climate-change-pollution-lakes-20543e12deff0ca532c0a4f1186da3b8",
@@ -7205,7 +7269,7 @@
   },
   "90075c6dfb313ade642bccc45b08bad37d818ace4e693f024d33dc4dc606ff0a": {
     "canonical_url": "https://www.tovima.com/society/greece-police-arrest-two-in-fake-accountant-scam/",
-    "resolved_at": "2026-09-05T04:20:58+00:00"
+    "resolved_at": "2026-09-12T04:29:07+00:00"
   },
   "9016e485b76dfbef705408eb9c404c96912b313f9cffaf54899064ead39b288a": {
     "canonical_url": "https://apnews.com/article/bolton-justice-department-trump-classified-information-e95c29e7f8659d8b4b01d44148ae1ab4",
@@ -7483,6 +7547,10 @@
     "canonical_url": "https://arxiv.org/pdf/2606.17793",
     "resolved_at": "2026-09-09T04:36:15+00:00"
   },
+  "95550e4f495eb4e0ce513d97bfa14c053bed02ad9b8137d80f90ce0d8c0df479": {
+    "canonical_url": "https://www.straitstimes.com/singapore/true-fitness-true-yoga-to-shutter-as-companies-parent-company-cites-financial-strain-losses",
+    "resolved_at": "2026-09-12T04:29:19+00:00"
+  },
   "955a9142ad4c36f2f8e8a140d9e695569581ceeaf43f47f8f59df86f260511c1": {
     "canonical_url": "https://arxiv.org/pdf/2606.16052",
     "resolved_at": "2026-06-17T05:11:23+00:00"
@@ -7529,7 +7597,7 @@
   },
   "963fff8f9b2a5074cbb9d23f601ff2b98401d99eb7a453e8f2a487c0854595b9": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7381920.pdf?abstractid=7381920&mirid=1",
-    "resolved_at": "2026-09-05T04:20:22+00:00"
+    "resolved_at": "2026-09-12T04:29:39+00:00"
   },
   "964c0ec7910d16905f8111428a233e18897c2e364d98316aa8f39b47dba6d9ba": {
     "canonical_url": "https://arxiv.org/html/2601.17887v2",
@@ -7891,6 +7959,10 @@
     "canonical_url": "https://arxiv.org/html/2508.21457v4",
     "resolved_at": "2026-09-05T04:20:52+00:00"
   },
+  "9dd7e25e4f55bc416c702222327c7c2822c5ee7e8f435c9694c95bb091fd0083": {
+    "canonical_url": "https://the420.in/ai-celebrity-investment-scam-fraud-warning/",
+    "resolved_at": "2026-09-12T04:29:09+00:00"
+  },
   "9df7aa1cb12bf75494bbe6c3b5402fd50a7ece08468396cb274e53a5596ffefe": {
     "canonical_url": "https://www.reuters.com/legal/litigation/unaids-chief-urges-us-reconsider-south-africa-funding-cut-2026-06-22/",
     "resolved_at": "2026-06-23T04:20:09+00:00"
@@ -7997,7 +8069,7 @@
   },
   "9fce8d6252ab8f64e9424d687d5977abe3f25885a3de197f1511f6067b7ac7f9": {
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3790556",
-    "resolved_at": "2026-09-05T04:20:55+00:00"
+    "resolved_at": "2026-09-12T04:30:26+00:00"
   },
   "9ff5978b0c0248d61aa4c9bb2f18a20b26b6ffed7fa14f21747ff9b9eb9468b1": {
     "canonical_url": "https://www.bbc.com/news/articles/cdr45nrr2jyo",
@@ -9625,7 +9697,7 @@
   },
   "bfea296efc255fd498f018da211595ea5a5419042319d0e53aa411bb00ae7f39": {
     "canonical_url": "https://arxiv.org/html/2606.18193",
-    "resolved_at": "2026-09-05T04:20:28+00:00"
+    "resolved_at": "2026-09-12T04:29:44+00:00"
   },
   "c005cf060cea359640afaa27266266875b3c3af0c500f0059d935dde4ccbc871": {
     "canonical_url": "https://www.ft.com/content/8f24f3a4-2c7c-4288-8e11-711500be427b?syn-25a6b1a6=1",
@@ -9694,6 +9766,10 @@
   "c11cdb1c42f8e8d3e40002c47acce971840493b39748165b4153a12bb21137f3": {
     "canonical_url": "https://www.channelnewsasia.com/listen/cna938-rewind/mind-your-money-new-economics-ai-compute-costs-fraud-and-market-manipulation-6224086?field_season_value=619681&page=51",
     "resolved_at": "2026-07-05T04:18:50+00:00"
+  },
+  "c1302bbd1540f3aac31d84ef1bd47fdb37e479e6c0c679b55b304f121165af6c": {
+    "canonical_url": "https://www.straitstimes.com/tech/singapore-banks-up-ai-game-in-apps-with-spending-checks-for-retail-customers",
+    "resolved_at": "2026-09-12T04:29:27+00:00"
   },
   "c14e1c93133590fd3378033ff46a9984ca203e7f5a5134e061d88c52572e6114": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jun/07/insurance-coverage-vaccines-trump",
@@ -10282,6 +10358,10 @@
   "cd64b94c549ee4102c92e31e366960527a91781c80c54087463e1a4d531adfc8": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6772980.pdf?abstractid=6772980&mirid=1&type=2",
     "resolved_at": "2026-05-24T10:12:27+00:00"
+  },
+  "cd9d8a3fe35281a2cbf3350c193caf56c6b665d386e218a945380b18fb5b0d02": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7377620.pdf?abstractid=7377620&mirid=1&type=2",
+    "resolved_at": "2026-09-12T04:29:29+00:00"
   },
   "cdb6293a4825078b0bfdfca6c2f8674a76f54d8df1f18f25852ea4e5920bed92": {
     "canonical_url": "https://apnews.com/article/alexandra-lozano-immigration-lawsuit-visa-fraud-1cc188fa7bb4e3e3d4f9b80b295c6f7d",
@@ -11035,6 +11115,10 @@
     "canonical_url": "https://shooliniuniversity.com/blog/from-deepfakes-to-ai-powered-cyberattacks-why-ai-safety-is-more-important-than-ever/",
     "resolved_at": "2026-08-26T01:55:49+00:00"
   },
+  "dc3ff332a7ef4d189ca7e3756294abf6edfe96fdffe28104b1cb4291746307be": {
+    "canonical_url": "https://arxiv.org/html/2609.11137v1",
+    "resolved_at": "2026-09-12T04:29:25+00:00"
+  },
   "dc4029b887971b6c4dd31ec7229045727ef6168e48d4aa3be4874994266528e6": {
     "canonical_url": "https://www.wired.com/story/the-odysseys-success-is-inspiring-unprecedented-levels-of-cope/",
     "resolved_at": "2026-07-25T16:26:07+00:00"
@@ -11050,6 +11134,14 @@
   "dc6422bf10a91df186292d4e847b1dbe79470545a22f5b2636445ff349fd2817": {
     "canonical_url": "https://www.economist.com/united-states/2026/07/09/why-donald-trump-wont-let-a-doomed-bill-die",
     "resolved_at": "2026-07-10T04:11:19+00:00"
+  },
+  "dc64a4a9dc621a2943ed7bb40ae2bd1e72549d8bd3c637fbbd2f80c95d9703ff": {
+    "canonical_url": "https://arxiv.org/html/2606.12429v1",
+    "resolved_at": "2026-09-12T04:29:41+00:00"
+  },
+  "dc6ee05a83db99670781caf3aa6797b184b1d398017febcf77544e22309fbaf6": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7435679.pdf?abstractid=7435679&mirid=1",
+    "resolved_at": "2026-09-12T04:29:35+00:00"
   },
   "dc7262b8b55541f364fb8af2dd05287a4af2cd292401dac4103107cfeef27e6c": {
     "canonical_url": "https://www.straitstimes.com/singapore/racist-hateful-comments-toward-indians-are-deeply-troubling-sporeans-must-reject-hatred-sm-lee",
@@ -11154,6 +11246,10 @@
   "de7f36c420243dae287bdaf4389d203b870233113602e45c8a462600216150c8": {
     "canonical_url": "https://apnews.com/article/paris-hilton-boarding-school-utah-license-revoked-aa4c287427144bb7b0f1e722c17aac0f",
     "resolved_at": "2026-07-19T03:49:00+00:00"
+  },
+  "de7f9703d1de7a44e386e7abfdf449f9efe6cf5db93764ae979b1f78646bfbe3": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7294760.pdf?abstractid=7294760&mirid=1&type=2",
+    "resolved_at": "2026-09-12T04:29:46+00:00"
   },
   "de91184318f85d6fcd15323915ecc5123ef6dad0ac9aac41b7bd27e4e58c5da0": {
     "canonical_url": "https://www.straitstimes.com/asia/un-says-human-trafficking-into-asian-scam-centres-is-surging",
@@ -12431,6 +12527,10 @@
     "canonical_url": "https://jobs.theguardian.com/job/10149155/senior-principal-consultant-fraud-risk-services/",
     "resolved_at": "2026-07-15T03:29:32+00:00"
   },
+  "f778cfa8db00bb4fc6f00a46f06d93f8544f4550bd9ed3894c50d3d6e19c3504": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/weapons-spying-and-cyber-operations-anthropic-exposes-claude-misuse",
+    "resolved_at": "2026-09-12T04:29:00+00:00"
+  },
   "f787cd73c541ac6c07fb2067ae9e1ae4f3393c1b87100bc08ad9ccb1ab63ddf3": {
     "canonical_url": "https://www.theguardian.com/culture/2026/jun/17/walter-parazaider-death",
     "resolved_at": "2026-06-21T05:18:39+00:00"
@@ -12617,7 +12717,7 @@
   },
   "fac53fb3c397e1a2ddaa0eb88b090e8938a13142196f8d8f8d7139b57c7327e1": {
     "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3772318.3791003",
-    "resolved_at": "2026-09-05T04:20:26+00:00"
+    "resolved_at": "2026-09-12T04:29:43+00:00"
   },
   "fae43befd7e1eb0ce3369be2b3035e48230f078ad6d464c656fee1b84042adf7": {
     "canonical_url": "https://arxiv.org/html/2607.13078v1",
