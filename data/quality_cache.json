@@ -2844,6 +2844,39 @@
     ],
     "word_count": 2121
   },
+  "0aa4033ae04982557079f98f696c6bae107f6bf6bdd02739d363af11370e37ad": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Temporal Heterogeneous Graph Transformer for Credit Card Fraud Detection Qinwen Yan email: florayan@g.ucla.edu Affiliation: University of California, Los Angeles , Los Angeles , California , USA \u00a9 none Abstract. Credit card fraud detection typically relies on tabular features, while repeated attributes can also provide useful relational signals. This paper proposes THGT-FD, a Temporal Heterogeneous Graph Transformer for Fraud Detection. Each transaction is represented using one transaction token and six types of relation tokens and incorporates Time2Vec encoding into the transaction representation. A Transformer learns the interactions among these tokens within each individual transaction and then outputs a fraud probability. Experiments were conducted on 150,000 transactions sampled from the IEEE-CIS Fraud Detection dataset and chronologically partitioned according to TransactionDT . On the test set, THGT-FD achieved an AUC-ROC of 0.8536, an average precision of 0.4164, and a Recall@5% of 0.4708. The class-weighted histogram-based gradient-boosting baseline achieved an AUC-ROC of 0.8722. The results indicate that relation tokens provide useful information for fraud-risk ranking, although the current model does not yet incorporate entity-level historical aggregation.",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:33+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 6380
+  },
   "0ab0bf677ad1c480e4bbc2fcc27bf0ca94a38e2f8f9f85d75fe0ada6af566c37": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -3222,9 +3255,9 @@
   "0bde8c9ae6f3f2adfd53f3f0a616562584bc5372ab79fa2fbaeb6343b2e988df": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Indonesian Police bust pig butchering ring, 11 foreign suspects named Translator: Immanuel Citra S, Resinta Sulistiyandari Editor: M Razi Rahman Copyright \u00a9 ANTARA 2026 Semarang deports four Chinese fugitives linked to love scam Immigration busts China-linked love scam syndicate in Tangerang Indonesia flags rising global threat of online romance scams Central Java Police foils smuggling of illegal vehicles to Timor Leste Blora Police MBG kitchen serves 2,515 children across 28 schools Police chief inspects readiness of homecoming valet program Police arrest six suspected abductors in Central Java Indonesia urges UK to help ASEAN fight online scam syndicates Indonesia arrests Beijing's most wanted online fraud fugitive Interpol Indonesia's NCB plans to form transnational crime task force Indonesia detains 210 foreigners in major online investment scam raid Indonesia deports 13 Japanese over online fraud",
+    "article_excerpt": "Indonesian Police bust pig butchering ring, 11 foreign suspects named Translator: Immanuel Citra S, Resinta Sulistiyandari Editor: M Razi Rahman Copyright \u00a9 ANTARA 2026 Semarang deports four Chinese fugitives linked to love scam Immigration busts China-linked love scam syndicate in Tangerang Indonesia flags rising global threat of online romance scams Central Java Police foils smuggling of illegal vehicles to Timor Leste Blora Police MBG kitchen serves 2,515 children across 28 schools Police chief inspects readiness of homecoming valet program Police arrest six suspected abductors in Central Java Immigration, police detain 31 foreign nationals over online fraud Indonesia urges UK to help ASEAN fight online scam syndicates Indonesia arrests Beijing's most wanted online fraud fugitive Interpol Indonesia's NCB plans to form transnational crime task force Indonesia detains 210 foreigners in major online investment scam raid",
     "cache_version": 10,
-    "checked_at": "2026-09-03T04:20:02+00:00",
+    "checked_at": "2026-09-18T04:38:42+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "romance scam",
@@ -3263,7 +3296,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 132
+    "word_count": 134
   },
   "0be35c3b781bfae30bdc660e60eed0721a48df8f4c965b5577dbe428cafc71cf": {
     "access_status": "available",
@@ -3903,6 +3936,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1498
+  },
+  "0dd5a30ec513327aab78b8adfe242826076cb596b701a9bd5e097edc73e771f7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Some of the politicians, who are overwhelmingly women, have had their likeness included in explicit videos, while others have names and photos listed in disturbing database-like entries that can link to deepfake creation tools. Analysis of around 160 domains that host deepfake abuse and other nonconsensual sexual content, by researcher Benjamin Shultz, has found that at least 138 women members of parliament (MPs) from 22 European Union countries have appeared or been mentioned on the sites. In contrast, only nine male MPs were referenced in any way. By Shultz\u2019s calculations, it is 33 times more likely for women MPs to be targeted by deepfake ecosystems. \u201cDeepfake porn is part of a much bigger trend of online hate and intimidation against women and female politicians,\u201d says Suzanne Kr\u00f6ger, a Dutch member of parliament with the Progressive Netherlands group, who was impacted. Kr\u00f6ger, who expressed anger at what the research uncovered, says the findings are \u201creally deeply disturbing\u201d and help to reveal the scale of abuse. \u201cWe are politicians, we have a platform and speak out,\u201d Kr\u00f6ger says. \u201cBut meanwhile, there are millions of women victims of these criminal acts.\u201d The research , which has been published by German digital democracy think tank Agora Digitale Transformation, focuses on national members of parliament from all 27 countries in the European Union. Shultz, a fellow at...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 3615
   },
   "0e0f48ccce759c39cd01b2a875108acdc0d10020b789ff3aeef3b24429a2e999": {
     "access_status": "available",
@@ -6703,6 +6762,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "1687e41b3d96951b798818b95419d4d63bf4f0103e641bb1e984b027156667e0": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Synology\u00ae launches ActiveProtect Manager 2.0, bringing expanded platform support and advancing AI-driven security Published Sep 18, 2026, 09:30 AM Synology\u00ae launches ActiveProtect Manager 2.0, bringing expanded platform support and advancing AI-driven security The issuer is solely responsible for the content of this announcement. Press release Synology\u00ae launches ActiveProtect Manager 2.0, bringing expanded platform support and advancing AI-driven security Published Sep 18, 2026, 09:30 AM Synology\u00ae launches ActiveProtect Manager 2.0, bringing expanded platform support and advancing AI-driven security The issuer is solely responsible for the content of this announcement. Press release Synology\u00ae launches ActiveProtect Manager 2.0, bringing expanded platform support and advancing AI-driven security Published Sep 18, 2026, 09:30 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 157
+  },
   "16a06f3a35f4d562de06694d3a829c920c3140b2f81030dcc02c54d66a08beb1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -6809,6 +6892,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1983
+  },
+  "16c73195f627292f337b395544127dfc26513697d8b40d2540caa10276f9a4cf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The Geminid Meteor Shower over the Fred C. Babcock/Cecil M. Webb Wildlife Management Area in Flordia in 2020. Image: Diana Robinson via Flickr / CC BY-NC-ND 2.0 International Meteor Organization says cyberattack dealt \u2018critical blow\u2019 to website A cyberattack has shut down the website of the premier international organization responsible for tracking meteors. The International Meteor Organization (IMO) has continued tracking asteroids and meteor through its Facebook page , but its website now carries a static page notifying visitors of the cyberattack. \u201cWe recently suffered a cyberattack that dealt a critical blow to aging infrastructure, taking much of our site offline,\u201d the organization said. \u201cWe expect several weeks of partial downtime as we transition to new infrastructure and services. We will bring features back as they become available.\u201d The IMO said it prioritized restoring its fireball reporting system, which is now available to users for submissions. The nongovernmental organization did not respond to requests for comment. It was founded in 1988 as a way to unite amateur and professional meteor observers and scientists.",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_cybersecurity",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_cybersecurity",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "ransomware",
+      "cybercrime"
+    ],
+    "word_count": 1386
   },
   "16e26e4bc76d0d27011b023a13e3f032caa3169ab1b71c66191dcb24f7f395cc": {
     "access_status": "unknown",
@@ -7028,6 +7139,51 @@
       "identity"
     ],
     "word_count": 25568
+  },
+  "17b73f84cbea77b8153229c4a4c2f09f5e205c5d311cfd92d7085e451754d569": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Deception Delta: Adversarial Evaluation of LLM-Based Smart Contract Bytecode Forensics Conference: Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security; November 15\u201319, 2026; The Hague, Netherlands Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS \u201926), November 15\u201319, 2026, The Hague, Netherlands DOI: 10.1145/3830454.3846626 ISBN: 979-8-4007-2871-6/2026/11 CCS: Security and privacy Software and application security CCS: Security and privacy Distributed systems security CCS: Computing methodologies Natural language processing Timo Schefold Affiliation: Kompetenzzentrum f\u00fcr Digitale Finanzermittlungen (Competence Centre for Digital Financial Investigations) \u2013 I740 , Landeskriminalamt Baden-W\u00fcrttemberg , Stuttgart , Baden-W\u00fcrttemberg , Germany email: timo.schefold@polizei.bwl.de \u00a9 cc Abstract. Large language models are increasingly used in blockchain forensic investigations to interpret unverified smart contract bytecode. Their robustness has not been systematically tested against contracts adversarially designed to mislead analysis. We evaluate 22 22 frontier models on 13 13 purpose-built contracts ( 9 9 deception vectors, 4 4 controls) across six prompt strategies, yielding 8,528 8{,}528 analyzable non-refusal runs against contracts with EVM-verified...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 25164
   },
   "17c1e5e3395351501aed5851bdb4cc181e48c9f3e920def3f1c7359bac90e356": {
     "access_status": "available",
@@ -7476,6 +7632,32 @@
       "trust"
     ],
     "word_count": 28333
+  },
+  "1909c5df2d48e799cc8bdae00a0614cd00d1f459d46bfdbaae4612bf8e7fdb2a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybercrime"
+    ],
+    "word_count": 0
   },
   "194046791ab32a69793ebb915249cadf1dc99fe999ff1c14f486d0f31c97975c": {
     "access_status": "available",
@@ -11944,9 +12126,9 @@
   "293833d560e62d6a9eaf9db4f6f7933c0fe556f1e1769100aa1e965be8ef4a5c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US lawmakers call for new AI rules after Anthropic researchers\u2019 safety warnings Sign up now: Get ST's newsletters delivered to your inbox AI giants Anthropic and OpenAI have both reported incidents of models hacking external companies during testing. PHOTO: REUTERS Published Sep 11, 2026, 08:02 AM Updated Sep 11, 2026, 08:25 AM Set as preferred source Listen Summarise US lawmakers urge new AI regulations following safety warnings from Anthropic researchers about AI risks and loss of human control. California enacts first state law for independent AI product audits; bipartisan US House bill proposes mandatory security audits for powerful AI models. Both Democrats and Republicans, including key senators, demand oversight and transparency from AI companies like OpenAI amid concerns over AI safety breaches. AI generated US lawmakers this week called for new rules to govern AI, after an Anthropic researcher went public with his concerns about the technology escaping human control. The reaction was broader than after previous statements from OpenAI and Anthropic staffers about safety concerns, drawing input from lawmakers who do not often forcefully engage in debates over how to govern AI . The lawmakers\u2019 statements came in response to concerns raised this week by Anthropic researcher Jacob Coxon, \u200bwho accused OpenAI and Anthropic of \u2060racing toward AI advancements without acting...",
+    "article_excerpt": "US lawmakers call for new AI rules after Anthropic researchers\u2019 safety warnings Sign up now: Get ST's newsletters delivered to your inbox AI giants Anthropic and OpenAI have both reported incidents of models hacking external companies during testing. PHOTO: REUTERS Published Sep 11, 2026, 08:02 AM Updated Sep 11, 2026, 04:46 PM Set as preferred source Listen Summarise US lawmakers urge new AI regulations following safety warnings from Anthropic researchers about AI risks and loss of human control. California enacts first state law for independent AI product audits; bipartisan US House bill proposes mandatory security audits for powerful AI models. Both Democrats and Republicans, including key senators, demand oversight and transparency from AI companies like OpenAI amid concerns over AI safety breaches. AI generated WASHINGTON \u2013 Growing numbers of US lawmakers are calling for new rules to govern AI systems after dire warnings from two Anthropic researchers that rapidly progressing artificial intelligence could lead to the extinction of the human race in the not-too-distant future. Alarm about the potential harm from AI grew this week when Anthropic researcher Jacob Coxon said he had resigned and that the \u201cpeople building AI earnestly believe that it could kill us all by the end of the decade\u201d. Anthropic scientist Evan Hubinger chimed in, saying Coxon was correct. \u201cWe really do...",
     "cache_version": 10,
-    "checked_at": "2026-09-11T04:33:46+00:00",
+    "checked_at": "2026-09-18T04:38:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -11965,7 +12147,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 2781
+    "word_count": 2901
   },
   "2939b07ead2095e1767549ee2e9b18def1a8f8c9b4a02c37f210d1cc362ed3d4": {
     "access_status": "available",
@@ -19716,6 +19898,32 @@
     ],
     "word_count": 19108
   },
+  "432b13a1cb7b758f2297a6b2af5ffde6e36f90c97daee63a04ceeec18d3e724b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 0
+  },
   "4334347bd276409dede4c92f807a334fc44e6af95928c85d9038d287e28bc256": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -26575,6 +26783,30 @@
     ],
     "word_count": 793
   },
+  "58b1a42577c8cbf21ad753ac94cd76eac7d3a22a5f91f51ee521f4de4fd15de7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "58bb2b20ee6d08d4d9ecf5a449cd211d2273c75d2382447ccec16bf46520bf77": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31499,6 +31731,32 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "69384cfae6d90310625c358835c1fa968305b8f7182cee66be799c570934b9fd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "695e4df5a2434726e003792733627b8065152df0ef138dac4d0c003525831bdf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -33059,6 +33317,39 @@
     ],
     "word_count": 0
   },
+  "6eae0495da54af8980d66f095ea2b1d768780bba69cfec640d68e048c02edeae": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Content selection saved. Describe the issue below: Clicktok: Click Fraud Detection using Traffic Analysis Shishir Nagaraja, Ryan Shah email: shishir.nagaraja, ryan.shah@strath.ac.uk Affiliation: University of Strathclyde \u00a9 none Abstract. Advertising is a primary means for revenue generation for millions of websites and smartphone apps. Naturally, a fraction abuse ad networks to systematically defraud advertisers of their money. Modern defences have matured to overcome some forms of click fraud but measurement studies have reported that a third of clicks supplied by ad networks could be clickspam. Our work develops novel inference techniques which can isolate click fraud attacks using their fundamental properties. We propose two defences, mimicry and bait-click , which provide clickspam detection with substantially improved results over current approaches. Mimicry leverages the observation that organic clickfraud involves the reuse of legitimate click traffic, and thus isolates clickspam by detecting patterns of click reuse within ad network clickstreams. The bait-click defence leverages the vantage point of an ad network to inject a pattern of bait clicks into a user\u2019s device. Any organic clickspam generated involving the bait clicks will be subsequently recognisable by the ad network.",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "reverse engineered"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 21963
+  },
   "6ef256cb8ac08afa9444cba91801f73d2c1a650720be5f208a3cd68969fbcbd1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -33124,9 +33415,9 @@
   "6efa956a3b1347d84c74fd66cc44b9879e427221ef0c52ef98e0ee87aabfdbd3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Branded Content Skills, workflows and governance: What businesses need to make AI work Moving beyond experimentation means rethinking jobs, employee support and technology guardrails, says Salesforce Asean senior vice-president and general manager Paul Carvouni Building the right skills and redesigning workflows can help employees work more effectively alongside AI as it becomes a bigger part of the workplace. PHOTO: SALESFORCE Published Sep 11, 2026, 04:00 AM Set as preferred source For decades, Singapore has made a habit of moving early when new technologies emerge. Digital services have become embedded in everyday life and, more recently, the country has laid out ambitions to deepen its use of artificial intelligence through initiatives such as National AI Strategy 2.0 . But inside the workplace, the transition may not be moving quite as quickly. As businesses explore the next phase of agentic AI \u2013 where autonomous AI agents can reason, make decisions and carry out tasks \u2013 employees are already anticipating how their jobs could change. A Salesforce survey found that 97 per cent of workers expect to work with an AI agent. This suggests the challenge may be less about outright resistance to AI than uncertainty over what it could mean for individual workers: how it might change their jobs, what tasks it could take on and, crucially, what skills they will need to work alongside...",
+    "article_excerpt": "Branded Content Skills, workflows and governance: What businesses need to make AI work Moving beyond experimentation means rethinking jobs, employee support and technology guardrails, says Salesforce Asean senior vice-president and general manager Paul Carvouni Building the right skills and redesigning workflows can help employees work more effectively alongside AI as it becomes a bigger part of the workplace. PHOTO: SALESFORCE Published Sep 11, 2026, 04:00 AM Set as preferred source Listen For decades, Singapore has made a habit of moving early when new technologies emerge. Digital services have become embedded in everyday life and, more recently, the country has laid out ambitions to deepen its use of artificial intelligence through initiatives such as National AI Strategy 2.0 . But inside the workplace, the transition may not be moving quite as quickly. As businesses explore the next phase of agentic AI \u2013 where autonomous AI agents can reason, make decisions and carry out tasks \u2013 employees are already anticipating how their jobs could change. A Salesforce survey found that 97 per cent of workers expect to work with an AI agent. This suggests the challenge may be less about outright resistance to AI than uncertainty over what it could mean for individual workers: how it might change their jobs, what tasks it could take on and, crucially, what skills they will need to work...",
     "cache_version": 10,
-    "checked_at": "2026-09-11T04:33:53+00:00",
+    "checked_at": "2026-09-18T04:38:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -33145,7 +33436,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 3650
+    "word_count": 3652
   },
   "6f4cae2d072aa3b167834fb16ba5ef8d52c6c33efaf454b262a6264ac1a6d700": {
     "access_status": "available",
@@ -37456,6 +37747,30 @@
     ],
     "word_count": 4137
   },
+  "7d21e154b192cfbd56646ae517212375ca907a215b451de27307891b65864629": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore\u2019s key exports jump 46.2% in August, exceeding forecasts Sign up now: Get ST's newsletters delivered to your inbox Both Singapore\u2019s electronics and non-electronics shipments expanded in August. ST PHOTO: LIM YAOHUI Benjamin Lim Published Sep 17, 2026, 08:30 AM Updated Sep 17, 2026, 07:42 PM Set as preferred source Listen SINGAPORE \u2013 Singapore\u2019s non-oil domestic exports (NODX) rose 46.2 per cent in August, extending July\u2019s 24.1 per cent expansion , as electronics shipments continued to surge due to artificial intelligence-related demand. This marked the sixth consecutive month of double-digit expansion for the country\u2019s NODX and far exceeded economists\u2019 forecast of 35.1 per cent in a Bloomberg poll. But analysts cautioned that while the Republic will continue to benefit from AI investments globally, the strong pace of growth may not be sustainable in the near term. Electronics shipments grew by 131.8 per cent, up from 112 per cent in July, while non-electronics shipments expanded 12 per cent, according to figures released by Enterprise Singapore on Sept 17. Disk media products and PCs led electronics shipments\u2019 third straight month of triple-digit growth with the largest increase at 290.2 per cent and 237.9 per cent respectively, while integrated circuits grew 90.9 per cent. DBS Bank senior economist Chua Han Teng said that despite signs of factory supply constraints...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2411
+  },
   "7d556a66969e6ac855fc14c3721593795be66da0c646675e9ad79c44d4d51da8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -38285,6 +38600,30 @@
       "trust"
     ],
     "word_count": 8
+  },
+  "7f3844098bf2cd9d314b2df95f6508872c1cf5202bb0cfa114b2dee6d02d8817": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SpaceX discusses buying data for AI models from failed start-ups Sign up now: Get ST's newsletters delivered to your inbox SpaceX chief executive Elon Musk speaking via video conference to delegates at the G-20 Innovation Ministerial summit, in Chapel Hill, North Carolina, US, on Sept 1. PHOTO: REUTERS Published Sep 18, 2026, 02:30 AM Updated Sep 18, 2026, 09:20 AM Set as preferred source Listen Elon Musk\u2019s SpaceX has held internal discussions about buying customer and operational information from troubled or defunct start-ups, according to people familiar with the matter, targeting a more affordable data source to improve its artificial intelligence models. The approach would mirror Google\u2019s offer to purchase business data from Spirit Airlines for artificial intelligence training purposes after the discount carrier wound down operations. The Alphabet company\u2019s US$10 million (S$12.7 million) bid sparked some data privacy concerns, including from former flight attendants. The talks within teams inside SpaceXAI, the company\u2019s AI unit, are informal and may not result in a deal, said the people, who spoke on condition of anonymity as the information is not public. SpaceX did not respond to a request for comment. Musk\u2019s space, satellite communications and AI conglomerate is locked in a heated battle to build more advanced AI offerings that rival the likes of Anthropic and OpenAI as...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1764
   },
   "7f3925c981977a1209cda80f9129403f986df91b15882f0705172536ad31c00a": {
     "access_status": "available",
@@ -39851,6 +40190,30 @@
       "victim"
     ],
     "word_count": 1577
+  },
+  "837f19d9f8ef504eb6af7ac649b4e3044c04fa0fad8c5b1b5cdd011ea280613b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singaporean dies while climbing mountain in Nepal Sign up now: Get ST's newsletters delivered to your inbox The 50-year-old man reportedly died at an altitude of around 6,000m while climbing Mount Manaslu in Nepal. PHOTO: ADOBE STOCK Ann Chen Published Sep 17, 2026, 05:39 PM Updated Sep 17, 2026, 08:39 PM Set as preferred source Listen Summarise A 50-year-old Singaporean died on September 17 while descending Mount Manaslu in Nepal at around 6,000m altitude after feeling unwell. The man lost his pulse quickly after resting; fellow climbers and a doctor attended to him but he passed away. His family was informed, and efforts were underway to airlift his body to Kathmandu; Mount Manaslu is the world's eighth-highest mountain. AI generated A Singaporean has died on the morning of Sept 17 while climbing Mount Manaslu in Nepal. The 50-year-old man reportedly died at an altitude of around 6,000m, after he felt uncomfortable while descending from an acclimatisation climb, various Nepal-based media outlets reported on the same day. When contacted, the Nepal Tourist Police told The Straits Times that it was informed of the incident by 8K Expeditions, the company that the Singaporean was travelling with, on the morning of Sept 17. The tourist police referred ST to the Nepal Tourism Board, which confirmed the death. Lakpa Sherpa, founder of 8K Expeditions, told ST in a call on Sept 17...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1213
   },
   "837ff8e09de4f57dcd909363911816261a5940e47006dc233c02fb87429e929a": {
     "access_status": "available",
@@ -45189,6 +45552,36 @@
     ],
     "word_count": 28934
   },
+  "95e29a7933ec196fc25399c1032867ba2da118fe03e7fb7e76567079c4cf0704": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. A team at Stanford has revealed the effort to mix brain tissues of distant species this week. They previously showed that human brain organoids could survive, and even function, after being injected into the heads of baby rodents. Now, they\u2019ve taken things a step further by genetically modifying mice so their brains don\u2019t fully develop in the first place. The work could help scientists study brain injuries, but it also raises questions about how far these experiments should go. Here\u2019s what the researchers discovered\u2014and where they draw the line .",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2308
+  },
   "95ef71f681a922834169afab052cbc07411282a5b4f39bcd4350fe40f5a822ad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -46777,7 +47170,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Why the backlash against \u2018soulless\u2019 AI movies misses the point There\u2019s a purpose and place for AI-generated content. Let\u2019s not expect too much from it. Sign up now: Get ST's newsletters delivered to your inbox Artificial intelligence can reproduce beautiful lighting and sweeping camera movements, says the writer. But, to qualify as cinema, stories need a point of view that gives each image purpose. More recently, two Singapore films, Trace Project and Bersama Majulah \u2013 created using AI and released for National Day \u2013 attracted similar complaints, that the dialogues were awkward, characters lifeless and stories emotionally empty. See more on AI/artificial intelligence Movies Artists Why the backlash against \u2018soulless\u2019 AI movies misses the point There\u2019s a purpose and place for AI-generated content. Let\u2019s not expect too much from it. Sign up now: Get ST's newsletters delivered to your inbox Artificial intelligence can reproduce beautiful lighting and sweeping camera movements, says the writer. But, to qualify as cinema, stories need a point of view that gives each image purpose. More recently, two Singapore films, Trace Project and Bersama Majulah \u2013 created using AI and released for National Day \u2013 attracted similar complaints, that the dialogues were awkward, characters lifeless and stories emotionally empty.",
     "cache_version": 10,
-    "checked_at": "2026-09-11T04:33:50+00:00",
+    "checked_at": "2026-09-18T04:38:32+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -53404,6 +53797,30 @@
     "weak_generic_terms_found": [],
     "word_count": 24
   },
+  "aff4ec48100bc26ccd5ed72fb060dcb016d2f2de9e81055a36fff3aabdf8cadc": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers Published Sep 18, 2026, 08:00 AM Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers The issuer is solely responsible for the content of this announcement. Press release Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers Published Sep 18, 2026, 08:00 AM Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers The issuer is solely responsible for the content of this announcement. Press release Trip.Biz Launches Agent ONE, an AI Suite Transforming Business Travel -- Cutting Booking Time by 90% for Travellers and Simplifying Oversight for Travel Managers Published Sep 18, 2026, 08:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 207
+  },
   "affa11824188b3b315d38ead3f6328997cd078552f9174fb7d18c5fa42403991": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -57466,6 +57883,32 @@
     ],
     "word_count": 10363
   },
+  "bc6ed06eadb08327b490349d5d810e1f34926000223f2a1ba3afaa0fb9a74347": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "bc7da4ccf2bb571825884c714f0a543acf6d135ba855f2b970f832ef79445774": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -58723,9 +59166,9 @@
   "c0d4058ff578ebf0423b8f8c4d713b555aef37b63a8376ec077663f8da2cbd94": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "When does a Data Breach become \u201cCognizable Damage\u201d under U.S. Law Holiday Cyberattacks: Why Peak Shopping Season Is Really a Business Resilience\u2026 LiteLLM and the New Stakes of Software Supply-Chain Security IT Support Impersonation Turns a Teams Chat Into Domain-Controller Access EXPERT INSIGHTS & RESOURCES Research For years, technology experts have warned that the rapid adoption of artificial intelligence (AI) could transform the job market, with machines potentially replacing humans across a wide range of professions. While much of the discussion has focused on jobs in industries such as customer service, software development, manufacturing, and administration, a recent study suggests that even cyber-criminals and online scammers could increasingly turn to AI to carry out fraudulent activities. According to research conducted by experts from Northeastern University in Boston, Ariel University in Israel, and Gen Digital\u2019s research team in Ireland, AI-powered systems may be capable of carrying out certain scams more effectively than human fraudsters. The findings highlight a growing concern for cybersecurity professionals, as the same AI technology being developed to protect people from online threats could also be exploited by criminals. Law enforcement agencies, technology companies, and cybersecurity organizations are already using machine learning and artificial...",
+    "article_excerpt": "BlueMoon Zero-Day Exploit Kit Chains Chrome and Windows Flaws Spain records first AI Agent-Powered Cyber Attack A Valid Login Does Not Mean a Trusted User: Rethinking Insider\u2026 Managing the insider threat risk in customer service EXPERT INSIGHTS & RESOURCES Research For years, technology experts have warned that the rapid adoption of artificial intelligence (AI) could transform the job market, with machines potentially replacing humans across a wide range of professions. While much of the discussion has focused on jobs in industries such as customer service, software development, manufacturing, and administration, a recent study suggests that even cyber-criminals and online scammers could increasingly turn to AI to carry out fraudulent activities. According to research conducted by experts from Northeastern University in Boston, Ariel University in Israel, and Gen Digital\u2019s research team in Ireland, AI-powered systems may be capable of carrying out certain scams more effectively than human fraudsters. The findings highlight a growing concern for cybersecurity professionals, as the same AI technology being developed to protect people from online threats could also be exploited by criminals. Law enforcement agencies, technology companies, and cybersecurity organizations are already using machine learning and artificial intelligence to identify suspicious activity, detect malware...",
     "cache_version": 10,
-    "checked_at": "2026-09-10T04:36:17+00:00",
+    "checked_at": "2026-09-18T04:38:28+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -58763,13 +59206,11 @@
       "victim",
       "cybersecurity",
       "malware",
-      "ransomware",
       "cybercrime",
       "fraud",
-      "identity",
       "trust"
     ],
-    "word_count": 1113
+    "word_count": 1115
   },
   "c10cdfcb0b3a6cf5beeefb9e3cb02faef30311696ee9a4062148e374a255655f": {
     "access_status": "available",
@@ -61844,7 +62285,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "News Abu Dhabi Police warn against remote-control app scams Last updated: April 10, 2026 | 22:46 The photo has been used for illustrative purposes. Gulf Today, Staff Reporter As part of the \u201cBe Cautious\u201d campaign, Abu Dhabi Police have warned against the dangers of downloading remote-control software on smart devices, including phones and computers, stressing that such tools are increasingly exploited by fraudsters to steal money and sensitive information. The police explained that scammers often deceive victims by persuading them to download software under the pretext of offering assistance or resolving technical issues. Once installed, the fraudsters can gain full control of the device and access confidential data. They urged the public not to respond to suspicious calls requesting the download of software or the sharing of personal information, emphasising that bank employees never ask for account details, credit card numbers, passwords, PINs, or One-Time Passwords (OTPs). Authorities also called for heightened vigilance, advising people not to share sensitive information and to download applications only from official and trusted sources. In cases of suspected fraud, the public is urged to report incidents immediately by contacting \u201cAman\u201d on 8002626, sending a text message to 2828, or visiting the nearest police station. Abu Dhabi Crime Online fraud Related articles Most...",
     "cache_version": 10,
-    "checked_at": "2026-09-03T04:20:04+00:00",
+    "checked_at": "2026-09-18T04:38:43+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -68249,6 +68690,33 @@
     ],
     "word_count": 17
   },
+  "dfde2fc8739928a19fc95a58972695b83affa32e55036d043ff361058819a6aa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime"
+    ],
+    "word_count": 0
+  },
   "dfe436e55818d6beb632168ae32dd5bdb6bc8967bb9dad611b464822835c80a3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -70801,7 +71269,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "If you are a reader experiencing an access issue, please contact support@people.inc . To help us troubleshoot more quickly, you may include your IP address. You can find it by visiting icanhazip.com or whatismyip.com . If you would like to access our content for licensing, please contact contentlicensing@people.inc .",
     "cache_version": 10,
-    "checked_at": "2026-09-10T04:36:31+00:00",
+    "checked_at": "2026-09-18T04:38:41+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -71919,6 +72387,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1149
   },
+  "ee6ad3f1c9f169ba354d1e3a8622a87fb32f8099088ee52621598e9c48cd3112": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards Sign up now: Get ST's newsletters delivered to your inbox Amazon logo is seen in this illustration taken February 16, 2025. REUTERS/Dado Ruvic/Illustration Published Sep 17, 2026, 10:38 PM Updated Sep 17, 2026, 10:43 PM Set as preferred source Listen SAN FRANCISCO, Sept 17 - Amazon weighed in on the artificial intelligence safety debate roiling Silicon Valley, saying AI labs should ensure models are released only when they are safe and fully tested, but stopped short of calling for an industry slowdown. \u201c\"We don't see it as a choice between progress and safety,\u201d a spokesperson for the Seattle firm told Reuters. \u201cModels should be released when they're ready and safe to use, which comes from rigorous testing and strong safeguards.\u201d The company provided its views in response to a Reuters inquiry days after many of the largest labs called for slower AI development, following an outcry among researchers and others who fear the technology could evade human control and threaten global systems and even humanity itself. \u201cThere are risks if that doesn't happen collectively,\u201d said Amazon, referring to progress in developing AI. \u201cWe believe that as an industry, in partnership with government, we'll work through the right protections.\u201d Amazon develops AI models through its Amazon Web Services subsidiary and in a unit...",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1672
+  },
   "ee7798f9654bb8840a6eeb2330b5bac51a850cb9be8636f0d4851980796db205": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -72623,6 +73115,30 @@
       "fraud"
     ],
     "word_count": 5366
+  },
+  "f111a742908a148a239232706290b7cd448398b018bdf409432ff18d457eabd1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wrangler Last updated Sep 15, 2026 | Copy as Markdown | View as Markdown | Agent setup Wrangler, the Cloudflare Developer Platform command-line interface (CLI), allows you to manage Worker projects. Wrangler commands use the permissions of the authenticated member or API token. Refer to Workers roles and permissions for the minimum role required by common Wrangler commands. Install/Update Wrangler : Get started by installing Wrangler, and update to newer versions by following this guide. API : A set of programmatic APIs that can be integrated with local Cloudflare Workers-related workflows. Commands : Create, develop, and deploy your Cloudflare Workers with Wrangler commands. Authentication profiles : Maintain separate logins and switch accounts per directory. Bundling : Review Wrangler's default bundling. Configuration : Use a configuration file to customize the development and deployment setup for your Worker project and other Developer Platform products. Custom builds : Customize how your code is compiled, before being processed by Wrangler.",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 416
   },
   "f1120b698452c9481c4a6456cca345d8b6a2ed51ab93a6c9170f228eecc65c4f": {
     "access_status": "available",
@@ -74646,6 +75162,32 @@
       "fraud"
     ],
     "word_count": 3946
+  },
+  "f7aa347e8244b89f899f8f0bdc628d304cf9db63d8ddd7c2688bd5fb40b52b0c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-18T04:38:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "f7bf47c40ce7faab7b4f2d9c755b74524fa18b0bf4839f5244c3d8a12060b64c": {
     "access_status": "available",
