@@ -441,7 +441,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "What To Read Next Featured Video Latest What To Read Next Branded Content",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:22+00:00",
+    "checked_at": "2026-09-19T04:34:24+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -2984,6 +2984,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 116
+  },
+  "0b05abe44a9f745509ec96134e2c2da22405d3952c9df4f252bdb9f0f48a12fd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SpaceX discusses buying data for AI models from failed start-ups Sign up now: Get ST's newsletters delivered to your inbox SpaceX chief executive Elon Musk speaking via video conference to delegates at the G-20 Innovation Ministerial summit, in Chapel Hill, North Carolina, US, on Sept 1. PHOTO: REUTERS Published Sep 18, 2026, 02:30 AM Updated Sep 18, 2026, 09:20 AM Set as preferred source Listen Elon Musk\u2019s SpaceX has held internal discussions about buying customer and operational information from troubled or defunct start-ups, according to people familiar with the matter, targeting a more affordable data source to improve its artificial intelligence models. The approach would mirror Google\u2019s offer to purchase business data from Spirit Airlines for artificial intelligence training purposes after the discount carrier wound down operations. The Alphabet company\u2019s US$10 million (S$12.7 million) bid sparked some data privacy concerns, including from former flight attendants. The talks within teams inside SpaceXAI, the company\u2019s AI unit, are informal and may not result in a deal, said the people, who spoke on condition of anonymity as the information is not public. SpaceX did not respond to a request for comment. Musk\u2019s space, satellite communications and AI conglomerate is locked in a heated battle to build more advanced AI offerings that rival the likes of Anthropic and OpenAI as...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1764
   },
   "0b05ee6db6d3b227d50e335bcad761a4978db256af9f0d8d3ace91bba6c58f97": {
     "access_status": "available",
@@ -11515,6 +11539,30 @@
     "weak_generic_terms_found": [],
     "word_count": 435
   },
+  "26f37b6d5461f6ecec18fa30d7e7aa89023e7450c5395071d01ee3a168628d9d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Routing Last updated Sep 11, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare Tunnel routes traffic from Cloudflare's network to services running behind cloudflared . When you publish an application , you map a public hostname to a local service \u00e2\u0080\u0094 for example, app.example.com to http://localhost:8080 \u00e2\u0080\u0094 and Cloudflare applies CDN caching, WAF, and DDoS protection before forwarding the request to your origin. Published applications A published application is a hostname-to-service mapping defined in your tunnel configuration. Each mapping tells cloudflared which local service should receive traffic for a given public hostname. You can publish multiple applications on a single tunnel. For each application, specify: Public hostname \u00e2\u0080\u0094 The domain or subdomain that users visit (for example, app.example.com ). Service \u00e2\u0080\u0094 The local address or socket where the application is running (for example, http://localhost:8080 ). When you add a route through the dashboard, Cloudflare automatically creates a DNS record pointing the hostname to your tunnel subdomain ( .cfargotunnel.com ). Supported protocols The table below lists the service types you can route to a public hostname. Non-HTTP services require installing cloudflared on the client for end users to connect.",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3473
+  },
   "270d3d654cb48c5349a07d30844728973af04bbfdc208828453e5abc6b7a0687": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -16720,6 +16768,30 @@
     ],
     "word_count": 3834
   },
+  "391a37ca07dbc30cac118fabc247555805a38bfa10a900bb300bbbbed3689f0b": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Wenge AI Launches SciencePro, Advancing Real-World AI4S Applications Published Sep 18, 2026, 07:06 PM Wenge AI Launches SciencePro, Advancing Real-World AI4S Applications The issuer is solely responsible for the content of this announcement. Press release Wenge AI Launches SciencePro, Advancing Real-World AI4S Applications Published Sep 18, 2026, 07:06 PM Wenge AI Launches SciencePro, Advancing Real-World AI4S Applications The issuer is solely responsible for the content of this announcement. Press release Wenge AI Launches SciencePro, Advancing Real-World AI4S Applications Published Sep 18, 2026, 07:06 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 127
+  },
   "397dabe2cefc38f4b3705afc40c1705377b785461e839b0387a2b0c5a6323ea7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20468,6 +20540,30 @@
       "phishing"
     ],
     "word_count": 0
+  },
+  "4488da7f7245703f93e16dc463d0a8132a0201c7aa60d3e5f7b9f9495f90fcd0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US, China security experts propose nuclear-style safeguards for AI risks Sign up now: Get insights on Asia's fast-moving developments Their proposals show how the US-China AI rivalry is moving beyond competition over chips and advanced models into questions long associated with arms control. PHOTO: REUTERS Published Sep 17, 2026, 12:48 PM Updated Sep 17, 2026, 03:04 PM Set as preferred source Listen Summarise US and Chinese security experts propose nuclear-style safeguards for AI to prevent accidental military attacks and maintain human control over AI-driven cyber operations. They recommend clear red lines around nuclear command systems, shared definitions of \"meaningful human control\", and a hotline for AI-related military incidents. Despite no official endorsement, China integrates AI into its arms control framework, while the US remains cautious, fearing restraints could hinder technological progress amid ongoing rivalry. AI generated BEIJING \u2013 An AI system that interferes with a nuclear command network or launches a military cyber operation could leave Washington or Beijing with minutes to decide whether the other government attacked, according to US and Chinese security experts. The experts, part of a US-China dialogue whose work helps inform official discussions, are urging both governments to prepare for such scenarios amid rising concerns about increasingly powerful...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2923
   },
   "44b8abe3f29bdf2609296d46ac30e6aec99793e7f99d933fea1c37f834fd7a79": {
     "access_status": "available",
@@ -25777,7 +25873,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:31+00:00",
+    "checked_at": "2026-09-19T04:34:28+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -29631,6 +29727,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3230
   },
+  "625a43928c5aa59376f1d2ad0afb3d9337fe11cebb277ab379106b71b86778f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Reject busy requests Last updated Sep 17, 2026 | Copy as Markdown | View as Markdown | Agent setup Set rejectIfBusy when your application should not wait in a capacity queue. Workers AI rejects the synchronous inference request if capacity is unavailable. Send a REST request For the native REST API, add rejectIfBusy to the request options object: curl --request POST \\ --url \"https://api.cloudflare.com/client/v4/accounts/ $ACCOUNT_ID /ai/run/@cf/google/gemma-4-26b-a4b-it\" \\ --header \"Authorization: Bearer $CLOUDFLARE_API_TOKEN \" \\ --header \"Content-Type: application/json\" \\ --data '{ \"messages\": [ { \"role\": \"user\", \"content\": \"Explain what a capacity queue is.\" } ], \"options\": { \"rejectIfBusy\": true } }' Use the Workers binding For the Workers AI binding, pass rejectIfBusy in the third argument to env.AI.run() : const response = await env. AI . run ( \"@cf/google/gemma-4-26b-a4b-it\" , { messages: [ { role: \"user\" , content: \"Explain what a capacity queue is.\" , }, ], }, { rejectIfBusy: true }, ); const response = await env. AI . run ( \"@cf/google/gemma-4-26b-a4b-it\" , { messages: [ { role: \"user\" , content: \"Explain what a capacity queue is.\" , }, ], }, { rejectIfBusy: true }, ); Do not add rejectIfBusy to the model input object. The binding only applies this option from the third argument. Call Chat Completions For OpenAI-compatible Chat Completions, add options at the top...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 720
+  },
   "6260d0b0253442d7ac71054091e020773d6bcbef22ac31057c86831b354ae474": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -31438,9 +31558,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month. Image: Shutterstock.com, Kirill Makarov. This month\u2019s patch bundle obliterates the software giant\u2019s previous record set in July , when it released updates for at least 570 security vulnerabilities. September\u2019s Patch Tuesday brings this year\u2019s total to more than 2,600, more than twice Microsoft\u2019s previous record-setting patch year in 2020 (1,245) and with three more months to go. There are two \u201czero-day\u201d flaws fixed this month that are being actively exploited: both CVE-2026-81963 and CVE-2026-85880 allow an attacker to elevate their privileges on Windows system. Fully 113 of the bugs addressed today earned Microsoft\u2019s \u201ccritical\u201d rating, meaning they could be abused by malware or miscreants to seize control over a vulnerable Windows machine with little or no help from the user. Continue reading \u2192 Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch...",
+    "article_excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs. The radaris.com website, prior to the domain transfer to Atlas. In February 2024, Radaris was sued by Atlas Data Privacy Corp , a company that has been pursuing data brokers alleged to be violating a New Jersey statute called Daniel\u2019s Law . The statute allows state law enforcement officials, government personnel, judges and their families to have their information completely removed from commercial data brokers and people-search services, and provides for fines of $1,000 per violation against companies that ignore removal requests. Less than a month after Atlas sued Radaris, KrebsOnSecurity published a deep dive into the Radaris co-founders \u2014 Igor and Dmitry Lubarsky (also spelled Lybarsky) \u2014 Russian-born brothers living in Massachusetts who operate a dizzying array of...",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:09+00:00",
+    "checked_at": "2026-09-19T04:34:18+00:00",
     "direct_relevance_terms_found": [
       "voice phishing"
     ],
@@ -31450,7 +31570,7 @@
     "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
-    "press_release_or_sponsored": false,
+    "press_release_or_sponsored": true,
     "quality_checked": true,
     "rejection_reason": null,
     "research_relevance_category": null,
@@ -31460,19 +31580,20 @@
     "strong_scam_anchor_terms_found": [
       "voice phishing"
     ],
-    "technology_modus_terms_found": [],
+    "technology_modus_terms_found": [
+      "modus operandi"
+    ],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
       "victim",
       "phishing",
-      "cybersecurity",
       "vulnerability",
       "malware",
       "cybercrime",
       "fraud",
       "identity"
     ],
-    "word_count": 12124
+    "word_count": 13308
   },
   "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
     "access_status": "available",
@@ -33854,6 +33975,44 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4180
+  },
+  "70cbbb587763b79e82d58dfdbac40a0dc93292e26eba5227b114f2788807348f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This page contains press release content distributed by XPR Media. Members of the editorial and news staff of the USA TODAY Network were not involved in the creation of this content. The placement of this content is part of a paid service. Smart Senior Series Seminar Explores the Psychology Behind Today\u2019s Scams Distributed by EIN Presswire Free Arlington seminar will help older adults recognize how con artists use urgency, fear, trust and technology to manipulate their victims ARLINGTON, TX, UNITED STATES, September 17, 2026 / EINPresswire.com / \u2014 Scams are becoming more sophisticated, and understanding what a scammer says may not be enough to avoid becoming a victim. An upcoming Smart Senior Series seminar will take a closer look at why scams work and the psychological tactics con artists use to influence their targets. \u201cThe Truth About Scams: How Con-Artists Use Psychology Against You\u201d will be held Thursday, Oct. 8 at 1:30pm, at the ACTIV Center in Arlington. The free educational seminar is presented by Senior Downsizing Experts as part of its Smart Senior Series for older adults and their families. Rather than simply reviewing a list of current scams, the seminar will explore tactics such as urgency, panic, trust and rapport, empathy, embarrassment, shame and fear of missing out. The discussion will also address how technology and artificial intelligence are making it...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 1386
   },
   "70ec05c2d81c60ca2e945192884d01bb0053c3bd8e886d2c6d920d289cca1623": {
     "access_status": "available",
@@ -38988,6 +39147,30 @@
     ],
     "word_count": 5138
   },
+  "803905f26192e86c6cb9dc519acf623c7c996685ff12641567333f0a6c6f041c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI\u2019s Sam Altman to brief UN Security Council next week Sign up now: Get ST's newsletters delivered to your inbox Sam Altman\u2019s remarks are expected to focus on the steps OpenAI is taking to ensure AI is safe, and the need for international coordination, says a company spokesperson. PHOTO: AFP Published Sep 19, 2026, 04:50 AM Updated Sep 19, 2026, 07:01 AM Set as preferred source Listen UNITED NATIONS \u2013 OpenAI Chief Executive Sam Altman will brief the United Nations Security Council next week during the annual gathering of world leaders in New York for the UN General Assembly, an OpenAI spokesperson said on Sept 18. The 15-member Security Council is due to meet on Sept 23 on artificial intelligence and international security, just weeks after several AI industry leaders called for a coordinated slowdown of the development of the increasingly powerful technology , warning that it could soon improve on its own and slip beyond human control. \u201cSam Altman will brief an open UN Security Council meeting in person next week,\u201d an OpenAI spokesperson told Reuters. Altman\u2019s remarks were expected to focus on the need for international coordination and shared safety standards, as well as steps OpenAI is taking to ensure people globally benefit, the spokesperson said. Diplomats said they also expected high-level presence at the meeting from Anthropic, but that it was yet to be confirmed....",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1534
+  },
   "803a9df8042f0cbd090db0099d8603be94fb5fe5708b7cf13a3c90553f39e4ff": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -40132,7 +40315,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Virginia Senator Presses Navy Federal To Provide Relief To \u2018Parking Lot Scam\u2019 Victims 08/29/2026 01:15 pm Tweet VIENNA, Va.\u2014A Virginia state senator is pressing Navy Federal Credit Union to provide relief to members who say they are being required to repay personal loans fraudulently opened through their mobile phones\u2014some carrying interest rates of 18%, WTKR reported. Bill DeSteph State Sen. Bill DeSteph, a Republican representing Virginia\u2019s 20th District, said he has discussed the problem several times with leaders of the $204-billion Navy Federal and also contacted NCUA, Virginia regulators and banking and credit union trade groups. \u201cEveryone I've talked to knew it was a problem. Every single one of the individuals at every level knew this was a problem,\u201d DeSteph told WTKR. Federal prosecutors call the fraud the \u201cparking lot scam.\u201d Criminals approach victims in public places, persuade them to hand over their phones and then access financial apps to apply for personal loans and transfer the proceeds. Federal court records show one prosecution involved 10 defendants and allegations including wire fraud, bank fraud and money laundering. Authorities have documented more than 500 victim reports and at least $2 million in losses. WTKR reported several victims said Navy Federal continued holding them responsible for the fraudulent debt after they filed claims. Attorney Gary C.",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:18+00:00",
+    "checked_at": "2026-09-19T04:34:21+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "bank fraud"
@@ -43353,7 +43536,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:21+00:00",
+    "checked_at": "2026-09-19T04:34:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -43487,6 +43670,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "905fa8a4644e69e01adae2d2df0eaebed38f4ffac47486bb569fcdb1cadf31f2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The proposal for a total ban on social media for children under 13 was announced in Wednesday\u2019s State of the Union speech, where von der Leyen set out the Union\u2019s priorities for the year ahead. It\u2019s part of an EU Kids Act, which the Commission will unveil fully on Thursday. Children aged 13 to 15 will also not be allowed personal social media accounts but will be able to access social media through mini accounts set up and supervised by parents and guardians, with limited features, for one hour per day. Platforms will also have safe design obligations for users up to 18, with the Union planning to tackle addictive design further in the upcoming Digital Fairness Act in Autumn. \u201cI am aware that many perceive the power of Big Tech as overwhelming and impossible to roll back. I disagree,\u201d von der Leyen told the European Parliament. \u201cWe do not have to accept addictive features, we do not have to accept children being drawn into ever more extreme content, we do not have to accept that girls have their photos used for-AI generated sexualised images,\u201d she added. \u201cEurope has the power to act; it is us who decide the rules, not Big Tech.\u201d The EU was largely expected to follow other countries in restricting children\u2019s access to social media, which von der Leyen said has been responsible for sleep loss, anxiety, self harm, and even the deaths of European children. Seventeen of the bloc\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2782
   },
   "90748e7b9abd2b59a4141912ec04552da347d76c018f6c1875a473e2bd19cce1": {
     "access_status": "available",
@@ -43767,6 +43974,30 @@
       "fraud"
     ],
     "word_count": 446
+  },
+  "914815fcacb2d1f739439f948d5a961c00d96500350e450b903ebde2ab275be3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US Treasury\u2019s Bessent plans to discuss AI and rare earths with China\u2019s He: Source Sign up now: Get ST's newsletters delivered to your inbox US Treasury Secretary Scott Bessent and Chinese Vice-Premier He Lifeng shake hands during trade talks at Organisation for Economic Co-operation and Development headquarters in Paris, France, on March 16. PHOTO: REUTERS Published Sep 19, 2026, 04:59 AM Updated Sep 19, 2026, 07:47 AM Set as preferred source Listen Summarise US Treasury Secretary Scott Bessent will discuss AI, trade, rare earths, and economic issues with Chinese Vice Premier He Lifeng ahead of the Trump-Xi summit. The talks will address AI safety, tariff truce extension, and improving rare-earth mineral flows amid ongoing US-China trade tensions. Expectations for major deals are low; discussions focus on managing relations and ensuring commitments from the tariff truce are upheld. AI generated WASHINGTON - US Treasury Secretary Scott Bessent plans to discuss AI, trade, rare earths and economic issues when he meets with Chinese Vice Premier He Lifeng in New York City this weekend, according to a source familiar with his plans. The discussions are significant because the US and China are the two major forces driving development of advanced AI tools and the global adoption of the technology. Rare earths play a crucial role in the manufacturing of technology. Bessent and He will...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2618
   },
   "91692ad81a694c5faf1c8f9a3dd02ff74212bc9bf79f9db540b2df01ee43b6a8": {
     "access_status": "available",
@@ -54119,6 +54350,30 @@
     ],
     "word_count": 2012
   },
+  "b08d4e0d942ba42ac21af6adc6b393d7f44221e3cd404911d83be522d8ecc304": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Bot Management variables Last updated Sep 16, 2026 | Copy as Markdown | View as Markdown | Agent setup Ruleset Engine fields Bot Management provides access to several fields within the expression builder of Ruleset Engine-based products such as WAF custom rules and Cache Rules . Bot Score ( cf.bot_management.score ): An integer between 1-99 that indicates Cloudflare's level of certainty that a request comes from a bot. Verified Bot ( cf.bot_management.verified_bot ): A boolean value that indicates whether a request originates from a Cloudflare allowed bot. Cloudflare maintains a large allowlist of good, automated bots (such as Google Search Engine and Pingdom) that perform beneficial tasks. Cloudflare identifies and verifies these bots primarily through reverse DNS validation, ensuring the source IP matches the requesting service. We also use additional validation methods, including checking ASN blocks and public lists. If these methods are unavailable, Cloudflare utilizes internal data and machine learning to identify and verify legitimate IP addresses from good bots. Most customers choose to allow this traffic . Serves Static Resource ( cf.bot_management.static_resource ): An identifier that matches file extensions for many types of static resources. Use this variable if you send emails that retrieve static images.",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1687
+  },
   "b0ea85851950f58363841db7e01a32457fcdcd2fe3b61c2511726554c8f978d2": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -55987,6 +56242,30 @@
     ],
     "word_count": 2006
   },
+  "b76f817515a2583b11d5a602453e286761cef779249e8a51cc9251f43ef6219d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Waymo to start offering driverless ride-share car services in Singapore in 2028 Sign up now: Get ST's newsletters delivered to your inbox Waymo\u2019s initial fleet will be made up of Jaguar I-PACE sports utility vehicles. ST PHOTO: NG SOR LUAN Aqil Hamzah Published Sep 18, 2026, 10:00 AM Updated Sep 18, 2026, 07:52 PM Set as preferred source Listen SINGAPORE \u2013 Driverless ride-hailing operator Waymo will start accepting bookings for trips in Singapore in its self-driving cars from 2028, marking its first entry into South-east Asia. Announcing its plans on Sept 18 at Google\u2019s Asia-Pacific headquarters in Pasir Panjang, the unit of technology conglomerate Alphabet said its first fleet of vehicles will hit local roads in the coming months. The initial fleet will be made up of Jaguar I-PACE sports utility vehicles, although the operator did not disclose how many cars will be deployed or its eventual target fleet size. With Waymo\u2019s entry, the total number of autonomous vehicles (AVs) for passenger service in Singapore is slated to increase from 16 now to several hundred in the next two years, said Transport Minister Jeffrey Siow. That will still be only a fraction of the more than 70,000 taxi and private-hire car drivers here today, he added. In his speech, he said the US company will carry out its testing and prepare for the roll-out of the vehicles in the western part of the island...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3437
+  },
   "b77c7c5c71945d0e219d88f524164a9dde139901b277f589aba16b742cf2e33e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -57527,6 +57806,34 @@
     "weak_generic_terms_found": [],
     "word_count": 2870
   },
+  "bbe27433ec7bda481abaaf75a196abdd64517c874e438f7b25e709097a063a86": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "AI fuels 440% surge in hackers using blockchains in malware attacks Sign up now: Get ST's newsletters delivered to your inbox A malware attack uses malicious software planted into a computer or network to steal information, passwords or funds. PHOTO: LIANHE ZAOBAO Published Sep 18, 2026, 11:26 AM Updated Sep 18, 2026, 12:13 PM Set as preferred source Listen Summarise Open-source AI has caused a 440% rise in hackers embedding malicious code in blockchains, making attacks harder to detect and block, according to Chainalysis. State-backed groups from countries like North Korea and Iran lead most blockchain-based malware activities, exploiting blockchain\u2019s resistance to removal and payment hurdles. AI enables hackers to operate more freely and privately, increasing attack scale and sophistication, while blockchain transparency helps investigators trace and connect cybercrime campaigns. AI generated SAN FRANCISCO \u2013 Open-source AI is making it easier for hackers to hide malicious code on blockchains, opening a new front in a crypto industry already grappling with rising cybercrime . Instances of malware instructions written into on-chain transactions and smart contracts are up 440 per cent in less than a year, averaging 11 cases a day, blockchain analytics firm Chainalysis said in a report published on Sept 17. Such cases averaged two per day prior to the release in the middle of...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "malware",
+      "cybercrime"
+    ],
+    "word_count": 1994
+  },
   "bbe5497d0ffeed316f9cfcfd8bdf19a4c61c67b6828c7afdfec11c0dbdb1b1c7": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -58028,6 +58335,30 @@
       "fraud"
     ],
     "word_count": 2946
+  },
+  "bd021ea70969685a6b6fd124b88f36526916477e72f573a46449d7622c4c8880": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Anthropic picks Accenture for in-house AI safety evaluation Sign up now: Get ST's newsletters delivered to your inbox People visiting an Anthropic booth at the Moscone Center during the Dreamforce 2026 technology summit in San Francisco on Sept 17. PHOTO: REUTERS Published Sep 19, 2026, 09:40 AM Updated Sep 19, 2026, 10:54 AM Set as preferred source Listen NEW YORK \u2013 Anthropic said it is partnering with consulting giant Accenture to have outside evaluators work inside the artificial intelligence company, a step towards fulfilling a pledge by chief executive Dario Amodei to have independent observers evaluate its most powerful models. The partnership will be led by Faculty, Accenture\u2019s specialist AI business. Its work will include evaluating and \u201cred-teaming\u201d Anthropic\u2019s models, the company said on Sept 18. Red-teaming is the practice of deliberately trying to make AI systems misbehave to expose flaws. Anthropic and Accenture each expect to invest at least US$1 billion (S$1.28 billion) over the next five years for the effort. The pledge was made in a Sept 12 essay in which Amodei argued that AI companies must slow the pace at which they improve their models\u2019 capabilities. OpenAI CEO Sam Altman has said his company would give outside evaluators similar access, while Microsoft CEO Satya Nadella welcomed embedded evaluators but cautioned that a handful of entities should not...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1321
   },
   "bd0654f11eb6ca42c44c1b61c3ab99b823ecdf1aaa116ad4681f2c1cfa72c341": {
     "access_status": "available",
@@ -59267,7 +59598,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:20+00:00",
+    "checked_at": "2026-09-19T04:34:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -61833,6 +62164,33 @@
     ],
     "word_count": 2089
   },
+  "ca32f740e612f09142b3ce4271c1e4e7c95595870559106f21415f3bd0a338ef": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Researchers used Claude to breach OpenAI\u2019s internal systems Sign up now: Get ST's newsletters delivered to your inbox After Anthropic released Claude Opus 5, the researchers said the newer model produced a working hack within about three hours. PHOTO: REUTERS Published Sep 18, 2026, 10:30 PM Updated Sep 18, 2026, 10:39 PM Set as preferred source Listen Summarise Researchers from Hacktron used Anthropic's Claude AI to breach OpenAI's internal systems via a flaw in its public help forum. OpenAI fixed the vulnerability within 14 hours and rewarded the researchers US$6,500 for reporting it. The flaw affects many companies, raising concerns about AI enabling faster, cheaper cyberattacks on various platforms. AI generated WASHINGTON \u2013 A security research company said on Sept 18 it managed to break into OpenAI\u2019s internal systems using the latest software from Anthropic, exposing how quickly the technology can carry out sophisticated cyberattacks. The researchers from security firm Hacktron said they found a security flaw in OpenAI\u2019s public help forum, run by the Discourse platform, that allowed them to take control of the site. \u201cWe immediately reported the initial vulnerability to OpenAI and Discourse and worked with them to coordinate the patch,\u201d Hacktron said in a blog post. \u201cWe appreciate their attention to detail and fast resolution of this issue,\u201d the post added. OpenAI...",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 1355
+  },
   "ca345a299e23f10fcae475751c336902ebbe7097d53e2204bfc906442cd8d765": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -63803,6 +64161,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2305
+  },
+  "d00693570a2a69197967fd3c595459949bc20bf4858a9f3212616d4ecfd42850": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI Published Sep 19, 2026, 10:00 AM Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI The issuer is solely responsible for the content of this announcement. Press release Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI Published Sep 19, 2026, 10:00 AM Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI The issuer is solely responsible for the content of this announcement. Press release Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI Published Sep 19, 2026, 10:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-19T04:34:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 142
   },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
@@ -65790,9 +66172,9 @@
   "d662a54c6db4877114b884a83ac8c4ad85be00bde9b686521ed8e80f1f89d75d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "\u2018Many comments don\u2019t mean many people\u2019: Azalina cautions against AI perception attacks Sign up now: Get insights on the biggest stories in Malaysia Fake X accounts, fabricated news websites and content containing false allegations could be used to influence political discussions. PHOTO: ANDRES KUDACKI/NYTIMES Published Sep 12, 2026, 12:25 PM Updated Sep 12, 2026, 12:25 PM Set as preferred source Summarise Azalina Othman Said warns that many social media comments may be generated by AI bots and do not represent the majority view or truth. Reports reveal about 1,000 fake accounts and fabricated content aimed at influencing Malaysian political discussions, though no evidence shows election impact. She urges Malaysians to verify information, respect factual criticism, ensure fair law enforcement, and not be swayed by comment volume or social media popularity. AI generated KUALA LUMPUR \u2013 A flood of comments on social media does not necessarily mean they reflect the views of the majority, especially with artificial intelligence (AI) being used to create fake accounts and generate content, says Azalina Othman Said. The Umno information chief said AI-powered bots could be used to produce large numbers of comments supporting one side or attacking another. \u201cWhen the same thing is repeated by dozens or hundreds of accounts, people may get the impression that it is the majority view,\u201d she...",
+    "article_excerpt": "\u2018Many comments don\u2019t mean many people\u2019: Azalina cautions against AI perception attacks Sign up now: Get insights on the biggest stories in Malaysia Fake X accounts, fabricated news websites and content containing false allegations could be used to influence political discussions. PHOTO: ANDRES KUDACKI/NYTIMES Published Sep 12, 2026, 12:25 PM Updated Sep 12, 2026, 05:32 PM Set as preferred source Listen Summarise Azalina Othman Said warns that many social media comments may be generated by AI bots and do not represent the majority view or truth. Reports reveal about 1,000 fake accounts and fabricated content aimed at influencing Malaysian political discussions, though no evidence shows election impact. She urges Malaysians to verify information, respect factual criticism, ensure fair law enforcement, and not be swayed by comment volume or social media popularity. AI generated KUALA LUMPUR \u2013 A flood of comments on social media does not necessarily mean they reflect the views of the majority, especially with AI being used to create fake accounts and generate content, says Azalina Othman Said. The UMNO information chief said AI-powered bots could be used to produce large numbers of comments supporting one side or attacking another. \u201cWhen the same thing is repeated by dozens or hundreds of accounts, people may get the impression that it is the majority view,\u201d she said in a...",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:17+00:00",
+    "checked_at": "2026-09-19T04:34:19+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -65813,7 +66195,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 1873
+    "word_count": 1878
   },
   "d6710f35377b4c26e36fd05ab648573a228129c3f4e4fcb1db0cb50defa6881e": {
     "access_status": "available",
@@ -74292,7 +74674,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety Adithiyan Rajan Indira Saravanan Affiliation: Faculty of Engineering Affiliation: University of Ottawa Affiliation: Ottawa, Canada Email: aindi023@uottawa.ca Kathleen C. Fraser Affiliation: Faculty of Engineering Affiliation: University of Ottawa Affiliation: Ottawa, Canada Email: kathleen.fraser@uottawa.ca Abstract Allowing large language models (LLMs) to retrieve information from a set of trusted documents can increase reliability and reduce hallucination. However, recent work has demonstrated that retrieval-augmented generation (RAG) can have unintended side effects on the overall safety of the generated responses, when prompted for harmful or dangerous content. A clearer understanding of the mechanisms leading to this result is needed, as increasing numbers of end users turn to RAG to incorporate corporate documents and knowledge bases into LLM-based systems. We introduce RAG-Safety-Bench, a benchmark to measure the safety impact of RAG on LLM models. By removing the confounding effect of retriever quality, and cleanly separating the problem into four conditions \u2013 non-RAG, RAG with an oracle document containing the answer to the harmful request, RAG with documents related to the harmful request but without the specific answer, and RAG with random, safe...",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:09+00:00",
+    "checked_at": "2026-09-19T04:34:16+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
