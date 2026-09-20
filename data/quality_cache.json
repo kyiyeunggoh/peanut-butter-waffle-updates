@@ -242,7 +242,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Singapore PC prices surge as growing AI infrastructure competes for components Sign up now: Get ST's newsletters delivered to your inbox Bryan Fun, a sales assistant at retailer Bizgram Asia in Sim Lim Square, checking a newly assembled desktop PC tower. ST PHOTO: KELVIN CHNG Kenny Chee Published Sep 13, 2026, 05:00 AM Updated Sep 13, 2026, 05:00 AM Set as preferred source Listen Summarise PC prices in Singapore surged about 40% in 2026 due to shortages of memory, storage and graphics cards driven by global AI infrastructure demand. Memory chip shortages caused the biggest price hike, with some RAM prices increasing nearly 300% in a year. PC sales dropped 20-80% for some retailers as consumers delay purchases amid high prices, with experts expecting price relief only from 2028 onward. AI generated SINGAPORE \u2013 Consumers who plan to buy a new personal computer are in for sticker shock. Latest market data from research firm IDC shows that average prices have surged by up to 40 per cent in the second quarter of 2026 from a year ago, driven by component shortages. Specifically, computer memory, storage and graphics cards are in short supply because the expansion of global data centres to support artificial intelligence services has consumed the bulk of these components. IDC expects PC prices to remain high throughout 2027, dipping slightly only towards the second half of 2027. IDC...",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:25+00:00",
+    "checked_at": "2026-09-20T04:51:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -409,6 +409,30 @@
       "trust"
     ],
     "word_count": 28994
+  },
+  "017b3bdee1602b6d521525f66cec247b023b0d804da1b0898760ff275b744bcb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump says he will create \u2018AI Force\u2019, name AI czar Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump said that AI developers should be responsible for ensuring the safety of their products. PHOTO: EPA Published Sep 20, 2026, 05:07 AM Updated Sep 20, 2026, 12:21 PM Set as preferred source Listen WASHINGTON - US President Donald Trump said in a social media post on Sept 19 that he plans to appoint a new artificial intelligence adviser, known as an \u201cAI czar\u201d, and create an \u201cAI force\u201d, though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property. Earlier this month, former Anthropic researcher Jacob Coxon said that \u201cpeople building AI earnestly believe that it could kill us all by the end of the decade.\u201d Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary. \u201cWe will not in any way hinder or stifle the Growth of this incredible Industry,\u201d Trump wrote on Truth Social, his social media platform. \u201cRather, we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System.\u201d If Trump follows through on the pledge, it would be his second AI...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1432
   },
   "0191618f7b8a168d6db58076fa07c32b0c8963af2d4b101eb92e897ab6e6f407": {
     "access_status": "available",
@@ -1100,6 +1124,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 103
+  },
+  "042a7e83c49a513c3775f22cc02df476de07706f33e34bfcfecb3a560135b255": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "0433bb9e6cbf6c49185c1ca9593615b20b3e91a753a9f429bce757e68438e959": {
     "access_status": "available",
@@ -2265,6 +2313,38 @@
       "fraud"
     ],
     "word_count": 1208
+  },
+  "0816db07d0e237a2d178c01bce0a9bbc6b0ace0fe294c08e13508385df1467a4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:01+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "0820e9c10d4b4b886b25dde851fcf6505214173d7a7f64010e09f61f4d5eef83": {
     "access_status": "available",
@@ -5409,7 +5489,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Phishing GenAI AI Romance scams evolve into emotionally engineered attacks Mon, 1st Jun 2026 JOSEPH GABRIEL LAGONSIN News Editor Net-Defence has warned that romance scams are evolving into what it calls \"emotionally engineered cyber attacks\", with UK victims estimated to have lost \u00a3106 million last year. Debra Cairns, Managing Director of Net-Defence, said online relationship fraud is becoming more sophisticated as criminals use trust, emotion and loneliness to persuade victims to share personal information or send money. Scammers often begin contact on dating platforms or social media before moving conversations to private messaging apps, where scrutiny is lower and emotional pressure can build more quickly. The warning comes as reports of romance fraud in the UK have risen by about 20 per cent year on year, with average losses of more than \u00a311,000 per victim. Cairns said the true scale is likely to be higher because many cases go unreported, with victims feeling shame, embarrassment or confusion about what has happened. According to the firm, growth in online dating and messaging has created more opportunities for organised criminals. It says post-pandemic shifts in how people seek relationships, alongside wider loneliness and the normalisation of forming connections online, have made this type of fraud easier to carry out. Generative artificial intelligence has also changed...",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:30+00:00",
+    "checked_at": "2026-09-20T04:51:25+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -5449,7 +5529,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 2740
+    "word_count": 2752
   },
   "1243fc56f34a9be2db0dd52c53713b24c6dfc776849ee813bf05822d6bec59f7": {
     "access_status": "available",
@@ -9765,6 +9845,33 @@
     ],
     "word_count": 1713
   },
+  "20cd0af5c4957566b19b8055817d1f034080447563beed208fa0dc54d2948ac1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What are the emerging regulations to rein in AI harms? Sign up now: Get ST's newsletters delivered to your inbox The EU AI Act governs the development, deployment, distribution and use of AI systems in all member states of the bloc. PHOTO: REUTERS Kenny Chee Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 05:00 AM Set as preferred source Listen SINGAPORE - Global artificial intelligence (AI) regulations are rapidly evolving, with the European Union already establishing its pioneering laws and United States lawmakers debating the need for a mandatory AI \u201ckill switch\u201d . The Straits Times looks at how these rules compare to rules and frameworks in China and Singapore. European Union The world\u2019s first comprehensive AI law came into force in the EU in 2024. The EU AI Act governs the development, deployment, distribution and use of AI systems in all member states of the bloc. It takes a risk-based approach to regulation. Enforcement of the AI Act is carried out by the European Commission\u2019s AI Office, the European Data Protection Supervisor and authorities designated by EU member states. The Act classifies AI systems according to four risk categories: minimal, limited, high and unacceptable. AI systems with minimal risks do not need to meet specific requirements, and include spam filters and AI-enabled video games.",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 3383
+  },
   "20d57bfc1fcf6964e43a1990853f83c5d19be32287aea27899cefaa3eb6a94fa": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10480,6 +10587,46 @@
       "trust"
     ],
     "word_count": 19832
+  },
+  "23d2cd991ac1af03618029a321fc3a006af9989c650d26c25daf4be7e0d3c86b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cloudflare Security Architecture Last updated Sep 16, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Today, everything and everyone needs to be connected to everything everywhere, all the time, and everything must be secure. However, many businesses are not built on infrastructure that supports this reality. Historically, employees worked in an office where most business systems (file servers, printers, applications) were located on and accessible only from the private office network. A security perimeter was created around the network to protect against outsider threats, most of which came from the public Internet. However, as Internet bandwidth increased and more people needed to do work outside of the office, VPNs allowed employees access to internal systems from anywhere they could get an Internet connection. Applications then started to move beyond the office network, living in the cloud either as SaaS applications or hosted in IaaS platforms. Companies rushed to expand access to their networks and invest in new, dynamic methods to detect, protect, and manage the constantly evolving security landscape. But this has left many businesses with complex policies and fragile networks with many point solutions trying to protect different points of access. Since 2010, Cloudflare has been building a unique, large-scale network on which we run a set of...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:02+00:00",
+    "direct_relevance_terms_found": [
+      "account takeover"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "account takeover"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "account takeover"
+    ],
+    "technology_modus_terms_found": [
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27306
   },
   "23db527798f8d97c17a984fd9ac3831b6c8f2796bfbd5bae20bc14b10315a60a": {
     "access_status": "available",
@@ -11849,6 +11996,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2068
+  },
+  "281d677e430873aaad7bdb56953ae1c3e8ef0b18de573afa055d90f72267972c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "While You Were Sleeping: 5 stories you might have missed, Sept 20, 2026 Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump said that AI developers should be responsible for ensuring the safety of their products. PHOTO: BLOOMBERG Published Sep 20, 2026, 05:55 AM Set as preferred source Listen Trump says he will create \u2018AI Force\u2019, name AI czar US President Donald Trump said in a social media post on Sept 19 that he plans to appoint a new artificial intelligence adviser, known as an \u201cAI czar\u201d, and create an \u201cAI force\u201d, though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property. Earlier this month, former Anthropic researcher Jacob Coxon said that \u201cpeople building AI earnestly believe that it could kill us all by the end of the decade.\u201d Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary. If Trump follows through on the pledge, it would be his second AI czar. Venture capitalist David Sacks previously served in the role before stepping down in the spring and moving into an external advisory position. READ MORE HERE CNN, MS NOW, Politico denied access to White House grounds PHOTO: AFP US media outlets CNN and MS NOW said they were denied access to the White...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2188
   },
   "2828a085358ff3db6beee07559e7aa5109419c6996751adbf915be9358087d31": {
     "access_status": "available",
@@ -16792,6 +16963,30 @@
     "weak_generic_terms_found": [],
     "word_count": 127
   },
+  "394683925cff0bd70d9fa80f2d048268d1f27006f2b1028a0b6e544021cca532": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Australian PM seeks big tech backing for internet safety, AI rules Sign up now: Get insights on Asia's fast-moving developments Australia in 2025 became the first country in the world to ban under-16s from using social media. PHOTO: REUTERS Published Sep 20, 2026, 09:28 AM Updated Sep 20, 2026, 09:28 AM Set as preferred source Summarise Australian PM Anthony Albanese seeks support from big tech for child online safety laws and AI regulation after meeting Apple\u2019s Tim Cook. Australia plans to enforce a 2025 ban on under-16s using social media and draft laws imposing a \"duty of care\" on platforms like Facebook and TikTok. Albanese calls for stronger AI controls, warning of risks if humans lose control, with new AI standards expected by end of 2026. AI generated SYDNEY \u2013 Australian leader Anthony Albanese said on Sept 20 he was seeking big tech backing for his country\u2019s child online safety laws and greater AI regulation, after meeting former Apple CEO Tim Cook in California. Following the meeting with Cook at the tech giant\u2019s headquarters on Sept 19 , Albanese said Australia \u201ccan\u2019t do it alone\u201d when it came to protecting children from the dangers of the internet. \u201cWe spoke about what we\u2019re doing to protect children from online harm and the work ahead,\u201d Albanese wrote on social media. \u201cWe\u2019re putting stronger rules in place to keep Australians safe online,\u201d he said. \u201cAnd now, big...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1458
+  },
   "397dabe2cefc38f4b3705afc40c1705377b785461e839b0387a2b0c5a6323ea7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20705,7 +20900,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-12T04:30:39+00:00",
+    "checked_at": "2026-09-20T04:51:24+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -21756,16 +21951,14 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "\u201cThe roundup,\u201d as we call it internally, started as a way to ensure that our readers knew about the latest key cybersecurity and privacy news even if we didn\u2019t write about it ourselves. It was a simple way to highlight our own work and the wealth of other great journalism and research published in this realm every week. Over the years, the roundup has developed a devoted following, and some editions have even become viral hits\u2014which is honestly weird, but the cybersecurity community is great and weird, so it feels right. Rest assured that something new and exciting is coming in the roundup\u2019s place, so stay tuned for that! For now, as always, stay safe out there. Meta failed to catch roughly 350 AI child abuse ads , according to new research this week, including some that included images of real kids. In one case, a child depicted in an ad was a member of a European royal family. Lawmakers have said they intend to investigate, and the San Francisco City Attorney\u2019s Office ordered the company this week to stop \u201callowing\u201d AI child abuse ads. In other Meta news, the company announced a new personal AI agent this week that can book your plane tickets or sell your car, but it emphasized heavy investment in security and privacy features , seemingly anticipating mistrust from consumers. In this vein, the company was hit with a proposed class action lawsuit this week over alleged...",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:24+00:00",
+    "checked_at": "2026-09-20T04:51:01+00:00",
     "direct_relevance_terms_found": [
       "scam",
-      "scammer",
       "pig butchering",
       "scam compound"
     ],
     "direct_scam_relevance_terms_found": [
       "scam",
-      "scammer",
       "pig butchering",
       "scam compound"
     ],
@@ -21781,7 +21974,6 @@
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
       "scam",
-      "scammer",
       "pig butchering",
       "scam compound"
     ],
@@ -21791,10 +21983,9 @@
       "victim",
       "cybersecurity",
       "ransomware",
-      "fraud",
       "trust"
     ],
-    "word_count": 4460
+    "word_count": 4365
   },
   "47dc3696b3d9d895c85849ac7c99c2b564e4d9531f674204062cd4ea403e5971": {
     "access_status": "available",
@@ -24415,7 +24606,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:23+00:00",
+    "checked_at": "2026-09-20T04:51:08+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -25076,6 +25267,34 @@
       "manipulation"
     ],
     "word_count": 2451
+  },
+  "529932f8177609a78d0a2d4a79288f2a2197c11eec78c57cc59ed6c7617db2f8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "deepfake_or_synthetic_identity_scam",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "synthetic identity"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 0
   },
   "52a3f58674d92f766892c06f5a0975bb6e78f5e684702060a100dd05e6388a3d": {
     "access_status": "available",
@@ -26173,6 +26392,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 215
+  },
+  "5667ca773e3093104cf83444bee8a93b3b65e2452fe80c4180b214786474bc3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "AI military risks spark concern at China security conference Sign up now: Get insights on Asia's fast-moving developments Military delegates walk outside the venue of the opening ceremony for the Beijing Xiangshan Forum in Beijing, China September 16, 2026. REUTERS/Florence Lo Published Sep 17, 2026, 03:03 PM Updated Sep 17, 2026, 03:03 PM Set as preferred source Listen BEIJING, Sept 17 - A range of delegates to China's flagship defence conference this week expressed fears over the potential for unchecked AI development and technology rivalries to further heighten risks across the global security environment The warnings come as the world's two largest AI powers, China and the US, prepare for bilateral summit talks this month but remain divided on how to control the technology's use in military systems, including nuclear weapons. AI has dangerously compressed decision-making for governments and their militaries just as misinformation shreds public trust before they can respond, panelists at the Beijing Xiangshan Forum on security said. \"Today, the world is at a critical turning point. Strategic competition among major powers is becoming more pronounced, conflicts in many regions continue,\" said Thailand's Defence Minister Adul Boonthumjaroen. As AI and other technologies transform warfare, \"the most pressing is not who will be the most powerful, but rather, how can we build an...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1360
   },
   "566dc4888552aa7a382682007b23761c810f803a2167d2a5b6af352e259b3235": {
     "access_status": "available",
@@ -31806,6 +32051,32 @@
     "weak_generic_terms_found": [],
     "word_count": 4861
   },
+  "6919bfc55a872eca2e2ccb925161a1330a5f30cb3b8bae03575a63f42210f5cf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US, China trade teams set to huddle in New York on tariffs, AI and Iran Sign up now: Get ST's newsletters delivered to your inbox The negotiators will lay the groundwork for a high-profile meeting between US President Donald Trump and Chinese President Xi Jinping on Sept 24 in Washington. PHOTO: REUTERS Published Sep 19, 2026, 09:51 PM Updated Sep 20, 2026, 12:18 AM Set as preferred source Listen Summarise The US and China will hold talks in New York on Sept 20 to discuss trade, AI, Iran, and maintain stability ahead of a leaders' summit on Sept 24 in Washington. Key issues include tariffs, rare earth exports, AI development, and energy disruptions from the Iran conflict, with both sides seeking to avoid escalating tensions. The US Treasury is pressing China on Iran sanctions, while China prioritises Taiwan concerns; AI and trade remain contentious but cooperation is sought to manage risks. AI generated NEW YORK \u2013 US Treasury Secretary Scott Bessent and China\u2019s Vice-Premier He Lifeng will lead talks on trade and other pressure points on Sept 20 in New York ahead of next week\u2019s summit between the leaders of the world\u2019s two biggest economies. The negotiators will lay the groundwork for a high-profile meeting between US President Donald Trump and Chinese President Xi Jinping on Sept 24 in Washington. Bessent and He last met face-to-face near Seoul four months ago, just days...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3936
+  },
   "692821cba50567ae8e75f10745d280986b31e11540b6f66f737291dadcd284f8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -32331,6 +32602,32 @@
       "cybersecurity"
     ],
     "word_count": null
+  },
+  "6b13041f3ba8f632e8d032f34af277288f3e1e136c2ac1e50373c2a306498b25": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The first slide was a drawing of an ouroboros\u2014a dragon eating its own tail\u2014set against a hot pink background. \u201cAI alarmism and AI hype are the same story: both keep your attention on a science-fiction future to distract you from the real harms experienced in the present,\u201d the image reads. The post was authored by the NYC DSA\u2019s Tech Action Working Group, which focuses on tech regulation issues for the chapter, the largest in the country. It garnered more than 25,000 likes on Instagram. But not everyone agreed with the post: \u201cHorrible and dangerous take,\u201d one comment reads. \u201cSometimes sounding the alarm is justified.\u201d As politicians scramble to understand AI safety, an ideological split is opening on the American left. Among the questions it\u2019s centered on is whether to believe tech companies\u2019 claims that their products are so powerful that they could end the world. Some on the left question the value in elevating theoretical concerns about AI over actual harms. They believe repeating claims promoted by the frontier labs about the dangers of AI empowers the AI companies, turning attention away from regulating the current harms of the technology and toward an impossible future. \u201cAI has become the latest tool of capitalist exploitation.",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 5219
   },
   "6b25ed442555b8e359bc36cc3c77ccd72d34a70323eb3870c1efb9881d7aba25": {
     "access_status": "available",
@@ -39337,6 +39634,30 @@
     ],
     "word_count": 2262
   },
+  "809681a4fde231b04132ae951a375b1b9455ab3623e68500d9a5298acd62204c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Stabby crabby\u2019: Crab goes viral for flashing blade in claw at Florida man and his dog Sign up now: Get ST's newsletters delivered to your inbox A now viral Instagram video shows a crab wielding what appears to be part of a pocketknife. PHOTO: EDUARDO ALVAREZ/INSTAGRAM Raul Dancel Published Sep 19, 2026, 08:03 PM Updated Sep 19, 2026, 08:03 PM Set as preferred source Listen Florida\u2019s wildlife has apparently decided claws are no longer enough. A blue land crab has gone viral after it was filmed wielding a blade with one claw, and seemingly trying to slash Florida resident Eduardo Alvarez and his dog with it. \u201cFlorida is getting out of hand,\u201d Alvarez wrote on Instagram on Sept 16 . In the clip Alvarez posted, the dog is seen approaching the crab to check it out. Alvarez tries to pick up the crab, which responds by flashing and wagging the blade at him, while trying to clip him with its other claw. Alvarez eventually manages to get hold of the seemingly crossed crustacean and move it farther into his yard. \u201cSummer, I don\u2019t recommend messing with this,\u201d he tells his dog. \u201cThis is a gangster-ass crab.\u201d The blade appears to be part of a pocketknife. How the crab got a hold of it is unclear.",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 953
+  },
   "80ab800eacdafe5abd34908ead65409ac0ff3b7509a57942554834c4243ecc93": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -43260,6 +43581,30 @@
     ],
     "word_count": 512
   },
+  "8dde30c63586f7f82edfaec49d70ea489a799873a2a404f9f6dc520d8ad46e41": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What happens inside a baby\u2019s brain when looking at screens? S\u2019pore study shows the impact By Sandra Davie Published: Sep 20, 2026, 05:00 AM Scroll down Tan Yin Ling and her baby, eight-month-old Raynera, are taking part in an experiment at NUS Medicine , where their brain activity is detected using the equipment they wear on their heads. Raynera sits face to face with her mother. Tan smiles, makes faces and plays peek-a-boo with Raynera. There is a beautiful rhythm to their interaction, a back-and-forth response that looks almost like a dance. Then, under the instructions of NUS Medicine clinician scientist Evelyn Law , who is conducting the experiment, Tan turns away briefly. When she faces her daughter again, she is holding her phone, head down and absorbed in reading an e-mail on her phone. She does not smile and does not react to anything that Raynera does. What happens next is most striking. Within seconds, baby Raynera senses the change.",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 6628
+  },
   "8e3ea0b24143614e0b5b7d719ac969601bd2280a33ab3b1ca905085ce0ac3cad": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -45988,6 +46333,30 @@
       "trust"
     ],
     "word_count": 2086
+  },
+  "9705c1c82f3636c11e38cdec08f74dd4c51a8b271fdfa5dc61055ffe13b0536e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "9708575f7abe3c22e38fa1c88cb7ff2a84dcd0e55f6dd37ee4824947ced5d594": {
     "access_status": "available",
@@ -51868,6 +52237,38 @@
     ],
     "word_count": 4298
   },
+  "aa1c828af107b0617f2431989cf1b300e389507449c1b3a318b534def8c69db9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "If you are a reader experiencing an access issue, please contact support@people.inc . To help us troubleshoot more quickly, you may include your IP address. You can find it by visiting icanhazip.com or whatismyip.com . If you would like to access our content for licensing, please contact contentlicensing@people.inc .",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 52
+  },
   "aa3b676deb6fa6c1cfacafe2f4172c3ec8260adeda75a6a97987915e22d6e041": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -55682,7 +56083,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:23+00:00",
+    "checked_at": "2026-09-20T04:51:05+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -58487,6 +58888,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2806
+  },
+  "bd498eeca63abc8815ae592cfc88e46dc9d8ecc795ae4e44663d085290cc3a75": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "bd4f57e17fa11077540993188ec49c0588ecb733b47e26ed3bff6ad290bf0c79": {
     "access_status": "available",
@@ -63359,6 +63784,32 @@
     ],
     "word_count": 8
   },
+  "cd8acd6c60678f16c7e29dca55f04ed27d2cc8f3682e9460727a567fe67efec0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI industry can learn from aviation and nuclear safety: Experts Sign up now: Get ST's newsletters delivered to your inbox Minister for Digital Development and Information Josephine Teo said on Sept 17 that AI may eventually need a safety regime similar to that for civil aviation. ST PHOTO: LIM YAOHUI Kenny Chee Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 05:00 AM Set as preferred source Listen Summarise Aviation-style AI regulations could involve global rules with an international body, supported by national regulators and a strong safety culture, enabling safer innovation and faster adoption. Singapore leads in AI safety with tools like the AI Verify toolkit and the Singapore AI Safety Institute, positioning itself as a neutral party for global AI testing. Key challenges include US-China competition and lack of consensus on AI safety priorities; models from aviation, nuclear and financial sectors offer templates for future AI governance frameworks. AI generated SINGAPORE \u2013 If artificial intelligence gets aviation-style regulations , this could mean having an international governing body and national regulators ensuring compliance with a set of globally agreed rules, said industry players. Jonathan Zhang, president of the Singapore AI Association, said: \u201cThe opportunity for AI is that it can compress a journey that took aviation most of the 20th century into a much...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3823
+  },
   "cdb13f367da5340d01ca55f19042342ea1f828450058a79c706df0ec6917a293": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -65574,6 +66025,32 @@
       "fraud"
     ],
     "word_count": 5676
+  },
+  "d461251d0d47f04491a3092e6465906b154ee6e2ce3cbe22d74a3e8d576083cf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations Sign up now: Get ST's newsletters delivered to your inbox Those who have weighed in on the debate include (clockwise from top left) co-founder of Anthropic Dario Amodei, OpenAI\u2019s chief executive Sam Altman, founder of SpaceXAI Elon Musk, Nvidia\u2019s chief executive Jensen Huang and US President Donald Trump. PHOTOS: AFP, REUTERS, BLOOMBERG Sarah Koh Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 05:00 AM Set as preferred source Listen SINGAPORE \u2013 A high-profile Anthropic resignation and revelations of rogue artificial intelligence models hacking servers have intensified the debate over the speed of the technology\u2019s development and regulation . The recent resignation of AI researcher Jacob Coxon , who had moved from OpenAI to Anthropic, is part of a growing exodus of safety-focused scientists from top labs such as Anthropic, OpenAI and Google DeepMind. Much of the debate has been centred on the US, where the bulk of frontier AI work is being done. Tech insiders there are divided into three camps: safety advocates pushing for regulation, state interests racing to speed up development and the pragmatists. The Straits Times examines the key polarising views. Dario Amodei, co-founder and chief executive of Anthropic In mid-September, Amodei called on frontier AI firms to slow...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4234
   },
   "d471f7e9812ed38baf27fb715cc200bcacbf3c1da53e1caf9c8ee42bc8feeac2": {
     "access_status": "available",
@@ -68595,6 +69072,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2924
   },
+  "de842f0fa049d3112fd582f414dc6dbaf482f62b49f8298b1182c3fa185a3b67": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ten days that changed the course of AI Sign up now: Get ST's newsletters delivered to your inbox Published Sep 19, 2026, 06:08 PM Updated Sep 19, 2026, 06:08 PM Set as preferred source SAN FRANCISCO, Sept 19 - For years, the race to build ever-more powerful artificial intelligence followed a well-worn Silicon Valley principle: move fast and break things. But in a series of cascading events over a 10-day stretch, the largest AI labs found themselves reeling as their own creations threatened to break humanity itself. An Anthropic researcher quit the firm, warning that the pace of AI development poses an existential threat, possibly within a decade. Another researcher at the firm said the odds of human extinction exceeded 10%. Reports emerged of swarms of AI agents colluding, breaching computer systems and evading safeguards. In a rare show of unity, the CEOs of rivals Anthropic, OpenAI, Google\u2019s DeepMind, Microsoft and xAI called to slow the development of increasingly capable AI systems. Not since the invention of the nuclear bomb more than 80 years ago has humanity grappled so seriously with its own demise, according to some AI safety advocates and researchers. At a New York luncheon in December 2025, OpenAI CEO Sam Altman was asked if, as leader of a powerful AI company, he felt like physicist J. Robert Oppenheimer, who led US development of the atomic bomb. Reflecting on the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3884
+  },
   "de91184318f85d6fcd15323915ecc5123ef6dad0ac9aac41b7bd27e4e58c5da0": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -69304,7 +69805,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Operationalizing Cyber Threat Intelligence with GraphRAG Conference: Technical Report; May 2026; Indian Institute of Technology Bombay, India Technical Report, May 2026, Indian Institute of Technology Bombay, India Behavioral Knowledge Graphs for IOC-Resilient Threat Hunting Plan Generation Atul Kabra, Prakhar Paliwal, and Manjesh K. Hanawal email: {atul.kabra, prakhar.paliwal, mhanawal}@iitb.ac.in Affiliation: MLiONS, Department of IEOR, IIT Bombay , Mumbai , Maharashtra , India \u00a9 none Abstract. When a security researcher publishes a report on a cyberattack, detection engineers are supposed to turn it into working detection rules. In practice, most automated attempts at this only extract the simplest clues from the report \u2014 bad IP addresses, domain names, and file hashes \u2014 and turn them into block lists. This is a weak strategy, because attackers can change these simple clues within hours or days, so the resulting detections stop working almost as soon as they are deployed. Security teams describe this idea with the Pyramid of Pain: clues such as IP addresses and file hashes sit at the bottom of the pyramid and are cheap for an attacker to change, while clues about an attacker\u2019s behaviour and tooling \u2014 their Tactics, Techniques and Procedures (TTPs) \u2014 sit at the top and are expensive to change. In this work we study whether...",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:24+00:00",
+    "checked_at": "2026-09-20T04:51:01+00:00",
     "direct_relevance_terms_found": [
       "vishing"
     ],
@@ -70038,7 +70539,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:24+00:00",
+    "checked_at": "2026-09-20T04:51:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -74317,6 +74818,54 @@
     ],
     "word_count": 4971
   },
+  "f433abe531db1eb0f9b88d2b2fc76b6d49159f0d0b330b9eb3e3fb72857e2067": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Before the Warning Comes Too Late: Incremental Phone-Scam Detection from Speech Khang Nhat Hoang Vo 1,2 Anh Trac Duc Dinh 3,4 Tai Tien Ta 4 Tho Quan 4 1 Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE 2 National University of Singapore, Singapore 3 Center for AI Reseach (CAIR), VinUniversity, Hanoi 4 Faculty of Computer Science and Engineering, Ho Chi Minh City University of Technology (HCMUT), VNU-HCM, Ho Chi Minh City, Vietnam Correspondence: Khang.Vo@mbzuai.ac.ae , qttho@hcmut.edu.vn Work done while visiting the National University of Singapore. Abstract We study weakly supervised incremental telecom fraud detection from raw telephone audio, where training provides only conversation-level labels and predictions must be updated before a call ends. We introduce StreamFraudNet, which processes incoming audio through overlapping bounded-context windows using a frozen self-supervised speech encoder, recurrent temporal modeling, and learned aggregation of latent window scores. On a controlled English benchmark, StreamFraudNet achieves a ROC\u2013AUC of 0.9953 0.9953 , significantly outperforming acoustic and mean-pooling baselines while remaining competitive with strong global temporal models. The model produces its first prediction after 10 seconds of audio, updates every 2 seconds, and operates faster than...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phone scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam detection"
+    ],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16135
+  },
   "f43ecd1775f252128bc6827b34c199626e26aaefae9bdb7ac5f93992fb4856db": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -75246,6 +75795,53 @@
       "ransomware"
     ],
     "word_count": 110
+  },
+  "f6f9b4a215344d644b2e8e829186e3dc2ef6153ee563ed6f1ad7961e04e05dd7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
+    "cache_version": 10,
+    "checked_at": "2026-09-20T04:51:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 39170
   },
   "f6f9c7fbc0e2e27533f4c9ed12e4ac280ada5a93d603b83a4ccdd46a433f8c7a": {
     "access_status": "available",
