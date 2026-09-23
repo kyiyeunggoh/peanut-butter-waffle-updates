@@ -2212,6 +2212,20 @@
       "url": "https://arxiv.org/pdf/2609.20223",
       "usefulness_category": "Product idea / data source"
     },
+    "arxiv.org|2026-09-22|calibrated callscreenbench jev judgments language model one open": {
+      "article_type": "Research paper",
+      "normalised_title": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "normalized_title_fingerprint": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "original_url": "https://arxiv.org/html/2609.23959v1",
+      "parsed_date": "2026-09-22",
+      "raw_title": "Open-Jev Judgments on CallScreenBench:Calibrated One-Pass Scam Screening with a Small Language Model - arXiv",
+      "same_story_key": "arxiv.org|2026-09-22|calibrated callscreenbench jev judgments language model one open",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "arxiv.org",
+      "title": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "url": "https://arxiv.org/html/2609.23959v1",
+      "usefulness_category": "Research / novel method"
+    },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -2926,6 +2940,20 @@
       "url": "https://www.channelnewsasia.com/watch/chee-hong-tat-safeguards-against-deepfake-impersonation-scams-6371731",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
+    "channelnewsasia.com|2026-09-22|cambodia crackdown global scam showcases": {
+      "article_type": "News report",
+      "normalised_title": "cambodia showcases scams crackdown global conference",
+      "normalized_title_fingerprint": "cambodia showcases scam crackdown global",
+      "original_url": "https://www.channelnewsasia.com/asia/cambodia-scams-crackdown-global-conference-6401716",
+      "parsed_date": "2026-09-22",
+      "raw_title": "Cambodia showcases scams crackdown with global conference - CNA",
+      "same_story_key": "channelnewsasia.com|2026-09-22|cambodia crackdown global scam showcases",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "cambodia showcases scams crackdown global conference",
+      "url": "https://www.channelnewsasia.com/asia/cambodia-scams-crackdown-global-conference-6401716",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "cyberpress.org|2026-08-18|asterix crypto find fraud numbers operation phone processes": {
       "article_type": "News report",
       "normalised_title": "operation asterix processes 885 000 phone numbers find crypto users targeted fraud",
@@ -2967,6 +2995,20 @@
       "title": "police department warns public impersonation scam",
       "url": "https://www.dailydemocrat.com/2026/05/13/police-department-warns-public-of-impersonation-scam/",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "developers.cloudflare.com|2026-09-16|architecture cloudflare security": {
+      "article_type": "Product / developer changelog",
+      "normalised_title": "cloudflare security architecture",
+      "normalized_title_fingerprint": "cloudflare security architecture",
+      "original_url": "https://developers.cloudflare.com/reference-architecture/architectures/security/",
+      "parsed_date": "2026-09-16",
+      "raw_title": "Cloudflare Security Architecture - Cloudflare Developer Docs",
+      "same_story_key": "developers.cloudflare.com|2026-09-16|architecture cloudflare security",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "developers.cloudflare.com",
+      "title": "cloudflare security architecture",
+      "url": "https://developers.cloudflare.com/reference-architecture/architectures/security/",
+      "usefulness_category": "Product idea / data source"
     },
     "dl.acm.org|2025-11-22|analysis evidence evolution infrastructure legitimization longitudinal poster romance": {
       "article_type": "Research paper",
@@ -5990,6 +6032,18 @@
       "title": "cambodia says 310 000 suspected scammers left country amid crackdown",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "cambodia showcases scam crackdown global": {
+      "article_type": "News report",
+      "normalised_title": "cambodia showcases scams crackdown global conference",
+      "normalized_title_fingerprint": "cambodia showcases scam crackdown global",
+      "parsed_date": "2026-09-22",
+      "raw_title": "Cambodia showcases scams crackdown with global conference - CNA",
+      "same_story_key": "channelnewsasia.com|2026-09-22|cambodia crackdown global scam showcases",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "cambodia showcases scams crackdown global conference",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "cambodia shut down cyberscam compounds": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia says shut down over 700 cyberscam compounds",
@@ -6240,6 +6294,18 @@
       "sent_at": "2026-08-15T01:48:29+00:00",
       "source_domain": "arxiv.org",
       "title": "class weighting versus amount conditioning credit card fraud detection dollar metric study temporal explanation audit",
+      "usefulness_category": "Product idea / data source"
+    },
+    "cloudflare security architecture": {
+      "article_type": "Product / developer changelog",
+      "normalised_title": "cloudflare security architecture",
+      "normalized_title_fingerprint": "cloudflare security architecture",
+      "parsed_date": "2026-09-16",
+      "raw_title": "Cloudflare Security Architecture - Cloudflare Developer Docs",
+      "same_story_key": "developers.cloudflare.com|2026-09-16|architecture cloudflare security",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "developers.cloudflare.com",
+      "title": "cloudflare security architecture",
       "usefulness_category": "Product idea / data source"
     },
     "collapse usaid already fueling human trafficking slavery scammer compounds": {
@@ -7909,6 +7975,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "online scams latest news coverage",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "open jev judgments callscreenbench calibrated one pass scam screening small language model": {
+      "article_type": "Research paper",
+      "normalised_title": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "normalized_title_fingerprint": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "parsed_date": "2026-09-22",
+      "raw_title": "Open-Jev Judgments on CallScreenBench:Calibrated One-Pass Scam Screening with a Small Language Model - arXiv",
+      "same_story_key": "arxiv.org|2026-09-22|calibrated callscreenbench jev judgments language model one open",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "arxiv.org",
+      "title": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "usefulness_category": "Research / novel method"
     },
     "operation asterix processes phone numbers find crypto users targeted fraud": {
       "article_type": "News report",
@@ -9880,6 +9958,18 @@
       "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "024540efc33696976abb9fde119b605771b6e537fbf6b4f04fbdb95b8411b115": {
+      "article_type": "Research paper",
+      "normalised_title": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "normalized_title_fingerprint": "open jev judgments callscreenbench calibrated one pass scam screening small language model",
+      "parsed_date": "2026-09-22",
+      "same_story_key": "arxiv.org|2026-09-22|calibrated callscreenbench jev judgments language model one open",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Open-Jev Judgments on CallScreenBench:Calibrated One-Pass Scam Screening with a Small Language Model - arXiv",
+      "url": "https://arxiv.org/html/2609.23959v1",
+      "usefulness_category": "Research / novel method"
+    },
     "03888ab4bb5ad8cecbf07ada1e3c4ff4045e3a74a1872c89c4ed66816e64b72f": {
       "article_type": "Research paper",
       "normalised_title": "integrating sociocultural intelligence cybersecurity lescant based approach phishing social engineering detection",
@@ -10767,6 +10857,18 @@
       "title": "US charges 2 Chinese nationals with managing cyberscam compound in Myanmar - AP News",
       "url": "https://apnews.com/article/myanmar-scam-compound-chinese-nationals-charges-4b6a987f7af1d0ec4fd893e57b07c351",
       "usefulness_category": "Operational intelligence"
+    },
+    "23d2cd991ac1af03618029a321fc3a006af9989c650d26c25daf4be7e0d3c86b": {
+      "article_type": "Product / developer changelog",
+      "normalised_title": "cloudflare security architecture",
+      "normalized_title_fingerprint": "cloudflare security architecture",
+      "parsed_date": "2026-09-16",
+      "same_story_key": "developers.cloudflare.com|2026-09-16|architecture cloudflare security",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "developers.cloudflare.com",
+      "title": "Cloudflare Security Architecture - Cloudflare Developer Docs",
+      "url": "https://developers.cloudflare.com/reference-architecture/architectures/security/",
+      "usefulness_category": "Product idea / data source"
     },
     "23e2531bc1d1dc3aeaf0b10fc39488230e2093508021e0963bf24740e2392b8c": {
       "article_type": "Research paper",
@@ -11775,6 +11877,18 @@
       "title": "\u2018Uncanny Valley\u2019: Tech Elites in the Epstein Files, Musk\u2019s Mega Merger, and a Crypto Scam Compound - WIRED",
       "url": "https://www.wired.com/story/uncanny-valley-podcast-tech-elites-epstein-files-musk-mega-merger-crypto-scam-compound/",
       "usefulness_category": "Operational intelligence"
+    },
+    "49ba9b909e79a890e3a79766e5dd7d17579c1becf3f27bd064a029e52e553991": {
+      "article_type": "News report",
+      "normalised_title": "cambodia showcases scams crackdown global conference",
+      "normalized_title_fingerprint": "cambodia showcases scam crackdown global",
+      "parsed_date": "2026-09-22",
+      "same_story_key": "channelnewsasia.com|2026-09-22|cambodia crackdown global scam showcases",
+      "sent_at": "2026-09-23T04:42:04+00:00",
+      "source_domain": "channelnewsasia.com",
+      "title": "Cambodia showcases scams crackdown with global conference - CNA",
+      "url": "https://www.channelnewsasia.com/asia/cambodia-scams-crackdown-global-conference-6401716",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "4a3e50aa45f365faef553ba06867ecf665d22e790e56530f1aa95b77ce0778d0": {
       "article_type": "News report",

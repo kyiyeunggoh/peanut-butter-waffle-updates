@@ -580,6 +580,58 @@
     ],
     "word_count": 2760
   },
+  "024540efc33696976abb9fde119b605771b6e537fbf6b4f04fbdb95b8411b115": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Open-Jev Judgments on CallScreenBench: Calibrated One-Pass Scam Screening with a Small Language Model Simiao Ren \u2020 Kidus Zewde * Xingyu Shen * Yuchen Zhou * Dennis Ng * Affiliation: Ankit Raj * Tommy Duong * Yuxin Zhang * Neo Tiangratanakul * Affiliation: Scam.ai (Reality Inc.) Affiliation: * Equal contribution. \u2020 Corresponding author: benren@scam.ai Abstract Screening a phone call for fraud needs a trustworthy probability after every caller turn, in milliseconds. Jev-style typed decisions promise exactly that: declared options go in, one calibrated probability per option comes out of a single forward pass, with no generated text. We test an open implementation of this readout, JevLite, on scam-call screening: Qwen3-4B is LoRA-tuned so that the temperature-scaled softmax over two answer-label logits is P \u2061 ( scam ) P(\\text{scam}) . On 41 held-out CallScreenBench scenarios (577 per-turn decisions) a three-seed ensemble reaches AUROC .974 with calibration error .052, non-inferior to an LLM judge (MiniMax-M3) at a pre-registered .02 margin, with no false alarms on legitimate calls, decisions 1.14 turns earlier under the same hang-up rule, and 64.5 ms per decision on one consumer GPU, 4.9 \u00d7 \\times lower than the same backbone fine-tuned to generate its answer. The gain is in the readout and calibration, not accuracy: a fine-tuned...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 65,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "phishing",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 13021
+  },
   "0297f7bf2113ace9fce682165dfd532a13ae41cf692a5bdc138547e2c74034fe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2923,6 +2975,30 @@
       "cybersecurity"
     ],
     "word_count": 2121
+  },
+  "0a8135c72188ec8ac9f3c4591d9cf0e3e3315d60beb73039b521da7537c3581a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts September 22, 2026 Test every pull request in an isolated environment with Worker Previews Workers Copy as Markdown | View as Markdown | Agent setup You can now test every change you make in an isolated, production-like environment with Worker Previews \u00e2\u0086\u0097 . Each Preview runs under the same Worker with its own code, configuration, URL, and observability, isolated from production and every other Preview. Configure each Preview Define the variables, bindings, and settings that new Previews start with in the previews block of your Wrangler configuration file . Set secrets with Wrangler commands. You can override one Preview without changing production or other Previews. For Durable Objects and Containers , Cloudflare automatically provisions separate namespaces, storage, apps, and instances for every Preview. State changes, sessions, memory, migrations, and concurrent tests remain scoped to that Preview. To isolate KV, D1, R2, or another account-level resource, bind the Preview to a separate resource . Deploy and share every change Use Wrangler 4.135.0 or later to deploy a Preview : npx wrangler preview Or connect your repository to Workers Builds to create Previews automatically and post their URLs to pull requests. Each Preview gets a stable URL that updates with every push, so reviewers always see the latest changes.",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 993
   },
   "0aa4033ae04982557079f98f696c6bae107f6bf6bdd02739d363af11370e37ad": {
     "access_status": "available",
@@ -8429,6 +8505,30 @@
     ],
     "word_count": 48638
   },
+  "1ba392bc933820336bf3b912ee764e86af31f17da2b73e92165db585bcf16720": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI Labyrinth Last updated Sep 17, 2026 | Copy as Markdown | View as Markdown | Agent setup The AI Labyrinth adds invisible links on your webpage with specific Nofollow tags to block AI crawlers that do not adhere to the recommended guidelines and crawl without permission. AI crawlers that scrape your website content without permission will be stuck in a maze of never-ending links, and their details are recorded and used by all Cloudflare customers who choose to block AI bots . These links do not impact your search engine optimization (SEO) or your website's appearance, and are only seen by bots. AI bots that respect no-crawl instructions will safely ignore this honeypot. AI Labyrinth in Security Analytics When AI Labyrinth is enabled, Cloudflare logs security events for AI Labyrinth under the AI Labyrinth service. The following actions describe what happened to the request: Action Description AI Labyrinth Served Cloudflare injected AI Labyrinth honeypot links into the HTML response. AI Labyrinth Crawls A crawler followed one of the injected honeypot links and entered the maze. AI Labyrinth actions are not mitigations. Cloudflare does not block or challenge the request. A high volume of AI Labyrinth Crawls relative to AI Labyrinth Served indicates that non-compliant AI crawlers are actively following the injected links.",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 918
+  },
   "1ba527048fe2b9a653a02aea9a399304b3d91c96410ba2177d1c9d8f02e8b6ce": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9499,6 +9599,43 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "1f0a072adfbec6a47f0be34e37e8240b1a30f25f47671c6dc9d9ce050de8bf60": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Mate : Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning Changyue Jiang Affiliation: Fudan University Affiliation: Shanghai Innovation Institute Email: cyjiang24@m.fudan.edu.cn Jiayi Wang Affiliation: Fudan University Email: 24212010031@m.fudan.edu.cn Xin Wen Affiliation: Fudan University Email: 25213050398@m.fudan.edu.cn Jiarun Dai Affiliation: Fudan University Email: jrdai@fudan.edu.cn Geng Hong Affiliation: Fudan University Email: ghong@fudan.edu.cn Xudong Pan Affiliation: Fudan University Affiliation: Shanghai Innovation Institute Email: xdpan@fudan.edu.cn Abstract Mobile agents powered by foundation models now automate complex, multi-step workflows on real devices, but their trajectories can violate app-specific security policies. Existing trajectory-level defenses rely on LLM prompting or rigid rules, and thus fail to support fine-grained, natural-language policies that generalize across apps and tasks. In this work, we introduce Mate , a lightweight, policy-conditioned auditor that encodes both agent trajectories and natural-language security policies to determine whether a trajectory violates a given policy and to explain why. Treating policies as editable text rather than fixed model parameters allows Mate to handle user-defined and evolving requirements without retraining. To...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 25114
   },
   "1f4966770b6f29dabde00fcb911b43dba6e3903ef4d4552747e9169f1a8fa6db": {
     "access_status": "available",
@@ -13055,6 +13192,30 @@
       "fraud"
     ],
     "word_count": 7167
+  },
+  "2b405e6db4cc5c496370ea1a1c7605cfa489454a2290a127a719c92016946231": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI Published Sep 23, 2026, 08:00 AM TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI The issuer is solely responsible for the content of this announcement. Press release TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI Published Sep 23, 2026, 08:00 AM TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI The issuer is solely responsible for the content of this announcement. Press release TacnIQ.ai raises US$1.5 million from In Group Holdings to scale tactile AI Published Sep 23, 2026, 08:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 162
   },
   "2b50075f241ff6031ec474e9cad002c8b03e65e60ac72404c0a3b83fbeb78999": {
     "access_status": "available",
@@ -18448,6 +18609,32 @@
     "weak_generic_terms_found": [],
     "word_count": 177
   },
+  "3cd2707b6b7a95bb955e3bf4b1ff53d80bd8b6853c0f71fb49bc7cb21c70092c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ex-Google safety chief warns AI could harm children more than social media did Sign up now: Get ST's newsletters delivered to your inbox Tom Siegel, former vice-president of trust and safety at Google, is executive director of the Youth AI Safety Institute at Common Sense Media. PHOTO: REUTERS Published Sep 23, 2026, 08:30 AM Updated Sep 23, 2026, 09:46 AM Set as preferred source Listen Summarise The ex-Google safety chief warns AI might harm children more than social media did, urging a slowdown and stronger regulations to protect young users. He joined Common Sense Media's Youth AI Safety Institute to develop standards holding AI firms accountable and collaborate with companies. Risks include suicide, psychosis, and decreased critical thinking; companies should enforce age verification and safety features despite possible short-term profit loss. AI generated SAN FRANCISCO \u2013 The founder of the trust and safety team at Alphabet\u2019s Google this week called for a slowdown in AI development, warning that the tech industry was repeating the same mistakes from the social media era, potentially causing even greater harm to children. Social media companies are paying huge sums and facing thousands of lawsuits over claims they harmed young users, while governments around the world are working to curb minors\u2019 access to their platforms. Reuters in 2025 exclusively reported on an internal...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2657
+  },
   "3ced052928af37ed2c46a1fd0d847d4f24562b3226b6415a3f84d1022cbbea8d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20436,6 +20623,39 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "43bb0e79cb5b634b2925616a991a3f794b80ef3faa8256c0fffd1fe9c3087c93": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:42:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": null
   },
   "43c1ab4cb688e0f00982bb8207fd13c26d6e2dcd1c1bd82b1889dbb34e289e23": {
     "access_status": "available",
@@ -22777,6 +22997,53 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1202
+  },
+  "49ba9b909e79a890e3a79766e5dd7d17579c1becf3f27bd064a029e52e553991": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "An aerial view shows a closed cyber scam centre compound in Cambodia's Prey Veng province on Sep 21, 2026. (Photo: AFP/Suy Se) 22 Sep 2026 04:13PM (Updated: 22 Sep 2026 04:21PM) Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST PHNOM PENH: Cambodia showed off a shuttered scam compound complete with counterfeit cash and a fake police station this week ahead of a global conference intended to burnish its anti-fraud credentials. Around 20 countries, including the US and China, will be represented at the meeting on Wednesday (Sep 23) and Thursday, held amid international pressure on Phnom Penh to do more to tackle the multi-billion-dollar online scam industry . Southeast Asia has emerged as a hub for crime syndicates running centres filled with scammers - some willing, some trafficked - who defraud internet users through fake romantic relationships or cryptocurrency investment schemes. Cambodia stands accused of having allowed scams to thrive, with some estimates suggesting it has generated the equivalent of as much as half the country's formal GDP in...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3388
   },
   "49d5c5e0443b3a80e117dd6fe71771b70c8b6b59aa14e872f54a99e0c381cdf3": {
     "access_status": "available",
@@ -28393,6 +28660,52 @@
     ],
     "word_count": 3178
   },
+  "5b9d7be86a88edc2a748a3229b4201d026d741b15a9a94257d93f735a0eb752f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Summary Prime Minister Hun Sen says criminal syndicates will not undermine progress More than a dozen countries attend two-day Phnom Penh gathering Critics say raids left high-level protectors untouched PHNOM PENH, Sept 23 (Reuters) - Cambodia\u2019s prime minister said the country would not be a haven for transnational scam syndicates as he opened a global conference on cyberfraud on Wednesday, where the government is keen to showcase its crackdown on the multibillion-dollar scam industry. \"Cambodia will never be a safe haven \u200bfor online scams,\" Prime Minister Hun Manet said in an opening speech in Phnom Penh, where \u200bdelegates from more than a dozen countries, including the United States and China, have gathered. Sign up here. \"Cambodia will \u2060not allow criminal syndicates to undermine our country's progress and the livelihood of over 17 million Cambodian people,\" \u200bhe said, adding that the country supported more international cooperation including real-time intelligence sharing. Cambodian authorities say they have eradicated industrial-scale \u200bscam compounds, a claim met with skepticism by some analysts who say raids have left high level figures unscathed. The conference represents a \"growing openness to cooperate\", said Delphine Schantz, regional representative of the United Nations Office on Drugs and Crime. \u201cBut it is \u200bclear that more can and needs to be done, both at national...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1152
+  },
   "5baccc1e811928f3b946b6888c16d2ee5f51b9b7b270726b754b80b9bde78962": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -28756,9 +29069,9 @@
   "5c7e16177cc6be400273dddd660d8f0ba0510f735ceebbbe7c2646575524aa7f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "If its virtual shelves were translated into a brick-and-mortar storefront, it would probably be the most overstimulating space in the world. Take power banks, for example. Search \u201c power bank \u201d on Amazon and you'll get more than 40,000 results, ranging from well-known brands like Anker and Belkin to obscure brand names with zero product reviews. There are hundreds of companies and sellers to sift through, with varying capacities, port options, and charging speeds. So how do you know which brands are high-quality? Which listings are legitimate? What\u2019s a good price to pay? Are any of these power banks actually on sale and worth buying, or are the discounts fake ? It's remarkably easy to sell products on Amazon (as evinced by its millions of sellers ). That means there are plenty of subpar product listings that come from sketchy sellers\u2014often with gibberish names or multiple sellers that are using the same photos and claiming to sell the same product.",
-    "cache_version": 6,
-    "checked_at": "2026-06-06T04:19:23+00:00",
+    "article_excerpt": "If its virtual shelves were translated into a brick-and-mortar storefront, it would probably be the most overstimulating space in the world. Take power banks, for example. Search \u201c power bank \u201d on Amazon and you\u2019ll get more than 50,000 results, ranging from well-known brands like Anker and Jackery to obscure brand names with zero product reviews. There are hundreds and hundreds of companies and sellers to sift through, with varying capacities, port options, and charging speeds on offer. So how do you know which brands are high-quality? Which listings are legitimate? What\u2019s a good price to pay? Are any of these power banks actually on sale and worth buying, or are the discounts fake ? It\u2019s remarkably easy to sell products on Amazon (as evidenced by its millions of sellers ). That means there are plenty of subpar product listings that come from sketchy sellers\u2014often with gibberish names or multiple sellers that are using the same photos and claiming to sell the same product.",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:47+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -28787,7 +29100,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 7505
+    "word_count": 7809
   },
   "5c894ce561bfe98d241ab9719bf3b1b56caeb64054bddaa66ba4b4d967658d3e": {
     "access_status": "available",
@@ -30703,6 +31016,33 @@
     ],
     "word_count": 5773
   },
+  "63360427b5e8ed43eaef368a98e1264bf29dc168dc43d0b0c18086d8fa043b89": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime"
+    ],
+    "word_count": 0
+  },
   "63617a757eb8f9ede0be011192150e0aaced475f7c8741f3b76c7bb8eab82b34": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -31228,6 +31568,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1023
+  },
+  "657e6e93ead4ae13a3e7a7434fc1751bf7ccd661899fcab358f7acd15d5be4dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "S\u2019pore firms, households have sufficient buffers to weather financial shocks: MAS review Sign up now: Get ST's newsletters delivered to your inbox The review comes as inflation has proven more sticky than expected, with the escalation of the Middle East conflict adding to energy price pressures. ST PHOTO: LIM YAOHUI Sheila Chiang Published Sep 22, 2026, 01:00 PM Updated Sep 23, 2026, 05:51 AM Set as preferred source Listen Summarise Singapore firms and households have strong financial buffers and can withstand shocks to income and financing costs, though some highly leveraged firms and lower-income borrowers may face strain. The Monetary Authority of Singapore\u2019s stress tests highlight risks from a potential AI investment pullback, higher interest rates, and geopolitical tensions affecting firms, banks, and households. Financial institutions like banks, insurers, and investment funds maintain robust capital and liquidity, enabling them to manage risks from global volatility and economic uncertainties effectively. AI generated SINGAPORE \u2013 Singapore firms and households are well placed to weather shocks to their earnings, incomes and financing costs, while financial institutions such as banks have sufficient buffers should they come under stress. This is based on stress tests done by the Monetary Authority of Singapore (MAS) as part of its annual financial stability review that...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3882
   },
   "657eb137e7a819321761e9c75c1cfffab1a66383e520c3b67bd84dbc96c86414": {
     "access_status": "available",
@@ -36502,6 +36866,37 @@
     ],
     "word_count": 17489
   },
+  "7761e6f88f9966819cd7d0677db21b0ed385cb5ce3f1730121bef42b8d538fd8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "As attackers are increasingly incorporating agentic AI components into their hacking tools, researchers from Cisco Talos shared an open-source framework on Monday that they hope will be used widely to classify and analyze AI-integrated malware . They also have proof that it's already working. They're calling the framework Cognitive Artifact Intelligence Research Network, or CAIRN , named after the stacks of stones that hikers set up on trails to mark the path or emphasize something about a certain spot. As malware authors expand their use of AI services, Cisco Talos researchers have used CAIRN to identify a hacking tool with fully autonomous command-and-control infrastructure. Dubbed CLOSEDQUORUM , the malware plotted its moves within a target system by polling up to four large language models (LLMs) about what it should do and taking its directives from that hive mind. \u201cThe core idea is that AI integration has these vestiges, like fingerprints, that are left behind,\u201d says Ryan Fetterman, a security researcher at Cisco Talos who led development of CAIRN. \u201cThat gives us a signal that we can use to track these samples, classify them, and look at what's happening. What are attackers trying? What kind of emergent behaviors are we seeing? That's a valuable resource to the defensive community as these things become more mainstream.\u201d In July 2025, the Ukrainian cybersecurity response...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2824
+  },
   "776c1fccaa0109bb6b24a7b4191f1cacbdac38756249683e1ce5a56086880126": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -38940,7 +39335,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-08-28T11:21:03+00:00",
+    "checked_at": "2026-09-23T04:41:48+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -41804,6 +42199,32 @@
       "trust"
     ],
     "word_count": 1634
+  },
+  "8575967751e81c88425329820f2a4a3b0c833c53a98bf3c555dc1589124c552f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "858906c0a98f13917ea28591e9d27b8496aee87f7a69bdfc4e9094262c80f664": {
     "access_status": "available",
@@ -46565,6 +46986,32 @@
     ],
     "word_count": 12824
   },
+  "95ab9a40d5254e26bd0dcf046274bafcba976a07720387d122e93d5eb71833ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Anthropic, OpenAI release cheaper AI even as safety fears grow Sign up now: Get ST's newsletters delivered to your inbox Anthropic said its Opus 5.5 comes close to the performance of its flagship model at a significantly lower price. PHOTO: REUTERS Published Sep 23, 2026, 11:00 AM Updated Sep 23, 2026, 11:00 AM Set as preferred source Summarise Anthropic and OpenAI released new, cheaper AI models, Opus 5.5 and GPT-6 Sol/Luna, offering high performance amid rising safety concerns and competition. Both companies faced security breaches in July, leading to pauses in AI development and calls from leaders for slowing AI progress. Anthropic\u2019s Opus 5.5 includes advanced safeguards and shows improved alignment, but its unpredictability in real-life use remains a challenge. AI generated SAN FRANCISCO \u2013 Anthropic and OpenAI on Sept 22 released new, cheaper artificial intelligence models within hours of each other, days after the heads of both companies called for a slowdown in AI development. Anthropic said its Opus 5.5 comes close to the performance of its flagship model at a significantly lower price. It matches Fable, Anthropic\u2019s cutting-edge model, on most tasks at a 20 per cent lower price, the company said. OpenAI followed shortly after with GPT-6 Sol and GPT-6 Luna, and claimed they handle tasks substantially better than Anthropic\u2019s top models. The new models are cheaper, faster...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1689
+  },
   "95d7da90ebc47ff752dcf41ccd773dc9936364f38d1a2740add8d8c6cf88d23d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -47610,6 +48057,40 @@
       "trust"
     ],
     "word_count": 20951
+  },
+  "9929b59d981cf0c1146fc30359d56355201855641a011871954f004ab18fa22d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 8
   },
   "992dfec6969d0e6b7a5ae3cdfcd0d15691dd701a9d2714aaad2b6cdc6bfb470a": {
     "access_status": "available",
@@ -53522,6 +54003,30 @@
       "trust"
     ],
     "word_count": 5439
+  },
+  "abd458ae016e156f4ebbc743af16c1066bdd12144838b9708836d9d1355d0e82": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump renames AI \u2018super intelligence\u2019 as leaders jostle over dangers Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump stood by his firm opposition to regulating AI, while arguing the word \u201cartificial\u201d undersold the technology. PHOTO: BLOOMBERG Published Sep 23, 2026, 09:15 AM Updated Sep 23, 2026, 09:48 AM Set as preferred source Listen NEW YORK \u2013 US President Donald Trump on Sept 22 announced that the US government would rename artificial intelligence \u201csuper intelligence\u201d in official communications, as world leaders jostled over how to address the dangers of the fast-advancing technology. AI has become a major topic at the UN General Assembly , after incidents of the technology falling out of humans\u2019 control and warnings by company insiders drew global alarm and calls for better government supervision of the industry. Speaking to the assembly, Trump stood by his firm opposition to regulating AI, while arguing the word \u201cartificial\u201d undersold the technology and voicing hope the rest of the world would adopt the new term. Super intelligence \u201csounds much better\u201d and \u201cit\u2019s much more accurate\u201d, he said. The rebrand is the latest in a series of renamings pursued by the Trump administration, which changed the Gulf of Mexico to the \u201cGulf of America\u201d via executive order in 2025 and, in August, renamed Lake Ontario \u201cLake America\u201d amid a trade dispute...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2337
   },
   "abe49d47ebd04e3901c2cb35e7af4cb7d55f028bae252560fda5d1d73d7650d1": {
     "access_status": "available",
@@ -60843,6 +61348,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "c1e660ef19fe5e4a3df7d9f7a02d32b675a6136c7fb8d4f8c734589294a6f619": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "DeepSeek to brief UN Security Council on AI this week, sources say Sign up now: Get insights on Asia's fast-moving developments DeepSeek and other Chinese AI firms, including Moonshot, have been invited to make statements, a sources said. PHOTO: REUTERS Published Sep 22, 2026, 05:24 PM Updated Sep 22, 2026, 06:06 PM Set as preferred source Listen Summarise DeepSeek, a Chinese AI start-up, will brief the UN Security Council on AI risks during the annual General Assembly, alongside US firms like OpenAI and Anthropic. The Security Council meeting on Sept 23 follows global calls to slow AI development due to concerns over AI systems potentially operating beyond human control. China and the US show differing views on AI risks, with China rejecting slowdown calls and both nations agreeing to further talks on AI safety ahead of high-level meetings. AI generated BEIJING \u2013 Chinese artificial intelligence start-up DeepSeek will be among the companies briefing the United Nations Security Council this week on the risks posed by AI, two sources familiar with the matter said, as world leaders gather in New York for the annual UN General Assembly. The 15-member Security Council is set to meet on Sept 23 to discuss AI and international security, weeks after several AI industry leaders called for a coordinated slowdown of the development of the increasingly powerful AI systems, warning that...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1679
+  },
   "c24687c0131a8b2ea91cd6982fab17c0e761aaee748b497e5aa85948e3e67803": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -66550,6 +67079,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4199
+  },
+  "d41bce0dc72ebd1d47489c6aa2c334c21e20994c83e108b428f4ce39f2274aca": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "AI shopping bots raise scam, fraud and data-privacy risks, banks warn Sign up now: Get ST's newsletters delivered to your inbox A group of banks has warned of risks in using AI agents for online shopping, citing risks to privacy and data. PHOTO: REUTERS Published Sep 22, 2026, 06:43 PM Updated Sep 22, 2026, 06:43 PM Set as preferred source PARIS \u2013 Using AI agents for online shopping could increase the risk of scams, fraud and data-privacy breaches, banks including NatWest and Bank of America warned on Sept 22, as they set out principles for developing the technology. Technology companies, including OpenAI, Anthropic, Google and Meta, are increasingly promoting AI chatbots as shopping tools, envisioning a future in which shoppers use AI agents to select products and make purchases on their behalf. Retailers, meanwhile, are racing to influence chatbots\u2019 recommendations. British retailer John Lewis said in September that searches \u200boriginating from AI agents rose to 2.5 per cent from 0.3 per cent a year \u200bearlier, with the trend accelerating. The group of banks, which also includes ING, New Zealand\u2019s ASB Bank and US lender Capital One, said in a report that customers are enthusiastic about the potential of agentic commerce and keen to enable it. However, they warned that the technology is advancing faster than industry standards and consumer protections. \u201cConsumers are unclear if...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1227
   },
   "d427e480c9522c18bab1ffa663216e807dab8657fff153667464bcc1fbe59998": {
     "access_status": "available",
@@ -74704,6 +75268,30 @@
     ],
     "word_count": 2331
   },
+  "f0b626461e7d5ff72684706c0e0418e194748b6ef01167b8311f7674f990c495": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Third earthquake strikes Johor\u2019s Batu Pahat since June, no tsunami threat Sign up now: Get insights on the biggest stories in Malaysia The weak 4.4-magnitude quake struck about 27km south-west of Batu Pahat. PHOTO: MALAYSIAN METEOROLOGICAL DEPARTMENT/FACEBOOK Published Sep 22, 2026, 06:03 PM Updated Sep 22, 2026, 06:03 PM Set as preferred source Listen Summarise A 4.4-magnitude earthquake struck off Batu Pahat, Johor, on Sept 22 at a depth of 10km, with no tsunami threat reported by MetMalaysia. This is the third earthquake in the Batu Pahat area since June, following two weaker quakes of 3.3 and 3.1 magnitude in June and August. The epicentre was located about 27km south-west of Batu Pahat, and MetMalaysia continues to monitor seismic activity in the region closely. AI generated PETALING JAYA \u2013 A weak 4.4-magnitude earthquake struck off the waters of Batu Pahat, Johor, on the afternoon of Sept 22. In a statement, the Malaysian Meteorological Department (MetMalaysia) said the tremor occurred at 4.55pm at a depth of 10km. MetMalaysia reported the epicentre at coordinates 1.7 degrees north and 102.7 degrees east, approximately 27km south-west of Batu Pahat. No tsunami warning was issued. Two weak earthquakes, measuring 3.3 and 3.1 on the Richter scale, were previously detected in the area on June 21 and Aug 25, respectively. THE STAR/ASIA NEWS NETWORK More on this topic Another...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 714
+  },
   "f0f2b822e9709ba00f0b5258d5dc6937016cf6665dff7496efe560002291132f": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -74835,6 +75423,30 @@
       "victim"
     ],
     "word_count": 2367
+  },
+  "f1283f761a545b99d7b13d8ffcdcac7b97b0beeb3af48500a8174ee162047379": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump at UN: Threats, diplomacy and \u2018super intelligence\u2019 Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking at the United Nations General Assembly on Sept 22, in New York City. PHOTO: AFP Published Sep 23, 2026, 12:49 AM Updated Sep 23, 2026, 07:34 AM Set as preferred source Listen UNITED NATIONS, United States - President Donald Trump used his address to the UN General Assembly on Sept 22 to defend the US-Israeli campaign against Iran while laying out his foreign policy priorities. Here are the major issues he addressed in a 37-minute speech: Iran He warned he could annihilate Iran without a peace deal and predicted one would be reached after US midterm elections on Nov 3 when the makeup of Congress will be decided. Ukraine About Russia\u2019s war in Ukraine, he said, \u201cWe\u2019re working very closely with the leaders of Russia and Ukraine, and we will get that one done,\u201d adding, \u201cIt\u2019s going to happen, I think, more quickly than people understand.\u201d Artificial intelligence He said the US government would use the term \u201csuper intelligence\u201d instead of artificial intelligence and repeated his view that AI safety warnings are a hoax. \u201cWe\u2019re leading now over China by a lot and everyone else,\u201d he said. \u201cI\u2019m not going to stifle growth of something that will be bigger than the Industrial Revolution.\u201d He said US law enforcement agencies would rein in the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-23T04:41:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1695
   },
   "f1817b7d47bc8bd6e10ba721a8064ee8f4600015ede90eddbdd594628b066885": {
     "access_status": "available",
