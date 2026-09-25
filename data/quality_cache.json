@@ -1421,6 +1421,32 @@
     ],
     "word_count": 0
   },
+  "048fb16b701c22fa93a76565301db14c72021fc7870efd4f84693c17726b3e94": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What a cholera map can teach us about trusting AI A physician spotted a consequential pattern on a street map. Working with similar principles today could make medical AI more useful and easier to question. Sign up now: Get ST's newsletters delivered to your inbox AI can have a direct impact on healthcare, says the writer, but we should be able to test and investigate the patterns that the models reveal. PHOTO: ST FILE Zhigang Yao Published Sep 25, 2026, 12:00 PM Updated Sep 25, 2026, 12:00 PM Set as preferred source In late August 1854, cholera swept through Soho in London. Within days, hundreds of people had died. At the time, many believed that cholera was transmitted through foul-smelling air. The physician John Snow suspected contaminated water instead. While investigating the outbreak, he placed the deaths on a street map and marked the locations of public water pumps. See more on AI/artificial intelligence Data analytics/science Medical research Healthcare What a cholera map can teach us about trusting AI A physician spotted a consequential pattern on a street map. Working with similar principles today could make medical AI more useful and easier to question.",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 509
+  },
   "04a6517aec38aefe62397deb4468b3bfa6b2c4d623f5229433ddc17dd6810097": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16333,6 +16359,48 @@
     ],
     "word_count": 1482
   },
+  "359b889ef33cdd35250ceaec2f50c14111c122aa3f7adbab12f23490d8b88304": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection Chengxian Hu Zhiming Ma Mingjun Pan Yifan Wang Shun Zhang \\corresponding Qifan Wang Zhilei Zhao Yijin Zhou Yuxi Zhao Huiyuan Liu Peidong Wang Peng Chen Abstract Large audio-language models have shown promise for anti-fraud detection by directly processing speech and reasoning over fraud-related evidence. Their deployment, however, requires predictions to follow a predefined label space and a structured decision protocol consisting of service-scenario identification, fraud detection, and conditional fraud-type classification. Existing fine-tuning and prompt-based approaches typically encode task knowledge, constraints, and decision rules into model parameters or manually maintained prompts, making them difficult to adapt as fraud patterns and labeling policies evolve. To this end, we propose FRAUDSkill , a structured frozen-weight adaptation framework that leaves the underlying audio-language model unchanged while optimizing an external layer of skill programs, route-specific policies, and decision rules. We further combine structured output control with validation-guided multi-path inference to ensure protocol-compliant predictions. On the TeleAntiFraud benchmark, FRAUDSkill achieves 73.50 % 73.50\\% Macro-F1, outperforming the shared...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "phishing",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 12455
+  },
   "35d51c26f1d798907bf5a4d0fd2cf4a1f096352fc215cc6aedd618449954ce97": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -16559,6 +16627,51 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3891
+  },
+  "368bdc4549fb57dd403b3339dc3bea55fd35cfbb5eb55b143d66abf7dd2fcc5a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: GUIAuditor : Enabling Post-hoc Child Safety Forensics via Action-Guided GUI Provenance on Mobile Devices Journal: IMWUT Volume: 10 3 130 9 DOI: 10.1145/3831978 CCS: Security and privacy Usability in security and privacy CCS: Security and privacy Mobile platform security CCS: Human-centered computing Ubiquitous and mobile computing systems and tools Junlin Liu Affiliation: Peking University , China email: jlinliu@pku.edu.cn , Yifeng Cai Affiliation: Peking University , China Affiliation: Beijing Tongming Lake Information Technology Application Innovation Center , China email: caiyifeng@pku.edu.cn , Shuai Wang Affiliation: Peking University , China email: wangshuai_2016@pku.edu.cn , Zhineng Zhong email: zhongzhineng@pku.edu.cn Affiliation: Peking University , China , Shaofei Li email: lishaofei@pku.edu.cn Affiliation: Peking University , China , Jiacheng Liu Affiliation: Peking University , China email: jiachengliu25@stu.pku.edu.cn , Yuanchun Li Affiliation: Tsinghua University , China email: liyuanchun@air.tsinghua.edu.cn , Ziqi Zhang Affiliation: University of Illinois Urbana-Champaign , USA email: ziqi24@illinois.edu , Xiangqun Chen email: cherry@pku.edu.cn Affiliation: Peking University , China , Ding Li email: ding_li@pku.edu.cn Affiliation: Peking University , China and Yao Guo Affiliation: Peking University , China email...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:stanford.edu",
+      "institution_domain:tsinghua.edu.cn",
+      "institution_domain:pku.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "monetary loss"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "trust"
+    ],
+    "word_count": 31914
   },
   "36967c24b32d81562ec7fa435778ac54676d06fba36f187ad3091ae5b95ea445": {
     "access_status": "available",
@@ -18111,6 +18224,52 @@
     ],
     "word_count": 4098
   },
+  "3ac2567fed9abd3a0b7303043bd255c7dd7020adbb23ea05ebeaafdba97fd5d9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection Huiyuan Liu Zhiming Ma Yanxing Liu Shun Zhang \\corresponding Qifan Wang Di Liu Yifan Wang Yuyang Deng Haoyang Meng Yijin Zhou Yuxi Zhao Chengxian Hu Peidong Wang Peng Chen Abstract Telecom fraud scripts evolve rapidly and are often designed to resemble routine service conversations, creating two key requirements for audio-based telecom-fraud evaluation. First, benchmarks must incorporate newly observed scam patterns without overwriting previously established test sets. Second, they must distinguish fraud from lawful, near-domain calls rather than relying on topic-separated negative examples. We present TeleAntiFraud 2.0 , constructed with our Mixed-Tree Anti-Fraud Generation Pipeline and evaluated under a monthly frozen evaluation protocol. The pipeline transforms online fraud-case abstracts into profile-grounded scenarios, expands them through mixed-tree generation, realizes fraud and non-fraud dialogue paths under shared contexts, renders validated dialogues as role-matched speech, and freezes the resulting audio, labels, prompts, manifests, and provenance records for each monthly evaluation set. Each frozen set contains 900 Chinese calls, comprising 600 fraud and 300 near-domain non-fraud cases. Controlled text...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 13745
+  },
   "3acd8f45c63676728cda96639a60771afce451f983b70719dfa53d015a4719ae": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -18958,6 +19117,32 @@
     ],
     "word_count": 12451
   },
+  "3d10897c3449cbb3b7f51012c8fd0e4da7cfa7277ec1cc7f2cac2707067a0bc0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Preparing for Disease X: S\u2019pore to make mRNA vaccines to boost pandemic readiness Sign up now: Get ST's newsletters delivered to your inbox Health Minister Ong Ye Kung said the capability of developing and producing mRNA vaccines will help in Singapore\u2019s pandemic preparedness. PHOTO: LIANHE ZAOBAO Yap Wei Qiang Published Sep 24, 2026, 12:00 PM Updated Sep 25, 2026, 06:02 AM Set as preferred source Listen Summarise Singapore aims to develop and produce new mRNA influenza vaccines to boost pandemic preparedness and vaccine manufacturing capabilities, says Health Minister Ong Ye Kung. Singapore supports global vaccine efforts through partnerships with Hilleman Laboratories and major pharmaceutical companies, and plans for an RNA Readiness and Response global biofoundry. The nation focuses on flexible, fast vaccine production platforms and international collaboration to ensure readiness for future pandemics, with continuous-flow manufacturing for large-scale mRNA vaccine output. AI generated SINGAPORE \u2013 Singapore is looking at supporting the development and production of new mRNA influenza vaccines here. This will greatly boost the nation\u2019s pandemic preparedness and is key to helping it exit the next deadly contagion, said Health Minister Ong Ye Kung. The Ministry of Health (MOH) hopes to work with the likes of medical research organisation Hilleman Laboratories \u2013 which has its...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4633
+  },
   "3d173306e44a564a5fef261ca46c32b4926bd90328694d6f8e8165fc533568a2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -19042,6 +19227,30 @@
       "fraud"
     ],
     "word_count": 4583
+  },
+  "3d3bee9de3ec833a978502c2813b2897747b8e809b51dc520d4922d804d77062": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US FAA says error messages in telecommunications circuit prompted shift to backup before outage Sign up now: Get ST's newsletters delivered to your inbox The major telecom failure paralysed traffic along the East Coast for hours and disrupted thousands of flights on Sept 21. PHOTO: EPA Published Sep 24, 2026, 07:49 AM Updated Sep 24, 2026, 07:49 AM Set as preferred source Listen WASHINGTON \u2013 The head of the US Federal Aviation Administration said a series of error messages in a telecommunications circuit prompted the agency on Sept 20 to switch to a backup fibre line before an outage snarled thousands of flights along the East Coast . The FAA said its contractor L3Harris advised they wanted to switch to the backup on Sept 20 to begin troubleshooting of the circuit at a Philadelphia air traffic control facility before a New Jersey Transit contractor on Sept 21 accidentally cut the backup fibre line near New Brunswick, New Jersey. L3Harris did not immediately respond to a request for comment. Congress approved US$12.5 billion (S$16 billion) to reform air traffic control in 2025, but the project has taken on new urgency since the major telecom failure paralysed traffic along the East Coast for hours and disrupted thousands of flights. On Sept 21, about 9,500 US flights were delayed or cancelled after the FAA was forced to halt flights for hours to airports in New York...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1399
   },
   "3d5924b49f9a23e21f9cbe78ed3a328c7185ce3a2767b9a1b40fb9a611748ccf": {
     "access_status": "available",
@@ -24011,6 +24220,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1313
   },
+  "4b6b8ce553128178d7f8e7d00478df1d1f3c126df66c86007a712ce2c1f89c56": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Cloudflare Managed Defense Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Vulnerability Discovery Vulnerability Discovery Repositories List repositories GET /accounts/{account_id}/managed-defense/vulnerability-discovery/repos Create repository POST /accounts/{account_id}/managed-defense/vulnerability-discovery/repos Get repository GET /accounts/{account_id}/managed-defense/vulnerability-discovery/repos/{repo_id} Models Expand Collapse RepositoryListResponse object { id , created_at , name , 3 more } id : string format uuid created_at : string format date-time name : string maxLength 255 minLength 1 readiness : \"awaiting_source\" or \"processing\" or \"ready\" or \"failed\" One of the following: \"awaiting_source\" \"processing\" \"ready\" \"failed\" source : \"upload\" or \"worker\" One of the following: \"upload\" \"worker\" import_error : optional object { code , message } code : \"worker_import_failed\" message : \"Worker import failed.\" RepositoryCreateResponse = object { repository , upload } or object { repository } One of the following: object { repository , upload } repository : object { id , name , readiness , 2 more } id : string format uuid name : string maxLength 255 minLength 1 readiness : \"awaiting_source\" or \"processing\" or \"ready\" or \"failed\" One of the following: \"awaiting_source\" \"processing\" \"ready\" \"failed\" source : \"upload\"...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 2960
+  },
   "4bbc0db2d8cb0186f8f608974a1dbcf6d40788086647895e10c5ffb2824ccbe3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28460,6 +28695,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2196
   },
+  "59e53bda9cc0015e191ea25ce05f6a43064e288f08051b4c48709caac9ba472e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "u Pareto Text Generation \u00e2\u0080\u00a2 unbiased Copy as Markdown | View as Markdown | Agent setup unbiased/pareto Third-party Zero data retention Pareto is Unbiased's blended AI model. It engages multiple language models in parallel for each request, synthesizes one answer, and supports text and vision inputs through a single API response. Model Info Terms and License link \u00e2\u0086\u0097 More information link \u00e2\u0086\u0097 Zero data retention Yes Request formats Chat Completions Pricing View pricing in the Cloudflare dashboard \u00e2\u0086\u0097 Usage const response = await env. AI . run ( 'unbiased/pareto' , { messages: [{ content: 'What is the capital of France? Answer in one word.' , role: 'user' }], max_tokens: 16 , }, ) console. log (response) curl https://api.cloudflare.com/client/v4/accounts/ $CLOUDFLARE_ACCOUNT_ID /ai/v1/chat/completions \\ --header \"Authorization: Bearer $CLOUDFLARE_API_TOKEN \" \\ --header \"Content-Type: application/json\" \\ --data '{ \"model\": \"unbiased/pareto\", \"messages\": [ { \"content\": \"What is the capital of France? Answer in one word.\", \"role\": \"user\" } ], \"max_tokens\": 16 }' Paris { \"id\" : \"chatcmpl-mu5ww8tss0mj6ofw\" , \"object\" : \"chat.completion\" , \"model\" : \"union-alpha\" , \"choices\" : [ { \"index\" : 0 , \"message\" : { \"role\" : \"assistant\" , \"content\" : \"Paris\" }, \"finish_reason\" : \"stop\" } ], \"usage\" : { \"prompt_tokens\" : 11 , \"completion_tokens\" : 5 , \"total_tokens\" : 16...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2237
+  },
   "59e991969ba94adcea92cad18d1487dccf7a1d5b55400b6c6e9634e5852eb9f1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31663,6 +31922,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3314
   },
+  "64e1dc082e3ad66be9c6922000b67403070045ba92bde16a5f425a22f41044aa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release CDNetworks to Showcase AI-Powered Cloud Security Solutions at Tech Week Singapore 2026 Published Sep 24, 2026, 10:00 AM CDNetworks to Showcase AI-Powered Cloud Security Solutions at Tech Week Singapore 2026 The issuer is solely responsible for the content of this announcement. Press release CDNetworks to Showcase AI-Powered Cloud Security Solutions at Tech Week Singapore 2026 Published Sep 24, 2026, 10:00 AM CDNetworks to Showcase AI-Powered Cloud Security Solutions at Tech Week Singapore 2026 The issuer is solely responsible for the content of this announcement. Press release CDNetworks to Showcase AI-Powered Cloud Security Solutions at Tech Week Singapore 2026 Published Sep 24, 2026, 10:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 147
+  },
   "64f6adf7d02d7692a2b854c2032931ec0979aab2fc64dcc6633bde1c72c6dbd7": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -33122,7 +33405,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-18T04:38:29+00:00",
+    "checked_at": "2026-09-25T04:52:33+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -36879,6 +37162,45 @@
     ],
     "word_count": 771
   },
+  "7623ec2543354c7c8b4409ec031fb7cb94c325e3556b15f9318c414899191fc5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:27+00:00",
+    "direct_relevance_terms_found": [
+      "fraud victim",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "fraud victim",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "scam_detection_or_intervention",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "fraud victim",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "fraud victim",
+      "financial fraud"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "762d6074a37aeed94c8882dbd74fbee01248fb029f331a47a62b25945f4c599c": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -37968,6 +38290,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "79375985f462c549b3d775a2266d542c9b7bb2f8428bb39110f17300d1e6c014": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI to preview GPT-6 Cyber within days, Fortune reports Sign up now: Get ST's newsletters delivered to your inbox GPT-6 Cyber is OpenAI\u2019s fourth cybersecurity-focused model released in 2026. PHOTO: REUTERS Published Sep 25, 2026, 08:14 AM Updated Sep 25, 2026, 12:45 PM Set as preferred source Listen Summarise OpenAI will preview GPT-6 Cyber, a new AI model focused on cybersecurity, within days and launch products to help customers deploy it securely and automatically. GPT-6 Cyber is OpenAI's fourth cybersecurity model, with limited alpha testing already under way through the Daybreak Red programme. The launch comes amid calls from industry leaders, including OpenAI's CEO, for slower AI development and stronger safety measures due to risks like evading human oversight and recent data breaches. AI generated OpenAI is set to preview a cybersecurity-focused AI model, GPT-6 Cyber, within days and launch a new product designed to help customers deploy it more securely and automatically, Fortune reported on Sept 24 , citing multiple sources familiar with the plans. OpenAI did not immediately respond to a Reuters request for comment outside regular business hours. OpenAI chief executive Sam Altman and rival Anthropic\u2019s CEO earlier in September joined industry leaders in calling for a slower pace of AI development and stronger safety measures. Cybersecurity is emerging as one of...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1030
   },
   "79409fa625b1da406465a2f43234fbf26781f1e6d6a1f5865c7f65497c785fea": {
     "access_status": "available",
@@ -39141,6 +39489,32 @@
       "trust"
     ],
     "word_count": 65642
+  },
+  "7c2c7dd8ee75f87532e51ffa89997828894ba7c86fb9a3a974431237ed46de39": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pope heads to France on first state visit in 18 years Sign up now: Get ST's newsletters delivered to your inbox Pope Leo XIV, the leader of the world\u2019s 1.4 billion Roman Catholics, will visit the French presidential palace in Paris on Sept 25. PHOTO: EPA Published Sep 25, 2026, 10:13 AM Updated Sep 25, 2026, 12:27 PM Set as preferred source Listen Summarise Pope Leo XIV begins his first state visit to France in 18 years, focusing on artificial intelligence, migration, clerical abuse, and peace amid upcoming French elections. He will visit Paris landmarks, including Notre Dame, meet President Macron, and lead large public masses with thousands of young believers. The Pope will address clerical sex abuse victims in Lourdes and speak on European peace in Metz, with EU leaders invited amid the Ukraine conflict. AI generated ROME \u2013 Pope Leo XIV flies to France on Sept 25 for the Vatican\u2019s first state visit to the European nation in 18 years, with AI and young believers near the top of his agenda. Church bells around the nation are set to ring for seven minutes when the first US pontiff, whose paternal grandmother was born in France, lands outside Paris at 10am (4pm Singapore time) for a four-day trip. President Emmanuel Macron and his wife Brigitte will be on the tarmac to greet the 71-year-old Pope as he marks the first official trip by a head of the Vatican since Pope Benedict...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2562
   },
   "7c2cca27bef9e1478514583f1301d8b79cd16c29e4d73a3b56a9ddf388bc7a0e": {
     "access_status": "available",
@@ -50839,6 +51213,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "a0dbc420731ccc6bc41b6abd026a6b7d963e24cf9743998d3ea62738750879aa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump, Xi kick off state visit amid tensions over AI, trade Sign up now: Get ST's newsletters delivered to your inbox United States President Donald Trump welcomes Chinese President Xi Jinping on the South Portico of the White House in Washington DC, on Sept 24. PHOTO: EPA Published Sep 24, 2026, 11:12 PM Updated Sep 25, 2026, 01:52 AM Set as preferred source Listen Summarise US President Donald Trump welcomed Chinese leader Xi Jinping to the White House, highlighting their \"great friendship\" and agreeing to extend the US-China trade truce until January 10. Despite warm public gestures, tensions persist over trade, AI development, Taiwan, and security, with criticisms from some US politicians about the lavish welcome. The visit occurs amid domestic challenges for both leaders, including US inflation and China's economic slowdown, with discussions expected on multiple complex issues including Iran and technology. AI generated WASHINGTON \u2013 US President Donald Trump hailed his \u201cgreat friendship\u201d with Xi Jinping as he welcomed the Chinese leader to the White House for talks aimed at keeping ties between the world\u2019s largest economies on track. The summit got under way on the South Lawn of the White House on Sept 24, with Trump, Xi and their spouses shaking hands and posing for an official photo. The arrival ceremony is slated to include a full military review, gift exchange and...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2831
+  },
   "a0e3266e5bf32937abc8d892fb66eb662d19035500634ff3a9a0c98bd7c05948": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -50899,9 +51297,9 @@
   "a0fc3f99bb503085f81ed1e836e2309d1d4e42532e5c99913014efa93ce1d8cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Aug 28, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097 . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
+    "article_excerpt": "Pricing Last updated Sep 17, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097 . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:51+00:00",
+    "checked_at": "2026-09-25T04:52:33+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -52102,6 +52500,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "a42606b551531d9cd804bc535794cbc2c11a03477b93d16414e72cbfaa4a8998": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Zelensky broke confidentiality with N. Korea POWs disclosure: S. Korea president Lee Jae Myung Sign up now: Get insights on Asia's fast-moving developments Ukrainian President Volodymyr Zelensky told the United Nations General Assembly on Sept 23 that Ukraine had sent two captured North Korean soldiers to the South. PHOTO: REUTERS Published Sep 25, 2026, 12:18 AM Updated Sep 25, 2026, 06:52 AM Set as preferred source Listen Summarise South Korean President Lee Jae Myung criticised Ukrainian President Zelensky for breaking a confidentiality agreement by publicly revealing the transfer of North Korean POWs to South Korea. Lee highlighted the sensitivity of the issue, warning it could affect diplomacy, security, and the Korean Peninsula's situation, and insisted confidentiality was agreed upon to prevent problems. Zelensky's aide defended the disclosure, stating Ukraine is an open country. AI generated SEOUL - President Volodymyr Zelensky broke a confidentiality agreement by disclosing that Ukraine had sent North Korean prisoners of war to South Korea, Seoul\u2019s president said on Sept 24. The remarks by President Lee Jae Myung came after Zelensky told the United Nations that Ukraine had sent two North Korean soldiers to the South, adding they were \u201cnot easy to capture alive\u201d. The revelation prompted South Korea\u2019s political opposition to criticise the Lee administration for allowing...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1350
   },
   "a4c1c3e98961cd587c863eded83f0b8c99d93c438d597df1607d4e0848e9f4f6": {
     "access_status": "available",
@@ -53847,6 +54269,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1805
+  },
+  "a9dbd3587d3d7d20974d447e489b0d33405df357ff5857fcb2e174a0177af2a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Previews Last updated Sep 24, 2026 | Copy as Markdown | View as Markdown | Agent setup Previews give each branch an isolated, production-like environment under the same Worker. Each Preview is configured with its own variables, secrets, and bindings , served on its own URL , and has its own observability . Worker Previews requires Wrangler 4.135.0 or later. Update the project dependency because project commands do not use a newer global installation. Used Version URLs or Wrangler environments before? Refer to Compare workflows to understand how they differ from Previews and our recommended practices for branch testing. How it works Running npx wrangler preview creates or updates a Preview for your current branch under the same Worker. As you use npx wrangler deploy for production, use npx wrangler preview to test a branch before merging. Branch Command What happens main npx wrangler deploy Deploys to production with production settings. feature/login npx wrangler preview Creates or updates a Preview with its own settings.",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1551
   },
   "aa07fc649c02bb97dde84920cb6b9f8d5ac07348b557f43fd9c67c11288f25c0": {
     "access_status": "available",
@@ -68808,6 +69254,43 @@
     ],
     "word_count": 9250
   },
+  "d6ddd3107b723900575190fc53ea14493d3fddabdb9a29d631960cb0f0858209": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\papertype Preprint \\contact michael.lee@scale.com ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety Michael S. Lee Affiliation: Scale AI Affiliation: Co-first authors Yash Maurya Affiliation: Scale AI Affiliation: Co-first authors Drew Rein Affiliation: Scale AI Bert Herring Affiliation: Scale AI Jonathan Nguyen Affiliation: Scale AI Kyungho Song Affiliation: Korea AI Safety Institute Udari Madhushani Sehwag Affiliation: Scale AI Jiyeon Cho Affiliation: Korea AI Safety Institute Kaustubh Deshpande Affiliation: Scale AI Yeongkyun Jang Affiliation: Korea AI Safety Institute Joo Jiyeon Affiliation: Korea AI Safety Institute Minn Seok Choi Affiliation: Korea AI Safety Institute Evi Fuelle Affiliation: Scale AI Christina Q. Knight Affiliation: Scale AI Joseph Brandifino Affiliation: Scale AI Max Fenkell Affiliation: Scale AI Affiliation: Work done while at Scale AI Abstract Safety evaluations for large language models (LLMs) increasingly target high-stakes National Security and Public Safety (NSPS) risks, yet multilingual safety is mostly assessed through translation-only benchmarks that preserve the underlying scenario, leaving how language and geopolitical context interact largely unexamined beyond a few language pairs. We introduce ROK-FORTRESS 1 1 1...",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 15541
+  },
   "d6ee8fa02f2a4bf187d9b6171bcd9ad1e83132968a69ec167a3ce5b9dbe6ab5c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -78301,7 +78784,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-18T04:38:28+00:00",
+    "checked_at": "2026-09-25T04:52:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -81080,6 +81563,32 @@
       "trust"
     ],
     "word_count": 18497
+  },
+  "ff80bbf01ce048d037f0b6884fb41c504b8f1b85f610b8b3e7f44acb03215247": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "In a woman\u2019s reproductive years , the ovary is exceptionally dynamic, shifting form and function from day to day throughout her cycle. But after menopause, when egg supply has dwindled and hormone production has waned, the ovaries are often thought of as little more than empty sacks . \u201cI assumed it was just sitting there inert,\u201d says Duncan, a reproductive biologist at Northwestern University, who was only looking at postmenopausal ovaries as part of a project to map a cellular aging process called senescence throughout the body. Instead, Duncan found that aged ovaries were anything but stagnant. When looking at the protein composition of ovaries of postmenopausal women between the ages of 50 and 75 years old, her team found that the molecular signatures differed significantly across the decades. The oldest ovary looked nothing like a 60- or 70-year-old organ at the molecular level. She was shocked. \u201cClearly something is still happening,\u201d says Duncan. The question is: what? A new wave of discovery is forcing researchers to recast the ovary not as an egg factory with an expiration date, but as an organ that impacts a woman\u2019s overall health and may shape the trajectory of aging long after the fertile years have passed.",
+    "cache_version": 10,
+    "checked_at": "2026-09-25T04:52:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 4193
   },
   "ffd3f0082e74c92e7b5b446bb9b4213a73d458aa46779f7169cc9c3a3232c414": {
     "access_status": "available",
