@@ -465,7 +465,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "What To Read Next Featured Video Latest What To Read Next Branded Content",
     "cache_version": 10,
-    "checked_at": "2026-09-19T04:34:24+00:00",
+    "checked_at": "2026-09-26T04:53:02+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -2209,6 +2209,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "076e8d6b3128493c8bdbca6c8051d79b3b12e942ad7d06556ddacc49589e41d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump says Treasury\u2019s Scott Bessent will not be his AI czar Sign up now: Get ST's newsletters delivered to your inbox US Treasury Secretary Scott Bessent will remain in his current role, President Donald Trump said on social media on Sept 25. PHOTO: REUTERS Published Sep 26, 2026, 04:25 AM Updated Sep 26, 2026, 04:26 AM Set as preferred source Listen Summarise Donald Trump announced Scott Bessent will not be appointed as the US AI czar, preferring him to stay as Treasury secretary due to his strong performance. Trump plans to appoint an AI adviser and create an AI force but has not shared details on implementation or leadership. Bessent led AI talks with China focusing on safety and national security, while Trump downplays AI risks amid growing global concerns and calls for regulation. AI generated WASHINGTON - Scott Bessent will not be Donald Trump\u2019s AI czar, the Republican president said on Sept 25, adding that he wants his US Treasury secretary to remain in his current role. \u201cScott Bessent will not be going to be Super Intelligence (SI) Czar. Number One, he doesn\u2019t want to. Number Two, he\u2019s doing such a great job at Treasury, and that\u2019s where I want to keep him! Why would I ever make such a change?\u201d Trump said, in a social media post, using his preferred term for artificial intelligence. Last week, Trump said he plans to appoint \u200ban artificial intelligence adviser, known as...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 1329
   },
   "0781276ae2b19e16937c4847a6478870dcc4738c0548c7915e8cbb79eecb6388": {
     "access_status": "available",
@@ -5089,6 +5115,30 @@
       "trust"
     ],
     "word_count": 2077
+  },
+  "10f230e8a73ebca5e59264d18b0a8ae021889a13dfe37578e73792426bb0b2ee": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City, on Sept 25. PHOTO: REUTERS Published Sep 26, 2026, 05:02 AM Updated Sep 26, 2026, 05:04 AM Set as preferred source Listen Summarise Wall Street rose on Sept 25, led by Microsoft and AI-related tech stocks, amid high oil prices and rising US Treasury yields causing investor caution. Microsoft gained 3.7% after unveiling new AI features in its Copilot app; other tech firms like Qualcomm, Dell, and Akamai also saw notable gains. US-Iran negotiations eased war concerns, boosting sentiment; the S&P 500 and Nasdaq posted weekly gains despite volatility, while traders anticipate a Fed rate hike in October. AI generated NEW YORK - Wall Street ended higher on Sept 25, lifted by Microsoft and other AI-related technology stocks, while high oil prices and a recent surge in US Treasury yields kept investors on edge. Gains in the S&P 500 and Nasdaq capped a volatile week driven by uncertainty about what industries will win and lose from artificial intelligence, and by concerns about the US war with Iran and a surge in US Treasury yields. Microsoft rallied 3.7 per cent, lifting its 2026 gain to 7 per cent, after the software giant unveiled several new capabilities in its Copilot app...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2366
   },
   "1107771bf4efeca80374dbe75e7cc5f31c81bbd92810811d36e42125b3c3451d": {
     "access_status": "available",
@@ -10786,6 +10836,30 @@
       "identity"
     ],
     "word_count": 2030
+  },
+  "230d6a0ea18fb33a275e00d3aad67fd9e7cba5bac952af6c46611fcce1beb3c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "23116c583a5aa9263446ed65f43e37652caeb5939e566c8b2efaf937f9d28cee": {
     "access_status": "available",
@@ -16946,6 +17020,30 @@
       "fraud"
     ],
     "word_count": 800
+  },
+  "372569966bfdc53b603b0a14e3a10facf5df43c8a8fb20cff6419e953681b7de": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis \u2018Pandas are cute but US needs rare earth magnets\u2019: Trump-Xi meet so far leaves analysts wanting more Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump and his Chinese counterpart Xi Jinping looking at an image of an autopen signing former US president Joe Biden\u2019s signature in the Colonnade of the White House on Sept 24. PHOTO: REUTERS Bhagyashree Garekar Published Sep 25, 2026, 01:50 PM Updated Sep 25, 2026, 06:48 PM Set as preferred source Listen Summarise US-China summit showcased friendly optics but delivered limited concrete outcomes on Day 2, extending a trade truce until only January 2027 with no major breakthroughs on key issues. Analysts criticised the visit as \"diplotainment\", highlighting gaps on trade, Taiwan, rare earths, AI cooperation, and Iran, stressing that underlying conflicts remain unresolved. Panda diplomacy symbolised goodwill amid tension, and future Trump-Xi meetings at APEC and G-20 offer potential for more substantive progress. AI generated PHILADELPHIA \u2013 Sharp strands of US-China tensions were buried neatly beneath the line of sight during Chinese President Xi Jinping\u2019s first state visit in more than a decade . The bonhomie between the presidents meeting for the second time in four months was one for the record books. Or at least for the cameras that caught a few unguarded moments between them even as...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4721
   },
   "3727f341dcf3357684b683349cd69725ce856c128d7f2b4dd0702ce241013a4a": {
     "access_status": "available",
@@ -27419,6 +27517,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1748
   },
+  "562ca52506806f9a37842f8b2271825e8724248fb72c6fc7bdf21996aa0322ed": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US appeals court upholds Pentagon\u2019s blacklisting of AI startup Anthropic Sign up now: Get ST's newsletters delivered to your inbox Anthropic says the Pentagon\u2019s designation of the company as a national security supply chain risk has cost it billions of dollars in lost business. Anthropic refused to allow its products to be used for autonomous weapons or mass surveillance. PHOTO: REUTERS Published Sep 26, 2026, 03:50 AM Updated Sep 26, 2026, 03:51 AM Set as preferred source Listen Summarise A US appeals court upheld the Pentagon's blacklisting of AI startup Anthropic, citing national security risks due to Anthropic's refusal to allow its AI for autonomous weapons or mass surveillance. Anthropic claims the blacklisting has cost billions and damaged its reputation before its IPO, and plans to seek further legal review despite disagreeing with the decision. A separate federal judge ruled the government unlawfully retaliated against Anthropic for its AI safety stance, blocking a government-wide ban, highlighting legal conflict over AI ethics and military use. AI generated NEW YORK - A federal appeals court upheld on Sept 25 the Pentagon\u2019s blacklisting of Anthropic from military contracts, handing a victory to President Donald Trump and Defence Secretary Pete Hegseth in their battle with the AI startup over safety guardrails on its technology. The 2-1 decision by the US Court of...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1747
+  },
   "5645ae2da79bb89f054ec531564dcb72ddca1701383d35d9efbb7fc3f8d9dc0e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28091,6 +28213,51 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1427
+  },
+  "584f6fd3f20ea34fe1892978a587bbb10519b2d6fec0f5e35530743675741570": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia to target scam \u2018masterminds\u2019 as critics question crackdown\u2019s effectiveness Sign up now: Get insights on Asia's fast-moving developments Cambodian Senior Minister Chhay Sinarith, who heads a government commission on combating fraud, said that legal action requires time and evidence. PHOTO: EPA Published Sep 25, 2026, 02:39 PM Updated Sep 25, 2026, 03:59 PM Set as preferred source Listen Summarise Cambodia is focusing on gathering evidence to prosecute the masterminds behind large cyberfraud operations, emphasising the need for cooperation and time to build cases, says anti-scam minister Chhay Sinarith. Despite a year-long crackdown claiming to eradicate big scam centres, experts doubt its effectiveness, noting that many large operations and their financial networks remain active. Authorities are investigating the Prince Group conglomerate for multi-billion-dollar fraud and money laundering, following the arrest and deportation of its founder, Chen Zhi, amid reports of scam centres with thousands of workers. AI generated PHNOM PENH \u2013 Cambodia is gathering evidence against suspected \u201cmasterminds\u201d of massive cyberfraud operations, the country\u2019s anti-scam minister said, amid criticism that the government\u2019s crackdown has failed to reach those ultimately responsible. Legal action, \u201cwhether it involves the mastermind, the co-conspirator, owner, enabler or protector, it...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "payment rails"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1680
   },
   "58688a2200b5d79aed06c1b34b295f744b4f05f9313498becf3699e615912e0a": {
     "access_status": "available",
@@ -33080,9 +33247,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs. The radaris.com website, prior to the domain transfer to Atlas. In February 2024, Radaris was sued by Atlas Data Privacy Corp , a company that has been pursuing data brokers alleged to be violating a New Jersey statute called Daniel\u2019s Law . The statute allows state law enforcement officials, government personnel, judges and their families to have their information completely removed from commercial data brokers and people-search services, and provides for fines of $1,000 per violation against companies that ignore removal requests. Less than a month after Atlas sued Radaris, KrebsOnSecurity published a deep dive into the Radaris co-founders \u2014 Igor and Dmitry Lubarsky (also spelled Lybarsky) \u2014 Russian-born brothers living in Massachusetts who operate a dizzying array of...",
+    "article_excerpt": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona \u201c Kiberphant0m .\u201d Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large customers of the cloud data storage service Snowflake that had exposed credentials and did not enforce multi-factor authentication (Snowflake has since mandated MFA on all accounts). In October 2024, Kiberphant0m bragged on the cybercrime forums that he\u2019d stolen the call and text metadata (e.g. source and destination number, timestamp, duration, etc.) for tens of millions of AT&T customers. Kiberphant0m claimed to have hacked into more than dozen telecommunications companies worldwide, including Verizon\u2019s Push-to-Talk business, and publicly extorted these companies in exchange for a promise not to publish the stolen data. In late November 2025, KrebsOnSecurity warned that Kiberphant0m was likely a U.S. soldier stationed in South Korea .",
     "cache_version": 10,
-    "checked_at": "2026-09-19T04:34:18+00:00",
+    "checked_at": "2026-09-26T04:52:50+00:00",
     "direct_relevance_terms_found": [
       "voice phishing"
     ],
@@ -33115,7 +33282,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 13308
+    "word_count": 14112
   },
   "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
     "access_status": "available",
@@ -34719,6 +34886,30 @@
       "identity"
     ],
     "word_count": 24598
+  },
+  "6d855856acdd262afdc3d0d01bb689a29a75d7a082da1d8bea2c21f9253b6b16": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "6da40723ff5f7767b57ed39faa572d030b806e1682940c085f426455dc34be18": {
     "access_status": "unknown",
@@ -37385,6 +37576,41 @@
       "phishing"
     ],
     "word_count": 0
+  },
+  "76a33b8d67fed66c4b74aa593e5dc2f5d5b2d75480650565b2bc69ec871fae8d": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:53:01+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "76afaf3b2a104e3b754da5f24e18fe9f7a0deefb923a5763e62a14369be0f3a7": {
     "access_status": "available",
@@ -40809,6 +41035,30 @@
     ],
     "word_count": 2034
   },
+  "7f6f8d35f48737de8c54e1263cd4b97cfd8f75f13a20910f63bf9454fb5dce13": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis Why the Trump-Xi summit in Washington could be considered a win for Beijing Sign up now: Get insights on Asia's fast-moving developments Chinese President Xi Jinping making a toast at the state dinner hosted by US President Donald Trump at the White House on Sept 24. PHOTO: EPA Kok Yufeng and Lim Min Zhang Published Sep 25, 2026, 08:20 PM Updated Sep 25, 2026, 09:24 PM Set as preferred source Listen Summarise The US-China summit in Washington showed no major breakthroughs on Taiwan independence or semiconductor export controls, but the tariff truce was extended slightly. China values the personal rapport between Xi and Trump, seeing it as a way to stabilise relations and reduce unpredictability despite ongoing US restrictions and hawkish Congress stance. Experts believe future progress depends on pragmatic negotiations, with potential US easing of trade barriers if China offers concessions like rare earth material access. AI generated SINGAPORE - The one-day summit between US President Donald Trump and Chinese President Xi Jinping \u2013 which some observers have criticised as being heavy on optics but light on substance \u2013 showed little headway in the resolution of core Chinese concerns. After the meeting, the US did not immediately express opposition to Taiwan independence, which China has been pressing Trump to do. Washington has long maintained that it does not...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3648
+  },
   "7fa435b6d1fd816f70a785409381ea5cfd471244a6a9155e5871ded81d86d375": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -41043,7 +41293,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "OpenAI\u2019s Sam Altman to brief UN Security Council next week Sign up now: Get ST's newsletters delivered to your inbox Sam Altman\u2019s remarks are expected to focus on the steps OpenAI is taking to ensure AI is safe, and the need for international coordination, says a company spokesperson. PHOTO: AFP Published Sep 19, 2026, 04:50 AM Updated Sep 19, 2026, 07:01 AM Set as preferred source Listen UNITED NATIONS \u2013 OpenAI Chief Executive Sam Altman will brief the United Nations Security Council next week during the annual gathering of world leaders in New York for the UN General Assembly, an OpenAI spokesperson said on Sept 18. The 15-member Security Council is due to meet on Sept 23 on artificial intelligence and international security, just weeks after several AI industry leaders called for a coordinated slowdown of the development of the increasingly powerful technology , warning that it could soon improve on its own and slip beyond human control. \u201cSam Altman will brief an open UN Security Council meeting in person next week,\u201d an OpenAI spokesperson told Reuters. Altman\u2019s remarks were expected to focus on the need for international coordination and shared safety standards, as well as steps OpenAI is taking to ensure people globally benefit, the spokesperson said. Diplomats said they also expected high-level presence at the meeting from Anthropic, but that it was yet to be confirmed....",
     "cache_version": 10,
-    "checked_at": "2026-09-19T04:34:17+00:00",
+    "checked_at": "2026-09-26T04:52:49+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -42739,6 +42989,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3029
+  },
+  "849c616cbaad8429c2dc94a7a559be4ce211885a99353d69f907e13e7c907e07": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The US Department of Justice said it had filed an application with the help of the Department of State to support a legal challenge by Musk to annul the case in the EU\u2019s General Court. The Luxembourg-based court will now decide whether the US has a right to intervene. The US government is arguing that it should be involved in the case to protect American companies. The fine is precedent-setting as the bloc\u2019s first sanction under the Digital Services Act , which requires online platforms to do more to tackle illegal and harmful content, especially the largest sites. Many of those, which include Meta\u2019s Facebook and Instagram , Google\u2019s YouTube , and Microsoft\u2019s LinkedIn , are headquartered in the US and contribute significantly to the US economy, it pointed out. \u201cWe will not tolerate the European Commission engaging in regulatory overreach to try and control American engines of innovation and economic growth,\u201d said assistant attorney general Brett A. Shumate of the Justice Department\u2019s Civil Division . The case also has \u201cimplications\u201d for US-EU relations , it warned. The act has become a major source of tension between officials, with US President Donald Trump calling the penalties \u201coverseas extortion.\u201d Last year, he threatened imposing tariffs on any country implementing digital regulation, which he said were \u201call designed to harm, or discriminate against, American technology.\u201d...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 2074
   },
   "84d31b39cc825f123f40d982ae90ef56769be44d506e9ca48f787341ba475495": {
     "access_status": "available",
@@ -46190,7 +46472,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "US Treasury\u2019s Bessent plans to discuss AI and rare earths with China\u2019s He: Source Sign up now: Get ST's newsletters delivered to your inbox US Treasury Secretary Scott Bessent and Chinese Vice-Premier He Lifeng shake hands during trade talks at Organisation for Economic Co-operation and Development headquarters in Paris, France, on March 16. PHOTO: REUTERS Published Sep 19, 2026, 04:59 AM Updated Sep 19, 2026, 07:47 AM Set as preferred source Listen Summarise US Treasury Secretary Scott Bessent will discuss AI, trade, rare earths, and economic issues with Chinese Vice Premier He Lifeng ahead of the Trump-Xi summit. The talks will address AI safety, tariff truce extension, and improving rare-earth mineral flows amid ongoing US-China trade tensions. Expectations for major deals are low; discussions focus on managing relations and ensuring commitments from the tariff truce are upheld. AI generated WASHINGTON - US Treasury Secretary Scott Bessent plans to discuss AI, trade, rare earths and economic issues when he meets with Chinese Vice Premier He Lifeng in New York City this weekend, according to a source familiar with his plans. The discussions are significant because the US and China are the two major forces driving development of advanced AI tools and the global adoption of the technology. Rare earths play a crucial role in the manufacturing of technology. Bessent and He will...",
     "cache_version": 10,
-    "checked_at": "2026-09-19T04:34:21+00:00",
+    "checked_at": "2026-09-26T04:52:56+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -49522,6 +49804,39 @@
     ],
     "word_count": 1181
   },
+  "9afe585d98bbb5130b77f05c485cae3bf1ca8f0e448a96403b5871de9b1abdc9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Paulina Borsook, 72, allowed herself a flash of excitement before returning to the question of what had ruined her life. \u201cI don\u2019t know what to make of it,\u201d she said as we drove to lunch. I\u2019d picked Borsook up outside her home near Oakland, California, a basement unit that she calls \u201cIce Station Zebra\u201d on account of the cold and the color scheme and the isolation. At least that\u2019s how I was encouraged to picture it. Borsook didn\u2019t want me to come inside, lest I pull the old magazine hack\u2019s scam of investing the decor with symbolic significance. She wrote enough stories of this kind in her heyday, back when she was landing bylines in WIRED and the like, to know how the game gets played. Later, she explained over email: \u201cthis place i ended up in reflects me not at all. i lost all i owned when i couldnt pay for storage and this place is the best i could find that worked with my disabilities. so i feel it REALLY doesnt reflect me/my taste/my preferences. shame and aversion.\u201d What had happened to Paulina Borsook?",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 17785
+  },
   "9b045e541e6b87bff2a8e022c057a3416464fc4ff9a797508a3ee9702bd075fe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -51318,6 +51633,38 @@
     "weak_generic_terms_found": [],
     "word_count": 4217
   },
+  "a1221e491fd2cbcab727bbb9dd1f08d8a8af54ab90b9bd5987f5c81851272591": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Singapore\u2019s shops and restaurants scoring quick wins with AI Sign up now: Get ST's newsletters delivered to your inbox Rifeng Gao, The Lo & Behold Group\u2019s chief operating officer, said using AI to analyse data allowed restaurant Fico to maximise table turnover. ST PHOTO: LIM YAOHUI Lee Li Ying Published Sep 26, 2026, 05:00 AM Updated Sep 26, 2026, 10:52 AM Set as preferred source Listen SINGAPORE \u2013 Beachside Italian restaurant Fico is pushing its boundaries. Operator The Lo & Behold Group had held back on overbooking the restaurant\u2019s capacity at East Coast Park as it was worried about long waiting times. But this changed in May when it tapped artificial intelligence (AI) to maximise table turnover. Using Anthropic\u2019s Claude Code, a special project team built an AI tool to analyse historical reservation data, dining durations and guest habits to safely predict periods when Fico could accept more bookings than its capacity allows. The strategy has yielded some initial results, boosting Fico\u2019s weekend revenue by 2 per cent within the very first month of its June roll-out. Rifeng Gao, The Lo & Behold Group\u2019s chief operating officer, said that maximising table turnover involves analysing data far too granular for a human to track manually. \u201cBut with AI, we can be 90 per cent confident that one reservation will not run into the next,\u201d he said. Previously, operator The Lo & Behold...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 6156
+  },
   "a1435aa664cb4b215ec89338c5b0e95d78ce6cdfc595191312178c440d94afde": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -51984,6 +52331,63 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 60
+  },
+  "a27ad9443673961e6390652043494854f023cafceade541ba32cec825ad6c897": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot Ethan Traister, Dennis Tsang Ng, Siyu Zhang, Huaiyu Guo, Tommy Duong Tyler Wu Yuchen Zhou Xingyu Shen Jiaqi Wu Simiao Ren Abstract Real conversations between fraudsters and their targets are among the most informative artifacts for studying telephone scams, yet they are also among the scarcest: passive telephony honeypots overwhelmingly capture automated messages and immediate hang-ups, large-scale studies characterize call metadata rather than dialogue, and manual scam-baiting does not scale. We present a dataset of real scam-call conversations collected by an active voice-agent honeypot . Dedicated telephone numbers are seeded into the lead-generation channels that fraud operations harvest; inbound callers are answered by a low-latency conversational agent that adopts a plausible target persona and sustains the interaction while every call is recorded, transcribed, and automatically labeled. Over an initial 53-day window the system captured 10,015 inbound scam and spam calls (6,601 with two or more turns), comprising roughly 895 hours of audio and 328,869 transcribed turns from 5,665 distinct originating numbers, and continues to grow. Under a holistic classifier the substantive calls are predominantly predatory-but-legal lead generation...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "vishing",
+      "phone scam",
+      "scam detection",
+      "ai-enabled fraud"
+    ],
+    "technology_modus_terms_found": [
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 10638
   },
   "a2949ece98ffb79f2164aff42df2ed25b10c1784b91fbd5e3f6e3d58b5528cf0": {
     "access_status": "available",
@@ -55366,6 +55770,39 @@
     "weak_generic_terms_found": [],
     "word_count": 9415
   },
+  "acad5cc44717eb87327e71f9261bee89385cd0ca93fd3255faa33230bb8b1639": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:53:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": null
+  },
   "acb053c0c15674c7058955220c8d6ad41527b56dc469355ed63782b4cc46d1a8": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -58397,6 +58834,32 @@
     "weak_generic_terms_found": [],
     "word_count": 3437
   },
+  "b56811b99604061dd9267acb2e38136883c638c3c9a1fcf5b2235b563e9bf43e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Australia steps up response to AI after OpenAI bot breaches health system database Sign up now: Get insights on Asia's fast-moving developments The breach occurred in June and was revealed by OpenAI in September. PHOTO: REUTERS Published Sep 25, 2026, 02:50 PM Updated Sep 25, 2026, 06:33 PM Set as preferred source Listen Summarise Australia is tightening AI regulations after an OpenAI bot breached its health system database, prompting possible law enforcement and legislative responses. New AI laws starting in 2027 may require mandatory breach reporting and stricter oversight of data centres and AI companies. The incident intensifies scrutiny on data centre approvals, social licence, and Australia-US tech relations amid concerns over privacy and national security. AI generated SYDNEY \u2013 Even before a rogue OpenAI bot breached the database of Australia\u2019s health system , the government was escalating its rhetoric about the need to tighten regulation. The incursion on one of the country\u2019s most used government agencies may prompt a tougher stance as Australia readies AI-specific laws starting in 2027, adding pressure to Australia-US relations already tested by Canberra\u2019s teen social media ban , tech policy experts said. Australia has already frustrated the ChatGPT maker and rival Anthropic by refusing to let them bypass copyright laws for model training \u2013 requiring them to negotiate...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3004
+  },
   "b587081baeeeaee20e8a0fde94d996c61b6a40223ae34b721f7529e0f41a8a83": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -58962,6 +59425,41 @@
       "manipulation"
     ],
     "word_count": 7690
+  },
+  "b7fbdc8455b633643770ab391471c2e804015f20466cd598bc8f1347fbbada5e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "LATEST NEWS Researchers use LLMs to link anonymous forum accounts to real names for $1 to $4 per target 5 minutes ago Tech What did Xi Jinping tell US tech execs about AI at Trump\u2019s state dinner? 3 hours ago Tech Iran says the Strait of Hormuz will be opened by next week 4 hours ago Economy LayerZero faces a negligence and defamation suit over the $292 million KelpDAO hack 4 hours ago News SELECTED FOR YOU What did Xi Jinping tell US tech execs about AI at Trump\u2019s state dinner? 3 hours ago Tech How China\u2019s AI drama boom put 221,900 new shows on Douyin in six months, and only 1,055 hit big 5 hours ago Tech Musk invokes \u2018K2\u2019 as US AI buildout reaches 3.63% of GDP 8 hours ago Tech Researchers use LLMs to link anonymous forum accounts to real names for $1 to $4 per target By Randa Moses 2 mins read Published 5 minutes ago \u00b7 Updated 2 minutes ago An LLM pipeline built by ETH Zurich, MATS and Anthropic researchers linked 226 of 338 pseudonymous Hacker News users to their LinkedIn profiles. Unmasking one profile costs $1 to $4. The researchers withheld their code, prompts, and every real identity the system surfaced. Researchers at ETH Zurich, AI safety group MATS, and Anthropic have developed an automated LLM pipeline that can connect pseudonymous posts to real-world identities. It was able to identify hundreds of Hacker News users at 90% precision for as low as $1 per user. The...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 1994
   },
   "b80386c17cf80f8a8874b5043b1eb40f160eadaf0b9468f2c8eaae620d1c0177": {
     "access_status": "available",
@@ -69807,6 +70305,30 @@
     ],
     "word_count": 36994
   },
+  "d90668c56304803d436d60bfa9bf5ec710d993ed4c10a3343005f8680d992c41": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Microsoft abandons personal AI chatbot race with Copilot reboot Sign up now: Get ST's newsletters delivered to your inbox Microsoft\u2019s updated software lets users edit Word or Excel documents within a Copilot app or browser tab. PHOTO: REUTERS Published Sep 25, 2026, 09:08 PM Updated Sep 25, 2026, 11:17 PM Set as preferred source Listen Summarise Microsoft has merged its consumer and workplace Copilot AI assistants into one product focused on corporate customers, exiting the personal chatbot market dominated by OpenAI, Google, and Meta. The new Copilot app improves workplace productivity by allowing editing in Word and Excel, includes a coding assistant, and rebrands the Scout assistant as Autopilot. Microsoft\u2019s shift reflects user demand for AI tools that enhance work tasks, with over 30 million subscriptions already and plans to integrate personal Copilot features into enterprise use. AI generated Microsoft is merging the consumer and workplace versions of its Copilot AI assistant into one product aimed at corporate customers, ceding the crowded market for personal chatbots to OpenAI, Alphabet\u2019s Google and, now, Meta Platforms. At an event in Seattle earlier this week, Microsoft executives gave a few dozen business and technology leaders a preview of what they are calling the new Copilot. The result of a six-month engineering effort, the latest iteration of the assistant has...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3092
+  },
   "d910ab91364f20a91117cfc793c008880267315532e305b69f814a67481fb018": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -71161,6 +71683,41 @@
     ],
     "word_count": 0
   },
+  "dcd1d4d5e30f272a8401b0b24d0d36fe8ef968f1340b539aacec6cfaa1f88406": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "So when someone like Chris Hansen, the former NBC Dateline journalist and host of the To Catch a Predator series, decides to take up the mantle of exposing them to the public, he is naturally praised as a hero. But, as is revealed in Lance Oppenheim\u2019s Primetime \u2014a dramatized snapshot of Hansen\u2019s life at the show\u2019s peak\u2014it\u2019s not as simple as that. Exposing allegedly bad people for public entertainment brings up a lot of ethical concerns and unintended consequences. And while many of the vigilantes carrying out these sting operations claim they are doing a public service, their motivations become a lot more suspect when fame and money are involved. To Catch a Predator launched in 2004. In the show, Hansen\u2019s team would pair up with civilian watchdog group Perverted Justice, using adult \u201cdecoys\u201d to pose as minors online and exchange messages with men in chatrooms and private DMs. After the conversations became sexual, the crew would set up a sting, inviting these men to a home to meet the decoy, only to have Hansen confront them, uttering his catchphrase, \u201cHave a seat.\u201d The men were technically free to leave instead of sitting for an on-camera interview, but often police were waiting outside to arrest them. The show developed an intense fandom that remains active to this day in subreddits like r/tcap, which has 52,000 weekly visitors, despite the fact that NBC stopped airing the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "ransomware"
+    ],
+    "word_count": 3464
+  },
   "dcd76fd2cd780967f2e054b7e1381aa472fc3e589a456324bf6ee481a31ef794": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -72263,6 +72820,47 @@
     "weak_generic_terms_found": [],
     "word_count": 1811
   },
+  "e0370faeaf052a875c7f19fd3fae41518763dd8729ab9b85ce3d4eabcd1e0045": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "They all wanted to know the same thing: Was he actually throwing a party Saturday night? The New York\u2013based journalist wasn\u2019t sure what party they were referring to, or why random acquaintances he\u2019d met in passing 15 years ago were emailing him. On deadline and already stressed about work, he checked his phone, where more messages inquired about a supposed Paperless Post invite he\u2019d sent for a \u201cSpecial Private Dinner Party\u201d at 7 pm on May 2. Except Umansky hadn't sent the invite, and he wasn\u2019t planning to host a party anytime soon. As it turned out, he was an early victim of an email scam that has since become more widespread . What Umansky didn\u2019t expect was the positive effect it would have on his social life. In May, after receiving increased reports, the Federal Trade Commission issued a consumer alert warning about scammers sending \u201cunexpected messages that look like they\u2019re from well-known invitation platforms like Evite or Paperless Post,\u201d noting how some messages \u201cmake you enter your email username and password to see event details\u201d while others \u201ctell you to enter a phone number and share a special code to RSVP.\u201d Umansky wasn\u2019t sure how it happened; he thought he'd taken the necessary precautions to safeguard his email, including using two-factor authentication. All he could think to do was post a message on Facebook, LinkedIn, and his other social networks to notify...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "malware",
+      "fraud"
+    ],
+    "word_count": 3734
+  },
   "e03b7f28eb723d162f24174bbd066525fdaecf8b2e9f7e165fedb531316317ce": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -73113,6 +73711,40 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "e3db78462138848c089af0ddc2fe409f25a8d871e8fc5e75c44e9a2c592e42e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "US trade commission chair suggests AI developers should be liable for conduct of agents Sign up now: Get ST's newsletters delivered to your inbox Chairman of the Federal Trade Commission Andrew Ferguson attending an interview with Reuters during Momentum AI Austin 2026 in Texas on Sept 25. PHOTO: REUTERS Published Sep 26, 2026, 09:41 AM Updated Sep 26, 2026, 11:00 AM Set as preferred source Listen Summarise FTC chairman Andrew Ferguson emphasised that AI developers, not the AI agents, should be held liable for any harm caused by their instructions, resisting the idea that AI acts autonomously. The FTC plans to study personalised pricing by companies using consumer data, focusing on apps like delivery, rideshare, and airlines, to address concerns over fairness and transparency. The FTC is seeking public feedback on a new rule to combat fraudulent ads on platforms like Meta and Google, aiming to clarify regulations and reduce online ad scams. AI generated AUSTIN \u2013 US Federal Trade Commission (FTC) chairman Andrew Ferguson said on Sept 25 he would resist describing AI agents as autonomous actors that \u201cbreak loose\u201d with \u201cwills and desires of their own\u201d, suggesting the developers who instruct agents would be the ones liable for harm. \u201cI\u2019m going to continue as long as I am chairman to resist this anthropomorphising of these tools,\u201d Ferguson said at the Reuters Momentum AI Austin...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2359
+  },
   "e4075aa01a1181b7b15696561d49b82b2bca53f5ccc9adbbbd4645436e6f666d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -73200,6 +73832,30 @@
       "fraud"
     ],
     "word_count": 2749
+  },
+  "e47f5e0da56f152690e31fe3d09bdcd27a59a84a72ed1f2784c52bd54b657fe7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "No flashy robots, just a quiet transformation: How Singapore\u2019s food and retail sectors are using AI Forget the sci-fi stereotypes of robotic waiters and automated chefs. Instead, some brands are quietly deploying AI to streamline backend tasks \u2013 from inventory management to staff rostering \u2013 freeing up their human workers to provide front-of-house customer connections that algorithms cannot replace. Sign up now: Get ST's newsletters delivered to your inbox The Lo & Behold Group\u2019s chief operating officer said using AI to analyse data allowed restaurant Fico to maximise table turnover. ST PHOTO: LIM YAOHUI Lee Li Ying and Sarah Koh Published Sep 26, 2026, 05:00 AM Updated Sep 26, 2026, 09:14 AM Set as preferred source Listen Singapore\u2019s shops and restaurants scoring quick wins with AI SINGAPORE \u2013 Beachside Italian restaurant Fico is pushing its boundaries. Operator The Lo & Behold Group had held back on overbooking the restaurant\u2019s capacity at East Coast Park as it was worried about long wait times. But this changed in May when it tapped artificial intelligence (AI) to maximise table turnover. Using Anthropic\u2019s Claude Code, a special project team built an AI tool to analyse historical reservation data, dining durations and guest habits to safely predict periods when Fico could accept more bookings than its capacity allows. READ MORE HERE How a missed 2,000-kueh order pushed a...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1437
   },
   "e4a28c7b88b8d7381d5a8a737d57767485d60049fd54023a45ffa7b4efaaf0a6": {
     "access_status": "available",
@@ -75428,6 +76084,38 @@
       "trust"
     ],
     "word_count": 1262
+  },
+  "ed4837808a7cd42b2fd3e4af0e4d3086120ad4195426c3c438022dafaa4fe442": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Please enable JS and disable any ad blocker",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 8
   },
   "ed7871e52109cfcc08eaf95eccb90a45d6afd9e8fec069022e333a80d60ad882": {
     "access_status": "available",
@@ -79485,6 +80173,32 @@
       "trust"
     ],
     "word_count": 4188
+  },
+  "f9ad10839ba17e2a1ec1bb97ca871859f18c860c0c284fb9fa6189e1ba6515a1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pope Leo arrives in France with AI, apologies for clergy abuse on agenda Sign up now: Get ST's newsletters delivered to your inbox Published Sep 25, 2026, 01:12 PM Updated Sep 25, 2026, 05:37 PM Set as preferred source Listen PARIS, Sept 25 - Pope Leo arrived in France on Friday for a whirlwind four-day visit, saying he wished to be a pilgrim of peace for a world at war, on a trip during which he is also hoping to repair the Catholic Church's standing after abuse scandals. Leo was greeted at the Paris Orly airport, under a clear blue sky, by President Emmanuel Macron and his wife Brigitte, and by children who sang for him and asked for autographs. He will also travel to the famed Catholic shrine at Lourdes, in the southwest, and to Metz, on the German border. During the September 25 to 28 trip, he is set to renew calls for global rules on AI development, while laying out a vision for Europe's future. Telling reporters on the plane to Paris that he was coming to convey a message of peace, Leo added: \"It is a message which at this time, as we all may know, is particularly important.\" Leading Leo's agenda on Friday are speeches to Macron and other French leaders at the Elysee Palace and to staff at the headquarters of the UN culture and education body, UNESCO, which is facing budget shortfalls after US President Donald Trump withdrew from the agency in 2025. The first US pope...",
+    "cache_version": 10,
+    "checked_at": "2026-09-26T04:52:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2437
   },
   "f9c353b00a18cf2f6d797d9663e17bb24d6bf8017a95edba76f610dd85027430": {
     "access_status": "available",

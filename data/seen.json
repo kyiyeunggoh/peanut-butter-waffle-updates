@@ -2240,6 +2240,20 @@
       "url": "https://arxiv.org/html/2609.23959v1",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-09-25|active agent call conversations corpus honeypot real scam": {
+      "article_type": "Research paper",
+      "normalised_title": "corpus real scam spam call conversations active voice agent honeypot",
+      "normalized_title_fingerprint": "corpus real scam spam call conversations active voice agent honeypot",
+      "original_url": "https://arxiv.org/pdf/2609.29528",
+      "parsed_date": "2026-09-25",
+      "raw_title": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot - arXiv.org",
+      "same_story_key": "arxiv.org|2026-09-25|active agent call conversations corpus honeypot real scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "corpus real scam spam call conversations active voice agent honeypot",
+      "url": "https://arxiv.org/pdf/2609.29528",
+      "usefulness_category": "Research / novel method"
+    },
     "asia.nikkei.com|2026-01-23|compounds exits flee foreign mass penh phnom scam": {
       "article_type": "News report",
       "normalised_title": "foreign workers flee phnom penh after mass exits scam compounds",
@@ -4326,6 +4340,20 @@
       "url": "https://www.straitstimes.com/asia/se-asia/china-touts-significant-progress-tackling-asian-scam-syndicates",
       "usefulness_category": "Operational intelligence"
     },
+    "straitstimes.com|2026-09-25|cambodia crackdown crackdowns critics effectiveness masterminds question scam": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "normalized_title_fingerprint": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "original_url": "https://www.straitstimes.com/asia/se-asia/cambodia-to-target-scam-masterminds-as-critics-question-crackdowns-effectiveness",
+      "parsed_date": "2026-09-25",
+      "raw_title": "Cambodia to target scam \u2018masterminds\u2019 as critics question crackdown\u2019s effectiveness - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-09-25|cambodia crackdown crackdowns critics effectiveness masterminds question scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "url": "https://www.straitstimes.com/asia/se-asia/cambodia-to-target-scam-masterminds-as-critics-question-crackdowns-effectiveness",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "techcrunch.com|2026-05-19|28m dome fight founder hacker iron phishing raised": {
       "article_type": "Technical article",
       "normalised_title": "teen hacker iron dome researcher founder raised 28m fight ai phishing",
@@ -5431,6 +5459,20 @@
       "title": "microsoft teams become haven scammers china",
       "url": "https://www.wired.com/story/microsoft-teams-is-becoming-a-haven-for-chinese-scammers/",
       "usefulness_category": "Platform policy / product change"
+    },
+    "wired.com|2026-09-25|connections invite missed party phishing scam": {
+      "article_type": "Investigative report",
+      "normalised_title": "party invite phishing scams missed connections",
+      "normalized_title_fingerprint": "party invite phishing scam missed connections",
+      "original_url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
+      "parsed_date": "2026-09-25",
+      "raw_title": "Party Invite Phishing Scams Are the New Missed Connections - wired.com",
+      "same_story_key": "wired.com|2026-09-25|connections invite missed party phishing scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "wired.com",
+      "title": "party invite phishing scams missed connections",
+      "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
+      "usefulness_category": "Operational intelligence"
     }
   },
   "titles": {
@@ -6178,6 +6220,18 @@
       "title": "cambodia says shut down over 700 cyberscam compounds",
       "usefulness_category": "Operational intelligence"
     },
+    "cambodia target scam masterminds critics question crackdown s effectiveness": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "normalized_title_fingerprint": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "parsed_date": "2026-09-25",
+      "raw_title": "Cambodia to target scam \u2018masterminds\u2019 as critics question crackdown\u2019s effectiveness - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-09-25|cambodia crackdown crackdowns critics effectiveness masterminds question scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "cambodia trying shake scam hub label abc news headlines": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia trying shake scam hub label",
@@ -6561,6 +6615,18 @@
       "source_domain": "graphika.com",
       "title": "coordinated network impersonates us assistant attorney general across platforms likely attempt scam fraud victims",
       "usefulness_category": "Platform policy / product change"
+    },
+    "corpus real scam spam call conversations active voice agent honeypot": {
+      "article_type": "Research paper",
+      "normalised_title": "corpus real scam spam call conversations active voice agent honeypot",
+      "normalized_title_fingerprint": "corpus real scam spam call conversations active voice agent honeypot",
+      "parsed_date": "2026-09-25",
+      "raw_title": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot - arXiv.org",
+      "same_story_key": "arxiv.org|2026-09-25|active agent call conversations corpus honeypot real scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "corpus real scam spam call conversations active voice agent honeypot",
+      "usefulness_category": "Research / novel method"
     },
     "costs financial fraud victimization evidence identity theft": {
       "article_type": "Research paper",
@@ -8241,6 +8307,18 @@
       "source_domain": "ndss-symposium.org",
       "title": "paladin defending llm enabled phishing emails trigger tag paradigm network distributed system security ndss symposium",
       "usefulness_category": "Product idea / data source"
+    },
+    "party invite phishing scam missed connections": {
+      "article_type": "Investigative report",
+      "normalised_title": "party invite phishing scams missed connections",
+      "normalized_title_fingerprint": "party invite phishing scam missed connections",
+      "parsed_date": "2026-09-25",
+      "raw_title": "Party Invite Phishing Scams Are the New Missed Connections - wired.com",
+      "same_story_key": "wired.com|2026-09-25|connections invite missed party phishing scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "wired.com",
+      "title": "party invite phishing scams missed connections",
+      "usefulness_category": "Operational intelligence"
     },
     "people detained myanmar after release scam compounds attempt escape": {
       "article_type": "News report",
@@ -12456,6 +12534,18 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSnVxUmJDQ1RTcDJwdENXOFo1bV9ZMTJnYkdiNkFPR2R1SUZBVUJNMm9GaXdOYXREalNadE9NRWw4ZVR0VmJPaDJrX2dwdGZpUDUtcU12c05HZ3BVVmFYSGtVaTlWZUE3YVpnLWk5cEd0RGpKa1hXYU1SNlZqX2JGZzdn?oc=5",
       "usefulness_category": "Operational intelligence"
     },
+    "584f6fd3f20ea34fe1892978a587bbb10519b2d6fec0f5e35530743675741570": {
+      "article_type": "Enforcement report",
+      "normalised_title": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "normalized_title_fingerprint": "cambodia target scam masterminds critics question crackdown s effectiveness",
+      "parsed_date": "2026-09-25",
+      "same_story_key": "straitstimes.com|2026-09-25|cambodia crackdown crackdowns critics effectiveness masterminds question scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Cambodia to target scam \u2018masterminds\u2019 as critics question crackdown\u2019s effectiveness - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/se-asia/cambodia-to-target-scam-masterminds-as-critics-question-crackdowns-effectiveness",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "589738360c35c36a002b89b57158d7514775da1ee9e087c8f53a2dc2a6be620e": {
       "article_type": "Research paper",
       "normalised_title": "2606 13757 sevra bench social engineering vulnerabilities review agents",
@@ -14352,6 +14442,18 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ka1JtY0I0dTBTU3ZaUXQwNkhDekd4YlJaczVOTWNtMHNNdEtaalN4NmIzRHRFUWlrNXRTRzNBQXdiaHdYdlRxS2htZzlsUkk4Y2l4OVhXcmZtclF0V0w5ZTlzNzBfY2dVYXhv?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "a27ad9443673961e6390652043494854f023cafceade541ba32cec825ad6c897": {
+      "article_type": "Research paper",
+      "normalised_title": "corpus real scam spam call conversations active voice agent honeypot",
+      "normalized_title_fingerprint": "corpus real scam spam call conversations active voice agent honeypot",
+      "parsed_date": "2026-09-25",
+      "same_story_key": "arxiv.org|2026-09-25|active agent call conversations corpus honeypot real scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "arxiv.org",
+      "title": "A Corpus of Real Scam- and Spam-Call Conversations from an Active Voice-Agent Honeypot - arXiv.org",
+      "url": "https://arxiv.org/pdf/2609.29528",
+      "usefulness_category": "Research / novel method"
+    },
     "a3865b27288f674efe4741b3659967601dee785b5388abc9aa14470899c50ff9": {
       "article_type": "News report",
       "normalised_title": "monzo wrongly denied refunds thousands fraud scam victims",
@@ -15766,6 +15868,18 @@
       "source_domain": "theguardian.com",
       "title": "Thousands detained as Myanmar military raids notorious KK park scam compound",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejVCQ3ltMUlySDFrdlUwUlZ4LVYzZnZIa3hzelpnNFhpVDhZTHNCYXRUYkxrVVhPZ3BLLTFfQ0Zyb2NmLTM0MFZYaEhmczVENVZzdV8zVXVmUmpmQkNBdXNWZlFEY2FwWTVoempENFFrZmQycFRmQlppdkp6Y09EcjM3RlBfN2pYVER0Q29vTDlveVBScEM1U3JZTnRSYVE?oc=5",
+      "usefulness_category": "Operational intelligence"
+    },
+    "e0370faeaf052a875c7f19fd3fae41518763dd8729ab9b85ce3d4eabcd1e0045": {
+      "article_type": "Investigative report",
+      "normalised_title": "party invite phishing scams missed connections",
+      "normalized_title_fingerprint": "party invite phishing scam missed connections",
+      "parsed_date": "2026-09-25",
+      "same_story_key": "wired.com|2026-09-25|connections invite missed party phishing scam",
+      "sent_at": "2026-09-26T04:53:06+00:00",
+      "source_domain": "wired.com",
+      "title": "Party Invite Phishing Scams Are the New Missed Connections - wired.com",
+      "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
       "usefulness_category": "Operational intelligence"
     },
     "e03b7f28eb723d162f24174bbd066525fdaecf8b2e9f7e165fedb531316317ce": {
