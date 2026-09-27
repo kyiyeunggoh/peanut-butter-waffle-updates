@@ -413,9 +413,9 @@
   "017b3bdee1602b6d521525f66cec247b023b0d804da1b0898760ff275b744bcb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Trump says he will create \u2018AI Force\u2019, name AI czar Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump said that AI developers should be responsible for ensuring the safety of their products. PHOTO: EPA Published Sep 20, 2026, 05:07 AM Updated Sep 20, 2026, 12:21 PM Set as preferred source Listen WASHINGTON - US President Donald Trump said in a social media post on Sept 19 that he plans to appoint a new artificial intelligence adviser, known as an \u201cAI czar\u201d, and create an \u201cAI force\u201d, though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property. Earlier this month, former Anthropic researcher Jacob Coxon said that \u201cpeople building AI earnestly believe that it could kill us all by the end of the decade.\u201d Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary. \u201cWe will not in any way hinder or stifle the Growth of this incredible Industry,\u201d Trump wrote on Truth Social, his social media platform. \u201cRather, we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that, very easily, with our already existing Criminal and Civil Justice System.\u201d If Trump follows through on the pledge, it would be his second AI...",
+    "article_excerpt": "Trump says he will create AI force, appoint AI czar Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump said that AI developers should be responsible for ensuring the safety of their products. PHOTO: EPA Published Sep 20, 2026, 05:07 AM Updated Sep 20, 2026, 08:13 PM Set as preferred source Listen WASHINGTON \u2013 US President Donald Trump said in a social media post on Sept 19 that he plans to appoint a new artificial intelligence adviser, known as an \u201cAI czar\u201d, and create an \u201cAI force\u201d, though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property. Earlier in September , former Anthropic researcher Jacob Coxon said that \u201cpeople building AI earnestly believe that it could kill us all by the end of the decade\u201d. Trump has repeatedly downplayed concerns about AI and argued that additional regulation is unnecessary. \u201cWe will not in any way hinder or stifle the growth of this incredible industry,\u201d Trump wrote on Truth Social, his social media platform. \u201cRather, we will cherish it, help it, and watch over it, as it grows! However, we will also be looking for BAD, and we can do that, very easily, with our already existing criminal and civil justice system.\u201d If Trump follows through on the pledge, it would be his...",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:07+00:00",
+    "checked_at": "2026-09-27T05:15:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -432,7 +432,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1432
+    "word_count": 1423
   },
   "0191618f7b8a168d6db58076fa07c32b0c8963af2d4b101eb92e897ab6e6f407": {
     "access_status": "available",
@@ -6427,6 +6427,32 @@
     ],
     "word_count": 40241
   },
+  "13f39ac61d233921fd20407692c3db4c0428a024d018ab3000910a79127c8467": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "workers.dev Last updated Sep 22, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare Workers accounts come with a workers.dev subdomain that is configurable in the Cloudflare dashboard. Your workers.dev subdomain allows you getting started quickly by deploying Workers without first onboarding your custom domain to Cloudflare. It's recommended to run production Workers on a Workers route or custom domain , rather than on your workers.dev subdomain. Your workers.dev subdomain is treated as a Free website \u00e2\u0086\u0097\u00ef\u00b8\u008e and is intended for personal or hobby projects that aren't business-critical. Configure workers.dev workers.dev subdomains take the format: .workers.dev . To change your workers.dev subdomain: In the Cloudflare dashboard, go to the Workers & Pages page. Go to Workers & Pages \u2197 Select Change next to Your subdomain . All Workers are assigned a workers.dev route when they are created or renamed following the syntax . .workers.dev . The name field in your Worker configuration is used as the subdomain for the deployed Worker.",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 1455
+  },
   "1424790c5bd1d474c94a602e5f19ef43f5ab4b12ec1549e365a85555c77d2fa0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7326,6 +7352,30 @@
       "cybercrime"
     ],
     "word_count": 1386
+  },
+  "16ca830be9eaa18b2d80fbd6146204f191cbf5614474b29747732eedfbc2e4e7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "YouTube\u2019s algorithm , while not perfect, sure knows what I want to see. The current top three videos on my front page are an Apple Watch analysis, a Big Brother season 28 update, and something called \u201cI Lost to the Muppets\u201d from comedian Chris Fleming . Click. Click. Click. As part of its Made on YouTube event Wednesday, Google released several new features, including a Custom Feeds button for adjusting what videos pop up on your front page. It\u2019s a rare chance for users to directly tweak their algorithmic feed on YouTube, in ways that go beyond just pressing thumbs up on a video or blocking a creator. To try it out, users can click the Your custom feeds button below the search bar and type a request for the feed they\u2019d like to see. YouTube uses large language models to process your request and whip up a freshly personalized homepage. \u201cI want a rainy Shanghai vibe: caf\u00e9 jazz, street food, and vlogs,\u201d read one of my suggested prompts.",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2592
   },
   "16e26e4bc76d0d27011b023a13e3f032caa3169ab1b71c66191dcb24f7f395cc": {
     "access_status": "unknown",
@@ -10316,9 +10366,9 @@
   "20cd0af5c4957566b19b8055817d1f034080447563beed208fa0dc54d2948ac1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "What are the emerging regulations to rein in AI harms? Sign up now: Get ST's newsletters delivered to your inbox The EU AI Act governs the development, deployment, distribution and use of AI systems in all member states of the bloc. PHOTO: REUTERS Kenny Chee Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 05:00 AM Set as preferred source Listen SINGAPORE - Global artificial intelligence (AI) regulations are rapidly evolving, with the European Union already establishing its pioneering laws and United States lawmakers debating the need for a mandatory AI \u201ckill switch\u201d . The Straits Times looks at how these rules compare to rules and frameworks in China and Singapore. European Union The world\u2019s first comprehensive AI law came into force in the EU in 2024. The EU AI Act governs the development, deployment, distribution and use of AI systems in all member states of the bloc. It takes a risk-based approach to regulation. Enforcement of the AI Act is carried out by the European Commission\u2019s AI Office, the European Data Protection Supervisor and authorities designated by EU member states. The Act classifies AI systems according to four risk categories: minimal, limited, high and unacceptable. AI systems with minimal risks do not need to meet specific requirements, and include spam filters and AI-enabled video games.",
+    "article_excerpt": "What are the emerging regulations to rein in AI harms? Sign up now: Get ST's newsletters delivered to your inbox The EU AI Act governs the development, deployment, distribution and use of AI systems in all member states of the bloc. PHOTO: REUTERS Kenny Chee Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 02:45 PM Set as preferred source Listen Summarise The EU has implemented the first comprehensive AI law in 2024, categorising AI by risk and banning systems with unacceptable risks like manipulation and abuse. The US lacks a national AI law, with states like Colorado enacting and then limiting AI regulations; the White House aims for light-touch, national standards. China uses multiple regulations overseen by the Cyberspace Administration, focusing on data legality, content labelling and protecting minors; Singapore relies on voluntary frameworks and sector-specific rules for responsible AI use. AI generated SINGAPORE \u2013 Global artificial intelligence (AI) regulations are rapidly evolving, with the European Union already establishing its pioneering laws and US lawmakers debating the need for a mandatory AI \u201ckill switch\u201d . The Straits Times looks at how these rules compare to rules and frameworks in China and Singapore. European Union The world\u2019s first comprehensive AI law came into force in the EU in 2024. The EU AI Act governs the development, deployment, distribution...",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:06+00:00",
+    "checked_at": "2026-09-27T05:15:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -10335,10 +10385,10 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
-      "cybersecurity",
-      "trust"
+      "manipulation",
+      "cybersecurity"
     ],
-    "word_count": 3383
+    "word_count": 3493
   },
   "20d57bfc1fcf6964e43a1990853f83c5d19be32287aea27899cefaa3eb6a94fa": {
     "access_status": "available",
@@ -11583,6 +11633,52 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "25b5d27b22e52fd0725b6c69fdfd1646b513aea4ff54bb438891eb7e3001caba": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A weekly newsletter by Lily Hay Newman and Matt Burgess from inside the new world of privacy and digital security. To receive this newsletter in your inbox each week, sign up here . When every random text message feels like it\u2019s a scam , and with AI supercharging digital fraud , old-time credit card skimmers and bogus letters that arrive in the mail may seem laughable as potential threats in 2026. But as we all suffer through a seemingly unending barrage of potential scams, these antiquated attacks are still costing victims around the world dearly. The fake-new-credit-card-in-your-mailbox trick is particularly insidious. Portugal, France , and Germany have all had waves of physical credit card scams in recent years where criminals have mailed phony replacement cards or letters to potential victims. Included letters often claim a current card is set to expire soon, whether the victim actually has one that's about to expire or not. In order for the new (fake) card to be activated, the scam letter says, it should be registered using an included QR code or URL. Some sham cards even have real customer names printed on them, says Georg Hauer, an advisor for digital banks. \u201cThe card is almost like a token that creates the trust that is needed in order to fall for the actual trick,\u201d he says.",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 3594
   },
   "25be0abd0b8e6b98a485a7a852f8dcd30016c42f83f439b9df42b5a633749633": {
     "access_status": "available",
@@ -16553,6 +16649,32 @@
     "weak_generic_terms_found": [],
     "word_count": 13
   },
+  "362d44fd78bf58ed566605e1dad4c5105b4263013cdaca7b8a1adf4516eb51cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "When AI goes wrong for kids Sign up now: Get tips on how to help your child succeed A wider, societal discussion remains to be had about the use of AI chatbots for emotional and relational advice \u2013 and not only by children \u2013 according to AI researchers. ST ILLUSTRATION: MANNY FRANCISCO Venessa Lee Published Sep 27, 2026, 11:45 AM Updated Sep 27, 2026, 11:45 AM Set as preferred source Summarise An AI chatbot gave an eight-year-old girl inappropriate advice, including distrusting her family helper and hiding chat history, causing concern for her parents about AI's impact on children. Experts highlight that AI chatbots can be persuasive but misaligned, offering misleading or harmful advice, and stress the importance of safety guardrails and digital literacy. Psychologists recommend parents engage with children on AI use, teaching critical thinking and ensuring real human relationships remain central to emotional support and decision-making. AI generated SINGAPORE \u2013 Primary-school pupil Katherine (not her real name) was doing her tuition homework online on her family\u2019s iPad when an AI-powered chatbot popped up on-screen, offering its help. She was wary. Her mother had cautioned her that while generative-AI assistants can produce ideas and images, she should not use artificial intelligence for her work. See more on ST Smart Parenting AI/artificial intelligence Children and youth...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 593
+  },
   "365d787807007022c437463b4e420c7bb9343a62a37c9719c25f575c831aebee": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16770,6 +16892,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1559
+  },
+  "36a44b5ca17c2bac11b59a7f5b3f84e5b0271e40bf315a84feb3f2cf68baf492": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "36a9db464e65b404111e87467a1ce2630a68a203b5f404143d88f15868c0cbbe": {
     "access_status": "available",
@@ -17166,6 +17312,30 @@
       "fraud"
     ],
     "word_count": 535
+  },
+  "37c51ff4d217f6b8c0f28c66e602147f74c9e993688301c29230e7b9227521d4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore proposes a UN framework convention on AI safety Sign up now: Get ST's newsletters delivered to your inbox Singapore Foreign Minister Vivian Balakrishnan delivers Singapore\u2019s national statement at the General Debate of the UN General Assembly (UNGA) in New York, on Sept 26. Photo: MFA Bhagyashree Garekar Published Sep 27, 2026, 09:03 AM Updated Sep 27, 2026, 01:10 PM Set as preferred source Listen Summarise Singapore proposes a UN Framework Convention on AI Safety to create international rules and institutions for AI safeguards, emphasising the need for global cooperation and shared standards amid rapid AI advances. Foreign Minister Vivian Balakrishnan highlights risks from AI such as loss of control, misuse by rogue actors, and socio-economic disruption, stressing human oversight and universal safety mechanisms. Balakrishnan calls for revitalised multilateralism to address geopolitical challenges, including maintaining open sea lanes, and explains China\u2019s AI drive as a strategic effort to secure a level playing field. AI generated PHILADELPHIA - As the US and China accelerate their artificial intelligence push, it is too late to ask for a safety pause, but what would help is the creation of institutions that can set safeguards and standards, Singapore Foreign Minister Vivian Balakrishnan told the United Nations in a speech on Sept 26. \u201cWe must collectively formulate...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5186
   },
   "37f2a9f1db1cecdf79e7d1b0e0b811b8c03c3021e9f92e82fd7bd97b3d0a812b": {
     "access_status": "available",
@@ -18417,6 +18587,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3666
+  },
+  "3af16bd4e6d66624cd4dfc1c05421b5fc4d758488343170f3f1a9eaf94d4d033": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Latest Videos 1:57 Singapore Oceanarium: Revamped SEA Aquarium 2.0 1:38 Pull-ups? 100m race? No problem for fitspo grandma 1:53 Mother shares videos showing effects of Kpod addiction on her sons 1:16 New third-generation trains enter service on Sengkang-Punggol LRT 1:07 HSA sting operation catches vape seller in Bishan 0:36 Manhole bursts as heavy rain wreaks havoc in Tokyo 0:50 ST aims to be an indispensable partner to S'pore's communities: Jaime Ho | ST180 1:52 I lost my daughter to Kpod addiction | Vaping: The Invisible Crisis 2:57 My son is addicted to Kpods. No one can help | Vaping: The Invisible Crisis Load more Latest Videos 1:57 Singapore Oceanarium: Revamped SEA Aquarium 2.0 1:38 Pull-ups? 100m race? No problem for fitspo grandma 1:53 Mother shares videos showing effects of Kpod addiction on her sons 1:16 New third-generation trains enter service on Sengkang-Punggol LRT 1:07 HSA sting operation catches vape seller in Bishan 0:36 Manhole bursts as heavy rain wreaks havoc in Tokyo 0:50 ST aims to be an indispensable partner to S'pore's communities: Jaime Ho | ST180 1:52 I lost my daughter to Kpod addiction | Vaping: The Invisible Crisis 2:57 My son is addicted to Kpods. No one can help | Vaping: The Invisible Crisis E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 247
   },
   "3b03da1b961d283e8f874cac90235862a3836fb1414d2d7dce16c80f26e8d279": {
     "access_status": "unknown",
@@ -25705,7 +25899,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:08+00:00",
+    "checked_at": "2026-09-27T05:15:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -28800,6 +28994,41 @@
     ],
     "word_count": 4264
   },
+  "597f2e47ada4f731c64a8d706ba44fefe6ed33ac09335e0ef5b0203c5eff4bfb": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:59+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "59c362b4ef9c9d09f903ce58e95484b8bba9e882b6ffd2ddb029303bda3bcf9c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -29759,6 +29988,33 @@
       "fraud"
     ],
     "word_count": 729
+  },
+  "5c7d2ba438e1a2944c952bbf6b657bb2c01997c24ea0da7ad56fe98795233567": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Progressive Skill Discovery as Access Control for Tool-Using LLM Agents: Structural Governance through Role-Scoped Capability Delivery Michael Stettler Benjamin Girardet Jonas Canton Affiliation: Nicolas Corod * Affiliation: Skilder \u22c5 \\cdot https://www.skilder.ai Affiliation: {ms, bg, jc, nc}@skilder.ai Affiliation: * Corresponding author: nc@skilder.ai May 2026 Abstract Large Language Model (LLM) agents struggle to scale safely when exposed to vast enterprise toolsets [ 1 , 2 ] . Providing an agent with access to every internal tool leads to oversized context windows [ 3 ] , degraded tool selection, and severe governance vulnerabilities\u2014as system policies defined purely in prompts remain probabilistic advice rather than hard constraints. Existing mitigations, such as multi-agent domain delegation, decentralize audit logs and fail to guarantee policy compliance across sessions. We introduce Skilder , a framework that packages capabilities into roles: bundles of skills, tools, and instructions, together with the limits that bound them. An agent begins with a minimal role catalog, learns the roles a task requires, and receives each role\u2019s skills, instructions, and tools through a single MCP server. Because tools reach the agent only inside learned skills, the same server enforces the scope of what was learned deterministically....",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "fraud"
+    ],
+    "word_count": 27993
   },
   "5c7e16177cc6be400273dddd660d8f0ba0510f735ceebbbe7c2646575524aa7f": {
     "access_status": "available",
@@ -34000,6 +34256,30 @@
       "fraud"
     ],
     "word_count": 879
+  },
+  "6aa6a2c3084a45cd00ab964f7ed95c630aec78af71ec60694bedd3835b080271": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SBS Transit to roll out new AI tool in 2027 to tackle uneven bus timings Sign up now: Get ST's newsletters delivered to your inbox SBS Transit senior service controller Calvin Chan scanning recommendations made by AI at Seletar Bus Depot. ST PHOTO: GAVIN FOO Aqil Hamzah Published Sep 24, 2026, 03:57 PM Updated Sep 24, 2026, 05:55 PM Set as preferred source Listen SINGAPORE \u2013 An artificial intelligence co-pilot will soon be deployed by SBS Transit as part of efforts to tackle issues like bus bunching, which occurs when two or more buses arrive together instead of at regular intervals. The AI tool, called FlowOS, is now undergoing trials on bus service s 70 and 145. It will undergo trials on seven other bus routes over time before the trial period wraps up in March 2027. It will then be deployed across the entire SBS Transit bus fleet in the second quarter of the year. The AI tool combines historical data \u2013 including any observable patterns across different days and times \u2013 with live information, such as the current location of a bus. If two buses plying the same route get too close to each other, the system alerts a service controller that action needs to be taken and suggests steps that can help resolve the problem . The person manning the controls makes the final decision and can choose to accept the AI tool\u2019s suggestions, reject them, or modify them before giving...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1936
   },
   "6ad071f6dc539fa72667a45a918fc6bcafc544de76770510949b46189a680246": {
     "access_status": "available",
@@ -38493,6 +38773,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1263
   },
+  "7934498ee8cce5149d1d986bffc5143be1552debe462d9d7d15b54136be98b05": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts September 25, 2026 WAF Release - 2026-09-25 - Emergency WAF Copy as Markdown | View as Markdown | Agent setup This update provides immediate defense against critical vulnerabilities affecting WordPress and JFrog Artifactory, including path traversal, local file inclusion (LFI), cross-site scripting (XSS), and authentication bypass exploits. Key Findings CVE-2026-87902: A high-severity Path Traversal and Local File Inclusion (LFI) vulnerability affecting WordPress. Unauthenticated attackers can exploit this flaw to read arbitrary files on the host server, potentially exposing sensitive configuration data or system files. CVE-2026-42018 & CVE-2026-82329: Critical authentication bypass vulnerabilities affecting JFrog Artifactory. Successful exploitation allows unauthenticated attackers to bypass security controls and achieve unauthorized access to the Artifactory instance. Impact We strongly recommend that administrators apply the latest vendor patches for WordPress and JFrog Artifactory to fully secure origin servers. Detailed Rule Changes Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Managed Ruleset ...70a43f96 N/A Wordpress - Path Traversal, Local File Inclusion - CVE:CVE-2026-87902 N/A Block This is a new detection. Cloudflare Managed Ruleset ...909a4db4 N/A Wordpress - XSS - Comment...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 570
+  },
   "7935106cde39ebf24b948ae501a2a5eba51ca39259ae7be2fc5cfcf44cc68da7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -38762,6 +39068,30 @@
       "trust"
     ],
     "word_count": 18186
+  },
+  "79d9f842d12ccf587a1aea1159d3f9e3c7e7e609d4c70a3ce7fb300c8b11ba08": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore now a super-aged society, with 21.4% of citizen population aged 65 and older Sign up now: Get ST's newsletters delivered to your inbox The number of Singaporeans aged 80 and older also increased to 152,000 in 2026, up from 145,000 in 2025. ST PHOTO: KUA CHEE SIONG Wong Yang Published Sep 25, 2026, 02:59 PM Updated Sep 25, 2026, 09:39 PM Set as preferred source Listen SINGAPORE \u2013 Singapore has officially become a super-aged society , with more than 21 per cent of the citizen population aged 65 and older. In 2026, 21.4 per cent of Singaporeans are in this age group, up from 20.7 per cent in 2025 and 13.7 per cent a decade ago. This means the Republic has crossed the threshold for the United Nations\u2019 definition of a super-aged society, where 21 per cent or more of the population is aged 65 and older. The number of Singaporeans aged 80 and older also increased to 152,000 in 2026, up from 145,000 in 2025. This is a 60 per cent jump from a decade ago, when there were 95,000 citizens in this age group. These figures were published by the National Population and Talent Division on Sept 25 in its annual Population In Brief report, which provides an update on Singapore\u2019s key population trends over the past year. The report said that more than one in four citizens is estimated to be aged 65 and above by 2035. Meanwhile, the proportion of working-age people has fallen in the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2175
   },
   "79e4e84a657928effc0d233f75de3f1e13130a9acb93dc10e2f7dfacef7ab7ea": {
     "access_status": "available",
@@ -41210,6 +41540,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2256
+  },
+  "80326055bba3cc93676f4656e298708e81814a141ef11be3cb70c2776d8d8c61": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why you keep seeing the same stalls at new hawker centres Sign up now: Weekly recommendations for the best eats in town Popular food brands are among the stalls at Woodleigh Village Hawker Centre. ST PHOTO: CHERIE LOK Cherie Lok Published Sep 26, 2026, 09:20 AM Updated Sep 26, 2026, 10:36 AM Set as preferred source Listen Summarise Popular hawker brands expand across multiple hawker centres despite rules limiting individuals to two stalls. Expansion offers economic advantages and wider reach but risks quality dips and may cause brand repetition, leading to concerns about hawker culture homogenisation. Support programmes help new hawkers enter the trade, while experts suggest clearer rules and training to balance growth with preserving hawker diversity and heritage. AI generated SINGAPORE \u2013 Walk into any modern hawker centre today and there are a few things you might notice at first glance: big fans; high, airy ceilings; and a Munchi Pancakes stall in the corner. By now a fixture of the local street food scene, the brand has stalls in 11 of 16 socially conscious enterprise hawker centres, or SEHCs, as hawker centres built after 2015 are called. Joining it in this pantheon of household names are the likes of Eng Kee Chicken Wings, now 12-outlet strong; Tong Fong Fatt Hainanese Boneless Chicken Rice, with over 15 stalls; as well as up-and-comers like Berempah Bros, which will...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 9134
   },
   "803480542d5e32f8eb718085d67618a3dab37d64a22ba1bb466fde1ce55b7205": {
     "access_status": "available",
@@ -44238,6 +44592,39 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "88522cf492259e904f29754f32df90be2dac0fbf42301cbab03f82e09c5a2232": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Singapore shifts cyber strategy after UNC3886 attacks, deploys AI security tools Sign up now: Get ST's newsletters delivered to your inbox Gwenda Fong took over as chief executive of the Cyber Security Agency of Singapore and Commissioner of Cybersecurity on July 1. ST PHOTO: JASON QUAH Lee Li Ying Published Sep 27, 2026, 05:00 AM Updated Sep 27, 2026, 11:04 AM Set as preferred source Listen SINGAPORE \u2013 The local authorities have developed and deployed in-house artificial intelligence tools to better secure some 2,000 government systems under expanded cybersecurity efforts . This proactive posture \u2013 shifting from perimeter defence to active threat hunting \u2013 comes in the wake of an attack on the country\u2019s four major telcos by state-sponsored cyberespionage group UNC3886. The attack was first made public in July 2025. It could have disrupted telecommunications and internet services had the attackers penetrated further, and threatened national security. In her first interview since taking over as chief executive of the Cyber Security Agency of Singapore (CSA) in July , Gwenda Fong told The Straits Times that one of the key learning points from the incident is that defences need to go beyond keeping attackers out. This is because advanced persistent threat actors (APTs) like UNC3886 pursue specific targets. \u201cAPTs are driven by state-backed objectives and you are their target,\u201d...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 3034
+  },
   "887f8e7eac4e2bb89062144fb32ef4cb49b04b369bc6e02519eaf5f46cf61663": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -45976,6 +46363,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3187
+  },
+  "8f31fb90e5f2807a01e7ed8abb984d8fe0e131430202344f0574d25e24ec8e35": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "8f32a96ccff345118dd5b4057437de228ccc08166021d552b59974ff60c13fdc": {
     "access_status": "available",
@@ -48570,6 +48993,43 @@
     ],
     "word_count": 2086
   },
+  "96e4a1a139f3647ebbbec5e599aa4ceee16d5d7ec2311ff2c700938b4614c64f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Mate : Policy-Aware Security Auditing for Mobile Agents via Synthesis-Driven Trajectory Learning Changyue Jiang Affiliation: Fudan University Affiliation: Shanghai Innovation Institute Email: cyjiang24@m.fudan.edu.cn Jiayi Wang Affiliation: Fudan University Email: 24212010031@m.fudan.edu.cn Xin Wen Affiliation: Fudan University Email: 25213050398@m.fudan.edu.cn Jiarun Dai Affiliation: Fudan University Email: jrdai@fudan.edu.cn Geng Hong Affiliation: Fudan University Email: ghong@fudan.edu.cn Xudong Pan Affiliation: Fudan University Affiliation: Shanghai Innovation Institute Email: xdpan@fudan.edu.cn Abstract Mobile agents powered by foundation models now automate complex, multi-step workflows on real devices, but their trajectories can violate app-specific security policies. Existing trajectory-level defenses rely on LLM prompting or rigid rules, and thus fail to support fine-grained, natural-language policies that generalize across apps and tasks. In this work, we introduce Mate , a lightweight, policy-conditioned auditor that encodes both agent trajectories and natural-language security policies to determine whether a trajectory violates a given policy and to explain why. Treating policies as editable text rather than fixed model parameters allows Mate to handle user-defined and evolving requirements without retraining. To...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 25114
+  },
   "9705c1c82f3636c11e38cdec08f74dd4c51a8b271fdfa5dc61055ffe13b0536e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -48732,6 +49192,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "978f35c3777df06ddeeac7170f3ace305320a03e69a56332b27dbb775b832431": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime"
+    ],
+    "word_count": 0
   },
   "97a264c01aa103f135e617b804c415d861e1e2e7d92e3784adf4f31e3e1b465a": {
     "access_status": "available",
@@ -50598,6 +51085,32 @@
       "trust"
     ],
     "word_count": 22850
+  },
+  "9dfb0ce753a808ff89aebadfd352b0c51cc78e6b0bafa5e3cf4c27c3ba4b41ea": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "9e02926b2e02da56f91e5dc6e0f367f5cb384261bedeebe38261d6070cfcba22": {
     "access_status": "available",
@@ -58652,7 +59165,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:05+00:00",
+    "checked_at": "2026-09-27T05:15:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -62288,6 +62801,40 @@
       "fraud"
     ],
     "word_count": 13176
+  },
+  "bf70da6e3d4697013e66c6c347cdf1022a12925e2cd155d342e52058a8f00836": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia probing scam sites linked to two senators, minister says This is first time government has connected influential figures to fraud networks Chhay Sinarith, the Cambodian minister in charge of the government's crackdown on scam operators, speaks to Nikkei Asia on Sept. 24. (Photo by Phoung Vantha) PHNOM PENH -- Scam sites linked to two senior Cambodian ruling party legislators are among those being investigated by the authorities, a senior minister has disclosed as the government seeks to demonstrate that it is serious about addressing the criminal activity. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 106
   },
   "bf76a95fe54ef2eb7c7a0b4b99cbe88c2d8ab3afa5f9b43fdc54734a1e35379e": {
     "access_status": "available",
@@ -68941,9 +69488,9 @@
   "d461251d0d47f04491a3092e6465906b154ee6e2ce3cbe22d74a3e8d576083cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations Sign up now: Get ST's newsletters delivered to your inbox Those who have weighed in on the debate include (clockwise from top left) co-founder of Anthropic Dario Amodei, OpenAI\u2019s chief executive Sam Altman, founder of SpaceXAI Elon Musk, Nvidia\u2019s chief executive Jensen Huang and US President Donald Trump. PHOTOS: AFP, REUTERS, BLOOMBERG Sarah Koh Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 05:00 AM Set as preferred source Listen SINGAPORE \u2013 A high-profile Anthropic resignation and revelations of rogue artificial intelligence models hacking servers have intensified the debate over the speed of the technology\u2019s development and regulation . The recent resignation of AI researcher Jacob Coxon , who had moved from OpenAI to Anthropic, is part of a growing exodus of safety-focused scientists from top labs such as Anthropic, OpenAI and Google DeepMind. Much of the debate has been centred on the US, where the bulk of frontier AI work is being done. Tech insiders there are divided into three camps: safety advocates pushing for regulation, state interests racing to speed up development and the pragmatists. The Straits Times examines the key polarising views. Dario Amodei, co-founder and chief executive of Anthropic In mid-September, Amodei called on frontier AI firms to slow...",
+    "article_excerpt": "To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations Sign up now: Get ST's newsletters delivered to your inbox Those who have weighed in on the debate include (clockwise from top left) co-founder of Anthropic Dario Amodei, OpenAI\u2019s chief executive Sam Altman, founder of SpaceXAI Elon Musk, Nvidia\u2019s chief executive Jensen Huang and US President Donald Trump. PHOTOS: AFP, REUTERS, BLOOMBERG Sarah Koh Published Sep 20, 2026, 05:00 AM Updated Sep 20, 2026, 02:42 PM Set as preferred source Listen SINGAPORE \u2013 A high-profile Anthropic resignation and revelations of rogue artificial intelligence models hacking servers have intensified the debate over the speed of the technology\u2019s development and regulation . The recent resignation of AI researcher Jacob Coxon , who had moved from OpenAI to Anthropic, is part of a growing exodus of safety-focused scientists from top labs such as Anthropic, OpenAI and Google DeepMind. Much of the debate has been centred on the US, where the bulk of frontier AI work is being done. Tech insiders there are divided into three camps: safety advocates pushing for regulation, state interests racing to speed up development and the pragmatists. The Straits Times examines the key polarising views. Dario Amodei, co-founder and chief executive of Anthropic In mid-September, Amodei called on frontier AI firms to slow...",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:07+00:00",
+    "checked_at": "2026-09-27T05:15:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -69053,6 +69600,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "d524a5f7685d677cba8d9e1fe3f23245e9264a1f1b5fb7522a523c9bf5786d96": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What the West misses when it judges China\u2019s dogged AI pursuit Sign up now: Get ST's newsletters delivered to your inbox Singapore Foreign Minister Vivian Balakrishnan after delivering Singapore\u2019s national statement at the General Debate of the United Nations General Assembly in New York. PHOTO: MINISTRY OF FOREIGN AFFAIRS Bhagyashree Garekar Published Sep 27, 2026, 01:10 PM Updated Sep 27, 2026, 01:10 PM Set as preferred source PHILADELPHIA - China\u2019s artificial intelligence success story, often criticised in the West for being unfairly underwritten by the Chinese government, reflects the country\u2019s resolve not to repeat a strategic mistake made 150 years ago, said Singapore\u2019s Foreign Minister Balakrishnan during a discussion on US-China rivalry. China missed the industrial revolution but it won\u2019t make the same mistake twice, said Balakrishnan during a Sept 25 conversation with former Australian prime minister Kevin Rudd, who is now the global president and chief executive of Asia Society in New York . \u201cBecause China missed it, China underwent a century plus of humiliation and unequal treaties. This time, China has absolutely no intention of missing it again,\u201d Balakrishnan said in an hour-long exchange during which he challenged how the US seizes the competition from China. \u201cYou need to understand it is not just a matter of competition with America, being number one or number...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3287
   },
   "d545ac0d176c6109dce5ddaf831dea1f55e14eb0abb5280f769c25bb6cfb1122": {
     "access_status": "available",
@@ -77372,6 +77943,30 @@
     ],
     "word_count": 2367
   },
+  "f12803b00f2355fb2a8717bd07bfb8dd12c146ac98b642c52709a44b427aaff2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Shanti Pereira is first overall in 200m heats, earns final berth at Asian Games Sign up now: Get the biggest sports news in your inbox Shanti Pereira of Singapore en route to finishing first in the Asian Games Athletics Women\u2019s 200m heats at the Paloma Mizuho Stadium in Nagoya, Japan on Sept 26. ST PHOTO: KEVIN LIM Kimberly Kwek Published Sep 26, 2026, 07:05 PM Updated Sep 26, 2026, 11:38 PM Set as preferred source Listen NAGOYA \u2013 A cute moment between Shanti Pereira and her teenage rival Chen Yujie unfolded at the Asian Games medal ceremony on Sept 26. The 17-year-old Chinese, who beat the Singaporean sprint queen to the 100m gold the day before, gestured for Pereira to join her on the top of the podium for a photo, which the latter obliged with a big smile. Pereira will be hoping for the tables to be turned on Sept 27, when the duo line up at the starting blocks of the 200m final at the Paloma Mizuho Stadium. A titanic clash awaits the defending champion, who was beaten to the 200m gold by the teen at the 2025 Asian Athletics Championships in South Korea. The results appear in Pereira\u2019s favour in Nagoya, for now, after the 30-year-old got off to a flying start in the 200m heats on Sept 26. Racing in wet, cold conditions that saw the mercury dipping to 20 deg C, she clocked 23.10sec to finish first in heat 2 and top overall among the 26-strong field. Chen was second fastest...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2992
+  },
   "f1283f761a545b99d7b13d8ffcdcac7b97b0beeb3af48500a8174ee162047379": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -78758,6 +79353,30 @@
     ],
     "word_count": 2057
   },
+  "f57664f577b4dbf899b811c9d79f5609dc92cdc5fd8a82d7a2bb0b4a3cc3ade2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release iQIYI iJOY Conference 2026: Expanding Its Premium Slate with 350+ New Titles and Entering a New Chapter for AI-Powered Entertainment Published Sep 25, 2026, 03:54 PM iQIYI iJOY Conference 2026: Expanding Its Premium Slate with 350+ New Titles and Entering a New Chapter for AI-Powered Entertainment The issuer is solely responsible for the content of this announcement. Press release iQIYI iJOY Conference 2026: Expanding Its Premium Slate with 350+ New Titles and Entering a New Chapter for AI-Powered Entertainment Published Sep 25, 2026, 03:54 PM iQIYI iJOY Conference 2026: Expanding Its Premium Slate with 350+ New Titles and Entering a New Chapter for AI-Powered Entertainment The issuer is solely responsible for the content of this announcement. Press release iQIYI iJOY Conference 2026: Expanding Its Premium Slate with 350+ New Titles and Entering a New Chapter for AI-Powered Entertainment Published Sep 25, 2026, 03:54 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 187
+  },
   "f583c2e68db5b2422250df782e5607ad953ef3f1a600de16a23702365deb967c": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -79127,7 +79746,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:00+00:00",
+    "checked_at": "2026-09-27T05:15:46+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -79723,6 +80342,62 @@
       "cybercrime"
     ],
     "word_count": 3535
+  },
+  "f8a69541e8d789e771eb384bb345809fa9c4af879e616fe3b26894f4854a30f8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cWhat I See is What I Hear\u201d: Deepfake Detection Across Diverse Hearing Abilities PubID: pubid: Network and Distributed System Security (NDSS) Symposium 2027 22\u201326 March 2027, Seoul, Republic of Korea ISBN 978-1-970672-09-1 https://dx.doi.org/10.14722/ndss.2027.230307 www.ndss-symposium.org Magdalena Pasternak 1 , Malvika Jadhav 1 , Palavi V. Bhole 2 , Aviva Smith 1 , Elaina Trapatsos 2 , Vincent Bindschaedler 1 , Roshan Peiris 2 , Ersin Uzun 2 , Patrick Traynor 1 , Matthew Wright 2 , Kevin R. B. Butler 1 Affiliation: 1 University of Florida {mpasternak, jadhav.m, asmith37, vbindschaedler, traynor, butler}@ufl.edu Affiliation: 2 Rochester Institute of Technology {pb7169, ejt7508, roshan.peiris, ersin.uzun, matthew.wright}@rit.edu Abstract The proliferation of audiovisual deepfakes has lowered the cost of fraud, impersonation, and misinformation, but their success ultimately depends on human perception. Detection requires integrating auditory and visual cues, yet security and privacy research has largely overlooked d/Deaf and hard-of-hearing (DHH) populations. We address this gap with an in-person, mixed-methods study of 80 participants: 31 hearing persons (HPs), 15 hard-of-hearing (HoH) participants, 17 d/Deaf participants, and 17 cochlear implant (CI) users. Each participant judged the authenticity of 30 clips, where...",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "financial fraud",
+      "deepfake fraud",
+      "deepfake scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "financial fraud",
+      "deepfake fraud",
+      "deepfake scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security",
+      "institution_domain:mit.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "financial fraud",
+      "deepfake fraud",
+      "deepfake scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 37114
   },
   "f8c7cb3fd7a6db75ec5af23aad09804ae70ba61b35d173ac36fb71a19ba8a632": {
     "access_status": "available",
@@ -82140,6 +82815,31 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "ff261e0f614e86a21443df16d7250b41481642690a27490b2427c9cd54b7fb34": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-09-27T05:15:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": null
   },
   "ff3101eedcc922bb0f31750fb8855d846a9794eca34c65195e931ef4c65acd18": {
     "access_status": "available",

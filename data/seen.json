@@ -1498,6 +1498,20 @@
       "url": "https://arxiv.org/pdf/2607.07751",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-07-09|accuracy analysis cbmigafbvv95cuxqwlnvqtljahnps1lkqtz6wlrfwwpdrwlmu2fprzvva05hofpuy0h6dkhpx1rzdhbylu1jagptrkotz0utzjmwslpzq0jat0jicmlqzulidxeyvnf1wggyb2n5tnlxc21vuve3m1c1ctl5vetnsvvswujgtwvptunnng comparative emails language large models": {
+      "article_type": "Research paper",
+      "normalised_title": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "normalized_title_fingerprint": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "original_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlNVQTlJaHNpS1lkQTZ6WlRFWWpDRWlMU2FPRzVva05hOFpuY0h6dkhpX1RZdHBYLU1JaGpTRkotZ0UtZjMwSlpzQ0JaT0JicmlQZUlIdXEyVnF1WGgyb2N5TnlXc21vUVE3M1c1cTl5VEtNSVVSWUJGTWVPTUNnNg?oc=5",
+      "parsed_date": "2026-07-09",
+      "raw_title": "Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance - arXiv.org",
+      "same_story_key": "arxiv.org|2026-07-09|accuracy analysis cbmigafbvv95cuxqwlnvqtljahnps1lkqtz6wlrfwwpdrwlmu2fprzvva05hofpuy0h6dkhpx1rzdhbylu1jagptrkotz0utzjmwslpzq0jat0jicmlqzulidxeyvnf1wggyb2n5tnlxc21vuve3m1c1ctl5vetnsvvswujgtwvptunnng comparative emails language large models",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "arxiv.org",
+      "title": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlNVQTlJaHNpS1lkQTZ6WlRFWWpDRWlMU2FPRzVva05hOFpuY0h6dkhpX1RZdHBYLU1JaGpTRkotZ0UtZjMwSlpzQ0JaT0JicmlQZUlIdXEyVnF1WGgyb2N5TnlXc21vUVE3M1c1cTl5VEtNSVVSWUJGTWVPTUNnNg?oc=5",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-07-10|agents detection framework fraud inspired llm security": {
       "article_type": "Research paper",
       "normalised_title": "fraud detection inspired framework llm agents security",
@@ -4326,6 +4340,20 @@
       "url": "https://www.straitstimes.com/singapore/malaysian-man-who-is-alleged-mastermind-of-scam-syndicate-operating-in-spore-arrested",
       "usefulness_category": "Operational intelligence"
     },
+    "straitstimes.com|2026-09-23|anti cambodia crackdown fraud haven hosts minister prime": {
+      "article_type": "News report",
+      "normalised_title": "cambodia no safe haven scams prime minister tells anti fraud summit",
+      "normalized_title_fingerprint": "cambodia no safe haven scam prime minister tells anti fraud summit",
+      "original_url": "https://www.straitstimes.com/asia/se-asia/cambodia-hosts-anti-scam-summit-seeking-to-showcase-crackdown",
+      "parsed_date": "2026-09-23",
+      "raw_title": "Cambodia no \u2018safe haven\u2019 for scams, prime minister tells anti-fraud summit - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-09-23|anti cambodia crackdown fraud haven hosts minister prime",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "cambodia no safe haven scams prime minister tells anti fraud summit",
+      "url": "https://www.straitstimes.com/asia/se-asia/cambodia-hosts-anti-scam-summit-seeking-to-showcase-crackdown",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "straitstimes.com|2026-09-23|asian china progress scam significant syndicates tackling touts": {
       "article_type": "News report",
       "normalised_title": "china touts significant progress tackling asian scam syndicates",
@@ -6184,6 +6212,18 @@
       "title": "cambodia says no online scam compounds remain experts sceptical",
       "usefulness_category": "Operational intelligence"
     },
+    "cambodia no safe haven scam prime minister tells anti fraud summit": {
+      "article_type": "News report",
+      "normalised_title": "cambodia no safe haven scams prime minister tells anti fraud summit",
+      "normalized_title_fingerprint": "cambodia no safe haven scam prime minister tells anti fraud summit",
+      "parsed_date": "2026-09-23",
+      "raw_title": "Cambodia no \u2018safe haven\u2019 for scams, prime minister tells anti-fraud summit - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-09-23|anti cambodia crackdown fraud haven hosts minister prime",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "cambodia no safe haven scams prime minister tells anti fraud summit",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "cambodia says 310 000 suspected scammers left country amid crackdown": {
       "article_type": "Enforcement report",
       "normalised_title": "cambodia says 310 000 suspected scammers left country amid crackdown",
@@ -7731,6 +7771,18 @@
       "source_domain": "theguardian.com",
       "title": "job scams growing getting tougher spot \u2018that\u2019s reality hell job market\u2019",
       "usefulness_category": "Scam development"
+    },
+    "large language models spot phishing emails surprising accuracy comparative analysis performance": {
+      "article_type": "Research paper",
+      "normalised_title": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "normalized_title_fingerprint": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "parsed_date": "2026-07-09",
+      "raw_title": "Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance - arXiv.org",
+      "same_story_key": "arxiv.org|2026-07-09|accuracy analysis cbmigafbvv95cuxqwlnvqtljahnps1lkqtz6wlrfwwpdrwlmu2fprzvva05hofpuy0h6dkhpx1rzdhbylu1jagptrkotz0utzjmwslpzq0jat0jicmlqzulidxeyvnf1wggyb2n5tnlxc21vuve3m1c1ctl5vetnsvvswujgtwvptunnng comparative emails language large models",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "arxiv.org",
+      "title": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "usefulness_category": "Research / novel method"
     },
     "least s 3 6 million lost investment scams involving chat groups since may": {
       "article_type": "News report",
@@ -11021,6 +11073,18 @@
       "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BcHRwZlBoZmtwaVM0eEQzMWtHejVRbDg2bXR5RkVtamRmSm53MmR2OXFWcXRpNTR6U0RUSUhDbUVPVVRFZ2x3?oc=5",
       "usefulness_category": "Research / novel method"
+    },
+    "1e2fdbc1f1b4b9bf9f432d0f48fc1591ab3ccfeb8b403e10f6841acb3326c0b1": {
+      "article_type": "News report",
+      "normalised_title": "cambodia no safe haven scams prime minister tells anti fraud summit",
+      "normalized_title_fingerprint": "cambodia no safe haven scam prime minister tells anti fraud summit",
+      "parsed_date": "2026-09-23",
+      "same_story_key": "straitstimes.com|2026-09-23|anti cambodia crackdown fraud haven hosts minister prime",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Cambodia no \u2018safe haven\u2019 for scams, prime minister tells anti-fraud summit - The Straits Times",
+      "url": "https://www.straitstimes.com/asia/se-asia/cambodia-hosts-anti-scam-summit-seeking-to-showcase-crackdown",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "203a2d838af7475d495aa7cdddfb7bdbf4842c1b3689e7174b93ad0536791ac3": {
       "article_type": "Research paper",
@@ -16528,6 +16592,18 @@
       "source_domain": "arxiv.org",
       "title": "LoginTrap: Uncovering Task-Agnostic Phishing-Style Indirect Prompt Injection Attacks against LLM-based Web Agents",
       "url": "https://arxiv.org/html/2608.04741v1",
+      "usefulness_category": "Research / novel method"
+    },
+    "ff261e0f614e86a21443df16d7250b41481642690a27490b2427c9cd54b7fb34": {
+      "article_type": "Research paper",
+      "normalised_title": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "normalized_title_fingerprint": "large language models spot phishing emails surprising accuracy comparative analysis performance",
+      "parsed_date": "2026-07-09",
+      "same_story_key": "arxiv.org|2026-07-09|accuracy analysis cbmigafbvv95cuxqwlnvqtljahnps1lkqtz6wlrfwwpdrwlmu2fprzvva05hofpuy0h6dkhpx1rzdhbylu1jagptrkotz0utzjmwslpzq0jat0jicmlqzulidxeyvnf1wggyb2n5tnlxc21vuve3m1c1ctl5vetnsvvswujgtwvptunnng comparative emails language large models",
+      "sent_at": "2026-09-27T05:16:03+00:00",
+      "source_domain": "arxiv.org",
+      "title": "Large Language Models Spot Phishing Emails with Surprising Accuracy: A Comparative Analysis of Performance - arXiv.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlNVQTlJaHNpS1lkQTZ6WlRFWWpDRWlMU2FPRzVva05hOFpuY0h6dkhpX1RZdHBYLU1JaGpTRkotZ0UtZjMwSlpzQ0JaT0JicmlQZUlIdXEyVnF1WGgyb2N5TnlXc21vUVE3M1c1cTl5VEtNSVVSWUJGTWVPTUNnNg?oc=5",
       "usefulness_category": "Research / novel method"
     },
     "ff31c76a4be0e5fac0d61cd9ce6ef4e37f23f17e3542ed5e12da296fca7ce571": {
