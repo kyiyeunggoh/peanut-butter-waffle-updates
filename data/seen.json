@@ -3906,6 +3906,20 @@
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6e7c0893-1323-49e3-a1c0-6317a850f215-MECA.pdf?abstractid=7507000&mirid=1",
       "usefulness_category": "Product idea / data source"
     },
+    "papers.ssrn.com|2026-09-26|bangladesh evolving fraud hidden risks scam susceptibility tactics": {
+      "article_type": "Research paper",
+      "normalised_title": "evolving scams hidden risks fraud susceptibility targeting tactics bangladesh",
+      "normalized_title_fingerprint": "evolving scam hidden risks fraud susceptibility targeting tactics bangladesh",
+      "original_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7520158.pdf?abstractid=7520158&mirid=1",
+      "parsed_date": "2026-09-26",
+      "raw_title": "Evolving Scams, Hidden Risks Fraud Susceptibility with New Targeting Tactics in Bangladesh",
+      "same_story_key": "papers.ssrn.com|2026-09-26|bangladesh evolving fraud hidden risks scam susceptibility tactics",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "evolving scams hidden risks fraud susceptibility targeting tactics bangladesh",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7520158.pdf?abstractid=7520158&mirid=1",
+      "usefulness_category": "Research / novel method"
+    },
     "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi": {
       "article_type": "Technical article",
       "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
@@ -4381,6 +4395,20 @@
       "title": "cambodia target scam masterminds critics question crackdown s effectiveness",
       "url": "https://www.straitstimes.com/asia/se-asia/cambodia-to-target-scam-masterminds-as-critics-question-crackdowns-effectiveness",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "straitstimes.com|2026-09-26|agents chair commission conduct developers liable should suggests": {
+      "article_type": "Deep analysis",
+      "normalised_title": "us trade commission chair suggests ai developers should liable conduct agents",
+      "normalized_title_fingerprint": "us trade commission chair suggests ai developers should liable conduct agents",
+      "original_url": "https://www.straitstimes.com/world/united-states/us-trade-commission-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents",
+      "parsed_date": "2026-09-26",
+      "raw_title": "US trade commission chair suggests AI developers should be liable for conduct of agents",
+      "same_story_key": "straitstimes.com|2026-09-26|agents chair commission conduct developers liable should suggests",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "us trade commission chair suggests ai developers should liable conduct agents",
+      "url": "https://www.straitstimes.com/world/united-states/us-trade-commission-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents",
+      "usefulness_category": "Product idea / data source"
     },
     "techcrunch.com|2026-05-19|28m dome fight founder hacker iron phishing raised": {
       "article_type": "Technical article",
@@ -5500,6 +5528,20 @@
       "source_domain": "wired.com",
       "title": "party invite phishing scams missed connections",
       "url": "https://www.wired.com/story/party-invite-phishing-scams-are-the-new-missed-connections/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "wired.com|2026-09-26|card credit dead far kernel old panic scam": {
+      "article_type": "Investigative report",
+      "normalised_title": "old school credit card scams far dead",
+      "normalized_title_fingerprint": "old school credit card scam far dead",
+      "original_url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+      "parsed_date": "2026-09-26",
+      "raw_title": "Old-School Credit Card Scams Are Far From Dead",
+      "same_story_key": "wired.com|2026-09-26|card credit dead far kernel old panic scam",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "wired.com",
+      "title": "old school credit card scams far dead",
+      "url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
       "usefulness_category": "Operational intelligence"
     }
   },
@@ -7076,6 +7118,18 @@
       "title": "evidence consistent generative detection under scenario level distribution shift",
       "usefulness_category": "Product idea / data source"
     },
+    "evolving scam hidden risks fraud susceptibility targeting tactics bangladesh": {
+      "article_type": "Research paper",
+      "normalised_title": "evolving scams hidden risks fraud susceptibility targeting tactics bangladesh",
+      "normalized_title_fingerprint": "evolving scam hidden risks fraud susceptibility targeting tactics bangladesh",
+      "parsed_date": "2026-09-26",
+      "raw_title": "Evolving Scams, Hidden Risks Fraud Susceptibility with New Targeting Tactics in Bangladesh",
+      "same_story_key": "papers.ssrn.com|2026-09-26|bangladesh evolving fraud hidden risks scam susceptibility tactics",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "evolving scams hidden risks fraud susceptibility targeting tactics bangladesh",
+      "usefulness_category": "Research / novel method"
+    },
     "expanded synthetic conversation dataset multi turn smishing detection": {
       "article_type": "Research paper",
       "normalised_title": "expanded synthetic conversation dataset multi turn smishing detection",
@@ -8239,6 +8293,18 @@
       "source_domain": "theguardian.com",
       "title": "not cool air conditioning scams offering fake deals heatwave",
       "usefulness_category": "Scam development"
+    },
+    "old school credit card scam far dead": {
+      "article_type": "Investigative report",
+      "normalised_title": "old school credit card scams far dead",
+      "normalized_title_fingerprint": "old school credit card scam far dead",
+      "parsed_date": "2026-09-26",
+      "raw_title": "Old-School Credit Card Scams Are Far From Dead",
+      "same_story_key": "wired.com|2026-09-26|card credit dead far kernel old panic scam",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "wired.com",
+      "title": "old school credit card scams far dead",
+      "usefulness_category": "Operational intelligence"
     },
     "online dating romance scams targeting minors iran through exploitation parental": {
       "article_type": "Research paper",
@@ -9776,6 +9842,18 @@
       "title": "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator",
       "usefulness_category": "Platform policy / product change"
     },
+    "us trade commission chair suggests ai developers should liable conduct agents": {
+      "article_type": "Deep analysis",
+      "normalised_title": "us trade commission chair suggests ai developers should liable conduct agents",
+      "normalized_title_fingerprint": "us trade commission chair suggests ai developers should liable conduct agents",
+      "parsed_date": "2026-09-26",
+      "raw_title": "US trade commission chair suggests AI developers should be liable for conduct of agents",
+      "same_story_key": "straitstimes.com|2026-09-26|agents chair commission conduct developers liable should suggests",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "us trade commission chair suggests ai developers should liable conduct agents",
+      "usefulness_category": "Product idea / data source"
+    },
     "us \u2018leading fight\u2019 against south east asian scam compounds fbi official says": {
       "article_type": "News report",
       "normalised_title": "us \u2018leading fight\u2019 against south east asian scam compounds fbi official says",
@@ -10678,6 +10756,18 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SZ3lKMHNOLW55Ym1Fd0VDV1g0aS1rOWFNRElvRzJJNkh1Tlg1eGtQZFBwZG1CSmlPZVkwdXJ6UTJ0bUx1bUZDNVFPWQ?oc=5",
       "usefulness_category": "Product idea / data source"
     },
+    "10a36bffc9b049e6c0f768dcb5146534a046557ed6cd0d16662d00ccb5627b8c": {
+      "article_type": "Research paper",
+      "normalised_title": "evolving scams hidden risks fraud susceptibility targeting tactics bangladesh",
+      "normalized_title_fingerprint": "evolving scam hidden risks fraud susceptibility targeting tactics bangladesh",
+      "parsed_date": "2026-09-26",
+      "same_story_key": "papers.ssrn.com|2026-09-26|bangladesh evolving fraud hidden risks scam susceptibility tactics",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "Evolving Scams, Hidden Risks Fraud Susceptibility with New Targeting Tactics in Bangladesh",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7520158.pdf?abstractid=7520158&mirid=1",
+      "usefulness_category": "Research / novel method"
+    },
     "10ca81f2b785711ea7f568c13b9f0a1d6532e4df18f73e2ea5fbd92a5077b633": {
       "article_type": "Policy / platform update",
       "normalised_title": "big tech platforms will have ban scam ads under uk plans tackle fraud",
@@ -11205,6 +11295,18 @@
       "title": "Social Engineering Analysis Framework: A Comprehensive Playbook for Human Hacking",
       "url": "https://ieeexplore.ieee.org/iel8/6287639/10820123/10850908.pdf",
       "usefulness_category": "Product idea / data source"
+    },
+    "25b5d27b22e52fd0725b6c69fdfd1646b513aea4ff54bb438891eb7e3001caba": {
+      "article_type": "Investigative report",
+      "normalised_title": "old school credit card scams far dead",
+      "normalized_title_fingerprint": "old school credit card scam far dead",
+      "parsed_date": "2026-09-26",
+      "same_story_key": "wired.com|2026-09-26|card credit dead far kernel old panic scam",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "wired.com",
+      "title": "Old-School Credit Card Scams Are Far From Dead",
+      "url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+      "usefulness_category": "Operational intelligence"
     },
     "26817405ed3977f130d53a05df6b9ab051ca850af102b32632b741820ed9b1a0": {
       "article_type": "Research paper",
@@ -16040,6 +16142,18 @@
       "source_domain": "arxiv.org",
       "title": "SoK: Large Language Model-Generated Textual Phishing Campaigns End-to-End Analysis of Generation, Characteristics, and Detection",
       "url": "https://arxiv.org/html/2508.21457v1",
+      "usefulness_category": "Product idea / data source"
+    },
+    "e3db78462138848c089af0ddc2fe409f25a8d871e8fc5e75c44e9a2c592e42e4": {
+      "article_type": "Deep analysis",
+      "normalised_title": "us trade commission chair suggests ai developers should liable conduct agents",
+      "normalized_title_fingerprint": "us trade commission chair suggests ai developers should liable conduct agents",
+      "parsed_date": "2026-09-26",
+      "same_story_key": "straitstimes.com|2026-09-26|agents chair commission conduct developers liable should suggests",
+      "sent_at": "2026-09-28T05:19:09+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "US trade commission chair suggests AI developers should be liable for conduct of agents",
+      "url": "https://www.straitstimes.com/world/united-states/us-trade-commission-chair-suggests-ai-developers-should-be-liable-for-conduct-of-agents",
       "usefulness_category": "Product idea / data source"
     },
     "e5ff38232e708a6dda1f1646a5eb63b24974b5f3f6f01d2740218d64d3bc5471": {
