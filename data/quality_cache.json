@@ -1139,6 +1139,48 @@
     ],
     "word_count": 4282
   },
+  "03d6d889cabd930d8591ba3db8354fc9111f8239286c5d8516e0ca4983942674": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection Chengxian Hu Zhiming Ma Mingjun Pan Yifan Wang Shun Zhang \\corresponding Qifan Wang Zhilei Zhao Yijin Zhou Yuxi Zhao Huiyuan Liu Peidong Wang Peng Chen Abstract Large audio-language models have shown promise for anti-fraud detection by directly processing speech and reasoning over fraud-related evidence. Their deployment, however, requires predictions to follow a predefined label space and a structured decision protocol consisting of service-scenario identification, fraud detection, and conditional fraud-type classification. Existing fine-tuning and prompt-based approaches typically encode task knowledge, constraints, and decision rules into model parameters or manually maintained prompts, making them difficult to adapt as fraud patterns and labeling policies evolve. To this end, we propose FRAUDSkill , a structured frozen-weight adaptation framework that leaves the underlying audio-language model unchanged while optimizing an external layer of skill programs, route-specific policies, and decision rules. We further combine structured output control with validation-guided multi-path inference to ensure protocol-compliant predictions. On the TeleAntiFraud benchmark, FRAUDSkill achieves 73.50 % 73.50\\% Macro-F1, outperforming the shared...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:03+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phone scam",
+      "bank fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "phishing",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 12455
+  },
   "03e2fd96a63b07da47c1e3fd849ff49762be87141b985736c316188957534aef": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1720,6 +1762,30 @@
       "phishing"
     ],
     "word_count": 32610
+  },
+  "05468dd86993643b6e8b08e2ad09fa3c0e5aed3bac2d742af08db8c658c0abcb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility Published Sep 29, 2026, 12:14 PM Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility The issuer is solely responsible for the content of this announcement. Press release Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility Published Sep 29, 2026, 12:14 PM Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility The issuer is solely responsible for the content of this announcement. Press release Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility Published Sep 29, 2026, 12:14 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 177
   },
   "054f0507c9e96087c64d8991ddfbdddcd2bd6c57d5fc50b1581a6148ff2e58eb": {
     "access_status": "available",
@@ -6971,6 +7037,32 @@
       "prompt injection"
     ],
     "word_count": 15889
+  },
+  "159c041e913ac6afd2a91f5b1768f02f0681924957508156e8fed0fd6e4021b1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Probe into self-styled wealth guru Jason Fong\u2019s business widens Sign up now: Get ST's newsletters delivered to your inbox Wealth gurus Takeshi Lim Jian Bin (wearing spectacles) and Jason Fong Wai Hong, with Fong\u2019s then wife Diana Goh Geok Lee in a photo taken in 2022. Goh has recently written on Facebook about how she was detained at Woodlands Checkpoint in an investigation into her ex-husband\u2019s cheating case. PHOTO: SCREENGRAB FROM FACEBOOK Zaihan Mohamed Yusof Published Sep 27, 2026, 05:00 AM Updated Sep 27, 2026, 11:05 AM Set as preferred source Listen Summarise Diana Goh, ex-wife of wealth guru Jason Fong, was detained at Woodlands Checkpoint amid investigation into Fong's failed property investment scheme involving Telok Blangah Heights property. Fong and associate Takeshi Lim promised high returns to investors but failed to pay dividends consistently; Fong's investors have lost hundreds of thousands and filed police reports. Goh faces harassment from angry investors blaming her for losses; she denies wrongdoing and will cooperate with police, warning against harm to her and her daughter. AI generated SINGAPORE \u2013 The former wife of self-styled wealth guru Jason Fong was stopped by the authorities at Woodlands Checkpoint and searched after she returned from a trip to Malaysia on Sept 9. It happened amid a police probe into an alleged Ponzi scheme, which saw multiple...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2836
   },
   "15c70155287f9ca51dc7374be58b9ed6dcbcfdc10cd43286dba3cd5fdd845f4b": {
     "access_status": "available",
@@ -14007,9 +14099,9 @@
   "2c1763f10fadb7dc1925ac8c14c97dddfa921958a75baffcff134e6b35f64483": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
-    "article_excerpt": "With new AI tool, SGH can detect brain bleeding from CT scans in a few minutes Sign up now: Get ST's newsletters delivered to your inbox The analysis of CT brain scans has been made faster and easier with the use of AI, said senior consultant Sarat Kumar Sanamandra from the neuroradiology department of Singapore General Hospital and National Neuroscience Institute. ST PHOTO: GIN TAY Yap Wei Qiang Published Sep 21, 2026, 09:10 PM Updated Sep 21, 2026, 11:08 PM Set as preferred source Listen Summarise Singapore General Hospital (SGH) has launched iScreen, an AI tool that analyses brain CT scans in about six minutes to detect intracranial bleeding faster than the usual 30 minutes to an hour. iScreen alerts neuroradiologists and doctors instantly via SMS for quicker review and intervention, reducing reporting delays and improving patient outcomes in urgent brain bleed cases. Developed with local startup Iota MedTech and integrated on the national AimSG platform, iScreen supports radiologists and is planned for wider adoption across Singapore public hospitals. AI generated SINGAPORE \u2013 A new artificial intelligence tool co-developed by Singapore General Hospital (SGH) can detect brain bleeding from scans in about six minutes, instead of the 30 minutes to an hour that radiologists at the hospital need for urgent cases. The AI model named iScreen analyses the computed tomography (CT)...",
+    "article_excerpt": "With new AI tool, SGH can detect brain bleeding from CT scans in a few minutes Sign up now: Get ST's newsletters delivered to your inbox The analysis of CT brain scans has been made faster and easier with the use of AI, said senior consultant Sarat Kumar Sanamandra from the neuroradiology department of Singapore General Hospital and National Neuroscience Institute. ST PHOTO: GIN TAY Yap Wei Qiang Published Sep 21, 2026, 09:10 PM Updated Sep 28, 2026, 07:00 PM Set as preferred source Listen Summarise Singapore General Hospital (SGH) has launched iScreen, an AI tool that analyses brain CT scans in about six minutes to detect intracranial bleeding faster than the usual 30 minutes to an hour. iScreen alerts neuroradiologists and doctors instantly via SMS for quicker review and intervention, reducing reporting delays and improving patient outcomes in urgent brain bleed cases. Developed with local startup Iota MedTech and integrated on the national AimSG platform, iScreen supports radiologists and is planned for wider adoption across Singapore public hospitals. AI generated SINGAPORE \u2013 A new artificial intelligence tool co-developed by Singapore General Hospital (SGH) can detect brain bleeding from scans in about six minutes, instead of the 30 minutes to an hour that radiologists at the hospital need for urgent cases. The AI model named iScreen analyses the computed tomography (CT)...",
     "cache_version": 10,
-    "checked_at": "2026-09-22T04:49:27+00:00",
+    "checked_at": "2026-09-29T05:40:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -14026,7 +14118,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3152
+    "word_count": 3224
   },
   "2c277a690bb64cebe95751ede1b126603fc30b765b5b3073d61c169b7f45c6fe": {
     "access_status": "available",
@@ -19311,6 +19403,30 @@
       "trust"
     ],
     "word_count": 2705
+  },
+  "3c5bf023ed19893c659934833067c1e9c30236cd99339f502a729e249b2ca642": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pope Leo says concerns about AI doom are not \u2018fake news\u2019 Sign up now: Get ST's newsletters delivered to your inbox Pope Leo gives a press conference with accredited journalists on the return flight from France, on Sept 28. PHOTO: REUTERS Published Sep 29, 2026, 04:12 AM Updated Sep 29, 2026, 05:52 AM Set as preferred source Listen ABOARD THE PAPAL FLIGHT - Pope Leo on Sept 28 said concerns that artificial intelligence could destroy the world are not \u201cfake news\u201d and should be taken seriously, in an apparent rebuke of US President Donald Trump. The first US pope, who has warned of the dangers of AI throughout his 16-month papacy, also directly criticised technology CEOs who argued there should be no guardrails on the technology. \u201cI do think that the concerns raised by many of the experts, specialists in AI, should be taken seriously,\u201d the pontiff said in a press conference on his flight back to Rome after a four-day trip to France. \u201cI don\u2019t think that that is fake news, as some have said.\u201d Trump told the UN General Assembly last week that he believed fears about the dangers to humanity from AI were a \u201choax\u201d. The pope said he had read on Sept 28 that the head of chipmaker Nvidia had announced there could be a way to insert guardrails into certain AI models. But Leo expressed scepticism, adding: \u201cHe\u2019s the same one; however, that says there should be no limits placed and no...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1358
   },
   "3c8d88d119109a14e38d22516c6136551caf87807eed1849042144934bcc6eee": {
     "access_status": "available",
@@ -26437,6 +26553,32 @@
       "identity"
     ],
     "word_count": 34304
+  },
+  "517d4ad9c6ca821fdeb5a21f899c72c9743fc86f4c14450e9bbc0d06a749206f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI shelves new AI model release over safety concerns Sign up now: Get ST's newsletters delivered to your inbox The model reportedly showed more deception than its predecessor, including at times failing to accurately disclose actions it had or had not taken. ILLUSTRATION: REUTERS Published Sep 29, 2026, 07:15 AM Updated Sep 29, 2026, 09:14 AM Set as preferred source Listen SAN FRANCISCO \u2013 OpenAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, after internal testing found the system did not meet the company\u2019s safety and alignment standards, the ChatGPT maker confirmed on Sept 28. OpenAI chief executive Sam Altman and rival Anthropic\u2019s CEO Dario Amodei earlier in September joined industry leaders in calling for a slower pace of AI development and stronger safety measures. OpenAI has warned that Astra, its flagship GPT-6 model, can at times evade human oversight, while the company and rivals such as Anthropic have faced scrutiny over experimental AI systems that breached safeguards, including an OpenAI model that accessed Australia\u2019s health system database. The Wall Street Journal reported earlier on Sept 28 that OpenAI had abandoned plans to launch the model, which was expected to be integrated into ChatGPT and Codex and was designed to handle more complex tasks without human assistance. The Journal reported that GPT-6.1...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception"
+    ],
+    "word_count": 1232
   },
   "5186efe68abdf24abcd0e71d654c4461cf9c493caa1fb9ea85883fdbcf2cdb89": {
     "access_status": "available",
@@ -39484,6 +39626,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1091
   },
+  "7a49dd8be25bcb30771d741a12d5876d36ced13137d971b74d063631a66bda1d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release TECO Showcases Integrated Modular Data Center Solutions in Singapore, Targeting Southeast Asia's AI Infrastructure Opportunities Published Sep 29, 2026, 10:23 AM TECO Showcases Integrated Modular Data Center Solutions in Singapore, Targeting Southeast Asia's AI Infrastructure Opportunities The issuer is solely responsible for the content of this announcement. Press release TECO Showcases Integrated Modular Data Center Solutions in Singapore, Targeting Southeast Asia's AI Infrastructure Opportunities Published Sep 29, 2026, 10:23 AM TECO Showcases Integrated Modular Data Center Solutions in Singapore, Targeting Southeast Asia's AI Infrastructure Opportunities The issuer is solely responsible for the content of this announcement. Press release TECO Showcases Integrated Modular Data Center Solutions in Singapore, Targeting Southeast Asia's AI Infrastructure Opportunities Published Sep 29, 2026, 10:23 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 162
+  },
   "7a4a7f42c3755b741f0e018bd3b0536c30ae0ca1bae34a5e995e1d82b86807f0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -40576,6 +40742,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2395
+  },
+  "7cd8d9a43a5df445241b82d23a0357078dbd56ae34593488de8f20cbd7ceff56": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Siti Hasmah, wife of Malaysian ex-PM Mahathir, dies at 100 Sign up now: Get insights on the biggest stories in Malaysia Siti Hasmah Mohamad Ali became one of the first Malay female medical officers in Malaya. ST PHOTO: LIM YAOHUI Hadi Azmi and Lu Wei Hoong Published Sep 28, 2026, 11:37 AM Updated Sep 28, 2026, 09:08 PM Set as preferred source Listen Summarise Siti Hasmah Mohamad Ali, wife of former Malaysian PM Mahathir Mohamad, died at 100 on Sept 28 at the National Heart Institute in Kuala Lumpur. She was one of the first Malay female medical officers and married Mahathir in 1956, with whom she had seven children. Malaysian leaders expressed condolences, and her long marriage inspired many, including public figures seeking marital advice from her before her passing. AI generated KUALA LUMPUR \u2013 Siti Hasmah Mohamad Ali, wife of former Malaysian prime minister Mahathir Mohamad , died at the National Heart Institute in Kuala Lumpur on Sept 28, Malaysian media reported. She was 100. She had been married to Malaysia\u2019s longest-serving prime minister since 1956. The couple had seven children. Mahathir has confirmed his spouse passing away in a Facebook post. Clad in a black mask, Mukhriz Mahathir, the youngest son of Siti Hasmah, was seen escorting his mother\u2019s body away from the hospital.",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3617
   },
   "7ce14e76c629e968cd57dcada2f13efbfe574804e5dd5655a07fe437ea02d11e": {
     "access_status": "available",
@@ -42471,9 +42661,9 @@
   "812409c35910d8264e90fdcd78b7bfeeb7192f342356376e38310704ca5b4adf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US and China explore alert system for AI safety, despite trust deficit Sign up now: Get insights on Asia's fast-moving developments US Treasury Secretary Scott Bessent (left) and Chinese Vice-Premier He Lifeng met in New York on Sept 20. PHOTO: AFP Lim Min Zhang and Kok Yufeng Published Sep 21, 2026, 08:45 PM Updated Sep 21, 2026, 10:03 PM Set as preferred source Listen Summarise The US and China have agreed to continue talks on AI safety and proposed a notification system for AI incidents threatening national security, showing recognition of urgent AI risks. Despite rivalry and accusations of AI theft, experts see potential for cooperation on shared vulnerabilities like cybersecurity and crisis management through designated communication protocols. Challenges remain due to mistrust, competitive pressures and lack of private-sector involvement, raising doubts about the effective use of the proposed alert system and its impact on AI competition. AI generated SINGAPORE \u2013 The United States and China have pledged to hold further talks on AI safety, despite the two sides\u2019 intensifying competition in the technology that has threatened to derail dialogue. On Sept 20, US Treasury Secretary Scott Bessent told reporters that the US-China AI dialogue has been established, with the next meeting potentially taking place in two months. He added that the US has proposed a new notification...",
+    "article_excerpt": "US and China explore alert system for AI safety, despite trust deficit Sign up now: Get insights on Asia's fast-moving developments US Treasury Secretary Scott Bessent (left) and Chinese Vice-Premier He Lifeng met in New York on Sept 20. PHOTO: AFP Lim Min Zhang and Kok Yufeng Published Sep 21, 2026, 08:45 PM Updated Sep 22, 2026, 02:50 PM Set as preferred source Listen Summarise The US and China have agreed to continue talks on AI safety and proposed a notification system for AI incidents threatening national security, showing recognition of urgent AI risks. Despite rivalry and accusations of AI theft, experts see potential for cooperation on shared vulnerabilities like cybersecurity and crisis management through designated communication protocols. Challenges remain due to mistrust, competitive pressures and lack of private-sector involvement, raising doubts about the effective use of the proposed alert system and its impact on AI competition. AI generated SINGAPORE \u2013 The United States and China have pledged to hold further talks on AI safety, despite the two sides\u2019 intensifying competition in the technology that has threatened to derail dialogue. On Sept 20, US Treasury Secretary Scott Bessent told reporters that the US-China AI dialogue has been established, with the next meeting potentially taking place in two months. He added that the US has proposed a new notification...",
     "cache_version": 10,
-    "checked_at": "2026-09-22T04:49:25+00:00",
+    "checked_at": "2026-09-29T05:40:01+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -45074,6 +45264,32 @@
     ],
     "word_count": 119
   },
+  "88af794a08610b2d59f77906262928e233323c505617601cdb59f86f4e964b97": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But this Halloween , the theme park franchise wants to make SeaWorld synonymous with something else entirely: BookTok smut . On September 11, SeaWorld Orlando officially opened its annual Howl-O-Scream event , an after-hours Halloween-themed immersive experience featuring various \u201cscare zones\u201d in the park. Scattered between the more expected spooky fare, such as a haunted \u201cWoodrot Hollow\u201d forest and an I Know What You Did Last Summer \u2013themed haunted house is Just One More Chapter, a BookTok-inspired zone featuring the hunky tortured bad boys of romantasy lore. In videos posted by Orlando-based influencers who got an early look at the park, young men with masks, floppy hair, and painted-on abs gallivant around wearing black denim, loitering next to brick walls, beckoning to park attendees, and gifting them with roses. And on Instagram, influencers posed around a central set piece, an oversized book open to a chapter called \u201cThe Cathedral,\u201d emblazoned with the slogan \u201cGood Girls Go for the Bad Boys.\u201d Some of the TikToks from the scare zone went viral, garnering mixed reactions. \u201cBooktok dark 'romantasy' cancer is RUINING heterosexuality,\u201d wrote one X user, \u201cevery little tasteful drop of eros has to be squeezed out of everything so it can be refined into pure concentrated fucking CRINGE.\u201d The fact that the event took place at SeaWorld, an amusement park franchise that is perhaps...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": 3462
+  },
   "88b5aba798883d88115e92f492287c8ec2dc4685989e133d8062a5565ff5c4e0": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -45473,7 +45689,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "UN AI experts warn against \u2018apocalyptic\u2019 rhetoric on risks Sign up now: Get ST's newsletters delivered to your inbox A former Anthropic employee had said that AI \u201ccould kill us all by the end of the decade\u201d. PHOTO: REUTERS Published Sep 22, 2026, 09:34 AM Updated Sep 22, 2026, 10:42 AM Set as preferred source Listen Summarise UN AI experts warn against using apocalyptic language about AI risks, emphasising the need for scientific understanding rather than fear-driven narratives. The International Scientific Panel on AI, formed in 2025, aims to clarify AI risks and inform UN decisions with nuanced, evidence-based discussions. Experts call for global, rational debate on AI risks, highlighting uncertainty and differing opinions over alarmist claims of existential threats. AI generated NEW YORK \u2013 Several experts on a United Nations artificial intelligence committee warned on Sept 21 against the apocalyptic rhetoric used by some professionals in the sector regarding AI risks. \u201cAs scientists, it\u2019s very important to invest in the science, to really understand what we know (from) what we don\u2019t know, and investing in fear is not that helpful,\u201d said Joelle Barral, an executive at Google DeepMind and a member of the International Scientific Panel on AI, an independent body. She was responding to a question from AFP about recent public statements on AI\u2019s potential dangers, particularly...",
     "cache_version": 10,
-    "checked_at": "2026-09-22T04:49:28+00:00",
+    "checked_at": "2026-09-29T05:40:07+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -46077,6 +46293,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2042
+  },
+  "8c5740b87ef118fbaf6f6412c487314ebb660ecc3db289f89b58a9f5c1c0b5bb": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release TuringData Launches ContextCube at Tech Week Singapore 2026, Bringing Shared KV Cache to GPU Inference Clusters Published Sep 29, 2026, 10:00 AM TuringData Launches ContextCube at Tech Week Singapore 2026, Bringing Shared KV Cache to GPU Inference Clusters The issuer is solely responsible for the content of this announcement. Press release TuringData Launches ContextCube at Tech Week Singapore 2026, Bringing Shared KV Cache to GPU Inference Clusters Published Sep 29, 2026, 10:00 AM TuringData Launches ContextCube at Tech Week Singapore 2026, Bringing Shared KV Cache to GPU Inference Clusters The issuer is solely responsible for the content of this announcement. Press release TuringData Launches ContextCube at Tech Week Singapore 2026, Bringing Shared KV Cache to GPU Inference Clusters Published Sep 29, 2026, 10:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 167
   },
   "8c5cb14d2997681345c3d0678a105dfb3fb5ceabe4c1c1c0e7717d5b88f50b43": {
     "access_status": "available",
@@ -47843,9 +48083,9 @@
   "92347c9dfe007c6cbbd9a7e03fb88e5c5c34933cc60312ae4a11d371d7fecbe8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "AI safety warnings rattle tech stocks: Should Singapore investors worry? Sign up now: Get ST's newsletters delivered to your inbox While Singapore technology stocks along the semiconductor value chain initially fell last week, analysts said they are less exposed to shifts in AI sentiment and valuation-driven corrections than their Wall Street counterparts. PHOTO: AFP Benjamin Lim Published Sep 21, 2026, 05:00 PM Updated Sep 21, 2026, 10:41 PM Set as preferred source Listen Summarise Warnings from AI experts have caused tech stocks in the US and Singapore to fall due to fears of AI posing existential risks and slowing development. Singapore tech stocks are less vulnerable to AI sentiment shifts as they serve diverse sectors beyond AI, helping them withstand volatility. Investors should focus on company fundamentals, valuation, and safety governance amid market volatility, preparing for potential demand resets in AI hardware and semiconductor sectors. AI generated SINGAPORE \u2013 Tech stocks in the US and Singapore have come under pressure after warnings from prominent artificial intelligence officials last week revived fears that the rapid development of increasingly powerful models could pose an existential threat to humanity. The shift in sentiment followed warnings from researchers on Sept 10 that AI could threaten humanity within the decade, prompting rare calls for restraint...",
+    "article_excerpt": "AI safety warnings rattle tech stocks: Should Singapore investors worry? Sign up now: Get ST's newsletters delivered to your inbox While Singapore technology stocks along the semiconductor value chain initially fell last week, analysts said they are less exposed to shifts in AI sentiment and valuation-driven corrections than their Wall Street counterparts. PHOTO: AFP Benjamin Lim Published Sep 21, 2026, 05:00 PM Updated Sep 22, 2026, 02:52 PM Set as preferred source Listen Summarise Warnings from AI experts have caused tech stocks in the US and Singapore to fall due to fears of AI posing existential risks and slowing development. Singapore tech stocks are less vulnerable to AI sentiment shifts as they serve diverse sectors beyond AI, helping them withstand volatility. Investors should focus on company fundamentals, valuation, and safety governance amid market volatility, preparing for potential demand resets in AI hardware and semiconductor sectors. AI generated SINGAPORE \u2013 Tech stocks in the US and Singapore have come under pressure after warnings from prominent artificial intelligence officials last week revived fears that the rapid development of increasingly powerful models could pose an existential threat to humanity. The shift in sentiment followed warnings from researchers on Sept 10 that AI could threaten humanity within the decade, prompting rare calls for restraint...",
     "cache_version": 10,
-    "checked_at": "2026-09-22T04:49:27+00:00",
+    "checked_at": "2026-09-29T05:40:04+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -51482,6 +51722,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1508
   },
+  "9dc8c80dcfab95c725ed931a8adad1c4b8b69da693b638505ff351632933776c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI bosses to attend meeting with Trump as safety pressure builds Sign up now: Get ST's newsletters delivered to your inbox With mid-term elections in November, US lawmakers from both parties have drafted multiple Bills to better govern AI. PHOTO: REUTERS Published Sep 29, 2026, 10:30 AM Updated Sep 29, 2026, 11:02 AM Set as preferred source Listen Summarise President Trump and House Speaker Mike Johnson plan a White House meeting with top AI executives on Sept 29 amid growing calls for stronger AI industry oversight. The meeting includes leaders from Meta, Google, OpenAI, Anthropic, SpaceX, and Nvidia, focusing on balancing innovation with regulation and addressing community concerns over AI data centres. Despite safety warnings from AI companies, Trump opposes strict controls, urging rapid AI development to outpace China, while Congress debates but likely won't pass AI laws before the midterm elections. AI generated WASHINGTON \u2013 US President Donald Trump and House Speaker Mike Johnson will convene leading artificial intelligence executives at the White House on Sept 29 amid calls from Congress for stronger industry oversight. The lunch meeting, not yet confirmed by the White House, will feature Meta chief executive Mark Zuckerberg, Google CEO Sundar Pichai, and OpenAI president Greg Brockman, according to CNN. Anthropic CEO Dario Amodei will also attend, a person close to the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2333
+  },
   "9dd77f92347cde89bb9411c48457aa7ef63dc531c361714ed786f3142799805a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -53995,6 +54259,32 @@
     "weak_generic_terms_found": [],
     "word_count": 5452
   },
+  "a52faa3d73131e111e89d5321ac94572ed3515d7b87fcd1d5a11837e5337a21e": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "A WIRED review of candidates running for statewide and federal positions in November, along with exclusive data on candidates running for state-level positions, reveals hundreds of Republican candidates who openly express virulently hateful ideologies , share racist content online , have close ties to white supremacist and antisemitic figures, and are members of far-right groups online . President Donald Trump and his administration have openly embraced, endorsed and defended many of these candidates. At a local level, over 500 candidates running for state legislator positions in November are members of far-right groups on Facebook that promote militias, gun rights, and Christian nationalism, according to data collected by the Institute for Research and Education on Human Rights and shared with WIRED. While many extremist candidates\u2014such as groyper James Fishback and antisemitic influencer Dan Bilzerian \u2014 didn\u2019t make it through GOP primaries, many made it to the general election, and a number of them are expected to win. \u201cThe candidates are taking a page out of the Trump administration\u2019s playbook,\u201d Luke Baumgartner, a former research fellow at George Washington University\u2019s Program on Extremism, tells WIRED. Baumgartner claims that many of the candidates running in November have been inspired by those in the White House. \u201cIn essence, the executive branch has handed them a...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 5237
+  },
   "a53387e9f1f989a790e2a679cc15975dc3f3393cb8cab1289ff600b211ad2862": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -55667,6 +55957,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1805
   },
+  "a9cf608f08da8bcc98bcfa22f25e82f2a34ac9c5851d117e252663bd22ffcea7": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Nvidia unveils safety product after rogue AI incidents Sign up now: Get ST's newsletters delivered to your inbox Nvidia CEO Jensen Huang believes that tech firms would not keep pushing the technology forward if they did not believe the risks could be managed. PHOTO: AFP Published Sep 29, 2026, 03:31 AM Updated Sep 29, 2026, 05:49 AM Set as preferred source Listen SAN FRANCISCO - Nvidia on Sept 28 unveiled a system designed to stop autonomous AI programmes from straying beyond what they were instructed to do, after a wave of incidents raised alarm about the technology\u2019s risks. AI \u201cagents\u201d are designed to act on their own \u2013 browsing the web, writing and running code or handling files \u2013 rather than simply answering questions like a chatbot. The technology has been hailed as the next stage of the AI revolution, but several leading companies have recently reported cases of agents breaking out of the test environments meant to contain them. According to ChatGPT-maker OpenAI, websites accessed by its agents include those of US federal agencies, an Australian government health statistics portal and Hugging Face, a repository of AI models. Amid the alarm, Nvidia CEO Jensen Huang insisted that the problems can be solved. \u201cI believe it\u2019s an engineering problem ... and we all need to hope that\u2019s an engineering problem,\u201d Huang told CNBC on Sept 28. \u201cIf it\u2019s not an engineering problem, it\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1480
+  },
   "a9dbd3587d3d7d20974d447e489b0d33405df357ff5857fcb2e174a0177af2a9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -56331,6 +56645,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ab896cb8911cb8080e68baeebf58c1171397f964a10003deb0ff98dfa7a4fa40": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Detoxifying Large Language Models via Knowledge Editing WARNING: This paper contains context which is toxic in nature. Mengru Wang Affiliation: Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph Ningyu Zhang \u2020 \u2020 thanks: \u02dc\u02dcCorresponding Author. Affiliation: Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph Ziwen Xu Affiliation: Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph Zekun Xi Affiliation: Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph Shumin Deng Affiliation: Ant Group, National University of Singapore, NUS-NCS Joint Lab, Singapore Yunzhi Yao, Qishen Zhang, Linyi Yang, Jindong Wang, Huajun Chen 1 1 footnotemark: 1 Email: {mengruwg,zhangningyu}@zju.edu.cn https://zjunlp.github.io/project/SafeEdit Affiliation: Zhejiang University, Zhejiang University-Ant Group Joint Laboratory of Knowledge Graph Affiliation: Westlake University, Affiliation: Microsoft Research Asia Abstract This paper investigates using knowledge editing techniques to detoxify Large Language Models (LLMs). We construct a benchmark, SafeEdit , which covers nine unsafe categories with various powerful attack prompts and equips comprehensive metrics for systematic evaluation. We conduct experiments with...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 29460
   },
   "aba334ba6ae8a865ee3fdfd427770064ba652d2819369b734ebb328b3c695950": {
     "access_status": "available",
@@ -58790,6 +59131,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "b25b856931bcc9c14e6b80c7589571bab6c28b8ede09078f63bbe05dbaf5fc8f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Over the last few months, frontier AI labs have disclosed multiple incidents in which AI agents have hacked into other companies or, in more recent examples, probed official US and Australian government websites. While Nvidia has already taken a leading role in rallying the AI industry around open source security, it\u2019s now introducing one new software security platform and making an agentic AI sandbox more broadly available. OpenShell, one of the Nvidia\u2019s recently launched security sandboxes for AI agents, is now entering general release for all users. OpenShell was first announced at Nvidia\u2019s annual GTC Conference in March; it\u2019s a framework for containing agents as they carry out tasks and isolating their activity in the operating system kernel, the foundational program that has access to virtually all parts of a computer system in order to coordinate hardware and software. Nvidia\u2019s launch materials indicate that it has AI safety and security collaborations with dozens of other tech companies, including Anthropic, Cisco, CoreWeave, CrowdStrike, Dell Technologies, Hugging Face, JPMorganChase, Mistral, Microsoft, and Palantir. Nvidia says SpaceXAI is using the Open Agent Safety Platform for its Cursor agents and Grok models. The company also says Anthropic and Nvidia are \u201cbuilding security into Claude Managed Agents.\u201d Salesforce, Scale AI, and SAP are all confirmed to be...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3412
   },
   "b26764f30f971c83a3c0d7280379913e89aaf5b7b14ce9cffcb549825a3b488c": {
     "access_status": "available",
@@ -66510,6 +66877,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1113
   },
+  "ca3697647201b4341cef9f2d1b6a327e6d1cbd26b37df01d0d6297708d4a4184": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "They're also the worst. Sometimes I end up drowning in browser tabs containing web pages I don't remember opening, and sometimes I have a few tabs that I want to close, but I can't, because I know I'll need them later. Tuck is a completely free browser extension for all the major browsers that helps with this. You know how, in Gmail , you can \u201csnooze\u201d an email so that it's hidden from your inbox until later? This is like that, but for your browser tabs. Tuck can also automatically close idle tabs after a certain amount of time, saving them to a list so you can open them again when you need to. To get started, simply install the extension. It works in just about every browser: Chrome, Safari, Edge, Firefox, Brave, Arc, Vivaldi, and a few others. There is no need to sign up for an account. After installing the extension, you'll see the icon\u2014an owl wrapped in a blanket\u2014in your browser bar.",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2395
+  },
   "ca42ebb50cfcf655395a65f85b62c9033dcba3d8fab27f13f98833188269d7d0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -71083,6 +71474,51 @@
     ],
     "word_count": 3222
   },
+  "d7a3dd7275ce52799e0c0aa807de918ea9db0d2bbb29893887d8fe755b37181c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: PixSim: a calibrated open-source simulator of instant-payment fraud, recovery and interdiction under analyst capacity constraints Bashir Zeimarani Affiliation: Instituto CERTI Amaz\u00f4nia, Manaus, Brazil Affiliation: Corresponding author: bsz@certi.org.br Alireza Khatib Affiliation: Universidade Federal do Amazonas, Manaus, Brazil Somayeh Mousavinasr Affiliation: Universidade Federal do Amazonas, Manaus, Brazil Carlos Maur\u00edcio Serodio Figueiredo Affiliation: Universidade do Estado do Amazonas, Manaus, Brazil Abstract Brazil\u2019s Pix settles about 5.9 billion instant, irreversible transfers a month. A fraudulent transfer can be recovered only while the funds remain in a traceable account, and in 2025 the Central Bank\u2019s recovery mechanism (MED) returned 9% of accepted contested value. Interdiction therefore has to happen before settlement, by routing each transaction to pass, human review or block, under a finite analyst team and a regulatory hold window. To our knowledge no public simulator jointly models irreversible settlement, a regulated recovery mechanism, downstream fund dispersal and capacity-constrained review. We present PixSim, an open-source simulator of the Pix rail with these elements, calibrated to Banco Central do Brasil open data: every parameter is sourced, calibrated to one published observable measured under the...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:02+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "payment fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "payment fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "account takeover",
+      "payment fraud"
+    ],
+    "technology_modus_terms_found": [
+      "mule networks",
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [
+      "payment fraud"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 27919
+  },
   "d7adebb80dcf203c18d024306f67ebf54519bf31e35cc5d1c452b5886222b14d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -71315,7 +71751,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-22T04:49:26+00:00",
+    "checked_at": "2026-09-29T05:40:04+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -81827,6 +82263,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2451
+  },
+  "fad15a5f8445aa668df9945e97da9291e6da4d4bc48d60a83cf632a19d779023": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Samsung to invest US$1 billion in KKR\u2019s AI infrastructure company Sign up now: Get ST's newsletters delivered to your inbox The investment would give South Korea\u2019s biggest industrial group a stake in a company spanning several businesses where Samsung already has significant operations. PHOTO: REUTERS Published Sep 29, 2026, 08:30 AM Updated Sep 29, 2026, 12:27 PM Set as preferred source Listen Summarise Samsung Group companies will invest US$1 billion in Helix Digital Infrastructure, backing AI infrastructure growth. The investment involves multiple Samsung subsidiaries and aligns with their existing operations like semiconductors and data centres. Helix, launched by KKR and partners, aims to rapidly deploy large computing facilities with Nvidia and Vistra as key collaborators. AI generated Samsung Group companies, including Samsung Electronics, has agreed to invest a combined US$1 billion (S$1.27 billion) in Helix Digital Infrastructure, a KKR & Co-backed US company, deepening the South Korean conglomerate\u2019s push into the rapidly expanding artificial intelligence infrastructure market. Samsung Electronics, Samsung C&T, Samsung SDS, Samsung SDI, Samsung Life Insurance and Samsung Fire & Marine Insurance will participate in the investment, according to a statement on Sept 29 by Samsung. The investment would give South Korea\u2019s biggest industrial group a stake in a company...",
+    "cache_version": 10,
+    "checked_at": "2026-09-29T05:40:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 980
   },
   "fad80b0aaed36c9143486b1f7c17ff9296c504db98a00e3147339958d6b0301c": {
     "access_status": "available",
