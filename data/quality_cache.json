@@ -2132,6 +2132,30 @@
     ],
     "word_count": 7310
   },
+  "06c2cac144aabcd5242d7570bfcfee6e9eb247ac011eb4943061fa82d51cc0ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI humanoid robots to be deployed with Home Team officers by 2028: Edwin Tong Sign up now: Get ST's newsletters delivered to your inbox A humanoid robot turning a wheel during the official opening of the Home Team Humanoid Robotics Centre on Sept 30. ST PHOTO: GAVIN FOO David Sun Published Sep 30, 2026, 05:04 PM Updated Sep 30, 2026, 06:37 PM Set as preferred source Listen Summarise AI-powered humanoid robots will work alongside Home Team officers by 2028, handling dangerous and routine tasks to enhance safety and efficiency. The Home Team Humanoid Robotics Centre has been launched to develop these robots using advanced AI technology. The centre features realistic training environments and collaborates with industry partners like ST Engineering to advance robotics for public safety operations in Singapore. AI generated SINGAPORE \u2013 Hazmat, prison and forensics officers are set to have new teammates in the form of humanoid robots powered by artificial intelligence. These robots are to work alongside Home Team officers in real operational settings by 2028, said Second Minister for Home Affairs Edwin Tong. Speaking at the launch of the Home Team Humanoid Robotics Centre (H2RC) in one-north on Sept 30, he said the aim is to support, not replace officers. He said: \u201cThe robot takes on the routine, physically demanding or the dangerous work. And our officers focus on the work that...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2686
+  },
   "06eef5e212ded42b5a8841ba3152da5345ad8951116161a8447a62eaa1d1e642": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -3919,6 +3943,33 @@
     ],
     "word_count": 1200
   },
+  "0c4102b1297aba64967713158f0a3dfdae7d36adaa9de39147a70d1c39860ba8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. Hany Farid, professor in Computer Science at Dartmouth College, Sophie Nightingale, a senior lecturer in psychology at Lancaster University, and Lancaster\u2019s Sarah Morgan, who acts as the project coordinator on Nightingale\u2019s \u201cProtecting Ordinary People from Deepfake Harms\u201d fellowship published their paper, \u201cThe Backbone of Abuse: How Infrastructure Providers Enable the Proliferation of...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 4521
+  },
   "0c57c0e7e94d5655705a5ad64bd714a7c8d77536abbec344cb8a9f16fc42fb64": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -4437,6 +4488,40 @@
       "trust"
     ],
     "word_count": 24782
+  },
+  "0e554e8e0ec87147f594433a43a13054944d249b08e040941b87b7cbe39fca24": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Posterior Regimes and Latent Deception: Variational Bayesian Inference in Hidden Markov Models for Sequential Fraud Detection in Financial Transactions Joseph Uririoghene Obukofe Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Anthony O\u2019Hare Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Chioma Sandra Dike Affiliation: University of Nottingham, Nottingham, NG7 2RD, United Kingdom ouj00003@students.stir.ac.uk, anthony.ohare@stir.ac.uk, msxcd20@nottingham.ac.uk Abstract We present a three-tier progression of Hidden Markov Models: maximum-likelihood (Baum-Welch), variational Bayesian (VBEM), and a neural variational extension (Neural VBEM), that model each customer\u2019s transaction history as a trajectory through a small number of latent behavioural regimes, one of which is empirically identified as fraud-associated. The Neural VBEM HMM replaces the fixed Gaussian-multinomial emission family with a learned encoder, compressing a 741-dimensional transaction representation into a 64-dimensional latent space in which the VBEM HMM\u2019s posterior operates; a UMAP projection of this space reveals that the discovered regimes are not discrete clusters but...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:04+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 27383
   },
   "0ebc322d48c3319f48dab5e7e8a3c48bbb5bdc81842b6a543639aa8f60b2b03e": {
     "access_status": "available",
@@ -9220,7 +9305,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:34+00:00",
+    "checked_at": "2026-10-01T05:46:12+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -11583,6 +11668,49 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "244593e6a4fa3047e3cf98910b3aa76b340fdbcfa5c34bc7d56870eef8d2796e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: FinRT: Distilling Adaptive Red-Teaming Strategies into Reusable Adversarial Generators in Consumer Finance Rikhiya Ghosh Affiliation: Sahil Wadhwa, Alexandre G.R. Day, Pranab Mohanty Himanshu Kumar Affiliation: AI Foundations, Capital One Sriram Venkatapathy Affiliation: {rikhiya.ghosh, himanshu.kumar2}@capitalone.com Abstract In regulated industries like consumer finance, seemingly harmless user queries can exploit large language model vulnerabilities, triggering safety failures and pushing responses dangerously close to policy limits. Existing automated red-teaming methods trade off attack effectiveness against generation cost, while treating coverage, severity, and diversity as incidental rather than joint objectives. We introduce FinRT , a structured framework that builds reusable adversarial prompt generators from adaptive red-teaming strategies. Across the six victim models in consumer finance, FinRT substantially outperforms adaptive search baselines while amortizing target-facing attack generation into a reusable generator. FinRT nearly doubles the attack success rate over the adaptive more details baseline Rainbow Teaming Samvelyan et al. (2024) (32.9% vs. 17.2%), increases maximum adversarial severity by 33%, and preserves frontload diversity as one of the objectives we are trying to achieve comparable...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:05+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 24961
+  },
   "2461308bd86561f032517cea66cd9c510be4c09bd1b1e2cb98a218aa30198b4e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -13585,6 +13713,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2114
+  },
+  "2a72972270547aa53d290b7daaaf2ee22b7cab3b99d1ea6ca213110618434d70": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US government\u2019s new AI chatbot pulls back from debunking Trump Sign up now: Get ST's newsletters delivered to your inbox Launched on Sept 29, the America.gov chatbot started out contradicting US President Donald Trump on controversial subjects such as the 2020 presidential election, which he wrongly claims to have won. PHOTO: DOUG MILLS/NYTIMES Published Oct 01, 2026, 09:10 AM Updated Oct 01, 2026, 12:15 PM Set as preferred source Listen Summarise The US government launched an AI chatbot on America.gov to simplify access to federal information, but it initially contradicted some of Trump's false claims, including on the 2020 election. After initial fact-based answers, the chatbot stopped addressing certain political questions, avoiding commentary on past elections, raising speculation about administration interference. Despite this, the chatbot still debunked other Trump claims, such as inflation records, while the launch occurred amid global concerns over AI risks and Trump's dismissal of those worries. AI generated WASHINGTON \u2013 US President Donald Trump unveiled what he called a \u201cdamn good\u201d AI chatbot, but it quickly drew attention for contradicting some of his contentious political claims. A day later, however, it stopped answering some political questions. \u201cHello, America. Whatever you need from government, start here,\u201d reads the America.gov platform, which Trump launched...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1909
   },
   "2a86afaa7a834ddf75f902eba3b68e172e0d9b1f05a5ecc0a9fbf2028d83aee7": {
     "access_status": "available",
@@ -27486,6 +27640,44 @@
     ],
     "word_count": 11483
   },
+  "53d80db750f8e8243a00d11a3d7dbcc59c3a8f6bd3a6795c60363647e3ffce3f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment Shunchang Liu Affiliation: ETH Z\u00fcrich Affiliation: EPFL Lukas Fluri Affiliation: ETH Z\u00fcrich Xin Chen Affiliation: ETH Z\u00fcrich Francesco Croce Email: shunchang.liu@epfl.ch github.com/shunchang-liu/vlm-em Warning: this paper contains model outputs that may be offensive or harmful. Affiliation: Aalto University Affiliation: ELLIS Institute Finland Abstract Modern AI models are aligned through post-training to adapt them to downstream tasks. Recent work shows that fine-tuning language models on narrow tasks can induce emergent misalignment (EM) , causing broadly harmful behaviors beyond the training task. However, EM has been studied almost entirely in text-only tasks, leaving its manifestation in multimodal models unclear. In this paper, we define and analyze EM in the context of vision-language models. We first induce EM via fine-tuning on narrow multimodal tasks targeting vulnerable code, careless household-object use, and conspiratorial interpretations of ordinary scenes. Across fifteen commercial and open-source models with different scales, we find that narrow multimodal fine-tuning can induce coherent and broadly misaligned behavior that transfers to unrelated tasks, including misaligned opinions, visual factual dishonesty, unsafe image generation, vulnerability...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:13+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 41092
+  },
   "540caa39c30064d4ffb1c02f5b2ecd75481bc2d32a5929bfcb21fbc58e89ae38": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -29503,6 +29695,43 @@
     "weak_generic_terms_found": [],
     "word_count": 2196
   },
+  "59d1919e598ac32442deef56cef5cd9ff7a1ee0347f369c022c43d7ceb255c56": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Behavior-Grounded Semantic Enrichment for Financial Fraud Modeling and Reasoning Linbo Shao 1 1 footnotemark: 1 Huilin He 1 1 footnotemark: 1 Yating Lou Dawei Cheng 2 2 footnotemark: 2 Affiliation: School of Computer Science and Technology, Tongji University, Shanghai, China Affiliation: {2634102, huilin3, 2612012, dcheng}@tongji.edu.cn Affiliation: * Equal contribution \u2020 Corresponding author Abstract In financial fraud detection, rich semantic context can provide important evidence for transaction behavior modeling and fraud reasoning. However, public real-world financial datasets often lack rich semantics due to privacy constraints. Consequently, synthetic datasets incorporate generated semantics, but at the cost of behavioral realism; textual descriptions for contextual reasoning remain scarce. We address this gap through a semantic enrichment framework grounded in original transaction behavior to simulate multimodal financial data. We (1) propose a multi-agent semantic enrichment framework that generates interpretable financial semantics grounded in transaction behavior through role-specialized agents and consistency refinement, and (2) newly contribute a valuable multimodal financial fraud dataset, MS-FFSD, enriched with structured semantics and textual semantics while preserving real-data-grounded transaction behavior....",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:06+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 29853
+  },
   "59e53bda9cc0015e191ea25ce05f6a43064e288f08051b4c48709caac9ba472e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31148,6 +31377,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1503
   },
+  "5edae8f56914045e6b74738908f482373f9244e5266cf45df6e9695b4087e872": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Basin Catalog Credentials Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Store catalog credentials POST /accounts/{account_id}/basin-catalog/{bucket_name}/credential Store authentication credentials for a catalog. These credentials are used to authenticate with R2 storage when performing catalog operations. Security API Token The preferred authorization scheme for interacting with the Cloudflare API. Create a token . Example: Authorization: Bearer Sn3lZJTBX6kkg7OdcBUAxOO963GEIyGQqnFTOFYY API Email + API Key The previous authorization scheme for interacting with the Cloudflare API, used in conjunction with a Global API key. Example: X-Auth-Email: user@example.com The previous authorization scheme for interacting with the Cloudflare API. When possible, use API tokens instead of Global API keys. Example: X-Auth-Key: 144c9defac04969c7bfad8efaa8ea194 Accepted Permissions (at least one required) Workers R2 Data Catalog Write P ath Parameters Expand Collapse account_id : string Use this to identify the account. bucket_name : string Specifies the R2 bucket name. maxLength 63 minLength 3 Body Parameters JSON Expand Collapse token : string Provides the Cloudflare API token for accessing R2.",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 408
+  },
   "5f32bd63345cb86543e589dde5f50ed430a3f7ef2dc11100f85b9a525d219434": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -32780,6 +33033,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "648cc19d9f9462d14f4f7f74693ab255f196d1895252706badb8b94d3921c3df": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Image: Tarun Raj BN via Unsplash Mobile malware warning from Ukrainian researchers includes iPhone exploit kit Russian hackers are increasingly targeting the smartphones of Ukrainian military personnel and government officials for espionage and financially motivated attacks, according to a Ukrainian government report published this week. The hackers are going after both Android and iOS devices using malicious apps and sophisticated exploits, according to Ukraine\u2019s State Service of Special Communications and Information Protection (SSSCIP). \u201cThe growing role of smartphones in communications among military personnel, government employees and civilians makes them increasingly attractive targets for intelligence gathering, further compromise and financially motivated attacks,\u201d researchers said . One of the tools used against Ukrainian targets is DarkSword, an exploit kit designed to compromise iPhones. DarkSword has been deployed in so-called watering-hole attacks, in which hackers compromise legitimate websites that their intended victims are likely to visit. In Ukraine, attackers have compromised news and government websites to exploit vulnerabilities in Apple\u2019s Safari browser and iOS. The technique can infect an iPhone with little or no action from the victim. Once the device is compromised, hackers can steal sensitive information, including login credentials, messages...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "malware"
+    ],
+    "word_count": 2149
   },
   "64a2bf5d07b08003fdbeba1aef2c512af61185e8bf750998c643e2dac62fbb49": {
     "access_status": "available",
@@ -35599,6 +35880,30 @@
     ],
     "word_count": 1882
   },
+  "6d0c6dc57d74829ec31e346380972928e6272648ef57f5d0e0aef4652c866415": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But aides acknowledge privately that the national polling for Trump is shockingly bad, and the White House, in recent weeks, has begun to contemplate for the first time losing both the House and Senate majorities. One longtime Trumpworld operative, who correctly predicted weeks before the 2024 presidential election that Trump was on course to win every battleground state, summed it up for Inner Loop : \u201cOh, yeah, we're going to get creamed.\u201d Trump's approval rating recently dropped to 37 percent in a Wall Street Journal poll , the lowest of any president heading into a midterm election dating back to 1990, when these polls first began. Trump\u2019s more positive outlook has been informed in part by internal polling that shows Republicans down by less in individual House races, the sources say. \u201cNo one can dispute the fact that President Trump has created one of the most robust coalitions in political history with the MAGA movement,\u201d White House spokesperson Davis Ingle tells WIRED. \u201cThe choice has never been more clear: doubling down on President Trump\u2019s winning, commonsense agenda or the Democrats\u2019 extreme liberal policies and obstruction.\u201d To counter the deeply negative political environment for Republicans this cycle, Trump's team started looking for foreign policy wins last month that he would be able to tout to voters in order to encourage turnout from his MAGA base, sources...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2679
+  },
   "6d1bab33168abd5f69d8b8c2165b455a67866bdbd0bf1b1c43b1dfdfedcad37a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -38090,7 +38395,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in detection and reviews major CNN...",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:37+00:00",
+    "checked_at": "2026-10-01T05:46:08+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -43022,7 +43327,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:46+00:00",
+    "checked_at": "2026-10-01T05:46:18+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -46702,7 +47007,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "> stream x\ufffd\ufffd\ufffd\u0001 \u0000\u0000\u0000 \ufffdOm\u000e7\ufffd\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000> \ufffd \u0000\u0001 endstream endobj 15 0 obj < > stream x\ufffd\ufffdk\ufffd\ufffd \u0014\ufffd\ufffd@\u0004\"\u0018\ufffd\bF \ufffd\u0011h`\u0004\"\u0018\ufffd\bF0\ufffd\u0011 \ufffd\" \ufffd\ufffd\ufffd\ufffd\ufffd9\u07cf\u0019\ufffd\u0012\ufffd\u075c\u000fX\u03ac\ufffd\ufffd\u03cb\ufffd\ufffdm\ufffd a>\ufffd\ufffd ocl\ufffd\ufffd\u3b01\ufffdI|\u0015\ufffd &\ufffd\u0018\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffd:\ufffdH\ufffd/>\ufffd\ufffdhf\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0005\ufffdi\ufffd\ufffd\ufffdR\u0015\ufffdp \u07d32ZO\ufffdK\"Fn\ufffdD\ufffdo;5A\u0015\ufffds\ufffd\ud777mG\ufffd\u0454\ufffd\u0018\ufffd\ufffd\ufffd\ufffd5\ufffd\ufffd u\u001b`;\ufffd\ufffd \ufffd\ufffdh%Z<\ufffd\u058d\ufffdu\u30ea\ufffd\ufffd\ufffdR\ufffd\ufffd\ufffd\ufffd\u000e\ufffd\u21e4\ufffd&f e\ufffd\ufffd\u0013\ufffd\ufffd\ufffd\ufffdJ\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffds\ufffd\ufffd\ufffd\u001a\ufffd\u000e;\ufffd\ufffdC\ufffdc\ufffdh\ufffdsa\ufffd\ufffd\u0013\ufffd\ufffd\ufffd\ufffd.\ufffd\ufffd\ufffd5\ufffd\ufffdT\u0002$\u0765\ufffd\u0016u(q;\ufffdK\u001b\ufffd-\ufffd\ufffd\ufffd9\ufffd\u0012o\u0016\ufffd\ufffd\u0018 7\ufffd+\ufffd\ufffdo\ufffd:\ufffd\ufffd\u047a\ufffdS \uc337\ufffd]\ufffd\ufffd$f?\ufffd\ufffd\ufffdt\ufffdJ\ufffd\ufffd\u0019\ufffd\u0015\ufffd\ufffd DV\u0013\u001b\ufffd&\ufffd\u0174g_\ufffd\ufffd\ufffd\ufffd.\ufffd\ufffd9C\ufffd\ufffdKow\bMk\u0000\u0019\ufffd\ufffd\ufffd \ufffd \ufffd}M\u007fl\ufffd\ufffd{l\ufffdCa\u0013.\ufffd0\ufffd1\ufffdQ\ufffd?\ufffdr_\ufffdb\ufffd\u0000\ufffd\b`\ufffd\ufffd\ufffd\u0484;'L\ufffd\u0000\ufffd\ufffd\ufffd9\ufffd\ufffd\ufffd&S\ufffdR\u0017\ufffd\ufffd\ufffdG\ufffd\ufffd:J\ufffd\ufffd\ufffd\ufffdF\ufffdq\ufffdm\u0004yr [\ufffd\ufffd,\ufffdm\u001a\u0015\ufffd\ufffd\ufffdC\ufffd\ufffd6\ufffd/(\"\ufffd\u01a18e\u001b\ufffd\"\ufffd\ufffd\ufffdh \ufffdf\ufffd\u000e\ufffd\u0006\ufffd\ufffd\ufffd\u0220g\ufffd3\ufffd\ufffd\u00e7l &\ufffdm\ufffdA\ufffdn\ufffdlf \ufffd\u0249KbS7\ufffd [?mPbX\ufffd\u0000lbjR;\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd\u0005}\ufffdy \ufffd\ufffd\u000f#\ufffdMu!\ufffd;r\u001a[7\ufffd /\ufffd\ufffd\ufffd\ufffd-6\u0660s\ufffd\ufffdl\ufffd\u9127\ufffd\u0014/\ufffd\ufffd\u0006\ufffdL\ufffd\ufffd\ufffdu\ufffd\ufffd\u0598N%B\ufffdZ\ufffd\ufffdA_v\ufffdl\ufffd\u000e\ufffd\ufffdt\u0012\ufffdn\ufffd}\ufffd [iC\ufffd|o\ufffd\ufffd\b\ufffd\ufffdF\u0007}\ufffd\u001b\ufffd\ufffds6\ufffd\ufffd\ufffd5\u001b-\u0005h\ufffd\ufffd\ufffd-\ufffd\u0010=\ufffd,\ufffd\ufffd\ufffd\ufffd\u0012 \ufffdorb/\ufffd-\ufffdm\ufffdC$\ufffd\ufffd\ufffd1~\ufffd&\ufffd!\ufffd\u0616E\u05e8\ufffdzt+[\ufffdyJ\ufffdtr\ufffd\u0014ne\ufffdc\ufffd\ufffd\ufffd\ufffdH6v\u0116\ufffd\ufffdQgC\u0018g\ufffd&\ufffdSG\ufffdy/\ufffd\ufffd\ufffd(\ufffd\ufffds6x\ufffd\ufffd=\ufffd^\u0014\ufffd\ufffd\u001a\ufffd{\ufffd\ufffd!l5 @.[\ufffd\ufffd2v\ufffd\ufffd\ufffd\ufffde\u0000\u001b lHxl\uecd3\ufffd(d\ufffd\u0001l\ufffd\ufffd]r\ufffd\ufffd\ufffd\ufffdE\ufffdlN\ufffd\ufffd^\ufffd2\ufffd5n\ufffd}\ufffd\ufffdR\ufffd{\ufffd\ufffd\u07c12\ufffdU\ufffd+=d[\ufffdC\ufffd\ufffd@\ufffd\ufffd>\ufffd\u037c\u0004fd\ufffd\ufffd\ufffdm \u001bC\ufffd\u0644\ufffdYE\ufffd\u0019\ufffd\ufffdlK\ufffdTD\ufffd v\ufffd\ufffdl\ufffd\ufffd\u001a\ufffd' \ufffd\ufffd\ufffd6\ufffd\ufffdf\ufffd&\ufffdm\ufffd \ufffdf\ufffd\ufffdU*\ufffdJ}`\ufffd\u0003k[\ufffdf\ufffdW\ufffd\ufffdh\ufffdC\u000f\ufffdk\ufffd\ufffd\ufffd\ufffd{\ufffd7\ufffd\ufffdvM e\ufffd\u0004}\ufffd\ufffd\ufffd \u0019\ufffd\ufffd\ufffd\ufffd\u0002 Es\ufffd\u0000G\ufffd\ufffdKR\ufffdk \ufffd`#I\ufffdA\ufffd)\ufffd\ufffd 7I\u0005\"\ufffdRr\ufffd\ufffd\ufffd\ufffd\ufffdO\ufffd\u0018\ufffd SuY\ufffd\ufffd\ufffd\u0013(9\ufffd\u0014\ufffd\ufffd\ufffdU\ufffd{\ufffd. {\u0005\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd =)\ufffd\ufffd\ufffd\ufffdle*\ufffd\ufffd.\ufffd\ufffd\ufffd6s\ufffd\ufffdz.\ufffd@]\u0629@-\ufffd3\ufffd\ufffd\ufffd\ufffd\ueb21]=\ufffd\u0555\ufffd:\ufffd\u0003)\ufffd\ufffd\ufffd\u0747\ufffdq\ufffdm\ufffd\ufffdV\ufffd\u0017\ua60fm\ufffd\ufffdV\ufffde\u784f\ufffd\ufffdC\ufffdA\ufffdUO\u0019\ufffd\ufffd^)\ufffd6\u001aAyJ!\u0003\ufffd\ufffd\ufffd\u0018`\u007f\ufffdSB\u001a\ufffd\ufffd/bP\ufffd\ufffdWz\u001b\ufffd\ufffd\u0011I\ufffd \ufffd\ufffd\u001a\ufffd(/\ufffd\ufffd*\u0013JJ\ufffdn\ufffd\ufffdvzs.^#\ufffdrl\u0007~\u001b\ufffd\u0013\u0002IZL2\ufffd\ufffdQ\ufffd\"\ufffd\ufffd\ufffd\ufffdl\u0017\ufffd|>$\ufffdo\u0004dO\ufffd\ufffd\ufffd2\ufffd\ufffd\ufffd\u007f\ufffd #y endstream endobj 16 0 obj < > endobj 17 0 obj [ 18 0 R] endobj 18 0 obj < > endobj 19 0 obj < > endobj 20 0 obj < > endobj 21 0 obj < > endobj 22 0 obj...",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:39+00:00",
+    "checked_at": "2026-10-01T05:46:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -49090,6 +49395,30 @@
     ],
     "word_count": 4626
   },
+  "94329d5474acea26ea388928f7254a575bc8dbe0cf4ccb7fc3027748b97a9ae0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "API Reference Containers Applications Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Rollouts Create a new rollout for an application POST /accounts/{account_id}/containers/applications/{application_id}/rollouts Models Expand Collapse RolloutCreateResponse object { id , created_at , current_configuration , 14 more } Represents the status and metadata of a rollout process for an application. For \u201crolling\u201d strategy: includes steps and progress with instance counts. For \u201cnew_instances\u201d strategy: the response omits steps and progress. Use percentage, version_distribution, and health.summary for status. id : string An identifier for a specific rollout within an application. created_at : string UTC timestamp string in ISO 8601 format. current_configuration : object { authorized_keys , command , entrypoint , 4 more } User-specified container configuration changes. authorized_keys : optional array of object { public_key , name } public_key : string An SSH public key. name : optional string Optional human readable name for this key. command : optional array of string The command that runs when the container starts, passed to the entrypoint.",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2517
+  },
   "9446e6dc5049bed33c848afed38c71896e4114744473a559f97f0e7de6f3f175": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51114,6 +51443,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1266
   },
+  "9a2d6d2466eae72a07da92d9b27902145af23393d681b3535888497a7a3fc484": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Quick Tunnels Last updated Sep 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Quick Tunnels create a temporary trycloudflare.com URL for a local service. You do not need a Cloudflare account or domain. Prerequisites Install cloudflared . Start a local HTTP server. This example uses http://localhost:8080 . Create a Quick Tunnel In a terminal, start a Quick Tunnel: cloudflared tunnel --url http://localhost:8080 Open the trycloudflare.com URL printed by cloudflared . Anyone with the URL can access your local service. The URL stops working when you stop the cloudflared process. Restrict access by email Use --allowed-mail to require email authentication. Visitors receive a one-time PIN before they can access your service.",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 868
+  },
   "9a5a467c13a3dc340a2e2bfa7e7e260c3509352bd9048d0a214a0c74348f7846": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -51874,7 +52227,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "A normie\u2019s guide to understanding the global AI safety debate AI safety is becoming a geopolitical and public policy maze. A return to first principles may show us how to erect sensible guard rails. Sign up now: Get ST's newsletters delivered to your inbox Sensible guard rails can reassure ordinary citizens that AI will not be allowed to run unchecked, says the writer. PHOTO: REUTERS Bhavan Jaipragas Published Sep 23, 2026, 05:00 PM Updated Sep 24, 2026, 05:40 AM Set as preferred source Unlock audio With a torrent of specialist jargon \u2013 from \u201crecursive self-improvement\u201d and \u201cp(doom)\u201d to \u201cpacing the frontier\u201d \u2013 the snowballing global debate over artificial intelligence safety is becoming harder to follow by the day. If it is not these terms sending us normies \u2013 normal citizens outside the AI world \u2013 scrambling to keep up, it is the proliferating catalogue of doomsday scenarios. These range from mass unemployment and DIY cyberattacks or bio-weapons, all the way to the ultimate fear: human extinction. See more on AI/artificial intelligence Living with AI Technology and research A normie\u2019s guide to understanding the global AI safety debate AI safety is becoming a geopolitical and public policy maze. A return to first principles may show us how to erect sensible guard rails. Sign up now: Get ST's newsletters delivered to your inbox Sensible guard rails can reassure ordinary...",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:37+00:00",
+    "checked_at": "2026-10-01T05:46:07+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -54529,6 +54882,30 @@
     ],
     "word_count": 4907
   },
+  "a51ec3cd7d0ad77dd0ead4a9f9788849e6d4d8df336a855cd5c5611ec3b6ab5b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump says he has done a \u2018bad job\u2019 in US explaining his economic record Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump addressing a supportive crowd at a Hispanic Heritage Month event at the White House on Sept 30. PHOTO: REUTERS Published Oct 01, 2026, 04:07 AM Updated Oct 01, 2026, 11:32 AM Set as preferred source Listen Summarise President Trump admits he has done a \"very bad job\" explaining his economic record amid falling approval ratings before the November midterm elections. He claims the US economy is performing better than ever despite rising gasoline prices and consumer confidence hitting a 12-year low. Trump plans a 32-day campaign tour to support Republican candidates and urges voters to help \"turn this around\" in competitive congressional races. AI generated WASHINGTON \u2013 US President Donald Trump said on Sept 30 he has done \u201ca very bad job\u201d of explaining his economic record as his job approval rating sags under the weight of high gasoline prices ahead of the November mid-term elections. Trump, speaking to a supportive crowd at a Hispanic Heritage Month event at the White House, made the comment as he prepares to embark on a 32-day campaign blitz for Republican candidates ahead of the Nov 3 elections that will decide whether his party retains control of the US Congress. \u201cI\u2019ve done a very bad job of explaining how good the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1596
+  },
   "a52cc706bd28fe09ba908e0a616598a14665fae1511b34a29123f2e9afb97822": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -55011,6 +55388,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "a6a555b6e5f8e4dc1a255aa8e70686cfe7d9d98f06c4f94ae81283f5d1dd3a99": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Singapore gets its first advanced semiconductor materials plant to meet AI demand Sign up now: Get ST's newsletters delivered to your inbox Officially opened on Sept 29, the 95,000 sq m Advanced Substrate Technologies facility in Jurong Lake District will produce Flip Chip Ball Grid Array substrates. ST PHOTO: KUA CHEE SIONG Ovais Subhani Published Sep 29, 2026, 03:15 PM Updated Sep 29, 2026, 09:18 PM Set as preferred source Listen Summarise Singapore opened its first advanced semiconductor materials plant, Advanced Substrate Technologies (AST), to produce substrates for AI and networking, supporting global demand and supply chain resilience. AST is a joint venture between Japan\u2019s Toppan Holdings and US Broadcom, with a S$405 million initial investment and plans for future expansion and high-volume manufacturing. The plant enhances Singapore\u2019s semiconductor ecosystem, creating jobs, boosting R&D, and strengthening its role as a key global semiconductor hub, said Deputy Prime Minister Gan Kim Yong and industry leaders. AI generated SINGAPORE \u2013 Singapore is expanding its foothold in the global semiconductor supply chain with the opening of its first plant producing advanced substrates used in AI and networking applications. Officially opened on Sept 29, the 95,000 sq m Advanced Substrate Technologies (AST) facility in Jurong Lake District will produce Flip Chip Ball Grid Array...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 2536
   },
   "a6b22c1df25ff0c19ca1fc3ac04583740f9faa4eb5d5ed303a74265d60b4c610": {
     "access_status": "available",
@@ -75368,9 +75771,9 @@
   "e26c5ab6dded97df447da8e476685cce7649a05b967a4296321e6d3f34103cb8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "AI leaders warn UN of security risks as systems grow more powerful Sign up now: Get ST's newsletters delivered to your inbox Governments have grappled with how to oversee AI systems that are advancing faster than regulators can keep up. PHOTO: REUTERS Published Sep 23, 2026, 06:41 PM Updated Sep 24, 2026, 10:05 AM Set as preferred source Listen Summarise AI leaders warned the UN Security Council that rapidly advancing AI systems could self-improve, escape human control and threaten global security. Executives like OpenAI's Sam Altman urged democratic oversight and international cooperation to manage AI risks responsibly. US President Trump favours encouraging AI growth over strict controls, contrasting with UN calls for global governance amid US-China discussions on AI security collaboration. AI generated UNITED NATIONS \u2013 Executives from three of the world\u2019s leading artificial intelligence companies briefed the UN Security Council on Sept 23 amid warnings that increasingly powerful AI systems could soon improve themselves, slip beyond human control and pose a threat to international security. Among those addressing the 15-member council during the annual General Assembly gathering were OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei and Hugging Face co-founder Clement Delangue, three of the industry\u2019s most prominent executives. \u201cIf managed poorly, I even believe that AI...",
+    "article_excerpt": "AI leaders warn UN of security risks as systems grow more powerful Sign up now: Get ST's newsletters delivered to your inbox Governments have grappled with how to oversee AI systems that are advancing faster than regulators can keep up. PHOTO: REUTERS Published Sep 23, 2026, 06:41 PM Updated Sep 24, 2026, 05:44 PM Set as preferred source Listen Summarise AI leaders warned the UN Security Council that rapidly advancing AI systems could self-improve, escape human control and threaten global security. Executives like OpenAI's Sam Altman urged democratic oversight and international cooperation to manage AI risks responsibly. US President Trump favours encouraging AI growth over strict controls, contrasting with UN calls for global governance amid US-China discussions on AI security collaboration. AI generated NEW YORK \u2013 Executives from three of the world\u2019s leading artificial intelligence companies briefed the UN Security Council on Sept 23 amid warnings that increasingly powerful AI systems could soon improve themselves, slip beyond human control and pose a threat to international security. Among those addressing the 15-member council during the annual General Assembly gathering were OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei and Hugging Face co-founder Clement Delangue, three of the industry\u2019s most prominent executives. \u201cIf managed poorly, I even believe that AI could be a...",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:36+00:00",
+    "checked_at": "2026-10-01T05:46:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -77539,6 +77942,30 @@
     ],
     "word_count": 0
   },
+  "eb1e2234378a395845f34a987a6c79acfdbfde3a66bf96755cced2ae8dcdd8f7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Extraordinary bravery\u2019: Israeli, Indian leaders hail Indian flydubai pilot for averting disaster Sign up now: Get ST's newsletters delivered to your inbox Passengers who were on flydubai flight FZ1073 arriving back in Israel on Sept 30. The pilot of flight FZ1073 was reportedly stabbed by a co-worker, forcing an emergency landing in Saudi Arabia. PHOTO: REUTERS Published Oct 01, 2026, 06:07 AM Updated Oct 01, 2026, 11:13 AM Set as preferred source Listen Summarise Israeli Prime Minister Netanyahu praised Indian pilot Smit Machchhar and passengers for preventing disaster after the co-pilot attacked the pilot and tried to crash the flydubai flight. The plane lost 17,000 feet rapidly before passengers and an on-duty crew regained control; the flight was diverted to Saudi Arabia and later landed safely in Tel Aviv. Israeli officials called it an attempted terrorist attack targeting Israelis and regional peace, leading to suspended flydubai flights to Israel amid ongoing investigations. AI generated TEL AVIV \u2013 The leaders of Israel and India credited the Indian pilot of a Dubai-Tel Aviv flight, as well as the aircraft\u2019s passengers, with averting catastrophe on Sept 30 after the man was attacked by his co-pilot, sparking a fight for control of the aircraft and forcing an emergency landing. Israeli Prime Minister Benjamin Netanyahu said the co-pilot of the flydubai jet had been...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3218
+  },
   "eb39a32f5289074624bd508452d7b2147ea7cb2eb66b611f4e0763fd5815d15f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -79453,7 +79880,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:46+00:00",
+    "checked_at": "2026-10-01T05:46:18+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam"
@@ -80300,9 +80727,9 @@
   "f46fdbfd513aac27b47fdcd334dcf56df4d94f0dc36f1c7f456b7ae84b784754": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Get started Last updated Sep 11, 2026 | Copy as Markdown | View as Markdown | Agent setup Create a Cloudflare Tunnel and publish your first application in under 5 minutes. Prerequisites A Cloudflare account \u00e2\u0086\u0097 A domain on Cloudflare (required to publish applications) A server or VM with internet access where you will install cloudflared Create a tunnel To create a new Cloudflare Tunnel: In the Cloudflare dashboard \u00e2\u0086\u0097 , go to Networking > Tunnels . Go to Tunnels \u2197 Select Create Tunnel . Enter a name for your tunnel (for example, production-web or staging-api ). Select Create Tunnel . Under Setup Environment , select the operating system and architecture of your server. Copy the install commands shown under Install and Run and run them in a terminal on your server. Once the tunnel connects, select Continue . Your tunnel should appear on the Tunnels page with a Healthy status . Create an API token with the following permissions: Type Item Permission Account Cloudflare Tunnel Edit Zone DNS Edit Create a tunnel: Required API token permissions At least one of the following token permissions is required: Cloudflare One Connectors Write Cloudflare One Connector: cloudflared Write Cloudflare Tunnel Write Create a Cloudflare Tunnel bash curl \"https://api.cloudflare.com/client/v4/accounts/ $ACCOUNT_ID /cfd_tunnel\" \\ --request POST \\ --header \"Authorization: Bearer $CLOUDFLARE_API_TOKEN...",
+    "article_excerpt": "Get started Last updated Sep 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Create a Cloudflare Tunnel and publish your first application in under 5 minutes. Prerequisites A Cloudflare account \u00e2\u0086\u0097\u00ef\u00b8\u008e A domain on Cloudflare (required to publish applications) A server or VM with internet access where you will install cloudflared Create a tunnel To create a new Cloudflare Tunnel: In the Cloudflare dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e , go to Networking > Tunnels . Go to Tunnels \u2197 Select Create Tunnel . Enter a name for your tunnel (for example, production-web or staging-api ). Select Create Tunnel . Under Setup Environment , select the operating system and architecture of your server. Copy the install commands shown under Install and Run and run them in a terminal on your server. Once the tunnel connects, select Continue . Your tunnel should appear on the Tunnels page with a Healthy status . Create an API token with the following permissions: Type Item Permission Account Cloudflare Tunnel Edit Zone DNS Edit Create a tunnel: Required API token permissions At least one of the following token permissions is required: Cloudflare One Connectors Write Cloudflare One Connector: cloudflared Write Cloudflare Tunnel Write Create a Cloudflare Tunnel bash curl \"https://api.cloudflare.com/client/v4/accounts/ $ACCOUNT_ID /cfd_tunnel\" \\ --request POST \\ --header \"Authorization: Bearer...",
     "cache_version": 10,
-    "checked_at": "2026-09-13T04:42:25+00:00",
+    "checked_at": "2026-10-01T05:46:11+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -80319,7 +80746,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2061
+    "word_count": 2009
   },
   "f4782394a4617638481e1b0007f12cb880e7c73ac20496e569aba75d1e319584": {
     "access_status": "available",
@@ -83369,6 +83796,59 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "fc81c693fe92f6059a068634f12c4c5c2f3aa2207a3e9047e68a9f058e3c9704": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "September 30, 2026 Add Us On Google Add SciAm Can we vaccinate people against scams? Researchers are testing new ways to fight online fraud How AI is transforming online romance scams, and what you can do to protect yourself By Rachel Feltman , Fonda Mwangi & Alex Sugiura Iuliia Angatkina/Getty Images/Scientific American Illustrations SUBSCRIBE TO Science Quickly Apple | Spotify | YouTube | RSS Rachel Feltman: For Scientific American \u2019s Science Quickly , I\u2019m Rachel Feltman. Earlier this month six men were extradited from South Africa for allegedly conning more than 100 U.S. women out of more than $6 million. According to the FBI, the men were members of a large organized crime ring that sometimes crafted and maintained elaborate romantic relationships to defraud their targets. The idea of someone using romance to con you isn\u2019t new; it\u2019s practically a tale as old as time. But the Internet made it possible to implement these schemes from the other side of the globe. Thanks to the ubiquitous nature of online socializing and dating, it no longer sounds inherently fishy to fall for someone you\u2019ve yet to meet in person. On supporting science journalism If you're enjoying this article, consider supporting our award-winning journalism by subscribing . By purchasing a subscription you are helping to ensure the future of impactful stories about the discoveries and ideas shaping our...",
+    "cache_version": 10,
+    "checked_at": "2026-10-01T05:46:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "money mule",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "money mule",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "money mule",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 9035
+  },
   "fcfdba850c62c59b1deb938a9eac41429195bed12ea87f902c977905365f42b0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -83486,7 +83966,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Cambodia will never be 'safe haven' for scammers, PM promises At conference to fight the criminal activity, Hun Manet urges global cooperation A Cambodian police officer stands guard near a basketball court in the Jin Zi Rui scam compound in Kandal province on Sept. 22. (Photo by Ananth Baliga) PHNOM PENH -- Cambodia will never be a \"safe haven\" for scam operations but unilateral action will not defeat the organizations running the criminal activity, Prime Minister Hun Manet declared as he opened an international conference on the scourge that the United Nations estimated defrauded victims of up to $114 billion last year. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
     "cache_version": 10,
-    "checked_at": "2026-09-24T04:42:36+00:00",
+    "checked_at": "2026-10-01T05:46:05+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
