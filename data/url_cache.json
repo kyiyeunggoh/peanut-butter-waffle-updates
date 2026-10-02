@@ -15,6 +15,10 @@
     "canonical_url": "https://arxiv.org/html/2608.13482",
     "resolved_at": "2026-09-14T04:49:58+00:00"
   },
+  "002f33966d9ab5e71f39a8498b2ad0bb87364d37fe96c647aa4e7a8709d9bf5c": {
+    "canonical_url": "https://www.straitstimes.com/opinion/youre-not-sending-an-email-youre-training-a-model",
+    "resolved_at": "2026-10-02T05:29:31+00:00"
+  },
   "007da16500519ccac7210b1e6003142ae2a8895a743743ff80adb77994068f26": {
     "canonical_url": "https://www.abc.net.au/news/2026-06-17/daryl-maguire-trial-begins/106808298",
     "resolved_at": "2026-06-18T05:01:39+00:00"
@@ -847,6 +851,10 @@
     "canonical_url": "https://technav.ieee.org/topic/computer-fraud/",
     "resolved_at": "2026-08-23T01:58:43+00:00"
   },
+  "0f051d243c59a8b06092183e34d9241a279ba0e6ab8d3d7cc52b1032b1743b0b": {
+    "canonical_url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "resolved_at": "2026-10-02T05:29:40+00:00"
+  },
   "0f058384c1dc616b7115f48df3ab3ed0f97f22eae201b406fca9dc8af31a0ca9": {
     "canonical_url": "https://www.theguardian.com/film/2026/jul/07/the-last-one-for-the-road-review-venice",
     "resolved_at": "2026-07-08T03:41:12+00:00"
@@ -1050,6 +1058,10 @@
   "124efe3e4731191e33b105630da3d848625e93a2fa1581fd5999e16b448662e5": {
     "canonical_url": "https://arxiv.org/html/2606.00497v1",
     "resolved_at": "2026-06-03T05:11:34+00:00"
+  },
+  "124f10d787d18bfc2a810ef80af461f49f3052177d2d591ea4e4bbe346b55fab": {
+    "canonical_url": "https://www.straitstimes.com/tech/spore-media-firms-to-get-micro-drama-production-support-under-imda-tiktok-initiative",
+    "resolved_at": "2026-10-02T05:29:46+00:00"
   },
   "126828d3b91c99b9a237105531289c3f12a187ab6e44258308e7e6ae92ff23d2": {
     "canonical_url": "https://www.straitstimes.com/paid-press-releases/hikvision-introduces-new-hiko-ai-engine-to-hik-connect-7-in-a-major-upgrade-which-simplifies-day-to-day-security-management-20260929",
@@ -1394,6 +1406,10 @@
   "17cff9aec2fd39a467b46dcc91e52710b4c2dcdd52281b9f2959520908b7982c": {
     "canonical_url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
     "resolved_at": "2026-08-09T02:26:01+00:00"
+  },
+  "1817fc0d246ce8de1a7c6f7a05644486445b6379ee6a99289a0814ac71d23028": {
+    "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7544022",
+    "resolved_at": "2026-10-02T05:29:42+00:00"
   },
   "183d66060c12f65ab0d5c58eaf29b4298a9f1b6169183bf93ad72908adadbf70": {
     "canonical_url": "https://www.theguardian.com/world/audio/2026/jun/09/zelenskyy-putin-is-playing-games-with-trump-podcast",
@@ -1891,6 +1907,10 @@
     "canonical_url": "https://www.straitstimes.com/world/united-states/trump-says-he-will-create-ai-force-name-ai-czar",
     "resolved_at": "2026-09-27T05:14:53+00:00"
   },
+  "208943400b4b585e8e356d854b1108b9a05fc07c416b5f12e024c55002e86c23": {
+    "canonical_url": "https://developers.cloudflare.com/ai/models/%40cf/cloudflare/clef-flash/",
+    "resolved_at": "2026-10-02T05:29:26+00:00"
+  },
   "208d210320353b7cd6aaec1c2b9af740eef440dd96cc1ad4efdfa0e6c9bf0671": {
     "canonical_url": "https://www.bbc.com/news/articles/ckg31zl874xo",
     "resolved_at": "2026-07-19T03:49:05+00:00"
@@ -1962,6 +1982,10 @@
   "219266b48abcbfa4bf5f7b8283f91d6a6437f0620a4adbc504b81e41de540fbf": {
     "canonical_url": "https://www.bbc.com/news/articles/c0ryevpz48ko",
     "resolved_at": "2026-07-10T04:11:26+00:00"
+  },
+  "219c0d5e241699f77befbb58d4987de65aca80f54f3e05b7a3d752c76143b1a6": {
+    "canonical_url": "https://developers.cloudflare.com/workers-ai/models/eurollm-9b-it/",
+    "resolved_at": "2026-10-02T05:29:24+00:00"
   },
   "21aceaa802e62e928a43aa64589ed41e61514b652bd0531b7fd351ebedfd8541": {
     "canonical_url": "https://www.straitstimes.com/world/united-states/us-enforces-law-to-crack-down-on-sexual-deepfakes",
@@ -2760,8 +2784,8 @@
     "resolved_at": "2026-09-13T04:41:55+00:00"
   },
   "3018a0cc3a88ce2778040383be114b1c3bd305c5cdcc9bf182a6131240915782": {
-    "canonical_url": "https://www.nst.com.my/news/nation/2026/08/1518775/scam-prevention-must-evolve-syndicates-exploit-psychology-ai",
-    "resolved_at": "2026-09-25T04:51:32+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVEw3VzlDSjV2SzRrb0lYcDlsVTJQQl90eGU0NlpNQ3hpakhpV0NkUUlsaURZZzIzbV80Z0ExcmNPbV9FbjYwY2Q4WWxPY0R1TGNmUENkS1VIMGZXcUdGUWc5TlpVY0RMWHdVT20wUXQ1cml2T1ltYVJBaHdUdUdOdmVhUVFYRUJsN3kyRnNIQVV5akVQQlF2c0pFM1J6MzFBc1gzcnBwWV90RGUxbklKcg?oc=5",
+    "resolved_at": "2026-10-02T05:30:38+00:00"
   },
   "301e8fe4bc9e42a2219eefe9ee192831983c7837273e681dc7b19082ea30c815": {
     "canonical_url": "https://arxiv.org/html/2605.11268v1",
@@ -3058,6 +3082,10 @@
   "358bf3e9911c490fc3ed8078de4128b646ca94e48294641c9095f551025c0553": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/15/analysis-us-iran-peace-deal-shipping-sanctions-relief-nuclear-talks-ballistic-missiles",
     "resolved_at": "2026-06-16T05:30:13+00:00"
+  },
+  "35a4cc30b3bdbba6dada2913852fd5260bd7a612a796800696ebfa06926289ad": {
+    "canonical_url": "https://www.numismaticnews.net/precious-metals-courier-fraud-becoming-more-common",
+    "resolved_at": "2026-10-02T05:29:14+00:00"
   },
   "35a7efe81152d0450a9d28b559961bfe1cf753ef8c02457d731109bc84b931cb": {
     "canonical_url": "https://www.theguardian.com/us-news/2026/jul/06/no-country-for-mothers-film",
@@ -3599,6 +3627,10 @@
     "canonical_url": "https://www.reuters.com/legal/government/us-appeals-court-tests-limits-1986-computer-fraud-law-amazon-perplexity-ai-2026-06-11/",
     "resolved_at": "2026-06-13T04:48:28+00:00"
   },
+  "3ea5d265f44658f7021bd0fc798841d33127876501f954d4bf71b69a93164c9b": {
+    "canonical_url": "https://developers.cloudflare.com/workers-ai/models/clef/",
+    "resolved_at": "2026-10-02T05:29:27+00:00"
+  },
   "3ee41a0176c89160e0f58e687622e93c0783a0066cbcba19d18131c78021fed4": {
     "canonical_url": "https://www.straitstimes.com/world/success-after-a-century-of-failures-inside-moderna-and-mercks-cancer-vaccine-breakthrough",
     "resolved_at": "2026-08-30T05:19:30+00:00"
@@ -3907,6 +3939,10 @@
     "canonical_url": "https://www.404media.co/leaked-document-shows-the-surveillance-tech-at-ices-fingertips/",
     "resolved_at": "2026-07-25T16:26:38+00:00"
   },
+  "4488e84ef800d362652c9777a0fef17e343d32ba4e4dd0b163321643c79d2294": {
+    "canonical_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT192d21NdVk3TW50cFVjQ2lSeFJRWjZ2c2d6X2Z2TzZITE9hMFhweGlqWlFtUkdSd1VidlplVEF0SjRLSmJ1STN1b0U3TVpHU25CYTgwQlY3WjBUN1IwRURHSzhmdEpaUVdJTFI1RU8yckZmdG02eEJ1WHkzYUM0VjB3bHFvZ2tjWDN4Sk1Qb3N0OTBqT2ZzN3dLdWw4NkxEMTBmYTlvek1VUlBNeGRHUXJR?oc=5",
+    "resolved_at": "2026-10-02T05:29:54+00:00"
+  },
   "449cab0065c05a47066dd70cb501f3849784ec3375d0eeb6172aee4f239f7e79": {
     "canonical_url": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
     "resolved_at": "2026-08-13T02:43:23+00:00"
@@ -3918,6 +3954,10 @@
   "44a6774bf41dc40b8b85cecf8dc637dc8847fdc155d6471857404ced62cdc7c4": {
     "canonical_url": "https://www.wired.com/story/book-club-the-yahoo-boys-chapter-4-6/",
     "resolved_at": "2026-07-04T03:59:46+00:00"
+  },
+  "44ac820cd33a898dbe1fd35371fb087c8f3e374af2a9598e6fe79716fed8b7ee": {
+    "canonical_url": "https://www.straitstimes.com/asia/se-asia/troubled-umno-linked-firm-zetrix-owes-malaysian-government-over-63-million-in-collections-source",
+    "resolved_at": "2026-10-02T05:29:37+00:00"
   },
   "44af94db4cd6d1e799a5c3b91fbdbdbb66d2dfd1b3fc249b6044b716446484d0": {
     "canonical_url": "https://www.hellorayo.co.uk/greatest-hits/cumbria/news/police-warning-rise-courier-fraud",
@@ -4611,6 +4651,10 @@
     "canonical_url": "https://www.wired.com/story/defcon-34-badge-baochip-andrew-bunnie-huang/",
     "resolved_at": "2026-08-02T03:48:42+00:00"
   },
+  "4fce0012c0ca4e2e4f8fdcc39bba04266cbe7324a7f5505e6f138f1d13192576": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3829807.3829891",
+    "resolved_at": "2026-10-02T05:30:36+00:00"
+  },
   "4fe7f9f010637dbd9a0745a360251c14b4d92d3669001b739a976b873ca0cb67": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6825421.pdf?abstractid=6825421&mirid=1&type=2",
     "resolved_at": "2026-06-07T04:54:44+00:00"
@@ -4715,6 +4759,10 @@
     "canonical_url": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
     "resolved_at": "2026-09-21T04:50:13+00:00"
   },
+  "5124450e6927c3a1f479e141ef163897927d4ee1a6e752408dd636ef94c5ceae": {
+    "canonical_url": "https://developers.cloudflare.com/changelog/product/workers/11/",
+    "resolved_at": "2026-10-02T05:29:33+00:00"
+  },
   "5154f13f036441e643429b76970b5025ba3d7a7750d4f10cbc494e23a704541c": {
     "canonical_url": "https://graphika.com/reports/scams-fraud",
     "resolved_at": "2026-05-27T02:38:31+00:00"
@@ -4744,8 +4792,8 @@
     "resolved_at": "2026-05-25T01:06:40+00:00"
   },
   "51ae877b98ece2134dcff2894a600cd49589ac92e7d6d06b6929ab9722b127c6": {
-    "canonical_url": "https://developers.cloudflare.com/workers/previews/",
-    "resolved_at": "2026-09-25T04:51:40+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLOHdENjdFM2tubXBMU0lsYUJUWTNwdzFNcnJiU2p3dWo2TTBKQTlWN21uOFE3ajNQV2RHczE4OE1zOTNIcUxHcS1qNVc5RWF1TVduc2l1Rmo3cFNUbElRTA?oc=5",
+    "resolved_at": "2026-10-02T05:29:52+00:00"
   },
   "51b36cfe89a47a4781d41bdb2a0f38df70e7c97f5d0f4cd8c15203722934749d": {
     "canonical_url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
@@ -4937,7 +4985,7 @@
   },
   "54dd25e29b26f1a995c635a6700f39bd8bfc2d9bb67da691a1eeb191e86c9762": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7457219.pdf?abstractid=7457219&mirid=1",
-    "resolved_at": "2026-09-25T04:51:02+00:00"
+    "resolved_at": "2026-10-02T05:29:39+00:00"
   },
   "54f2ccc72c11d5426420126d3bad4b433987baf45cd3424f722e334339a9bf62": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2106894_code683092.pdf?abstractid=2101934&mirid=1",
@@ -5458,6 +5506,10 @@
   "5e3a0e3ceb5b8273527fa915c5c84ffb7b886e62825e0b2ea7e2d36169d4bf48": {
     "canonical_url": "https://www.bbc.com/news/articles/ce8ml76ne4no",
     "resolved_at": "2026-07-05T04:18:43+00:00"
+  },
+  "5e68f3a00bf3141416deba8927d1b657c2a8ee86e2706a914ca3fb63641c8534": {
+    "canonical_url": "https://arxiv.org/pdf/2609.36474",
+    "resolved_at": "2026-10-02T05:29:18+00:00"
   },
   "5e85a8b0aee43b2e189e23f7e57b3c1477055b796f7dfa7d6db0158773334e6e": {
     "canonical_url": "https://arxiv.org/pdf/2604.11752",
@@ -6493,7 +6545,7 @@
   },
   "711b7c7b3ee23583af1a3976f2a08aa2279fd756ef1bae9ba20635a7b8eff9c5": {
     "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEx6OFM4RjFPYUk4Zk9KTGlXcE14WWFKT2J3YW82dDhfZ1lpRkRTUkFDQmQ1OGFzVEVMTlcwWnVSdzkteXMxdFBHeG0wc2p1SV9sRXdQUVZkYUdneldJS0VQNkljVURWdDUzNHF5U2pKMy1KbEpLazVDTmd3bktQZGhrR2luUVU?oc=5",
-    "resolved_at": "2026-09-25T04:52:06+00:00"
+    "resolved_at": "2026-10-02T05:30:08+00:00"
   },
   "711d04b171e625404f5938ecfaf177a1e67f63ebafa04caac0ef792ab1ab6c77": {
     "canonical_url": "https://www.abc.net.au/news/2026-06-18/hsbc-bank-federal-court-hearing-scam-text/106772268",
@@ -7175,6 +7227,10 @@
     "canonical_url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
     "resolved_at": "2026-09-05T04:19:41+00:00"
   },
+  "7dc3ca90d924491edfdf72014694b4d580d8935139a1f978634cee8c4f9fb608": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/us-inmate-christa-pike-in-critical-condition-after-botched-execution-says-lawyer",
+    "resolved_at": "2026-10-02T05:29:12+00:00"
+  },
   "7dcb13551c3e12f04af354ed86236d5b76b3cea543fb9cfd05e2c1b12bd1b58c": {
     "canonical_url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
     "resolved_at": "2026-05-25T01:06:54+00:00"
@@ -7275,6 +7331,10 @@
     "canonical_url": "https://www.wired.com/story/chevron-williams-driving-data-center-boom/",
     "resolved_at": "2026-08-10T02:31:06+00:00"
   },
+  "7fa47253fd3352db7b1819cde0ab1d452130a89508df4d63543483ab6bf851fc": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/rogue-openai-agents-covered-up-tracks-after-hacking-government-websites-report-says",
+    "resolved_at": "2026-10-02T05:29:48+00:00"
+  },
   "7fa8dab5384b957589cc177cb9d3bb4953b8ec94386b7ccf888ec10598796bdf": {
     "canonical_url": "https://www.channelnewsasia.com/listen/cna938-rewind/mind-your-money-new-economics-ai-compute-costs-fraud-and-market-manipulation-6224086?field_season_value=619681&page=9",
     "resolved_at": "2026-07-02T04:20:20+00:00"
@@ -7344,8 +7404,8 @@
     "resolved_at": "2026-06-28T04:49:06+00:00"
   },
   "80939b676c6f26e9f05230e6a726045de00cb8b522fcef73db1f38224e51f8a6": {
-    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7439818.pdf?abstractid=7439818&mirid=1",
-    "resolved_at": "2026-09-25T04:52:01+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3lHQzVxemxGYWVmVEJkOUFwd1pRNE9qMlR1MWQxWExXdmhXTEtJMUYyMkQwSkRSVy00SGYyYlFfZENBUDA1Nm1Bc3B4akFMZklFRXE3ODI0R3pOaldLOWtFcmh4Y2dieEoyZUJVbktrWHNrX2FwalZEQ1BEeGdGM29DOHlDeFU?oc=5",
+    "resolved_at": "2026-10-02T05:30:03+00:00"
   },
   "8094e070f2ef27e698752b94a69b07774835aa392ec2c92653c15d5101c75267": {
     "canonical_url": "https://apnews.com/article/guo-wengui-chinese-businessman-fraud-3deb06c17c5640a5d63f0e2c72286ac8",
@@ -8412,8 +8472,8 @@
     "resolved_at": "2026-06-07T04:54:51+00:00"
   },
   "93c43a1787163b3a16f49b9b78bbae84762eece7a8a74f4c2b0b85e87b5ba46a": {
-    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7514082.pdf?abstractid=7514082&mirid=1",
-    "resolved_at": "2026-09-25T04:51:48+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0taWms2ckZXRzE0WkktX3c4ZFVrMDVxWHpUVkNDQUpmQ0dQb1JhSTNMaDF3ZTBvN0pVcnJ0SWRlakc1M0FoSXhLcmdaRGJKNlR1Vmp0YUJ0VG9oNnhvZzQwZVZZRUYtVi1fZU1DN24yWnhUd28wSTZxZEQ1eENZalBmWHdjS1k?oc=5",
+    "resolved_at": "2026-10-02T05:30:05+00:00"
   },
   "93e06d5f967360087069ea386285e1b094df2087ed33581d970aada194819f9b": {
     "canonical_url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/22/romance-scams-bank-refunds-australia",
@@ -8936,8 +8996,8 @@
     "resolved_at": "2026-08-14T02:42:59+00:00"
   },
   "9d8c8f72d1af7d7a6c68e8d7245e357622be9a19080a0825a8016079cad64bef": {
-    "canonical_url": "https://arxiv.org/pdf/2606.27709",
-    "resolved_at": "2026-09-16T04:45:38+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WUXlIY1dVQkw1bzNpRWpkNVRMbGprQkE0NGxPQzBGQkJQRFQ5MUxER2d5S0JSaHFyZG5iLVJKWXVucElFVl9R?oc=5",
+    "resolved_at": "2026-10-02T05:30:15+00:00"
   },
   "9d9b9d4c46a766c23d073ba7604c580430ce2202e33d75114b96be21b7c08b40": {
     "canonical_url": "https://jobs.theguardian.com/job/10149161/senior-principal-consultant-fraud-risk-services/",
@@ -9303,6 +9363,10 @@
     "canonical_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXQ4TFBMTVIyZEZWZXYwNGxFVkxLeXItT1ZUQWFCOTJjSHZxazQzT0tmc3V5NHFVTVVYV2pJYzJ4cGh1VWpUYk0zVXBQY2ZvamI4Nm1xX0ZuUVNERHh5MnZYTjNCMzl6dVdja3pwY2paT2xPZTFjRURXMWRQY3dXU0h5ZlA2NkhoZGtj?oc=5",
     "resolved_at": "2026-09-26T04:52:07+00:00"
   },
+  "a363634f9a4ece3f0a358a3264922f2a06648b36a18dab59bdf7ce0363f2282b": {
+    "canonical_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd2xuWTNYeGNyZ2dKOHpPNFZnYUV4bTJnbjZyOUVaRWR1TVJ1Qm50bEtYVUU2ZXRFcHNSYzlGQkd6VGMwR3BPTGEwN0ZjRDV2ZEx2Q2Q5YTRzbWc2SWl0WlVtQ0dyUTZRZlNkazFiM1dvUlY3SzFYRm14UGJKZ09lVUVvdw?oc=5",
+    "resolved_at": "2026-10-02T05:29:56+00:00"
+  },
   "a366957dada845df070229fd29fe3faf3e3bdb40c7f0317f72d5e0b13265cbe5": {
     "canonical_url": "https://www.theguardian.com/environment/2026/jun/25/australian-energy-prices-going-up-electricity-bills",
     "resolved_at": "2026-06-25T04:22:38+00:00"
@@ -9336,8 +9400,8 @@
     "resolved_at": "2026-06-06T04:18:47+00:00"
   },
   "a3f5c8b7b05227c17b23204bd5e36747359328b8ec9b758640fcac7faab7c2c8": {
-    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7458298.pdf?abstractid=7458298&mirid=1",
-    "resolved_at": "2026-09-25T04:51:52+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV09vSXNTZ1REX3FRYm1Rd2k4QlV2ajMxTzk5bE5MRDhIQVpRSHJaQUVNRHpzY0lBTG1DeEcwR0VqTUtBLThfcEh2T00zWXR5SmlkZ1hVLWcxSm94NHFzUXpyWUFqWU52UDktbDhlTU11MlUzdVpTMjFISGxEcldnUktCUnp3cWc?oc=5",
+    "resolved_at": "2026-10-02T05:30:00+00:00"
   },
   "a40ede25102ea9c88162e5d8f862905551f2c9419b54d841aa2778c8271175d4": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
@@ -9927,6 +9991,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7022538.pdf?abstractid=7022538&mirid=1",
     "resolved_at": "2026-08-14T02:41:49+00:00"
   },
+  "adcae11eed24411d6304dc58587b155dd9ac88ff2a1590a7b0fedccd73247e73": {
+    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7544022.pdf?abstractid=7544022&mirid=1&type=2",
+    "resolved_at": "2026-10-02T05:29:44+00:00"
+  },
   "adcc50d459ba19a704b8083b0a1eb58da12233bc1d4f1156e9dd07c444e09a84": {
     "canonical_url": "https://www.channelnewsasia.com/commentary/sri-lanka-scam-centre-cambodia-china-6404676",
     "resolved_at": "2026-09-24T04:41:26+00:00"
@@ -10266,6 +10334,10 @@
   "b34fa99f822fa5c65b5a1ca6f8a46fbae14de81f087199d08763190d27732ebf": {
     "canonical_url": "https://www.wired.com/story/android-is-fighting-phone-scams-with-a-new-feature-to-prove-whos-calling/",
     "resolved_at": "2026-06-06T04:19:35+00:00"
+  },
+  "b357fe552600b2d05c554fec91a3a5b7175965fbff8e8aee078e03a22265e03f": {
+    "canonical_url": "https://baguioheraldexpressonline.com/emotions-not-ignorance-can-make-people-vulnerable-to-scams-pnp-acg/",
+    "resolved_at": "2026-10-02T05:29:21+00:00"
   },
   "b35af3382c7dfa5e147c04b6e305c391b4a3ddf47c18ff0f683868f7430d92ed": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6477178.pdf?abstractid=6477178&mirid=1",
@@ -10663,6 +10735,10 @@
     "canonical_url": "https://dl.acm.org/doi/10.1145/3820253.3820258",
     "resolved_at": "2026-08-28T11:19:05+00:00"
   },
+  "ba51f4dcee9481da68f4b3ecd6e338bf2da8180241a7457b33cf3f9b45408cf1": {
+    "canonical_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXg5bTA0ZVg4RV9aSDBldnY5UGk1VmtQVlRwc1k5VkcxeGVmb05SWXA1ejA2dHpRLVI2RFFsZmhWcjdGWnBsU2ZpZjc2VXBQMGNhRjZ6dy1lSFZfQ2tTQ25hbDB4dzNMWEZWcWpTa2w5bGtta3p6Q1VYMkZLOGNJOHU2aDQ5a2c3NE1wVVlnS20?oc=5",
+    "resolved_at": "2026-10-02T05:30:13+00:00"
+  },
   "ba5f36499fefca8c5a7d078b691bf31ba8fae4ca3f0594342fd2d09d215c63e9": {
     "canonical_url": "https://arxiv.org/html/2608.14577v1",
     "resolved_at": "2026-08-26T01:56:15+00:00"
@@ -10680,8 +10756,8 @@
     "resolved_at": "2026-07-06T04:37:49+00:00"
   },
   "bb0e987a360c37377bcbed2d79589510519b09386d23fa80a8327a18178350b5": {
-    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7031038.pdf?abstractid=7031038&mirid=1",
-    "resolved_at": "2026-08-02T03:49:33+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEFZMG5fcXdWWFNMRFJvRmF0UExzLUFuRzB1WU9aVkQxd3d6MFFvajhMN0JaejdjR1p4VUtjTzlvVktaVEJKRUtaaW5ORFZVMmtfWkJlUUx3MjhPSjUyMktoSlp1Yjh0c2IyWldOS0RJNzdUYjdJVkhCWG44ay1Jd2ktTWsycGc?oc=5",
+    "resolved_at": "2026-10-02T05:30:10+00:00"
   },
   "bb201dd8c4dfc01cf54a410a19820f997461d19e8cba33647a35b6ec70b50529": {
     "canonical_url": "https://arxiv.org/html/2509.23573v5",
@@ -10919,6 +10995,10 @@
     "canonical_url": "https://www.channelnewsasia.com/listen/cna938-rewind/singaporeans-are-not-only-working-scam-syndicates-they-are-funding-them-sgtoday-6255976",
     "resolved_at": "2026-07-16T03:34:15+00:00"
   },
+  "bf7e195263d251f7d913f87cb4d2f17513698f8de4bcdff45a443420812631de": {
+    "canonical_url": "https://dl.acm.org/doi/10.1145/3829807.3829891",
+    "resolved_at": "2026-10-02T05:29:10+00:00"
+  },
   "bfa1f2e202da77c3dc76e1296e8fb388831a2b33949eb385c194b74fd6965dab": {
     "canonical_url": "https://www.straitstimes.com/singapore/health/new-health-guidelines-osteoporosis-screening-recommended-breast-cancer-scans-to-start-earlier",
     "resolved_at": "2026-09-07T04:30:54+00:00"
@@ -11085,7 +11165,7 @@
   },
   "c2caac2406c624ac511322b12d4a23ff335f3b7d376b10f1f4654d4b6d43baf0": {
     "canonical_url": "https://arxiv.org/html/2605.14152v2",
-    "resolved_at": "2026-09-25T04:51:35+00:00"
+    "resolved_at": "2026-10-02T05:29:50+00:00"
   },
   "c2da0c13fbaef4e6ffda185d6d4412bd1be8fabf922efbc9464721bf66bfa8eb": {
     "canonical_url": "https://apnews.com/article/trump-dc-golf-course-mayor-lewis-george-b6b32b4a989728ed15e3cb2dab19a113",
@@ -11286,6 +11366,10 @@
   "c65bc06533be5fd4f8fdd19339f8b4c07f7ba64bd02382d8497e6cf68ea12121": {
     "canonical_url": "https://www.reuters.com/legal/government/trump-invested-crypto-gains-stocks-bonds-filings-show-2026-07-13/",
     "resolved_at": "2026-07-14T03:30:23+00:00"
+  },
+  "c6751a35dfb1bf63710565e3b5943f8ba0b507c053a957911dad29f8171b0ad0": {
+    "canonical_url": "https://developers.cloudflare.com/workers-ai/models/apertus-v1.5-8b/",
+    "resolved_at": "2026-10-02T05:29:29+00:00"
   },
   "c69575cc309c247371c42095406e0d502cfb3f0001092aa38fc9afe7fd01cae7": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7280999.pdf?abstractid=7280999&mirid=1&type=2",
@@ -12455,6 +12539,10 @@
     "canonical_url": "https://www.ndss-symposium.org/ndss-paper/auto-draft-724/",
     "resolved_at": "2026-06-01T04:10:52+00:00"
   },
+  "da54bf2ae1163338b3f76692ce44dcd31141788a5b3a997654ad8c2cab9c8991": {
+    "canonical_url": "https://arxiv.org/html/2609.38246v1",
+    "resolved_at": "2026-10-02T05:29:16+00:00"
+  },
   "da57e09ce4bf6cde7b1c31e8c60f7b47a8ef2852e240c76359c59c4b55adb13f": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/09/rotterdam-world-cup-curacao-cape-verde-morocco-turkey-fans-dutch-city",
     "resolved_at": "2026-06-10T04:45:22+00:00"
@@ -12863,6 +12951,10 @@
     "canonical_url": "https://arxiv.org/html/2110.13424v4",
     "resolved_at": "2026-08-28T11:19:00+00:00"
   },
+  "e0ccad2285297849afd90be5a72190e0589670e9ccf50bca62872d71b3353ad5": {
+    "canonical_url": "https://www.numismaticnews.net/precious-metals-courier-fraud-becoming-more-common",
+    "resolved_at": "2026-10-02T05:30:38+00:00"
+  },
   "e0f0f9d1e5905f42853a1e18a3812de11b10e0b82ef0c4415b07c1036f1acd7f": {
     "canonical_url": "https://www.theguardian.com/world/2026/jul/08/race-discrimination-case-netherlands-swimming-pool-dutch-paradox",
     "resolved_at": "2026-07-09T04:11:36+00:00"
@@ -12950,6 +13042,10 @@
   "e24c7dc16e1d2c773d57811e9423099abae1fe5b9ffd473ea23695b528fc901d": {
     "canonical_url": "https://arxiv.org/html/2102.04257v3",
     "resolved_at": "2026-08-13T02:43:18+00:00"
+  },
+  "e266f05bca9a2e313f2c5daf9d064ca4b6759f0399946162e3b8a96b6536b86c": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/execution-of-tennessee-woman-appears-to-have-failed-witnesses",
+    "resolved_at": "2026-10-02T05:29:34+00:00"
   },
   "e268ee7fca32486618d587d02b5a291a0a95997a0752fee1141da6a6ba097f2f": {
     "canonical_url": "https://developers.cloudflare.com/tunnel/get-started/",
@@ -14152,8 +14248,8 @@
     "resolved_at": "2026-06-12T05:02:34+00:00"
   },
   "f79ca41793ad9d5e5c6352caf4acf8564fd1d6319e24dd525d814549e9e32e72": {
-    "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7280999.pdf?abstractid=7280999&mirid=1",
-    "resolved_at": "2026-09-25T04:51:50+00:00"
+    "canonical_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZkVCRmJ2bjJOMHFrZEtMaGhoVk9xamp4X1U5OEFaNk1yRnA3UlFGeTljRGJQM2NrOVhKdHlwaERsbW92MUtTblpCVzhzaGJ2WWlCWWxHWGZFWDBxdU5PSER6UU80WGQ4SHlzcndQTWZIekdtbThSd2Nxbk1sTUg5T3ZidWFNVHc?oc=5",
+    "resolved_at": "2026-10-02T05:29:58+00:00"
   },
   "f79d82fd27a983f7018dd3e01801703eb5dcaae92a240376dcc99e5d9dcf6655": {
     "canonical_url": "https://www.bbc.com/pidgin/articles/c992d7597l3o",
@@ -14210,6 +14306,10 @@
   "f832cb13d3da888edd58758624c28138e0cab9f0d54b697aa9400f01a51b10d7": {
     "canonical_url": "https://arxiv.org/html/2603.26520v1",
     "resolved_at": "2026-06-27T04:16:30+00:00"
+  },
+  "f83b42abc4375c9592854c03e045fa1c00fe9b2cb3b4c7881e80deed8bd56152": {
+    "canonical_url": "https://arxiv.org/pdf/2609.17839",
+    "resolved_at": "2026-10-02T05:29:20+00:00"
   },
   "f845c23f8c0f3560859131f019d531bd29062df8090dcc17dad5cc8a61249256": {
     "canonical_url": "https://www.theguardian.com/world/2026/jun/26/cape-verde-world-cup-run-delights-diaspora-community-uk",
