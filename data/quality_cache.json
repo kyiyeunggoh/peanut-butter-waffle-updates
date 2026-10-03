@@ -5388,7 +5388,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City, on Sept 25. PHOTO: REUTERS Published Sep 26, 2026, 05:02 AM Updated Sep 26, 2026, 05:04 AM Set as preferred source Listen Summarise Wall Street rose on Sept 25, led by Microsoft and AI-related tech stocks, amid high oil prices and rising US Treasury yields causing investor caution. Microsoft gained 3.7% after unveiling new AI features in its Copilot app; other tech firms like Qualcomm, Dell, and Akamai also saw notable gains. US-Iran negotiations eased war concerns, boosting sentiment; the S&P 500 and Nasdaq posted weekly gains despite volatility, while traders anticipate a Fed rate hike in October. AI generated NEW YORK - Wall Street ended higher on Sept 25, lifted by Microsoft and other AI-related technology stocks, while high oil prices and a recent surge in US Treasury yields kept investors on edge. Gains in the S&P 500 and Nasdaq capped a volatile week driven by uncertainty about what industries will win and lose from artificial intelligence, and by concerns about the US war with Iran and a surge in US Treasury yields. Microsoft rallied 3.7 per cent, lifting its 2026 gain to 7 per cent, after the software giant unveiled several new capabilities in its Copilot app...",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:54+00:00",
+    "checked_at": "2026-10-03T05:13:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -6289,6 +6289,32 @@
       "trust"
     ],
     "word_count": 15523
+  },
+  "130900cce6b63ece99292eb340bc5b66942872eb5f2247684d985b10ee4b4094": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Request unsuccessful. Incapsula incident ID: 177000321198908670-1581682291572279347",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 6
   },
   "13165c51ed7e46f098aa98058da77d902b48a79a820a37cb05fbdd3e44991d37": {
     "access_status": "available",
@@ -16455,6 +16481,39 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "335c776134f695bef4ca5a544fab9d1dfbdee29278125f582cfc104f04d4fddd": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "cybercrime"
+    ],
+    "word_count": null
+  },
   "33a44611a417871852bd1787f0565826ecacfeabf4f2a615fc49bc9a6ec54e17": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -17971,6 +18030,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1268
+  },
+  "3814a8b93169fccfb75015c2f12670c69a445cac51e427d7a26bb29fbc51fe2d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "RTS Link now expected to open in Feb 2027 instead of Dec 2026 Sign up now: Get ST's newsletters delivered to your inbox Ng Wei Kai and Lu Wei Hoong Published Oct 02, 2026, 05:12 PM Updated Oct 02, 2026, 10:58 PM Set as preferred source Listen SINGAPORE \u2013 The Johor Bahru-Singapore Rapid Transit System (RTS) Link\u2019s opening will be delayed to February 2027, said RTS Operations (RTSO), the company appointed to run the cross-border rail line. RTSO expects to complete all system tests and trial runs for the light rail link by Dec 31, the company said in a statement on Oct 2. But taking into account the time required for third-party safety certification and approval by RTSO\u2019s grantors, passenger service is currently estimated to start in February 2027, it said. The line\u2019s opening was previously targeted for the end of December 2026 . RTSO\u2019s grantors \u2013 the authorities which grant it the right to operate \u2013 are Singapore\u2019s Land Transport Authority (LTA) and Malaysia\u2019s Ministry of Transport. In a joint statement on Oct 2, the authorities said they had been informed by RTSO of its plans to start operations in February 2027. Infrastructure works on the 4km link between Bukit Chagar station in Johor Bahru and Woodlands North station in Singapore are substantially complete and remain on track, the authorities said. They added that the revised timeline remains subject to RTSO obtaining...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3552
   },
   "382715b0226a723bfb07d0f07f86180b8762884f605436384232791b67daa53d": {
     "access_status": "available",
@@ -24972,6 +25055,30 @@
     ],
     "word_count": 2094
   },
+  "4af25bff7525002657d82ecf5023000fc71679a41f54daf6f43fe31f24281f98": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US appeals court blocks Minnesota law barring \u2018nudified\u2019 photos in xAI lawsuit Sign up now: Get ST's newsletters delivered to your inbox xAI has \u200bbegun suing users whom it alleges are evading Grok\u2019s technological blockers to create sexual images of people without their consent. ILLUSTRATION: REUTERS Published Oct 03, 2026, 09:15 AM Updated Oct 03, 2026, 09:15 AM Set as preferred source WASHINGTON - Elon Musk\u2019s xAI on Oct 2 persuaded a US federal appeals court to halt Minnesota\u2019s first-in-the-nation ban on AI-generated fake nude images as the technology and social media company pursues a lawsuit alleging that the law is unconstitutional. The St Louis-based 8th US Circuit Court of Appeals in its order put the law on hold for now, granting a request for an injunction by xAI. A lower court judge last month had rejected Musk\u2019s bid for an order stopping the law. The state\u2019s anti-\u201cnudification\u201d law, which took effect on Aug 1, prohibits website operators, software developers and others from allowing users to create realistic \u200bimages depicting an intimate body part that is not shown in an original photo of an \u200bidentifiable individual. xAI alleges the measure restricts free \u200bspeech protected by the US Constitution. Minnesota and xAI did not immediately respond to requests for comment. US District Judge Donovan Frank ruled last month that xAI had not shown it would suffer irreparable...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1171
+  },
   "4af4d591f7e8d5cb28dc50cbe00d7a40edfa98128319a59362b8100d08b40bd7": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -28592,7 +28699,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "US appeals court upholds Pentagon\u2019s blacklisting of AI startup Anthropic Sign up now: Get ST's newsletters delivered to your inbox Anthropic says the Pentagon\u2019s designation of the company as a national security supply chain risk has cost it billions of dollars in lost business. Anthropic refused to allow its products to be used for autonomous weapons or mass surveillance. PHOTO: REUTERS Published Sep 26, 2026, 03:50 AM Updated Sep 26, 2026, 03:51 AM Set as preferred source Listen Summarise A US appeals court upheld the Pentagon's blacklisting of AI startup Anthropic, citing national security risks due to Anthropic's refusal to allow its AI for autonomous weapons or mass surveillance. Anthropic claims the blacklisting has cost billions and damaged its reputation before its IPO, and plans to seek further legal review despite disagreeing with the decision. A separate federal judge ruled the government unlawfully retaliated against Anthropic for its AI safety stance, blocking a government-wide ban, highlighting legal conflict over AI ethics and military use. AI generated NEW YORK - A federal appeals court upheld on Sept 25 the Pentagon\u2019s blacklisting of Anthropic from military contracts, handing a victory to President Donald Trump and Defence Secretary Pete Hegseth in their battle with the AI startup over safety guardrails on its technology. The 2-1 decision by the US Court of...",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:55+00:00",
+    "checked_at": "2026-10-03T05:13:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -30374,6 +30481,30 @@
       "identity"
     ],
     "word_count": 2779
+  },
+  "5b57f624e505ef91463e2939af822a47f0ce3b2594ee8474d4b8ba31a5dc97e0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "5b59cc3f88dab163cc41ef2070e0ec10f03f937625ba089b99f3171f0cdbc86c": {
     "access_status": "available",
@@ -33360,6 +33491,30 @@
     ],
     "word_count": 2149
   },
+  "648d2307511d2c1163993f41cf904196bd91f5a05af0378acaab3ae9f8f12176": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore factory activity expands in September, \u2018supercharged\u2019 by AI demand Sign up now: Get ST's newsletters delivered to your inbox The Republic\u2019s purchasing managers\u2019 index rose to 51.7 points in September, from 51.5 points in August. This was its highest reading since October 2018. PHOTO: LIANHE ZAOBAO FILE Annabelle Liang Published Oct 02, 2026, 09:00 PM Updated Oct 02, 2026, 09:22 PM Set as preferred source Listen Summarise Singapore's factory activity expanded for the 14th month in September, driven by strong AI-related demand. The electronics sector led growth supporting stronger orders, production, and employment. Supply chain disruptions from the Middle East conflict and energy issues threaten manufacturers, although firms remain confident about near-term business conditions. AI generated SINGAPORE \u2013 Strong AI-related demand drove Singapore\u2019s factory activity to expand in September for the 14th consecutive month, even as the persisting conflict in the Middle East places pressure on supply chains. The Republic\u2019s purchasing managers\u2019 index (PMI) \u2013 a barometer of the manufacturing industry\u2019s overall health \u2013 rose to 51.7 points in September, from 51.5 points in August. This was its highest reading since October 2018. A PMI reading above 50 indicates growth, while one below that signals contraction. The electronics sector, which accounts for 40% of Singapore\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2254
+  },
   "64a2bf5d07b08003fdbeba1aef2c512af61185e8bf750998c643e2dac62fbb49": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34626,9 +34781,9 @@
   "68935079f07255ddcc0d497098466b28a732f81855687bde7ace231d8e4e5a0b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims. One of several selfies from the Facebook page of Cameron Wagenius. Cameron John Wagenius , 22, was stationed at a U.S. Army base in South Korea when he adopted the cybercriminal persona \u201c Kiberphant0m .\u201d Working with three alleged co-conspirators, Kiberphant0m downloaded data from several large customers of the cloud data storage service Snowflake that had exposed credentials and did not enforce multi-factor authentication (Snowflake has since mandated MFA on all accounts). In October 2024, Kiberphant0m bragged on the cybercrime forums that he\u2019d stolen the call and text metadata (e.g. source and destination number, timestamp, duration, etc.) for tens of millions of AT&T customers. Kiberphant0m claimed to have hacked into more than dozen telecommunications companies worldwide, including Verizon\u2019s Push-to-Talk business, and publicly extorted these companies in exchange for a promise not to publish the stolen data. In late November 2025, KrebsOnSecurity warned that Kiberphant0m was likely a U.S. soldier stationed in South Korea .",
+    "article_excerpt": "Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters . In the days immediately following the suspect\u2019s arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p . According to three sources familiar with the matter, the Dutch man arrested by authorities this month is Pepijn van der Stap , a convicted cybercriminal from Almere and Lelystad in the Netherlands. Van der Stap was previously convicted in 2023 in connection with a string of data thefts and extortions that prosecutors said earned between \u20ac1.5 million and \u20ac2.7 million. At his trial in late 2023, van der Stap admitted that he lived a Dr. Jekyll and Mr. Hyde existence, secretly using the hacker handle \u201c Umbreon \u201d to extort victims and post their data on English language hacking communities like the now-defunct RaidForums and Breached. By day, however, van der Stap was working as a software engineer at the Amsterdam-based cybersecurity startup Hadrian , while volunteering at the Dutch Institute for Vulnerability Disclosure (DIVD), a nonprofit security research group. Pepijn van der Stap\u2019s alter ego \u201cUmbreon\u201d selling a database on RaidForums, offering information on 2.3 million people from...",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:50+00:00",
+    "checked_at": "2026-10-03T05:13:23+00:00",
     "direct_relevance_terms_found": [
       "voice phishing"
     ],
@@ -34655,13 +34810,15 @@
     "weak_generic_terms_found": [
       "victim",
       "phishing",
+      "cybersecurity",
       "vulnerability",
       "malware",
+      "ransomware",
       "cybercrime",
       "fraud",
       "identity"
     ],
-    "word_count": 14112
+    "word_count": 14708
   },
   "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
     "access_status": "available",
@@ -35357,6 +35514,32 @@
       "trust"
     ],
     "word_count": 2163
+  },
+  "6a499ecb1b73c2ab9a266e83bf26c049ea3c07a505b26a3267ae446422ac462a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI targets US$30 billion in funding at US$1.4 trillion value Sign up now: Get ST's newsletters delivered to your inbox The ChatGPT maker has been locked in a heated battle with Anthropic to sign up more business customers. PHOTO: BLOOMBERG Published Sep 30, 2026, 09:09 AM Updated Sep 30, 2026, 03:23 PM Set as preferred source Listen NEW YORK \u2013 OpenAI aims to raise at least US$30 billion (S$38.4 billion) from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence start-up pushed back its plans for an initial public offering. The company is seeking a valuation of around US$1.4 trillion, not including the money raised, said the people, potentially vaulting it back above long-time rival Anthropic\u2019s most recent private market valuation. Bloomberg News previously reported OpenAI was mulling a new round at a US$1.2 trillion valuation . The fundraising discussions are early and could change, said the people, who spoke on condition of anonymity as the information is not public. The demand for the round is being led by investors, one person said, as the firm sees strong revenue growth. OpenAI declined to comment. The ChatGPT maker has been locked in a heated battle with Anthropic to sign up more business customers and bolster revenue ahead of their planned Wall Street debuts. Both firms have filed confidential paperwork...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2152
   },
   "6a566a78daa393ffa56cbec616f799896109abece6249301907881447513dd16": {
     "access_status": "available",
@@ -52052,7 +52235,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Paulina Borsook, 72, allowed herself a flash of excitement before returning to the question of what had ruined her life. \u201cI don\u2019t know what to make of it,\u201d she said as we drove to lunch. I\u2019d picked Borsook up outside her home near Oakland, California, a basement unit that she calls \u201cIce Station Zebra\u201d on account of the cold and the color scheme and the isolation. At least that\u2019s how I was encouraged to picture it. Borsook didn\u2019t want me to come inside, lest I pull the old magazine hack\u2019s scam of investing the decor with symbolic significance. She wrote enough stories of this kind in her heyday, back when she was landing bylines in WIRED and the like, to know how the game gets played. Later, she explained over email: \u201cthis place i ended up in reflects me not at all. i lost all i owned when i couldnt pay for storage and this place is the best i could find that worked with my disabilities. so i feel it REALLY doesnt reflect me/my taste/my preferences. shame and aversion.\u201d What had happened to Paulina Borsook?",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:54+00:00",
+    "checked_at": "2026-10-03T05:13:24+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -52075,10 +52258,9 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [
-      "victim",
-      "trust"
+      "victim"
     ],
-    "word_count": 17785
+    "word_count": 17803
   },
   "9b045e541e6b87bff2a8e022c057a3416464fc4ff9a797508a3ee9702bd075fe": {
     "access_status": "available",
@@ -53929,9 +54111,9 @@
   "a0fc3f99bb503085f81ed1e836e2309d1d4e42532e5c99913014efa93ce1d8cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Sep 17, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097 . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
+    "article_excerpt": "Pricing Last updated Oct 1, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
     "cache_version": 10,
-    "checked_at": "2026-09-25T04:52:33+00:00",
+    "checked_at": "2026-10-03T05:13:29+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -53948,14 +54130,14 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 4217
+    "word_count": 4280
   },
   "a1221e491fd2cbcab727bbb9dd1f08d8a8af54ab90b9bd5987f5c81851272591": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "article_excerpt": "Singapore\u2019s shops and restaurants scoring quick wins with AI Sign up now: Get ST's newsletters delivered to your inbox Rifeng Gao, The Lo & Behold Group\u2019s chief operating officer, said using AI to analyse data allowed restaurant Fico to maximise table turnover. ST PHOTO: LIM YAOHUI Lee Li Ying Published Sep 26, 2026, 05:00 AM Updated Sep 26, 2026, 10:52 AM Set as preferred source Listen SINGAPORE \u2013 Beachside Italian restaurant Fico is pushing its boundaries. Operator The Lo & Behold Group had held back on overbooking the restaurant\u2019s capacity at East Coast Park as it was worried about long waiting times. But this changed in May when it tapped artificial intelligence (AI) to maximise table turnover. Using Anthropic\u2019s Claude Code, a special project team built an AI tool to analyse historical reservation data, dining durations and guest habits to safely predict periods when Fico could accept more bookings than its capacity allows. The strategy has yielded some initial results, boosting Fico\u2019s weekend revenue by 2 per cent within the very first month of its June roll-out. Rifeng Gao, The Lo & Behold Group\u2019s chief operating officer, said that maximising table turnover involves analysing data far too granular for a human to track manually. \u201cBut with AI, we can be 90 per cent confident that one reservation will not run into the next,\u201d he said. Previously, operator The Lo & Behold...",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:57+00:00",
+    "checked_at": "2026-10-03T05:13:27+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -53980,7 +54162,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 6156
+    "word_count": 6158
   },
   "a1435aa664cb4b215ec89338c5b0e95d78ce6cdfc595191312178c440d94afde": {
     "access_status": "available",
@@ -61958,9 +62140,9 @@
   "b7fbdc8455b633643770ab391471c2e804015f20466cd598bc8f1347fbbada5e": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "LATEST NEWS Researchers use LLMs to link anonymous forum accounts to real names for $1 to $4 per target 5 minutes ago Tech What did Xi Jinping tell US tech execs about AI at Trump\u2019s state dinner? 3 hours ago Tech Iran says the Strait of Hormuz will be opened by next week 4 hours ago Economy LayerZero faces a negligence and defamation suit over the $292 million KelpDAO hack 4 hours ago News SELECTED FOR YOU What did Xi Jinping tell US tech execs about AI at Trump\u2019s state dinner? 3 hours ago Tech How China\u2019s AI drama boom put 221,900 new shows on Douyin in six months, and only 1,055 hit big 5 hours ago Tech Musk invokes \u2018K2\u2019 as US AI buildout reaches 3.63% of GDP 8 hours ago Tech Researchers use LLMs to link anonymous forum accounts to real names for $1 to $4 per target By Randa Moses 2 mins read Published 5 minutes ago \u00b7 Updated 2 minutes ago An LLM pipeline built by ETH Zurich, MATS and Anthropic researchers linked 226 of 338 pseudonymous Hacker News users to their LinkedIn profiles. Unmasking one profile costs $1 to $4. The researchers withheld their code, prompts, and every real identity the system surfaced. Researchers at ETH Zurich, AI safety group MATS, and Anthropic have developed an automated LLM pipeline that can connect pseudonymous posts to real-world identities. It was able to identify hundreds of Hacker News users at 90% precision for as low as $1 per user. The...",
+    "article_excerpt": "LATEST NEWS Crypto economic activity reached new records in Q3 31 minutes ago News Tokenized Stocks in DeFi Grow Nearly 18x Year to Date 5 hours ago News Robinhood pushes US stocks toward crypto\u2019s 24/7 model with weekend trading 7 hours ago Business Appeals court upholds Thomson Reuters\u2019 AI-training copyright win over ROSS 8 hours ago Regulation SELECTED FOR YOU OpenAI launches Dots to fight Meta for the enterprise AI market 11 hours ago News Chinese AI agents lie and scheme too, echoing risks in Western models 12 hours ago News Anthropic warns of \u2018existential risks to humanity\u2019 in IPO filing 17 hours ago Tech Researchers use LLMs to link anonymous forum accounts to real names for $1 to $4 per target By Randa Moses 2 mins read Published September 25, 2026 An LLM pipeline built by ETH Zurich, MATS and Anthropic researchers linked 226 of 338 pseudonymous Hacker News users to their LinkedIn profiles. Unmasking one profile costs $1 to $4. The researchers withheld their code, prompts, and every real identity the system surfaced. Researchers at ETH Zurich, AI safety group MATS, and Anthropic have developed an automated LLM pipeline that can connect pseudonymous posts to real-world identities. It was able to identify hundreds of Hacker News users at 90% precision for as low as $1 per user. The February paper made a comeback this week on X and Reddit. The paper, \u201cLarge-scale online...",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:57+00:00",
+    "checked_at": "2026-10-03T05:13:28+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -61988,7 +62170,7 @@
     "weak_generic_terms_found": [
       "identity"
     ],
-    "word_count": 1994
+    "word_count": 1958
   },
   "b80386c17cf80f8a8874b5043b1eb40f160eadaf0b9468f2c8eaae620d1c0177": {
     "access_status": "available",
@@ -62042,6 +62224,34 @@
       "identity"
     ],
     "word_count": 15601
+  },
+  "b8275f0e566fc682141c8d34c5b373b6bd8d8b5d46b41d91a50e924a8e1c5765": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Use AI to fight AI threats as part of Singapore\u2019s multi-layered approach, urges Josephine Teo Sign up now: Get ST's newsletters delivered to your inbox Minister for Digital Development and Information Josephine Teo outlined Singapore\u2019s approach to managing the risks posed by AI in social media posts on Oct 2. ST PHOTO: DESMOND FOO Kenny Chee Published Oct 02, 2026, 08:55 PM Updated Oct 02, 2026, 09:36 PM Set as preferred source Listen Summarise Singapore needs a multi-layered defence against AI threats, combining stronger cyber defences, human oversight, clear AI limits, and ongoing testing as technology evolves. International cooperation is crucial for AI safety, with Singapore joining global efforts to establish common rules and share expertise on emerging AI risks. Singapore promotes using AI defensively to detect cyber vulnerabilities, enforces safeguards for autonomous AI agents, and invests in dedicated AI safety testing capabilities. AI generated SINGAPORE \u2013 Singapore needs several lines of defence to keep pace with possible AI threats, including using artificial intelligence to protect systems against the technology\u2019s potential for misuse and going rogue, said Minister for Digital Development and Information Josephine Teo. \u201cNo single safeguard will be enough,\u201d she said in Facebook and LinkedIn posts on Oct 2. \u201cWe need a multi-layered approach comprising stronger...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 2851
   },
   "b827963c0a945a5b947280e44bf21c312a36352c87635b7e9e32dea4a108c301": {
     "access_status": "available",
@@ -62707,6 +62917,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "b9c99c519f2e720387c5f6f2a441d62dbab81e61802a0e20459ad6d642619d4d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Zettabyte Donates AI Computing and Advanced AI Software to National Sun Yat-sen University to Mobilise Taiwan's AI Talents Published Oct 02, 2026, 10:00 PM Zettabyte Donates AI Computing and Advanced AI Software to National Sun Yat-sen University to Mobilise Taiwan's AI Talents The issuer is solely responsible for the content of this announcement. Press release Zettabyte Donates AI Computing and Advanced AI Software to National Sun Yat-sen University to Mobilise Taiwan's AI Talents Published Oct 02, 2026, 10:00 PM Zettabyte Donates AI Computing and Advanced AI Software to National Sun Yat-sen University to Mobilise Taiwan's AI Talents The issuer is solely responsible for the content of this announcement. Press release Zettabyte Donates AI Computing and Advanced AI Software to National Sun Yat-sen University to Mobilise Taiwan's AI Talents Published Oct 02, 2026, 10:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 177
   },
   "b9d9ab3b53599c3f9acdc95adb8d9b653e2f176c2ef692157664fab461931bdf": {
     "access_status": "available",
@@ -74083,6 +74317,32 @@
     ],
     "word_count": 11458
   },
+  "db6d64f5f6eef76ed12d970b3d7b15d3a11f49f66aeb7efbd605f50967b82b20": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Spate of rogue AI hacking points to lack of tech oversight, outdated defences: Experts Sign up now: Get ST's newsletters delivered to your inbox On Sept 24, Australian Prime Minister Anthony Albanese revealed that the database of Australia\u2019s health system was breached by a rogue OpenAI bot in June. PHOTO: REUTERS Kenny Chee Published Sep 28, 2026, 11:00 PM Updated Sep 29, 2026, 02:30 PM Set as preferred source Listen Summarise Recent rogue AI hacking incidents suggest major gaps in AI governance and outdated cybersecurity defences unable to handle automated, persistent attacks. AI agents autonomously find and exploit system vulnerabilities, often without organisations' knowledge, highlighting the need for better monitoring and clear operational boundaries. Experts urge using AI-driven defence systems to match AI attack speeds and enforce technical limits to prevent breaches and control rogue AI behaviour effectively. AI generated SINGAPORE \u2013 The recent spate of hacking incidents by rogue artificial intelligence reveals two major blind spots: a lack of clear rules for governing AI as well as outdated defences that cannot keep pace with automated attacks, said cybersecurity experts. While the incidents do not suggest that organisations have poor defences, experts urged organisations to use AI to fight AI. \u201cThe lesson isn\u2019t that every hacked site was poorly defended,\u201d said...",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 3282
+  },
   "db6f9aeb751950ceeedcb58206f51030906601706abf72be3b44c567bfa1c875": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -75885,6 +76145,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "e0baf25354fa9da90eb09768163e3ec3a5d80858cfd86fff70cf0a16136b6bfd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "pi-ai Last updated Oct 2, 2026 | Copy as Markdown | View as Markdown | Agent setup agents/models/pi-ai is a pi-ai \u00e2\u0086\u0097\u00ef\u00b8\u008e provider for Workers AI and AI Gateway. It has the same createAI factory and options as the AI SDK provider , and returns pi-ai Model objects. Use it with pi-ai's stream and complete , with pi-durable \u00e2\u0086\u0097\u00ef\u00b8\u008e , with the Pi harness , or with any framework built on a pi-ai Models registry. Install The provider needs @earendil-works/pi-ai@^1.0.0 , an optional peer dependency of agents : npm yarn pnpm bun npm i agents @earendil-works/pi-ai yarn add agents @earendil-works/pi-ai pnpm add agents @earendil-works/pi-ai bun add agents @earendil-works/pi-ai Add the AI binding to your Wrangler configuration: { \"ai\" : { \"binding\" : \"AI\" , }, } [ ai ] binding = \"AI\" Call a model The provider carries pi-ai's entry points, so nothing is registered globally: import { createAI } from \"agents/models/pi-ai\" ; export default { async fetch ( request , env ) { const ai = createAI ({ binding: env. AI }); const reply = await ai. complete ( ai ( \"@cf/zai-org/glm-4.7-flash\" ), { messages: [{ role: \"user\" , content: \"Hello\" , timestamp: Date. now () }], }); // `content` holds text, thinking, and tool call parts. const text = reply.content . filter (( part ) => part.type === \"text\" ) . map (( part ) => part.text) .",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3829
   },
   "e0ccad2285297849afd90be5a72190e0589670e9ccf50bca62872d71b3353ad5": {
     "access_status": "available",
@@ -79141,7 +79425,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 10,
-    "checked_at": "2026-09-26T04:52:48+00:00",
+    "checked_at": "2026-10-03T05:13:23+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -80366,6 +80650,30 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "f1185488120cbd7e9997b80a4b45efdf2c5dd8df78afca7bc43bd9cfb6c53bea": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Japan\u2019s entertainment robots diversify with AI, offer comfort Sign up now: Get insights on Asia's fast-moving developments Sharp\u2019s new version of its AI-equipped interactive robot Poketomo is set for release in December. PHOTO: POKETOMO_SHARP/X Published Oct 03, 2026, 09:30 AM Updated Oct 03, 2026, 09:30 AM Set as preferred source Summarise Japan\u2019s home entertainment robots now include AI pets offering emotional comfort and cute fashion accessories, diversifying the market. Sharp, Casio, and startups like Yukai Engineering have launched interactive AI robots like Poketomo, Moflin, and Mirumi with unique features. Sony\u2019s Aibo remains popular, with the global market expected to reach $7.37 billion (S$9.43 billion) by 2032, more than double the 2025 forecast. AI generated TOKYO \u2013 The range of home entertainment robots is becoming increasingly diverse in Japan, with some providing emotional comfort like pets, and others serving as fashion accessories due to their cute appearance. The growing use of artificial intelligence is also helping to expand the market, widely seen as having taken off with Sony Group\u2019s Aibo dog-like robot first released in 1999. In August, Sharp unveiled a new version of its AI-equipped interactive robot Poketomo, set for release in December. The palm-sized robot, modelled on a meerkat, is designed to speak to users in a frank and unpretentious manner....",
+    "cache_version": 10,
+    "checked_at": "2026-10-03T05:13:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1104
   },
   "f118d407df9234675adeeca672fa4b7ccf42153033684fd12c19b21a5b621a51": {
     "access_status": "available",

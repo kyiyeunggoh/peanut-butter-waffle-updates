@@ -4085,6 +4085,40 @@
       "raw_candidate_count": 7031,
       "date_filtered_candidate_count": 883,
       "ranked_unseen_candidate_count": 30
+    },
+    {
+      "date": "2026-10-03",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": true,
+      "estimated_input_tokens": 3481,
+      "estimated_output_tokens": 1100,
+      "estimated_cost_usd": 0.00252,
+      "actual_prompt_tokens": 2987,
+      "actual_output_tokens": 51,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": 3038,
+      "actual_cost_usd": 0.000823,
+      "gemini_attempts": 1,
+      "gemini_max_attempts": 3,
+      "gemini_failed_attempts": [],
+      "gemini_items_without_takeaways": [],
+      "rejected_must_include": [],
+      "mix_constraints_satisfied": false,
+      "failed_constraints": [
+        "No eligible articles found. The provided candidate is a general business/AI adoption story with no relevance to anti-scam product work, fraud methodology, or adversarial intelligence."
+      ],
+      "candidate_count": 30,
+      "shortlist_count": 1,
+      "sent_count": 2,
+      "candidate_cache_used": false,
+      "cache_fallback_used": false,
+      "cache_fallback_allowed": true,
+      "fetch_skipped": false,
+      "rss_queries_run": 120,
+      "raw_candidate_count": 7015,
+      "date_filtered_candidate_count": 889,
+      "ranked_unseen_candidate_count": 30
     }
   ]
 }
