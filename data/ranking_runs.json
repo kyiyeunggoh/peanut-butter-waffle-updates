@@ -2,33 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Deep analysis": 1,
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 27,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 18,
-        "investigative": 1,
-        "psychology": 8
-      },
-      "shortlist_count": 8,
-      "source_domain_distribution": {
-        "404media.co": 1,
-        "arxiv.org": 3,
-        "ieeexplore.ieee.org": 4
-      },
-      "timestamp": "2026-08-15T01:48:29+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Operational intelligence": 1,
-        "Product idea / data source": 2
-      }
-    },
-    {
-      "article_type_distribution": {
         "Research paper": 2
       },
       "candidate_cache_age_minutes": null,
@@ -1508,6 +1481,30 @@
       "usefulness_category_distribution": {
         "Scam development": 1,
         "Technical abuse / vulnerability": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Advisory / guidance": 1,
+        "News report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 27,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "investigative": 1,
+        "psychology": 25,
+        "singapore_sea": 1
+      },
+      "shortlist_count": 1,
+      "source_domain_distribution": {
+        "graphika.com": 1
+      },
+      "timestamp": "2026-10-04T05:46:38+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Scam development": 2
       }
     }
   ]

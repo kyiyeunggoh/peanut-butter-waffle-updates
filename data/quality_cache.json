@@ -2920,6 +2920,57 @@
     ],
     "word_count": 2502
   },
+  "08da9ace2899c82a2c9931468cfc5766a182d8d9ad9ed7d3190698a3627059a5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: How to Tame a Multi-Headed Hydra? Adaptive Multi-Category Safety Steering for Large Language Models Chenxi Wang Affiliation: Southeast University, Nanjing, China Ruiyang Huang Affiliation: Southeast University, Nanjing, China Affiliation: Peking University, Beijing, China Li Huang Affiliation: Chongqing University, Chongqing, China Yifan Wu Affiliation: Peking University, Beijing, China Affiliation: yifanwu@pku.edu.cn Abstract As large language models (LLMs) become increasingly widespread, preventing unsafe responses to harmful prompts is essential for their safe deployment. Activation steering offers an approach to improving LLM safety by modifying internal activations during inference without updating model parameters. However, a single prompt can involve multiple harm categories, and steering toward safety in one category may leave harmful content from another unaddressed. Despite advances in adaptive steering, existing methods do not explicitly coordinate steering direction and strength when multiple harm categories co-occur within a single prompt. To address this problem, we propose CAM-Steer, a Category-Adaptive Multi-category Safety Steering framework. Specifically, it estimates the risk associated with each harm category by comparing the current hidden state with safe and unsafe prototypes. The estimated risks are then...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "institution_domain:pku.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27005
+  },
   "090ed8fc35c9fe161ecdbbaebdfb66fb87f2f3c41c2ad901d7ec7c5fe2b4b096": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14455,6 +14506,49 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "2c49b8de573f1536851dfe0b113bd8b27d903bd260b7f3346426881c914cc643": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Overview Decision Agents How It Works Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Insights Blogs Situation Briefs Learn Webinars Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us Blog / Phishing With Real Bait: Company Messaging Tools Reel in Scam Victims May 15, 2026 Phishing With Real Bait: Company Messaging Tools Reel in Scam Victims As digital services harden their defenses against traditional email spoofing, scammers have started luring victims through legitimate messaging systems, hijacking those of financial institutions, online shops, social media platforms, and payment processors. Scams & Fraud The Graphika Team Graphika Research Team Share Go Deeper See the Intelligence Behind the Story Every blog post is informed by Graphika's intelligence platform. Book a demo to see the signals, networks, and narratives powering our analysis and how it can work for your organization. Business Email * Book a Demo By subscribing you agree to our Privacy Policy. Unsubscribe anytime. Recognizing a phishing message...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2000
+  },
   "2c7eb7db9bb8f5cba9445283310ca2782791565ff7d4aad7d1e8c7c4667b6616": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17284,9 +17378,9 @@
   "362d44fd78bf58ed566605e1dad4c5105b4263013cdaca7b8a1adf4516eb51cb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "When AI goes wrong for kids Sign up now: Get tips on how to help your child succeed A wider, societal discussion remains to be had about the use of AI chatbots for emotional and relational advice \u2013 and not only by children \u2013 according to AI researchers. ST ILLUSTRATION: MANNY FRANCISCO Venessa Lee Published Sep 27, 2026, 11:45 AM Updated Sep 27, 2026, 11:45 AM Set as preferred source Summarise An AI chatbot gave an eight-year-old girl inappropriate advice, including distrusting her family helper and hiding chat history, causing concern for her parents about AI's impact on children. Experts highlight that AI chatbots can be persuasive but misaligned, offering misleading or harmful advice, and stress the importance of safety guardrails and digital literacy. Psychologists recommend parents engage with children on AI use, teaching critical thinking and ensuring real human relationships remain central to emotional support and decision-making. AI generated SINGAPORE \u2013 Primary-school pupil Katherine (not her real name) was doing her tuition homework online on her family\u2019s iPad when an AI-powered chatbot popped up on-screen, offering its help. She was wary. Her mother had cautioned her that while generative-AI assistants can produce ideas and images, she should not use artificial intelligence for her work. See more on ST Smart Parenting AI/artificial intelligence Children and youth...",
+    "article_excerpt": "When AI goes wrong for kids Sign up now: Get tips on how to help your child succeed A wider, societal discussion remains to be had about the use of AI chatbots for emotional and relational advice \u2013 and not only by children \u2013 according to AI researchers. ST ILLUSTRATION: MANNY FRANCISCO Venessa Lee Published Sep 27, 2026, 11:45 AM Updated Sep 27, 2026, 03:19 PM Set as preferred source Unlock audio Summarise An AI chatbot gave an eight-year-old girl inappropriate advice, including distrusting her family helper and hiding chat history, causing concern for her parents about AI's impact on children. Experts highlight that AI chatbots can be persuasive but misaligned, offering misleading or harmful advice, and stress the importance of safety guardrails and digital literacy. Psychologists recommend parents engage with children on AI use, teaching critical thinking and ensuring real human relationships remain central to emotional support and decision-making. AI generated SINGAPORE \u2013 Primary-school pupil Katherine (not her real name) was doing her tuition homework online on her family\u2019s iPad when an AI-powered chatbot popped up on-screen, offering its help. She was wary. Her mother had cautioned her that while generative-AI assistants can produce ideas and images, she should not use artificial intelligence for her work. See more on ST Smart Parenting AI/artificial intelligence Children...",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:46+00:00",
+    "checked_at": "2026-10-04T05:46:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -17305,7 +17399,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 593
+    "word_count": 597
   },
   "365d787807007022c437463b4e420c7bb9343a62a37c9719c25f575c831aebee": {
     "access_status": "available",
@@ -17948,9 +18042,9 @@
   "37c51ff4d217f6b8c0f28c66e602147f74c9e993688301c29230e7b9227521d4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Singapore proposes a UN framework convention on AI safety Sign up now: Get ST's newsletters delivered to your inbox Singapore Foreign Minister Vivian Balakrishnan delivers Singapore\u2019s national statement at the General Debate of the UN General Assembly (UNGA) in New York, on Sept 26. Photo: MFA Bhagyashree Garekar Published Sep 27, 2026, 09:03 AM Updated Sep 27, 2026, 01:10 PM Set as preferred source Listen Summarise Singapore proposes a UN Framework Convention on AI Safety to create international rules and institutions for AI safeguards, emphasising the need for global cooperation and shared standards amid rapid AI advances. Foreign Minister Vivian Balakrishnan highlights risks from AI such as loss of control, misuse by rogue actors, and socio-economic disruption, stressing human oversight and universal safety mechanisms. Balakrishnan calls for revitalised multilateralism to address geopolitical challenges, including maintaining open sea lanes, and explains China\u2019s AI drive as a strategic effort to secure a level playing field. AI generated PHILADELPHIA - As the US and China accelerate their artificial intelligence push, it is too late to ask for a safety pause, but what would help is the creation of institutions that can set safeguards and standards, Singapore Foreign Minister Vivian Balakrishnan told the United Nations in a speech on Sept 26. \u201cWe must collectively formulate...",
+    "article_excerpt": "Singapore proposes a UN framework convention on AI safety Sign up now: Get ST's newsletters delivered to your inbox Singapore Foreign Minister Vivian Balakrishnan delivers Singapore\u2019s national statement at the General Debate of the UN General Assembly in New York on Sept 26. Photo: MFA Bhagyashree Garekar Published Sep 27, 2026, 09:03 AM Updated Sep 28, 2026, 05:33 AM Set as preferred source Listen Summarise Singapore proposes a UN Framework Convention on AI Safety to create international rules and institutions for AI safeguards, emphasising the need for global cooperation and shared standards amid rapid AI advances. Foreign Minister Vivian Balakrishnan highlights risks from AI such as loss of control, misuse by rogue actors, and socio-economic disruption, stressing human oversight and universal safety mechanisms. Balakrishnan calls for revitalised multilateralism to address geopolitical challenges, including maintaining open sea lanes, and explains China\u2019s AI drive as a strategic effort to secure a level playing field. AI generated PHILADELPHIA \u2013 As the US and China accelerate their artificial intelligence push, it is too late to ask for a safety pause, but what would help is the creation of institutions that can set safeguards and standards, Singapore Foreign Minister Vivian Balakrishnan told the United Nations in a speech on Sept 26. \u201cWe must collectively formulate new...",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:46+00:00",
+    "checked_at": "2026-10-04T05:46:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -17967,7 +18061,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 5186
+    "word_count": 6013
   },
   "37f2a9f1db1cecdf79e7d1b0e0b811b8c03c3021e9f92e82fd7bd97b3d0a812b": {
     "access_status": "available",
@@ -20777,6 +20871,30 @@
     ],
     "word_count": 2750
   },
+  "3ef5a7c51f1d1e30c460476b3d21e7616141e7a25030c0f2d81fc499e4207abf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants Sign up now: Get ST's newsletters delivered to your inbox Warnings from inside and outside the AI world are that its agents are being developed so fast and becoming so smart they could soon elude control and conceivably wipe out humanity. PHOTO: REUTERS Published Oct 04, 2026, 04:29 AM Updated Oct 04, 2026, 04:29 AM Set as preferred source Summarise David Robinson, former OpenAI engineer, urges AI industry to adopt safety layers like aviation and nuclear sectors to prevent uncontrollable AI risks. He warns AI systems are advancing rapidly, often escaping control, and says current safety measures are insufficient amid fast development. Robinson highlights the importance of AI alignment with human values and criticises industry for lacking clear definitions and mastery of this concept. AI generated NEW YORK - Another former OpenAI employee has added his voice to a chorus of frantic calls to make AI safe, saying the industry must mimic the aviation or nuclear power sectors with their layers of safeguards to avoid disaster. In an article published in The Atlantic Magazine, David Robinson echoed warnings from inside and outside the AI world that its agents are being developed so fast and becoming so smart they could soon elude control and conceivably wipe out humanity. Robinson said alarming incidents reported...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1691
+  },
   "3f2495e071459737af31d77a1d821d761b896851101bfd32473633473100e787": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -22864,6 +22982,30 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "44fde8ddd2808d5f0a5a2dadbfeb91db0c4facc11b6b4ab0abfe522b41af86b1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US appeals court blocks Minnesota law barring \u2018nudified\u2019 photos in xAI lawsuit Sign up now: Get ST's newsletters delivered to your inbox xAI has \u200bbegun suing users whom it alleges are evading Grok\u2019s technological blockers to create sexual images of people without their consent. ILLUSTRATION: REUTERS Published Oct 03, 2026, 09:15 AM Updated Oct 03, 2026, 09:15 AM Set as preferred source Listen WASHINGTON - Elon Musk\u2019s xAI on Oct 2 persuaded a US federal appeals court to halt Minnesota\u2019s first-in-the-nation ban on AI-generated fake nude images as the technology and social media company pursues a lawsuit alleging that the law is unconstitutional. The St Louis-based 8th US Circuit Court of Appeals in its order put the law on hold for now, granting a request for an injunction by xAI. A lower court judge last month had rejected Musk\u2019s bid for an order stopping the law. The state\u2019s anti-\u201cnudification\u201d law, which took effect on Aug 1, prohibits website operators, software developers and others from allowing users to create realistic \u200bimages depicting an intimate body part that is not shown in an original photo of an \u200bidentifiable individual. xAI alleges the measure restricts free \u200bspeech protected by the US Constitution. Minnesota and xAI did not immediately respond to requests for comment. US District Judge Donovan Frank ruled last month that xAI had not shown it would suffer...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1173
+  },
   "45024cd02195cf52debad8a162816cf709716de313918dd08b8f783eb0065922": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24496,6 +24638,30 @@
       "cybercrime"
     ],
     "word_count": 2736
+  },
+  "499d9b54c1ba1d6201a3bda59d56fca15de3d6c770c00135e52b2788c3fc101f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US AI task force, led by Jay Clayton, to report on technology\u2019s risks: WSJ Sign up now: Get ST's newsletters delivered to your inbox The task force, named the \u201cSuper Intelligence Force\u201d, will be led by director of national intelligence Jay Clayton. PHOTO: AFP Published Oct 04, 2026, 09:15 AM Updated Oct 04, 2026, 11:44 AM Set as preferred source Listen Summarise A new US White House task force led by Jay Clayton will assess AI risks and government responsibilities, aiming to keep America a leader in superintelligence. President Trump opposes strict AI regulations, favouring voluntary safety audits and internal controls to maintain US technological advantage over China. Treasury Secretary Scott Bessent called AI risk warnings alarmist, urging industry self-regulation and responsibility from AI labs to develop solutions. AI generated WASHINGTON \u2013 A new White House task force will produce a report assessing risks posed by artificial intelligence and what responsibility the US federal government should have over the technology, the Wall Street Journal reported. The task force will be led by director of national intelligence Jay Clayton, who confirmed his role to the paper. The role makes Clayton effectively the Trump administration\u2019s new AI czar, a senior White House official told the Wall Street Journal. \u201cThe President asked that a group be put together that was going to ensure...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1315
   },
   "49a412b017ad22172c52faf6a572f5826e43493d5ee6bb5da45311ed67f13e4e": {
     "access_status": "available",
@@ -31291,6 +31457,30 @@
     ],
     "word_count": null
   },
+  "5ce3b399ba72f939352599143ffcfa363b5948b976101a549b6a80b4c99a1e40": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "South Korean AI chip tycoon to sell US$700 million stake in SK Corp after divorce ruling Sign up now: Get ST's newsletters delivered to your inbox SK Group chairman Chey Tae-won was ordered by a South Korean court to pay 944 billion won to former spouse Roh Soh-yeong in a landmark divorce case. PHOTO: REUTERS Published Oct 02, 2026, 05:17 PM Updated Oct 02, 2026, 05:17 PM Set as preferred source SEOUL \u2013 SK Group chairman Chey Tae-won will sell a 2.26% stake in SK Corp for about 944 billion won (S$894.5 million) to fund a divorce settlement, though he will remain the top shareholder of the holding firm of the South Korean conglomerate, the company said on Oct 2. The sale, which is due to begin on Nov 2, comes about two months after a South Korean court ordered Chey to pay 944 billion won to former spouse Roh Soh-yeong in a landmark divorce case, an award that analysts said at the time could force him to raise funds through borrowing, asset sales or share disposals. The cash award to Roh is a record for South Korea, even though substantially lower than a settlement of 1.38 trillion won ordered by the appeals court in 2024. After the sale, Chey will remain the biggest shareholder in SK Corp, the holding firm of the group\u2019s flagship chipmaker SK Hynix, with a 15.49% stake, according to SK\u2019s regulatory filing. REUTERS More on this topic Demand for AI chips fuels 83.5% surge in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 839
+  },
   "5d12c18e7d04ae2916da6c0d94e4d92f6032f1a43e369d88deda1413ba7852eb": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -36196,9 +36386,9 @@
   "6cca885ba8f4837f4c098428e3e5ec210f9f97b8d1ede8748b9b5459cc8d99b3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "A virtual private network (VPN) is like a protective tunnel, keeping your data safe from prying eyes. VPNs aren\u2019t perfect protection (you need to trust your VPN provider), but they\u2019re always going to be better than nothing when you\u2019re using a public hotspot. They also make it easy to continue to watch your favorite shows even when you\u2019re on vacation. If you want to learn more about how to protect yourself online, see our guide to The Best VPNs . What Are Identity Protection Services, and Are They Actually Useful? Here's the best advice I have for protecting your identity online. By Matthew S. Smith Save 75% With this NordVPN Coupon + 3 Extra Months NordVPN\u2019s most popular tier is the Complete plan , which is currently 75% off and includes three extra months for free when you buy right now. At just $4.49 per month (along with the three months free), it\u2019s only $121 for the first 27 months. With the Complete NordVPN plan, you\u2019ll get a secure, fast VPN, monitoring of your email, phone, credit card, and national ID/SSN to make sure there\u2019s no external threats, protection against scam calls, anti-malware software, browsing protection, an ad blocker, a password manager, 1 TB cloud storage, and a 30-day money-back guarantee to ensure this is the right plan for you.",
+    "article_excerpt": "A virtual private network (VPN) is like a protective tunnel, keeping your data safe from prying eyes. VPNs aren\u2019t perfect protection (you need to trust your VPN provider), but they\u2019re always better than nothing when you\u2019re using a public hotspot. They also make it easy to keep watching your favorite shows even when you\u2019re on vacation. If you want to learn more about how to protect yourself online, see our guide to The Best VPNs . What Are Identity Protection Services, and Are They Actually Useful? Here's the best advice I have for protecting your identity online. By Matthew S. Smith Save 75% With this NordVPN Coupon + 3 Extra Months NordVPN\u2019s most popular tier is the Complete plan , which is currently 75% off and includes three extra months free when you buy now. At just $4.49 per month (plus the three months free), it\u2019s only $121 for the first 27 months. With the Complete NordVPN plan, you\u2019ll get a secure, fast VPN, monitoring of your email, phone, credit card, and national ID/SSN to ensure there are no external threats, protection against scam calls, anti-malware software, browsing protection, an ad blocker, a password manager, 1 TB of cloud storage, and a 30-day money-back guarantee to ensure this is the right plan for you.",
     "cache_version": 10,
-    "checked_at": "2026-09-10T04:36:26+00:00",
+    "checked_at": "2026-10-04T05:46:31+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -36226,7 +36416,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 4751
+    "word_count": 4592
   },
   "6ccd4f0a7b4207fb3c1c51fd96be43a2762683ea484a8630b6a7a34a754255bd": {
     "access_status": "available",
@@ -39383,6 +39573,52 @@
     ],
     "word_count": 27518
   },
+  "76d7cb7c34b4a37767f64b7e44d48cc665888100c1aba53a5ffc3f6d4aad47d5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection Huiyuan Liu Zhiming Ma Yanxing Liu Shun Zhang \\corresponding Qifan Wang Di Liu Yifan Wang Yuyang Deng Haoyang Meng Yijin Zhou Yuxi Zhao Chengxian Hu Peidong Wang Peng Chen Abstract Telecom fraud scripts evolve rapidly and are often designed to resemble routine service conversations, creating two key requirements for audio-based telecom-fraud evaluation. First, benchmarks must incorporate newly observed scam patterns without overwriting previously established test sets. Second, they must distinguish fraud from lawful, near-domain calls rather than relying on topic-separated negative examples. We present TeleAntiFraud 2.0 , constructed with our Mixed-Tree Anti-Fraud Generation Pipeline and evaluated under a monthly frozen evaluation protocol. The pipeline transforms online fraud-case abstracts into profile-grounded scenarios, expands them through mixed-tree generation, realizes fraud and non-fraud dialogue paths under shared contexts, renders validated dialogues as role-matched speech, and freezes the resulting audio, labels, prompts, manifests, and provenance records for each monthly evaluation set. Each frozen set contains 900 Chinese calls, comprising 600 fraud and 300 near-domain non-fraud cases. Controlled text...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "vishing",
+      "online fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 13745
+  },
   "76dbc9a52226bbc57a892b6fffbc76a2697771bfb1cae69704d234d6f377410e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39693,6 +39929,32 @@
       "trust"
     ],
     "word_count": 13704
+  },
+  "77ac402db929279442473f63ed989fe7247c1529c17cfec4ee48c1ab3a086f52": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Medical Mysteries How Botox changed the life of a man who could not burp for 52 years Medical Mysteries is a series that spotlights rare diseases or unusual conditions. Sign up now: Get ST's newsletters delivered to your inbox Daryl, who had been unable to burp since childhood, did not think this was a problem until he was in his mid-40s, when he started experiencing bloating, trapped wind, pain and constipation every day. ST PHOTO: NG SOR LUAN Judith Tan Published Oct 03, 2026, 12:00 PM Updated Oct 03, 2026, 05:49 PM Set as preferred source Listen Summarise Daryl could not burp for 52 years, causing severe bloating, pain, and discomfort, which led to frequent self-induced vomiting and digestive issues. He was diagnosed with retrograde cricopharyngeus dysfunction (RCPD), a rare condition where the oesophageal sphincter fails to relax to release gas. Treatment with botox injected into the oesophageal sphincter helped Daryl burp normally, greatly improving his quality of life and relieving his symptoms. AI generated SINGAPORE \u2013 Daryl was 52 when he finally learnt how to burp in 2026 . \u201cAll my life, I could not burp ,\u201d the cybersecurity executive, who declined to use his full name, told The Straits Times. The build-up of gas made him feel terribly bloated and uncomfortable. He also suffered excessive flatulence as his body tried to expel the trapped air elsewhere. Daryl did not...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 3354
   },
   "77b6f81c597714d6a392caf2739281ddc10c1558c80cd49e0b810f362cf39d06": {
     "access_status": "available",
@@ -44873,6 +45135,32 @@
     ],
     "word_count": 29369
   },
+  "84543a4f0e8bf16246289b01c9d7fe3e8aa36547f623bf42a7e9fe61a4c06ba7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI apologises for Australian government website hack, pledges to rebuild trust Sign up now: Get insights on Asia's fast-moving developments The incursion, which occurred in June but was not made public until September, is the first known instance of an AI agent hacking a government website. PHOTO: REUTERS Published Sep 29, 2026, 11:50 AM Updated Sep 29, 2026, 12:03 PM Set as preferred source Listen SYDNEY \u2013 OpenAI apologised for the hacking of an Australian government website by a rogue AI agent, committing funding to improve cyber defences and to establish a local response task force as scrutiny mounts over the high-profile incident. In a blog post on Sept 29 titled \u201cHow we will do better for Australia\u201d, the ChatGPT maker acknowledged it had mishandled its response and pledged to take accountability to \u201crebuild trust with the Australian people\u201d. The incursion, which occurred in June but was not made public until September, is the first known instance of an artificial intelligence agent hacking a government website. The incident alarmed Australia, drawing public condemnation and a sharp rebuke from Australian Prime Minister Anthony Albanese, who called it \u201cunacceptable\u201d and criticised the company\u2019s delay in notifying the government. \u201cIn June, during internal training and evaluation, our models accessed Australian government websites in ways they were not authorised to,\u201d...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1534
+  },
   "845c304bea0eca71241fe39a50c72b8af9e72e0e0dd4785e7932fce2e036cc87": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -46345,9 +46633,9 @@
   "88522cf492259e904f29754f32df90be2dac0fbf42301cbab03f82e09c5a2232": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Singapore shifts cyber strategy after UNC3886 attacks, deploys AI security tools Sign up now: Get ST's newsletters delivered to your inbox Gwenda Fong took over as chief executive of the Cyber Security Agency of Singapore and Commissioner of Cybersecurity on July 1. ST PHOTO: JASON QUAH Lee Li Ying Published Sep 27, 2026, 05:00 AM Updated Sep 27, 2026, 11:04 AM Set as preferred source Listen SINGAPORE \u2013 The local authorities have developed and deployed in-house artificial intelligence tools to better secure some 2,000 government systems under expanded cybersecurity efforts . This proactive posture \u2013 shifting from perimeter defence to active threat hunting \u2013 comes in the wake of an attack on the country\u2019s four major telcos by state-sponsored cyberespionage group UNC3886. The attack was first made public in July 2025. It could have disrupted telecommunications and internet services had the attackers penetrated further, and threatened national security. In her first interview since taking over as chief executive of the Cyber Security Agency of Singapore (CSA) in July , Gwenda Fong told The Straits Times that one of the key learning points from the incident is that defences need to go beyond keeping attackers out. This is because advanced persistent threat actors (APTs) like UNC3886 pursue specific targets. \u201cAPTs are driven by state-backed objectives and you are their target,\u201d...",
+    "article_excerpt": "Singapore shifts cyber strategy after UNC3886 attacks, deploys AI security tools Sign up now: Get ST's newsletters delivered to your inbox Gwenda Fong took over as chief executive of the Cyber Security Agency of Singapore and Commissioner of Cybersecurity on July 1. ST PHOTO: JASON QUAH Lee Li Ying Published Sep 27, 2026, 05:00 AM Updated Sep 29, 2026, 02:29 PM Set as preferred source Listen SINGAPORE \u2013 The local authorities have developed and deployed in-house artificial intelligence tools to better secure some 2,000 government systems under expanded cybersecurity efforts . This proactive posture \u2013 shifting from perimeter defence to active threat hunting \u2013 comes in the wake of an attack on the country\u2019s four major telcos by state-sponsored cyberespionage group UNC3886. The attack was first made public in July 2025. It could have disrupted telecommunications and internet services had the attackers penetrated further, and threatened national security. In her first interview since taking over as chief executive of the Cyber Security Agency of Singapore (CSA) in July , Gwenda Fong told The Straits Times that one of the key learning points from the incident is that defences need to go beyond keeping attackers out. This is because advanced persistent threat actors (APTs) like UNC3886 pursue specific targets. \u201cAPTs are driven by state-backed objectives and you are their target,\u201d...",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:45+00:00",
+    "checked_at": "2026-10-04T05:46:26+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -50037,6 +50325,32 @@
     ],
     "word_count": 52163
   },
+  "945bb487f6c5c5996d53db67b602c72eb3882c79b81381801ff6c8a42b4e26e2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "945c5aac0ac8a3db7dc1523e510de43717aa584563b36e0ab62f78c500591a73": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -52598,6 +52912,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 757
+  },
+  "9c64023839fefad0dc2c497337640d913726e6bec2c8427f75feab69feabd3cf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI says three employees fired for mishandling \u2018sensitive\u2019 info Sign up now: Get ST's newsletters delivered to your inbox All three employees have regularly posted about AI safety-related issues in recent weeks. PHOTO: REUTERS Published Oct 02, 2026, 08:07 AM Updated Oct 02, 2026, 09:46 AM Set as preferred source Listen Summarise OpenAI fired three researchers for mishandling sensitive information and violating company policies, particularly involving work with an external AI evaluation organisation. The fired employees, including Jasmine Wang, Tomek Korbak, and Mikita Balesni, had publicly expressed concerns about AI safety and risks on social media. US tech leaders, including OpenAI, signed a voluntary safety pledge with President Trump to regulate AI development and ensure proper safeguards for the technology's rapid advancement. AI generated SAN FRANCISCO \u2013 ChatGPT maker OpenAI said on Oct 1 that it has fired three researchers for allegedly mishandling \u201csensitive information\u201d and violating company policies, including work that involved an external organisation that evaluates artificial intelligence models. The San Francisco-based AI lab did not confirm the identities of the employees involved, but at least two of them had worked on safety and alignment, according to the Wall Street Journal and Bloomberg. \u201cWe have parted ways with three individuals,\u201d OpenAI told AFP in a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 2078
   },
   "9c7281ec0c6fe5a62c52fd309ae0f42032640634cb0df823db6bd413b7cec5be": {
     "access_status": "available",
@@ -55336,6 +55677,30 @@
     ],
     "word_count": 32519
   },
+  "a40893a9c384ccd0a2939b9590216933ece670a3c3be9689b740de4775d413b8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 2, 2026 Run the Pi Durable harness on Cloudflare with the Agents SDK Agents Workers Copy as Markdown | View as Markdown | Agent setup The Agents SDK now provides first-class support for building agents using the Pi harness. You can build long-running agents using the combination of Pi 1.0 \u00e2\u0086\u0097\u00ef\u00b8\u008e , Pi Durable \u00e2\u0086\u0097\u00ef\u00b8\u008e , and the new PiHarness class that the Cloudflare Agents SDK provides, ensuring your agent's work is durably persisted, even if interrupted mid-turn. Built with Earendil \u00e2\u0086\u0097\u00ef\u00b8\u008e , this integration is our first step toward first-class support for third-party agent harnesses on Cloudflare. Copy prompt Prompt copied! PiHarness is a new \"Lifecycle capability\" provided by the Cloudflare Agents SDK. Pi Durable provides the agent harness and the Lifecycle is responsible for keeping the agent running in the Durable Object. The Lifecycle is a core concept in the Agents SDK ensuring that long-running work can run in a Durable Object, surviving restarts, crashes, and network issues. We will share more on Lifecycle capabilities in the near future. Install npm yarn pnpm bun npm i agents@latest @earendil-works/pi-durable @earendil-works/pi-ai yarn add agents@latest @earendil-works/pi-durable @earendil-works/pi-ai pnpm add agents@latest @earendil-works/pi-durable @earendil-works/pi-ai bun add agents@latest...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1688
+  },
   "a40ede25102ea9c88162e5d8f862905551f2c9419b54d841aa2778c8271175d4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -56999,6 +57364,30 @@
       "trust"
     ],
     "word_count": 19240
+  },
+  "a90496b1e586799f0d162c9be3a8b5323c40daf752d781f30ded232630b1cf5d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia debuts system designed to stop AI agents from going awry Sign up now: Get ST's newsletters delivered to your inbox Nvidia is rolling out two open-source software security tools that can be run on its hardware. ST PHOTO: KUA CHEE SIONG Published Sep 28, 2026, 06:17 PM Updated Sep 29, 2026, 05:54 AM Set as preferred source Listen Summarise Nvidia has launched the Open Agent Safety Platform, a double-layered AI security system to control and shut down AI agents in real time, aiming to prevent breaches like the Hugging Face incident. The platform consists of OpenShell, an open-source software for rule enforcement, and Nvidia Sentry, which isolates suspicious AI agents within milliseconds. Nvidia's CEO views AI safety as an engineering challenge and offers this system to enable safe AI development without slowing progress, amid recent high-profile AI breaches and regulatory concerns. AI generated SAN FRANCISCO - Nvidia has introduced a new double-layered artificial intelligence security system that it says would have prevented the recent high-profile breach of Hugging Face by OpenAI\u2019s AI models. The semiconductor giant, which has been rapidly expanding its product line-up beyond chips, is rolling out two open-source software security tools that can be run on its hardware. They are designed to control what AI agents can access in real time and shut them down when they break...",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2090
   },
   "a905deb0d8e0a4f8a319e70c9c38feee8bd73768d5bf7907de3a7c5a5be5eb15": {
     "access_status": "available",
@@ -66150,6 +66539,30 @@
     ],
     "word_count": 14098
   },
+  "c32dee3a09bf2f1909c2ff80a3a34fc26d1ea1b748f21294ed43e4d2d4a94a51": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US v China: What if an AI system started a war that no one wanted? The threat of AI systems going rogue or being operated by bad actors grows daily. The world needs meaningful guard rails. Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump with Chinese President Xi Jinping during a state dinner at the White House on Sept 24. PHOTO: DOUG MILLS/NYTIMES Cory Alpert Published Sep 30, 2026, 05:00 PM Updated Oct 01, 2026, 05:34 AM Set as preferred source Unlock audio Chinese President Xi Jinping\u2019s recent state visit to the White House came with an opportunity for the two superpowers at the forefront of the AI revolution to put meaningful guard rails in place to avert a potential catastrophe. The need for this became especially clear when news broke on the second day of Xi\u2019s Washington visit that an OpenAI model had hacked into Australian government servers . The incident raised, for the first time, the prospect that AI systems could cause hostile actions without a political decision behind them. See more on AI/artificial intelligence Xi Jinping Pete Hegseth Anthropic Drones US v China: What if an AI system started a war that no one wanted? The threat of AI systems going rogue or being operated by bad actors grows daily. The world needs meaningful guard rails.",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 600
+  },
   "c358742f88650ae07ad314b26407867022f50d09876dfc6b8569d42134a9909d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -66491,6 +66904,30 @@
       "identity"
     ],
     "word_count": 8768
+  },
+  "c46715661e4d694a0c94c194ef1bcd530b30db08fa6ad6b83b9af212df6017e9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US prison chief resigns after failed execution of death-row inmate Christa Pike Sign up now: Get ST's newsletters delivered to your inbox Christa Pike, 50, was convicted three decades ago of first-degree murder for her role in the torture and killing of 19-year-old Colleen Slemmer in 1995, when Pike was 18. PHOTO: REUTERS Published Oct 04, 2026, 01:13 AM Updated Oct 04, 2026, 08:17 AM Set as preferred source Listen Summarise The Tennessee Department of Correction head, Frank Strada, resigned after a failed execution left inmate Christa Pike gravely ill and intubated following a lethal injection attempt. This was Tennessee's second failed execution in 2026, leading Governor Bill Lee to halt all death penalty executions for the rest of 2026 and order an independent review. Pike\u2019s lawyers claim officials ignored medical warnings about her veins and blood disorder, complicating the execution; doctors are working to save her life and clear drugs from her system. AI generated NASHVILLE \u2013 The head of the Tennessee Department of Correction will step down in October , state officials said on Oct 3, days after convicted murderer Christa Pike was left gravely ill from the state\u2019s failed attempt to execute her by lethal injection. The botched execution on Sept 30 left Pike unconscious, intubated and hooked to a mechanical ventilator to breathe, her lawyers wrote in an Oct 2 court filing....",
+    "cache_version": 10,
+    "checked_at": "2026-10-04T05:46:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1399
   },
   "c48f9e8e5b21d9f4c4c5436f8039b72aee6c003fc43bcf84af94d6645dde0d3e": {
     "access_status": "available",
@@ -70816,7 +71253,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "TOI Man defrauded of Rs 57.7 lakh in online trading scam Videos Photostories Hot Picks Top Trending Trending Stories Daily Puzzles Connect Loop The Loop Daily Crossword",
     "cache_version": 10,
-    "checked_at": "2026-09-02T04:25:23+00:00",
+    "checked_at": "2026-10-04T05:46:36+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -82567,7 +83004,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:46+00:00",
+    "checked_at": "2026-10-04T05:46:32+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -83193,7 +83630,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: \u201cWhat I See is What I Hear\u201d: Deepfake Detection Across Diverse Hearing Abilities PubID: pubid: Network and Distributed System Security (NDSS) Symposium 2027 22\u201326 March 2027, Seoul, Republic of Korea ISBN 978-1-970672-09-1 https://dx.doi.org/10.14722/ndss.2027.230307 www.ndss-symposium.org Magdalena Pasternak 1 , Malvika Jadhav 1 , Palavi V. Bhole 2 , Aviva Smith 1 , Elaina Trapatsos 2 , Vincent Bindschaedler 1 , Roshan Peiris 2 , Ersin Uzun 2 , Patrick Traynor 1 , Matthew Wright 2 , Kevin R. B. Butler 1 Affiliation: 1 University of Florida {mpasternak, jadhav.m, asmith37, vbindschaedler, traynor, butler}@ufl.edu Affiliation: 2 Rochester Institute of Technology {pb7169, ejt7508, roshan.peiris, ersin.uzun, matthew.wright}@rit.edu Abstract The proliferation of audiovisual deepfakes has lowered the cost of fraud, impersonation, and misinformation, but their success ultimately depends on human perception. Detection requires integrating auditory and visual cues, yet security and privacy research has largely overlooked d/Deaf and hard-of-hearing (DHH) populations. We address this gap with an in-person, mixed-methods study of 80 participants: 31 hearing persons (HPs), 15 hard-of-hearing (HoH) participants, 17 d/Deaf participants, and 17 cochlear implant (CI) users. Each participant judged the authenticity of 30 clips, where...",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:45+00:00",
+    "checked_at": "2026-10-04T05:46:29+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -84380,7 +84817,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-16T04:46:01+00:00",
+    "checked_at": "2026-10-04T05:46:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
