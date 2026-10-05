@@ -3794,6 +3794,20 @@
       "url": "https://news.tvb.com/tc/1188232-Fraudstersdisguisingaslawyerspullingvictiminto2ndscam",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge": {
+      "article_type": "Enforcement report",
+      "normalised_title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "normalized_title_fingerprint": "victim loses 50k scam cumbria police urge residents vigilant",
+      "original_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGZsNHBmdXhYUzYtaWZvb3dMa01EOUIzbGlsYzJsRFZvTXNXQXFtRDI3ZS02QVZuRk1taUpkS1BKTWNRUElnRnQ1M2hZSnB1RXBPd09UZjN3SF9EbndfUUJPRXEtX0ZXOEgzZTRXT1RUQ3JzZUpJNW53Z1kwd0hqZzlHLUxUdVJaTUxNNnVwU1c?oc=5",
+      "parsed_date": "2026-08-12",
+      "raw_title": "Victim loses \u00a350k in scam as Cumbria Police urge residents to be vigilant - News & Star",
+      "same_story_key": "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "newsandstar.co.uk",
+      "title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "url": "https://www.newsandstar.co.uk/news/26458138.police-warning-victim-loses-50k-fraud-scam/",
+      "usefulness_category": "Scam development"
+    },
     "newsmeter.in|2026-06-15|agents company cyberabad duping fake investment people police": {
       "article_type": "Enforcement report",
       "normalised_title": "fake company agents telegram duping people through investment scams warn cyberabad police",
@@ -4241,6 +4255,20 @@
       "title": "s\u2019porean man allegedly linked cambodia scam ring arrested 2 more s\u2019porean suspects wanted",
       "url": "https://www.straitstimes.com/singapore/sporean-man-allegedly-linked-to-cambodia-scam-ring-arrested-2-more-sporean-suspects-wanted",
       "usefulness_category": "Operational intelligence"
+    },
+    "straitstimes.com|2026-05-06|beware government impersonation involving meetings scam virtual": {
+      "article_type": "Enforcement report",
+      "normalised_title": "beware impersonation scams involving virtual meetings government officials",
+      "normalized_title_fingerprint": "beware impersonation scam involving virtual meetings government",
+      "original_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFNWeEM3RWV0ZjRiRmpCbG1LNldoVzJFRVB1eDVpdkExMmdxWUdEVVhsZnNPc1IybUVnbF9DNTlzOVZKMGdhbDMwakstQV82dEdnREdNTkh0OEp6X1RBVi1GSHFUR2ZXeHpMM01Ed0wwOEtMOGotcTk3R3NBNG9rZ0c5akZiTzFnZUpnd3RRZ2dmRkpuMGtzY0hDSm94RDhYaFAtUlZORDRZX0ZIRWxVNVhkVmxxakxQb1JWOVlB?oc=5",
+      "parsed_date": "2026-05-06",
+      "raw_title": "Beware of impersonation scams involving virtual meetings with \u2018government officials\u2019 - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-05-06|beware government impersonation involving meetings scam virtual",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "beware impersonation scams involving virtual meetings government officials",
+      "url": "https://www.straitstimes.com/singapore/beware-of-impersonation-scams-involving-virtual-meetings-with-government-officials",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
     "straitstimes.com|2026-05-14|deepfakes government involving least loses scam victim wong": {
       "article_type": "News report",
@@ -6265,6 +6293,18 @@
       "source_domain": "arxiv.org",
       "title": "benchmarking large language models zero shot few shot phishing url detection",
       "usefulness_category": "Product idea / data source"
+    },
+    "beware impersonation scam involving virtual meetings government": {
+      "article_type": "Enforcement report",
+      "normalised_title": "beware impersonation scams involving virtual meetings government officials",
+      "normalized_title_fingerprint": "beware impersonation scam involving virtual meetings government",
+      "parsed_date": "2026-05-06",
+      "raw_title": "Beware of impersonation scams involving virtual meetings with \u2018government officials\u2019 - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-05-06|beware government impersonation involving meetings scam virtual",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "beware impersonation scams involving virtual meetings government officials",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
     "beyond detection evaluating defensive llms against ai generated social engineering live turn turn interaction": {
       "article_type": "Research paper",
@@ -10238,6 +10278,18 @@
       "title": "verifying intent harm unified defense against llm generated threats",
       "usefulness_category": "Research / novel method"
     },
+    "victim loses 50k scam cumbria police urge residents vigilant": {
+      "article_type": "Enforcement report",
+      "normalised_title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "normalized_title_fingerprint": "victim loses 50k scam cumbria police urge residents vigilant",
+      "parsed_date": "2026-08-12",
+      "raw_title": "Victim loses \u00a350k in scam as Cumbria Police urge residents to be vigilant - News & Star",
+      "same_story_key": "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "newsandstar.co.uk",
+      "title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "usefulness_category": "Scam development"
+    },
     "victim loses least 4 9m scam involving deepfakes pm wong government officials": {
       "article_type": "News report",
       "normalised_title": "victim loses least 4 9m scam involving deepfakes pm wong government officials",
@@ -12832,6 +12884,18 @@
       "url": "https://www.straitstimes.com/world/united-states/weapons-spying-and-cyber-operations-anthropic-exposes-claude-misuse",
       "usefulness_category": "Operational intelligence"
     },
+    "4eb0a797847b32861f0fe287847ede61489422c058b157cd0d3f44fb03f8053e": {
+      "article_type": "Enforcement report",
+      "normalised_title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "normalized_title_fingerprint": "victim loses 50k scam cumbria police urge residents vigilant",
+      "parsed_date": "2026-08-12",
+      "same_story_key": "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "newsandstar.co.uk",
+      "title": "Victim loses \u00a350k in scam as Cumbria Police urge residents to be vigilant - News & Star",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUGZsNHBmdXhYUzYtaWZvb3dMa01EOUIzbGlsYzJsRFZvTXNXQXFtRDI3ZS02QVZuRk1taUpkS1BKTWNRUElnRnQ1M2hZSnB1RXBPd09UZjN3SF9EbndfUUJPRXEtX0ZXOEgzZTRXT1RUQ3JzZUpJNW53Z1kwd0hqZzlHLUxUdVJaTUxNNnVwU1c?oc=5",
+      "usefulness_category": "Scam development"
+    },
     "4fce0012c0ca4e2e4f8fdcc39bba04266cbe7324a7f5505e6f138f1d13192576": {
       "article_type": "Research paper",
       "normalised_title": "sex scams videotape scottish care workers navigate cyber safety ethics",
@@ -13623,6 +13687,18 @@
       "title": "Norton Genie Expands to Claude, Bringing AI-Powered Scam Detection into Everyday Conversations",
       "url": "https://markets.ft.com/data/announce/detail?dockey=600-202606300901PR_NEWS_USPRX____LA95059-1",
       "usefulness_category": "Platform policy / product change"
+    },
+    "6bce7219a9ca67bb25bc000e222ec0a2dd0743abbc2c4f476537376b8d166223": {
+      "article_type": "Enforcement report",
+      "normalised_title": "beware impersonation scams involving virtual meetings government officials",
+      "normalized_title_fingerprint": "beware impersonation scam involving virtual meetings government",
+      "parsed_date": "2026-05-06",
+      "same_story_key": "straitstimes.com|2026-05-06|beware government impersonation involving meetings scam virtual",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Beware of impersonation scams involving virtual meetings with \u2018government officials\u2019 - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFNWeEM3RWV0ZjRiRmpCbG1LNldoVzJFRVB1eDVpdkExMmdxWUdEVVhsZnNPc1IybUVnbF9DNTlzOVZKMGdhbDMwakstQV82dEdnREdNTkh0OEp6X1RBVi1GSHFUR2ZXeHpMM01Ed0wwOEtMOGotcTk3R3NBNG9rZ0c5akZiTzFnZUpnd3RRZ2dmRkpuMGtzY0hDSm94RDhYaFAtUlZORDRZX0ZIRWxVNVhkVmxxakxQb1JWOVlB?oc=5",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
     "6ccd4f0a7b4207fb3c1c51fd96be43a2762683ea484a8630b6a7a34a754255bd": {
       "article_type": "Enforcement report",
@@ -15376,6 +15452,18 @@
       "url": "https://apnews.com/article/scams-fraud-technology-ai-impostor-scam-phishing-12f549d5203abd38857c4e2f2fb1c986",
       "usefulness_category": "Scam development"
     },
+    "b4620fbac796035d8bd74eea1b8ef0fdc8af0d73cd8365ad5b63afa19327c629": {
+      "article_type": "Enforcement report",
+      "normalised_title": "victim loses 50k scam cumbria police urge residents vigilant",
+      "normalized_title_fingerprint": "victim loses 50k scam cumbria police urge residents vigilant",
+      "parsed_date": "2026-08-12",
+      "same_story_key": "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "newsandstar.co.uk",
+      "title": "Victim loses \u00a350k in scam as Cumbria Police urge residents to be vigilant - News & Star",
+      "url": "https://www.newsandstar.co.uk/news/26458138.police-warning-victim-loses-50k-fraud-scam/",
+      "usefulness_category": "Scam development"
+    },
     "b49eb7c9bd470265dee6cffdbe6696c1e04901dfbf9194045bc4ee4517faf53f": {
       "article_type": "News report",
       "normalised_title": "beatings torture electric shocks freed scam compound workers allege horrific abuse myanmar",
@@ -16658,6 +16746,18 @@
       "source_domain": "dailydemocrat.com",
       "title": "Police Department warns public of impersonation scam - Daily Democrat",
       "url": "https://www.dailydemocrat.com/2026/05/13/police-department-warns-public-of-impersonation-scam/",
+      "usefulness_category": "Deepfakes, synthetic identity & impersonation"
+    },
+    "e745c87251b789be72f9288909b4f86afcc5ba93cb4136d18bf76b9bb58baa6a": {
+      "article_type": "Enforcement report",
+      "normalised_title": "beware impersonation scams involving virtual meetings government officials",
+      "normalized_title_fingerprint": "beware impersonation scam involving virtual meetings government",
+      "parsed_date": "2026-05-06",
+      "same_story_key": "straitstimes.com|2026-05-06|beware government impersonation involving meetings scam virtual",
+      "sent_at": "2026-10-05T05:30:39+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Beware of impersonation scams involving virtual meetings with \u2018government officials\u2019 - The Straits Times",
+      "url": "https://www.straitstimes.com/singapore/beware-of-impersonation-scams-involving-virtual-meetings-with-government-officials",
       "usefulness_category": "Deepfakes, synthetic identity & impersonation"
     },
     "e7be00781b558872ec7a136629b00b73e74a81832bc82aa7fbace1ed528ea1d5": {

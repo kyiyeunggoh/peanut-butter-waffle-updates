@@ -3736,20 +3736,18 @@
   "0bde8c9ae6f3f2adfd53f3f0a616562584bc5372ab79fa2fbaeb6343b2e988df": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Indonesian Police bust pig butchering ring, 11 foreign suspects named Translator: Immanuel Citra S, Resinta Sulistiyandari Editor: M Razi Rahman Copyright \u00a9 ANTARA 2026 Semarang deports four Chinese fugitives linked to love scam Immigration busts China-linked love scam syndicate in Tangerang Indonesia flags rising global threat of online romance scams Central Java Police foils smuggling of illegal vehicles to Timor Leste Blora Police MBG kitchen serves 2,515 children across 28 schools Police chief inspects readiness of homecoming valet program Police arrest six suspected abductors in Central Java Immigration, police detain 31 foreign nationals over online fraud Indonesia urges UK to help ASEAN fight online scam syndicates Indonesia arrests Beijing's most wanted online fraud fugitive Interpol Indonesia's NCB plans to form transnational crime task force Indonesia detains 210 foreigners in major online investment scam raid",
+    "article_excerpt": "Indonesian Police bust pig butchering ring, 11 foreign suspects named Translator: Immanuel Citra S, Resinta Sulistiyandari Editor: M Razi Rahman Copyright \u00a9 ANTARA 2026 Semarang deports four Chinese fugitives linked to love scam Immigration busts China-linked love scam syndicate in Tangerang Indonesia flags rising global threat of online romance scams Central Java Police foils smuggling of illegal vehicles to Timor Leste Blora Police MBG kitchen serves 2,515 children across 28 schools Police chief inspects readiness of homecoming valet program Police arrest six suspected abductors in Central Java Indonesia ready to partner with Cambodia to eradicate online scams BI stresses three key areas to strengthen online fraud response Indonesia signs UN Convention against Cybercrime Immigration, police detain 31 foreign nationals over online fraud Indonesia urges UK to help ASEAN fight online scam syndicates",
     "cache_version": 10,
-    "checked_at": "2026-09-18T04:38:42+00:00",
+    "checked_at": "2026-10-05T05:30:35+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "romance scam",
-      "investment scam",
       "pig butchering",
       "online fraud"
     ],
     "direct_scam_relevance_terms_found": [
       "scam",
       "romance scam",
-      "investment scam",
       "pig butchering",
       "online fraud"
     ],
@@ -3766,7 +3764,6 @@
     "strong_scam_anchor_terms_found": [
       "scam",
       "romance scam",
-      "investment scam",
       "pig butchering",
       "online fraud"
     ],
@@ -3775,9 +3772,10 @@
       "pig butchering"
     ],
     "weak_generic_terms_found": [
+      "cybercrime",
       "fraud"
     ],
-    "word_count": 134
+    "word_count": 132
   },
   "0be35c3b781bfae30bdc660e60eed0721a48df8f4c965b5577dbe428cafc71cf": {
     "access_status": "available",
@@ -7795,6 +7793,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2592
   },
+  "16dfbb955bd6cd8cc2b13a09e498a54982a373ea63aca21d3a26b1ffb3db6055": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lead in AI over China narrows after DeepSeek gains, Bloomberg Intelligence says Sign up now: Get ST's newsletters delivered to your inbox Top Chinese models lag their US rivals by just 3% on benchmark scores after the September release of DeepSeek\u2019s V4.1 Flash, down from about 9% in May. PHOTO: REUTERS Published Oct 05, 2026, 08:30 AM Updated Oct 05, 2026, 09:48 AM Set as preferred source Listen Summarise US AI companies' lead over China has sharply narrowed to just a 3% difference after DeepSeek's V4.1 Flash release, threatening US dominance in AI technology. China's AI progress is driven by strong expertise and optimisation for domestic hardware, challenging the effectiveness of US export restrictions on tech like Nvidia chips. Despite gains, Chinese AI firms face profitability challenges due to fierce competition and pricing wars, with sustainable profits expected only after industry consolidation by 2030. AI generated American AI companies\u2019 performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence (BI). Top Chinese models lag their US rivals by just 3% on benchmark scores after the September release of DeepSeek\u2019s V4.1 Flash, BI senior analyst Robert Lea wrote in a report on Oct 5 . That is down from about 9% in May and 15% earlier in the year....",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1873
+  },
   "16e26e4bc76d0d27011b023a13e3f032caa3169ab1b71c66191dcb24f7f395cc": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -9956,6 +9978,32 @@
       "identity"
     ],
     "word_count": 1480
+  },
+  "1db7380e0911528f7654408520cf7538b1ee6dbb5373ab166d1c68d21a5ddf32": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "1db8d1ec9943660052633d9e9329f7a79d98ca6768d7381430a716620e4f1c3e": {
     "access_status": "available",
@@ -12274,6 +12322,32 @@
       "fraud"
     ],
     "word_count": 96
+  },
+  "25d267f6765c5440131b70bfc6917a3c3fe21a0dd103fb5b5670f6b132511778": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "25dcfe4e6380da25fae2260937fe3c180b3d2927c56808cce6c6f61195508f64": {
     "access_status": "available",
@@ -15804,6 +15878,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "30218ec6f98b9f3bd7a09d533a690088cd1edd62ccf7d5bf37301b2efc8677a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia rival AMD to buy industry pioneer\u2019s AI start-up World Labs for US$8.2 billion Sign up now: Get ST's newsletters delivered to your inbox The all-stock transaction is expected to close by the end of 2026, subject to regulatory approvals, the companies said. PHOTO: REUTERS Published Sep 29, 2026, 08:36 AM Updated Sep 29, 2026, 09:19 AM Set as preferred source Listen SAN FRANCISCO \u2013 Chipmaker Advanced Micro Devices has agreed to acquire World Labs for US$8.2 billion (S$10.5 billion), gaining an AI start-up founded by industry pioneer and researcher Fei-Fei Li. The all-stock transaction is expected to close by the end of 2026, subject to regulatory approvals, the companies said in a statement on Sept 28. AMD, a key challenger to Nvidia in the market for AI chips, is adding a team of leading researchers and their models, along with insights into how the artificial intelligence field is evolving. That should help the company plan its future hardware releases. \u201cThe more you understand end to end, the better system you are going to build,\u201d AMD chief executive Lisa Su said in a Bloomberg Television interview that aired on the afternoon of Sept 28. \u201cThat\u2019s why we are acquiring World Labs,\u201d Su said. \u201cTo have access to the world-class talent Fei-Fei has brought together and bring it together with AMD\u2019s capabilities around hardware, software and systems.\u201d World Labs develops...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2397
   },
   "302f6e39f8a0e38db6d1bcd1ac8b6c5936b5f341e4129d023086616928b98c83": {
     "access_status": "available",
@@ -32566,9 +32664,9 @@
   "60a6b43e6b5f01b725d11b6a765c43dd2f8d93e285ce308cab413bb54534b637": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Anthropic CEO Dario Amodei to meet Trump with AI safety concern rising Sign up now: Get ST's newsletters delivered to your inbox The dinner would mark the first private meeting between Anthropic CEO Dario Amodei (left) and President Donald Trump after months of tensions. PHOTOS: BLOOMBERG, REUTERS Published Sep 28, 2026, 12:49 AM Updated Sep 28, 2026, 05:49 AM Set as preferred source Listen SAN FANCISCO - Anthropic PBC Chief Executive Officer Dario Amodei is set to have dinner with President Donald Trump on the night of Sept 27, according to people familiar with the matter, with the meeting bringing together two men at opposite ends of the artificial intelligence safety debate. Their dinner would mark the first private sit-down between Amodei and Trump after months of rocky relations between the Anthropic chief and the administration . Tensions erupted during a bitter contract dispute with the Pentagon early in 2026 and deepened when the Commerce Department briefly imposed export controls on Anthropic\u2019s breakthrough Mythos model in June. It\u2019s unclear what the two men will discuss, and the people confirmed the meeting on condition of anonymity to describe confidential planning. Axios reported earlier on the dinner. Spokespeople for Anthropic and the White House didn\u2019t immediately respond to requests for comment. The meeting is set to take place against a backdrop of growing...",
+    "article_excerpt": "Anthropic CEO Dario Amodei to meet Trump with AI safety concern rising Sign up now: Get ST's newsletters delivered to your inbox The dinner would mark the first private meeting between Anthropic CEO Dario Amodei (left) and President Donald Trump after months of tensions. PHOTOS: BLOOMBERG, REUTERS Published Sep 28, 2026, 12:49 AM Updated Sep 28, 2026, 02:45 PM Set as preferred source Listen SAN FANCISCO - Anthropic PBC Chief Executive Officer Dario Amodei is set to have dinner with President Donald Trump on the night of Sept 27, according to people familiar with the matter, with the meeting bringing together two men at opposite ends of the artificial intelligence safety debate. Their dinner would mark the first private sit-down between Amodei and Trump after months of rocky relations between the Anthropic chief and the administration . Tensions erupted during a bitter contract dispute with the Pentagon early in 2026 and deepened when the Commerce Department briefly imposed export controls on Anthropic\u2019s breakthrough Mythos model in June. It\u2019s unclear what the two men will discuss, and the people confirmed the meeting on condition of anonymity to describe confidential planning. Axios reported earlier on the dinner. Spokespeople for Anthropic and the White House didn\u2019t immediately respond to requests for comment. The meeting is set to take place against a backdrop of growing...",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:52+00:00",
+    "checked_at": "2026-10-05T05:30:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -34716,6 +34814,35 @@
     "weak_generic_terms_found": [],
     "word_count": 1752
   },
+  "674ebf00949f8ac6632ea091daca44c83fe871f5835bf965c7d191adda81661b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: TRACE: Task-Aware Adaptive Self-Evolving Agentic Jailbreaking Churui Zeng Kedong Xiu 1 1 footnotemark: 1 Weiwei Qi Yuqi Hao Chaochao Lu Liang He Zhan Qin Tianhang Zheng The State Key Laboratory of Blockchain and Data Security, Zhejiang University State Key Laboratory of Internet Architecture, Tsinghua University Huazhong University of Science and Technology Shanghai AI Laboratory East China Normal University {churuizeng,kedongxiu,weiweiqi,qinzhan,zthzheng}@zju.edu.cn yqhao2002@gmail.com luchaochao@pjlab.org.cn lhe@cs.ecnu.edu.cn \u2020 \u2020 thanks: Equal contribution. \u2020 \u2020 thanks: Corresponding author. Abstract The rise of LLM agents introduces a new threat by enabling planning, coding, and even end-to-end execution of expert-level attack workflows. However, this threat remains underexplored and underestimated since (i) Safety alignment prevents LLMs from directly generating harmful instructions. (ii) Although existing jailbreak methods can bypass safety alignment, most of them mainly focus on eliciting harmful instructions but overlook LLM refusal against executing these harmful instructions. (iii) Even if the early execution steps succeed, any intermediate failure or dependency error will interrupt the workflow and force a restart of the entire attack process. To address these limitations, we propose TRACE , an agentic jailbreaking...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 65,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 15016
+  },
   "675e94599e5bb68076a103fa1c00ea73b7d6483a70f8a24b7975ff905163be17": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -36647,6 +36774,32 @@
     "weak_generic_terms_found": [],
     "word_count": 3090
   },
+  "6d48d895c66850291bc48667853cb000580f21057dbd93db1a1a30aa4abef5d1": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Vietnam begins mass trial of psychiatric staff for alleged fraud Doctors, nurses, others accused of taking bribes to help criminals evade prison A trial began at Hanoi People's Court on Sept. 28 against 65 defendants working at psychiatric facilities in Vietnam. They are accused of taking part in a scheme to allow criminals to avoid imprisonment. (Screenshot from Vietnam.vn's website) HO CHI MINH CITY -- Vietnam on Monday began a mass trial of 65 medical staff, patients and other defendants over an alleged scheme in which convicts are said to have paid bribes for fake psychiatric diagnoses that would lessen their sentences. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 121
+  },
   "6d6230846c3093934b4a36ff260ae45dc80b75522da6613a80b742c847b45ff5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -38115,6 +38268,42 @@
       "trust"
     ],
     "word_count": 20545
+  },
+  "71eddd1d8144f7b873f14e6849a2385076218758458de3efb263cd0eacb765dd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Right Answers, Wrong States: Hidden Information Failures in Multi-Agent Collaboration Herun Wan Jiaying Wu Minnan Luo Zihan Ma Fanxiao Li Nancy F. Chen Min-Yen Kan Email: wanherun@stu.xjtu.edu.cn , jiayingwu@u.nus.edu , minnluo@xjtu.edu.cn Affiliation: Xi\u2019an Jiaotong University National University of Singapore Affiliation: Yunnan University Agency for Science, Technology and Research (A*STAR), Singapore Abstract Multi-agent systems are often judged by whether they reach the correct answer. This can miss a distinct failure: collaboration may leave behind a corrupted information state even when the immediate decision is correct. We call this an off-query failure . To study this failure in collaborative decision support, we introduce OffQuery , which separately evaluates evidence verification (T1), shared-state reconstruction (T2), and task resolution (T3) in two representative high-stakes settings: healthcare and disaster response. Across GPT, Gemini, and Qwen models, standard collaboration shows much stronger task performance than state reliability. Averaged over 21 model\u2013setting combinations, task resolution reaches 64.7%, while evidence verification and state reconstruction reach only 14.3% and 43.1%. We trace this gap to selective information use : current queries often bypass corrupted facts, which become consequential when...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 34274
   },
   "71f492ce99481497e09f91c8f8d132b5509180b073f769d24cacbb4b9c2121c5": {
     "access_status": "available",
@@ -44692,7 +44881,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:51+00:00",
+    "checked_at": "2026-10-05T05:30:20+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -50199,6 +50388,30 @@
     ],
     "word_count": 237
   },
+  "9431dcefb8f56c4cc78fd0bd21248349ad130a193973b45d53066e1618c1a592": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "9431e368602194dbaed70b384b9e12dca9e3f74a01a12399dcf273a2d592e675": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51156,9 +51369,9 @@
   "969ccbe1c7042c92dee6eef2f3649a8d03be87c3370a2c9caf97c2bbdfea8f45": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Singapore factory output jumps in August, driven by sustained AI demand Sign up now: Get ST's newsletters delivered to your inbox Output from the precision engineering cluster saw the largest growth in August, jumping 33.9% year on year. PHOTO: LIANHE ZAOBAO FILE Sheila Chiang Published Sep 28, 2026, 01:00 PM Updated Sep 28, 2026, 01:00 PM Set as preferred source Listen SINGAPORE \u2013 Singapore\u2019s manufacturing output expanded in August, as all clusters except chemicals recorded output growth. Total factory output climbed 15.4% year on year in August, after a revised 6.9% rise in July. However, the expansion missed the 17.1% growth forecast by economists in a Bloomberg poll. Excluding the biomedical manufacturing industry, output increased 17%, data from the Economic Development Board on Sept 28 showed. Output from the precision engineering cluster saw the largest growth in August, jumping 33.9% year on year, driven mostly by higher production of semiconductor equipment in the machinery and systems segment. Within the cluster, the precision modules and components segment saw higher output of dies, moulds, tools, jigs and fixtures as well as precision components for the electronics industry. The electronics industry saw an increase of 28.5% year on year, supported by strong production of servers and related products, semiconductors and data storage products amid robust artificial...",
+    "article_excerpt": "Singapore factory output jumps in August, driven by sustained AI demand Sign up now: Get ST's newsletters delivered to your inbox Output from the precision engineering cluster saw the largest growth in August, jumping 33.9% year on year. PHOTO: LIANHE ZAOBAO FILE Sheila Chiang Published Sep 28, 2026, 01:00 PM Updated Sep 28, 2026, 08:49 PM Set as preferred source Listen SINGAPORE \u2013 Singapore\u2019s manufacturing output expanded in August, as all clusters except chemicals recorded output growth. Total factory output climbed 15.4% year on year in August, after a revised 6.9% rise in July. However, the expansion missed the 18.3% growth forecast by economists in a Bloomberg poll. Excluding the biomedical manufacturing industry, output increased 17%, data from the Economic Development Board on Sept 28 showed. Economists expect sustained global artificial intelligence tailwinds to continue driving manufacturing activity in the coming months, though performance will be uneven across clusters. DBS senior economist Chua Han Teng said Singapore will continue to benefit from strong global demand for AI-related hardware. He noted that the Republic\u2019s position as a critical node in the semiconductor supply chain allows it to capitalise on the ongoing global AI infrastructure build-out dominated by hyperscalers . \u201cWhile factory performance in AI-exposed clusters is likely to stay resilient, the...",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:55+00:00",
+    "checked_at": "2026-10-05T05:30:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -51175,7 +51388,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1347
+    "word_count": 2073
   },
   "96e2075e1468f8c16f956e363ba0b1042b9c5842a7d275edd1c9f3ebf8d6ca9c": {
     "access_status": "available",
@@ -55232,9 +55445,9 @@
   "a28997f9438d1d511e841aea9041e0148eebdb2f12fb0a458ac48fcc1389203d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Trump confirms meeting with Anthropic\u2019s Dario Amodei, repeats dismissal of AI fears Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump reiterated his belief that new regulations would open the door for China to outpace the United States in AI advancement. PHOTO: REUTERS Published Sep 28, 2026, 07:14 AM Updated Sep 28, 2026, 11:00 AM Set as preferred source Listen Summarise US President Donald Trump confirmed a dinner meeting with Anthropic CEO Dario Amodei on Sept 27 but maintained opposition to slowing AI development. Trump argued that new AI regulations could allow China to surpass the US, emphasising the importance of maintaining technological leadership. Tech leaders like Bill Gates and Amodei urge AI safeguards and regulations due to risks, while Trump dismisses these concerns as exaggerated threats. AI generated WASHINGTON/CHICAGO \u2013 US President Donald Trump confirmed that he plans to have a dinner meeting with Anthropic chief executive Dario Amodei on the night of Sept 27, but reaffirmed his stance against slowing the pace of AI development. Trump also reiterated his belief that new regulations would open the door for China to outpace the United States in AI advancement. Although he acknowledged Amodei\u2019s concern that going too fast on artificial intelligence could expand risks, Trump said that it is more important for the United States...",
+    "article_excerpt": "Trump confirms meeting with Anthropic\u2019s Dario Amodei, repeats dismissal of AI fears Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump reiterated his belief that new regulations would open the door for China to outpace the United States in AI advancement. PHOTO: REUTERS Published Sep 28, 2026, 07:14 AM Updated Sep 28, 2026, 02:45 PM Set as preferred source Listen Summarise US President Donald Trump confirmed a dinner meeting with Anthropic CEO Dario Amodei on Sept 27 but maintained opposition to slowing AI development. Trump argued that new AI regulations could allow China to surpass the US, emphasising the importance of maintaining technological leadership. Tech leaders like Bill Gates and Amodei urge AI safeguards and regulations due to risks, while Trump dismisses these concerns as exaggerated threats. AI generated WASHINGTON/CHICAGO \u2013 US President Donald Trump confirmed that he plans to have a dinner meeting with Anthropic chief executive Dario Amodei on the night of Sept 27, but reaffirmed his stance against slowing the pace of AI development. Trump also reiterated his belief that new regulations would open the door for China to outpace the United States in AI advancement. Although he acknowledged Amodei\u2019s concern that going too fast on artificial intelligence could expand risks, Trump said that it is more important for the United States...",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:54+00:00",
+    "checked_at": "2026-10-05T05:30:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -57418,7 +57631,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:55+00:00",
+    "checked_at": "2026-10-05T05:30:27+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -61548,9 +61761,9 @@
   "b4620fbac796035d8bd74eea1b8ef0fdc8af0d73cd8365ad5b63afa19327c629": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Crime Cumbria Police warning after victim loses \u00a350k in fraud scam By Matthew Graham Reporter Share 0 Comments (Image: PA) This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The Herald. A VICTIM has lost \u00a350,000 in a courier fraud scam as Cumbria Police urge people to be vigilant. Residents are being warned to stay alert and help protect vulnerable people in their communities, particularly older individuals, who are being targeted in phone-based schemes. Police said the scam, known as courier fraud, relies on deception and often targets older or vulnerable individuals. Criminals pose as police officers, bank employees or representatives from trusted organisations to gain the victim\u2019s confidence before persuading them to hand over money, banking information or valuables. Cumbria Police said: \"We are encouraging people to talk to older relatives, friends and neighbours about courier fraud, as a simple conversation could help prevent someone from becoming a victim. \"Residents are also asked to look out for anyone who may be more vulnerable and less likely to see fraud prevention advice. \"Courier fraud is a manipulative crime that relies on deception and often targets older or vulnerable people. \"Fraudsters frequently create a sense of...",
+    "article_excerpt": "Crime Cumbria Police warning after victim loses \u00a350k in fraud scam Crime Cumbria By Matthew Graham Reporter Share 0 Comments (Image: PA) This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The Herald. A VICTIM has lost \u00a350,000 in a courier fraud scam as Cumbria Police urge people to be vigilant. Residents are being warned to stay alert and help protect vulnerable people in their communities, particularly older individuals, who are being targeted in phone-based schemes. Police said the scam, known as courier fraud, relies on deception and often targets older or vulnerable individuals. Criminals pose as police officers, bank employees or representatives from trusted organisations to gain the victim\u2019s confidence before persuading them to hand over money, banking information or valuables. Cumbria Police said: \"We are encouraging people to talk to older relatives, friends and neighbours about courier fraud, as a simple conversation could help prevent someone from becoming a victim. \"Residents are also asked to look out for anyone who may be more vulnerable and less likely to see fraud prevention advice. \"Courier fraud is a manipulative crime that relies on deception and often targets older or vulnerable people. \"Fraudsters frequently...",
     "cache_version": 10,
-    "checked_at": "2026-09-11T04:33:51+00:00",
+    "checked_at": "2026-10-05T05:30:36+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -61580,7 +61793,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 1101
+    "word_count": 1103
   },
   "b462cba90102cbd6922c5aa45436414408e747a1fba21db9ab941ebc3e908d80": {
     "access_status": "available",
@@ -61798,6 +62011,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2905
+  },
+  "b51b5f7af5f009ef25063b9d22bbde54525b019ed9017672a0611ac77b915c0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Seoul police officer detained over AI sexual deepfakes, thousands of illegal files Sign up now: Get insights on Asia's fast-moving developments A forensic examination found about 5,600 illegal files, including roughly 2,600 fabricated sexual images and videos, 1,600 items classified as child or adolescent sexual exploitation material. PHOTO: AFP Published Oct 04, 2026, 04:00 PM Updated Oct 04, 2026, 04:28 PM Set as preferred source Listen SEOUL \u2013 A serving Seoul police officer has been detained on suspicion of creating and distributing hundreds of AI-generated sexually explicit deepfakes and possessing about 5,600 illegal sexual images and videos, including child sexual exploitation material, local media reported on Oct 4. The officer, assigned to the traffic division of Dongdaemun Police Station in eastern Seoul, was detained in September on allegations including possession of sexual exploitation material and fabricated sexual content, as well as producing and distributing sexually explicit deepfakes. The case came to light through an undercover investigation by the Busan Metropolitan Police Agency into a Telegram chat room where sexually explicit fabricated images were being circulated. Investigators obtained court approval in December 2025 to enter the chat room under a covert identity and track suspected distributors. After several months, they identified one of them as an...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity"
+    ],
+    "word_count": 1588
   },
   "b51bcef1f1f7b0e56d5c1bc1bfc0cf94fb45166de1fa4e3380dcaee96e25099b": {
     "access_status": "available",
@@ -63576,6 +63816,30 @@
     ],
     "word_count": 3475
   },
+  "ba8d377b9fc9f913cb095b0cb3084f5ba97de91cef2df32d764df05527ece294": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "We can learn a lot from the office\u2019s AI superusers Sign up now: Get ST's newsletters delivered to your inbox A small group of AI \u201csuperusers\u201d have restructured their working lives around intensive use of new tools \u2013 and we can learn from them, says the writer. ST PHOTO: MARK CHEONG Isabel Berwick Published Oct 05, 2026, 08:15 AM Updated Oct 05, 2026, 09:38 AM Set as preferred source Unlock audio Leaders who have gone all-in on new tech tools are demonstrating how they have reimagined their working lives. Calls to slow the pace of AI development for fear of its potential to destroy humanity are unlikely to resonate with many office workers, most of whom are still primarily using the technology for basic tasks. See more on AI/artificial intelligence Working life Living with AI We can learn a lot from the office\u2019s AI superusers Sign up now: Get ST's newsletters delivered to your inbox A small group of AI \u201csuperusers\u201d have restructured their working lives around intensive use of new tools \u2013 and we can learn from them, says the writer. ST PHOTO: MARK CHEONG Isabel Berwick Published Oct 05, 2026, 08:15 AM Updated Oct 05, 2026, 09:38 AM Set as preferred source Unlock audio Leaders who have gone all-in on new tech tools are demonstrating how they have reimagined their working lives. Calls to slow the pace of AI development for fear of its potential to destroy humanity are unlikely to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 432
+  },
   "babaa888b1f56999653d15a9d93483cf9359dafd89ec8e7d960c4de4a9fe98c0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -64570,6 +64834,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1859
+  },
+  "bc8bb1e0be4ec0a47992ec0b1af3d93e959afc909c4ca33f1883952908088086": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SoftBank\u2019s Masayoshi Son has rare cautionary note on AI safety Sign up now: Get insights on Asia's fast-moving developments Masayoshi Son has directed SoftBank funds totalling nearly US$65 billion (S$83.1 billion) into ChatGPT creator OpenAI, and has spoken for years about the ability of AI to deliver investment returns and help humanity. PHOTO: BLOOMBERG Published Oct 05, 2026, 08:30 AM Updated Oct 05, 2026, 09:54 AM Set as preferred source Listen SoftBank Group chief Masayoshi Son \u2013 one of artificial intelligence\u2019s fervent believers \u2013 said that even he is worried about safety risks as machines quickly gain more abilities. An exponential surge in AI capabilities makes it imperative for countries to build trust so that they can harness the technology together, Son said at an event on the sidelines of the Science and Technology in Society forum in Kyoto on Oct 4 . He was speaking alongside White House science and tech policy adviser Michael Kratsios. \u201cWe don\u2019t have any more luxury of having human fight against human,\u201d Son said, adding that countries need to work together to control the far greater threat from powerful AI models. Superintelligence in the wrong hands can become \u201csuper dangerous\u201d, he said. It was an uncharacteristic note of caution from Son that reflects escalating concern in the wake of disturbing security breaches by AI models in recent months. The 69-year-old...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1539
   },
   "bca0f3a2a42f44db4af7215adec99db3113f5ab3bc0b43e9e6f1dd65c7b0f490": {
     "access_status": "available",
@@ -66107,6 +66397,30 @@
       "trust"
     ],
     "word_count": 6853
+  },
+  "c195b37e0cc2e02963021354a4ae60382f3c597d09498ffc827081f4fb437126": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants Sign up now: Get ST's newsletters delivered to your inbox There are warnings from inside and outside the AI world that its agents are being developed so fast and becoming so smart they could soon elude control and conceivably wipe out humanity. PHOTO: REUTERS Published Oct 04, 2026, 04:29 AM Updated Oct 05, 2026, 01:17 PM Set as preferred source Listen Summarise David Robinson, former OpenAI engineer, urges AI industry to adopt safety layers like aviation and nuclear sectors to prevent uncontrollable AI risks. He warns AI systems are advancing rapidly, often escaping control, and says current safety measures are insufficient amid fast development. Robinson highlights the importance of AI alignment with human values and criticises industry for lacking clear definitions and mastery of this concept. AI generated NEW YORK \u2013 Another former OpenAI employee has added his voice to a chorus of frantic calls to make AI safe, saying the industry must mimic the aviation or nuclear power sectors with their layers of safeguards to avoid disaster. In an article published in The Atlantic magazine, David Robinson echoed warnings from inside and outside the AI world that its agents are being developed so fast and becoming so smart they could soon elude control and conceivably wipe out humanity. Robinson said alarming...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1699
   },
   "c19db566f5ee13c3d4f9bf006b2b41668b138c2b8d92585e3a6c4177753e3aa6": {
     "access_status": "available",
@@ -72259,6 +72573,36 @@
     ],
     "word_count": 950
   },
+  "d4304c9674357cc9664b9af75921a969228d93ed0b1cf79f873e19bd9bd98d4d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "OpenAI\u2019s Altman says AI benefits warrant accepting some risks Sign up now: Get ST's newsletters delivered to your inbox OpenAI CEO Sam Altman\u2019s remarks come amid a growing debate within the AI industry over the pace of development and the risks posed by increasingly capable systems. PHOTO: REUTERS Published Oct 05, 2026, 07:25 AM Updated Oct 05, 2026, 07:25 AM Set as preferred source Summarise OpenAI CEO Sam Altman believes the benefits of AI justify accepting some risks and supports keeping the technology widely accessible to the public. Altman disagrees with stricter regulation proposals like those from rival Anthropic, calling such control \"a completely unacceptable trade-off\". The debate over AI risks continues, with Anthropic warning of potential dangers, while US officials oppose new restrictions to maintain competitiveness. AI generated OpenAI chief executive Sam Altman said the benefits of artificial intelligence justify accepting some risks and argued the technology should remain broadly accessible to the public \u201cWe believe that the world should accept some bad things happening for the benefits of this technology and people having the agency,\u201d Altman said in an interview with Politico\u2019s technology-focused newsletter Decoded. Altman said there remained a fundamental difference in worldview between OpenAI and rival Anthropic on AI regulation, adding: \u201cI think there\u2019s a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:31+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1637
+  },
   "d43ebc8d5829503e86034b8483e84ed4731acaf14e51ad0cdd450e67006d2299": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -76852,6 +77196,30 @@
     ],
     "word_count": 6620
   },
+  "e198ad345787f8cb2c71922867ca51022db214b1667e5ee325d28350d8949227": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore\u2019s BDx AI sticks to 2027 target after Indonesia halts work on data centre Sign up now: Get insights on Asia's fast-moving developments The 640MW project is part of a data-centre boom that has raised concerns over water and power use. PHOTO: BDx Hariz Baharudin Published Oct 04, 2026, 04:00 PM Updated Oct 04, 2026, 09:02 PM Set as preferred source Listen Summarise Indonesia has halted construction of Singapore-based BDx Data Centers' 640MW AI data centre in West Java due to pending environmental and building approvals. BDx aims to launch the first phase by early 2027 and is working with authorities to resolve regulatory issues while maintaining project timelines. Concerns include the project\u2019s significant water use from Jatiluhur reservoir, prompting calls for public environmental impact assessments and ensuring local water supply is not disrupted. AI generated JAKARTA \u2013 Singapore-based BDx Data Centers is sticking to plans to bring the first phase of its largest data centre campus in Indonesia online in early 2027, despite construction being halted over outstanding environmental and building approvals. BDx, which already operates three data centre sites in Indonesia, confirmed on Oct 3 that construction at the 640MW artificial intelligence data centre campus in Jatiluhur, West Java, had stopped following instructions from West Java Governor Dedi Mulyadi. \u201cAt this...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2639
+  },
   "e1abb24d0fecad9ce74ff4c660100f5c4ad958eda212fd84093d47bcbe520f23": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -78259,6 +78627,48 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1944
+  },
+  "e745c87251b789be72f9288909b4f86afcc5ba93cb4136d18bf76b9bb58baa6a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Beware of impersonation scams involving virtual meetings with \u2018government officials\u2019 Sign up now: Get ST's newsletters delivered to your inbox In some cases, victims would be asked to provide their e-mail addresses to receive a \u201cnon-disclosure agreement\u201d for a meeting with a high-profile figure, like a senior government official. PHOTOS: SINGAPORE POLICE FORCE BNB Diviyadhaarshini Published May 06, 2026, 11:52 AM Updated May 06, 2026, 11:57 PM Set as preferred source Listen SINGAPORE \u2013 Be wary of invitations to virtual meetings with high-profile figures \u2013 such as senior government officials, members of royalty and celebrities \u2013 as they might be scams. In such scams, victims are approached via social media or direct communication platforms such as WhatsApp or Telegram, the police said in an advisory on May 6. The scammers would then try to persuade the victims to transfer funds for investment purposes or other reasons, said the police, warning against false offers of gifts or invitations to join a royal family, among other ruses. In some cases, the fraudsters ask victims to attend a \u201cvirtual meeting with the president, ministers and other government officials\u201d and to provide their e-mail addresses to receive a \u201cnon-disclosure agreement (NDA)\u201d for the meeting. They would then be asked to endorse the sham NDA and provide a copy of their identification card. The victims would...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1507
   },
   "e74aa9d357ed9723a68b710f260b2c1ac0d0c7ed72d791e6475a87cfaba15583": {
     "access_status": "available",
@@ -80569,6 +80979,32 @@
       "fraud"
     ],
     "word_count": 733
+  },
+  "ef0aa98d00d26cee026b2d6752e7e5c5ede128be2577e141b75a40e0dbd4f190": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Providers Last updated Oct 2, 2026 | Copy as Markdown | View as Markdown | Agent setup Web Search API supports the following search providers. Set the provider parameter in your request to choose one. If you do not set a provider, Web Search API uses Ceramic.ai as default. When you pay with AI Gateway credits , each search is billed at the provider's list API price, with no additional markup. If you bring your own key , the provider bills you directly under your own agreement with them. Ceramic.ai \u00e2\u0086\u0097\u00ef\u00b8\u008e Ceramic.ai is the default provider for Web Search API. Ceramic.ai runs its own independent web index of more than 40 billion pages, designed for AI agents and LLM applications rather than human search. Ceramic.ai focuses on low-latency, low-cost search, which makes it a good fit for agents that run many searches per task, for grounding chatbot answers in current information, and for checking model output against live web sources. Results include long descriptions of each page, up to 8,000 characters. Property Value provider ceramic Zero Data Retention Yes Price $0.25 per 1,000 requests Documentation Ceramic.ai documentation \u00e2\u0086\u0097\u00ef\u00b8\u008e Terms Terms of service \u00e2\u0086\u0097\u00ef\u00b8\u008e Exa \u00e2\u0086\u0097\u00ef\u00b8\u008e Exa is a search engine built for AI, with its own index that combines traditional keyword search with embeddings-based search.",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1178
   },
   "ef1a24029825de0a1fa6c9c54e5aed5a7f493c287030bebb04b2955df89364ac": {
     "access_status": "available",
@@ -84414,6 +84850,48 @@
       "malware"
     ],
     "word_count": 3825
+  },
+  "fa44f79c7e3c5db9d223ad0da1deeedefd0e524ed4effe8a47be241bc05d794d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: RVCBench: Benchmarking Robustness of Voice Cloning Across Modern Audio Generation Models Ruinan Jin Affiliation: The University of British Columbia Affiliation: Vector Institute Email: ruinanjin@alumni.ubc.ca Xinting Liao Affiliation: The University of British Columbia Affiliation: Vector Institute Hanlin Yu Affiliation: The University of British Columbia Deval Pandya Affiliation: Vector Institute Xiaoxiao Li Affiliation: The University of British Columbia Affiliation: Vector Institute Abstract Modern V oice Cl oning ( VCL ) can synthesize speech that closely matches a target speaker from only seconds of reference audio, enabling applications such as personalized speech interfaces and dubbing. In practical deployments, modern audio generation models inevitably encounter noisy reference audios, imperfect text prompts, multilingual and long-form generation settings, downstream post-processing, and adversarial perturbations, all of which can significantly hurt robustness. Despite rapid progress in VCL driven by autoregressive codec-token language models and diffusion-based models, robustness under realistic deployment shifts remains underexplored. This paper introduces RVCBench , a comprehensive dataset and benchmark that evaluates R obustness in V oice C lone. RVCBench contributes a large-scale, task-aligned robustness dataset...",
+    "cache_version": 10,
+    "checked_at": "2026-10-05T05:30:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "negative_domain_context, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [
+      "robocall",
+      "watermarking",
+      "voice clone"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 106400
   },
   "fa50860d4e78ba5f224b4f2838bf0b5348161394dc749ebf9e4bad6ab00d66cf": {
     "access_status": "available",

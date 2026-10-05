@@ -5,31 +5,6 @@
         "Research paper": 2
       },
       "candidate_cache_age_minutes": null,
-      "candidate_count": 30,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 18,
-        "investigative": 1,
-        "psychology": 11
-      },
-      "shortlist_count": 7,
-      "source_domain_distribution": {
-        "arxiv.org": 3,
-        "ieeexplore.ieee.org": 4
-      },
-      "timestamp": "2026-08-16T01:56:32+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 1,
-        "Research / novel method": 1
-      }
-    },
-    {
-      "article_type_distribution": {
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
       "candidate_count": 29,
       "failed_constraints": [],
       "final_mix_constraints_satisfied": true,
@@ -1505,6 +1480,29 @@
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
         "Scam development": 2
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 25,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "psychology": 25
+      },
+      "shortlist_count": 2,
+      "source_domain_distribution": {
+        "newsandstar.co.uk": 1,
+        "straitstimes.com": 1
+      },
+      "timestamp": "2026-10-05T05:30:38+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Deepfakes, synthetic identity & impersonation": 1,
+        "Scam development": 1
       }
     }
   ]
