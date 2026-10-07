@@ -263,6 +263,10 @@
     "canonical_url": "https://arxiv.org/pdf/2608.01033",
     "resolved_at": "2026-08-05T03:29:09+00:00"
   },
+  "052751aab84e704b7beb774d2faab80f27ca61fb6dbefcf09dec03f026945c62": {
+    "canonical_url": "https://developers.cloudflare.com/changelog/post/2026-10-05-provider-credential-errors/",
+    "resolved_at": "2026-10-07T05:51:12+00:00"
+  },
   "052785d6ea03239a2ba0e78e3595887c5f72546a646caaad4825e6c113bc4267": {
     "canonical_url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
     "resolved_at": "2026-09-13T04:41:25+00:00"
@@ -754,6 +758,10 @@
   "0db9ff7a3fccca41d417f2295515dc6da654fb48506bae0c2b6ab4659715e556": {
     "canonical_url": "https://arxiv.org/html/2605.16471v1",
     "resolved_at": "2026-05-24T03:14:51+00:00"
+  },
+  "0dcb507bf676668c64b24a0793a4839eea0884b2ed1ab548e499934c63cc42c2": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bloomberg-intelligence-says",
+    "resolved_at": "2026-10-07T05:51:10+00:00"
   },
   "0dd8e2d0658bf8f4456f5baaff7d312a7437bd1d784e8f6fb8fbfda6346057bb": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6402418.pdf?abstractid=6402418&mirid=1",
@@ -2451,6 +2459,10 @@
     "canonical_url": "https://www.straitstimes.com/asia/australianz/ai-dominates-five-eyes-security-talks-in-australia",
     "resolved_at": "2026-08-28T11:19:10+00:00"
   },
+  "2933b8c07d14d5ef97be57efcf96383d098fd827bf7692563fd53aa94f4f85d4": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son",
+    "resolved_at": "2026-10-07T05:51:10+00:00"
+  },
   "2939b07ead2095e1767549ee2e9b18def1a8f8c9b4a02c37f210d1cc362ed3d4": {
     "canonical_url": "https://arxiv.org/html/2606.16874",
     "resolved_at": "2026-06-17T05:12:53+00:00"
@@ -2761,7 +2773,7 @@
   },
   "2ea5970aaa6fb6509f9bda54f9c919e3613ccf480303b6780371e085901f14c7": {
     "canonical_url": "https://developers.cloudflare.com/workers/platform/pricing/",
-    "resolved_at": "2026-09-05T04:20:15+00:00"
+    "resolved_at": "2026-10-07T05:51:15+00:00"
   },
   "2ed1c4ac8b7d54e2afb4343805b265dfbaba5423e602e65fa9073eb8d336981b": {
     "canonical_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6139207",
@@ -3233,7 +3245,7 @@
   },
   "3740d2c2d80ac0f16d62688a91db4efefa23cf9778740c73776479d893f0e640": {
     "canonical_url": "https://www.straitstimes.com/world/united-states/chatgpt-maker-wants-to-be-the-app-store-for-ai-as-safety-concerns-grow",
-    "resolved_at": "2026-09-30T05:27:32+00:00"
+    "resolved_at": "2026-10-07T05:51:06+00:00"
   },
   "375818bd723259dc763761e0a2b4f3308106562d9d94711d3b7814aef0ba00f4": {
     "canonical_url": "https://developers.cloudflare.com/api/resources/analytics_query/subresources/data_security/subresources/findings/methods/timeseries",
@@ -3337,7 +3349,7 @@
   },
   "39456af360f7dc669587162b64a26537dec5a52160d717c2d9c707e8a1dd6148": {
     "canonical_url": "https://www.straitstimes.com/world/united-states/trump-to-host-anthropics-amodei-nvidias-huang-other-execs-as-ai-fears-mount",
-    "resolved_at": "2026-09-30T05:27:44+00:00"
+    "resolved_at": "2026-10-07T05:51:11+00:00"
   },
   "39585b1d2d8e89861847d0befc32b15a017f4b5048692ccd863b4ada948a0632": {
     "canonical_url": "https://www.reuters.com/business/finance/unicredit-rejects-commerzbank-claims-that-take-up-is-lower-than-seems-2026-06-15/",
@@ -3370,6 +3382,10 @@
   "399da19cdce50696a5a7a1a0018b1ccf198ee9f3856c85a43bebe81835baa2c6": {
     "canonical_url": "https://www.economist.com/asia/2026/07/16/a-real-but-selective-crackdown-on-cambodias-scam-industry",
     "resolved_at": "2026-07-17T03:34:37+00:00"
+  },
+  "39ab5462ce2a2e2b62f4ce92d37a5590e3ab38636c49d3aad0f3be2de9233352": {
+    "canonical_url": "https://www.straitstimes.com/opinion/we-can-learn-a-lot-from-the-offices-ai-superusers",
+    "resolved_at": "2026-10-07T05:51:09+00:00"
   },
   "39c4727805c391b393107910dcb0456adf779300607157954b862427d3a0950e": {
     "canonical_url": "https://www.reuters.com/legal/litigation/eu-imposes-sanctions-russians-over-human-rights-cybercrime-2026-07-13/",
@@ -5183,6 +5199,10 @@
     "canonical_url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
     "resolved_at": "2026-09-03T04:18:21+00:00"
   },
+  "5829bd025c1ef098d03d4a298ae03fe7d66a74f7273346b0cff60708cce45054": {
+    "canonical_url": "https://www.straitstimes.com/asia/east-asia/softbanks-masayoshi-son-has-rare-cautionary-note-on-ai-safety",
+    "resolved_at": "2026-10-07T05:51:05+00:00"
+  },
   "583198c1067878f9e3da9f09b72f8f198b535d5f4439169697002b51c0aaa484": {
     "canonical_url": "https://arxiv.org/html/2605.23243v5",
     "resolved_at": "2026-07-27T03:59:00+00:00"
@@ -5209,7 +5229,7 @@
   },
   "588412601c35f96fab4f4851b758f5ce1bd0fbaad2124ac65986c9124f6b8105": {
     "canonical_url": "https://www.straitstimes.com/world/united-states/trump-releases-ai-accord-with-tech-executives",
-    "resolved_at": "2026-09-30T05:27:26+00:00"
+    "resolved_at": "2026-10-07T05:51:04+00:00"
   },
   "589738360c35c36a002b89b57158d7514775da1ee9e087c8f53a2dc2a6be620e": {
     "canonical_url": "https://arxiv.org/abs/2606.13757",
@@ -5702,6 +5722,10 @@
   "61b89a203ed1a0eae5229b0184ddc7655a5478ca99dcb152ac258cadb5c4dcb7": {
     "canonical_url": "https://www.ft.com/content/32b5af43-6ceb-452d-ac2f-d4cda3f4938c",
     "resolved_at": "2026-06-18T05:01:32+00:00"
+  },
+  "61bf30a270736e6d80731cb072358e81c93f09a72a0145c7a37e94d4eef76df5": {
+    "canonical_url": "https://www.straitstimes.com/singapore/one-dead-after-accident-near-queen-street-bus-terminal",
+    "resolved_at": "2026-10-07T05:51:09+00:00"
   },
   "61c0c3d0c8d368adf453fbfa8366b27017835773a22fef7d7f45803595719062": {
     "canonical_url": "https://jobs.theguardian.com/landingpage/2867596/jobs-fraud-html/7/",
@@ -7131,6 +7155,10 @@
     "canonical_url": "https://www.straitstimes.com/business/nvidia-agrees-to-buy-hugging-face-for-16-4-billion-report",
     "resolved_at": "2026-08-28T11:20:12+00:00"
   },
+  "7a9f81b811c3954cd080566f106e75fb9f2bedab8b1dec973678bcc67f7076e7": {
+    "canonical_url": "https://www.straitstimes.com/paid-press-releases/myrtleais-vollo-sets-new-stac-ml-records-for-gradient-boosted-tree-inference-20261006",
+    "resolved_at": "2026-10-07T05:51:08+00:00"
+  },
   "7aa357b5f280cd27e9082e909689ce929e474cd0613a4d057346e1e4414ce3e0": {
     "canonical_url": "https://www.channelnewsasia.com/singapore/teen-register-25-sim-cards-scam-victims-5610606",
     "resolved_at": "2026-06-09T04:26:41+00:00"
@@ -7162,6 +7190,10 @@
   "7ae10f80130bc8bc11e86cef52919d1e259d9b0bc45ef596990dc7d51c68fba5": {
     "canonical_url": "https://arxiv.org/html/2606.16659",
     "resolved_at": "2026-06-17T05:12:53+00:00"
+  },
+  "7afc3480cf110a54a37f03be3f7ce13d3ef8d3bee3f92bbd3e8963d00439d5b6": {
+    "canonical_url": "https://arxiv.org/pdf/2610.05541",
+    "resolved_at": "2026-10-07T05:51:06+00:00"
   },
   "7b03ffb33e98852de027e7a58eda71347b4fa28bf7a2f3ff6d4b78a5e7be1d37": {
     "canonical_url": "https://arxiv.org/html/2509.05367",
@@ -7350,6 +7382,10 @@
   "7e6563e52fd7c86ab3209c20a2433870fb0b914aa1eb7b68677cb780b4a26c74": {
     "canonical_url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
     "resolved_at": "2026-09-03T04:18:59+00:00"
+  },
+  "7e67c550433f0ef64bad043e1880d6684064773b312bd22f5379510ba307b157": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/white-house-denies-trump-suggested-iran-should-take-out-us-cities",
+    "resolved_at": "2026-10-07T05:51:09+00:00"
   },
   "7e6f6524bc74b3d7b47cb0b784f739d4249a5cb5585c5fde94e15f9273b6d18f": {
     "canonical_url": "https://arxiv.org/html/2606.13757v2",
@@ -7577,7 +7613,7 @@
   },
   "81c6580e1b73b22c7a84deabb64e27bce6dd15b36243aac7065e688bc36e856d": {
     "canonical_url": "https://goodyfeed.com/nude-chat-extortion-scams-hit-at-least-52-victims-losses-reach-s134000-since-august/",
-    "resolved_at": "2026-09-04T04:24:53+00:00"
+    "resolved_at": "2026-10-07T05:51:54+00:00"
   },
   "81d1c43ccbb3c73f1db70dfcce3e078d17ee7bd0bce58b804df85826238a457a": {
     "canonical_url": "https://www.channelnewsasia.com/commentary/ai-anthropic-mythos-threat-cybersecurity-singapore-csa-6103386",
@@ -8523,6 +8559,10 @@
     "canonical_url": "https://arxiv.org/html/2602.03520",
     "resolved_at": "2026-07-08T03:41:37+00:00"
   },
+  "931c7a1c91e8ed05594bb287794d9d99bfc8e34a978f6fdebe0baf9682573cb6": {
+    "canonical_url": "https://www.channelnewsasia.com/east-asia/china-ai-dating-apps-anthropic-claude-report-6420866",
+    "resolved_at": "2026-10-07T05:51:54+00:00"
+  },
   "931d24672a29108980c5e28143a0a20136378cedfeac98a1e53f8dacc7fcc9d4": {
     "canonical_url": "https://arxiv.org/html/2512.01166",
     "resolved_at": "2026-06-19T05:23:21+00:00"
@@ -8591,6 +8631,10 @@
     "canonical_url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/22/romance-scams-bank-refunds-australia",
     "resolved_at": "2026-06-22T05:28:50+00:00"
   },
+  "93ed892570a2f3f19e143e5d48d5c4bb304e0be155a29c437df410f10e1aeb1d": {
+    "canonical_url": "https://www.straitstimes.com/asia/east-asia/south-korean-megachurches-probe-suspected-ai-linked-cyberattacks",
+    "resolved_at": "2026-10-07T05:51:07+00:00"
+  },
   "9419abc99b1da7e9e1db11839dfea9381ef337b7ae87b078107860f6fe83db91": {
     "canonical_url": "https://www.404media.co/behind-the-blog-early-birthday-reflections/",
     "resolved_at": "2026-08-22T01:48:41+00:00"
@@ -8616,8 +8660,8 @@
     "resolved_at": "2026-08-15T01:48:03+00:00"
   },
   "946a9f99fb4be6d999e6173fd9edb09865d6b89af83fb43dc01f9da20d5be240": {
-    "canonical_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZUZxTzE2RVdxdlFIMTVyVTFHdlByVTNtV0pRSU9vZUxMd0JpRXBqaFljX3F1MWtSUmZMQlc2eDRVRHdwQ1NCbDQ3QjVwWHZpTHFLQUZpNzBpZEp0QWJ3?oc=5",
-    "resolved_at": "2026-09-30T05:28:17+00:00"
+    "canonical_url": "https://dl.acm.org/doi/pdf/10.1145/3803632.3807887",
+    "resolved_at": "2026-10-07T05:51:17+00:00"
   },
   "946cfcc2696f336e0d6fb4fdc2dd9d065109a38b66401f4c941984c33199bb3d": {
     "canonical_url": "https://apnews.com/article/ice-camp-detention-trump-homeland-security-dhs-immigration-deaths-abuse-30ec92636a5601b0071895efa871b990",
@@ -9277,7 +9321,7 @@
   },
   "9fc2f54d1e15592c55d14ab930c253c16e7764d2ceecd4ab0c1c7586620a7bb8": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/3cf28c9e-57ea-4126-9a10-05b739ca736f-MECA.pdf?abstractid=7532370&mirid=1",
-    "resolved_at": "2026-09-30T05:28:12+00:00"
+    "resolved_at": "2026-10-07T05:51:18+00:00"
   },
   "9fcd48072714049fd0eca31588e21d0440e85124cadd59ca1da4dd3cac6bffed": {
     "canonical_url": "https://arxiv.org/html/2607.06466",
@@ -9354,6 +9398,10 @@
   "a0dcbc0b8198f39be5aa5947f6d79c9993786c0d310352a70c2866a2a2c3c95a": {
     "canonical_url": "https://www.reuters.com/world/china/us-official-says-shipments-h200-chips-china-have-begun-2026-07-14/",
     "resolved_at": "2026-07-15T03:30:50+00:00"
+  },
+  "a0f7dc0ea3069b8e5c2ee8ed13ebb1b9f0895ef26951cb13ebb9360fd0dbdc95": {
+    "canonical_url": "https://www.channelnewsasia.com/east-asia/china-ai-dating-apps-anthropic-claude-report-6420866",
+    "resolved_at": "2026-10-07T05:51:07+00:00"
   },
   "a10f760275a5019ef46df0a4012ba4b2862de4160fb40f5074eaa724d39b440a": {
     "canonical_url": "https://www.wired.com/story/femas-shadow-administrator-was-paid-by-a-doge-members-startup-for-months/",
@@ -10723,6 +10771,10 @@
     "canonical_url": "https://asia.nikkei.com/spotlight/esg/is-japan-soft-on-accounting-fraud-some-experts-point-to-low-fines",
     "resolved_at": "2026-07-17T03:34:23+00:00"
   },
+  "b7a2dd4f58429a496eb7adfb806219f92ade53f674a2fc671a93f88b4a0421eb": {
+    "canonical_url": "https://www.straitstimes.com/life/entertainment/shang-chi-actor-simu-liu-marries-fiancee-allison-hsu-in-france",
+    "resolved_at": "2026-10-07T05:51:14+00:00"
+  },
   "b7b18f611f4433baa9f26ca0d17ebd494647d738b732331cf443eb43b994b46e": {
     "canonical_url": "https://www.straitstimes.com/singapore/new-300m-grant-to-fund-nascent-technologies-in-singapore-under-rie2030",
     "resolved_at": "2026-09-02T04:24:41+00:00"
@@ -11074,6 +11126,10 @@
   "bdc52ea416a039a70cbab2e000072689dab1a795dadf3b4c0666f4ef9cb7699e": {
     "canonical_url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
     "resolved_at": "2026-06-23T04:19:36+00:00"
+  },
+  "bdde412e58666071d9eacf862c1e292f5be3ee9475de315ccc0a4a4f7d50701f": {
+    "canonical_url": "https://www.wired.com/story/the-secrets-of-the-us-spyware-king/",
+    "resolved_at": "2026-10-07T05:51:11+00:00"
   },
   "bddece980abb11e0261ae3961a0723f8e0a5412984dd7df7f129fbcf2a68dba1": {
     "canonical_url": "https://www.reuters.com/video/watch/idRW321106022026RP1/",
@@ -11766,6 +11822,10 @@
   "ca6ea478094eac116bab3752b38215cb83da3ca9967e4746deaacecff57ddd1f": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7072318.pdf?abstractid=7072318&mirid=1",
     "resolved_at": "2026-09-16T04:45:29+00:00"
+  },
+  "ca986c9acfdf39c3d678f5445080b8df42dc602e5a20c0cee0e55b342bcd8b4b": {
+    "canonical_url": "https://www.wired.com/story/prime-day-mattress-deals-10-06-2026/",
+    "resolved_at": "2026-10-07T05:51:14+00:00"
   },
   "ca9c9c57219c3457762b2ce8dae1b9ca2694c6334b1d0599965a600b9864fc6e": {
     "canonical_url": "https://www.theguardian.com/australia-news/audio/2026/jun/22/the-king-of-the-north-who-is-the-man-tipped-to-be-the-next-british-pm-full-story-podcast",
@@ -12643,6 +12703,10 @@
     "canonical_url": "https://www.theguardian.com/world/2026/jun/17/forced-marriage-exploitation-women-china",
     "resolved_at": "2026-06-22T05:28:33+00:00"
   },
+  "d8a00989e32bacc6bf18da3fb98fcc7920aa02d2da68ac9a5469400d5c3c1eb5": {
+    "canonical_url": "https://www.straitstimes.com/world/united-states/trump-approves-firing-squad-for-convicted-us-military-base-shooter-pentagon",
+    "resolved_at": "2026-10-07T05:51:11+00:00"
+  },
   "d8a748155dc6edc5744efabdd1dfc6a24d7443141d5fd453d1d2338c25a7abf2": {
     "canonical_url": "https://www.straitstimes.com/world/europe/pope-leo-says-concerns-about-ai-doom-are-not-fake-news",
     "resolved_at": "2026-10-06T06:14:14+00:00"
@@ -12990,6 +13054,10 @@
   "de4c7a5efba3c5e663613fead5c3e017f7678e7a7126a246ed708ead41eef60a": {
     "canonical_url": "https://www.abc.net.au/news/2026-07-10/nigel-farage-resigns-triggers-byelection-and-faces-count-binface/106896344",
     "resolved_at": "2026-07-10T04:11:39+00:00"
+  },
+  "de663bebe0bd2e3bfd2af0c75b34f63ec07fd6e510c034c0a2dfc82235620510": {
+    "canonical_url": "https://www.wired.com/story/gift-cards-and-digital-gift-ideas/",
+    "resolved_at": "2026-10-07T05:51:13+00:00"
   },
   "de7c8bbec34b967e6a549f6a4bff883dc90821bd686141202f509a876d783698": {
     "canonical_url": "https://www.reuters.com/business/uk-regulator-sanctions-auditor-metals-magnate-sanjeev-guptas-gfg-alliance-2026-06-23/",
@@ -13471,6 +13539,10 @@
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6709118.pdf?abstractid=6709118&mirid=1",
     "resolved_at": "2026-05-28T01:55:42+00:00"
   },
+  "e523022fe0af7f0b765126a1d760f60013be720b4ecb8f40895903e80b1d295b": {
+    "canonical_url": "https://markets.ft.com/data/announce/detail?dockey=600-202610060900PR_NEWS_USPRX____NY64272-1",
+    "resolved_at": "2026-10-07T05:51:03+00:00"
+  },
   "e53d8ee502fcc021dd3c5b631517cb30cdd4aee0218c20ba2fb2c9ac3e0eb7db": {
     "canonical_url": "https://asia.nikkei.com/spotlight/the-future-of-asia/future-of-asia-2026/from-scams-to-deepfakes-ai-use-in-asia-creates-new-cyberthreats",
     "resolved_at": "2026-06-12T05:00:50+00:00"
@@ -13927,9 +13999,13 @@
     "canonical_url": "https://www.bbc.com/news/articles/cly7j0p6jeno",
     "resolved_at": "2026-06-19T05:22:37+00:00"
   },
+  "ed0367c3a923fcdba7ea7f36b46c5bbd52a0f0bf2f570228b0297d7797ca2952": {
+    "canonical_url": "https://arxiv.org/html/2610.04467v1",
+    "resolved_at": "2026-10-07T05:51:04+00:00"
+  },
   "ed03db018294868cb5198d470f7a7bede20262be4a283607621a8e24a7ac38d3": {
     "canonical_url": "https://arxiv.org/html/2609.33102v1",
-    "resolved_at": "2026-09-30T05:27:24+00:00"
+    "resolved_at": "2026-10-07T05:51:05+00:00"
   },
   "ed05acfbaeeaef9227b69e5d27901c4489368a745b93c6641d9ae200414fe8de": {
     "canonical_url": "https://www.theguardian.com/australia-news/2026/jun/23/australia-nurses-alleged-antisemitic-comments-video-struck-court-case-ntwnfb",
@@ -14545,7 +14621,7 @@
   },
   "f80e3f5771cfeec805708090ccecdbc1f0c7507a7cb6556bbbb17263eab8c0c4": {
     "canonical_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7530178.pdf?abstractid=7530178&mirid=1&type=2",
-    "resolved_at": "2026-09-30T05:28:11+00:00"
+    "resolved_at": "2026-10-07T05:51:17+00:00"
   },
   "f818ab5f632b6406ac37fee4506bfc7158b0d25987d3d4130079a5f02c3d185c": {
     "canonical_url": "https://arxiv.org/html/2609.35291v1",
@@ -15037,7 +15113,7 @@
   },
   "ff7e871a9fc5bc852dc090267a50f6d8017561c433d0c1a82c7567ab31d51245": {
     "canonical_url": "https://www.straitstimes.com/opinion/forum/forum-every-copy-and-paste-into-an-ai-tool-carries-the-risk-of-compromising-companys-security",
-    "resolved_at": "2026-09-30T05:27:30+00:00"
+    "resolved_at": "2026-10-07T05:51:06+00:00"
   },
   "ff917049e43e7f92588f3c5ec4dde46377512172541d3034bdbc7464f3195d11": {
     "canonical_url": "https://www.wired.com/story/ring-promo-code/",

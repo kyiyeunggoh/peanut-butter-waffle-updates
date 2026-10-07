@@ -47,6 +47,30 @@
     ],
     "word_count": 750
   },
+  "004b03d1b36f70f79d41696c36934100c73f9dc8d80fb10c2c0d7657380009b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump approves firing squad for convicted US military base shooter: Pentagon Sign up now: Get ST's newsletters delivered to your inbox Nidal Hasan\u2019s execution for the attack at Fort Hood in Texas will be the first carried out by the US military since 1961. PHOTO: KENNY HOLSTON/NYTIMES Published Oct 06, 2026, 08:42 AM Updated Oct 06, 2026, 01:02 PM Set as preferred source Listen Summarise US President Donald Trump has approved the execution by firing squad of Nidal Hasan, who killed 13 people in the 2009 Fort Hood military base shooting. This will be the first US military execution since 1961, with the Army Secretary to set the time and place for the execution. Hasan, inspired by Al-Qaeda, was sentenced to death in 2013 and chose to defend himself without denying the charges during the trial. AI generated WASHINGTON \u2013 US President Donald Trump has approved the execution by firing squad of Nidal Hasan, a US Army psychiatrist who shot dead 13 people at a military base in 2009, the Pentagon said on Oct 5 . Hasan\u2019s execution for the attack at Fort Hood in Texas \u2013 which also wounded more than two dozen people \u2013 will be the first carried out by the US military since 1961. US Defence Secretary Pete Hegseth \u201chas recommended \u2013 and President Donald J. Trump has approved \u2013 death by US Army firing squad for convicted terrorist Nidal Malik Hasan\u201d, Pentagon spokesman Sean Parnell said in a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1768
+  },
   "004ba91824bc9dc3c78ac887bcbf53cbaf8d21e5b2f92032544a6350c0dea36c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -1209,6 +1233,30 @@
       "trust"
     ],
     "word_count": 20505
+  },
+  "03eb2659ca029775be6e86692febcc9c8a8c8d6faeacda91efe91059e59266fb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "03fe1c831f3485a57010d79126b25bde177e17d99097b4c806f407133aa22fbf": {
     "access_status": "available",
@@ -3408,6 +3456,35 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4280
+  },
+  "0adebd234fafb5d077ef91b8910c1566254b7d7ccc13739278225197c2799b8a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Target-free Latent Safety Alignment Luoyu Chen Affiliation: University of Technology Sydney, Sydney, NSW, Australia Weiqi Wang \u2020 \u2020 thanks: Corresponding author. Affiliation: Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China Chenhan Zhang Affiliation: University of Technology Sydney, Sydney, NSW, Australia Zhiyi Tian Affiliation: Southeast University, Nanjing, Jiangsu, China Yuxian Huang Affiliation: Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China Shui Yu Affiliation: University of Technology Sydney, Sydney, NSW, Australia Abstract Large language models (LLMs) remain highly vulnerable to jailbreak attacks that induce harmful behaviors and circumvent safety alignment. To defend against such attacks, adversarial training paradigms have been proposed to first simulate failure modes and then train the model to correct them, yielding promising improvements in safety alignment. However, these methods typically construct adversarial samples either by encouraging fixed harmful target completions or by performing targeted activation ablation derived from fixed benign\u2013harmful data pairs. As a result, the generated adversarial samples tend to induce homogeneous harmful behaviors that poorly reflect the diversity of behaviors elicited by real-world jailbreak attacks. This behavior-level narrowness fundamentally...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 25297
   },
   "0af37f9b25841a499feee1d448efe09e75c99803937e5f92962710a29d7f1fa4": {
     "access_status": "available",
@@ -5879,6 +5956,32 @@
       "trust"
     ],
     "word_count": 12165
+  },
+  "11aa783f6a6c2d20e2219bb22dde051bff1c8c631c03db4155b5917ed8f9485c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US accuses California woman of spying for China, surveilling Taiwan leader\u2019s son Sign up now: Get ST's newsletters delivered to your inbox A California woman, Wanying Zhang, also known as Heather, being taken by the FBI in Los Angeles on Oct 4. PHOTO: REUTERS Published Oct 05, 2026, 09:58 AM Updated Oct 05, 2026, 02:59 PM Set as preferred source Listen Summarise A California woman, Wanying Zhang, was arrested for spying on a son of Taiwan's president for Chinese officials, according to the FBI. Zhang surveilled Lai Ting-yu, collecting photos, videos and licence plate details, and acted as an unregistered foreign agent. The case highlights tensions between the US, China and Taiwan, with the US supporting Taiwan despite lacking formal diplomatic ties. AI generated WASHINGTON \u2013 US authorities arrested a California woman on Oct 4 and accused her of spying on a son of Taiwan\u2019s President at the behest of Chinese officials, the Federal Bureau of Investigation (FBI) s aid. The FBI arrested Wanying Zhang, also known as Heather, at Los Angeles International Airport on Oct 4 before her planned departure to China, the agency said in a statement. The authorities charged Zhang, 34, of Irvine, California, with acting as an unregistered foreign agent. Zhang surveilled a son of Taiwanese President Lai Ching-te, the FBI said. The agency did not directly name Zhang\u2019s alleged target, but later...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 1425
   },
   "11af3672340fec774848df61ebc18595e3be3b4aa3859a89df9a8bbb7f4ec237": {
     "access_status": "available",
@@ -11568,6 +11671,32 @@
     ],
     "word_count": 4053
   },
+  "231c84a21c1587a0eb67ae05e4e36e829a1f8415ec6be13d481c1e5ed2a10191": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SoftBank\u2019s Masayoshi Son has rare cautionary note on AI safety Sign up now: Get insights on Asia's fast-moving developments Masayoshi Son has directed SoftBank funds totalling nearly US$65 billion (S$83.1 billion) into ChatGPT creator OpenAI, and has spoken for years about the ability of AI to deliver investment returns and help humanity. PHOTO: BLOOMBERG Published Oct 05, 2026, 08:30 AM Updated Oct 05, 2026, 09:54 AM Set as preferred source Listen SoftBank Group chief Masayoshi Son \u2013 one of artificial intelligence\u2019s fervent believers \u2013 said that even he is worried about safety risks as machines quickly gain more abilities. An exponential surge in AI capabilities makes it imperative for countries to build trust so that they can harness the technology together, Son said at an event on the sidelines of the Science and Technology in Society forum in Kyoto on Oct 4 . He was speaking alongside White House science and tech policy adviser Michael Kratsios. \u201cWe don\u2019t have any more luxury of having human fight against human,\u201d Son said, adding that countries need to work together to control the far greater threat from powerful AI models. Superintelligence in the wrong hands can become \u201csuper dangerous\u201d, he said. It was an uncharacteristic note of caution from Son that reflects escalating concern in the wake of disturbing security breaches by AI models in recent months. The 69-year-old...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1539
+  },
   "2329d8a32217a9ffc8428baee5b5373914ac8f697e947ae931bbff0a58033ae7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -12278,6 +12407,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "2596b4d1408e0b7e975af9ada22dbab7ce2c2b1b4932f212e6abf2b834194ca8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "We can learn a lot from the office\u2019s AI superusers Sign up now: Get ST's newsletters delivered to your inbox A few AI \u201csuperusers\u201d have restructured their working lives around intensive use of new tools \u2013 and we can learn from them, says the writer. ST PHOTO: MARK CHEONG Isabel Berwick Published Oct 05, 2026, 08:15 AM Updated Oct 06, 2026, 07:40 PM Set as preferred source Unlock audio Leaders who have gone all-in on new tech tools are demonstrating how they have reimagined their working lives. Calls to slow the pace of artificial intelligence development for fear of its potential to destroy humanity are unlikely to resonate with many office workers, most of whom are still primarily using the technology for basic tasks. See more on AI/artificial intelligence Working life Living with AI We can learn a lot from the office\u2019s AI superusers Sign up now: Get ST's newsletters delivered to your inbox A few AI \u201csuperusers\u201d have restructured their working lives around intensive use of new tools \u2013 and we can learn from them, says the writer. ST PHOTO: MARK CHEONG Isabel Berwick Published Oct 05, 2026, 08:15 AM Updated Oct 06, 2026, 07:40 PM Set as preferred source Unlock audio Leaders who have gone all-in on new tech tools are demonstrating how they have reimagined their working lives. Calls to slow the pace of artificial intelligence development for fear of its potential to destroy...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 429
   },
   "25b5d27b22e52fd0725b6c69fdfd1646b513aea4ff54bb438891eb7e3001caba": {
     "access_status": "available",
@@ -16592,6 +16745,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 5442
+  },
+  "32c457f9a04e5aa89d74bba6b1c93a3788d6bbc5a64fe7c46929228d65b33337": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It also promises to cut off any customer caught misusing its products against journalists, dissidents, or other non-legitimate targets. Yet weeks after Paragon, then Israeli-owned, was acquired by the US equity firm AE Industrial Partners in December 2024 and merged with REDLattice\u2014an American offensive cyber firm owned by AE that this week announced plans to go public \u2014WhatsApp alleged that Paragon\u2019s Graphite spyware was used to infect the phones of more than 60 individuals in more than 20 countries, including journalists and activists. Most of the targets were not identified, but the University of Toronto\u2019s Citizen Lab named two journalists and two activists in Italy. Italian authorities denied misuse . Paragon and its new US owners, despite their zero-tolerance policy for customer abuse of their software, initially declined to comment on the allegations, and reportedly was exploring potential legal action against WhatsApp after the company sent a cease-and-desist letter to Paragon. Within a week, however, Paragon had canceled the two contracts it had with Italy\u2019s domestic and foreign intelligence agencies. From the outside, it seemed Paragon must have conducted an investigation and verified the allegations before canceling the contracts. But Paragon and RedLattice\u2019s new CEO, Andrew Boyd, now says in an exclusive and surprisingly candid interview with WIRED that the company...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 9923
   },
   "32cfb944e39b594fd67d8bb4705c595e5d3b9149f867d04dd3ad5f146248550a": {
     "access_status": "available",
@@ -23870,6 +24051,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4790
+  },
+  "46ddcc00a219a251a336fea4b464eb3c293dbf332ac90f2ed2dda06aececbc52": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Although the lowest prices we see are usually during Amazon's summer sale, Black Friday, and Cyber Monday, you can still snag discounts on our favorite WIRED-tested mattresses , sheets , and bedding . Prime Big Deal Days start today and run through October 7. Amazon is probably not the first place you'd go to buy a mattress, but many items qualify for fast, free shipping with Prime, and there's a wide range of inexpensive mattresses, bedding, and sleep tech like sound machines . I'll be on the lookout for more deals on our favorite WIRED-tested beds and sleep tech throughout the sales event, so be sure to check back often for major discounts on these often-pricey purchases. (Note that all prices are for queen sizes.) Read our related Amazon Prime Day shopping guides to ensure you're making the most of the sales, including How to avoid scams and sketchy wares on Amazon , Amazon Prime perks you might not know about , and Amazon Prime Day tips . Want more Amazon Prime Day deals ? Read our Absolute Best Prime Big Deal Days deals roundup. Top WIRED Deals The best mattress deal: Birch Luxe Natural Mattress for $1,968 ($656 off) The best cooling sheets deal: Sijo AiryWeight Eucalyptus Sheet Set for $149 ($36 off) The best pillow deal: Coop Sleep Goods Cool+ Cut Out Adjustable Pillow for $127 ($32 off) This Organic Mattress Is $656 Off Photograph: Wired Save to wishlist Save to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2463
   },
   "46e26212b3e8777309ee175df168b99daf9639afd69f71071582bd87b2788eb4": {
     "access_status": "available",
@@ -32714,9 +32925,9 @@
   "60a145f2df431e1c727c25d29d1e6e52330c2fee2342e752ba0c8edd4355ac7a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Forum: Every copy-and-paste into an AI tool carries the risk of compromising company\u2019s security Sign up now: Get ST's newsletters delivered to your inbox Published Sep 30, 2026, 05:00 AM Updated Sep 30, 2026, 05:00 AM Set as preferred source Every morning, employees across the world open a browser tab and quietly paste valuable corporate data into public AI tools. They aren\u2019t bad actors. They are overstretched staff summarising presentation slides, developers entering proprietary code to diagnose bugs, and managers drafting sensitive documents. In the relentless pursuit of productivity, the simple copy-and-paste command has become an unmonitored exit point for confidential information. This reality frequently comes up at Kopi Meet Up, a monthly gathering I founded for security professionals to exchange insights. While organisations race to harness generative AI, many are still struggling to manage its underlying security implications. The core challenge is not simply employee negligence. It is whether organisations have given employees a safe and practical way to use AI. They must move beyond dense policy documents that sit unread on intranets . Secure AI usage must become an intuitive, frictionless part of everyday work.",
+    "article_excerpt": "Forum: Every copy-and-paste into an AI tool carries the risk of compromising company\u2019s security Sign up now: Get ST's newsletters delivered to your inbox Published Sep 30, 2026, 05:00 AM Updated Sep 30, 2026, 05:00 AM Set as preferred source Listen Every morning, employees across the world open a browser tab and quietly paste valuable corporate data into public AI tools. They aren\u2019t bad actors. They are overstretched staff summarising presentation slides, developers entering proprietary code to diagnose bugs, and managers drafting sensitive documents. In the relentless pursuit of productivity, the simple copy-and-paste command has become an unmonitored exit point for confidential information. This reality frequently comes up at Kopi Meet Up, a monthly gathering I founded for security professionals to exchange insights. While organisations race to harness generative AI, many are still struggling to manage its underlying security implications. The core challenge is not simply employee negligence. It is whether organisations have given employees a safe and practical way to use AI. They must move beyond dense policy documents that sit unread on intranets . Secure AI usage must become an intuitive, frictionless part of everyday work.",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:46+00:00",
+    "checked_at": "2026-10-07T05:51:47+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -32735,7 +32946,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 1232
+    "word_count": 1234
   },
   "60a6b43e6b5f01b725d11b6a765c43dd2f8d93e285ce308cab413bb54534b637": {
     "access_status": "available",
@@ -35213,6 +35424,30 @@
     ],
     "word_count": 14708
   },
+  "68a429e87b70f34f8d2f8a339cd51af02f5bca5f9ca877879c53a76946c75ff5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Shang-Chi actor Simu Liu marries fiancee Allison Hsu in France Sign up now: Get ST's newsletters delivered to your inbox The couple got married almost four years after they went Instagram official in November 2022. PHOTO: ALLISON/INSTAGRAM Lim Ruey Yan Published Oct 06, 2026, 02:05 PM Updated Oct 07, 2026, 10:44 AM Set as preferred source Listen Summarise Simu Liu married Allison Hsu in France, marking their official union after four years of dating and a public engagement announced in May 2025. Liu is known for his role as Shang-Chi in Marvel films, while Hsu is VP of digital marketing at Interscope Records and featured on Forbes' 30 Under 30 in music. Liu will reprise Shang-Chi in Avengers: Doomsday, releasing on Dec 17 in Singapore, with the character portrayed as more confident and self-assured. AI generated Canadian actor Simu Liu and his fiancee, Allison Hsu, are now husband and wife. Celebrity news outlet TMZ said on Oct 5 that the couple tied the knot in France over the weekend. Liu, 37, and Hsu, 30, got married almost four years after they went Instagram official in November 2022 . Hsu had shared on Nov 20 that ye ar a photo of herself with Liu, using a smiling emoticon as the caption. The couple made their red-carpet debut on Nov 29, 2022, when they attended the premiere of American action comedy Violent Night (2022) in Los Angeles. Liu is best known for playing the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1608
+  },
   "68afa48ad62b32eb863c4232d589a3f3c2690bc6419f801f2292cde67091e957": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -36992,6 +37227,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "6d8bd60d14789283c113435ca6047bea5d3ee514fa52cd26e042ed5ea3751082": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "White House denies Trump suggested Iran should \u2018take out\u2019 US cities Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking during a rally in Grand Island, Nebraska, on Oct 5. PHOTO: REUTERS Published Oct 07, 2026, 12:50 AM Updated Oct 07, 2026, 12:53 AM Set as preferred source Listen Summarise - Trump\u2019s Nebraska rally comments on Iran and high oil prices sparked outrage after he mentioned Los Angeles and San Diego. - Democrats said he was urging Iran to \u201ctake out\u201d the cities, with Gavin Newsom calling him \u201cderanged and dangerous\u201d and Hakeem Jeffries warning of nuclear harm. - The White House denied this, saying Trump meant Iran was a threat if it got nuclear weapons, as Republicans worry about midterm losses over the war and prices. AI generated WASHINGTON - The White House pushed back on Oct 6 after Democrats accused President Donald Trump of suggesting Iran should \u201ctake out\u201d the major US cities of Los Angeles and San Diego. Viral footage showed comments by Trump at a midterm elections rally in Nebraska on Oct 5, where he said high oil prices from the Iran war were justified by the need to stop Tehran getting nuclear weapons. \u201cIt\u2019s a little bit high. It\u2019s a small price to pay for keeping the world safe, keeping our country safe,\u201d Trump said. \u201cThey can take out a city. Let them take, let them take out Los Angeles, let them take out San...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1542
+  },
   "6da40723ff5f7767b57ed39faa572d030b806e1682940c085f426455dc34be18": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -37853,6 +38112,30 @@
       "trust"
     ],
     "word_count": 2738
+  },
+  "7029534b11d5def902892f04596f84af049fe380ff3ad36b4835a457b00ce983": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lead in AI over China narrows after DeepSeek gains, Bloomberg Intelligence says Sign up now: Get ST's newsletters delivered to your inbox Top Chinese models lag their US rivals by just 3% on benchmark scores after the September release of DeepSeek\u2019s V4.1 Flash, down from about 9% in May. PHOTO: REUTERS Published Oct 05, 2026, 08:30 AM Updated Oct 05, 2026, 09:48 AM Set as preferred source Listen Summarise US AI companies' lead over China has sharply narrowed to just a 3% difference after DeepSeek's V4.1 Flash release, threatening US dominance in AI technology. China's AI progress is driven by strong expertise and optimisation for domestic hardware, challenging the effectiveness of US export restrictions on tech like Nvidia chips. Despite gains, Chinese AI firms face profitability challenges due to fierce competition and pricing wars, with sustainable profits expected only after industry consolidation by 2030. AI generated American AI companies\u2019 performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence (BI). Top Chinese models lag their US rivals by just 3% on benchmark scores after the September release of DeepSeek\u2019s V4.1 Flash, BI senior analyst Robert Lea wrote in a report on Oct 5 . That is down from about 9% in May and 15% earlier in the year....",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1873
   },
   "708764793128a991fc675191ba5d224a22cfb92c4904a4c2ade4e6d860fde42e": {
     "access_status": "available",
@@ -40920,9 +41203,9 @@
   "7979e5883c983e1f1c32cf07feadc3ff15a2d1faabf1992de781a26a56802a70": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "ChatGPT maker wants to be the app store for AI as safety concerns grow Sign up now: Get ST's newsletters delivered to your inbox Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people. PHOTO: AFP Published Sep 30, 2026, 11:50 AM Updated Sep 30, 2026, 12:06 PM Set as preferred source Listen SAN FRANCISCO \u2013 OpenAI on Sept 29 launched a less expensive artificial intelligence model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI. Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people. ChatGPT users will also be able to access their subscriptions in other apps. \u201cWe want to help people discover what you build and connect you with new customers,\u201d OpenAI chief executive Sam Altman told around 2,500 developers from around the world who gathered on the shores of the San Francisco Bay for the company\u2019s annual conference. During his keynote speech, the 41-year-old executive made no mention of multiple security incidents that forced OpenAI to once again suspend development of some models on Sept 25 , after one of its agents gained unauthorised access to the internet. Altman told reporters that \u201cit is going to take us some time to figure out how to make sure that alignment...",
+    "article_excerpt": "ChatGPT maker wants to be the app store for AI as safety concerns grow Sign up now: Get ST's newsletters delivered to your inbox Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people. PHOTO: AFP Published Sep 30, 2026, 11:50 AM Updated Sep 30, 2026, 02:34 PM Set as preferred source Listen SAN FRANCISCO \u2013 OpenAI on Sept 29 launched a less expensive artificial intelligence model and tools that run continuously, as it aims to reposition ChatGPT as an app store for AI. Other companies, such as Adobe, will be able to offer their software directly within ChatGPT, which is now used weekly by 1.2 billion people. ChatGPT users will also be able to access their subscriptions in other apps. \u201cWe want to help people discover what you build and connect you with new customers,\u201d OpenAI chief executive Sam Altman told around 2,500 developers from around the world who gathered on the shores of the San Francisco Bay for the company\u2019s annual conference. During his keynote speech, the 41-year-old executive made no mention of multiple security incidents that forced OpenAI to once again suspend development of some models on Sept 25 , after one of its agents gained unauthorised access to the internet. Altman told reporters that \u201cit is going to take us some time to figure out how to make sure that alignment...",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:46+00:00",
+    "checked_at": "2026-10-07T05:51:48+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -42922,6 +43205,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "7e7740220ccadb6e448ae6ccd4af6ebc8e73eb4b80fbd42a27cf03d3d39c997e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference Published \u00c2 Oct 06, 2026, 06:59 PM myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference The issuer is solely responsible for the content of this announcement. Press release myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference Published \u00c2 Oct 06, 2026, 06:59 PM myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference The issuer is solely responsible for the content of this announcement. Press release myrtle.ai's VOLLO sets new STAC-ML records for gradient-boosted tree inference Published \u00c2 Oct 06, 2026, 06:59 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 145
   },
   "7e7a8ff1ec4161156ee28df292940c3dea3cb7ca7df74c7eb21419958937c8fc": {
     "access_status": "available",
@@ -46025,7 +46332,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:46+00:00",
+    "checked_at": "2026-10-07T05:51:48+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -50169,6 +50476,56 @@
     ],
     "word_count": 3142
   },
+  "931c7a1c91e8ed05594bb287794d9d99bfc8e34a978f6fdebe0baf9682573cb6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "AI company Anthropic uncovered a China-based studio running more than 20 dating app variants for US users. Most of the profiles were not people at all, but AI personas - even though the service was advertised as fully human. (Photo: iStock/Tero Vesalainen) New: You can now listen to articles. This audio is generated by an AI tool. Bong Xin Ying Bong Xin Ying 07 Oct 2026 06:00AM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST SHANGHAI: Max Aurel had been on dating app Romi for less than a minute when the video call came. \"As soon as I signed up, not even one minute (later), I received a video call from a lady,\" the 35-year-old logistics worker from Chicago in the United States told CNA.",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 8070
+  },
   "935381dca1656563be4e9762d6cc2efe8115ed29696c74417b153a2181250b48": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51800,7 +52157,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-27T05:15:48+00:00",
+    "checked_at": "2026-10-07T05:51:53+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -59187,9 +59544,9 @@
   "ac9809eb452896b26eb09938179214753bfd9221c989a1b5cfb5f48d77c670e9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Aug 28, 2026 | Copy as Markdown | View as Markdown | Agent setup By default, users have access to the Workers Free plan. The Workers Free plan includes limited usage of Workers, Pages Functions, Workers KV and Hyperdrive. Read more about the Free plan limits . The Workers Paid plan includes Workers, Pages Functions, Workers KV, Hyperdrive, and Durable Objects usage for a minimum charge of $5 USD per month for an account. The plan includes increased initial usage allotments, with clear charges for usage that exceeds the base plan. There are no additional charges for data transfer (egress) or throughput (bandwidth). All included usage is on a monthly basis. Workers Users on the Workers Paid plan have access to the Standard usage model. Workers Enterprise accounts are billed based on the usage model specified in their contract. To switch to the Standard usage model, contact your Account Manager.",
+    "article_excerpt": "Pricing Last updated Oct 2, 2026 | Copy as Markdown | View as Markdown | Agent setup By default, users have access to the Workers Free plan. The Workers Free plan includes limited usage of Workers, Pages Functions, Workers KV and Hyperdrive. Read more about the Free plan limits . The Workers Paid plan includes Workers, Pages Functions, Workers KV, Hyperdrive, and Durable Objects usage for a minimum charge of $5 USD per month for an account. The plan includes increased initial usage allotments, with clear charges for usage that exceeds the base plan. There are no additional charges for data transfer (egress) or throughput (bandwidth). All included usage is on a monthly basis. Workers Users on the Workers Paid plan have access to the Standard usage model. Workers Enterprise accounts are billed based on the usage model specified in their contract. To switch to the Standard usage model, contact your Account Manager.",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:51+00:00",
+    "checked_at": "2026-10-07T05:51:53+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -59206,7 +59563,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 9415
+    "word_count": 9416
   },
   "acad5cc44717eb87327e71f9261bee89385cd0ca93fd3255faa33230bb8b1639": {
     "access_status": "unknown",
@@ -61707,6 +62064,51 @@
     "weak_generic_terms_found": [],
     "word_count": 3365
   },
+  "b3b20c5590226d5d56ea56123260fbdfe776ca4a6b3db709507845522e6996df": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\tl_set:Ne \\normallabel normallabel \\tl_set:Ne \\ablatedlabel ablatedlabel Don\u2019t Judge an LLM Only by Its Activations: Discovering Suppressed Safety Features via Counterfactual Activation Potential Swadesh Swain Affiliation: University of Maryland, College Park Email: swadesh@umd.edu Sanghamitra Dutta Affiliation: University of Maryland, College Park Email: sanghamd@umd.edu Abstract Mechanistic interpretability has emerged as the primary means to understand safety behavior of LLMs. However, existing tools primarily focus on the activating neurons or features of a model. The role of the remaining large set of inactive components is invisible to such methods. This work demonstrates that the inactive set actually contains safety-critical features that are causally relevant for refusal of harmful prompts. Suppressing such features could turn refusals into compliance, while still passing undetected by prevalent interpretability tools. We introduce the Counterfactual Activation Potential (CAP), a novel metric that quantifies a suppressed feature\u2019s latent activation tendency as the product of its encoder alignment (how strongly the input drives it), suppression strength (how strongly active features inhibit it), and safety criticality (how much refusal depends on it), so that the score is high only when all three hold. For efficient...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:Network and Distributed System Security Symposium"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 35393
+  },
   "b3d0beead38ab385722afbbad78462657f9fba7760f61dc07299852ecb1c342f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62282,7 +62684,7 @@
     "anti_scam_relevance": "irrelevant",
     "article_excerpt": "Content selection saved. Describe the issue below: Orbit : A Framework for Multi-Agent Safety and Security Evaluations Ben Hagag 1,2,3 William L. Anderson 2,4 1 1 footnotemark: 1 Srija Chakraborty 2 Christian Schroeder de Witt 3 1 Carnegie Mellon University 2 MATS Research 3 University of Oxford 4 Cooperative AI Foundation \u2020 \u2020 thanks: Equal contribution. \u2020 \u2020 thanks: Correspondence to: William L.\u02dcAnderson . Abstract Multi-agent LLM systems are increasingly deployed for complex, long-horizon tasks or emerge as a natural consequence of agents interacting in the wild. Yet, they often give rise to significant safety and security risks: the flexible protocols that enable task generalization also expose novel threats, from cascading prompt injection to inter-agent collusion. Progress in defending against these threats has been slowed by a lack of shared empirical infrastructure, which forces bespoke environment development for every new defense and makes standardized comparison impossible. Existing evaluations address isolated threat models or single-agent settings, but none jointly vary attack, defense, and architecture across realistic multi-agent environments. To address this gap, we introduce Orbit , a configurable evaluation framework for empirical multi-agent safety and security research, built on UK AISI\u2019s Inspect. Orbit lets researchers configure communication topologies...",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:45+00:00",
+    "checked_at": "2026-10-07T05:51:46+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -68550,6 +68952,30 @@
     ],
     "word_count": 0
   },
+  "c7b1119cfd0f3eaf331bcf94a07ac15b23cc4e2752889550de7fb5ce4af9de0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 6, 2026 Standardize provider credential error responses in AI Gateway AI Gateway Copy as Markdown | View as Markdown | Agent setup AI Gateway's REST API now returns consistent responses when an AI provider rejects credentials. The change applies to POST /ai/run \u00e2\u0086\u0097\u00ef\u00b8\u008e . Scenario Previous AI Gateway response New AI Gateway response ElevenLabs Provider-specific UserCredentialsError with HTTP 403 HTTP 401 with error code 2009 Google Vertex HTTP 500 for rejected credentials, with upstream retries HTTP 401 with error code 2009 ; the request fails without retrying the provider All other providers HTTP 402 or another provider-specific status for rejected credentials HTTP 401 with error code 2009 When using Unified Billing , the provider rejects the credentials Provider-specific authentication error HTTP 503 Update applications that handle AI Gateway REST API errors to treat HTTP 401 as an invalid or rejected provider credential. For details about providing provider credentials, refer to Bring your own provider keys . October 6, 2026 Standardize provider credential error responses in AI Gateway AI Gateway Copy as Markdown | View as Markdown | Agent setup AI Gateway's REST API now returns consistent responses when an AI provider rejects credentials. The change applies to POST /ai/run \u00e2\u0086\u0097\u00ef\u00b8\u008e . Scenario Previous AI Gateway...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 380
+  },
   "c7e493437b4dc222363dccd55fd6e1440aa952ebcc8a9b6559a0b03a069ae7ce": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -71289,6 +71715,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4288
+  },
+  "cfb4652258e25c9b17add0105217821325a15e635ad4ba44b42226ba8e313ebe": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Shopping online can be just as time-consuming, and you may run into delivery delays. Even if you successfully secure a haul of presents, many will wind up in closets or charity stores. It\u2019s time to try an online gift. Digital presents and online gift cards are easier to give. Shop from your comfy sofa or cozy bed\u2014no gift wrapping or shipping needed. We have a virtual smorgasbord of delicious digital gift ideas. You should also consider subscriptions as gift ideas . Check out our Best Subscription Boxes for Gifting , the Best Gift Subscriptions for Kids , and Best Beauty Box Subscriptions . Updated October 2026: I've added entries in several sections, including food, gaming, and travel; removed discontinued options; and updated all links and prices. Table of Contents AccordionItemContainerButton LargeChevron eGift Cards Food and Restaurants Movie and TV Subscriptions Music Streaming Services Ebooks and Audiobooks Digital News and Magazines Gaming Subscriptions Password Managers and Security Online Teaching Courses Fitness Services Shopping Loyalty Programs Travel and Experiences Donating to Charity in Their Name eGift Cards Courtesy of Amazon They may not be all that imaginative, but electronic gift cards let your loved ones choose what they actually want, and it's never disappointing to receive one (assuming it's at a place you like).",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "malware",
+      "trust"
+    ],
+    "word_count": 8078
   },
   "cfbf66a0021425b369d82a9257294af53f8d65546de5bb22ab6e45edf715af33": {
     "access_status": "available",
@@ -77927,12 +78381,12 @@
     ],
     "word_count": 2032
   },
-  "e30f826a5c07c41129011947bdb84d8fbe8456f1ae85d48e4f0dcfaec0739ce3": {
+  "e2fa9474327eed4081338889d3275c092b19aaa8bc98d598facf23939b76c6d6": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Trump, AI CEOs sign voluntary safety pact, back data centre expansion Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking to the media after a meeting with tech executives including Nvidia chief Jensen Huang (far right) on Sept 29. PHOTO: BLOOMBERG Published Sep 30, 2026, 06:48 AM Updated Sep 30, 2026, 11:16 AM Set as preferred source Listen Summarise US President Donald Trump and top AI CEOs agreed on voluntary safety standards for AI, including independent audits and protections against unintended system access. Trump supports rapid expansion of data centres despite community concerns, promising tech companies will contribute positively to local areas. Trump plans to create a 10-person board to oversee AI safety and recently launched a government AI tool, instructing agencies to use the term \"super intelligence\" instead of \"artificial intelligence\". AI generated WASHINGTON \u2013 US President Donald Trump on Sept 29 said tech executives agreed to establish voluntary standards for AI and reiterated his support for rapid expansion of data centres, as concerns mount over AI safety and the industry\u2019s growing footprint in communities. Trump made the comments after meeting tech executives at the White House. The companies agreed to work with \u201cindependent auditors\u201d to assess whether AI systems are working as their designers intended, according to...",
+    "article_excerpt": "Woman dies after accident at Queen Street Bus Terminal, bus driver arrested Sign up now: Get ST's newsletters delivered to your inbox The person, who had been trapped under a bus, was pronounced dead at the scene by an SCDF paramedic. PHOTOS: SGRV FRONT MAN/FACEBOOK, LIVELYTOUCAN613/FACEBOOK Ann Neo Published Oct 06, 2026, 10:42 PM Updated Oct 07, 2026, 11:42 AM Set as preferred source Listen Summarise A 30-year-old woman died after being trapped under a bus at Queen Street Bus Terminal in Bugis on Oct 6, and SCDF pronounced her dead at the scene. Police arrested a 32-year-old bus driver for driving without due care and attention causing death. Investigations are ongoing. Causeway Link said the crash involved one of its buses and offered sympathy. The terminal closed briefly, and Service 170 was diverted before normal service resumed. AI generated SINGAPORE \u2013 A woman died and a bus driver was arrested following an accident at the Queen Street Bus Terminal in Bugis on the evening of Oct 6. In a media reply, the Singapore Civil Defence Force (SCDF) and the police said that they were alerted to a road traffic accident at about 7pm. The woman, 30, was found trapped under a bus and was released using hydraulic rescue equipment. She was pronounced dead at the scene by an SCDF paramedic, while a 32-year-old bus driver was arrested for driving without due care and attention causing...",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:45+00:00",
+    "checked_at": "2026-10-07T05:51:49+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -77949,7 +78403,31 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2602
+    "word_count": 1409
+  },
+  "e30f826a5c07c41129011947bdb84d8fbe8456f1ae85d48e4f0dcfaec0739ce3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump, AI CEOs sign voluntary safety pact, back data centre expansion Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking to the media after a meeting with tech executives including Nvidia chief Jensen Huang (far right) on Sept 29. PHOTO: BLOOMBERG Published Sep 30, 2026, 06:48 AM Updated Sep 30, 2026, 05:51 PM Set as preferred source Listen Summarise US President Donald Trump and top AI CEOs agreed on voluntary safety standards for AI, including independent audits and protections against unintended system access. Trump supports rapid expansion of data centres despite community concerns, promising tech companies will contribute positively to local areas. Trump plans to create a 10-person board to oversee AI safety and recently launched a government AI tool, instructing agencies to use the term \"super intelligence\" instead of \"artificial intelligence\". AI generated WASHINGTON \u2013 US President Donald Trump on Sept 29 said tech executives agreed to establish voluntary standards for AI and reiterated his support for rapid expansion of data centres, as concerns mount over AI safety and the industry\u2019s growing footprint in communities. Trump made the comments after meeting tech executives at the White House. The companies agreed to work with \u201cindependent auditors\u201d to assess whether AI systems are working as their designers intended, according to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2608
   },
   "e347495285cf6cc257dd7c90f764ab6ef1bdbf1163c500e8ef8c51e86dc5e8d3": {
     "access_status": "available",
@@ -81272,9 +81750,9 @@
   "eec6e7664d472d4ccdd915ca6753d310896057138765e35ddef669769c1fb89c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "News At least 52 cyber extortion cases involving intimate photos or explicit video calls have been reported in Singapore since August 2026, with victims losing at least S$134,000. According to 8world, citing a Singapore Police Force advisory issued on Thursday, 3 September, such cases have been on the rise. The scams typically begin on dating apps or social media, where scammers approach their targets and strike up conversations. They then try to get victims to take part in nude video calls or exchange intimate photographs. Victims may not realise that their video calls are being secretly recorded or that the photographs they send are being saved, according to the police advisory as reported by 8world. Once the scammers have the material, the tone changes. This type of offence is generally referred to by the police as cyber extortion, which falls under cyber-enabled crime, meaning technology or an online platform is used to facilitate the offence. Paying May Not Make the Threat Go Away The police warned that complying with the demand does not necessarily end the problem. This is consistent with previous police advice on online extortion. In an earlier advisory involving compromising images, SPF warned victims against transferring money because doing so could encourage further demands.",
+    "article_excerpt": "News At least 52 cyber extortion cases involving intimate photos or explicit video calls have been reported in Singapore since August 2026, with victims losing at least S$134,000. According to 8world, citing a Singapore Police Force advisory issued on Thursday, 3 September, such cases have been on the rise. The scams typically begin on dating apps or social media, where scammers approach their targets and strike up conversations. They then try to get victims to take part in nude video calls or exchange intimate photographs. Victims may not realise that their video calls are being secretly recorded or that the photographs they send are being saved, according to the police advisory as reported by 8world. Once the scammers have the material, the tone changes. They threaten to publish the intimate images or recordings online, or send them to the victim's family members, friends or social media contacts, unless money is paid. Paying May Not Make the Threat Go Away The police warned that complying with the demand does not necessarily end the problem. This is consistent with previous police advice on online extortion. In an earlier advisory involving compromising images, SPF warned victims against transferring money because doing so could encourage further demands.",
     "cache_version": 10,
-    "checked_at": "2026-09-04T04:26:08+00:00",
+    "checked_at": "2026-10-07T05:51:55+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -84413,6 +84891,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1423
   },
+  "f885b7d32fd30a7472af6453469beaa89cc410deb9a1cdb5839585938593d2b8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "2 South Korean megachurches probe suspected AI-linked cyberattacks Sign up now: Get insights on Asia's fast-moving developments Records of the alleged attacks included signs that AI tools were used during the intrusion. PHOTO: LIANHE ZAOBAO FILE Published Oct 07, 2026, 11:09 AM Updated Oct 07, 2026, 01:26 PM Set as preferred source Listen SEOUL - Two South Korean megachurches are investigating suspected cyberattacks that may have exposed the personal data of hundreds of thousands of congregants, with evidence suggesting AI tools may have been used in the attacks, according to the churches and a cybersecurity firm. Cybersecurity company Oasis Security found data, attack records and account information on an overseas server that contained information linked to Seoul\u2019s Yoido Full Gospel Church and Sarang Church. Records of the alleged attacks included signs that AI tools were used during the intrusion, such as references to \u201csub-agents\u201d and extensive attack reports that appeared automated, Oasis Security said. Yoido Full Gospel Church said on Oct 7 that initial analysis indicated data relating to 850,000 members may have been compromised. The data included names and dates of birth with a smaller number of records containing changes to national identification numbers, addresses and telephone numbers. The church said it was notifying affected members, blocking external access and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-07T05:51:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 975
+  },
   "f8a69541e8d789e771eb384bb345809fa9c4af879e616fe3b26894f4854a30f8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -85739,7 +86243,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Trump to host Anthropic\u2019s Amodei, Nvidia\u2019s Huang, other execs, as AI fears mount Sign up now: Get ST's newsletters delivered to your inbox Pressure is rising on the Trump administration to take action after OpenAI and Anthropic reported their AI agents had gone rogue. PHOTO: AFP Published Sep 29, 2026, 11:05 PM Updated Sep 29, 2026, 11:55 PM Set as preferred source Listen Summarise US President Donald Trump will meet top tech executives, including Meta's Zuckerberg and Anthropic's Amodei, on Sept 29 to discuss AI regulation amid rising fears of rogue AI agents. Despite AI risks and public calls for regulation, Trump and House Speaker Mike Johnson oppose strict rules, stressing innovation and competition with China. Anthropic warns AI could threaten humanity, seeking a US$2 trillion valuation, while China favours stronger AI control, highlighting contrasting international approaches. AI generated WASHINGTON \u2013 US President Donald Trump will meet on Sept 29 with tech executives including Meta chief executive officer Mark Zuckerberg, Google\u2019s Sundar Pichai and Anthropic\u2019s Dario Amodei to discuss artificial intelligence, as calls ramp up for more regulation of the fast-developing technology. Nvidia CEO Jensen Huang and OpenAI president Greg Brockman are also expected to attend, according to separate people familiar with the planning. US House Speaker Mike Johnson will also be...",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:48+00:00",
+    "checked_at": "2026-10-07T05:51:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
