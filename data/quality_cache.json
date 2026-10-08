@@ -4101,7 +4101,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. Hany Farid, professor in Computer Science at Dartmouth College, Sophie Nightingale, a senior lecturer in psychology at Lancaster University, and Lancaster\u2019s Sarah Morgan, who acts as the project coordinator on Nightingale\u2019s \u201cProtecting Ordinary People from Deepfake Harms\u201d fellowship published their paper, \u201cThe Backbone of Abuse: How Infrastructure Providers Enable the Proliferation of...",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:03+00:00",
+    "checked_at": "2026-10-08T05:56:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -4694,12 +4694,36 @@
     ],
     "word_count": 24782
   },
+  "0e31409c8a87d5afdfbc29dc345eab034dfe027e3c557540e8439f92b86b0a0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE Published Oct 08, 2026, 01:00 PM Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE The issuer is solely responsible for the content of this announcement. Press release Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE Published Oct 08, 2026, 01:00 PM Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE The issuer is solely responsible for the content of this announcement. Press release Toku to Deploy its AI-powered Customer Experience Platform on Core42 Sovereign Enabled Public Cloud in the UAE Published Oct 08, 2026, 01:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 172
+  },
   "0e554e8e0ec87147f594433a43a13054944d249b08e040941b87b7cbe39fca24": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Posterior Regimes and Latent Deception: Variational Bayesian Inference in Hidden Markov Models for Sequential Fraud Detection in Financial Transactions Joseph Uririoghene Obukofe Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Anthony O\u2019Hare Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Chioma Sandra Dike Affiliation: University of Nottingham, Nottingham, NG7 2RD, United Kingdom ouj00003@students.stir.ac.uk, anthony.ohare@stir.ac.uk, msxcd20@nottingham.ac.uk Abstract We present a three-tier progression of Hidden Markov Models: maximum-likelihood (Baum-Welch), variational Bayesian (VBEM), and a neural variational extension (Neural VBEM), that model each customer\u2019s transaction history as a trajectory through a small number of latent behavioural regimes, one of which is empirically identified as fraud-associated. The Neural VBEM HMM replaces the fixed Gaussian-multinomial emission family with a learned encoder, compressing a 741-dimensional transaction representation into a 64-dimensional latent space in which the VBEM HMM\u2019s posterior operates; a UMAP projection of this space reveals that the discovered regimes are not discrete clusters but...",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:04+00:00",
+    "checked_at": "2026-10-08T05:56:33+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -9666,7 +9690,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:12+00:00",
+    "checked_at": "2026-10-08T05:56:36+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -10350,6 +10374,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "1e71d5034c509268beda34ec87ba49749cafacd3c7d498b8d9b5b36077d194bd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Richard Chambers Releases New Edition of Trusted Advisors: Key Attributes of Outstanding Internal Auditors, Defining the \"Human Edge\" in the Age of AI Published \u00c2 Oct 07, 2026, 06:00 PM Richard Chambers Releases New Edition of Trusted Advisors: Key Attributes of Outstanding Internal Auditors, Defining the \"Human Edge\" in the Age of AI The issuer is solely responsible for the content of this announcement. Press release Richard Chambers Releases New Edition of Trusted Advisors: Key Attributes of Outstanding Internal Auditors, Defining the \"Human Edge\" in the Age of AI Published \u00c2 Oct 07, 2026, 06:00 PM Richard Chambers Releases New Edition of Trusted Advisors: Key Attributes of Outstanding Internal Auditors, Defining the \"Human Edge\" in the Age of AI The issuer is solely responsible for the content of this announcement. Press release Richard Chambers Releases New Edition of Trusted Advisors: Key Attributes of Outstanding Internal Auditors, Defining the \"Human Edge\" in the Age of AI Published \u00c2 Oct 07, 2026, 06:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 205
   },
   "1e755891cc7ce3e76c5f35ccb90e8c4e13c8c0a5cdea656fc05982e8deda7d9a": {
     "access_status": "available",
@@ -14180,9 +14230,9 @@
   "2a72972270547aa53d290b7daaaf2ee22b7cab3b99d1ea6ca213110618434d70": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "US government\u2019s new AI chatbot pulls back from debunking Trump Sign up now: Get ST's newsletters delivered to your inbox Launched on Sept 29, the America.gov chatbot started out contradicting US President Donald Trump on controversial subjects such as the 2020 presidential election, which he wrongly claims to have won. PHOTO: DOUG MILLS/NYTIMES Published Oct 01, 2026, 09:10 AM Updated Oct 01, 2026, 12:15 PM Set as preferred source Listen Summarise The US government launched an AI chatbot on America.gov to simplify access to federal information, but it initially contradicted some of Trump's false claims, including on the 2020 election. After initial fact-based answers, the chatbot stopped addressing certain political questions, avoiding commentary on past elections, raising speculation about administration interference. Despite this, the chatbot still debunked other Trump claims, such as inflation records, while the launch occurred amid global concerns over AI risks and Trump's dismissal of those worries. AI generated WASHINGTON \u2013 US President Donald Trump unveiled what he called a \u201cdamn good\u201d AI chatbot, but it quickly drew attention for contradicting some of his contentious political claims. A day later, however, it stopped answering some political questions. \u201cHello, America. Whatever you need from government, start here,\u201d reads the America.gov platform, which Trump launched...",
+    "article_excerpt": "US government\u2019s new AI chatbot pulls back from debunking Trump Sign up now: Get ST's newsletters delivered to your inbox Launched on Sept 29, the America.gov chatbot started out contradicting US President Donald Trump on controversial subjects such as the 2020 presidential election, which he wrongly claims to have won. PHOTO: DOUG MILLS/NYTIMES Published Oct 01, 2026, 09:10 AM Updated Oct 01, 2026, 08:35 PM Set as preferred source Listen Summarise The US government launched an AI chatbot on America.gov to simplify access to federal information, but it initially contradicted some of Trump's false claims, including on the 2020 election. After initial fact-based answers, the chatbot stopped addressing certain political questions, avoiding commentary on past elections, raising speculation about administration interference. Despite this, the chatbot still debunked other Trump claims, such as inflation records, while the launch occurred amid global concerns over AI risks and Trump's dismissal of those worries. AI generated WASHINGTON \u2013 US President Donald Trump unveiled what he called a \u201cdamn good\u201d AI chatbot, but it quickly drew attention for contradicting some of his contentious political claims. A day later, however, it stopped answering some political questions. \u201cHello, America. Whatever you need from government, start here,\u201d reads the America.gov platform, which Trump launched...",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:04+00:00",
+    "checked_at": "2026-10-08T05:56:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -19072,6 +19122,32 @@
     "weak_generic_terms_found": [],
     "word_count": 162
   },
+  "398d80fe7342783b1d13dfec1629beb9c3d369834697c409f42bc13216b2b0bd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US execution survivor Christa Pike is conscious and speaking, lawyers say Sign up now: Get ST's newsletters delivered to your inbox Christa Pike has been hospitalised since Sept 30, when she survived a botched execution attempt in the US state of Tennessee. PHOTO: REUTERS Published Oct 07, 2026, 05:29 AM Updated Oct 07, 2026, 07:52 AM Set as preferred source Listen Summarise - Christa Pike, 50, has regained consciousness and is speaking after Tennessee\u2019s failed lethal injection attempt, her lawyers said on 6 October. - Pike suffered severe arm injuries and remains handcuffed and shackled in hospital while receiving critical medical care. - The case follows the 1990 murder of Colleen Slemmer and makes Pike the first known person in the US to survive execution drugs. AI generated WASHINGTON - Convicted killer Christa Pike, who survived Tennessee\u2019s effort to execute her by lethal injection last week, foiling the state\u2019s first attempt to put a woman to death in two centuries, has regained consciousness and is speaking, her lawyers said in a statement on Oct 6. Despite severe injuries to her arms from the insertion of intravenous lines during the aborted execution on Sept 30, Pike, 50, is \u201cstill handcuffed and shackled\u201d to her hospital bed while she remains under medical care, her team of public defence attorneys wrote. \u201cHer prognosis remains unclear, but at a minimum we expect a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2962
+  },
   "39a664b39b9344d4fe9e4c0a3da673fc4b925c1faf2e46e8c604d16890855687": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -19997,6 +20073,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 5313
+  },
+  "3b93d8d9a3d411cb40119dc046bf22daca4c8fcef2c39480976f6f753c42043f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "PHOTO: BLOOMBERG Published Oct 07, 2026, 06:45 AM Updated Oct 07, 2026, 07:35 PM Set as preferred source Listen Summarise The White House said Trump will not reimburse taxpayers for political ads, after he first said he would pay for them himself. The row followed anger over US$20 million in Department of Homeland Security funds used for pro-Trump TV ads before the midterm elections. Democrats called the ads \u201cillegal\u201d and \u201cpropaganda\u201d, while some Republicans also raised concerns about the government-backed promotion. AI generated WASHINGTON \u2013 US President Donald Trump will not reimburse taxpayers for political ads that have already aired, the White House said on Oct 6 , in a fresh reversal on the controversial TV spots. His announcement followed an outcry on both sides of the US political divide over the use of millions of dollars in government funds for pro-Trump ads. \u201cI have decided to do the Patriotic Ads, among others, and pay for them myself, and with money I raised for MAGA, Inc,\u201d Trump wrote on his Truth Social platform, referring to his political action group. But on Oct 6 , the White House told AFP that Trump\u2019s post \u201cwas not referring to reimbursement\u201d. Trump later seemed to suggest the issue was still in the air. \u201cThe ads were really good. They were promotion for the country, done by many presidents before.",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1354
   },
   "3bb35b5bc5a21208f9d65f4305ad0e3b5245c294c05729f93eb0c1256221b2b1": {
     "access_status": "available",
@@ -36193,6 +36293,33 @@
     "weak_generic_terms_found": [],
     "word_count": 3341
   },
+  "6a5e676ddfe3fd8b33338aba2e74d7431930de9c766304297f601ccd186efc08": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Facebook had been launched from Mark Zuckerberg \u2019s Harvard dorm room just six years earlier, and nobody really knew how it would reshape digital community in the decade to come. But, with a breakneck screenplay by Aaron Sorkin, a menacingly propulsive soundtrack by Trent Reznor and Atticus Ross, and a surgical performance from Jesse Eisenberg as Young Zuck, director David Fincher delivered a slick corporate thriller about the major drama to that point: intersecting lawsuits over who owned what percentage of the platform and who could lay claim as a founder. It was an electrifying film that seemed to only lightly fictionalize the newest and perhaps most cutthroat generation of Silicon Valley warlords. Flash forward 16 years, and Facebook (now Meta ) has accumulated more scandals than Hollywood could possibly hope to keep up with. Sorkin tells WIRED that he was approached many times over those years with pitches for a sequel, though he struggled to see an angle of approach. \u201cBefore a film can be anything else, before it can be relevant or thought-provoking, it has to be good,\u201d he says. \u201cIt has to work as something that you watch while you're eating popcorn.\u201d Then, Sorkin says, he met Frances Haugen , the former Facebook data engineer who leaked damning internal memos to investigative reporter Jeff Horwitz. Horwitz wrote up what became known as the \u201c Facebook Files \u201d in a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4790
+  },
   "6a6baa053483cdbf6a100ca1249ffbe38e32de1365f70274aafa2b8cae6b6971": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -36710,6 +36837,30 @@
       "identity"
     ],
     "word_count": 2597
+  },
+  "6c8ef568eb9519f6e9aebbc478c982ebb18025aff62dff4160466ec1a207fa3c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Young bankers to manage AI agents from start, Goldman exec says Sign up now: Get ST's newsletters delivered to your inbox Goldman Sachs Group\u2019s Kevin Sneader said they are focused on how roles would be reshaped. PHOTO: REUTERS Published Oct 08, 2026, 01:50 PM Updated Oct 08, 2026, 01:50 PM Set as preferred source Summarise Goldman Sachs\u2019 Kevin Sneader said new bankers will manage AI agents from day one, which could change the usual career ladder and reduce the role of middle managers. Panel speakers said AI will do more routine work, so banks may need fewer entry-level staff and more workers who can supervise AI systems. Singapore\u2019s regulator is training staff and graduates for this shift, while Sneader said AI also makes it easier for young people to start new businesses. AI generated SINGAPORE \u2013 The newest hires in finance will not have to wait years to become managers. They will be overseeing artificial intelligence agents from the time they join, raising the question of what happens to the current middle managers, according to Goldman Sachs Group\u2019s Kevin Sneader. \u201cWhen our young folks now start work, they\u2019re managing agents,\u201d Sneader, who leads the Wall Street bank\u2019s business in Asia Pacific outside Japan, said on Oct 8 at the Milken Institute Asia Summit in Singapore. \u201cThey have to make the most of this virtual army that they\u2019ve now got.\u201d Previous generations often spent...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1792
   },
   "6c92fea601cd141d913f033cd9160ef9767753ab934ad5d34c6bcc6a6c42ac31": {
     "access_status": "available",
@@ -39662,7 +39813,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in detection and reviews major CNN...",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:08+00:00",
+    "checked_at": "2026-10-08T05:56:30+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -40696,6 +40847,36 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1963
+  },
+  "7809bd8e72b0d7abdc471e20db57354c577ba96e914bff3bfd9ce0c4eb6557c8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This sales event is the best time for pet parents to snag an otherwise expensive automatic litter box or pet camera for much less money before prices dip again before Black Friday and Cyber Monday sales. As the Reviews team\u2019s pet tech reviewer, I\u2019ve tested many great pet gadgets, as well as many that don\u2019t live up to their promises. I\u2019ve scoured Amazon to find the best discounts on WIRED-tested pet tech that I think is actually worth buying during Amazon Prime Big Deal Days. Want more Amazon Prime Day deals ? Read our Absolute Best Prime Big Deal Days deals roundup and live blog . Be sure to check out our related Amazon Prime Day shopping guides to ensure you\u2019re making the most of the sales, including how to avoid scams and sketchy wares on Amazon , Amazon Prime perks you might not know about , and Amazon Prime Day tips . WIRED Featured Deals Our favorite automatic cat litter box: Petkit Purobot Max Pro 2 for $443 ($107 off) A cheap pet camera: Petcube Cam 360 for $33 ($14 off) An AI-enabled automatic feeder with a camera: Petkit YumShare Dual-Hopper 2 Automatic Feeder for $130 ($50 off) Jump to AccordionItemContainerButton LargeChevron Best Pet Camera Deals Best Automatic Feeder Deals Best Pet Fountain Deals Best Automatic Litter Box Deals Best At-Home Pet DNA Test Kits Updated 4 pm ET October 7: I\u2019ve added fresh deals and ensured up-to-date prices. Best Pet Camera Deals I\u2019ve...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:31+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5000
   },
   "782663f8482c7a7073daefac3f32fabf05dba7fd58801ed6ce6afb4bdafc15c9": {
     "access_status": "available",
@@ -49256,6 +49437,41 @@
     ],
     "word_count": 4852
   },
+  "8f90b1ff64df2dc50f68edb4b1d9ed0932d92dde2fbbf0e88ca66efb159ff346": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Content selection saved. Describe the issue below: Hidden Risks of Jev: An Empirical Study of Security, Privacy, and Dual Use Shang Wang Tianqing Zhu Huajie Chen Jiayang Li Meng Yang Bo Liu \u2020 \u2020 thanks: Shang Wang, Jiayang Li, Meng Yang and Bo Liu are with the School of Computer Science, University of Technology Sydney, Sydney, Australia. \u2020 \u2020 thanks: Tianqing Zhu and Huajie Chen are with the Faculty of Data Science, City University of Macau, Macau, China. Abstract Jev turns natural-language questions into typed answers and probabilities with low latency and at low cost, enabling applications to route requests and select tools. While this interface allows Jev to integrate naturally into application workflows as a decision layer, the security and privacy implications of this emerging use remain largely unexplored. To address this gap, we conduct the first systematic study of these implications using the official Jev API and NanoJev, a separate local model whose training data and updates we can control, focusing on three research questions: (1) What security threats arise when Jev is deployed as an application decision layer? (2) What private information can Jev reveal despite returning only constrained typed outputs? (3) How can Jev\u2019s general-purpose decision capability be used for beneficial purposes or misused? Jev\u2019s decisions depend on application state and may be influenced...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context, irrelevant_or_adjacent",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_healthcare_ai_cyber",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "watermarking",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 24492
+  },
   "8fe0d929796b090342a1600c5353f202716771e93d1838c4937100c81bbefc4c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -53112,7 +53328,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Quick Tunnels Last updated Sep 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Quick Tunnels create a temporary trycloudflare.com URL for a local service. You do not need a Cloudflare account or domain. Prerequisites Install cloudflared . Start a local HTTP server. This example uses http://localhost:8080 . Create a Quick Tunnel In a terminal, start a Quick Tunnel: cloudflared tunnel --url http://localhost:8080 Open the trycloudflare.com URL printed by cloudflared . Anyone with the URL can access your local service. The URL stops working when you stop the cloudflared process. Restrict access by email Use --allowed-mail to require email authentication. Visitors receive a one-time PIN before they can access your service.",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:12+00:00",
+    "checked_at": "2026-10-08T05:56:38+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -53618,6 +53834,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "9c44112800af4523e105703adb8bb28f21a4eb271b6bc7520be07d81bae704cd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "9c537f3a492edae86beb2c483b08a087a12737aa506c4bee8180e3ed868c2c90": {
     "access_status": "available",
@@ -58942,6 +59182,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "ab215f3baae6d9e729699a7a706a0f26622e556d4562106f0db172c7d5bb8877": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018I\u2019m getting fed up\u2019: Early US midterm voters line up before dawn in Ohio Sign up now: Get ST's newsletters delivered to your inbox Published Oct 07, 2026, 09:00 AM Updated Oct 07, 2026, 09:54 PM Set as preferred source Listen Summarise - Early voting began in Ohio before dawn, and Democrats outnumbered Republicans on day one in Medina County, suggesting stronger motivation ahead of the 2026 midterms. - Voters voiced anger over high prices, political ads, and the US war with Iran, with many blaming Donald Trump for worsening economy and endless conflict. - Ohio\u2019s Senate and two House races are tight toss-ups, and independents may decide control of Congress as both parties fight for votes. AI generated MEDINA, Ohio \u2013 Voters started lining up while it was still dark on the morning of Oct 6 at the Medina County Board of Elections as early voting began in Ohio, a state that looms large in the nationwide campaigns between Republicans and Democrats battling for control of the US Congress. By the time polling in the north-east Ohio county closed for the day, the Democrats\u2019 turnout eclipsed that of Republicans in a possible early sign that they are more motivated to vote in 2026 . Though turnout is typically higher in presidential elections, which are run every four years, the 2026 midterm voters in Ohio have a say in one key US Senate race and two for the US House of Representatives...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3901
+  },
   "ab21dfe039df0fe13970c39294836de16d06f5f39aee92e429eac2be60dffa65": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -62841,6 +63105,36 @@
     ],
     "word_count": 1524
   },
+  "b5955273254031315d2db0133de83ba2511c57546a259ad0c9f588e075066801": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Although the lowest prices we see are usually during Amazon's summer sale, Black Friday, and Cyber Monday, you can still save on our favorite WIRED-tested mattresses, sheets, and bedding. Act soon, because Prime Big Deal Days end tonight. Amazon is probably not the first place you'd go to buy a mattress, but many items qualify for fast, free shipping with Prime, and there's a wide range of inexpensive mattresses, bedding, and sleep tech like sound machines . I'll be on the lookout for more deals on our favorite WIRED-tested beds and sleep tech throughout the sales event, so be sure to check back often for major discounts on these often-pricey purchases. (Note that mattress and sheet prices are for queen sizes.) Read our related Amazon Prime Day shopping guides to ensure you're making the most of the sales, including How to avoid scams and sketchy wares on Amazon , Amazon Prime perks you might not know about , and Amazon Prime Day tips . Want more Amazon Prime Day deals ? Read our Absolute Best Prime Big Deal Days roundup and live blog . Top WIRED Deals The best mattress deal: Birch Luxe Natural Mattress for $1,968 ($656 off) The best cooling sheets deal: Slumber Cloud Performance Tencel Sheet Set for $130 ($144 off) The best pillow deal: Coop Sleep Goods Cool+ Cut Out Adjustable Pillow for $127 ($32 off) Updated 2 pm ET October 7: I've added new picks from Helix, Nolah...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3210
+  },
   "b607570987502cd4d3a6b17a0dedf6e7998e79c416ab9cabe0f674b52f2f150c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62888,6 +63182,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4327
+  },
+  "b6260568001e57b2de814c19c8273f69486a23015bd98db9d6a81c7b3bbc8a09": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Suspect behind South Korea bank hacks may be 26-year-old in China: Crowdstrike Sign up now: Get insights on Asia's fast-moving developments Crowdstrike said the threat actor was likely a Chinese speaker and financially motivated. PHOTO ILLUSTRATION: LIANHE ZAOBAO Published Oct 08, 2026, 08:04 AM Updated Oct 08, 2026, 11:12 AM Set as preferred source Listen Summarise CrowdStrike said a suspect behind South Korea\u2019s bank hacks may be a 26-year-old in Guangdong, China, but it said the identification is not certain. The firm linked the attacks to AI coding tools, ARTEX and Claude Code, and said the actor may be Chinese-speaking and financially motivated. Seoul is investigating breaches at banks including Shinhan Bank and KB Kookmin Bank, while President Lee Jae Myung has urged stronger cybersecurity after signs of AI use. AI generated SEOUL \u2013 The suspect behind recent cyberattacks targeting South Korea\u2019s financial sector may be a 26-year-old based in China\u2019s Guangdong province, US cybersecurity firm CrowdStrike said. In a report published on its website on Oct 7 , CrowdStrike said it uncovered personal details linked to the suspected attacker while analysing artificial intelligence coding-tool sessions and infrastructure associated with a campaign targeting South Korean financial institutions from late September to early October. The case is likely to intensify concerns over the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1865
   },
   "b646a5d07aa614094f3fe462e36eacad12d25786e0ef3944991bfabc0598f5fb": {
     "access_status": "available",
@@ -67888,6 +68208,40 @@
       "trust"
     ],
     "word_count": 3442
+  },
+  "c499ca7027d974990b4279daac26e2b3ba066aa611eb401cca2061265715a21d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Authorities seize $39 million from sale of building linked to scam probe Sign up now: Get ST's newsletters delivered to your inbox The property at 2 Jalan Kilang Barat (above) was purchased in 2023 by 2JKB, a firm set up by the daughter of local businessman Tan Yew Kiat. ST PHOTO: ARIFFIN JAMAR Andrew Wong and Lee Nian Tjoe Published Oct 04, 2026, 05:00 AM Updated Oct 04, 2026, 09:33 AM Set as preferred source Listen Summarise A commercial building at 2 Jalan Kilang Barat, linked to Cambodia\u2019s Prince Group and a cross-border scam probe, was sold to Jackspeed Holdings for $39 million, but the sale proceeds were seized by authorities. The seller of the property is assisting with money laundering investigations tied to transnational cyber fraud involving Chen Zhi. Jackspeed uses the building for its businesses, including Carazee dealership, while the seller Chen Xiaoxuan remains connected to several companies at the same address. AI generated SINGAPORE \u2013 A 32,000 sq ft commercial building linked to Cambodia\u2019s Prince Group has been taken over by a local automotive firm in a private deal, but proceeds from the sale have been seized by the authorities. The Straits Times understands that 2 Jalan Kilang Barat, located in the Bukit Merah vicinity, changed hands for $39 million in a deal brokered in June and completed in September. The buyer is Jackspeed Holdings \u2013 a regional automotive...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3982
   },
   "c4cf8c45c045e8b2e9dea85d4785488fbfe3d4104639c0c31d8b5cf9b3e4aa04": {
     "access_status": "available",
@@ -75768,6 +76122,32 @@
     ],
     "word_count": 3508
   },
+  "daded39a515609f70f75a750520d5c8e4b76233e922754415363b69d59be48a7": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "API Reference Monetization Copy Markdown Open in Claude Open in ChatGPT Open in Cursor Copy Markdown View as Markdown Rules List payment rules GET /zones/{zone_id}/monetization/rules Deploy payment ruleset PUT /zones/{zone_id}/monetization/rules Delete all payment rules DELETE /zones/{zone_id}/monetization/rules Get a payment rule GET /zones/{zone_id}/monetization/rules/{rule_id} Update a payment rule PATCH /zones/{zone_id}/monetization/rules/{rule_id} Delete a payment rule DELETE /zones/{zone_id}/monetization/rules/{rule_id} Models Expand Collapse MonetizationRule = MonetizationRuleInputFixedPrice { address , expression , price , 4 more } or MonetizationRuleInputOriginControlled { address , expression , scheme , 3 more } Payment rule with a fixed price set at configuration time. One of the following: MonetizationRulesMonetizationRuleInputFixedPrice = MonetizationRuleInputFixedPrice { address , expression , price , 4 more } Payment rule with a fixed price set at configuration time. id : string The server-assigned unique ID of the payment rule. Stable across full-ruleset replacements. maxLength 32 MonetizationRulesMonetizationRuleInputOriginControlled = MonetizationRuleInputOriginControlled { address , expression , scheme , 3 more } Payment rule whose price the origin server sets dynamically. The rule carries no price and the price field must be omitted \u2014 any provided value...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 3993
+  },
   "db12f030317617ef4e7662fcc38b86d31384250a794d9f80fdfcc65163169c8c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -79094,6 +79474,42 @@
       "fraud"
     ],
     "word_count": 13176
+  },
+  "e631e9bfa5d5008ccc15fdddf5d259ee4b3f57b71517dcc7796592c5ffe52ee9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "\u201cI have a video of me beating up Charles Barkley, and I wouldn't want the world to see that. That was a joke,\u201d O'Neal says. \u201cBut everybody needs to have control of their own information.\u201d After being targeted by scammers who claimed that he was trying to buy a house and they were working on the transaction, O\u2019Neal says, he realized he needed to learn more about cybersecurity and digital defense. \u201cI was hacked for the first time, not a bad hack, and I didn't know what to do,\u201d he told reporters. \u201cSo I had to look into it. Once that happened, I really had to start paying more attention, because I would think nothing like that could ever happen to me, but it could happen to anybody.\u201d O'Neal, of course, is not just anybody. Still, the four-time NBA champion and media personality says that he doesn't have particularly sensitive data on his devices and tries to live a normal life as much as possible. When WIRED asked, though, whether he worries that he needs to take extra precautions to protect himself and loved ones as a result of his high profile, O'Neal said, \u201cYes, I think about it all the time, but I don't let it consume me, because if you let it consume you you can go crazy. But you have to be able to have great reactionary skills if something happens.\u201d A prolific tech investor who was early to AI , O'Neal emphasizes that the goal of his relationship with NordVPN is to inform...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "identity"
+    ],
+    "word_count": 1524
   },
   "e6372c6a666b7c0e3aa294ee3d5943b05f9ab8b30ce479f3e5c9bbf11e594d1e": {
     "access_status": "available",
@@ -82902,6 +83318,30 @@
     "weak_generic_terms_found": [],
     "word_count": 4299
   },
+  "f342e392e5acec4567b9245b964706f02da6b153e1e1c354f3fce4df7642bddd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Samsung flags $95.7 billion profit on AI boom, highest quarterly for any tech company Sign up now: Get ST's newsletters delivered to your inbox Samsung\u2019s shares rose 0.3% in early trade, outperforming a 0.1% fall in the benchmark KOSPI. PHOTO: REUTERS Published Oct 08, 2026, 11:25 AM Updated Oct 08, 2026, 11:25 AM Set as preferred source Summarise Samsung said quarterly profit could top 100 trillion won, a first for a tech company, as AI chip demand pushed memory sales and prices higher. The boom should keep memory supply tight into 2028, and Samsung faces risks from higher costs, a strong won, Chinese rivals and possible US tariffs. Strong memory earnings may help Samsung\u2019s chip arm, but they also raise costs for phones and electronics, while its foundry unit still struggles and seeks more demand. AI generated SEOUL \u2013 Samsung Electronics on Oct 8 projected its quarterly profit would top 100 trillion won (S$95.7 billion), a world first for a technology company, estimating a nearly ninefold jump in third-quarter earnings as booming demand for AI chips drove strong memory sales. The world\u2019s largest memory chipmaker estimated an operating profit of 107.4 trillion won for the July-September period, slightly ahead of an LSEG SmartEstimate of 106.1 trillion won, a regulatory filing showed. The forecast marks Samsung\u2019s fourth straight quarter of record operating profit, underscoring...",
+    "cache_version": 10,
+    "checked_at": "2026-10-08T05:56:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2584
+  },
   "f35e41e3336f3d6af0af4a2653515b1cd641cd87c0efb88af44f8546ae004491": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -83369,7 +83809,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Get started Last updated Sep 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Create a Cloudflare Tunnel and publish your first application in under 5 minutes. Prerequisites A Cloudflare account \u00e2\u0086\u0097\u00ef\u00b8\u008e A domain on Cloudflare (required to publish applications) A server or VM with internet access where you will install cloudflared Create a tunnel To create a new Cloudflare Tunnel: In the Cloudflare dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e , go to Networking > Tunnels . Go to Tunnels \u2197 Select Create Tunnel . Enter a name for your tunnel (for example, production-web or staging-api ). Select Create Tunnel . Under Setup Environment , select the operating system and architecture of your server. Copy the install commands shown under Install and Run and run them in a terminal on your server. Once the tunnel connects, select Continue . Your tunnel should appear on the Tunnels page with a Healthy status . Create an API token with the following permissions: Type Item Permission Account Cloudflare Tunnel Edit Zone DNS Edit Create a tunnel: Required API token permissions At least one of the following token permissions is required: Cloudflare One Connectors Write Cloudflare One Connector: cloudflared Write Cloudflare Tunnel Write Create a Cloudflare Tunnel bash curl \"https://api.cloudflare.com/client/v4/accounts/ $ACCOUNT_ID /cfd_tunnel\" \\ --request POST \\ --header \"Authorization: Bearer...",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:11+00:00",
+    "checked_at": "2026-10-08T05:56:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -86636,9 +87076,9 @@
   "fd253bbce3f4637af5098c8c88ec186403afe66e927c913498ea7582062e914b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Error 404 Not Found Not Found Error 54113 Details: cache-sjc1000088-SJC 1789533972 2058502918 Varnish cache server",
+    "article_excerpt": "Error 404 Not Found Not Found Error 54113 Details: cache-hhr-khhr2060035-HHR 1791439000 15298532 Varnish cache server",
     "cache_version": 10,
-    "checked_at": "2026-09-16T04:46:12+00:00",
+    "checked_at": "2026-10-08T05:56:39+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam"
