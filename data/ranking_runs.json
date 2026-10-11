@@ -2,29 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 39,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 25,
-        "psychology": 14
-      },
-      "shortlist_count": 7,
-      "source_domain_distribution": {
-        "arxiv.org": 3,
-        "ieeexplore.ieee.org": 4
-      },
-      "timestamp": "2026-08-22T01:49:35+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 2
-      }
-    },
-    {
-      "article_type_distribution": {
         "News report": 1,
         "Research paper": 2
       },
@@ -1497,6 +1474,32 @@
       "timestamp": "2026-10-10T05:46:20+00:00",
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
+        "Scam development": 2
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 1,
+        "News report": 1,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 18,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "psychology": 18
+      },
+      "shortlist_count": 3,
+      "source_domain_distribution": {
+        "abc7ny.com": 1,
+        "cutoday.info": 1,
+        "papers.ssrn.com": 1
+      },
+      "timestamp": "2026-10-11T05:40:42+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Research / novel method": 1,
         "Scam development": 2
       }
     }
