@@ -3878,6 +3878,20 @@
       "url": "https://news.tvb.com/tc/1188232-Fraudstersdisguisingaslawyerspullingvictiminto2ndscam",
       "usefulness_category": "Detection / analytics / engineering insight"
     },
+    "news.tvb.com|2026-08-14|5bn cases hklogs20000scamcasesinjanjuntotalling jan jun logs scam totalling": {
+      "article_type": "Enforcement report",
+      "normalised_title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "normalized_title_fingerprint": "hk logs scam cases jan jun totalling 5bn",
+      "original_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1lOTUhkdjRINXhQMEFFdG55U0JMZE55ZFJFRVQyVkF5RmprLXkzNjZUSFFsTlctcWplN0lzOGJjZnduTC1kMzJLSnVQMEd0Q0l4Q1c1VUQ5Qkx3cTlYZnhYQ1JrMG5hcG5JYkxwenowZ19ab2tQOFpWU1BTUFQzZw?oc=5",
+      "parsed_date": "2026-08-14",
+      "raw_title": "HK logs 20,000 scam cases in Jan-Jun, totalling $3.5bn",
+      "same_story_key": "news.tvb.com|2026-08-14|5bn cases hklogs20000scamcasesinjanjuntotalling jan jun logs scam totalling",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "url": "https://news.tvb.com/sc/1189130-HKlogs20000scamcasesinJanJuntotalling$3.5bn",
+      "usefulness_category": "Scam development"
+    },
     "newsandstar.co.uk|2026-08-12|50k cumbria fraud loses police residents scam urge": {
       "article_type": "Enforcement report",
       "normalised_title": "victim loses 50k scam cumbria police urge residents vigilant",
@@ -5123,6 +5137,20 @@
       "title": "they escaped south east asia s scam compounds then they realised they were still trapped",
       "url": "https://www.theguardian.com/world/cambodia",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "thelivenagpur.com|2026-10-11|accounts bank could deposit drain jumped sbi scam": {
+      "article_type": "Technical article",
+      "normalised_title": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "normalized_title_fingerprint": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "original_url": "https://thelivenagpur.com/2026/10/11/sbi-warns-of-jumped-deposit-upi-scam-that-could-drain-bank-accounts/",
+      "parsed_date": "2026-10-11",
+      "raw_title": "SBI Warns of \u2018Jumped Deposit\u2019 UPI Scam That Could Drain Bank Accounts",
+      "same_story_key": "thelivenagpur.com|2026-10-11|accounts bank could deposit drain jumped sbi scam",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "thelivenagpur.com",
+      "title": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "url": "https://thelivenagpur.com/2026/10/11/sbi-warns-of-jumped-deposit-upi-scam-that-could-drain-bank-accounts/",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "themorning.lk|2026-06-28|artists con crime exploited izyvi9ic6dq0kpdp6wak modern scam trust": {
       "article_type": "Technical article",
@@ -8012,6 +8040,18 @@
       "title": "highly gullible woman acted money mule court rejects mental condition arguments",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "hk logs scam cases jan jun totalling 5bn": {
+      "article_type": "Enforcement report",
+      "normalised_title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "normalized_title_fingerprint": "hk logs scam cases jan jun totalling 5bn",
+      "parsed_date": "2026-08-14",
+      "raw_title": "HK logs 20,000 scam cases in Jan-Jun, totalling $3.5bn",
+      "same_story_key": "news.tvb.com|2026-08-14|5bn cases hklogs20000scamcasesinjanjuntotalling jan jun logs scam totalling",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "usefulness_category": "Scam development"
+    },
     "hsbc agrees pay 35 million penalty after widespread scam failures": {
       "article_type": "News report",
       "normalised_title": "hsbc agrees pay 35 million penalty after widespread scam failures",
@@ -9439,6 +9479,18 @@
       "source_domain": "wired.com",
       "title": "satellite images reveal suspected scam compounds appear out nowhere",
       "usefulness_category": "Operational intelligence"
+    },
+    "sbi warns jumped deposit upi scam could drain bank accounts": {
+      "article_type": "Technical article",
+      "normalised_title": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "normalized_title_fingerprint": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "parsed_date": "2026-10-11",
+      "raw_title": "SBI Warns of \u2018Jumped Deposit\u2019 UPI Scam That Could Drain Bank Accounts",
+      "same_story_key": "thelivenagpur.com|2026-10-11|accounts bank could deposit drain jumped sbi scam",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "thelivenagpur.com",
+      "title": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "usefulness_category": "Detection / analytics / engineering insight"
     },
     "scam compounds australia s doorstep uncovered abc news headlines": {
       "article_type": "Enforcement report",
@@ -11324,6 +11376,18 @@
       "source_domain": "abc.net.au",
       "title": "Phishing scam targets delivery drivers",
       "url": "https://www.abc.net.au/listen/programs/am/phishing-scam-targets-delivery-drivers/106887424",
+      "usefulness_category": "Scam development"
+    },
+    "0c063a70697264b2451c0a9ae2db738c08ab4e02974169202dfa9bdb869e2324": {
+      "article_type": "Enforcement report",
+      "normalised_title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "normalized_title_fingerprint": "hk logs scam cases jan jun totalling 5bn",
+      "parsed_date": "2026-08-14",
+      "same_story_key": "news.tvb.com|2026-08-14|5bn cases hklogs20000scamcasesinjanjuntotalling jan jun logs scam totalling",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "HK logs 20,000 scam cases in Jan-Jun, totalling $3.5bn",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1lOTUhkdjRINXhQMEFFdG55U0JMZE55ZFJFRVQyVkF5RmprLXkzNjZUSFFsTlctcWplN0lzOGJjZnduTC1kMzJLSnVQMEd0Q0l4Q1c1VUQ5Qkx3cTlYZnhYQ1JrMG5hcG5JYkxwenowZ19ab2tQOFpWU1BTUFQzZw?oc=5",
       "usefulness_category": "Scam development"
     },
     "0c261089170528cafc5882fa6cca24b9294458d3838516d14b76dba22c9b85eb": {
@@ -14290,6 +14354,18 @@
       "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6139207",
       "usefulness_category": "Product idea / data source"
     },
+    "752f7b36b7420d128b726e74dbdd0a14533c6083eedd58972a307f912a3b6835": {
+      "article_type": "Technical article",
+      "normalised_title": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "normalized_title_fingerprint": "sbi warns jumped deposit upi scam could drain bank accounts",
+      "parsed_date": "2026-10-11",
+      "same_story_key": "thelivenagpur.com|2026-10-11|accounts bank could deposit drain jumped sbi scam",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "thelivenagpur.com",
+      "title": "SBI Warns of \u2018Jumped Deposit\u2019 UPI Scam That Could Drain Bank Accounts",
+      "url": "https://thelivenagpur.com/2026/10/11/sbi-warns-of-jumped-deposit-upi-scam-that-could-drain-bank-accounts/",
+      "usefulness_category": "Detection / analytics / engineering insight"
+    },
     "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
       "article_type": "Investigative report",
       "normalised_title": "romance scammer who made small fortune posing wwe superstar",
@@ -14409,6 +14485,18 @@
       "title": "UNSEEN: A Cross-Stack LLM Unlearning Defense against AR-LLM Social Engineering Attacks - arXiv",
       "url": "https://arxiv.org/pdf/2604.23141",
       "usefulness_category": "Research / novel method"
+    },
+    "783fd0c8ef70e78cd068b7d0ee024e4991bbd6f4764c703d6e7daa3040892228": {
+      "article_type": "Enforcement report",
+      "normalised_title": "hk logs 20 000 scam cases jan jun totalling 3 5bn",
+      "normalized_title_fingerprint": "hk logs scam cases jan jun totalling 5bn",
+      "parsed_date": "2026-08-14",
+      "same_story_key": "news.tvb.com|2026-08-14|5bn cases hklogs20000scamcasesinjanjuntotalling jan jun logs scam totalling",
+      "sent_at": "2026-10-12T05:50:46+00:00",
+      "source_domain": "news.tvb.com",
+      "title": "HK logs 20,000 scam cases in Jan-Jun, totalling $3.5bn",
+      "url": "https://news.tvb.com/sc/1189130-HKlogs20000scamcasesinJanJuntotalling$3.5bn",
+      "usefulness_category": "Scam development"
     },
     "7976e256db60eaaae47cbe71693bfd92eddf5f9cf202288da37f1997dc1bd1d8": {
       "article_type": "News report",

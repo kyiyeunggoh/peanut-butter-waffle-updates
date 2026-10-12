@@ -6277,6 +6277,30 @@
     ],
     "word_count": 1376
   },
+  "121f24f538c2f06ccca63e65fb90739b243a2ad32371c82d9644562742413bba": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "News analysis Trump announces deal with Putin for Russian diesel, but what is its most consequential element? Sign up now: Get ST's newsletters delivered to your inbox President Trump said the US would buy Russian diesel, the latest instance of Washington undermining Kyiv by giving Moscow economic breathing room. PHOTO: HILARY SWIFT/NYTIMES Jonathan Eyal Published Oct 11, 2026, 11:30 AM Updated Oct 11, 2026, 06:34 PM Set as preferred source Unlock audio Summarise Trump said Ukraine needs a new leader, railing against Ukraine\u2019s attacks on Russian oil infrastructure, as he struck a deal with Putin to buy Russian diesel. The deal is unlikely to cut prices, because the promised volumes are too small and diesel prices are set by global markets, not US policy. Increasing prices for diesel, used for agriculture and trucking, carry a risk for Trump\u2019s fellow Republicans ahead of the Nov 3 Midterms elections. AI generated LONDON \u2013 US President Donald Trump has called on Ukrainians to get a new leader, claiming that Ukrainian President Volodymyr Zelensky has not done enough to end his country\u2019s war with Russia and blaming Zelensky for high diesel prices in America. \u201cI suggest they get a new leader who can make a deal because he could have made many deals and, for some reason, he never does,\u201d Trump said. See more on Donald Trump Vladimir Putin Volodymyr Zelensky Oil and gas sector News...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 649
+  },
   "123502e3d65ffcdb092f4977272b5c1f7af7246cecef71a64d5a71e67df6855f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10283,7 +10307,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-05T05:30:23+00:00",
+    "checked_at": "2026-10-12T05:50:33+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15583,6 +15607,44 @@
     ],
     "word_count": 26516
   },
+  "2e170394fd2d819a1960eb1dc5f8d26a0d8ca5f9002673c2501d3052d9b0582c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Deepfake in the Metaverse: An Outlook Survey Haojie Wu Affiliation: University of Science and Technology of China, China Pan Hui \\IEEEmembership Fellow, IEEE Affiliation: The Hong Kong University of Science and Technology (Guangzhou), China Pengyuan Zhou \\IEEEmembership Member, IEEE Affiliation: University of Science and Technology of China, China Abstract We envision deepfake technologies, which synthesize realistic fake images and videos, will play an important role in the future metaverse. While enhancing users\u2019 immersion and experience with synthesized virtual characters and scenes, deepfake can cause serious consequences if used for fraud, impersonation, and dissemination of fake information. In this paper, we introduce the principles, applications, and risks of deepfake technology, and propose some countermeasures to help users and developers in the metaverse deal with the challenges brought by deepfake technologies. Further, we provide an outlook on the future development of deepfake in the metaverse. \\chapteri The term \u201cdeepfake\u201d is derived from the combination of \u201cdeep learning\u201d and \u201cfake\u201d, initially used by a Reddit user who published fictitious movies on the social media platform in December 2017 that mapped the faces of stars like Scarlett Johansson onto sexual performers [ 1 ] . There is currently no...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:33+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "cybersecurity",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 8600
+  },
   "2e3877e66ee8e7d88c44cf264c188df2408f8c4dae70b74345a2c32b3b4d0be5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16478,6 +16540,42 @@
     ],
     "word_count": 1444
   },
+  "3050992a9e7f525ec610e751c885e296d0a079b45f5fe6352527218e108a28f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection Jiran Tao Yifan Wu Binyan Jiang Abstract Online platforms contain growing numbers of bots, deceptive reviewers, and scam accounts that imitate legitimate users. Such camouflage blurs graph neighborhoods and behavioral attributes, making it difficult for graph neural networks (GNNs) to distinguish both well-disguised fraudsters and legitimate users. Across diverse GNNs, we observe overlapping errors on a shared hard region, suggesting the presence of latent fraud evidence that graph topologies and standard features fail to capture. Fraud-specific GNNs can mitigate particular graph pathologies, yet they still make limited use of heterogeneous evidence such as structured records, text, images, and audio; uniform multimodal fusion may also disturb nodes already handled reliably by the graph. We propose Evi-VN to learn and correct these shared blind spots rather than build another fraud detector. To our knowledge, Evi-VN is the first graph fraud detection framework to use feature isolated evidence chains to correct hard regions shared across GNNs. Its evidence chains connect behavior, content, and context across structured, textual, visual, and acoustic sources, helping expose camouflage that graph neighborhoods may miss. Crucially, Evi-VN...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 22015
+  },
   "3098bc7545fd4efdb36a8307c8b6c974eb727cbd24c2faa7c8055a03ef95662d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16897,6 +16995,32 @@
     ],
     "word_count": 19742
   },
+  "31df0eb5cbab86acc794ad6796fd3c6bd2d745ffe6efba90e8c272af8b123b81": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "That trip, which used to take him an hour, now often takes two to three hours\u2014 and some days far longer \u2014because of Israeli military checkpoints on the way . This was one of those days. At 30, Hattab\u2019s life now revolves around these checkpoints\u2014perhaps more than any other Palestinian in the occupied West Bank. But he has also transformed his community\u2019s approach to them: Nearly 350,000 people follow his traffic Telegram group, which has closed a gap left open by major navigation apps that fail Palestinian users. Local radio stations build their hourly road segments off his dispatches. A routing system used by West Bank companies and a new local app pull his data into their own. It began in 2019. Hattab was working during the day as a digital designer at a newspaper in Ramallah. When one shift ended, he started another, this time as the paper\u2019s delivery driver. That meant that most nights, Hattab had to drive all around the West Bank.",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "malware"
+    ],
+    "word_count": 5703
+  },
   "31fe7d7a7bea49b2e2ec3be651a75b2f1f8d4e46c7bc6663893f3951e59d88ed": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17186,6 +17310,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "32f606108cef6ca7246072ab2021a92c5d770f033916d484d502c295469ac2cd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US reverses course on Britain\u2019s testing of AI models: Report Sign up now: Get ST's newsletters delivered to your inbox The change signals a softer stance by the Trump administration on international AI safety efforts. PHOTO: REUTERS Published Oct 12, 2026, 08:40 AM Updated Oct 12, 2026, 10:12 AM Set as preferred source Listen WASHINGTON \u2013 American AI developers can give the British government early access to AI models for safety testing without running afoul of US President Donald Trump\u2019s administration, the Telegraph newspaper said on Oct 11. The Trump administration has reversed a decision that requested developers such as OpenAI and Anthropic not to share new artificial intelligence models with Britain\u2019s AI Security Institute before release, the newspaper said. The change signals a softer stance by the Trump administration on international AI safety efforts, giving developers in the United States greater latitude to cooperate with Britain as policymakers grapple with how to oversee the increasingly powerful technology. Representatives for Trump, OpenAI and Anthropic did not immediately respond to a request for comment from Reuters. Britain\u2019s AI Security Institute, set up after the world\u2019s first AI safety summit in 2023 , tests the most advanced AI models to evaluate their capabilities and the risk of misuse. Trump has repeatedly dismissed calls for binding safety...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 851
   },
   "32fa55304b7046a195d82963c4db9309725bf3040ea4b90a435e7cae39d843ee": {
     "access_status": "available",
@@ -26085,6 +26233,33 @@
     "weak_generic_terms_found": [],
     "word_count": 2656
   },
+  "4b1e1898b3456a438bed8bc7e9e2e5b5fe03f746ef2ba5b9d26fdd32cc5bfe9b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The efforts mark the Justice Department\u2019s intent to proceed against Hutchinson, a former aide to ex-Trump White House chief of staff Mark Meadows, though prosecutors are not expected to ask a federal grand jury in Washington to return an indictment until at least after the midterm elections, the sources say. Hutchinson testified as a star witness to the committee that investigated the riot, recounting that Trump encouraged his supporters to march to the Capitol even though he knew many were armed. She sat for several interviews in addition to her public testimony, where she recalled hearing that Trump had lunged at one of his Secret Service agents after being told he could not join his supporters at the Capitol. In recent months, prosecutors at the Justice Department have focused on the fact that the former special counsel, Jack Smith, did not corroborate much of Hutchinson\u2019s account to the committee, and the Secret Service\u2019s denial of any altercation in the presidential limo, the sources say. By comparing the transcripts of Hutchinson\u2019s interviews with the committee and against her testimony to Smith\u2019s team, prosecutors have been trying to construct a case based on how her testimony has changed, the sources say. Prosecutors have also taken a special interest in Hutchinson\u2019s claim that she had penned a statement on a notecard for Trump to release during the Capitol riot\u2014a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2618
+  },
   "4b2a11bc5cf14a744711889a7703f2116cb7221e48f585364d8fcbaaa94fb96d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -27467,6 +27642,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2498
+  },
+  "4fc9964122c3abecc4af0c2cf025eaeb3348ffec162c34fa9bc1304c220be7ff": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lethal injection survivor Christa Pike returns to prison Sign up now: Get ST's newsletters delivered to your inbox Convicted murderer Christa Pike was administered two lethal doses of the drug pentobarbital on Sept 30 that failed to kill her. PHOTO: AFP Published Oct 11, 2026, 01:18 AM Updated Oct 11, 2026, 01:19 AM Set as preferred source Listen Summarise Christa Pike, 50, survived a botched execution in Tennessee after two doses of pentobarbital failed. She has been discharged from hospital and returned to Deborah K. Johnson Rehabilitation Center. Her lawyers said she is still receiving medical care and asked Governor Bill Lee to commute her death sentence to life in prison. Lee has paused executions pending an independent investigation. The case has reignited debate over capital punishment in the US, after anger over a planned live-streamed firing squad execution and Pope Leo's statement that the death penalty is 'inadmissible'. AI generated WASHINGTON - The convicted murderer who survived a botched execution attempt in the US state of Tennessee last week has been discharged from hospital and returned to prison, her lawyers said Oct 10. Christa Pike, 50, was administered two lethal doses of the drug pentobarbital on Sept 30 that failed to kill her. She was transported to hospital in critical condition but later regained consciousness, with her lawyers saying this week...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1738
   },
   "4fce0012c0ca4e2e4f8fdcc39bba04266cbe7324a7f5505e6f138f1d13192576": {
     "access_status": "available",
@@ -38126,6 +38325,30 @@
     ],
     "word_count": 4933
   },
+  "6dfa1855b7705b9e07358ca0ab12922e220825b0ea3e377dbba634520be0f184": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "A Reuters report from earlier this year revealed details about a device codenamed Transformer under development, with Amazon's Alexa+ AI assistant as the focus of the experience. With Amazon announcing a complete rebrand of its tablet line on Thursday \u2014killing the cheap Fire Tablets and replacing them with premium Alexa Tablets that finally run Android with access to the Google Play Store\u2014we now have a blueprint for what an Android-powered Amazon phone could look like. Amazon's souped-up Alexa+ assistant is front and center on the tablets. There's a persistent \u201cAsk Alexa\u201d widget on the home screen that lets you call on the assistant to ask it questions\u2014you can say \u201cAlexa\u201d to trigger it, too. But Alexa+ now finally has what Amazon calls On-Screen Intelligence. Like Google's Gemini on Android phones or Apple's Siri on iPhones , which can read your screen and answer contextual questions, Alexa now has the same functionality (if you opt in). The Ask Alexa widget is accessible in the corner of the Alexa Tablet. Photograph: Julian Chokkattu That can be for simple things like summarizing a web page, but it can be used for more complex tasks. Watching a YouTube video about a new product? Ask Alexa whether the product is on Amazon, and if so, add it to your Amazon shopping cart.",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3808
+  },
   "6e057e0bdec14ea1ca67feb0ec9bad1593259c881c6caa4e839f39a63031edcb": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -40448,6 +40671,47 @@
     ],
     "word_count": 14691
   },
+  "752f7b36b7420d128b726e74dbdd0a14533c6083eedd58972a307f912a3b6835": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Nation SBI Warns of \u2018Jumped Deposit\u2019 UPI Scam That Could Drain Bank Accounts by TLN Team October 11, 2026 written by TLN Team October 11, 2026 The State Bank of India (SBI) has warned customers about a \u2018jumped deposit\u2019 scam in which fraudsters allegedly exploit unexpected bank credits to trick account holders into authorising high-value payments through the Unified Payments Interface (UPI). In a post on X on October 10, 2026, as part of its National Cyber Security Month Special Campaign 6.0, SBI urged customers to remain alert if an unknown person claims to have transferred money to their account by mistake and asks for an immediate refund. The scam typically begins with an unexpected credit from an unknown source. Fraudsters then use urgency, persuasion or emotional pressure to convince the recipient to act without properly verifying the transaction. Recommended Indulekha Ayurvedic Hair Growth Oil, 100ml \u20b9316 Avimee Herbal Keshpallav Hair Oil, 100ml \u20b9550 Soulflower Rosemary Lavender Hair Oil, 225ml \u20b9219 As an Amazon Associate we earn from qualifying purchases. Prices as of 20 Sep 2026. How Does the \u2018Jumped Deposit\u2019 Scam Work? In this type of fraud, scammers allegedly transfer a small amount into a victim\u2019s bank account and then claim that the money was sent accidentally. They contact the recipient and request an immediate refund, attempting to gain their trust and encourage a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 1440
+  },
   "753ebfeb30f3fc70d076a5e4a12fd93bcafff876efd18551a71db291d0361f52": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -41602,6 +41866,49 @@
       "trust"
     ],
     "word_count": 3404
+  },
+  "783fd0c8ef70e78cd068b7d0ee024e4991bbd6f4764c703d6e7daa3040892228": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "HK logs 20,000 scam cases in Jan-Jun, totalling $3.5bn \u53d1\u5e03\uff1a 2026-08-14 17:43 \u64b0\u6587\uff1a \u7121\u7dab\u65b0\u805e The Commercial Crime Bureau says more than 20,000 fraud cases have been recorded in the first half of 2026, with total financial losses exceeding 3.5 billion dollars. Both the number of cases and the financial loss decreased by 1% year-on-year. The Anti-Deception Coordination Centre recorded 2,151 cases of investment fraud among the 20,613 fraud cases so far this year. However, the total loss from investment fraud is around 1.66 billion dollars, representing half of the total 3.5-billion-dollar losses from fraud cases. In most scenarios, the fraudsters would persuade victims to invest in cryptocurrency and artificial intelligence. In a case involving the largest amount of around 80 million dollars, the 67-year-old victim met the fraudsters online and they later became a couple. The victim was then persuaded to download an application to invest in cryptocurrency. The individual was unable to withdraw funds afterwards. The police says it is important to not download unknown applications and to call the 18222 hotline in case of suspected fraud. While most of these scams lack physical presence, some scammers would establish offices to show they are reliable.",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud syndicate"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "fraud"
+    ],
+    "word_count": 373
   },
   "784b0395e18d2e3682d834f30512cc701049c8c4b9896bd3874f07e693b28dae": {
     "access_status": "available",
@@ -45555,6 +45862,30 @@
       "fraud"
     ],
     "word_count": 2758
+  },
+  "81464627b2fa418086ea1386f02479330d55914bdc5b542d0aa47f4249c6e80d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "URA flags \u2018persistent trend\u2019 of suspected cases of unauthorised works in residential units Sign up now: Get ST's newsletters delivered to your inbox Private enclosed spaces on the roof terraces of Rose Maison in Haig Lane. PHOTO: ST FILE Ng Keng Gene Published Oct 11, 2026, 01:00 PM Updated Oct 11, 2026, 08:14 PM Set as preferred source Listen Summarise - URA warned of a persistent trend suspected unauthorised works in strata-titled homes, with 147 reports in 2024, 148 in 2025 and 116 lodged in the first nine months of 2026. - Such works may harm structural safety, insurance, financing and fairness among owners, said the authority. - Owners must seek approvals from the MCST, agencies and a qualified person; failure to remove or regularise works can lead to fines of up to $200,000 and other penalties. AI generated SINGAPORE \u2013 The Urban Redevelopment Authority (URA) has warned that enforcement action may be taken against those responsible for unauthorised works in strata-titled residential units, amid a \u201cpersistent trend\u201d of suspected cases being reported to the agency. Examples of such works include the construction of lofts or mezzanines with an area of more than 5 sq m, or unauthorised enclosed structures on private roof terraces or private first-storey patios. In a statement on Oct 11, the URA said it had received 147 reports of suspected cases of unauthorised works in 2024...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3946
   },
   "816eae7d7ec79d2728f29b3c9d60d9b74157e26b71ca89d70f4f20780287ad4e": {
     "access_status": "available",
@@ -52037,7 +52368,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-04T05:46:31+00:00",
+    "checked_at": "2026-10-12T05:50:37+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -52315,6 +52646,37 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 581
+  },
+  "94fa1b410c8a1806854b085c797641c89887f02e490950655372adcb4e322687": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u2020 \u2020 highlights: A comprehensive survey of ChatGPT-related research. Analysis of 194 research papers. Paving the way for further research and exploration in leveraging large language models for various applications. Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models Yiheng Liu \u2217 co Tianle Han \u2217 co Siyuan Ma Jiayue Zhang Yuanyuan Yang Jiaming Tian Hao He Antong Li Mengshen He Zhengliang Liu Zihao Wu Lin Zhao Dajiang Zhu Xiang Li Ning Qiang Dingang Shen Tianming Liu Bao Ge cor1 organization=School of Physics and Information Technology, Shaanxi Normal University, city=Xi\u2019an, postcode=710119, state=Shaanxi, country=China organization=School of Life and Technology Biomedical-Engineering, Xi\u2019an Jiaotong University, city=Xi\u2019an, postcode=710119, state=Shaanxi, country=China organization=School of Computing, The University of Georgia, city=Athens, postcode=30602, country=USA organization=Department of Computer Science and Engineering, The University of Texas at Arlington, city=Arlington, postcode=76019, country=USA organization=Department of Radiology, Massachusetts General Hospital and Harvard Medical School, city=Boston, postcode=02115, country=USA organization=School of Biomedical Engineering, ShanghaiTech University, city=Shanghai, postcode=201210, country=China organization=Shanghai...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_healthcare_ai_cyber",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "cybersecurity",
+      "ai abuse",
+      "trust"
+    ],
+    "word_count": 26514
   },
   "95040424e6bd6db98eedce3ec54c08312077e02fc91ba35d75c654de543a406f": {
     "access_status": "available",
@@ -55380,6 +55742,31 @@
       "fraud"
     ],
     "word_count": 1988
+  },
+  "9e217124fc68852cd33f9108ea2dfc96dc9a280356ede8eb32b3f201555454cf": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_failed",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": null
   },
   "9e6b872015289b4488f9f9a3a144ae49bce331700676c734f4655550537febd9": {
     "access_status": "available",
@@ -59332,7 +59719,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-05T05:30:27+00:00",
+    "checked_at": "2026-10-12T05:50:39+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -61633,6 +62020,30 @@
       "trust"
     ],
     "word_count": 54657
+  },
+  "af0398167d9560da2b41f0837d5b7c47234a0d60e184810dcdb06e01fde28264": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "It\u2019s part of the Pentagon\u2019s desperate bid to inject competition in a market the United States military itself destroyed. The initiative, known as Tradewinds , is managed by DOD\u2019s Chief Digital and Artificial Intelligence Office (CDAO.) Companies can submit videos describing how their AI products address one of several different \u201cstrategic focus areas\u201d that the government periodically updates. At least once a month, a panel of judges review submissions and decide whether to accept them into the Tradewinds Solutions Marketplace, where the videos can then be viewed by government officials. If accepted, the pitched products are considered \u201cpost-competitive.\u201d Many procurement regulations include competitive requirements. The status can let government buyers check off that box and potentially help shave months off of award timelines. A DOD official says that in several instances, the department has been able to make awards using Tradewinds in less than a week. OpenAI, Anthropic, and Google are all listed as participants. OpenAI, Anthropic, and Google declined to comment for this story. Though the Tradewinds Solutions Marketplace has been around since late 2022, the Trump administration has been far more vocal than its predecessors about the military buying and operationalizing AI. It also hopes to have more money than ever to throw around: As part of its 2027 budget request to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4220
   },
   "af1c6cd47071921157b53c50ee5177ff28d2770dbc9dc98abf87c0b28804f679": {
     "access_status": "available",
@@ -68638,6 +69049,32 @@
     "weak_generic_terms_found": [],
     "word_count": 133
   },
+  "c277ac1894d13e007efbe69309fc06ae4fdc7b41b81b768aaf9bb15e97170376": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Races are being run\u2014and likely decided\u2014on Silicon Valley funding, data center debates, AI regulation, extremism, and more. From the contests that will decide the Senate to less attention-grabbing ones that will decide who controls voting in key swing states in 2028, these are the candidates and races we think are most worth watching closely in the weeks to come, and which we'll be keeping an eye on. WHAT MAKES THIS A WIRED RACE: DOGE, Musk, America PAC, AI lobby Former America PAC lawyer Chris Gober is running to represent Texas\u2019 newly gerrymandered 10th district. Gober served as counsel for the Texas Republican congressional delegation for the 2025 redistricting effort that saw a new, gerrymandered map created for the 2026 midterms\u2014one that was meant to create five new Republican congressional districts. In addition to representing Musk\u2019s PAC, Gober\u2019s law firm, Lex Politica, has also represented Elevate New Mexico , a limited liability company that ran an advertising campaign supporting a controversial data center project in the state, as well as the Danube Institute USA , a think tank aligned with Hungary\u2019s former right-wing leader Viktor Orban. According to reporting from The New York Times, Gober was one of several lawyers who advised on the structure of the so-called Department of Government Efficiency (DOGE) in the weeks leading up to President Donald Trump\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 8687
+  },
   "c2828f4d99766d650b7d5643e619eebe66e86998bf12aa345803b67b9687e971": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -74890,6 +75327,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1637
   },
+  "d43c3e30c9fd87fe84920bb2a635fa2362e393b19b4dfd30e2266d1b681a01f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release VUSSENS Establishes U.S. Headquarters in New Jersey and Launches AI-Powered Global Beauty Analytics Platform Published Oct 12, 2026, 08:00 AM VUSSENS Establishes U.S. Headquarters in New Jersey and Launches AI-Powered Global Beauty Analytics Platform The issuer is solely responsible for the content of this announcement. Press release VUSSENS Establishes U.S. Headquarters in New Jersey and Launches AI-Powered Global Beauty Analytics Platform Published Oct 12, 2026, 08:00 AM VUSSENS Establishes U.S. Headquarters in New Jersey and Launches AI-Powered Global Beauty Analytics Platform The issuer is solely responsible for the content of this announcement. Press release VUSSENS Establishes U.S. Headquarters in New Jersey and Launches AI-Powered Global Beauty Analytics Platform Published Oct 12, 2026, 08:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here.",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 162
+  },
   "d43ebc8d5829503e86034b8483e84ed4731acaf14e51ad0cdd450e67006d2299": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -75096,6 +75557,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "d4e87906072d83a9285920a081ca1acd1b12ab9cbed6306c8cdd185831f64d95": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Start-ups are betting on AI to predict the future Sign up now: Get ST's newsletters delivered to your inbox The most advanced models can also formulate their own questions about the future. PHOTO: REUTERS Published Oct 12, 2026, 10:10 AM Updated Oct 12, 2026, 10:57 AM Set as preferred source Listen Summarise Startups are using AI to make future forecasts on markets, politics and culture, and some models now match or beat top human \u201csuperforecasters\u201d. AI prediction tools have won competitions and helped users make big gains, while firms say they are already affecting trading and may soon dominate prediction markets. The technology is spreading into government, business, science and insurance, but experts warn that wider access could raise risks if countries like Russia or China build better systems. AI generated NEW YORK \u2013 Several start-ups are betting that they can leverage artificial intelligence to make better forecasts than even the most specialised experts when it comes to topics as varied as stock market movements, the reopening of the Strait of Hormuz or how a Shakira song will perform on music charts. By 2030, \u201cwe\u2019re going to feel that what we were doing for our decision-making was complete Stone Age thinking\u201d, Dan Schwarz, co-founder of the forecasting company FutureSearch, said. AI forecasting models are already on a par with the best \u201csuperforecasters\u201d \u2013 gifted...",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2102
   },
   "d524a5f7685d677cba8d9e1fe3f23245e9264a1f1b5fb7522a523c9bf5786d96": {
     "access_status": "available",
@@ -79820,7 +80305,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Singapore\u2019s BDx AI sticks to 2027 target after Indonesia halts work on data centre Sign up now: Get insights on Asia's fast-moving developments The 640MW project is part of a data-centre boom that has raised concerns over water and power use. PHOTO: BDx Hariz Baharudin Published Oct 04, 2026, 04:00 PM Updated Oct 04, 2026, 09:02 PM Set as preferred source Listen Summarise Indonesia has halted construction of Singapore-based BDx Data Centers' 640MW AI data centre in West Java due to pending environmental and building approvals. BDx aims to launch the first phase by early 2027 and is working with authorities to resolve regulatory issues while maintaining project timelines. Concerns include the project\u2019s significant water use from Jatiluhur reservoir, prompting calls for public environmental impact assessments and ensuring local water supply is not disrupted. AI generated JAKARTA \u2013 Singapore-based BDx Data Centers is sticking to plans to bring the first phase of its largest data centre campus in Indonesia online in early 2027, despite construction being halted over outstanding environmental and building approvals. BDx, which already operates three data centre sites in Indonesia, confirmed on Oct 3 that construction at the 640MW artificial intelligence data centre campus in Jatiluhur, West Java, had stopped following instructions from West Java Governor Dedi Mulyadi. \u201cAt this...",
     "cache_version": 10,
-    "checked_at": "2026-10-05T05:30:27+00:00",
+    "checked_at": "2026-10-12T05:50:40+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -86342,7 +86827,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
     "cache_version": 10,
-    "checked_at": "2026-10-04T05:46:32+00:00",
+    "checked_at": "2026-10-12T05:50:38+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -89354,6 +89839,30 @@
     "weak_generic_terms_found": [],
     "word_count": 137
   },
+  "fe8f15986cc0e0accf587ee3b57ff3f0a1a5e9ee9db59d10e39544c66be0e003": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Two men die, 16 injured in float festival accidents in Japan\u2019s Osaka prefecture Sign up now: Get insights on Asia's fast-moving developments Colourful floats, lit by lanterns on the first day of the two-day Takayama autumn festival on Oct 9. PHOTO: KYODO Published Oct 11, 2026, 05:27 PM Updated Oct 11, 2026, 07:20 PM Set as preferred source Listen Summarise Two men died and 16 people were injured when danjiri floats overturned during festivals in Osaka prefecture on Oct 10. One man, aged 51, died in Izumisano after being trapped under a float; a 48-year-old man died in Izumiotsu in a similar accident. The crashes happened during \u201cyarimawashi\u201d corner turns, a risky festival highlight, after another float accident injured 11 people in Sakai on Oct 3. AI generated OSAKA \u2013 Two men died and 16 others were injured on Oct 10 when floats overturned during annual festivals in Osaka prefecture. In Izumisano, a 51-year-old man was trapped beneath a float that overturned while he was riding it with other participants, police said. He was later pronounced dead at a hospital, while seven others were injured. A float at a different event in Izumiotsu also toppled, killing a 48-year-old man who was among those trapped underneath, according to the police. He was on the float when it overturned. Nine others were injured.",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 953
+  },
   "fe8f83d91fe68a4d1805229840df11c77f2c39ebf1f1051ca8036cb6cade2802": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -89868,6 +90377,30 @@
       "identity"
     ],
     "word_count": 4193
+  },
+  "ff92403b8566d5a57be1a7cc5f197cd15ff04800dd5e5752f994066ab4e036e8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Your own personal AI agent. What could possibly go wrong? Handing over control is not an easy decision, and it shouldn\u2019t be. This article is one of a three-part series examining the risks and reality of autonomous AI agents. Sign up now: Get ST's newsletters delivered to your inbox If a chatbot gives us a poor recommendation, we can ignore it. If an AI assistant misunderstands us, it could disclose sensitive information before we realise something has gone wrong. PHOTO: REUTERS Roy Ka-Wei Lee Published Oct 12, 2026, 08:00 AM Updated Oct 12, 2026, 08:00 AM Set as preferred source So you want to buy the new iPhone Duo. Usually, you would face the time-consuming task of comparing prices and deciding where to buy it. Imagine instead, the convenience of simply telling an AI assistant: \u201cFind me the best deal for the new iPhone Duo and buy it for me.\u201d See more on AI/artificial intelligence Behaviour/Psychology Meta AI chatbot Privacy issues Your own personal AI agent. What could possibly go wrong?",
+    "cache_version": 10,
+    "checked_at": "2026-10-12T05:50:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 518
   },
   "ffd3f0082e74c92e7b5b446bb9b4213a73d458aa46779f7169cc9c3a3232c414": {
     "access_status": "available",
