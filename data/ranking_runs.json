@@ -2,33 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 40,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 24,
-        "psychology": 11,
-        "targeted": 5
-      },
-      "shortlist_count": 10,
-      "source_domain_distribution": {
-        "arxiv.org": 3,
-        "en.cryptonomist.ch": 2,
-        "ieeexplore.ieee.org": 4,
-        "shooliniuniversity.com": 1
-      },
-      "timestamp": "2026-08-26T01:57:07+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 1,
-        "Research / novel method": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Investigative report": 1,
         "Research paper": 1
       },
@@ -1478,6 +1451,36 @@
       "usefulness_category_distribution": {
         "Operational intelligence": 1,
         "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 2,
+        "Investigative report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 25,
+      "failed_constraints": [
+        "missing_technical_platform_product_or_data_source_if_available"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "international": 3,
+        "platform_product": 1,
+        "psychology": 17,
+        "singapore_sea": 4
+      },
+      "shortlist_count": 6,
+      "source_domain_distribution": {
+        "straitstimes.com": 2,
+        "therecord.media": 3,
+        "vietnam.vn": 1
+      },
+      "timestamp": "2026-10-15T04:30:55+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 2,
+        "Operational intelligence": 1
       }
     }
   ]

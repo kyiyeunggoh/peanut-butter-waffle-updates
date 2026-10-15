@@ -3564,7 +3564,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Target-free Latent Safety Alignment Luoyu Chen Affiliation: University of Technology Sydney, Sydney, NSW, Australia Weiqi Wang \u2020 \u2020 thanks: Corresponding author. Affiliation: Xi\u2019an Jiaotong University, Xi\u2019an, Shaanxi, China Chenhan Zhang Affiliation: University of Technology Sydney, Sydney, NSW, Australia Zhiyi Tian Affiliation: Southeast University, Nanjing, Jiangsu, China Yuxian Huang Affiliation: Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China Shui Yu Affiliation: University of Technology Sydney, Sydney, NSW, Australia Abstract Large language models (LLMs) remain highly vulnerable to jailbreak attacks that induce harmful behaviors and circumvent safety alignment. To defend against such attacks, adversarial training paradigms have been proposed to first simulate failure modes and then train the model to correct them, yielding promising improvements in safety alignment. However, these methods typically construct adversarial samples either by encouraging fixed harmful target completions or by performing targeted activation ablation derived from fixed benign\u2013harmful data pairs. As a result, the generated adversarial samples tend to induce homogeneous harmful behaviors that poorly reflect the diversity of behaviors elicited by real-world jailbreak attacks. This behavior-level narrowness fundamentally...",
     "cache_version": 10,
-    "checked_at": "2026-10-07T05:51:45+00:00",
+    "checked_at": "2026-10-15T04:30:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -4919,6 +4919,51 @@
       "identity"
     ],
     "word_count": 717
+  },
+  "0ed0503feef11ac6a3fd41db7ba39e41a7037ea6d7a981eb6ca13fa8448d381a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Cambodia wants to shed its scam image, but will it go after powerful individuals? Sign up now: Get insights on Asia's fast-moving developments Police officers in Cambodia\u2019s special forces involved in raiding scam compounds. ST PHOTO: MAY WONG May Wong Published Oct 15, 2026, 05:00 AM Updated Oct 15, 2026, 07:30 AM Set as preferred source Listen Summarise Cambodia is cracking down on scam compounds, but it has not prosecuted powerful figures named by the US, raising doubts about whether the campaign is truly independent. The authorities say they have made arrests, referred nearly 450 cases to court, and dismantled 86 compounds. Analysts warn scam networks are deeply tied to politics and business, foreign investors remain wary, and Cambodia\u2019s new anti-scam law must be enforced fairly to restore trust. AI generated PHNOM PENH \u2013 Cambodia\u2019s determination to revamp its tarnished image as a scam hub has led to multiple crackdowns on illegal compounds , but hardly any arrests of powerful and well-connected individuals identified by the US as having links to the fraudulent operations. Cambodia\u2019s anti-scam czar, Senior Minister Chhay Sinarith, said the government was still carrying out investigations. \u201cSuspicion alone cannot immediately lead to enforcement action. An investigation is necessary,\u201d he told The Straits Times in a recent interview in Phnom Penh. The US has identified and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 5607
   },
   "0ed3939c5fdef960fbb9d501a96d0a841e6cb89efc446bd3c6953d66e6069a78": {
     "access_status": "available",
@@ -6786,6 +6831,36 @@
       "trust"
     ],
     "word_count": 1179
+  },
+  "1356a61012a49dba71d64d150b816e4f9d7cd9afd094bde619e159788d58acff": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "AI worms, \u2018major\u2019 incident fears spur safety calls at industry summit Sign up now: Get ST's newsletters delivered to your inbox Henna Virkkunen, executive vice-president for tech sovereignty at the European Commission, at the International AI Summit in Dublin, Ireland, on Oct 14. PHOTO: BLOOMBERG Published Oct 14, 2026, 09:05 PM Updated Oct 14, 2026, 09:20 PM Set as preferred source Listen Summarise AI safety dominated the Dublin summit, as experts warned of \u201cmajor\u201d incidents and possible AI worms. Demis Hassabis said current problems are \u201cearly warning shots\u201d. Brad Smith urged urgent regulation, saying there are more safety rules for milk and ovens than AI. He backed \u201csafety brakes\u201d and mandatory incident reporting. The EU said firms must test models more and keep control, while OpenAI warned rules must not slow innovation too much. The AI Act now gives the Commission new powers. AI generated DUBLIN \u2013 From the spectre of refrigerator-infecting AI worms to warnings of \u201cmajor\u201d security incidents at the horizon, calls to prioritise safety in the development of artificial intelligence dominated an industry summit on Oct 14. Concerns about AI guardrails have soared after models developed by OpenAI and Anthropic were involved in security incidents during testing, piling on pressure to regulate the technology. Google DeepMind chair Demis Hassabis warned AI capabilities were growing...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2385
   },
   "13594dee027020b59f983e58a3adeefaf1de03e5df19853e73d0434b067cc0ca": {
     "access_status": "available",
@@ -10101,6 +10176,39 @@
     ],
     "word_count": 1417
   },
+  "1c84581fc5740c835908c8f33b89f914c60b08d028025df4e6b23fa24b0b26d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Singapore launches new toolkit to help firms test AI agents for safety and reliability Sign up now: Get ST's newsletters delivered to your inbox IMDA chief executive Ng Cher Pong announcing a starter kit for testing AI agentic systems during the AI Assurance Exchange: The Agentic AI Edition on Oct 14. ST PHOTO: GAVIN FOO Kenny Chee Published Oct 14, 2026, 10:00 AM Updated Oct 15, 2026, 05:45 AM Set as preferred source Listen Summarise The Government has launched a starter kit to help organisations test AI agents for safety and reliability after reports of agents acting in unintended ways. The kit checks tools used, data accessed, decisions made, permissions followed and whether safeguards work, said IMDA chief executive Ng Cher Pong. Developed with government and industry partners, the kit builds on earlier AI governance and testing frameworks for responsible use of agentic AI. AI generated SINGAPORE \u2013 A new toolki t to help organisations begin assessing the safety and reliability of artificial intelligence agents that can execute tasks with minimal human supervision has been launched. The test kit, among several tools launched recently to establish Singapore\u2019s global reputation as an AI safety testbed, comes amid reports of AI agents going rogue . It will use a structured approach to check whether an agent has reached the right outcome and how it got there, said Infocomm...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 3734
+  },
   "1ccb8bf86bed6be03981086b88f08441447acb43a7914f43d8245d8fa22b232b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -10527,6 +10635,64 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1412
+  },
+  "1df0df5dd5fa264b0c79876b31c09e6335d0d8936c7a688c79cbe7eeba19b14d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "That same PAC is producing a spot hitting Anthony Constantino, a Trumpist congressional candidate in upstate New York, because someone used his sticker-printing company to briefly make stickers that read, \u201c Kill the Police .\u201d Attack ads are everywhere in the last month ahead of November\u2019s election. But these spots are a little different. The semi-anonymous PAC that\u2019s funding and making the ads, the Invest in Tomorrow Coalition, is a pro-solar-energy outfit. It\u2019s funded in part by crypto billionaire Chris Larsen and run by a team of New York City political operatives. \u201cPlaying hardball politics, that's what our opponents do, right, in oil and gas? And I just think the solar industry has been\u2014I don't know how to describe it\u2014a little too nice,\u201d says Larsen, the cofounder of the blockchain finance firm Ripple and a major backer of the Invest in Tomorrow Coalition. Green groups don\u2019t usually act like this, with knives out, ready to stab opponents between the ribs. They tend to make appeals based on scientific consensus, or fears of what will happen to a warming planet without collective action. They\u2019re also traditionally Democratic, but a few high-profile members of the MAGA movement are now speaking up for solar too. Texas, the home of the fossil fuel business, has quickly become a solar powerhouse .",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 6894
+  },
+  "1dfb4a41f1b9c5e700bf797fc8fe92536b80f1093644421ce41173549f0cd39f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Two men to be charged over stolen bank cards on flight from Ho Chi Minh City to Singapore Sign up now: Get ST's newsletters delivered to your inbox The men were arrested during an operation by officers from the Airport Police Division at Changi Airport Terminal 4. ST PHOTO: NG SOR LUAN Marisa Yeo Published Oct 13, 2026, 09:57 PM Updated Oct 13, 2026, 10:23 PM Set as preferred source Listen SINGAPORE \u2013 Two men are set to be charged on Oct 14 after they allegedly stole bank cards from passengers\u2019 bags on a flight from Vietnam\u2019s Ho Chi Minh City to Singapore. In a statement on Oct 13, the police said the two Chinese nationals \u2013 aged 54 and 59 \u2013 were involved in two separate cases of theft on board an aircraft. Officers from the Airport Police Division conducted an operation at Changi Airport Terminal 4 at about 9.45am on Oct 12. During the operation, the officers arrested the two men after they were found with three bank cards that did not belong to them. Further investigations revealed that the men allegedly stole the bank cards from two passengers during a flight from Ho Chi Minh City to Singapore. Each man allegedly took the bank cards from a different passenger\u2019s bag in the overhead compartment and disembarked without the victims realising that their cards were missing. The two men are expected to be charged with theft on board an aircraft. If found guilty, they may be jailed...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 1049
   },
   "1e28cf276e394a883fea585af8eeac606f832394e1f9fa67c9541c57e470b689": {
     "access_status": "available",
@@ -14692,6 +14858,30 @@
     ],
     "word_count": 3229
   },
+  "2ac0cef1a43c51cf6fdadca17e6064fbaaa064560e41a506100dcd1f68976669": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Vietnam sends final trade agreement wording to US, deputy PM says Hanoi aims to wrap up deal as Washington flags imbalance, Chinese content and red tape Vietnamese Deputy Prime Minister Pham Gia Tuc speaks at the U.S.-Vietnam Business Summit in Hanoi on Oct. 14. He said Vietnam had submitted the \"final wording\" of a trade deal to the U.S., as the two sides move toward concluding months of negotiations. (American Chamber of Commerce) HANOI -- Vietnam has sent its \"final wording\" for a trade agreement to the U.S. with hopes the deal can be quickly signed, Deputy Prime Minister Pham Gia Tuc told a business summit on Wednesday. Read Next Latest on Trade Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 130
+  },
   "2ae0ac5bab9fb2df7624e7904b37dbefcfd6a57b97fb0752d50e68baabd0c13f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -17280,6 +17470,33 @@
       "fraud"
     ],
     "word_count": 195
+  },
+  "32326f88cd3ccfdb0d2f3f2b85393364a57e1f29e930e0f0898c73aa13263fbd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Web fetch Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Give your agent a web_fetch tool to read a URL. The Agents SDK handles the work around the HTTP request: converting documents into readable text, splitting long pages into smaller results, and controlling which URLs the model can fetch. Use the supplied adapters with Pi Durable , the AI SDK, or TanStack AI. For another harness, use the public fetch, pagination, and formatting functions in agents/webfetch . What the tool adds A research agent might need to read a webpage, a PDF report, and a JSON feed. Instead of returning each response body directly to the model, web_fetch handles each format and provides context about what it read. Task What web_fetch does Read webpages and documents Converts HTML, PDF, and supported Office documents into Markdown through Workers AI Markdown Conversion . Use Markdown when available Requests Markdown first. Sites that support Markdown for Agents can return it directly, without conversion. Read structured data Pretty-prints JSON and passes through Markdown and other text formats.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "trust"
+    ],
+    "word_count": 3587
   },
   "324718291c8499af77b7350b3827d87a3c01e013cfeb00f8b8a2938fd3d66a60": {
     "access_status": "available",
@@ -22709,6 +22926,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1669
   },
+  "417366c450e48364b89bffd5094de05cb1b06309d5699e1ffbc91dd7508df7eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US actress Selma Blair arrested after flight altercation Sign up now: Get ST's newsletters delivered to your inbox Actor Selma Blair attending Variety\u2019s 2026 Power of Women: Los Angeles event in Beverly Hills, California, on Sept 23. PHOTO: REUTERS Published Oct 13, 2026, 04:09 AM Updated Oct 13, 2026, 02:49 PM Set as preferred source Listen NEW YORK \u2013 US actress Selma Blair was arrested after an alleged altercation on a flight from Los Angeles to New York City that injured at least two cabin crew members, the authorities said on Oct 12. The Legally Blonde (2001) and Cruel Intentions (1999) star was detained at John F. Kennedy Airport after her Delta Air Lines flight landed late on Oct 11 following reports of a physically abusive passenger. US media said that Blair punched one flight attendant and bit another. The 54-year-old then reportedly assaulted a police officer and a nurse as she was taken to hospital. \u201cSelma experienced a medical emergency that led to the alleged conduct,\u201d a representative for Blair said. \u201cUpon landing, she received immediate medical attention and is currently in stable condition.\u201d The Federal Bureau of Investigation issued a summons accusing Blair of assaults on the plane, according to a federal judicial source. Blair was arraigned on two counts of second-degree assault on the night of Oct 12 and was released on bail. A new hearing in the case is...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1121
+  },
   "4192895fd0c4dca0c571a0a9eae57b81139bf6f7e97a038e649bb9b18b501474": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -26115,6 +26356,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1362
   },
+  "4a1b8f695181416b0055bed5099dc405cdce00b7d7c8b4b521ad425eeca28815": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Web UI Addons Last updated Oct 13, 2026 | Copy as Markdown | View as Markdown | Agent setup Subscribe to RSS 2026-10-12 RealtimeKit Web UI Addons 0.2.0 Feature Emoji reactions now display the participant's first name when available, making it easier to identify who reacted. Fix The reaction picker background now uses UI Kit design tokens to match the configured theme. 2025-11-25 RealtimeKit Web UI Addons 0.1.0 Features Initial release of the @cloudflare/realtimekit-ui-addons package, with examples for extending RealtimeKit Web UI Kit: Host controls: Camera Host Control , Mic Host Control , and Chat Host Control . Reactions: Hand Raise and Reactions . Participant customization: Participant Tile Menu , Participant Menu Item , Participants Tab Action , and Participants Tab Toggle . Meeting appearance and controls: Video Background and Custom Control Bar Button . Refer to UI Kit Addons for installation and usage. Was this helpful? Yes No Web UI Addons Subscribe to RSS 2026-10-12 RealtimeKit Web UI Addons 0.2.0 Feature Emoji reactions now display the participant's first name when available, making it easier to identify who reacted. Fix The reaction picker background now uses UI Kit design tokens to match the configured theme.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 301
+  },
   "4a242956d3ff3cdb7db93883aa9850fd7dd47ecce44f92996c872e014314f538": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28632,6 +28897,30 @@
       "trust"
     ],
     "word_count": 0
+  },
+  "5155f4a314e00d50d5ef1e4b44b3e7ea40a953619803ef8ddc442d6066375cc4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "t Starlight Precise 2.6 video-to-video \u00e2\u0080\u00a2 topaz Copy as Markdown | View as Markdown | Agent setup topaz/starlight-precise-2-6 Third-party Topaz Labs Starlight Precise 2.6 (slp-2.6) is a video enhancement model that upscales and restores low-quality source video to 1080p or 4K. The quality-focused variant of the Starlight family, prioritizing detail reconstruction over speed. Billed using provider-reported processing credits. Model Info More information link \u00e2\u0086\u0097 Pricing Per provider unit $0.12 Usage const response = await env. AI . run ( 'topaz/starlight-precise-2-6' , { frame_count: 45 , frame_rate: 29.97 , sharpness: 3 , source_container: 'mp4' , source_height: 360 , source_width: 640 , target_resolution: '1920x1080' , video_uri: 'https://replicate.delivery/pbxt/PetLEVcclEkT5H9A3tYETZyAMT5GE2Sa4m6sQqPDpj8vgHga/animatediff.B572L3lv.mp4' , }, ) console. log (response) curl https://api.cloudflare.com/client/v4/accounts/ $CLOUDFLARE_ACCOUNT_ID /ai/run \\ --header \"Authorization: Bearer $CLOUDFLARE_API_TOKEN \" \\ --header \"Content-Type: application/json\" \\ --data '{ \"model\": \"topaz/starlight-precise-2-6\", \"input\": { \"frame_count\": 45, \"frame_rate\": 29.97, \"sharpness\": 3, \"source_container\": \"mp4\", \"source_height\": 360, \"source_width\": 640, \"target_resolution\": \"1920x1080\", \"video_uri\"...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 697
   },
   "517af11139e6c954de9d77958cf8ffd74644c92a0874db4862cd9a0737b590c6": {
     "access_status": "available",
@@ -34531,6 +34820,55 @@
     "weak_generic_terms_found": [],
     "word_count": 5418
   },
+  "61e7bc88e3e04987bebf0583e36a3cb33b2949b40fe5317b6101bb717ef13b95": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Stay alert, stay safe: Why cyber awareness matters more than ever As digital services become an increasingly important part of everyday life, cybercrime is evolving rapidly, prompting cybersecurity experts and government agencies to urge citizens to remain vigilant against online fraud. From phishing messages and identity theft to AI-generated deepfakes and so-called \u201cdigital arrest\u201d scams, criminals are adopting increasingly sophisticated techniques to manipulate victims and steal sensitive information or money. Experts say technological safeguards alone cannot prevent every attack. Individual awareness and basic cyber hygiene remain among the most important lines of defence against digital fraud. Phishing, Digital Arrest Scams Among Growing Threats Phishing and social engineering continue to be common methods used by cybercriminals. Fraudsters often pose as representatives of banks, government departments or other trusted organisations through emails, text messages and phone calls in an attempt to persuade victims to disclose passwords, OTPs or financial information. A more recent tactic, known as the \u201cdigital arrest\u201d scam, involves criminals impersonating police officers, CBI officials or customs authorities. Victims may be contacted through video calls and falsely told that they are involved in a criminal investigation. The fraudsters then demand money to supposedly settle...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:50+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 684
+  },
   "6204e7da448889a3c825280b9ff3d1f86273910feb5a7535c9d173f01fb011ed": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -35520,6 +35858,52 @@
     "weak_generic_terms_found": [],
     "word_count": 147
   },
+  "64efd0383cbfb1237ae357a471434b68bcc1b479487bd1694adb03820d2338b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Google, GovTech developing first-of-its-kind AI model to flag scams in real time for Android users Sign up now: Get ST's newsletters delivered to your inbox The AI model aims to protect users from known scams without allowing any personal data to leave their devices. PHOTO: LIANHE ZAOBAO Sarah Koh Published Oct 14, 2026, 10:51 AM Updated Oct 15, 2026, 05:41 AM Set as preferred source Listen SINGAPORE \u2013 Google DeepMind and the Singapore Government are developing a first-of-its-kind on-device scam detection model that alerts Android users in real time to potential scam attempts. The artificial intelligence model promises to protect users from known scams without allowing any personal data to leave their devices. The collaboration with the Government Technology Agency of Singapore (GovTech) was announced on the sidelines of the Singapore International Cyber Week on Oct 14. Mark Chen, director of trust and safety at GovTech, said: \u201cFighting scams shouldn\u2019t mean sacrificing personal privacy. Working with Google DeepMind, we\u2019re bringing advanced AI protection directly onto citizens\u2019 devices. \u201cThis allows us to catch highly targeted, local scam attempts in real time while keeping personal communications private.\u201d Under the hood, the safety system is also trained to understand local context. The AI model analyses text exchanges on messaging apps such as WhatsApp and Telegram in real...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 2325
+  },
   "64f6adf7d02d7692a2b854c2032931ec0979aab2fc64dcc6633bde1c72c6dbd7": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -35964,6 +36348,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "65e753872a33d96d8101c86181b640fed6438819f68be212b21e38aafdef5609": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The company launched the first MacBook Neo , unveiled its first folding iPhone in September, and installed a new CEO for the first time in 15 years . Now comes the Apple HomeView, Apple\u2019s first smart display . Rivals like Google and Amazon have made countless screen-enabled smart speakers since voice assistants invaded the home a decade ago. But Apple stuck with a smaller smart home ecosystem centered on its HomePod speakers , even removing the iPad as a hub device a few years ago, which forced users to buy an Apple TV or HomePod to get started. Maybe that\u2019s why it hasn\u2019t found much success in the home. Announced Tuesday at an event in New York City, the 7-inch smart display arrives alongside several other new smart home devices as part of Apple\u2019s bid to revitalize its lagging ecosystem. The HomeView costs $299 and comes in two versions\u2014a speaker base and a wall-mounted display\u2014both priced the same. Preorders are live, with sales kicking off on November 13. Courtesy of Apple A Big Apple Watch The first thing I thought of after seeing the Apple HomeView in action is that it looks like a blown-up Apple Watch . The 7-inch square screen has multiple \u201cfaces\u201d you can swipe through, exactly like the smartwatch.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 5048
   },
   "665d817fa07cdd22f9434d632543b081d03dd80d6cb28a2ac0d862d7b7721f4c": {
     "access_status": "available",
@@ -37079,6 +37489,41 @@
     ],
     "word_count": 0
   },
+  "693ae549f41c02c5376f241333f732118d3516cfaba449ab4a4c93ff1c21fc24": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Anthropic to work with Singapore to evaluate AI models for safety and security Sign up now: Get ST's newsletters delivered to your inbox Anthropic\u2019s ASEAN general manager Dale Finlay (left) and co-founder Ben Mann speaking at Capella Singapore on Oct 14. ST PHOTO: JASON QUAH Sarah Koh Published Oct 14, 2026, 04:30 PM Updated Oct 14, 2026, 08:22 PM Set as preferred source Listen SINGAPORE \u2013 Anthropic has pledged to hold technical exchanges with the Singapore Government to evaluate its artificial intelligence models for safety and security. The San Francisco-based AI lab signed a memorandum of understanding (MOU) with the Ministry of Digital Development and Information (MDDI) to set out their areas of cooperation, which include capability building and responsible adoption. Announcing the MOU at its Singapore office opening event on Oct 14, Anthropic co-founder Ben Mann said: \u201cWhen we train a new model, nobody really knows what exactly the capabilities are. Working with AI safety institutes in Singapore, as well as those around the world, is important to understand what the risks and the benefits could be. \u201cSingapore has been a leader in responsible Al, with a long track record of investment in model testing and evaluation\u2026 With this MOU, we\u2019ll partner with Singapore to help ensure the transition to powerful Al goes well here, across the Asia-Pacific and around the world.\u201d...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:42+00:00",
+    "direct_relevance_terms_found": [
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "phishing site"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3058
+  },
   "695d97e77244cb087723a441f0e3ee084371575f347a0dc47179af76c661d5a4": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -37626,6 +38071,49 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1936
+  },
+  "6aadb27599825110ab666089232d7c1046fda7fa192b121f60501e6667266340": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Brooklyn District Attorney Eric Gonzalez speaks to interns in July. Image: @BrooklynDA / X Brooklyn DA\u2019s office disrupts crypto scam targeting Russian community Hundreds of web domains and servers were taken down by law enforcement agencies in New York City as part of an operation to stop a cryptocurrency fraud scheme targeting the Russian community in Brooklyn. Brooklyn District Attorney Eric Gonzalez said his office worked with the FBI to seize and disrupt 241 web domains and 112 servers after the tools were used to steal millions. The investigation began three years ago when a large number of Russian-speaking victims in Brooklyn told prosecutors they responded to Facebook ads in Russian offering investment opportunities. An investment adviser called them and walked them through the process of creating cryptocurrency accounts and transferring funds on investment platforms. When the victims tried to take their money out, they were locked out of their accounts and told they had to pay additional fees and taxes in order to get their funds. Gonzalez\u2019s office said victims likely lost millions but authorities were able to claw back about $300,000 worth of stolen funds. Several of the seized websites were made to look like legitimate investment platforms and referenced U.S. government agencies or wealthy people like Elon Musk. Investigators found that criminals used IP addresses...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1898
   },
   "6ad071f6dc539fa72667a45a918fc6bcafc544de76770510949b46189a680246": {
     "access_status": "available",
@@ -38790,6 +39278,30 @@
       "cybersecurity"
     ],
     "word_count": 4933
+  },
+  "6ddab343a79b8141e27f5c3913ba0a3579d8d0f57f3a720c7802096c07e6959f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Web search Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Give your agent a web_search tool to find pages on the Internet. The tool calls the Cloudflare Web Search API through AI Gateway , via the Workers AI binding. The web_search tool works with any harness. The Agents SDK provides built-in adapters for Pi Durable , the AI SDK, or TanStack AI. If you're using a different harness, or need to use the web_search tool without calling a model, use the search sources and renderer in agents/websearch \u00e2\u0086\u0097\u00ef\u00b8\u008e . When to use it Tool Use it to web_search Find pages on a topic when the agent does not have a URL, such as current events, recent releases, or documentation the model was not trained on. web_fetch Read a page or document at a known URL, including the URLs that web_search returns. Browser Use pages that need JavaScript, a login, or interaction. The web_search tool description tells the model to read result URLs with web_fetch when that tool is available. Why use the tool You could call the Web Search API from a tool of your own.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4802
   },
   "6dfa1855b7705b9e07358ca0ab12922e220825b0ea3e377dbba634520be0f184": {
     "access_status": "available",
@@ -40609,6 +41121,51 @@
       "trust"
     ],
     "word_count": 17368
+  },
+  "732ad3b61681952ced850d96876a5764927239344860ff2c638bc693c1cf4391": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "When AI becomes a tool for psychological manipulation: A new challenge for digital security. Artificial intelligence (AI) is changing the way criminals approach and manipulate victims. From impersonating relatives and authorities to staging \"online kidnappings,\" the technology makes fake information more convincing. The challenge for Vietnam is not only to prevent fraud but also to protect the ability to verify information and the right of citizens to make informed decisions during the digital transformation process as outlined in Resolution 57. B\u00e1o Tin T\u1ee9c \u2022 14/10/2026 Follow Vietnam.vn on G o o g l e Add Vietnam.vn on G o o g l e 0 When AI amplifies psychological traps Artificial intelligence (AI) is changing the way fraud is conducted, not only by automating criminal activities but also by enabling perpetrators to create sophisticated scams that can directly influence victims' psychology. According to a report published on March 16th by the International Criminal Police Organization (INTERPOL), AI systems capable of autonomously performing tasks (Agentic AI) can independently plan and execute entire fraud campaigns, from gathering information about targets to issuing ransom demands. Notably, INTERPOL states that AI-assisted fraud is 4.5 times more profitable than traditional methods. INTERPOL Secretary-General Valdecy Urquiza commented: \u201cWith the support of artificial...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4399
   },
   "735dc90a26978247112d3bd4cd428fb264c548bd0c2f926f87ac95cba85028ff": {
     "access_status": "available",
@@ -43348,6 +43905,32 @@
       "trust"
     ],
     "word_count": 10200
+  },
+  "7aeb048c8213808c01234815479e6798213c78291e486cd5ba8a517512cad170": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Tencent draws strong demand for US$4.5 billion debt sale, defying AI scrutiny Sign up now: Get ST's newsletters delivered to your inbox The sale comes as technology firms globally raise billions of dollars to finance AI investments. PHOTO: REUTERS Published Oct 13, 2026, 07:20 PM Updated Oct 13, 2026, 07:20 PM Set as preferred source Listen Summarise Tencent drew nearly four times its US$4.5 billion debt target, showing strong investor trust despite worries over AI spending and higher borrowing costs. The company will use the money for general corporate purposes as it keeps investing in AI infrastructure and products, with capital spending more than doubling in the first half of 2026. Demand was strong for both dollar and offshore yuan bonds, with orders far above supply, suggesting capital is still available for AI firms with strong cash flow and clear plans. AI generated HONG KONG \u2013 Tencent Holdings has received investor demand worth nearly four times the Chinese tech giant\u2019s plan to raise at least US$4.5 billion (S$5.7 billion) via US dollar and offshore yuan debt offerings even as AI spending jitters hit global markets . Tencent plans to use the proceeds for general corporate purposes, according to the deal term sheet, and the latest borrowing comes as the company increases investment in AI infrastructure and products. The sale comes as technology firms globally raise...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2355
   },
   "7b16ba5ff6d6bfbf47f8519af807706da7659d5dd4408e9b85be224687e51aeb": {
     "access_status": "available",
@@ -47291,6 +47874,32 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "83958bc061dac3564df5aa8fd9827a5fbfedb3bb5ad5df6204dcfcef3422c622": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "They can book trips and manage work projects. But when AI agents go rogue, who\u2019s to blame? The law can deal with many of their mistakes. Harder questions arise when delegation becomes loss of control. This article is one of a three-part series examining the risks and reality of autonomous AI agents. Sign up now: Get ST's newsletters delivered to your inbox Meta\u2019s Muse and OpenAI\u2019s Dots are part of what is becoming an industry-wide competition to make AI agents seem less threatening and more lovable. PHOTO: REUTERS Simon Chesterman Published Oct 14, 2026, 05:00 AM Updated Oct 14, 2026, 04:58 PM Set as preferred source Unlock audio Three apparently contradictory stories about artificial intelligence have been unfolding at the same time. The first is alarming. In July, OpenAI disclosed that, during cybersecurity evaluations, highly capable AI systems had evaded technical controls, collaborated through unauthorised channels and compromised systems they were not supposed to reach, including those of Hugging Face. OpenAI\u2019s August post-mortem called the incident a \u201cwarning shot\u201d.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 588
+  },
   "83e60c9d369dc5523db7d4bd320d13332993402ce420a22d67a5e9227813b4db": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -49240,6 +49849,43 @@
     ],
     "word_count": 13245
   },
+  "89272815f4582b89fe25cf30df20f2e9095d51a1a12ce721b06b86b2a37d52b5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "IMAGE: SALVATORE DE LELLIS VIA PEXELS Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals Microsoft on Wednesday announced legal action disrupting three powerful phishing platforms used by Chinese cybercriminals to send hundreds of millions of malicious messages impersonating over 75,000 organizations worldwide. The tech giant worked with Japan\u2019s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying YAM Store, CoGUI and Iron Man. Since January, the three platforms collectively enabled more than 750 million messages targeting Microsoft customers alone. These messages have been used to target consumers, healthcare organizations, financial institutions and other businesses in more than 150 countries, generating tens of millions of dollars for their operators. The goal of most of the tools is to steal credentials, personal information, banking data and other login information. Iron Man is a phishing-kit-as-a-service operation that offers cybercriminals more than 2,300 pre-built lure pages impersonating trusted services like postal companies, traffic fine offices, tax agencies, banks, telecoms and more. Iron Man\u2019s customers purchase a subscription that offers thousands of templates tailored for Australia, Japan, India and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "deepfake_or_synthetic_identity_scam",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2955
+  },
   "894cef471598b38a4c369e80960e4563b1b3aec5042abb6cf133b733ec040120": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -49297,6 +49943,32 @@
       "cybersecurity"
     ],
     "word_count": 110
+  },
+  "8972e83168590d10ce4fd347abbd0bac23795133a64068170587ffc1b2e19dc7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "8983f594551d1f856c8266a00cf4115acf4ac2c484800e43e8a07ebfbd32ab78": {
     "access_status": "available",
@@ -58774,6 +59446,30 @@
       "trust"
     ],
     "word_count": 4907
+  },
+  "a50d143b9d212d24239fe54cbd296f4b08b0cdeb442035d288eb0386ad6e177f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street firms tie bonuses, promotions to AI skills, survey finds Sign up now: Get ST's newsletters delivered to your inbox Traders work on the floor of the New York Stock Exchange (NYSE) at the opening bell, in New York City on Sept 28. PHOTO: AFP Published Oct 14, 2026, 06:33 PM Updated Oct 14, 2026, 09:53 PM Set as preferred source Listen Summarise Nearly a quarter of Wall Street firms now link pay, bonuses or promotions to AI skills, the Selby Jennings survey found. Another 30% make staff report AI use in performance reviews, showing firms want clear proof of AI's value. The survey of 500 finance executives also found 42% use formal AI skill checks, and 30% have teams tracking AI returns. AI generated NEW YORK \u2013 AI skills are starting to count towards pay and promotion on Wall Street, with nearly a quarter of financial firms tying raises, bonuses or promotions to employees\u2019 proficiency with the technology, a survey showed. Another 30% require employees to disclose their use of artificial intelligence tools in formal performance reviews, according to the survey by Selby Jennings, a financial-services recruitment firm. The findings point to a broader shift on Wall Street as firms seek tangible returns from their investment in the technology. \u201cCompanies are no longer just seeing if their employees are using AI tools but are also monitoring its impact on output and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1001
   },
   "a51ec3cd7d0ad77dd0ead4a9f9788849e6d4d8df336a855cd5c5611ec3b6ab5b": {
     "access_status": "available",
@@ -74605,6 +75301,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1416
   },
+  "cfd83d6b37d5359fca2b9cca2f9fcee5ebdd90c7f244686eb76cededa389c075": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions Sign up now: Get ST's newsletters delivered to your inbox Published Oct 14, 2026, 03:50 PM Updated Oct 14, 2026, 10:06 PM Set as preferred source Listen MOSCOW, Oct 14 - Ukrainian drones hit Russia's biggest data centre on Wednesday, part of a series of attacks appearing to target Moscow's ambitions to develop Russian artificial intelligence capabilities on a par with those from the US and China. The strike on the Balakovo data centre, owned by Sberbank, the country's largest bank and technology company, followed three attacks in the past week on data centres owned by Russian technology group Yandex. \"We confirm that the data processing centre was attacked. At the same time, all of Sberbank's systems and services are operating normally and without disruption,\" Sberbank First Deputy CEO Alexander Vedyakhin told reporters. President Vladimir Putin held a previously unannounced meeting on Wednesday with top officials on \"information security\", in which Sberbank CEO German Gref took part. The Kremlin said that the meeting was not linked to the attacks on data centres. Russia's state RIA Novosti news agency reported in 2024 that the Sberbank centre hit on Wednesday would host Russia's biggest supercomputer, which is scheduled to go into operation in 2027. The Yandex data centres, hit earlier, hosted all three...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2293
+  },
   "cfde5724e5d0cbafda2614b962a2c940a705df5faa2a862b374914857ccccb46": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -81199,6 +81919,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2639
+  },
+  "e1a72ffb288925a425bf9f076e1396be08cf983d8e9eaecaa47957dfaf6ddf2a": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Verified bots Last updated Oct 8, 2026 | Copy as Markdown | View as Markdown | Agent setup A Verified bot is a bot or agent that Cloudflare has confirmed is transparent about who it is and what it does : it represents itself honestly and does not abuse the access that honesty earns. Examples include search engine crawlers, monitoring services, and user-driven agents. Being Verified means a bot or agent meets two bars: Honest self-identification \u00e2\u0080\u0094 it declares who it is deterministically, through a cryptographic Web Bot Auth signature, a published IP list with a stable user-agent, or reverse DNS. Non-abusive behavior \u00e2\u0080\u0094 it obeys robots.txt and crawl directives, maintains reasonable request rates, and has not been observed evading website owner preferences or attacking sites. Classification Cloudflare classifies each tracked bot by its behavior \u00e2\u0080\u0094 what the bot may do on your site. A single bot can have one or more of the following behaviors: Behavior Description Search Crawling to build search indexes or RAG databases. Agent User-directed agents visiting a page on behalf of a human. Training Crawling to train or fine-tune models. Transact Checkout or other transaction actions on behalf of users. Data Collection Price scraping, competitive intelligence gathering, and third-party analytics.",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2902
   },
   "e1abb24d0fecad9ce74ff4c660100f5c4ad958eda212fd84093d47bcbe520f23": {
     "access_status": "available",
@@ -90621,6 +91369,50 @@
       "trust"
     ],
     "word_count": 2268
+  },
+  "fdd8d14c7be84619740c8d57d8135f5371e56fecd90b76a8ad35ac435f10b8e9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Image: Kindel Media via Pexels North Macedonian police arrest alleged administrator behind OLVX cybercrime market The administrator behind a cybercriminal marketplace called OLVX was arrested this week in North Macedonia in a joint operation between the Balkan country\u2019s Ministry of Interior and the FBI. The suspect was not named, but the FBI and North Macedonia said a raid on the man\u2019s home in the village of Golema Re\u010dica was conducted after charges were filed. Since 2023, OLVX has become a popular market where cybercriminals share stolen personal data, login credentials and other tools to help with cybercrime. \u201cActive between 2023 and 2025, OLVX is alleged to have unlawfully sold victims\u2019 personally identifiable information and login credentials via over 1,500 seller accounts,\u201d the FBI said in a statement. \u201cThe existence of this marketplace directly endangered the digital security of thousands of American citizens who rely on the integrity of accounts they use.\u201d North Macedonian police said the suspect also ran another group called ONEMILI on Telegram that offered tools for fraudulent refund schemes and other scams. \u201cAdditionally, evidence was obtained indicating that the suspect had acquired and possessed child sexual abuse material (CSAM) for personal use through the Telegram application,\u201d North Macedonia\u2019s Interior Ministry said . Cybersecurity firm ZeroFox published a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-15T04:30:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [
+      "phishing kits"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1661
   },
   "fe0b6b01f28e8c4f5e11ddebfa9000ca3f6191360eeae8981eb69b0596ef3c34": {
     "access_status": "available",
