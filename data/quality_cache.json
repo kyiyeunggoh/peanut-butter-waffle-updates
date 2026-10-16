@@ -4203,7 +4203,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. Hany Farid, professor in Computer Science at Dartmouth College, Sophie Nightingale, a senior lecturer in psychology at Lancaster University, and Lancaster\u2019s Sarah Morgan, who acts as the project coordinator on Nightingale\u2019s \u201cProtecting Ordinary People from Deepfake Harms\u201d fellowship published their paper, \u201cThe Backbone of Abuse: How Infrastructure Providers Enable the Proliferation of...",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:28+00:00",
+    "checked_at": "2026-10-16T04:25:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -4849,7 +4849,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Posterior Regimes and Latent Deception: Variational Bayesian Inference in Hidden Markov Models for Sequential Fraud Detection in Financial Transactions Joseph Uririoghene Obukofe Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Anthony O\u2019Hare Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Chioma Sandra Dike Affiliation: University of Nottingham, Nottingham, NG7 2RD, United Kingdom ouj00003@students.stir.ac.uk, anthony.ohare@stir.ac.uk, msxcd20@nottingham.ac.uk Abstract We present a three-tier progression of Hidden Markov Models: maximum-likelihood (Baum-Welch), variational Bayesian (VBEM), and a neural variational extension (Neural VBEM), that model each customer\u2019s transaction history as a trajectory through a small number of latent behavioural regimes, one of which is empirically identified as fraud-associated. The Neural VBEM HMM replaces the fixed Gaussian-multinomial emission family with a learned encoder, compressing a 741-dimensional transaction representation into a 64-dimensional latent space in which the VBEM HMM\u2019s posterior operates; a UMAP projection of this space reveals that the discovered regimes are not discrete clusters but...",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:33+00:00",
+    "checked_at": "2026-10-16T04:25:32+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -10013,7 +10013,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:36+00:00",
+    "checked_at": "2026-10-16T04:25:35+00:00",
     "direct_relevance_terms_found": [
       "financial fraud"
     ],
@@ -21228,6 +21228,30 @@
     ],
     "word_count": 2705
   },
+  "3c57724d775a45fa4d10011483e7f66594394393538d6f9f76486de1dbf4ef75": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release ThreatBook Launches AI-Powered Pentest Aggregator, RedAgents Published Oct 16, 2026, 11:17 AM ThreatBook Launches AI-Powered Pentest Aggregator, RedAgents The issuer is solely responsible for the content of this announcement. Press release ThreatBook Launches AI-Powered Pentest Aggregator, RedAgents Published Oct 16, 2026, 11:17 AM ThreatBook Launches AI-Powered Pentest Aggregator, RedAgents The issuer is solely responsible for the content of this announcement. Press release ThreatBook Launches AI-Powered Pentest Aggregator, RedAgents Published Oct 16, 2026, 11:17 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 117
+  },
   "3c5bf023ed19893c659934833067c1e9c30236cd99339f502a729e249b2ca642": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -25433,6 +25457,32 @@
     ],
     "word_count": 1418
   },
+  "47ba55e69e758dbc89cc775384529b9e0db6917d1ab90eef8776ae532bb8b71d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Mixed feelings\u2019: AI cracks centuries-old ciphers Sign up now: Get insights on Asia's fast-moving developments AI is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d. PHOTO: REUTERS Published Oct 16, 2026, 11:45 AM Updated Oct 16, 2026, 11:45 AM Set as preferred source Summarise AI is changing historical research by cracking old ciphers fast. Carter Church used OpenAI\u2019s GPT-6 Astra to solve a 1809 Napoleon-era code in six hours. Amateur and professional code-breakers say AI is a \u201cturning point\u201d, but some feel \u201cmixed feelings\u201d as long-unsolved puzzles are now solved too easily. AI is also helping read fragile or huge archives, including Herculaneum scrolls, 10 million Hebrew pages, and 14,600 Latin pages from Notre Dame, opening new research paths. AI generated TOKYO \u2013 Napoleon Bonaparte ordered the wartime missive written in code, creating a puzzle that went unsolved for more than 200 years \u2013 until AI cracked it in a matter of hours. Artificial intelligence is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d in a field previously the preserve of scholars and dedicated hobbyists. One new sleuth is Carter Church, a 27-year-old AI engineer who decrypted a 19th-century letter to one of Napoleon\u2019s generals. Without digital tools, the task could have taken weeks, but the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2700
+  },
   "47ce5dfb842ca93249169bcea0b993771a7c5aec54129ca6877d1ef7b0d5d11a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -27317,6 +27367,35 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2803
+  },
+  "4c57b3e524d29d9475da97521025dc5fc12169190297595ed7218571aea983d4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Dubbing the attacks \u201cAdFection,\u201d the researchers documented a campaign in which an Israeli-registered advertising firm allegedly connected to the servers linked to a spyware company and infected dozens of devices with its invasive malware. Citizen Lab believes this to be the first detailed technical evidence made publicly available of sophisticated spyware infecting devices via digital ads. Zero-click hacks are a holy grail for attackers and catastrophic for victims, because they can automatically install malware on devices without requiring any interaction or missteps from the target. When sophisticated hackers have deployed rare zero-click attacks in recent years, they have often exploited vulnerabilities in mobile messaging and communication apps to infect victims. But attackers have also exploited the sprawling infrastructure of the online ad ecosystem to distribute malware, sometimes with little or no interaction needed from victims. Evidence of the zero-click spyware campaign that Citizen Lab\u2019s researchers uncovered shows the two threats merging, underscoring the extent and urgency of the risk. \u201cAdFection allows operators to automatically hack specific individuals with mercenary spyware as they use apps or browse the internet,\u201d says Bill Marczak, a senior researcher at Citizen Lab. \u201cSomeone who gets hacked like this would not see anything amiss. In fact, they might not...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "malware",
+      "trust"
+    ],
+    "word_count": 3790
   },
   "4c6383ab8b55c92d365471fa1d5458a308724aeb656f7fbe55e0469519ed5e8b": {
     "access_status": "available",
@@ -41740,7 +41819,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in detection and reviews major CNN...",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:30+00:00",
+    "checked_at": "2026-10-16T04:25:29+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -41852,6 +41931,32 @@
       "trust"
     ],
     "word_count": 27513
+  },
+  "75c4a2b06636034c2b5dd61bca7834005f5a9b5a0b7e46203ab92ad7d3b647de": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Three children, one teacher killed in Oregon elementary school shooting Sign up now: Get ST's newsletters delivered to your inbox A shooting has left \u201cmultiple victims\u201d at an elementary school in the north-western US state of Oregon, police said on Oct 15. PHOTO: REUTERS Published Oct 16, 2026, 06:13 AM Updated Oct 16, 2026, 10:00 AM Set as preferred source Listen Summarise Three children and one teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon. A 16-year-old suspect was shot dead by an armed bystander. Police said the attacker forced entry by shooting at locked doors. Another child and a teacher were critically injured, and officers gave emergency aid at the scene. Families waited anxiously as students were moved to safety. Leaders called it an \u201cunthinkable tragedy\u201d and renewed demands for stronger gun control. AI generated LOS ANGELES \u2013 Three children and one teacher were shot dead at an elementary school on Oct 15 in the north-western US state of Oregon, police said, adding that the assailant was a 16-year-old who was killed by an armed bystander. Another child and a teacher were being treated for critical injuries after the shooting at Silver Rail Elementary school in Bend, a city of about 100,000 people. Mike Krantz, police chief of Bend, told journalists that the department first learnt of an active shooter after a call from a person who...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2701
   },
   "75e8ece4130224535bc33cf4bfe5269e6a324d9bce04aca19a8d723548e385e5": {
     "access_status": "available",
@@ -47438,6 +47543,30 @@
     ],
     "word_count": 0
   },
+  "826d0ac64961c2c20a93f9833fa1ba9643e212c7c83876718f39f15fe5e0022a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Robots first, soldiers follow: A glimpse of South Korean battlefield tactics in 2040 Sign up now: Get insights on Asia's fast-moving developments Uncrewed systems, including a drone, a multipurpose uncrewed vehicle and quadruped robots, advancing through a smoke screen during an integrated uncrewed combat demonstration in Yangpyeong, Gyeonggi province, on Oct 14. PHOTO: REPUBLIC OF KOREA ARMY Published Oct 15, 2026, 09:35 PM Updated Oct 15, 2026, 10:52 PM Set as preferred source Listen YANGPYEONG, Gyeonggi province \u2013 South Korea\u2019s army envisions a battlefield where drones and robots find threats, breach dangerous areas and absorb risks before soldiers move in. That vision \u2013 part of a broader push to transform a manpower-heavy force into an AI-enabled manned-unmanned force by 2040 \u2013 was on display on Oct 14 at a training ground in Yangpyeong, Gyeonggi province. The army staged an integrated future warfare exercise under its Army TIGER+ initiative, combining artificial intelligence, robots and uncrewed systems with existing combat assets. Army TIGER+ is an expanded modernisation effort aimed at transforming the service into a manned-unmanned force as advances in AI and robotics reshape warfare and South Korea faces a shrinking pool of military personnel. The Oct 14 exercise was divided into three phases: drone and counter-drone warfare, integrated uncrewed combat, and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2049
+  },
   "828a2c9a8198286286a0949377b61bce160647cfd2be7fd4f18fa4e2a16146cb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -49886,6 +50015,32 @@
     ],
     "word_count": 2955
   },
+  "892b5dba556adc3d81b7c22558c9df28f704f918581ed05d2398d51ff1c7b3c0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "ST Explains Tech stocks tumble: What investors should watch for as doubts grow over AI spending Sign up now: Get ST's newsletters delivered to your inbox Investors should look beyond companies\u2019 spending announcements to how they actually make money from AI, analysts said. PHOTO: AFP Sue-Ann Tan Published Oct 15, 2026, 09:15 PM Updated Oct 15, 2026, 10:59 PM Set as preferred source Listen SINGAPORE \u2013 US technology stocks, long the darlings of global markets, remained under pressure heading into Oct 15, after a six-day slide wiped US$1.6 trillion (S$2 trillion) off semiconductor stocks. Nvidia was down 3.2% on Oct 14, while Microsoft dipped nearly 2%. Broadcom dropped 3.1%, and AMD fell 5.7%. Oracle lost 8.8%, while AI-infrastructure firms CoreWeave and Nebius tumbled 15% and 10% respectively. The S&P 500 sank 1.11%, the worst drop since July, while the Nasdaq slid 1.9%. Asia markets also felt the heat from worsening tech sentiments in the US. South Korea\u2019s KOSPI index plunged more than 7%, while Japan\u2019s Nikkei stock index fell 5%. The Straits Times Index slid by a smaller margin, slipping 0.37% to close at 5,403.5 on Oct 15, although some of Singapore\u2019s tech and semiconductor names, which are not components of the index, took a hit. AEM Holdings dropped 9.9% to close at $8.80 on Oct 15, while Frencken was down 6.4% to $2.20.",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3941
+  },
   "894cef471598b38a4c369e80960e4563b1b3aec5042abb6cf133b733ec040120": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -50393,6 +50548,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2687
+  },
+  "8b4c586ddb02a8daa5f91bb957e877d1796deb199c0eaffe9bbef6cea428474e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 14, 2026 WAF Release - 2026-10-14 - Emergency WAF Copy as Markdown | View as Markdown | Agent setup This emergency release adds a new managed rule to block active exploitation of a critical remote code execution (RCE) vulnerability found in popular web frameworks. Key Findings Key Findings Generic Rules - Remote Code Execution: Attackers can execute arbitrary system commands with web server privileges by sending malicious input containing invalid path sequences during request processing. Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Managed Ruleset ...fd1bf420 N/A Generic Rules - Remote Code Execution N/A Block This is a new detection. October 14, 2026 WAF Release - 2026-10-14 - Emergency WAF Copy as Markdown | View as Markdown | Agent setup This emergency release adds a new managed rule to block active exploitation of a critical remote code execution (RCE) vulnerability found in popular web frameworks. Key Findings Key Findings Generic Rules - Remote Code Execution: Attackers can execute arbitrary system commands with web server privileges by sending malicious input containing invalid path sequences during request processing. Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Managed Ruleset ...fd1bf420 N/A Generic Rules - Remote Code...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 247
   },
   "8b4db099b93d700d9eec72871ec197736c0e6f12c69cc6bcba5bf0916121bc5f": {
     "access_status": "available",
@@ -51708,6 +51889,39 @@
       "trust"
     ],
     "word_count": 24492
+  },
+  "8fa6ff717d8f40248a84319661b9077f5f94f5d3fb7833f52d2de7cd015533f7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A previously unreported cache of law enforcement and intelligence agency documents show that law enforcement agencies have, since 2021, considered AI both a tool and a target of would-be terrorists. Composite: The Guardian/Getty Images View image in fullscreen A previously unreported cache of law enforcement and intelligence agency documents show that law enforcement agencies have, since 2021, considered AI both a tool and a target of would-be terrorists. Composite: The Guardian/Getty Images Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism From the FBI to local police departments, US authorities are increasingly warning of would-be terrorists using chatbots to plan attacks and anti-AI extremist threats In May 2025, a 25-year-old man detonated a car bomb outside a Palm Springs fertility clinic, killing himself and injuring four others. For many, it was a wake-up call about the threats to reproductive care facilities. For the FBI, though, it was also a sign of what the agency had feared for years: bad actors were using generative AI to plan and execute terror plots. The suspect used an unnamed generative AI tool that failed to detect his request for bomb-making instructions, law enforcement officers wrote in a previously unreported document reviewed by the Guardian. The privacy of his conversation with the AI chatbot hindered alerting...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 9744
   },
   "8fe0d929796b090342a1600c5353f202716771e93d1838c4937100c81bbefc4c": {
     "access_status": "available",
@@ -55421,6 +55635,32 @@
       "trust"
     ],
     "word_count": 1542
+  },
+  "9973bb61d8d9d6b905615a20b56ab9303a519edf67815cb3cda08b70777f34af": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Securing data in use Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Data in use refers to data that is being actively interacted with, processed, or manipulated by applications, systems, or users. For organizations, protecting data in use can be a challenge as it must remain accessible and usable by applications and users who need it to fulfill their duties, yet still protected against unauthorized access or tampering. Today, a vast majority of a user\u00e2\u0080\u0099s interactions with operationally-critical data takes place inside a modern Internet browser, which today enables entire client applications, such as email clients, word processors, and spreadsheets, to be served to an end-user. This also means no software needs to be installed on the device, and also makes user interactions, such as copy and paste, and downloading sensitive data, relatively easy. Such interactions can pose a persistent risk to organizations whose employees and contractors are working with critical and/or sensitive data every day. One method to secure data in use is to leverage greater control over the browsers themselves, and how employees use them to access applications and data. Cloudflare has approached this by building a headless browser solution on top of our massive global edge network, called Remote Browser Isolation (RBI). When a user attempts to access, for...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2051
   },
   "997fada44976a5b525a38c85fdb4d5109c4dac9256f49a8a14f5637e61aabb0c": {
     "access_status": "available",
@@ -60220,6 +60460,50 @@
     ],
     "word_count": 0
   },
+  "a7019125ed118ddbdb6bca50528ee37feea6833ca30fffb96b59ba3ce81063e6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Australia's Assistant Minister for Foreign Affairs and Trade Matt Thistlethwaite said AI has enabled cyberattacks that once required weeks of coding to be carried out in seconds or minutes. (Photo: iStock) New: You can now listen to articles. This audio is generated by an AI tool. Marcel Pereira Marcel Pereira 15 Oct 2026 03:00PM Bookmark Bookmark Share WhatsApp Telegram Facebook Twitter Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST SINGAPORE: Artificial intelligence is allowing cybercriminals to launch attacks faster and on a larger scale, making cooperation to combat cybercrime and protect critical infrastructure increasingly important, said Australia's Assistant Minister for Foreign Affairs and Trade Matt Thistlethwaite. Mr Thistlethwaite, who attended Singapore International Cyber Week, told CNA on Wednesday (Oct 14) that he believed governments were keeping pace with the growing threats. \"We know what the challenge is, and we know what the threats are.",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:28+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound",
+      "myanmar scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3431
+  },
   "a7022731d8cce50134ca34ea5904a94259d017d16f04ad18c03e6aea65727142": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62854,6 +63138,36 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ad3108b3cf90ccc37b5d3ae4693268502025ab85ed4c56d67227ce24fff78ca7": {
+    "access_status": "paywalled_or_login",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This is today\u2019s edition of The Download , our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. Once they had been rewarmed, tested in machines, and transplanted into pigs, the kidneys regained their color and made urine\u2014key signs they were working. This story is only available to subscribers. Don\u2019t settle for half the story. Get paywall-free access to technology news for the here and now. Subscribe now Already a subscriber? Sign in You\u2019ve read all your free stories. MIT Technology Review provides an intelligent and independent filter for the flood of information about technology. Subscribe now Already a subscriber?",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:34+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2205
   },
   "ad365e9e83986f85162a2ba41a450e287ee73ae9e3ee70f8c30c1bf99539cb84": {
     "access_status": "available",
@@ -69781,6 +70095,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "bfe58b74272ab64f84626fd1891ef2970bc81a866e6db21a65042e2601cd449e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump press secretary Katie Zacharia defends \u2018lawyer\u2019 title, downplays bar exam results Sign up now: Get ST's newsletters delivered to your inbox The Wall Street Journal reported on Oct 14 that Zacharia had failed the bar exam in her home state of California before moving to China. PHOTO: BLOOMBERG Published Oct 16, 2026, 09:36 AM Updated Oct 16, 2026, 12:07 PM Set as preferred source Listen Summarise Katie Zacharia acknowledged she did not pass the California bar exam, calling the result \u201cinconsequential\u201d because she did not need it in China. She said legal experts told her she could call herself a lawyer because she has a JD and international transaction law experience, but not \u201can attorney at law.\u201d Her legal title has drawn scrutiny after Trump called her \u201can attorney\u201d; the White House defended her and said she is \u201cuniquely qualified,\u201d while the ABA says bar admission is needed to practise law. AI generated WASHINGTON \u2013 White House press secretary Katie Zacharia appeared to acknowledge on Oct 15 that she did not pass the California bar exam, calling the results \u201cinconsequential\u201d as she sought to tamp down mounting questions over her legal credentials. Zacharia said that when she sat for the exam, she was preparing to marry her now husband and move with him to China, where he worked for a private equity company. She called herself \u201cobviously incredibly distracted and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2045
+  },
   "bfeb4d5cf38d907fb8e25869c57b26cd4a9527acb7b5f2838466c0877fb0975d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -71227,6 +71565,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1399
+  },
+  "c47b64b47a8b5d80840c0b9b8b539d1c3aee7817bd7ac010c95f05260c5a689f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Taiwan chip giant TSMC says net profit hit record in third quarter Sign up now: Get ST's newsletters delivered to your inbox TSMC\u2019s share price has ballooned nearly 60% in 2026. PHOTO: REUTERS Published Oct 15, 2026, 02:40 PM Updated Oct 15, 2026, 04:21 PM Set as preferred source Listen Summarise TSMC said third-quarter net profit rose 68.7% to a record NT$763.1 billion, driven by strong global demand for AI hardware and leading-edge chips. Revenue climbed 50.9% to NT$1.5 trillion, and the result was TSMC\u2019s sixth straight record quarterly profit, beating analyst estimates. Investors now watch whether AI spending stays strong, while TSMC\u2019s US expansion, including Arizona plants, could affect future earnings. AI generated TAIPEI \u2013 Taiwanese chip giant TSMC said on Oct 15 that net profit soared 68.7% to a record high in the third quarter, buoyed by massive global demand for artificial intelligence hardware. The result marked the sixth straight record quarterly net profit for the company, the world\u2019s biggest contract maker of microchips, including those used in Nvidia AI data centre processors. But with the AI boom only growing, analysts warn that chipmakers and other tech firms reporting bumper financial results risk being \u201cjudged against perfection\u201d by investors. Meanwhile, the company\u2019s planned expansion into the United States, including building chip plants in Arizona , is...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2234
   },
   "c48f9e8e5b21d9f4c4c5436f8039b72aee6c003fc43bcf84af94d6645dde0d3e": {
     "access_status": "available",
@@ -76605,6 +76967,30 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "d384d3119411619cd90c01d90cb3735e6760419b763b01cdc258573f15d4dc04": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The next year, it paid the same amount. In 2022, that cost went up to $81,250. Fifteen new \u201cFalcon\u201d cameras, which Flock says have more sophisticated technology for reading license plates, accounted for $37,500. Another $3,750 went toward installing the new cameras, and the rest was spent maintaining the initial fleet. Then, in 2024, the department paid Flock $113,225. Of that, $87,500 was to maintain its existing 35 cameras, a rate it agreed to pay for the next five years, and the remainder went toward eight new Falcon cameras. The next year, Covington paid Flock $159,000 for a combination of camera maintenance and enrollment in its Drone as First Responder program, which uses drones to fly to emergency scenes and stream footage back to the police station. It\u2019s unclear how much Covington will wind up paying Flock in 2026, but through August, it has paid $201,000\u2014$100,000 to maintain its existing cameras, $800 to replace one, and another $100,200 for new software products. The Covington Police Department did not respond to a request for comment. Overall, Flock is a small fraction of the Covington police department\u2019s $12,488,733 budget for June 2025 to July 2026.",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 6175
+  },
   "d3a4ea1748ef025cac09662122238dfbc67556568ece15a18e56caca7230a943": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77838,6 +78224,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2213
+  },
+  "d69148f546408907dd8c7bb9675f81bb109c836e27d4601b3daf7b0ca9a8948a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Bot Management Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Bot Management for Enterprise is a paid add-on that provides sophisticated bot protection for your domain. Customers can identify automated traffic, take appropriate action, and view detailed analytics within the dashboard. This Enterprise product provides the most flexibility to customers by: Generating a bot score of 1-99 for every request. Scores below 30 are commonly associated with bot traffic. This lets you write targeted rules instead of applying blanket actions to all detected bots. Allowing customers to take action on this score with WAF custom rules or Workers . For example, you can challenge low-scoring requests on your login page while allowing them on your public blog. Allowing customers to view this score in Bot Analytics or Logs, so you can analyze bot traffic patterns and tune your rules over time. Enable Bot Management for Enterprise Bot Management is automatically enabled for Enterprise zones entitled with the add-on. In the Cloudflare dashboard, go to the Security Settings page.",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1481
   },
   "d6a22bc346689b65e6ce17fa636e1c5cdaa6ae86711034738a92a4de29833418": {
     "access_status": "available",
@@ -83452,6 +83862,30 @@
     ],
     "word_count": 3442
   },
+  "e676a086e254f07c33b88429d0aa5db811388362a2f78025720e249bbc1ce2b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Ubisoft slashes 70 jobs in Singapore; experts point to financial woes, not AI Sign up now: Get ST's newsletters delivered to your inbox Ubisoft Singapore laid off 70 employees on Oct 14 \u2013 equivalent to around 20 per cent of its total local workforce. ST PHOTO: GIN TAY Sarah Koh Published Oct 15, 2026, 05:37 PM Updated Oct 15, 2026, 08:38 PM Set as preferred source Listen SINGAPORE \u2013 French game developer Ubisoft has laid off 70 employees in its Singapore studio. The layoffs on Oct 14 were part of \u201corganisational changes to align the studio with upcoming production needs\u201d, said a Ubisoft spokesperson in response to queries from The Straits Times. Ubisoft had announced an organisational reset in January that saw it focus on formats with recurring revenue from existing popular games such as Rainbow Six Siege. This followed a \u20ac1.16 billion (S$1.67 billion) investment by Chinese tech giant Tencent in 2025 in a new Ubisoft subsidiary to house flagship franchises Assassin\u2019s Creed, Far Cry and Tom Clancy\u2019s Rainbow Six Siege. \u201cThe studio remains an important part of Ubisoft\u2019s global production organisation,\u201d said the Ubisoft spokesperson, referring to the Singapore outfit. In 2023, the publisher of popular titles including Just Dance, Far Cry and Watch Dogs marked its 15th anniversary in Singapore with the opening of a new, three-storey 5,000 square metre studio in one-north\u2019s business...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3325
+  },
   "e6a454b18116016836087af148a7f52efd0ceb1611ac61a4e36a94439ab83e98": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -88212,6 +88646,36 @@
     ],
     "word_count": 10373
   },
+  "f5400d23f06cdefac6f45d279bed4f89e0a8d6dd34d704e7bc3451ea02caa866": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A WIRED review of deleted social media and professional networking profiles has helped clear up at least one mystery. Zacharia\u2019s online r\u00e9sum\u00e9 shows a gap extending from 2013 to late 2023. For part of that time, she worked as an affiliate of Beachbody, a fitness company that ran a multilevel marketing operation she describes to WIRED as \u201csort of a pyramid scheme.\u201d Zacharia\u2019s background prior to her emergence as a right-wing operative and pundit in recent years has been the subject of intense curiosity. Prior to joining the White House\u2019s press team, she was a spokesperson for the Department of Homeland Security , a communications adviser at President Donald Trump\u2019s media company, and a commentator on Newsmax and Fox News. Other parts of her professional background have come under scrutiny, particularly her legal work. According to her LinkedIn, Zacharia was an associate at the Zhong Lun law firm, known in China as a top-tier \u201cred circle\u201d firm, between 2011 and 2013. She also identifies herself on LinkedIn as having worked as general counsel for the nonprofit Fix California. Tax filings reviewed by WIRED, though, show that rather than working as general counsel for Fix California, Zacharia was in fact a fundraiser for the nonprofit. On Tuesday, journalist Judd Legum reported that Zacharia\u2014who, he noted, had been identified as an attorney in at least 18 appearances on Fox...",
+    "cache_version": 10,
+    "checked_at": "2026-10-16T04:25:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3129
+  },
   "f563dfdaf986d581da422b36475ef2c823cb7330e3a4ae50c95f02becbef8183": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -91023,9 +91487,9 @@
   "fd253bbce3f4637af5098c8c88ec186403afe66e927c913498ea7582062e914b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Error 404 Not Found Not Found Error 54113 Details: cache-hhr-khhr2060035-HHR 1791439000 15298532 Varnish cache server",
+    "article_excerpt": "Error 404 Not Found Not Found Error 54113 Details: cache-phx1710121-PHX 1792124737 3160900585 Varnish cache server",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:39+00:00",
+    "checked_at": "2026-10-16T04:25:36+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam"
