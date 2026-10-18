@@ -6803,9 +6803,9 @@
   "130900cce6b63ece99292eb340bc5b66942872eb5f2247684d985b10ee4b4094": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Request unsuccessful. Incapsula incident ID: 175000350206729014-261188733786589427",
+    "article_excerpt": "Request unsuccessful. Incapsula incident ID: 487000070358630787-562406498356363762",
     "cache_version": 10,
-    "checked_at": "2026-10-10T05:46:11+00:00",
+    "checked_at": "2026-10-18T04:24:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -7568,6 +7568,36 @@
     "weak_generic_terms_found": [],
     "word_count": 1164
   },
+  "14a590691225a5925fdf99f01e9c5161ca781b75f2644b38d003eb70ee6a19e5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. Pig kidneys that were \u201cfrozen\u201d for a year have been brought back to life Pig kidneys that were cooled to -150 \u00b0C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. The kidneys, which are similar in size to human ones, were left in a glass-like state, in one case for over a year. Once they had been rewarmed, tested in machines, and transplanted into pigs, the kidneys regained their color and made urine\u2014key signs they were working. The results are a big milestone. But the team still needs to establish whether the approach could work for humans. Dissect what the breakthrough means for organ transplantation . \u2014Jessica Hamzelou How much more can nuclear power plants give? In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant. Over the past few weeks, there\u2019s been big news about the nuclear industry trying to do just that.",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2458
+  },
   "14e3228bbb86722e48da68e08a76751e3d33a1de311c377b41e71b863711dd46": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -7713,6 +7743,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "1533e6be8c38b8c0b26770a90ef9fba669977f01c0f035afb46c875acb4549d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Reddit and Perplexity AI clash over law firm\u2019s role in data-scraping case Sign up now: Get ST's newsletters delivered to your inbox Reddit filed the lawsuit in 2025, alleging Perplexity illegally scraped its online forums for data it needs for its online \u201canswer engine\u201d system. PHOTO: REUTERS Published Oct 13, 2026, 08:24 AM Updated Oct 13, 2026, 08:25 AM Set as preferred source Listen Summarise Reddit asked a federal judge to stop Proskauer Rose from defending Perplexity AI, saying the firm has a conflict from earlier work for Reddit and once said it would not represent Perplexity. Proskauer rejected the claim, saying its past work for Reddit in a whistleblower case does not block it from acting for Perplexity and that it never agreed to stay away. The dispute is part of wider copyright fights over AI data use. Reddit says Perplexity scraped its forums for its \u201canswer engine\u201d, while Perplexity denies infringement. AI generated WASHINGTON \u2013 Reddit has asked a federal judge to block its former law firm Proskauer Rose from defending Perplexity AI in a lawsuit alleging the AI search start-up company stole Reddit content, arguing it was dropped like a \u201chot potato\u201d by lawyers who owed it client loyalties. In a court filing on Oct 9 in Manhattan federal court, Reddit said Proskauer has a conflict of interest due to its past work for Reddit in a whistleblower case. Reddit also said...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1306
   },
   "153436027f2239d7e6e6ebf21ce55b8e5278c62b8e55663f236511954301877e": {
     "access_status": "available",
@@ -10381,6 +10435,34 @@
     "weak_generic_terms_found": [],
     "word_count": 3121
   },
+  "1cd1be74ab132709a67202abb5dc253e65334152d6d6dce923c9ec24743a42da": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Recommended HTTP policies Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup We recommend you add the following HTTP policies to build an Internet and SaaS app security strategy for your organization. For additional commonly used HTTP policy examples, refer to Common HTTP policies . For more information on building HTTP policies, refer to HTTP policies . All-HTTP-Application-InspectBypass Bypass HTTP inspection for applications that use embedded certificates. This will help avoid any certificate pinning errors that may arise from an initial rollout. Selector Operator Value Action Application in Do Not Inspect Do Not Inspect Create a Zero Trust Gateway rule bash curl \"https://api.cloudflare.com/client/v4/accounts/ $ACCOUNT_ID /gateway/rules\" \\ --request POST \\ --header \"Authorization: Bearer $CLOUDFLARE_API_TOKEN \" \\ --json '{ \"name\": \"All-HTTP-Application-InspectBypass\", \"description\": \"Bypass HTTP inspection for applications that use embedded certificates\", \"precedence\": 0, \"enabled\": true, \"action\": \"block\", \"filters\": [ \"http\" ], \"traffic\": \"any(app.type.ids[*] in {16})\" }' resource \"cloudflare_zero_trust_gateway_policy\" \"all_http_application_inspect_bypass\" { account_id = var . cloudflare_account_id name = \"All-HTTP-Application-InspectBypass\" description = \"Bypass HTTP inspection for applications that use embedded certificates\" precedence = 0...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 3671
+  },
   "1cd73566511139eedeeba2910384ab0a3a4ba375534b3ec041a03fb99d91769c": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -11208,6 +11290,30 @@
       "trust"
     ],
     "word_count": 25114
+  },
+  "1f4114844b8621d4ba0e0243e45ed262bdf9710a831e0425fa5f0c52e4745b56": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Static Assets Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup You can upload static assets (HTML, CSS, images and other files) as part of your Worker, and Cloudflare will handle caching and serving them to web browsers. Start from CLI - Scaffold a React SPA with an API Worker, and use the Cloudflare Vite plugin . npm yarn pnpm npm create cloudflare@latest -- my-react-app --framework=react yarn create cloudflare my-react-app --framework=react pnpm create cloudflare@latest my-react-app --framework=react Or just deploy to Cloudflare Learn more about supported frameworks on Workers. Supported frameworks Start building on Workers with our framework guides. How it works When you deploy your project, Cloudflare deploys both your Worker code and your static assets in a single operation. This deployment operates as a tightly integrated \"unit\" running across Cloudflare's network, combining static file hosting, custom logic, and global caching. The assets directory specified in your Wrangler configuration file is central to this design. During deployment, Wrangler automatically uploads the files from this directory to Cloudflare's infrastructure. Once deployed, requests for these assets are routed efficiently to locations closest to your users. { \"$schema\" : \"./node_modules/wrangler/config-schema.json\" , \"name\" : \"my-spa\" , \"main\" : \"src/index.js\"...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2152
   },
   "1f4966770b6f29dabde00fcb911b43dba6e3903ef4d4552747e9169f1a8fa6db": {
     "access_status": "available",
@@ -24198,6 +24304,37 @@
     "weak_generic_terms_found": [],
     "word_count": 1332
   },
+  "44405ee70663af635ea228fd5951646f3619655c555692b78394685217d0b40e": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "fetch_timeout",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "44488321c4d6257f335139e20f53d15f95cb9855668c926c9d3fd1b9013e435f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -27307,6 +27444,37 @@
     ],
     "word_count": 3037
   },
+  "4bd7418a7315cd7c980071e1c9485eae8e8d445e16328bf2fc67044eb65488c4": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "4bdb23be785e76e7ec115aff5de831f34cb60beca5b4776b59c8196b544e1003": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29367,6 +29535,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "51c00e32d306a9182c19f55dc1d4223a0c34ab4155174b6a463cdb448ff6b6b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018All of this is going to pass\u2019: Nvidia CEO Jensen Huang on AI market turmoil Sign up now: Get ST's newsletters delivered to your inbox Nvidia shares have dropped during seven of the past eight sessions. PHOTO: REUTERS Published Oct 17, 2026, 11:20 AM Updated Oct 17, 2026, 12:06 PM Set as preferred source Listen Summarise Jensen Huang said the AI sell-off will pass, and that AI will be \u201ctransformative\u201d across every industry and country. He said recent market news is \u201cchoppy\u201d but will not change the fundamentals, and urged investors to \u201cStay focused on first principles\u201d. Nvidia remains central to AI infrastructure, but chip shares, Nvidia, and CoreWeave have all fallen as investors worry AI spending may not be sustainable. AI generated Nvidia chief executive Jensen Huang took a sanguine view of the latest AI stock-market rout, saying the benefits of the technology will soon outweigh the concerns of investors. \u201cAll of this is going to pass, and the reason for that is very simple,\u201d Huang told Bloomberg\u2019s Emily Chang during an event in Berlin. \u201cIt\u2019s going to be transformative. It\u2019s going to impact in a very positive way every single industry and every single country. There\u2019s no question it will continue, and we\u2019re at the beginning of that.\u201d The remarks capped a tumultuous week for shares of chipmakers and AI infrastructure companies. The closely watched Philadelphia Stock Exchange...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1428
   },
   "5207c76a95b484d2212e68520488ce1bad2b6b96e8028384287addeedf76b17a": {
     "access_status": "available",
@@ -34123,6 +34315,33 @@
     ],
     "word_count": 1792
   },
+  "5f3ca3b44fb76be7ac8194396208e0de55c86f118a05c7fa8818bb18d1671cd7": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Trump threatens California officials with imprisonment over stance on mail ballots Sign up now: Get ST's newsletters delivered to your inbox On Oct 15, the Justice Department sued California to block the state from counting the ballots returned by allegedly non-citizens. PHOTO: REUTERS Published Oct 17, 2026, 10:20 AM Updated Oct 17, 2026, 04:24 PM Set as preferred source Listen Summarise US Justice Department warns California and Los Angeles County they could face legal liability if they count mail ballots from more than 20,000 people the Trump administration says are probably non-citizens. Trent McCotter said non-citizen voting is a federal crime, while Donald Trump claimed on Truth Social: \u201cThey will all go to jail for a long period of time.\u201d California officials reject the demands, saying the federal list may be flawed and the actions could cause chaos and public distrust before the midterm elections. AI generated WASHINGTON \u2013 The US Justice Department on Oct 16 warned Los Angeles County and California election officials they could be liable as abettors of a federal crime if they count mail ballots returned by more than 20,000 people the Trump administration says are probably non-citizens. The warning to the Los Angeles County Assistant Counsel Peter Bollinger came less than three weeks before the Nov 3 midterm elections and days after the department gave California 48...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1900
+  },
   "5f49f5af086def86c036ba620cc8fc7e532fdf0757091029b6e9084d4559cf13": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34454,6 +34673,33 @@
       "cybersecurity"
     ],
     "word_count": 1563
+  },
+  "60229daf53503c3a192d09d6b4f078707269027f021f84ce58e3cd8de4cc8cc6": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Zero Trust and Virtual Desktop Infrastructure Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Virtual Desktop Infrastructure (VDI) is old, costly, and clunky for a number of reasons including poor user experience, high upfront investments, ongoing operational costs, and many others of which you can read about in detail here \u00e2\u0086\u0097\u00ef\u00b8\u008e . We recognize and empathize with the challenges many organizations face that result in continued reliance on this approach. This reference architecture describes how Cloudflare's Zero Trust solution can help organizations secure their virtual desktop infrastructure (VDI) and in most cases offload it entirely. Many organizations use expensive and poor performing VDI only to provide a secure web browser to their remote users. In these cases, Cloudflare can help offload the use of VDI entirely for web-based applications or SaaS apps. In other cases, a full virtualized desktop may be necessary for legacy apps, yet organizations still need help securing remote access to their VDI or securing the virtualized desktops themselves once users are interacting with them. This document provides a reference and guidance for using Cloudflare's Zero Trust services and is split into two main sections. Replacing your VDI for secure remote access to web-based applications. Accessing a full blown desktop environment to just...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 3000
   },
   "60289dd647f413cb4cffe30e7e92e6eaba14918ab7d60ed076fa5e94adb82a52": {
     "access_status": "available",
@@ -35902,7 +36148,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-10T05:46:06+00:00",
+    "checked_at": "2026-10-18T04:24:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -38389,6 +38635,30 @@
       "fraud"
     ],
     "word_count": 1898
+  },
+  "6acb28c4a83133460e438ced352fc7cfac184bf641714dbec6b25657509b99cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Q3 2026 J.S. Held AI Disputes Monitor Reveals Shift in AI Litigation from How Systems are Built to How They Behave Published \u00c2 Oct 15, 2026, 08:07 AM Q3 2026 J.S. Held AI Disputes Monitor Reveals Shift in AI Litigation from How Systems are Built to How They Behave The issuer is solely responsible for the content of this announcement. Press release Q3 2026 J.S. Held AI Disputes Monitor Reveals Shift in AI Litigation from How Systems are Built to How They Behave Published \u00c2 Oct 15, 2026, 08:07 AM Q3 2026 J.S. Held AI Disputes Monitor Reveals Shift in AI Litigation from How Systems are Built to How They Behave The issuer is solely responsible for the content of this announcement. Press release Q3 2026 J.S. Held AI Disputes Monitor Reveals Shift in AI Litigation from How Systems are Built to How They Behave Published \u00c2 Oct 15, 2026, 08:07 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here.",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 200
   },
   "6ad071f6dc539fa72667a45a918fc6bcafc544de76770510949b46189a680246": {
     "access_status": "available",
@@ -42533,6 +42803,30 @@
     ],
     "word_count": 27518
   },
+  "76c3248344a5b6ac9c73dc5ea08063dcf29d93c033f79b0d062cc3d1d620d938": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "d phonellm-mini-alpha-2 Text Generation \u00e2\u0080\u00a2 daily-co Copy as Markdown | View as Markdown | Agent setup @cf/daily-co/phonellm-mini-alpha-2 Cloudflare-hosted Function calling PhoneLLM is an open model tuned for voice agents. The model is based on Nemotron Nano 30B base capabilities and excels at typical voice agent tasks with thinking disabled. Model Info Context Window \u00e2\u0086\u0097 262,140 tokens Function calling \u00e2\u0086\u0097 Yes Unit Pricing $0.06 per M input tokens, $0.24 per M output tokens Playground Try out this model with Workers AI LLM Playground. It does not require any setup or authentication and is an instant way to preview and test a model directly in the browser. Launch the LLM Playground Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role: \"user\" , content: \"What is the origin of the phrase Hello, World\" , }, ]; const stream = await env. AI . run ( \"@cf/daily-co/phonellm-mini-alpha-2\" , { messages, stream: true , }); return new Response (stream, { headers: { \"content-type\" : \"text/event-stream\" }, }); }, } satisfies ExportedHandler < Env >; export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1612
+  },
   "76d7cb7c34b4a37767f64b7e44d48cc665888100c1aba53a5ffc3f6d4aad47d5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -44044,6 +44338,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1091
+  },
+  "7a3b7f81415b6dca6c7d08134760bc8be3ba3923e212ef33fd4b15ffb4c697a1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SoftBank junk bond sale raises stakes for CEO Son\u2019s all-in AI bet Sign up now: Get ST's newsletters delivered to your inbox The scale of Masayoshi Son\u2019s investments, which include backing of about US$64.6 billion for ChatGPT maker OpenAI, has made the technology-and-investing conglomerate a bellwether for AI sentiment. PHOTO: REUTERS Published Oct 14, 2026, 08:05 AM Updated Oct 14, 2026, 09:58 AM Set as preferred source Listen Summarise SoftBank\u2019s record US$11 billion junk-bond sale shows pressure on CEO Masayoshi Son to prove his huge AI bet will pay off, especially through OpenAI. The company is borrowing at up to 9.75% to keep assets it expects to rise in value, while investors worry about concentration risk and possible AI market overheating. Analysts say SoftBank\u2019s AI bets are far bigger and riskier than before, with mixed past results, but supporters believe AI could still bring major financial gains. AI generated TOKYO \u2013 SoftBank\u2019s promise to pay its highest-ever yields in a record US$11 billion (S$14.1 billion) junk-bond offering highlights the pressure on CEO Masayoshi Son to secure returns on his all-in bet on AI amid concerns about possible overheating in the market. The SoftBank debt issuance in September added to a sharp surge in corporate borrowing in 2026, including major bond sales from Amazon.com, Alphabet and Tencent. The scale of Son\u2019s investments, which...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2839
   },
   "7a49dd8be25bcb30771d741a12d5876d36ced13137d971b74d063631a66bda1d": {
     "access_status": "available",
@@ -46928,6 +47246,38 @@
     "weak_generic_terms_found": [],
     "word_count": 12627
   },
+  "8086f35b9c0066730a931b4def90f68020f78c50b7a4c5d05dbf56ca65bd5109": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "403 Forbidden",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 2
+  },
   "8094b193abb57a70add2b0a843aa7a25639e3e2550215c3ddf9ec19c9d113092": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -47309,7 +47659,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "robots.txt setting Last updated Oct 8, 2026 | Copy as Markdown | View as Markdown | Agent setup AI companies use crawlers to collect website content for training language models, generating search answers, and other purposes. A robots.txt file at the root of your domain tells these crawlers which content they should or should not access. Bot Preference Sync generates managed robots.txt directives from your Search, Agent, and Training policies when at least one policy is set to Block , Block on pages with ads , or, for Training, Disallow . robots.txt compliance is voluntary. The file expresses your preferences, but it does not prevent crawlers from accessing your content at a technical level. Some crawler operators may disregard your robots.txt directives (instructions like Disallow: / ) and crawl your content regardless. Compatibility with existing robots.txt files Cloudflare detects whether your origin server already has a robots.txt file and adjusts accordingly \u00e2\u0080\u0094 either merging with your existing file or creating one from scratch. Existing robots.txt file If your website already has a robots.txt file \u00e2\u0080\u0094 verified by an HTTP 200 response \u00e2\u0080\u0094 Cloudflare will prepend our managed robots.txt before your existing robots.txt , combining both into a single response. For example, without this feature enabled, the robots.txt content of crawlstop.com would be: Feature not enabled txt...",
     "cache_version": 10,
-    "checked_at": "2026-10-10T05:46:06+00:00",
+    "checked_at": "2026-10-18T04:24:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -50502,6 +50852,30 @@
       "victim"
     ],
     "word_count": 832
+  },
+  "89ecef5ee0630c89ea5e33db9fd02640f5ac7ebcd356398e7839aefb730b85e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump faults aides as Republican midterm prospects dim Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump is not on the Nov 3 ballot but repeatedly tells supporters to pretend that he is, hoping to mobilise voters who might otherwise skip the election. PHOTO: REUTERS Published Oct 17, 2026, 06:10 PM Updated Oct 17, 2026, 09:53 PM Set as preferred source Listen Summarise Trump is blaming aides for weak Republican midterm results, including campaign spending, redistricting, and candidate choices, while Democrats may win the House and the Senate is still close. Tension is rising between James Blair and Susie Wiles, with Trump criticising Blair\u2019s outside work and some officials questioning Wiles\u2019 oversight, creating a \u201ccircular firing squad\u201d. The stakes are high: losing the House could block Trump\u2019s agenda and give Democrats subpoena power, while Republicans fear redistricting in Texas may backfire and hurt incumbents. AI generated WASHINGTON \u2013 US President Donald Trump is blaming senior aides and political operatives for a faltering midterm strategy, questioning campaign spending, faulting redistricting and second-guessing candidate choices as Republicans fight to retain control of Congress , said three people familiar with internal discussions. Trump is not on the Nov 3 ballot but repeatedly tells supporters to pretend that he is, hoping to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3630
   },
   "89f5b6d078a884e20977384b4414d98a970c0f93ea72a7c12e6cc995e6d55034": {
     "access_status": "available",
@@ -66522,7 +66896,7 @@
     "anti_scam_relevance": "irrelevant",
     "article_excerpt": "Content selection saved. Describe the issue below: Orbit : A Framework for Multi-Agent Safety and Security Evaluations Ben Hagag 1,2,3 William L. Anderson 2,4 1 1 footnotemark: 1 Srija Chakraborty 2 Christian Schroeder de Witt 3 1 Carnegie Mellon University 2 MATS Research 3 University of Oxford 4 Cooperative AI Foundation \u2020 \u2020 thanks: Equal contribution. \u2020 \u2020 thanks: Correspondence to: William L.\u02dcAnderson . Abstract Multi-agent LLM systems are increasingly deployed for complex, long-horizon tasks or emerge as a natural consequence of agents interacting in the wild. Yet, they often give rise to significant safety and security risks: the flexible protocols that enable task generalization also expose novel threats, from cascading prompt injection to inter-agent collusion. Progress in defending against these threats has been slowed by a lack of shared empirical infrastructure, which forces bespoke environment development for every new defense and makes standardized comparison impossible. Existing evaluations address isolated threat models or single-agent settings, but none jointly vary attack, defense, and architecture across realistic multi-agent environments. To address this gap, we introduce Orbit , a configurable evaluation framework for empirical multi-agent safety and security research, built on UK AISI\u2019s Inspect. Orbit lets researchers configure communication topologies...",
     "cache_version": 10,
-    "checked_at": "2026-10-07T05:51:46+00:00",
+    "checked_at": "2026-10-18T04:24:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -66883,6 +67257,30 @@
       "trust"
     ],
     "word_count": 13544
+  },
+  "b677de0220fbcf6250920aeca163236a78287e68b066e660a39a6f623b3850c6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 12, 2026 Run OpenCode 2.0 on Cloudflare with the Agents SDK Agents Workers Copy as Markdown | View as Markdown | Agent setup The Agents SDK now supports OpenCode 2.0 \u00e2\u0086\u0097\u00ef\u00b8\u008e through the experimental OpenCodeHarness . Run OpenCode inside a plain Durable Object, with sessions stored in SQLite and Lifecycle jobs that wake interrupted work after eviction. The agents/models/opencode provider connects OpenCode to Workers AI through the AI binding. OpenCode plugins extend the harness with custom tools, remote MCP servers, and skills. Refer to OpenCode's Cloudflare SDK documentation \u00e2\u0086\u0097\u00ef\u00b8\u008e for the embedded host API. Copy prompt Prompt copied! Install Agents SDK 0.28.0 or later with the OpenCode packages: npm yarn pnpm bun npm i agents@latest @opencode/sdk@2 @opencode/plugin@2 yarn add agents@latest @opencode/sdk@2 @opencode/plugin@2 pnpm add agents@latest @opencode/sdk@2 @opencode/plugin@2 bun add agents@latest @opencode/sdk@2 @opencode/plugin@2 Create a harness and install a Lifecycle on your Durable Object: import { DurableObject } from \"cloudflare:workers\" ; import { Lifecycle } from \"agents/lifecycle\" ; import { OpenCodeWorkerd } from \"@opencode/sdk/workerd\" ; import { OpenCodeHarness } from \"agents/harness/opencode\" ; import { createAI } from \"agents/models/opencode\" ; import workerTools from \"./worker-tools\" ; export class...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 941
   },
   "b6927735d7e93dab6ad12a1deb0affd927d18f829e8f5eb8d971d0d1532edebb": {
     "access_status": "available",
@@ -75342,6 +75740,40 @@
     "weak_generic_terms_found": [],
     "word_count": 3465
   },
+  "cdb2939ce886f922abd0330a517f80282424461fee72c540abe71846020cc108": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:34+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 0
+  },
   "cdb6293a4825078b0bfdfca6c2f8674a76f54d8df1f18f25852ea4e5920bed92": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77113,6 +77545,30 @@
     ],
     "word_count": 2158
   },
+  "d1ed8737291ab41c6822ed05d5380af8e17f8d00ad70d9ba6c476fa7af678b3b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump mocks popularity of the name Mohammad, common among Muslims Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump made the comment as he was discussing Iran during a rally in a hangar at Dalton Municipal Airport in Georgia on Oct 16. PHOTO: REUTERS Published Oct 17, 2026, 07:55 AM Updated Oct 17, 2026, 09:33 AM Set as preferred source Listen Summarise Trump mocked the name \u201cMohammad\u201d at a Georgia rally while joking about Iran\u2019s presidency. The crowd reacted quietly. He said, \u201cIf you're in doubt about somebody's name from the Middle East, just say \u2018Mohammad\u2019,\u201d and claimed he had \u201cnever been wrong.\u201d Rights groups condemned his remarks as anti-Muslim rhetoric. Trump also repeated his vow that Iran would never get a nuclear weapon. AI generated DALTON, Georgia - US President Donald Trump made a joke about the popularity of the name Mohammad in the Muslim world as he mocked Iran's presidency during a campaign speech on Oct 16. \"You know, if you're in doubt about somebody's name from the Middle East, just say 'Mohammad\u2019,\" Trump told a crowd in Dalton, Georgia. \"You have about a 65% chance. 'Hello, Mohammad.' I've done it for years now. I've never been wrong.\" Mohammad is one of the most common male names among Muslims, who often name their sons after the Prophet Mohammad, the founder of Islam.",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1361
+  },
   "d217ea5e4a944683d7cbea2643c1cb8d1d70d2769b388317bd2e74773a58184d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77466,6 +77922,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 106
+  },
+  "d348702fd48c3b65a92bfaadd650d7c569c581e0d257dd928c4579b16ef106cf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump\u2019s new press secretary Katie Zacharia says China lacked \u2018proper toilets\u2019 Sign up now: Get ST's newsletters delivered to your inbox Katie Zacharia has faced scrutiny after a first press briefing in which she read haltingly from a script and took questions from only three journalists. PHOTO: BLOOMBERG Published Oct 16, 2026, 06:51 AM Updated Oct 16, 2026, 06:51 AM Set as preferred source Summarise Katie Zacharia, Trump\u2019s new press secretary, sparked criticism after saying China lacked \u201cproper toilets\u201d in an Oct 15 interview with Jack Posobiec. Her remarks clash with Trump\u2019s warm ties with Xi Jinping, as the White House seeks stable relations and both leaders plan more meetings. Zacharia also faces questions over her credentials after admitting she did not pass the California bar, while the White House calls her \u201cuniquely qualified and whip smart\u201d. AI generated WASHINGTON - White House Press Secretary Katie Zacharia denigrated China in an interview on Oct 15, remarks that could invite more scrutiny on the newly appointed chief spokesperson for President Donald Trump. Zacharia, who previously lived in China, was asked in an interview on Oct 15 how she balances her personal life with her work responsibilities. That led to a lengthy response in which she said Trump\u2019s 2016 victory put America back on the path to greatness. \u201cI remember this very distinctly, having just come from...",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1533
   },
   "d3504e0f76febe7cbfbe6edc4242c19b39187f3e6fb0264ad96ae765533974a9": {
     "access_status": "available",
@@ -82446,6 +82926,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1122
   },
+  "e04563b45e120bd3a72a1e6006a0dda4580021be0366d9319eb7de8e10ba9362": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "e0500f3d01a06eeae313d9a3b6eeaf23eb7c5e8f5a2fdc106bfab46b6ba5a083": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -83299,7 +83803,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: He Cheng Ba Wen Lu Yang Ren Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection Miao Peng Zhongjie Qing Li Xin Kui Abstract Advances in speech synthesis have made deepfake speeches increasingly convincing, posing growing threats to security. While self-supervised learning (SSL) based detectors achieve state-of-the-art performance, their computational demands (typically 300M+ parameters) prevent deployment on resource-constrained devices. Existing compression methods, designed mainly for content-centric tasks, struggle to maintain competitive performance when directly adapted to deepfake detection. We propose a Task-Aware Joint Pruning and Distillation framework that combines cross-domain knowledge distillation with movement-guided structured pruning to transfer forgery-discriminative knowledge and preserve critical structures under aggressive compression. Our framework reduces the model to 31.9M parameters with 6.3 \u00d7 \\times FLOPs reduction, with an average performance drop of only 1.30% across multiple datasets compared to the uncompressed baseline, demonstrating strong potential for on-device deployment. keywords deepfake detection, model compression, knowledge distillation, structured pruning \u2020 \u2020 address: 1 The State Key Laboratory of Blockchain and Data Security, Zhejiang University, China 2...",
     "cache_version": 10,
-    "checked_at": "2026-10-10T05:46:07+00:00",
+    "checked_at": "2026-10-18T04:24:38+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -86453,7 +86957,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Please enable JS and disable any ad blocker",
     "cache_version": 10,
-    "checked_at": "2026-10-10T05:46:13+00:00",
+    "checked_at": "2026-10-18T04:24:38+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -92310,6 +92814,30 @@
       "fraud"
     ],
     "word_count": 120
+  },
+  "fd4c934c02fc71b97881b04723fd4a4c1260a86eb441ac6faa83ed169e65b9ba": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Reshaping Network Value for New Growth in the AI Era Published Oct 15, 2026, 08:50 PM Reshaping Network Value for New Growth in the AI Era The issuer is solely responsible for the content of this announcement. Press release Reshaping Network Value for New Growth in the AI Era Published Oct 15, 2026, 08:50 PM Reshaping Network Value for New Growth in the AI Era The issuer is solely responsible for the content of this announcement. Press release Reshaping Network Value for New Growth in the AI Era Published Oct 15, 2026, 08:50 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-18T04:24:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 137
   },
   "fd5629a585a3fb317a5f141f84c65c7a8c86cfac0b840fdad9c4331619bb5f01": {
     "access_status": "available",

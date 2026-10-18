@@ -2590,6 +2590,20 @@
       "url": "https://www.bbc.com/news/articles/cx2kvlye1k5o",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "cbc.ca|2026-06-08|against anatomy emotions fraud manipulation our protect scammers": {
+      "article_type": "Enforcement report",
+      "normalised_title": "anatomy fraud scammers use our emotions against us",
+      "normalized_title_fingerprint": "anatomy fraud scammers our emotions against us",
+      "original_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWZVVG9wak1icGU1SWdhSjJibHk1c3VySkZEcV9BRWM5UHE3TXpDSFdIVm4zeURWQUJKeVNkblMtOHBxOFA3UEFOSXRiZlE0enI4UzlITHExUlAtSy1ET1czMVRlMDJjZzgtZ2UwN29TRFhfWXdNWVpEMkNvUU9WNnZneEFlVmFhTl9OakRmblA3QzJvSmc?oc=5",
+      "parsed_date": "2026-06-08",
+      "raw_title": "Anatomy of a fraud: How scammers use our emotions against us",
+      "same_story_key": "cbc.ca|2026-06-08|against anatomy emotions fraud manipulation our protect scammers",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "cbc.ca",
+      "title": "anatomy fraud scammers use our emotions against us",
+      "url": "https://www.cbc.ca/news/canada/toronto/fraud-manipulation-how-to-protect-yourself-9.7224976",
+      "usefulness_category": "Scam development"
+    },
     "channelnewsasia.com|2025-12-16|000 admits cards exchange lost money register registering": {
       "article_type": "Enforcement report",
       "normalised_title": "teen admits registering 25 sim cards exchange money 2 scam victims lost s 35 000",
@@ -4200,6 +4214,20 @@
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7569718.pdf?abstractid=7569718&mirid=1",
       "usefulness_category": "Research / novel method"
     },
+    "papers.ssrn.com|2026-10-17|changes doubt independent judgment pressure say scam social": {
+      "article_type": "Research paper",
+      "normalised_title": "we say yes when we doubt trust social pressure independent judgment ai changes scams",
+      "normalized_title_fingerprint": "we say yes when we doubt trust social pressure independent judgment ai changes scam",
+      "original_url": "https://papers.ssrn.com/sol3/Delivery.cfm/7611958.pdf?abstractid=7611958&mirid=1",
+      "parsed_date": "2026-10-17",
+      "raw_title": "Why We Say Yes When We Doubt: Trust, Social Pressure, and Independent Judgment as AI Changes Scams",
+      "same_story_key": "papers.ssrn.com|2026-10-17|changes doubt independent judgment pressure say scam social",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "we say yes when we doubt trust social pressure independent judgment ai changes scams",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7611958.pdf?abstractid=7611958&mirid=1",
+      "usefulness_category": "Research / novel method"
+    },
     "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi": {
       "article_type": "Technical article",
       "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
@@ -4912,6 +4940,20 @@
       "source_domain": "technologyreview.com",
       "title": "download mice part human brains climate tech innovators",
       "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "usefulness_category": "Operational intelligence"
+    },
+    "technologyreview.com|2026-10-15|boosting download frozen kidneys nuclear pig power reviving": {
+      "article_type": "Deep analysis",
+      "normalised_title": "download reviving frozen pig kidneys boosting nuclear power",
+      "normalized_title_fingerprint": "download reviving frozen pig kidneys boosting nuclear power",
+      "original_url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "parsed_date": "2026-10-15",
+      "raw_title": "The Download: reviving frozen pig kidneys and boosting nuclear power - MIT Technology Review",
+      "same_story_key": "technologyreview.com|2026-10-15|boosting download frozen kidneys nuclear pig power reviving",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "technologyreview.com",
+      "title": "download reviving frozen pig kidneys boosting nuclear power",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
       "usefulness_category": "Operational intelligence"
     },
     "techradar.com|2026-09-14|cloning convincing could family frighteningly getting glimpse her": {
@@ -6530,6 +6572,18 @@
       "title": "anatomy conversational scams topic based red teaming analysis multi turn interactions llms",
       "usefulness_category": "Research / novel method"
     },
+    "anatomy fraud scammers our emotions against us": {
+      "article_type": "Enforcement report",
+      "normalised_title": "anatomy fraud scammers use our emotions against us",
+      "normalized_title_fingerprint": "anatomy fraud scammers our emotions against us",
+      "parsed_date": "2026-06-08",
+      "raw_title": "Anatomy of a fraud: How scammers use our emotions against us",
+      "same_story_key": "cbc.ca|2026-06-08|against anatomy emotions fraud manipulation our protect scammers",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "cbc.ca",
+      "title": "anatomy fraud scammers use our emotions against us",
+      "usefulness_category": "Scam development"
+    },
     "anatomy poisoning ethereum funding mechanisms scam signatures laundering via tornado cash": {
       "article_type": "Research paper",
       "normalised_title": "anatomy address poisoning ethereum funding mechanisms scam signatures laundering via tornado cash",
@@ -7668,6 +7722,18 @@
       "sent_at": "2026-09-18T04:38:46+00:00",
       "source_domain": "technologyreview.com",
       "title": "download mice part human brains climate tech innovators",
+      "usefulness_category": "Operational intelligence"
+    },
+    "download reviving frozen pig kidneys boosting nuclear power": {
+      "article_type": "Deep analysis",
+      "normalised_title": "download reviving frozen pig kidneys boosting nuclear power",
+      "normalized_title_fingerprint": "download reviving frozen pig kidneys boosting nuclear power",
+      "parsed_date": "2026-10-15",
+      "raw_title": "The Download: reviving frozen pig kidneys and boosting nuclear power - MIT Technology Review",
+      "same_story_key": "technologyreview.com|2026-10-15|boosting download frozen kidneys nuclear pig power reviving",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "technologyreview.com",
+      "title": "download reviving frozen pig kidneys boosting nuclear power",
       "usefulness_category": "Operational intelligence"
     },
     "draining water hole mitigating social engineering attacks cybertweak": {
@@ -11102,6 +11168,18 @@
       "title": "watch source inside crypto scam slave compound hacklab",
       "usefulness_category": "Operational intelligence"
     },
+    "we say yes when we doubt trust social pressure independent judgment ai changes scam": {
+      "article_type": "Research paper",
+      "normalised_title": "we say yes when we doubt trust social pressure independent judgment ai changes scams",
+      "normalized_title_fingerprint": "we say yes when we doubt trust social pressure independent judgment ai changes scam",
+      "parsed_date": "2026-10-17",
+      "raw_title": "Why We Say Yes When We Doubt: Trust, Social Pressure, and Independent Judgment as AI Changes Scams",
+      "same_story_key": "papers.ssrn.com|2026-10-17|changes doubt independent judgment pressure say scam social",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "we say yes when we doubt trust social pressure independent judgment ai changes scams",
+      "usefulness_category": "Research / novel method"
+    },
     "weapons spying cyber operations anthropic exposes claude misuse": {
       "article_type": "News report",
       "normalised_title": "weapons spying cyber operations anthropic exposes claude misuse",
@@ -12087,6 +12165,18 @@
       "title": "US imposes sanctions on Cambodian senator and 28 others for alleged crypto-romance scams - The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWF9BdURVU3FNX0lWUC1oamVJTkxqbmRDRXB0V0Rnb0EtbnRKT2thc2l3eFZsMlk3eU1XM0Fac2hyWmgyU2VQdVRuV2k4WTRUY283Y1lnSHVaaHBlXzJZTFExVlpzQzhhbkhqUFlUZlhLaHJyWWdxUkxPbEZ1RUJiTldBWUJGX1VxMENGVFVZUXE5YUNkNXdrSS1lSF8yT2FyakpXTzRwSUl2YmV6WmNHMUE1em92bXA5dmpsWDR0SQ?oc=5",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "14a590691225a5925fdf99f01e9c5161ca781b75f2644b38d003eb70ee6a19e5": {
+      "article_type": "Deep analysis",
+      "normalised_title": "download reviving frozen pig kidneys boosting nuclear power",
+      "normalized_title_fingerprint": "download reviving frozen pig kidneys boosting nuclear power",
+      "parsed_date": "2026-10-15",
+      "same_story_key": "technologyreview.com|2026-10-15|boosting download frozen kidneys nuclear pig power reviving",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "technologyreview.com",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power - MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "usefulness_category": "Operational intelligence"
     },
     "156fb0d0c23b90806196164d070326017a8ff054967ed6df7b35df6a9de3d6e7": {
       "article_type": "News report",
@@ -16912,6 +17002,18 @@
       "url": "https://arxiv.org/abs/2605.12075",
       "usefulness_category": "Research / novel method"
     },
+    "c650731d38a84de68c055de6370ba6172316eac85c4c5ba8e4f42fe99f257b89": {
+      "article_type": "Enforcement report",
+      "normalised_title": "anatomy fraud scammers use our emotions against us",
+      "normalized_title_fingerprint": "anatomy fraud scammers our emotions against us",
+      "parsed_date": "2026-06-08",
+      "same_story_key": "cbc.ca|2026-06-08|against anatomy emotions fraud manipulation our protect scammers",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "cbc.ca",
+      "title": "Anatomy of a fraud: How scammers use our emotions against us",
+      "url": "https://www.cbc.ca/news/canada/toronto/fraud-manipulation-how-to-protect-yourself-9.7224976",
+      "usefulness_category": "Scam development"
+    },
     "c6e834ec38c7903894d2a1b2f09ec683452d266bcb52bbe89aac741ad483a5ff": {
       "article_type": "Research paper",
       "normalised_title": "incremental risk assessment progressive elder financial scams via instruction tuned small language models",
@@ -17115,6 +17217,18 @@
       "title": "VishBox: An AI-Agent-Based Adaptive Voice Phishing Simulation Framework for Cybersecurity Education",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vWURsUG4zOTQ3WGVENjZFclQ2YjhGNVc3cDhEWkIyRE5fR1pTcXVSaUJPZEZndjJtUGpRTWFyQnA5UV84YmhCNmhESlJFdjdkd0VQY1BuNnJER1I4N2F5TFBhMFpueEhqTWVyN19UZw?oc=5",
       "usefulness_category": "Product idea / data source"
+    },
+    "cdb2939ce886f922abd0330a517f80282424461fee72c540abe71846020cc108": {
+      "article_type": "Research paper",
+      "normalised_title": "we say yes when we doubt trust social pressure independent judgment ai changes scams",
+      "normalized_title_fingerprint": "we say yes when we doubt trust social pressure independent judgment ai changes scam",
+      "parsed_date": "2026-10-17",
+      "same_story_key": "papers.ssrn.com|2026-10-17|changes doubt independent judgment pressure say scam social",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "papers.ssrn.com",
+      "title": "Why We Say Yes When We Doubt: Trust, Social Pressure, and Independent Judgment as AI Changes Scams",
+      "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7611958.pdf?abstractid=7611958&mirid=1",
+      "usefulness_category": "Research / novel method"
     },
     "cdb6293a4825078b0bfdfca6c2f8674a76f54d8df1f18f25852ea4e5920bed92": {
       "article_type": "Enforcement report",
@@ -17547,6 +17661,18 @@
       "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With \u2018MAGA Propaganda\u2019",
       "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
       "usefulness_category": "Product idea / data source"
+    },
+    "dc8f834a869b5b6549a987b3b224ae94d5b26ce8c8fee8bd1c1dae1b1632c146": {
+      "article_type": "Enforcement report",
+      "normalised_title": "anatomy fraud scammers use our emotions against us",
+      "normalized_title_fingerprint": "anatomy fraud scammers our emotions against us",
+      "parsed_date": "2026-06-08",
+      "same_story_key": "cbc.ca|2026-06-08|against anatomy emotions fraud manipulation our protect scammers",
+      "sent_at": "2026-10-18T04:24:54+00:00",
+      "source_domain": "cbc.ca",
+      "title": "Anatomy of a fraud: How scammers use our emotions against us",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWZVVG9wak1icGU1SWdhSjJibHk1c3VySkZEcV9BRWM5UHE3TXpDSFdIVm4zeURWQUJKeVNkblMtOHBxOFA3UEFOSXRiZlE0enI4UzlITHExUlAtSy1ET1czMVRlMDJjZzgtZ2UwN29TRFhfWXdNWVpEMkNvUU9WNnZneEFlVmFhTl9OakRmblA3QzJvSmc?oc=5",
+      "usefulness_category": "Scam development"
     },
     "dd6d9c24a8d00d437cd62ba831476d100a29435954ec54a7ade3431817a66e7a": {
       "article_type": "Enforcement report",
