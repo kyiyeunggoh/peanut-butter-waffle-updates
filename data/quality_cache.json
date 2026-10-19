@@ -960,6 +960,40 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "0316ce40648260bb347cc1b8c0864a3a85004f2c5e136ab647f11d07d2071cf2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "online fraud"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "online fraud"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "0321540e0f81a378b0325c54a694e16c819709fad784882eb0ae2685bdd5b630": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -14501,6 +14535,40 @@
     ],
     "word_count": 725
   },
+  "28f403350eb7133354f1f8f20a0c302ef8dc000b2cd2610c8d3c9a69830edd34": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Quantum Machine Learning for Few-Shot Impersonation Detection in Digital Account Opening Javiera Canales Email: javiera.canales@coredevx.com Affiliation: CoreDevX LABTAV - Advanced Technologies Laboratory Jose Ortega Affiliation: Banco de Cr\u00e9ditos e Inversiones (BCI), Santiago, Chile Maximiliano Araya Affiliation: CoreDevX LABTAV - Advanced Technologies Laboratory Abstract Identity impersonation fraud may emerge only after digital account opening, requiring an early post-onboarding approach based on behavioral and transactional signals observed shortly after activation. Confirmed cases remain rare, creating extreme class imbalance and material operational risk for digital banks. We evaluate quantum machine learning (QML) against classical one-class methods in this setting using a real 2025 cohort of 3,419 digital account openings from Banco de Cr\u00e9ditos e Inversiones (BCI), Chile, including 8 confirmed impersonation-fraud cases (0.23% prevalence). The data were provided through an industry-research collaboration between BCI and CoreDevX LABTAV under operational constraints. The best-performing configuration used only 2 qubits and was executed on CoreDevX\u2019s SpinQ Triangulum II, a 3-qubit nuclear magnetic resonance (NMR) device, enabling hardware validation beyond classical simulation. The quantum one-class classifier based on...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 12221
+  },
   "290ddb875658ea20792d9af4fbd78ec5319747c3fb74ef54f538e150e7145fe9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14805,6 +14873,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4214
+  },
+  "299d004e4a75add86d91926a0cd175ffd6db6a59904a00c786e0ae51030762c0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "29a6424b7930b56a663834a0a403400b703495628103eab785bbbfe4efdccc76": {
     "access_status": "available",
@@ -18144,7 +18236,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-11T05:40:32+00:00",
+    "checked_at": "2026-10-19T04:34:19+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -21791,6 +21883,30 @@
       "trust"
     ],
     "word_count": 12451
+  },
+  "3d06ca4a8e2f7bd22614e647570baf93d1e70ff8f9aa021264ce2abbaac47f52": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The AI race belongs to those who deploy it quickly Regional execution is showing that deploying intelligence matters far more than inventing it. Sign up now: Get ST's newsletters delivered to your inbox Every week brings a new prediction that artificial intelligence models are improving at a remarkable pace for many Asian economies. PHOTO: AFP Bruno S. Sergi Published Oct 19, 2026, 05:00 AM Updated Oct 19, 2026, 05:29 AM Set as preferred source Unlock audio Anyone who wonders what impact artificial intelligence has probably doesn\u2019t live in Asia. In India, a digital platform called BHASHINI allows citizens to access government services in more than 22 local languages using multilingual AI . In Japan, civil servants across government ministries began deploying generative AI tools in 2026 to streamline daily administration. See more on AI/artificial intelligence Careers Singapore companies The AI race belongs to those who deploy it quickly Regional execution is showing that deploying intelligence matters far more than inventing it. Sign up now: Get ST's newsletters delivered to your inbox Every week brings a new prediction that artificial intelligence models are improving at a remarkable pace for many Asian economies. PHOTO: AFP Bruno S. Sergi Published Oct 19, 2026, 05:00 AM Updated Oct 19, 2026, 05:29 AM Set as preferred source Unlock audio Anyone who wonders what impact...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 441
   },
   "3d10897c3449cbb3b7f51012c8fd0e4da7cfa7277ec1cc7f2cac2707067a0bc0": {
     "access_status": "available",
@@ -30982,6 +31098,34 @@
     ],
     "word_count": 2100
   },
+  "5601bf1dfdbd6ee89e01c772e3e840bfd1a5135dfd9a3c6d0a01c3b868e1c1dd": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Reference Architecture using Cloudflare SASE with Microsoft Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction In today's rapidly evolving digital landscape, organizations are increasingly embracing cloud migration to modernize their environments and enhance productivity. Microsoft has emerged as a leading provider of cloud applications and services, offering a comprehensive suite of solutions to support hybrid work. However, this shift to the cloud also presents new challenges and risks that must be addressed to ensure the security and integrity of an organization's resources. As organizations migrate to hybrid and multi-cloud environments, they often face the complexity of managing a combination of Software as a Service (SaaS), self-hosted, and non-web applications. This heterogeneous ecosystem can complicate the process of securing and controlling access to these resources. Additionally relying on legacy, often on-premises, Virtual Private Network (VPN) solutions to securely connect users to applications can introduce security gaps and hinder employee productivity. To overcome these challenges and achieve greater security outcomes, organizations can benefit from partnering with Cloudflare, a leading provider of cloud security and performance solutions. Cloudflare offers seamless integration with Microsoft's cloud ecosystem, enabling...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "identity",
+      "trust"
+    ],
+    "word_count": 4138
+  },
   "5624aeb0eeded31e997d6c6ea7da7fbdb47413523ccc26166350142d7ddc5375": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -33355,6 +33499,30 @@
     ],
     "word_count": 19498
   },
+  "5c42595d7deebde3ae0e9aa08e47961013710a491c52b87faca489bb5f6f5c4a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "PSI forecast to be between 101 and 190 on Oct 19, says NEA Sign up now: Get ST's newsletters delivered to your inbox Rain is forecast over Singapore and the surrounding region on Oct 19. ST PHOTO: KEVIN LIM Published Oct 18, 2026, 06:59 PM Updated Oct 18, 2026, 09:19 PM Set as preferred source Listen Summarise NEA said the 24-hour PSI will likely be between \u201c101 and 190\u201d on Oct 19, keeping Singapore in the unhealthy band. Rain and south-south-east or south winds may limit haze from Kalimantan, but smoke from Sumatra could still drift towards Singapore. Air quality improved on Oct 18, yet PSI stayed unhealthy since Oct 9, and the west hit \u201cvery unhealthy\u201d levels, with a peak of 230. AI generated SINGAPORE \u2013 The 24-hour Pollutant Standards Index (PSI) is forecast to be between 101 and 190 \u2013 in the unhealthy band \u2013 on Oct 19, said the National Environment Agency (NEA). Rain is forecast over Singapore and the surrounding region on Oct 19, while winds are expected to blow from the south-south-east or south, which may limit the transport of smoke haze from Kalimantan to Singapore, the agency said in its daily haze advisory in the evening of Oct 18. However, some smoke haze from Sumatra may drift towards Singapore, NEA added. The haze situation may also improve on Oct 20, although it could worsen overnight into Oct 21. This is because the transport of smoke haze from Kalimantan to...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1413
+  },
   "5c4719c8166fdba5ba4efdfd94a15138a41cef30b844f247f5e2d166252bb80a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -34067,6 +34235,30 @@
       "fraud"
     ],
     "word_count": 3810
+  },
+  "5dc475ca277af6c2b5ae25a376cd29857a9af315bdabf4efb38a26420fc47af7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 15, 2026 Ultra-low latency live with WebRTC is now Generally Available in Stream Stream Copy as Markdown | View as Markdown | Agent setup Stream WebRTC support \u00e2\u0086\u0097\u00ef\u00b8\u008e lets you deliver high quality live video to thousands of concurrent viewers in milliseconds. WebRTC is compatible with native Web APIs and standard protocols, so creators can go live from a browser \u00e2\u0086\u0097\u00ef\u00b8\u008e without needing a separate broadcast application. This powers platforms to build custom experiences with deep feature integration for creators as well as viewers. Here's how to get started with a Stream live input and a browser. Usage-based billing for WebRTC begins today, October 15, 2026 and follows the standard rates for minutes of video delivered. Refer to pricing \u00e2\u0086\u0097\u00ef\u00b8\u008e for rates. What changed While in beta, Stream\u00e2\u0080\u0099s WebRTC support was rebuilt from the ground up to leverage Cloudflare Realtime \u00e2\u0086\u0097\u00ef\u00b8\u008e \u00e2\u0080\u0099s primitives for stability and scale while managing these components in Stream\u00e2\u0080\u0099s familiar, unified API that makes it easy to build. We also adopted the latest WHIP and WHEP protocol standards for Trickle ICE, server and client offer modes, and counter-offer support for improved player library compatibility and network traversal adaptability. Finally, WebRTC delivery will now be visible in Stream\u00e2\u0080\u0099s analytics \u00e2\u0086\u0097\u00ef\u00b8\u008e and billable usage charts. How...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1512
   },
   "5e08b33b0ff13e5e0c2180dab5204e05d3860ff7d58eb77b0531d14377d82d8f": {
     "access_status": "available",
@@ -41356,6 +41548,37 @@
     "weak_generic_terms_found": [],
     "word_count": 879
   },
+  "7259ec8a6b2e6d8210b7527cb02241c23d0d528c06bfc9e6a71c81ebfdf24a78": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "725aaa145a309ff5d1a02b6a82f1bd793fef0f9ea174338fa17e2bc50a9ea42d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -43485,6 +43708,35 @@
     "weak_generic_terms_found": [],
     "word_count": 1963
   },
+  "77fd0e2ef56fed620bb394331c5af79627d41e24ea0599fdfb444dd05accdfac": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Protective DNS for governments Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Protective DNS services are security services that analyze DNS queries and block access to malicious websites and other harmful online content. As technology becomes increasingly vital for public sector operations, government departments are looking to adopt these cybersecurity services to bolster incident detection and response, and to build more resilient enterprise networks. Traditionally, deploying this type of solution posed significant challenges due to the reliance on legacy systems that required costly on-premises hardware. This makes it difficult to deploy and manage, and introduces post-deployment struggles with scalability and availability. Today, these limitations can be addressed through cloud-based solutions like Cloudflare Gateway , our Secure Web Gateway service. Cloudflare Gateway's DNS filtering capabilities allow administrators to offer enhanced security. With easy-to-create policies backed by Cloudflare's extensive threat intelligence \u00e2\u0086\u0097\u00ef\u00b8\u008e , government agencies can effectively safeguard their end users from accessing potentially harmful domains . Additionally, agencies can further strengthen these defenses by integrating their own threat intelligence data \u00e2\u0086\u0097\u00ef\u00b8\u008e into the policies. Finally, Cloudflare Gateway eliminates concerns around...",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "malware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 4855
+  },
   "7809bd8e72b0d7abdc471e20db57354c577ba96e914bff3bfd9ce0c4eb6557c8": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -44362,6 +44614,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2839
+  },
+  "7a3fdbf28f8a5da756a23058770f4c8d29d81d49d2c6b71fe433a73ae46ed8ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Signup for our newsletter Subscribe to our daily briefing newsletter to receive the latest headlines from The Sun, delivered to your inbox. Gold bar scam targeting N.Y. seniors",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 29
   },
   "7a49dd8be25bcb30771d741a12d5876d36ced13137d971b74d063631a66bda1d": {
     "access_status": "available",
@@ -58924,9 +59208,9 @@
   "a0fc3f99bb503085f81ed1e836e2309d1d4e42532e5c99913014efa93ce1d8cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Oct 1, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
+    "article_excerpt": "Pricing Last updated Oct 15, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
     "cache_version": 10,
-    "checked_at": "2026-10-03T05:13:29+00:00",
+    "checked_at": "2026-10-19T04:34:20+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -58943,7 +59227,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 4280
+    "word_count": 4364
   },
   "a1221e491fd2cbcab727bbb9dd1f08d8a8af54ab90b9bd5987f5c81851272591": {
     "access_status": "available",
@@ -71393,6 +71677,30 @@
     ],
     "word_count": 1115
   },
+  "c0dc5d7a3bfd2c063a8988f38a526e4e3ac3d0da7d69834403618818963dd89d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US V-P Vance blames immigration, problems of \u2018assimilation\u2019 for violence in France Sign up now: Get ST's newsletters delivered to your inbox Major protests gripped France on Oct 17, where the police clashed with demonstrators as nationwide marches against soaring inflation devolved into street violence, widespread looting and fires. PHOTO: REUTERS Published Oct 18, 2026, 11:30 AM Updated Oct 18, 2026, 01:27 PM Set as preferred source Listen Summarise J.D. Vance blamed immigration and weak \u201cassimilation\u201d for violence in France, after sharing a video of the Limoges city hall fire on X. He said Western liberals had \u201cimported the third world\u201d and warned France could lose more landmarks if it did not stop the unrest. Vance linked the French protests to US politics, saying Americans should see \u201cthe future congressional Democrats seek\u201d before the Nov 3 midterm races. AI generated WASHINGTON \u2013 US Vice-President J.D. Vance put up a post on X on Oct 17 blaming immigration for violence during protests in France, while sharing a video showing the city hall in Limoges on fire. \u201cWestern liberals imported the third world into France and other countries in the name of diversity and compassion. They ignored fundamental questions of assimilation and compatibility. They were told it would lead to this and they didn\u2019t listen,\u201d Vance wrote on X.",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1131
+  },
   "c10cdfcb0b3a6cf5beeefb9e3cb02faef30311696ee9a4062148e374a255655f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -72451,6 +72759,38 @@
       "fraud"
     ],
     "word_count": 1360
+  },
+  "c437817af4e24bee344dbe91b40f6991f1668ba73db30e38d2d3d10056a0c92b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "403 Forbidden",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:18+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 2
   },
   "c4412ecf1b16be789e03569603cc391c76099dfcd6eb738faedc911102259edd": {
     "access_status": "available",
@@ -79931,6 +80271,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "d8bb9e13d8acc50c6550a72551e5e0b3eab7094ac7f8e3d6471c0259dfbf48e2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 15, 2026 Pipecat PhoneLLM Mini now available on Workers AI Workers AI Realtime Copy as Markdown | View as Markdown | Agent setup @cf/daily-co/phonellm-mini-alpha-2 , a model from the Pipecat \u00e2\u0086\u0097\u00ef\u00b8\u008e team at Daily, is now available on Workers AI . PhoneLLM is built for voice agents and other realtime AI applications, where a model has to reply quickly and call the right tool mid-conversation. In a voice agent, the language model sits between speech-to-text and text-to-speech, so every second it takes adds to the caller's wait. Developers usually choose between a fast model without reasoning mode, which can miss instructions or tool calls, and a slower model in reasoning mode, which handles both well. Pipecat post-trained NVIDIA Nemotron 3 Nano 30B on phone and customer support scenarios so PhoneLLM follows instructions and calls tools better without reasoning mode. You can use PhoneLLM through the Workers AI binding ( env.AI.run() ) or the REST API at /ai/run . Pipecat recommends temperature: 0 . Also set chat_template_kwargs: { enable_thinking: false } . Run a voice agent with Pipecat on Workers Pipecat \u00e2\u0086\u0097\u00ef\u00b8\u008e is an open-source Python framework for building voice agents. Now that Python Workers are generally available, you can run a Pipecat voice agent on Cloudflare.",
+    "cache_version": 10,
+    "checked_at": "2026-10-19T04:34:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 788
   },
   "d8c0ebd4bd47f75256639256f163e3170aaa95afd9129fca304677ab375e85c0": {
     "access_status": "available",
