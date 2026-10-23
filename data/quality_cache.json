@@ -2507,6 +2507,42 @@
     ],
     "word_count": 3534
   },
+  "07153e7588ed0dd54bc2fbb6dd33e3b7cd593258213b721b9af584410cdfa833": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "072074f8b19e2f0b89954be0fa7ed8acbfb07bb664f7e8f3a63b7febad27c8f9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -4428,7 +4464,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. Hany Farid, professor in Computer Science at Dartmouth College, Sophie Nightingale, a senior lecturer in psychology at Lancaster University, and Lancaster\u2019s Sarah Morgan, who acts as the project coordinator on Nightingale\u2019s \u201cProtecting Ordinary People from Deepfake Harms\u201d fellowship published their paper, \u201cThe Backbone of Abuse: How Infrastructure Providers Enable the Proliferation of...",
     "cache_version": 10,
-    "checked_at": "2026-10-16T04:25:27+00:00",
+    "checked_at": "2026-10-23T04:42:45+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -4789,6 +4825,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1556
   },
+  "0d6008af9c6723ef338fb034f99df950bcb3f8d9f14291efbca713f5437af3e2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "The next financial crisis could start with an algorithm With AI becoming embedded in financial institutions, there is a risk that a faulty model could trigger a chain reaction across banks and borders. Sign up now: Get ST's newsletters delivered to your inbox Central banks and financial regulators increasingly acknowledge that innovation must be accompanied by transparency and accountability, says the writer. ST PHOTO: LIM YAOHUI Hari Suciono Published Oct 23, 2026, 10:00 AM Updated Oct 23, 2026, 10:00 AM Set as preferred source Unlock audio Financial crises have long spread through familiar channels: excessive leverage, fragile balance sheets, liquidity shortages and sudden shifts in market sentiment. The 1997 Asian financial crisis and the 2008 global financial crisis demonstrated how instability in one segment of the financial system can rapidly spread across institutions, markets and borders. Today, however, a new source of contagion is emerging. As artificial intelligence becomes deeply embedded in modern finance, future instability may spread not through banks alone, but through algorithms. AI is no longer a futuristic concept in finance . Banks, asset managers, payment providers and fintech companies increasingly rely on it for credit assessment, fraud detection, customer service, investment decisions and risk management. According to the International Monetary Fund, AI...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 807
+  },
   "0d8d8645c2a0a35101841aebda118145b0392b07665deb31b4f374eb22742cc8": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -5074,7 +5136,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Posterior Regimes and Latent Deception: Variational Bayesian Inference in Hidden Markov Models for Sequential Fraud Detection in Financial Transactions Joseph Uririoghene Obukofe Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Anthony O\u2019Hare Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Chioma Sandra Dike Affiliation: University of Nottingham, Nottingham, NG7 2RD, United Kingdom ouj00003@students.stir.ac.uk, anthony.ohare@stir.ac.uk, msxcd20@nottingham.ac.uk Abstract We present a three-tier progression of Hidden Markov Models: maximum-likelihood (Baum-Welch), variational Bayesian (VBEM), and a neural variational extension (Neural VBEM), that model each customer\u2019s transaction history as a trajectory through a small number of latent behavioural regimes, one of which is empirically identified as fraud-associated. The Neural VBEM HMM replaces the fixed Gaussian-multinomial emission family with a learned encoder, compressing a 741-dimensional transaction representation into a 64-dimensional latent space in which the VBEM HMM\u2019s posterior operates; a UMAP projection of this space reveals that the discovered regimes are not discrete clusters but...",
     "cache_version": 10,
-    "checked_at": "2026-10-16T04:25:32+00:00",
+    "checked_at": "2026-10-23T04:42:48+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -12886,6 +12948,40 @@
     "weak_generic_terms_found": [],
     "word_count": 1209
   },
+  "22a35bbdf472a080d7789b43bc84002d6a799f9a51368e75580f32d8d15e475e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet Sign up now: Get ST's newsletters delivered to your inbox The PHP programming language helps run about 70% of the world\u2019s websites, from online stores and news outlets to government services. PHOTO: REUTERS Published Oct 22, 2026, 05:06 PM Updated Oct 22, 2026, 09:38 PM Set as preferred source Listen Summarise AI found two critical PHP flaws that can let hackers enter servers without a username or password. PHP runs about 70% of the world\u2019s websites. Governments, companies and groups like Wikipedia took sites offline or rushed patches after the fix on Oct 21. The US National Security Agency and others urged immediate updates or shutdowns. Experts called it a major security crisis, with OpenAI saying it marks \u201ca new phase\u201d for using AI to find software flaws. Some sites may stay vulnerable for days or months, raising phishing and malware risks. AI generated WASHINGTON \u2013 Governments and companies around the world shut down websites as they raced on Oct 22 to protect themselves from hacks after artificial intelligence uncovered critical flaws in a widely used programming language called PHP . PHP helps run about 70% of the world\u2019s websites, from online stores and news outlets to government services, according to Wiz Research, one of the cybersecurity firms that found the two flaws. Created in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "malware"
+    ],
+    "word_count": 3149
+  },
   "22a53ad47ac7c1b875e69fcf99c0542dfdcb5038e06521f46e4946afff513f08": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -15454,6 +15550,39 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4214
+  },
+  "29957b621421daa842854f7eac6e730bb73c556ae0012b1305989bbc44762fb5": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Government websites go dark after AI-discovered flaw sparks security scramble Sign up now: Get ST's newsletters delivered to your inbox Flaws in the PHP programming language may allow attackers to execute code on affected servers, cybersecurity officials say. PHOTO: REUTERS Published Oct 21, 2026, 06:26 PM Updated Oct 22, 2026, 08:48 AM Set as preferred source Listen Summarise Government websites in Europe went offline after PHP flaws were found with AI. Officials urged users to update immediately or shut sites down. PHP powers much of the web, including WordPress, Drupal and Joomla. Experts warned the issue could affect millions of servers and cause a \u201crace to exploit\u201d. Several bodies, including the Dutch cyber agency, Wikipedia and the Internet Archive, took systems offline. Patch work is urgent because some hackers may already be exploiting the bug. AI generated BRUSSELS \u2013 Government websites in Europe and elsewhere went offline on Oct 21 after the disclosure of critical vulnerabilities in a widely used programming language sent website operators around the world scrambling to protect their systems. Developers of the PHP programming language on Oct 21 released urgent new fixes to vulnerabilities that had quietly been lurking in their software for years until they were uncovered using AI, saying that all users were \u201cencouraged to update immediately.\u201d With tech firms warning...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 3573
   },
   "299d004e4a75add86d91926a0cd175ffd6db6a59904a00c786e0ae51030762c0": {
     "access_status": "available",
@@ -20968,6 +21097,49 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 127
+  },
+  "39314639bfea51cd51f06dd59a9c2ec049280b2308f3912a1fdc47f689dfa23a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In Your Opinion Podcast Inside the Nanning Ponzi scheme: Why smart people get scammed Sign up now: Get ST's newsletters delivered to your inbox A behavioural scientist unpacks the dark psychology of why smart people fall for the Nanning pyramid scheme. Lynda Hong Published Oct 21, 2026, 06:00 PM Updated Oct 21, 2026, 06:00 PM Set as preferred source Listen Synopsis: Conversations and interviews that give you something to think about. Each Wednesday, In Your Opinion speaks to thinkers, leaders, and the people shaping our lives and the issues of the day. We often hear this saying: \u201cIf it sounds too good to be true, it probably is.\u201d Yet, 52 Singaporeans were recently arrested in China over the notorious Nanning pyramid scheme. So why do highly educated, financially literate people continue to fall for frauds that seem so obvious from the outside? In this episode of In Your Opinion, Lynda Hong sits down with Dr Serene Koh, director of the Behavioural Insights Team (BIT) in Singapore, to deconstruct the dark psychology behind massive investment scams. Moving past the surface-level blame of describing victims as greedy and gullible, Dr Koh explains how sophisticated syndicates architect fake realities, weaponise our closest family networks, and use our own intelligence against us. Highlights (click/tap above): 00:52 Why behavioural science is the key to understanding scam victims...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1455
   },
   "394683925cff0bd70d9fa80f2d048268d1f27006f2b1028a0b6e544021cca532": {
     "access_status": "available",
@@ -26813,9 +26985,9 @@
   "47ba55e69e758dbc89cc775384529b9e0db6917d1ab90eef8776ae532bb8b71d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "\u2018Mixed feelings\u2019: AI cracks centuries-old ciphers Sign up now: Get insights on Asia's fast-moving developments AI is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d. PHOTO: REUTERS Published Oct 16, 2026, 11:45 AM Updated Oct 16, 2026, 11:45 AM Set as preferred source Summarise AI is changing historical research by cracking old ciphers fast. Carter Church used OpenAI\u2019s GPT-6 Astra to solve a 1809 Napoleon-era code in six hours. Amateur and professional code-breakers say AI is a \u201cturning point\u201d, but some feel \u201cmixed feelings\u201d as long-unsolved puzzles are now solved too easily. AI is also helping read fragile or huge archives, including Herculaneum scrolls, 10 million Hebrew pages, and 14,600 Latin pages from Notre Dame, opening new research paths. AI generated TOKYO \u2013 Napoleon Bonaparte ordered the wartime missive written in code, creating a puzzle that went unsolved for more than 200 years \u2013 until AI cracked it in a matter of hours. Artificial intelligence is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d in a field previously the preserve of scholars and dedicated hobbyists. One new sleuth is Carter Church, a 27-year-old AI engineer who decrypted a 19th-century letter to one of Napoleon\u2019s generals. Without digital tools, the task could have taken weeks, but the...",
+    "article_excerpt": "\u2018Mixed feelings\u2019: AI cracks centuries-old ciphers Sign up now: Get insights on Asia's fast-moving developments Artificial intelligence is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d. PHOTO: REUTERS Published Oct 16, 2026, 11:45 AM Updated Oct 16, 2026, 01:39 PM Set as preferred source Listen Summarise AI is changing historical research by cracking old ciphers fast. Carter Church used OpenAI\u2019s GPT-6 Astra to solve a 1809 Napoleon-era code in six hours. Amateur and professional code-breakers say AI is a \u201cturning point\u201d, but some feel \u201cmixed feelings\u201d as long-unsolved puzzles are now solved too easily. AI is also helping read fragile or huge archives, including Herculaneum scrolls, 10 million Hebrew pages, and 14,600 Latin pages from Notre Dame, opening new research paths. AI generated TOKYO \u2013 Napoleon Bonaparte ordered the wartime missive written in code, creating a puzzle that went unsolved for more than 200 years \u2013 until AI cracked it in a matter of hours. Artificial intelligence is helping non-specialists unlock the secrets of historical sources, a trend described as a \u201cturning point\u201d in a field previously the preserve of scholars and dedicated hobbyists. One new sleuth is Carter Church, a 27-year-old AI engineer who decrypted a 19th-century letter to one of Napoleon\u2019s generals. Without digital tools, the task could...",
     "cache_version": 10,
-    "checked_at": "2026-10-16T04:25:29+00:00",
+    "checked_at": "2026-10-23T04:42:47+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -26834,7 +27006,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 2700
+    "word_count": 2708
   },
   "47ce5dfb842ca93249169bcea0b993771a7c5aec54129ca6877d1ef7b0d5d11a": {
     "access_status": "available",
@@ -27981,6 +28153,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "4a54a8ef040dce6da8360243e04fbca7f5c25d7d339308c633c6b47812f0424c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "4a54f7ed9060d0c2a1467015ef685641fe8648085e8bd0980283d674ec284766": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28855,7 +29051,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Dubbing the attacks \u201cAdFection,\u201d the researchers documented a campaign in which an Israeli-registered advertising firm allegedly connected to the servers linked to a spyware company and infected dozens of devices with its invasive malware. Citizen Lab believes this to be the first detailed technical evidence made publicly available of sophisticated spyware infecting devices via digital ads. Zero-click hacks are a holy grail for attackers and catastrophic for victims, because they can automatically install malware on devices without requiring any interaction or missteps from the target. When sophisticated hackers have deployed rare zero-click attacks in recent years, they have often exploited vulnerabilities in mobile messaging and communication apps to infect victims. But attackers have also exploited the sprawling infrastructure of the online ad ecosystem to distribute malware, sometimes with little or no interaction needed from victims. Evidence of the zero-click spyware campaign that Citizen Lab\u2019s researchers uncovered shows the two threats merging, underscoring the extent and urgency of the risk. \u201cAdFection allows operators to automatically hack specific individuals with mercenary spyware as they use apps or browse the internet,\u201d says Bill Marczak, a senior researcher at Citizen Lab. \u201cSomeone who gets hacked like this would not see anything amiss. In fact, they might not...",
     "cache_version": 10,
-    "checked_at": "2026-10-16T04:25:28+00:00",
+    "checked_at": "2026-10-23T04:42:46+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -28877,7 +29073,7 @@
       "malware",
       "trust"
     ],
-    "word_count": 3790
+    "word_count": 3809
   },
   "4c6383ab8b55c92d365471fa1d5458a308724aeb656f7fbe55e0469519ed5e8b": {
     "access_status": "available",
@@ -31267,6 +31463,54 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "5305fc6eb1c792abc9215db202052e97e2445b3d42df1eac3efb2c989a2a7f1b": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A scam operation that was raided during Operation Serengeti III, an African cybercrime crackdown coordinated by Interpol. Credit: Interpol Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of an annual crackdown on the gangs perpetrating online fraud, ransomware and business email compromise (BEC) attacks, Interpol announced Thursday. The law enforcement operation, dubbed Serengeti III, was said to have disrupted more than 10,000 malicious computer networks and recovered more than $105 million in illicit funds. Just under 66,000 victims were identified, with cumulative losses exceeding $385 million. Previous operations in 2024 and 2025 tackled gangs also associated with millions in global losses. Twenty African countries took part in the operation, alongside the United States, with Interpol providing investigators with intelligence regarding suspicious domains, IP addresses and command-and-control servers that were tied to criminal activity. The largest number of arrests Interpol detailed came in Uganda, where law enforcement was described as dismantling two transnational fraud rings and arresting 365 foreign nationals. Local media described some arrests in the country of individuals \"mainly originating from Asia,\" although no specific nationalities were given....",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "fraud ring",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "fraud ring",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "scam compound",
+      "fraud ring",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "ransomware",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 2297
+  },
   "532f35c2d13c9b85e8e0404a00f5509f3295f9c9699c1e845f2d2f1d9a8f81ba": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31845,6 +32089,60 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "548689ef37fe51466096e638fcb70cf175b236898889018dfad1ab898af3c1d6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Game of Phones: Harnessing Game Theory and LLMs in \u2018Bot Wars\u2019 to Counteract Phone Scams Nardine Basta (\u2709) Robin Carpentier Benjamin Zi Hao Zhao Dali Kaafar Affiliation: Macquarie University, NSW, Australia E-mail nardine.basta@mq.edu.au Abstract Phone scams impose substantial and growing costs on individuals and financial systems worldwide, yet existing countermeasures impose no resource cost on perpetrators. Strategic scam-baiting, in which automated agents engage scammers to deplete their operational capacity, offers a proactive alternative but requires dynamic strategy adaptation that static systems cannot provide. We introduce a game-theoretic framework enabling LLMs to learn effective counter-strategies through in-context experience without fine-tuning. The framework models scammer-baiter interactions as a two-player game with empirically grounded strategies and utility functions, using Nash equilibrium as a formal benchmark for evaluating learned behaviour. Across 300 simulated dialogues and three LLM architectures, adaptive strategy selection achieves 28.9--79.7% closer alignment to Nash equilibrium than non-adaptive baselines.The code and an annotated dataset of 300 dialogues with turn-level strategy labels and utility scores are released 1 1 1 Code and dataset are available at github.com/nardinebasta/GameofPhones_/ ....",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [
+      "caller id spoofing",
+      "robocall"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "phone scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 16081
   },
   "548d2e008e1505d3e4474ee57894b3f9d2990878d8919779e2f3bbeb2b618720": {
     "access_status": "available",
@@ -36154,6 +36452,30 @@
       "trust"
     ],
     "word_count": 8028
+  },
+  "6064491070d5309f3507246f3657a0d7a3ba7083545b7cc9cc74368a7bc6b244": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump ordered to sit for deposition in his US$10 billion BBC lawsuit, AP reports Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump is suing Britain\u2019s publicly funded broadcaster for defamation over a speech clip that was misleadingly edited. PHOTO: EPA Published Oct 23, 2026, 12:41 AM Updated Oct 23, 2026, 06:55 AM Set as preferred source Listen Summarise A federal judge ordered Donald Trump to sit for a deposition by 11 December in his US$10 billion BBC defamation case, after the BBC said he was stalling. Trump says the BBC misled viewers by splicing his 6 January 2021 speech, while the BBC admitted the edits were misleading and apologised, but denied defamation. The BBC is seeking financial records from Mar-a-Lago and Trump-linked firms, as the case follows a Panorama bias row that caused resignations and public backlash. AI generated MIAMI - A federal judge on Oct 22 ordered Donald Trump to sit for a deposition by Dec 11 in his US$10 billion (S$12.7 billion) defamation lawsuit against the BBC, which has accused the US president of stalling to avoid answering questions under oath, the Associated Press reported. Trump is suing Britain\u2019s publicly funded broadcaster for at least US$10 billion over a misleadingly edited clip of a speech. The case is one of several Trump has privately filed against the news media as part of wider pressure...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1614
   },
   "607497ef083b6251c6dd18b1eed2daabc97e6e134ee84f01002d913e3c251c5b": {
     "access_status": "available",
@@ -43783,9 +44105,9 @@
   "753ebfeb30f3fc70d076a5e4a12fd93bcafff876efd18551a71db291d0361f52": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in detection and reviews major CNN...",
+    "article_excerpt": "Press Enter to search \u00b7 Advanced search Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in...",
     "cache_version": 10,
-    "checked_at": "2026-10-16T04:25:29+00:00",
+    "checked_at": "2026-10-23T04:42:47+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -43816,7 +44138,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 803
+    "word_count": 814
   },
   "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
     "access_status": "available",
@@ -57724,6 +58046,44 @@
     ],
     "word_count": 3050
   },
+  "9817b83fd20b527d315586544d9c410bc3caab83cd6a3e27342ad7ab616160a7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A laptop keyboard, a banknote, a wallet and Cash App logo displayed on a phone screen are seen in this illustration photo taken in Krakow, Poland on October 23, 2024. (Photo by Jakub Porzycki/NurPhoto via AP) GM! We have a few bangers for you today. First: Can you imagine sitting in jail for days without knowing why, and then finding out that it's because someone hacked CashApp to impersonate you? I would be kind of mad! And elsewhere on 404 this morning, we have some prescient thoughts from an autonomous weapons expert on the state of AI in war, what's going on with cybersecurity experts in the wake of the PHPocalypse, and more insights into how cops view anti-Flock activists. Let's get into it. IMAGE: SPUMONI COOPERATIVE FOR 404 MEDIA Someone Opened a CashApp In Her Name. She Faces Years in Prison Amanda Smith answered the door one afternoon in April and came face to face with the local Sheriff\u2019s department in upstate Pennsylvania. The officers said they had a warrant for her arrest for a crime she had allegedly committed more than a thousand miles away in Arkansas.",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 2029
+  },
   "98387ec7ce14786d120883b69864431a677094d721e805c2b262e7749d4a1f0c": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -60728,6 +61088,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2824
   },
+  "a0baec415fe542c6a788866cca7bc119f36b1b894987fdd09fceebacb1a77e87": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Second haze mask distribution from Oct 23; those eligible include Singaporeans aged 60 and above Sign up now: Get ST's newsletters delivered to your inbox Minister for Sustainability and the Environment Grace Fu said on Oct 22 that those aged 60 and above can collect the set of two masks in this exercise. ST PHOTO: JASON QUAH Ang Qing and Shabana Begum Published Oct 22, 2026, 02:00 PM Updated Oct 23, 2026, 09:25 AM Set as preferred source Listen Summarise Singapore will start a second N95 mask giveaway for vulnerable Singaporeans on Oct 23, expanding the eligibility list to include those aged 60 and above. Minister for Sustainability and the Environment Grace Fu urged people to collect masks early before air pollution returns. About 22% of eligible Singaporeans have collected masks so far. The government says masks are still available, and it is helping retailers restock. AI generated SINGAPORE \u2013 A second haze mask distribution exercise will begin on Oct 23, with more Singaporeans eligible to collect them from community clubs, dedicated vending machines and other venues. Minister for Sustainability and the Environment Grace Fu said on Oct 22 that those aged 60 and above can collect two masks each in this exercise. Previously, only those aged 67 and above were eligible. She said: \u201cSo we have been heeding the feedback from the public. Some of the seniors who are above 60, but...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3635
+  },
   "a0d3945b61f790b22e8483c74f4274c4e784a9a390428cdc6f72b5378b71b838": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62387,6 +62771,34 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1350
+  },
+  "a4539ea0fb8720fc26562a6c85f1902ffa6c047fed3569875b66da343b0e4a32": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Taiwan security agency flags rise in Chinese disinformation ahead of local elections Sign up now: Get insights on Asia's fast-moving developments Chinese cyberattacks on Taiwanese government agencies averaged 2.58 million a day in the first nine months of 2026, data from Taiwan\u2019s National Security Bureau showed. PHOTO: EPA Published Oct 21, 2026, 10:51 AM Updated Oct 21, 2026, 03:28 PM Set as preferred source Listen Summarise Taiwan\u2019s National Security Bureau said China spread more than 2.5 million false or disputed items in the first nine months of 2026, up 48%, ahead of local elections. The bureau said the campaign targeted energy, food security, defence policy and candidates, using AI, fake accounts, troll armies and social media to sway voters. Taiwan also reported heavy cyberattacks, averaging 2.58 million a day, and warned this may be preparation to interfere in the year-end \u201cnine-in-one\u201d elections. AI generated TAIPEI \u2013 China spread more than 2.5 million pieces of disputed or false online information targeting Taiwan in the first nine months of 2026 , the island\u2019s top intelligence agency said, accusing Beijing of stepping up operations ahead of local elections. In a report to lawmakers this week, Taiwan\u2019s National Security Bureau said such information rose by about 48% in the first nine months of 2026 to more than 2.5 million items from more than 1.69 million a year...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "fake accounts"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": 1760
   },
   "a4882f4a84fa624bd1260d77b5bcc091b557d94397b55a68dec6bbabc7e02104": {
     "access_status": "available",
@@ -66435,6 +66847,46 @@
     ],
     "word_count": 16677
   },
+  "adf5f168c7122fb988233729361ef3f845311bbf6aff593c6ca798fb54dae6c4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Anti-scam action sees US$1b in Cambodia\u2019s Prince Group assets frozen; 29 Interpol notices sought Sign up now: Get insights on Asia's fast-moving developments The Cambodian authorities have initiated procedures to request Interpol Red Notices for at least 29 other individuals who have fled overseas. ST PHOTO: MARK CHEONG Published Oct 22, 2026, 06:15 PM Updated Oct 22, 2026, 09:18 PM Set as preferred source Listen Summarise Cambodia has frozen nearly US$1 billion in Prince Group assets and sought INTERPOL help for 29 suspects in a widening fraud and money laundering probe. Investigators linked 198 companies to Prince Group and named founder Chen Zhi and associates as key suspects. Courts issued 32 arrest warrants and froze over US$300 million in bank funds. The crackdown targets online scam networks, casinos and money laundering. Cambodia says it will keep working with the FBI, China and other partners to stop transnational crime. AI generated The Cambodian authorities announced that they have frozen assets worth almost US$1 billion (S$1.28 billion) linked to Prince Group, while seeking assistance from Interpol to locate 29 alleged ringleaders who have fled abroad in connection with ongoing investigations into technology-based fraud and money laundering. Senior Minister Chhay Sinarith, permanent vice-chairman and head of the secretariat of Cambodia\u2019s Commission for Combating...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3196
+  },
   "ae365871746c3021e17fb68babe8159f7dbc2a97c9979c1a24bb5d7308cec9b7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -66714,6 +67166,35 @@
     ],
     "word_count": 24015
   },
+  "af359c3c1203d019bc16e65aaa40ac4d00a2c6522fb8cd10d72c18d804f434df": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: What Breaks in Multi-Image Schema Application? Factorial Oracle Interventions Reveal an Instance-Information Bottleneck Yiliu Xu * Affiliation: Carnegie Mellon University Pittsburgh, United States yiliux@alumni.cmu.edu Xinjin Li * Affiliation: Columbia University New York, United States li.xinjin@columbia.edu Yu Ma Affiliation: Carnegie Mellon University Pittsburgh, United States yuma13926@gmail.com Abstract Modern vision-language models can accept multi-image contexts, but aggregate accuracy rarely reveals where a multi-image reasoning pipeline fails. We study a controlled schema-application task in which a model must locate two target characters in a 16-image sequence, identify their visual attributes, consult an item-specific visual codebook, and compose two ordered nonce code names. We introduce a within-item 2 \u00d7 2 2\\times 2 factorial Oracle design: Oracle-A supplies a verified textual schema, Oracle-B supplies a verified ordered target-appearance representation, and both interventions retain the original images and final question. Across 72 new items and 1,188 analyzed model responses, Oracle-B increased strict exact accuracy by 54.6 percentage points (95% confidence interval: 46.3\u201363.0) and outperformed Oracle-A by 60.6 points ( p Holm \u2264 .0002 p_{\\mathrm{Holm}}\\leq.0002 ). An auxiliary retrieval diagnostic reached only...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "institution_domain:cmu.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 10562
+  },
   "af46e4125ec90a277cb4d617f889a3105a3c53e51b073545bf4d82c0f5ae201d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -66898,6 +67379,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3169
+  },
+  "afadbdc4d11cb1583ea85dc2dc51ba00e636eaaeb7b5eb7c78f45ab612cf4fc5": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Another is friends with a Covid-denying former boxer turned MAGA influencer who was filmed on the steps of the Capitol on January 6, 2021 shouting \u201c1776.\u201d Another was set to headline a rally with MyPillow founder and election denial funder Mike Lindell . This is not a list of edgy MAGA influencers sharing hot takes on X, or podcast hosts on Rumble boosting wild conspiracy theories. No, this is a list of some of the Republican candidates running for attorney general in states across the US. A WIRED review has identified a slate of GOP attorney general candidates in more than half a dozen states, including key swing states, who have repeatedly expressed their belief that the 2020 election was stolen. If elected, several have said, they are willing to relitigate 2020 once again\u2014and all will potentially play a key role in the 2028 presidential election. \u201cAny attorney general should be dedicated to upholding the rule of law,\u201d Christina Beeler, senior counsel for the Chicago Lawyers\u2019 Committee for Civil Rights, tells WIRED. \u201cThe office of attorney general is a powerful office, and it is deeply important that anyone in that role is dedicated to upholding the rule of law and the results of elections.\u201d The role of attorney general in the administration and protection of elections differs from state to state, but in general, as their state\u2019s chief legal officer they are required to be a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 4181
   },
   "afcfa94275908c81fd2f82998ea43022a756ac148b39f9420547b5ede59f21d5": {
     "access_status": "available",
@@ -78570,6 +79077,30 @@
     ],
     "word_count": 0
   },
+  "cf4109f73d723d5b4fabaabebe27343c90da81202d4a5da1dff087d3a75a2209": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Software upgrades eat nearly a third of companies\u2019 IT budgets, survey finds Sign up now: Get ST's newsletters delivered to your inbox Vendor-driven upgrades can add costs and operational risks for information technology companies in the AI race. PHOTO: REUTERS Published Oct 20, 2026, 01:30 PM Updated Oct 20, 2026, 06:23 PM Set as preferred source Listen Summarise A survey by Origina found large US and British firms spend 28% of software budgets on vendor-driven upgrades, migrations and licence changes they did not choose. The study said 95% paid for upgrades they expected to worsen results, while 80% feared leaving a major vendor would disrupt business. Companies also lost time and money: 84% of senior engineers worked on forced changes, and the latest change cost US$12.87 million a year on average. AI generated Large US and British companies spend 28% of their software budgets on average to pay for vendor-driven upgrades, migration and licensing changes they would not have actively chosen, adding avoidable costs and operational risks in the race to adopt artificial-intelligence solutions, a survey by software maintenance provider Origina showed on Oct 20 . These hard-to-avoid recurring costs and operational disruptions were described as a \u201csoftware tax\u201d in the study that surveyed more than 2,000 companies. \u201cWhen the alternative to an unwanted upgrade is losing support on...",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1171
+  },
   "cf4cd055a1781449bb0695ad5efdd31c807af4c42c80ee0695632dbcf73c6587": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -89619,6 +90150,41 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "ed6ea8c8523c0d40b8425845c3f983182cf420a11ec257299ef67ae83cc66163": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "ed7871e52109cfcc08eaf95eccb90a45d6afd9e8fec069022e333a80d60ad882": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -89687,6 +90253,30 @@
       "fraud"
     ],
     "word_count": 17816
+  },
+  "ed99f286e64a8e3fa94311e6b13f0c25711ad4351a89fef652a6a1bda401b62f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "ed9b408075c480233af80547b897afebbf4b5d880bf40d4ae4f76e2f6d211f08": {
     "access_status": "available",
@@ -91030,7 +91620,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-01T05:46:18+00:00",
+    "checked_at": "2026-10-23T04:42:54+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "investment scam"
@@ -93349,6 +93939,32 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 6856
+  },
+  "f795e99e25942ef0427616bb2b2b9b1f09d80da77f9da9827a1e0e0359c275e3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore security robotics firm Kabam to cease operations on Nov 20 Sign up now: Get ST's newsletters delivered to your inbox Kabam Robotics co-founders Kelvin Wee (left) and Benjamin Chia with their robots which can patrol and inspect facilities such as malls. PHOTO: BT FILE Evan See Published Oct 22, 2026, 02:20 PM Updated Oct 22, 2026, 09:40 PM Set as preferred source Listen Summarise Kabam Robotics, a Singapore security robotics firm, will stop business on Nov 20. It apologised to customers and asked those with open cases to contact it before then. The closure reason was not given. It is unclear how many staff or customers will be affected, though LinkedIn lists 54 employees and the firm has major clients such as Aetos, Certis and Changi Airport Group. Kabam was founded in 2020, later merged with Cognicept Systems, and had more than 150 robots deployed. Its shutdown comes as Singapore pushes to grow its robotics sector through programmes like RoboNexus. AI generated SINGAPORE \u2013 Home-grown security robotics company Kabam Robotics will cease business operations from Nov 20, according to an e-mail sent to its customers. In the e-mail seen by The Business Times, Kabam\u2019s management apologised for any inconvenience caused and thanked customers for their support over the years. \u201cWe sincerely appreciate the trust and support you have placed in Kabam over the years.",
+    "cache_version": 10,
+    "checked_at": "2026-10-23T04:42:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1595
   },
   "f7a9997af7e758bad067fb24b221003365ae0b897680bf2e975091183112036c": {
     "access_status": "available",
