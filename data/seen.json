@@ -126,6 +126,20 @@
       "url": "https://www.404media.co/police-say-scammers-used-ai-to-clone-a-sheriffs-voice/",
       "usefulness_category": "Operational intelligence"
     },
+    "404media.co|2026-10-22|cashapp living nightmare scam woman womans": {
+      "article_type": "Enforcement report",
+      "normalised_title": "woman s living cashapp scam nightmare",
+      "normalized_title_fingerprint": "woman s living cashapp scam nightmare",
+      "original_url": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+      "parsed_date": "2026-10-22",
+      "raw_title": "This Woman's Living a CashApp Scam Nightmare - 404 Media",
+      "same_story_key": "404media.co|2026-10-22|cashapp living nightmare scam woman womans",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "404media.co",
+      "title": "woman s living cashapp scam nightmare",
+      "url": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+      "usefulness_category": "Scam development"
+    },
     "abc.net.au|2026-05-27|000 abc cashback could entitled headlines scam victims": {
       "article_type": "News report",
       "normalised_title": "scam victims could entitled 3 000 cashback abc news headlines",
@@ -2421,6 +2435,20 @@
       "title": "game phones harnessing game theory llms bot wars counteract phone scams",
       "url": "https://arxiv.org/html/2610.26781v1",
       "usefulness_category": "Research / novel method"
+    },
+    "arxiv.org|2026-10-22|adaptive agentphishing agents attack benchmark email llm under": {
+      "article_type": "Research paper",
+      "normalised_title": "agentphishing benchmark llm email agents under adaptive attack",
+      "normalized_title_fingerprint": "agentphishing benchmark llm email agents under adaptive attack",
+      "original_url": "https://arxiv.org/html/2610.31404v1",
+      "parsed_date": "2026-10-22",
+      "raw_title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack - arXiv",
+      "same_story_key": "arxiv.org|2026-10-22|adaptive agentphishing agents attack benchmark email llm under",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "arxiv.org",
+      "title": "agentphishing benchmark llm email agents under adaptive attack",
+      "url": "https://arxiv.org/html/2610.31404v1",
+      "usefulness_category": "Product idea / data source"
     },
     "asahi.com|2026-06-24|against based cambodia cbmivkfvx3lxte9fz2vwwnatewjhd3dsri1mzw9ktgsyrgrysnnwtdhoztazvwrmcdnmnhvkdmfhwxzimnbprnric2ltsy1wz2xvowmxtdgtyvrzafe1qvrn japanese ploys psychology scammers": {
       "article_type": "News report",
@@ -4956,6 +4984,20 @@
       "url": "https://www.straitstimes.com/asia/se-asia/cambodia-wants-to-shed-its-scam-image-but-will-it-go-after-powerful-individuals",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "straitstimes.com|2026-10-21|get inside nanning people ponzi scam scheme smart": {
+      "article_type": "Enforcement report",
+      "normalised_title": "inside nanning ponzi scheme smart people get scammed",
+      "normalized_title_fingerprint": "inside nanning ponzi scheme smart people get scam",
+      "original_url": "https://www.straitstimes.com/singapore/inside-the-nanning-ponzi-scheme-why-smart-people-get-scammed",
+      "parsed_date": "2026-10-21",
+      "raw_title": "Inside the Nanning Ponzi scheme: Why smart people get scammed - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-10-21|get inside nanning people ponzi scam scheme smart",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "inside nanning ponzi scheme smart people get scammed",
+      "url": "https://www.straitstimes.com/singapore/inside-the-nanning-ponzi-scheme-why-smart-people-get-scammed",
+      "usefulness_category": "Scam development"
+    },
     "straitstimes.com|2026-10-22|action anti assets cambodia cambodias frozen group interpol": {
       "article_type": "Enforcement report",
       "normalised_title": "anti scam action sees us 1b cambodia s prince group assets frozen 29 interpol notices sought",
@@ -6557,6 +6599,18 @@
       "source_domain": "dl.acm.org",
       "title": "aftermath technology mediated scams strengthening older adults efforts toward redress",
       "usefulness_category": "Research / novel method"
+    },
+    "agentphishing benchmark llm email agents under adaptive attack": {
+      "article_type": "Research paper",
+      "normalised_title": "agentphishing benchmark llm email agents under adaptive attack",
+      "normalized_title_fingerprint": "agentphishing benchmark llm email agents under adaptive attack",
+      "parsed_date": "2026-10-22",
+      "raw_title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack - arXiv",
+      "same_story_key": "arxiv.org|2026-10-22|adaptive agentphishing agents attack benchmark email llm under",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "arxiv.org",
+      "title": "agentphishing benchmark llm email agents under adaptive attack",
+      "usefulness_category": "Product idea / data source"
     },
     "ai accelerating cyber threats making regional cooperation crucial australian minister": {
       "article_type": "News report",
@@ -8825,6 +8879,18 @@
       "source_domain": "channelnewsasia.com",
       "title": "insane scale close up look scam compounds along cambodia s border vietnam",
       "usefulness_category": "Operational intelligence"
+    },
+    "inside nanning ponzi scheme smart people get scam": {
+      "article_type": "Enforcement report",
+      "normalised_title": "inside nanning ponzi scheme smart people get scammed",
+      "normalized_title_fingerprint": "inside nanning ponzi scheme smart people get scam",
+      "parsed_date": "2026-10-21",
+      "raw_title": "Inside the Nanning Ponzi scheme: Why smart people get scammed - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-10-21|get inside nanning people ponzi scam scheme smart",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "inside nanning ponzi scheme smart people get scammed",
+      "usefulness_category": "Scam development"
     },
     "inside romance scam compound\u2014and people get tricked being there": {
       "article_type": "Investigative report",
@@ -11562,6 +11628,18 @@
       "title": "woman 70 jailed acting money mule man she believed her romantic partner",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "woman s living cashapp scam nightmare": {
+      "article_type": "Enforcement report",
+      "normalised_title": "woman s living cashapp scam nightmare",
+      "normalized_title_fingerprint": "woman s living cashapp scam nightmare",
+      "parsed_date": "2026-10-22",
+      "raw_title": "This Woman's Living a CashApp Scam Nightmare - 404 Media",
+      "same_story_key": "404media.co|2026-10-22|cashapp living nightmare scam woman womans",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "404media.co",
+      "title": "woman s living cashapp scam nightmare",
+      "usefulness_category": "Scam development"
+    },
     "world cup scams flying under radar": {
       "article_type": "Policy / platform update",
       "normalised_title": "world cup scams flying under radar",
@@ -13423,6 +13501,18 @@
       "title": "Cyberscammers are bypassing banks\u2019 security with illicit tools sold on Telegram",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHVvY00zUVZBRWx0V3NqR0NudWMyb21tZ0dXSkxPa0oxXy1aTG5JcktUUGxXVXpmWUJjNFIzMnU0T2txVkZTYkFBeXphdWZPSUJaN3B0VDV3bFpwaDlUOURFalFuR1hRQzctQnc1X0ktV3YwNmxZNzRfcHVEdWRqLTJRSTg4YnBCcng2MTdSY3R4aUpk0gGaAUFVX3lxTE9PNTRoSkJ6Y2oyd0w5eFE5dTJfZGMtc2tVSWlFSzZqTlJjYjRDN3RJbmRxWHVLUFdMMlZPSG9JYXhCMUo0U25ibFFUSHVSMS01ajg0YTZ5bTljemxJcnBjLXZoTEoxR0h4X1pLdDEzaGZVMzJDSG01bHA4NXkyREdvemFJMV9OUmVtMXNtZlZ2SmVhazl5YnlvSUE?oc=5",
       "usefulness_category": "Technical abuse / vulnerability"
+    },
+    "39314639bfea51cd51f06dd59a9c2ec049280b2308f3912a1fdc47f689dfa23a": {
+      "article_type": "Enforcement report",
+      "normalised_title": "inside nanning ponzi scheme smart people get scammed",
+      "normalized_title_fingerprint": "inside nanning ponzi scheme smart people get scam",
+      "parsed_date": "2026-10-21",
+      "same_story_key": "straitstimes.com|2026-10-21|get inside nanning people ponzi scam scheme smart",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Inside the Nanning Ponzi scheme: Why smart people get scammed - The Straits Times",
+      "url": "https://www.straitstimes.com/singapore/inside-the-nanning-ponzi-scheme-why-smart-people-get-scammed",
+      "usefulness_category": "Scam development"
     },
     "39f07d1d0c0ba46799e6383dcab08aa638aac8bc1631fc47831f6d18fd56451f": {
       "article_type": "Research paper",
@@ -16256,6 +16346,18 @@
       "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
       "usefulness_category": "Technical abuse / vulnerability"
     },
+    "9817b83fd20b527d315586544d9c410bc3caab83cd6a3e27342ad7ab616160a7": {
+      "article_type": "Enforcement report",
+      "normalised_title": "woman s living cashapp scam nightmare",
+      "normalized_title_fingerprint": "woman s living cashapp scam nightmare",
+      "parsed_date": "2026-10-22",
+      "same_story_key": "404media.co|2026-10-22|cashapp living nightmare scam woman womans",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "404media.co",
+      "title": "This Woman's Living a CashApp Scam Nightmare - 404 Media",
+      "url": "https://www.404media.co/this-womans-living-a-cashapp-scam-nightmare/",
+      "usefulness_category": "Scam development"
+    },
     "98d2f0f05b129198433b943cf5a519e52d5c05b9a2071469ec3cd927cd2e0101": {
       "article_type": "Research paper",
       "normalised_title": "2605 12243 prescam benchmark predicting scam progression early conversations",
@@ -17059,6 +17161,18 @@
       "title": "Combating Digital Personhood in the Age of Synthetic Identity Crime",
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7377621.pdf?abstractid=7377621&mirid=1&type=2",
       "usefulness_category": "Research / novel method"
+    },
+    "b8b99966aac47bdc42fb10ae725d67cc2f831f6d4e94fbed9b38e9bec0d797ed": {
+      "article_type": "Research paper",
+      "normalised_title": "agentphishing benchmark llm email agents under adaptive attack",
+      "normalized_title_fingerprint": "agentphishing benchmark llm email agents under adaptive attack",
+      "parsed_date": "2026-10-22",
+      "same_story_key": "arxiv.org|2026-10-22|adaptive agentphishing agents attack benchmark email llm under",
+      "sent_at": "2026-10-24T04:31:50+00:00",
+      "source_domain": "arxiv.org",
+      "title": "AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack - arXiv",
+      "url": "https://arxiv.org/html/2610.31404v1",
+      "usefulness_category": "Product idea / data source"
     },
     "b9f31fa9c51da533b41de7a79f9e8af3602fc2c073ad346c241fe297867c908c": {
       "article_type": "Research paper",

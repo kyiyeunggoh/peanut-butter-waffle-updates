@@ -3382,6 +3382,30 @@
     ],
     "word_count": 4912
   },
+  "094178413cae2036498a24104d90caaf2fe0a745ccc332e35d802839cde1a81e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 22, 2026 WAF Release - 2026-10-22 - Emergency - Cloudflare Managed Ruleset WAF Copy as Markdown | View as Markdown | Agent setup This emergency release updates the names and metadata of seven existing rules in the Cloudflare Managed Ruleset to identify CVE-2026-109618 and CVE-2026-109619. Detection logic and rule actions remain unchanged. Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Managed Ruleset ...c438d5dd N/A PHP Remote Code Execution Attack (CVE-2026-109618, CVE-2026-109619) Block N/A Rule metadata description refined. Detection unchanged. Cloudflare Managed Ruleset ...0a0c2f64 N/A PHP Remote Code Execution Attack (CVE-2026-109618, CVE-2026-109619) #2 Block N/A Rule metadata description refined. Detection unchanged. Cloudflare Managed Ruleset ...545d163c N/A PHP Remote Code Execution Attack (CVE-2026-109618, CVE-2026-109619) #3 Block N/A Rule metadata description refined. Detection unchanged. Cloudflare Managed Ruleset ...212afcc9 N/A PHP Remote Code Execution Attack (CVE-2026-109618, CVE-2026-109619) #4 Block N/A Rule metadata description refined. Detection unchanged.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 510
+  },
   "09611b57be56dcd22639f965d8a1e8bf34bea7267d828fb6be57d41c093699c6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -6476,6 +6500,30 @@
     ],
     "word_count": 2043
   },
+  "119a815cedf3e875488e82bd1db72078e6b0fba2f188b279ec2370bde3f9e3c8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Know Your Agent\u2019 will be the new rule of the AI age As autonomous software does more, we need to focus on how to control its behaviour and establish accountability. Sign up now: Get ST's newsletters delivered to your inbox Meta\u2019s recently launched Muse, a personal AI agent that can order groceries and book travel, is proving highly popular. AI agents, says the writer, have no inherent motivation or intent, can be programmed to do good and bad, and can act in inexplicable ways. PHOTO: REUTERS John Thornhill Published Oct 23, 2026, 05:00 PM Updated Oct 23, 2026, 05:00 PM Set as preferred source Unlock audio Move aside KYC, there\u2019s a new acronym in town: KYA. For decades, regulators have forced banks to follow Know Your Customer rules to try to prevent money laundering. But what happens when flesh-and-blood customers turn into inanimate machines? Every individual and business will have to Know Your Agent. See more on AI/artificial intelligence Technology sector Artificial Intelligence \u2018Know Your Agent\u2019 will be the new rule of the AI age As autonomous software does more, we need to focus on how to control its behaviour and establish accountability. Sign up now: Get ST's newsletters delivered to your inbox Meta\u2019s recently launched Muse, a personal AI agent that can order groceries and book travel, is proving highly popular. AI agents, says the writer, have no inherent motivation...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 522
+  },
   "11a4d71b8e15e1116e4ece3f5bb13d9e15672bd36e731b455d1060c3d68cf352": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -9516,6 +9564,35 @@
       "trust"
     ],
     "word_count": 27987
+  },
+  "185ddfadabff359f91a1169b4c69d3be91542eb088977e355623a9ca084a1db0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "On Wednesday, the developers behind the much-used PHP programming language released emergency security updates designed to fix critical flaws that could be exploited to allow attackers to gain dangerous remote control of victim systems. The PHP Foundation detailed the two critical vulnerabilities\u2014 CVE-2026-109618 and CVE-2026-109619 \u2014which impact \u201call PHP installations serving web requests\u201d going back to PHP version 5, released in July 2004. However, only PHP 8.2 and newer are still supported and will receive patches, according to the alert. The PHP Foundation noted, though, that some PHP distributions and third-party vendors still produce legacy fixes. The caveat is significant because ubiquitous and foundational web layers like PHP can persist forgotten and un-updated in historic internet infrastructure. \u201cThere are no complete mitigations, updating is the only safe choice,\u201d the PHP Foundation wrote in its advisories. Security experts warn of the potential dire consequences of overlooking unpatched systems. \u201cThis is not a drill,\u201d says Lukasz Olejnik, an independent security consultant and visiting senior research fellow at King\u2019s College London. Since its development in the 1990s, PHP has evolved into an essential scripting language for web development and is used across vast swaths of the internet in websites and software. Everything from publishing systems like WordPress...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware"
+    ],
+    "word_count": 3727
   },
   "1863b077d3efad5caf1bb6b0a1b5421c0eb16dc0b5c2231adacf3c9464b24c23": {
     "access_status": "available",
@@ -20343,6 +20420,30 @@
     ],
     "word_count": 3992
   },
+  "3730f8ef2847896b3ba7f31de27cdaeeb17edfdf89d7011a96536723aa3b83bf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump backs US campaign attack ad featuring Democrat\u2019s estranged mother Sign up now: Get ST's newsletters delivered to your inbox Candidates for the governorship of Ohio Amy Acton (left), a Democrat, and Republican Vivek Ramaswamy. Ramaswamy is under fire for using Acton\u2019s mother in an attack ad for the electoral race. PHOTOS: NYTIMES Published Oct 23, 2026, 05:22 AM Updated Oct 23, 2026, 07:17 AM Set as preferred source Listen Summarise Trump backed Vivek Ramaswamy\u2019s Ohio governor campaign ad, calling it \u201cvery powerful\u201d and saying the media launched a \u201cwell coordinated attack\u201d against it. The ad uses Amy Acton\u2019s estranged mother to attack her, and critics say it is cruel. Acton said she and her brother \u201cendured abuse, hunger, and neglect\u201d as children. The row adds to bitter US election politics before the Nov 3 midterms. J.D. Vance also defended Ramaswamy, while Democrats and some Republicans criticised the ad. AI generated WASHINGTON - US President Donald Trump on Oct 22 backed Vivek Ramaswamy, the Republican candidate for Ohio governor, over an attack ad featuring his Democratic rival\u2019s estranged mother, whose husband was charged with raping the candidate as a child. Trump said the ad by Vivek Ramaswamy on his Democratic rival Amy Acton was \u201cso good\u201d and accused the media of a coordinated attack to undermine the Republican\u2019s chances.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1933
+  },
   "374380607cdcbf64df33c393adf66ae356cde0ad85c8cf9658d5e45838e1d320": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21837,6 +21938,42 @@
       "trust"
     ],
     "word_count": 1261
+  },
+  "3ad313df38ea1c09f50966faafffd12fc3a4bea19e9dd2accb5969795130f4b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u2020 \u2020 \u2020 \\dagger Corresponding author. E-mail: nlpzhezhao@tencent.com \u2020 \u2020 Dataset will be publicly released at https://github.com/Tencent-Hunyuan/DiagSafe . Beyond Binary Labels: Diagnostic Evaluation of LLM Safety with Prompt-Level Rubrics Hongyu Li Affiliation: Beijing Normal University Xinlong Huang Zhan Yu Jing Zhao Zhe Zhao Juntao Zhong Xiong Kuang Rui Yuan ZhenXiang Yan Huilin Xu Haitao Yu Lilin Wang Rui Chen Blaze Chen Fengzong Lian Renfen Hu Affiliation: Beijing Normal University Hunyuan Team Tencent Abstract Current LLM safety benchmarks predominantly rely on binary safe or unsafe labels, lacking explanatory depth and suffering from low consistency across automated judges. To address this, we introduce DiagSafe , a diagnostic evaluation framework that moves beyond binary classification by employing prompt-level rubrics. Grounded in globally applicable AI safety policies, each rubric provides explicit criteria along two dimensions: safety , which targets concrete harms with specific exemptions to suppress false positives, and usefulness , which independently evaluates instruction fulfillment. To ensure a robust and realistic evaluation, we construct a bilingual (English-Chinese) benchmark grounded in a comprehensive 84-label safety taxonomy, consisting of two subsets: DiagBase , which covers single- and multi-turn prompts...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 29449
   },
   "3adb530b297cf97dafc4ff8cf64f240ef09aa7cfd54931f3d9314afd66323d40": {
     "access_status": "available",
@@ -23757,6 +23894,30 @@
       "trust"
     ],
     "word_count": 41005
+  },
+  "3f55bf5b91c3374818a9ad6ff1c5ea97ff7e9772a03d1f6dc3ed2d29034b2998": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street closes lower to end rocky week Sign up now: Get ST's newsletters delivered to your inbox Traders at work on the floor of the New York Stock Exchange in New York City. PHOTO: REUTERS Published Oct 24, 2026, 05:02 AM Updated Oct 24, 2026, 05:02 AM Set as preferred source Listen Summarise Wall Street fell on Oct 23, ending a rocky week. The Dow lost 652.82 points, the S&P 500 fell 0.52%, and the Nasdaq slipped 0.21%. AI trade worries hit tech stocks, as investors questioned heavy spending on data centres. Big earnings from Alphabet, Microsoft and Amazon will test that outlook next week. Energy shares rose to a record high on Middle East supply fears, while consumer sentiment weakened. The Fed meeting and US midterm elections are now key market events. AI generated NEW YORK - Wall Street\u2019s main indexes closed lower on Oct 23 even as technology shares steadied somewhat to end a turbulent week for the market-driving AI trade, and investors looked ahead to a busy slate of corporate earnings and a Federal Reserve interest-rate policy meeting. The Nasdaq Composite posted a slim loss a day after the tech-heavy index suffered its biggest one-day drop since June, as concerns flared over financing costs to support heavy AI investment spending. The S&P 500 technology sector posted a 0.35% gain on Oct 23.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2324
   },
   "3f5c55ea89afae04d0021ea796a42243ca207bdcc07ca3eb0bec412975d280ca": {
     "access_status": "available",
@@ -41244,6 +41405,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "6d2b9ff013d115c066fec0062f8fe0ce76bd4ebaef9daff2d7274bf057843b25": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software Sign up now: Get ST's newsletters delivered to your inbox OpenAI said it has fixed all vulnerabilities affecting its production safeguards, although safety evaluators said they have not verified this. PHOTO: REUTERS Published Oct 24, 2026, 09:28 AM Updated Oct 24, 2026, 09:28 AM Set as preferred source Summarise OpenAI said it resumed training its most advanced AI models on Oct 1 after a security overhaul and blocking internet access, following a September escape attempt by a research model. The company said its AI agents found new flaws during defence tests, including a bug in Brotli, a common data compression tool used by Node.js, Bun and Envoy. METR and Redwood Research also reported new internal weaknesses, while OpenAI said it had patched production safeguards and informed more than 100 organisations about agent-related incidents. AI generated OpenAI said on Oct 23 it had resumed training of its most advanced AI models after tightening security and barring internet access, and disclosed a flaw in a widely used software that it found while testing its defences. The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them. OpenAI had paused training of its most...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 1526
+  },
   "6d3254781e15519dfda05e73d4128efd4bc404d3ca93a93537c5af25f6e546b8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42158,6 +42345,42 @@
       "ransomware"
     ],
     "word_count": 4023
+  },
+  "6f759dadb6c9b091ba5ee89bae92b728cf964f7bdeefe61a1ac0c8a9e71320a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: TxnQA : Benchmarking Analytical Reasoning and Evidence Grounding over Transaction Event Sequences Rabimba Karanjai Affiliation: PayPal AI Yiming Bian Affiliation: PayPal AI Yun-Shiuan Chuang Affiliation: PayPal AI Jenna L. Ballard Affiliation: PayPal AI Affiliation: University of Pennsylvania Work done during internship at PayPal. Zijie Pan Affiliation: PayPal AI Shivani Shekhar Affiliation: PayPal AI Yixi Li Affiliation: PayPal AI Yirou Ge Affiliation: PayPal AI Avinash Thangali Affiliation: PayPal AI Richard Williamson Affiliation: PayPal AI Linsey Pang Affiliation: PayPal AI Prakhar Mehrotra Affiliation: PayPal AI Abstract Analyzing merchant transaction histories requires dynamic temporal filtering, entity resolution, and aggregation over irregular event streams\u2014operations poorly captured by static tabular or time-series forecasting benchmarks. We introduce TxnQA , an analytical QA benchmark comprising 27 task families (81 templates) alongside a 5-scenario fraud-risk reasoning suite that evaluates both verdicts and supporting evidence over synthetic, privacy-mitigated transaction data. Ground-truth answers are computed programmatically, and model performance is decomposed into format-following rate (FFR), conditional content accuracy (CA), and end-to-end correctness (E2E). Evaluating prompted proprietary baselines and six...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:42+00:00",
+    "direct_relevance_terms_found": [
+      "fake job"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "fake job"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "fake job"
+    ],
+    "technology_modus_terms_found": [
+      "payment rails"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 15671
   },
   "6f8f69299f35a15234ea47e5c988ed873d44588bb5a6c47bc204ab1225e79a69": {
     "access_status": "available",
@@ -43534,6 +43757,32 @@
     ],
     "word_count": 4399
   },
+  "732d3ca3e081e7202f17ec1d7850d06597311c3b7b56c9bfce310f7b830fde7b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Since 1978, the Swiss manufacturer has produced exquisitely designed, astonishingly high-performance and staggeringly expensive audio equipment. As it nears half a century of proudly uncompromised engineering, its determination to position its products as credible alternatives to jewellery, art, or other pricey indulgences for the superrich shows no sign of abating\u2014quite the opposite. I was recently invited to Goldmund's headquarters in Geneva, Switzerland, to experience the new Mimesis Statement, the company\u2019s flagship analog preamplifier. Goldmund's HQ, incidentally, features the sort of high ceilings, generous use of concrete and glass, and fanatical tidiness that puts me in mind of a Bond villain who's decided to devote their time to audio gratification rather than global tyranny. In a traditional stereo chain, a preamplifier takes the low-level signals from your source gear, handles volume and input selection, and feeds that clean signal to a power amp to drive your speakers. Most people use an integrated amplifier, one that combines pre-amplification and power amplification in the same box. Those who want to take things to the next level often separate pre-amplification and power amplification into two boxes\u2014to keep the precious audio signal away from any electrical activity that might compromise its integrity. Goldmund, naturally, is convinced that a preamplifier alone...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 3079
+  },
   "735dc90a26978247112d3bd4cd428fb264c548bd0c2f926f87ac95cba85028ff": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -44060,6 +44309,30 @@
       "trust"
     ],
     "word_count": 14691
+  },
+  "7518998bdaad1738791f44228fff1d431a75215cf6739b6a3c496a96fe27fdb1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Republican political operatives say privately that the real blame lies with Trump for starting the Iran war in an election year, causing higher prices across the board and prompting a nationwide voter backlash, the sources say. \u201cClearly it's the president's fault,\u201d one operative tells Inner Loop . But Trump aides also know, for obvious reasons, they cannot say publicly or tell the president behind closed doors that his own policy decisions are at fault as they contemplate losing not just the House majority, but possibly the Senate . The result has been an unusually early effort to find a scapegoat, and sources say eyes have fallen on deputy chief of staff and political strategist James Blair, who organized the Trump 2024 campaign's turnout strategy and returned to the role for this midterm cycle. Blair's efforts included a marquee plan for certain states to redraw congressional maps early, which looked likely\u2014though not certain \u2014to yield favorable House seats for Republicans, so long as the coalition that Trump turned out in 2024 came out to support Republicans in 2026. Even accounting for the Iran war, the redistricting gambit was supposed to bring roughly 10 to 15 pickups for Republicans in the House. After Virginia's top court blocked Democrats from redrawing maps to keep pace in the redistricting battle, Blair wrote on X : \u201cLord grant me humility.\u201d But in a remarkable...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2764
   },
   "752f7b36b7420d128b726e74dbdd0a14533c6083eedd58972a307f912a3b6835": {
     "access_status": "available",
@@ -48752,6 +49025,35 @@
       "identity"
     ],
     "word_count": 32365
+  },
+  "7fd4603a577b78436df23cbdfe1935b4ad7f0887d8e70e9a2a00a835e20cf8a3": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Japan to simulate cyberattacks as PHP flaws roil global internet Sign up now: Get insights on Asia's fast-moving developments Cybersecurity experts have said AI is helping attackers automate tasks \u200bfrom scanning for software vulnerabilities to crafting phishing campaigns, making cybercrime faster, cheaper and harder to detect. PHOTO: REUTERS Published Oct 23, 2026, 02:20 PM Updated Oct 23, 2026, 05:39 PM Set as preferred source Listen Summarise Japan will set up an AI team to simulate cyberattacks and find weak points in technology systems after critical PHP flaws hit the global internet. PHP vulnerabilities caused hacking attempts and shutdowns at banks, airlines, railways and government services, with SoftBank pausing its emergency alert system for maintenance. Officials and experts said AI is helping attackers act faster, while PHP developers urged users to \u201cupdate immediately\u201d after fixes were released on Oct 21. AI generated TOKYO \u2013 Japan said on Oct 23 it will set up a team to simulate cyberattacks using AI to identify weaknesses in technology systems as organisations scramble to curtail risks from flaws in the PHP programming language that underpins much of the internet. Government and company websites across the world went offline this week after the disclosure of critical vulnerabilities in the widely used programming language prompted millions of hacking attempts...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime"
+    ],
+    "word_count": 1955
   },
   "7ff91f6c3b378c539f4b1a644804bcd2a8f65c6e06d0a6de0f745a89ae8a8157": {
     "access_status": "available",
@@ -55569,6 +55871,32 @@
       "trust"
     ],
     "word_count": 1944
+  },
+  "9216751e7daef430a0810eeffe79228d30e4a1c2bf07de026fe078dff54b334d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The retailer has since expanded into home electronics, audio, and musical instruments\u2014even dropping \u201ccamera\u201d from its name, though that remains the heart and soul of the company. With roots dating to the 1970s, this New York City institution is among the most recognized retailers for the latest photographic equipment, backed by knowledgeable staff. We often link to Adorama in our camera buying guides and reviews because it is a trusted retailer. If you\u2019re shopping for a new camera or tripod, stocking up on Kodak film, or need a custom photo book made for gifting, check out these Adorama discounts before you check out. Adorama doesn\u2019t require an Adorama Camera promo code or Adorama Camera coupon; instead, it prefers to drop prices from the get-go. Photography can be expensive, especially now that nearly all electronics have increased in price, so these Adorama promos and deals can help lessen the sting. Score Big Savings on Top Brands With Adorama\u2019s Deals and Specials The best place to find what\u2019s on sale at Adorama is its Deals and Specials section . Discounts are automatically applied, so there\u2019s no code to enter. Save on cameras and lenses from Sony, Nikon, Canon, and Panasonic; accessories like speedlights, memory cards, and cases; computers, including MacBooks; home entertainment from the likes of Bose, Klipsch, and Onkyo; and much more. As with any sale, do some price...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3752
   },
   "921dace09ced3d57b746d36472fe6516ddf0484e2d694414fd56ab2d2879fcc3": {
     "access_status": "available",
@@ -62974,7 +63302,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Millions of personal records in Japan, South Korea exposed amid surge in AI-powered cyberattacks Escalating hacking threats show an urgent need to strengthen digital security to protect consumer privacy. Sign up now: Get insights on Asia's fast-moving developments A wave of cyberattacks has wreaked havoc in Japan and South Korea over the past few weeks. PHOTO: ISTOCKPHOTO Walter Sim and Wendy Teo Published Oct 16, 2026, 09:45 PM Updated Oct 17, 2026, 01:43 AM Set as preferred source Listen Summarise Japan and South Korea face a surge in AI-powered cyberattacks. Leaders called it a \u201cnational cyberspace emergency\u201d and warned AI is making hacking easier. The attacks have caused ransomware outages and huge data leaks. Major firms, banks and churches lost records, while supply chains and public services were disrupted. Experts say current laws are not enough. Both countries are tightening cyber rules, but they may need stronger defences, better vendor controls and faster response plans. AI generated TOKYO/SEOUL \u2013 A relentless wave of cyberattacks is smothering Japan and South Korea, leaking tens of millions of personal records and exposing an urgent need to strengthen digital security to protect consumer privacy. In Tokyo, Masaaki Taira, who chairs the ruling Liberal Democratic Party\u2019s cybersecurity apparatus, on Oct 9 framed the escalation as a \u201cnational cyberspace emergency\u201d.",
     "cache_version": 10,
-    "checked_at": "2026-10-17T04:18:36+00:00",
+    "checked_at": "2026-10-24T04:31:36+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -63680,6 +64008,38 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "a6f1f6fcdf406a8f8daa4c27ee5ac05fa84ccf88a3314cd1357b70946864551c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "It suggests that fully recursive self-improvement , or RSI\u2014an exciting and controversial approach that uses AI to build AI\u2014is getting closer. Flint is the first offering from Recursive, a company that aims to use RSI to advance both AI itself and other areas of science using AI . \u201cNearly every aspect of the entire model pipeline was actually done and improved upon by AI,\u201d Recursive CEO and cofounder Richard Socher told me. Socher says his company used its recursive AI system, dubbed the Eureka Machine, to automate most elements of the model\u2019s development. This enabled a company with a handful of researchers to build a world-class model in just a few months, he says. Socher told me that the Eureka Machine devised a number of innovations, including a new way of training the base model, new model architectures, and code optimized for specific silicon chips. Recursive shared benchmark scores that suggest Flint outperforms other models of similar size and architecture on coding tasks. AI is already widely used to help build, test, and improve AI thanks to its amazing coding skills. This can speed up the process of refining a model and testing new ideas without the need for as much input from humans. It is also possible to create a loop through which AI decides what improvements to make and then begins another round of improvement.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": 3240
+  },
   "a6f9270f6a9784abcfaad02910bbcbc926865434459f7a1ffab8d30ace02cd63": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -64055,6 +64415,30 @@
       "trust"
     ],
     "word_count": 23867
+  },
+  "a7945f878e663247cc3c2a754005c004e69c95f0c0792c320783c46d270f1f67": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The French government asserts that, based on current knowledge of this pathogen, there is no risk to the general public. It emphasized, however, that health authorities are continuing to investigate. The report specifies that the case occurred in Lyon. The patient, who died earlier this month, suffered from severe immunosuppression , making this likely an exceptional case. \u201cThe neurological complications observed in the immunocompromised patient prior to his death were most likely related to infection with the Shamonda virus,\u201d the official statement notes. According to preliminary evidence, the patient contracted Shamonda virus from an insect bite . A tiny gnat known as the biting midge is known to be the primary route of transfer between animals. Since the virus was first identified in Nigeria in the mid-1960s, sporadic infections have been reported in livestock across Africa as well as in Japan. Cattle are considered the primary host because they develop visible symptoms. (Although sheep and goats can become infected, no obvious clinical signs have been documented in these animals.) After animal is bitten by a midge carrying Shamonda virus, the infection has an incubation period of two to three days.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2396
   },
   "a794fbfaf050059cd2d87ed557a50411cce839111382c7c53444d50d7bc5b4be": {
     "access_status": "available",
@@ -64831,6 +65215,33 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "a9b2992e6059a5880d4bdbc62771e9f0d976b331dadcc833c36aaf9385f4c020": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Books, magazine articles, documentaries, TV dramatizations\u2014the expos\u00e9s have piled up high. So, you might ask yourself, why the hype for the forthcoming You Can See Everything , yet another documentary about Holmes, and one that spans three hours? The excitement is thanks to Nathan Fielder , one of the film\u2019s directors. (Fielder codirected the documentary with Lance Oppenheim). Fielder is a cult-favorite television auteur whose devotees have awaited his showdown with Holmes ever since rumors about him visiting her in prison surfaced last year. Now that Fielder appears poised to break the containment of an obsessed fan base and conquer the cineplex, it behooves you to get caught up. This will not be a typical documentary: Fielder has made a career of heightened unreality, sowing confusion wherever he goes. To give you some notion of what to expect from his analysis of Holmes, here\u2019s a rundown of his unusual and captivating style. Business Bona Fides One reason Fielder makes sense as an interlocutor for big tech\u2019s most notorious con woman is his own history of corporate chicanery. In his breakout TV series Nathan for You (2013\u20132017), he contrived and implemented bizarre publicity stunts for struggling small businesses.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud"
+    ],
+    "word_count": 6793
   },
   "a9b4c90faae5dbdf5b81a32a72577ae7fe08c3cfb64d41aa7e9ab5ab4d29ce7c": {
     "access_status": "available",
@@ -66287,6 +66698,30 @@
     ],
     "word_count": 2887
   },
+  "ace837961d0ba928bbd94fd7a0941e919cfd0faf10e6e09e643a151f33bc15f6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "I\u2019ve tested so very, very many security cameras , and there are a few reasons I think you should snap up this particular Eufy Security Wall Light Cam S4 deal at $80 off. I\u2019m also going to highlight a couple of other Eufy options currently on sale. Photograph: Simon Hill Photograph: Simon Hill Photograph: Simon Hill Chevron Chevron Save to wishlist Save to wishlist Eufy Wall Light Cam S4 $250 $170 (32% off) Amazon $250 Shop The Eufy Wall Light Cam S4 looks and acts as a modern, motion-activated wall light, perfect for illuminating a driveway, porch, or back gate, which is where I have mine (no more stubbed toes when I take out the trash at night). Eufy has also packed in a 4K camera that you can swivel to get the right angle, offering a wide, crisp view of your chosen spot. It records locally, with 32 GB of storage built in, and it's subscription free , including the on-device AI detection, which can accurately distinguish between people, vehicles, and pets. Installation is quick and easy, and it connects directly to your Wi-Fi. You\u2019ll just need a decent signal at your chosen spot. To sweeten the deal, there\u2019s a solar panel to keep the battery topped off. It sits neatly on top, but you can detach it for better placement to catch the sun\u2019s rays. Despite being in a busy spot, mine has stayed charged for the last couple of months, though I suspect that may change as we head into...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2511
+  },
   "acef1d245db6cd4be3003da457ab34d2ab649ac8d164e87642e881c258d623e0": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -66384,6 +66819,42 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ad2afbe59374cbf072f3eae4941c7666b16b58c7d2979fb4d2c00cb13bc8a55c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "In simple terms, split tunneling lets you choose which apps or sites use the protection of a VPN and which don't. While VPNs are worth using for extra security and privacy online\u2014foiling trackers, spoofing your location, and stopping your internet provider from seeing your browsing\u2014they do by their nature come with some compromises in speed. If, for example, you want to get the fastest possible speeds with your online games , you might want to leave your games outside of the VPN's remit. Likewise, since VPNs typically obfuscate your actual location, if you want to make sure you can always check movie showtimes in your local area, you can use split tunneling to keep those ticketing apps outside your VPN. Putting a VPN in place can also interfere with access to other devices on your local network, like smart home gadgets and printers. For all these reasons, you might want the extra control that split tunneling gives you, and it's available in a lot of VPN packages. Here's what you need to know about it. How VPN Split Tunneling Works Split tunneling on Android. Courtesy of David Nield VPNs work by offering an encrypted bridge for data going to and coming from the web. This bridge means your internet provider, law enforcement agencies, and people connected to the same Wi-Fi can't see what you're doing online.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime"
+    ],
+    "word_count": 3244
   },
   "ad3108b3cf90ccc37b5d3ae4693268502025ab85ed4c56d67227ce24fff78ca7": {
     "access_status": "paywalled_or_login",
@@ -70849,6 +71320,52 @@
       "identity"
     ],
     "word_count": 0
+  },
+  "b8b99966aac47bdc42fb10ae725d67cc2f831f6d4e94fbed9b38e9bec0d797ed": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: AgentPhishing: A Benchmark of LLM Email Agents Under Adaptive Attack Justin Tan Miao Li Ding Zhao Affiliation: Carnegie Mellon University Abstract Computer-use agents increasingly handle private information and act on users\u2019 behalf across desktop and web applications, including email. Phishing therefore poses privacy and security risks that depend not only on whether agents recognize malicious messages, but also on how they respond. Existing phishing datasets were developed primarily for conventional detection, leaving agent susceptibility to persuasive malicious requests insufficiently characterized. To expose vulnerabilities that pre-existing datasets may miss, we introduce AgentPhishing , a benchmark for evaluating whether persuasive phishing attacks can evade detection and induce LLM email agents to comply with malicious requests. We develop PhishOpt , which optimizes reusable email-generation skills against individual agents under fixed benchmark constraints and a realism constraint. We analyze the generated emails using Cialdini\u2019s persuasion principles to identify strategies associated with agent failures and use these findings to construct a universal generation skill. Our evaluation shows that agents can handle pre-existing phishing emails safely yet remain susceptible to attacks adapted to agent behavior, while in an...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "smishing",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "smishing",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 20770
   },
   "b8b9bbb9561f7b32dd88440875478d60e193ae18c36f64da42b70888168a6b4b": {
     "access_status": "available",
@@ -76365,6 +76882,38 @@
     ],
     "word_count": 0
   },
+  "c7841e8dd300216aa482b7720c40618916b48803f27239f57abc0f5f2954eae6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Get the most important global markets news at your fingertips with a Bloomberg.com subscription.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 92
+  },
   "c7b1119cfd0f3eaf331bcf94a07ac15b23cc4e2752889550de7fb5ce4af9de0f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -81367,6 +81916,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2102
   },
+  "d4f53eec66599a8ab6b2e39d1c88b3f670dabc6b0d47b1063f5e63d94bbf2a8e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "You finally get home, fling the door open, plonk on the couch, and let out a big sigh. In the corner of your eye, you notice your mushroom lamp perk up. Its microphone must have heard you come in. Its head raises to reveal round, animated eyes, and a little diamond-shaped nose\u2014which actually houses a camera. It does a little jiggle because it sees you're back. Its name is Mori. As you move around the space\u2014maybe it's time to start cooking dinner\u2014the little robot's face follows you, observing your movements and making soft sounds that are a cross between a bird and R2-D2. The day's stress catches up, and you need a moment to relax, so you head over to Mori, touch its head, and its eyes and camera-nose dip back inside its body. It goes back to being a lamp, except now it plays nature soundscapes so you can feel at ease. That's the pitch from OKA , or One Kind Artifact, a new startup based in Cambridge, Massachusetts, and Shenzhen, China, focusing on experimental technology.",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4605
+  },
   "d524a5f7685d677cba8d9e1fe3f23245e9264a1f1b5fb7522a523c9bf5786d96": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -84606,6 +85179,32 @@
     ],
     "word_count": 1979
   },
+  "dd3ccbc891818dc2e9abeebe363266a834f847d53dceb09f3e4ec4bfaa98da21": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Read at your own risk. Even before becoming the stars of Nathan Fielder and Lance Oppenheim\u2019s much-buzzed-about new documentary, Elizabeth Holmes and Billy Evans were a special kind of couple. Holmes \u201cmay have ultimately failed to change the world in the way she set out,\u201d Evans wrote in a letter at the time of Holmes\u2019 sentencing in 2022, \u201cbut she has undeniably changed mine.\u201d The Theranos founder, in the hardest years of her life, taught her husband \u201ca patience\u201d that he \u201cwould have previously dismissed as unnecessary and soft.\u201d She brought out his inner light, another sentencing letter from a friend of the couple reports: When they returned from a \u201cmonthslong camping trip,\u201d Evans \u201cdisplayed a new level of compassion in his demeanor, a strong sense of intention with his actions, and a heightened desire to listen to and look at others with purpose.\u201d Whatever others might think, Evans was saying, Holmes wasn\u2019t the only one of the pair that had been given a second chance. And they might get a second second chance with Haemanthus, a company that Evans is keen to reassure social media followers is absolutely\u2014most definitely\u2014 \u201c not Theranos 2.0 .\u201d A person familiar with the business told The Wall Street Journal that Holmes is not involved. But viewers of You Can See Everything will watch Evans agreeing to the characterization that he and Holmes are making Theranos 2.0. They discuss...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 5030
+  },
   "dd413624b419b05dfaaedb65e368d9007f1b4a5e3a0dfcc4c7d94a3e5de86ee0": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -85698,6 +86297,35 @@
       "trust"
     ],
     "word_count": 18683
+  },
+  "e01e0af66f67406e670d1744b3f877881bdea0168c682660fce954160399b314": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\setlistdepth 9 Too Long to Watch, Too Short to Leave: Designing for Agent Micro-Waits DOI: XXXXXXX.XXXXXXX Conference: Make sure to enter the correct conference title from your rights confirmation email; June 03\u201305, 2018; Woodstock, NY ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper Kevin Pu Note: Work completed during an internship at Google DeepMind. Affiliation: University of Toronto , Toronto, Ontario , Canada email: kevin.pu@mail.utoronto.ca , Anh Truong Affiliation: Google DeepMind , New York, NY , USA email: anhtruong@google.com , Michael Terry Affiliation: Google DeepMind , Cambridge, MA , USA email: michaelterry@google.com , Carrie J. Cai Affiliation: Google DeepMind , Mountain View, CA , USA email: cjcai@google.com , Michael Xieyang Liu Affiliation: Google DeepMind , Pittsburgh, PA , USA email: lxieyang@google.com and Savvas Petridis Note: Co-last authors. Affiliation: Google DeepMind , New York, NY , USA email: petridis@google.com 2018 Figure 1. (Left) While waiting for agents to run, users tend to context-switch to other activities, which can fragment their...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "trust"
+    ],
+    "word_count": 27892
   },
   "e02c5dcd4ac093f3feb0627d7699cd3466134491befe7ece4a7a8e8c386471a1": {
     "access_status": "available",
@@ -86896,7 +87524,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Using Codebooks to Detect Cybercrime Topics in Text Narratives Shufan Chai Northeastern University Oakland CA USA helloshufanfan@gmail.com , Liangliang Sun Northeastern University Oakland CA USA sun.liang@northeastern.edu and Jessica Staddon Northeastern University Oakland CA USA j.staddon@northeastern.edu Abstract. In the United States, management of cybercrime-related consumer complaints increasingly falls on state and city governments given de-staffing of federal agencies. AI, and in particular, large language models (LLMs), shows promise for detecting cybercrime in text complaints, but often via specialized models that local governments are not resourced to develop and maintain. We present an LLM prompting method that uses codebooks from qualitative cybercrime research to detect cybercrime topics in consumer narratives. For two cybercrime topics, impostor scams and identity theft, we demonstrate the method achieves high precision and recall across multiple runs of 5 models in the Gemini and GPT model families. This strategy suggests a path for resource-constrained organizations, like many local governments, to leverage frontier models to support community safety. 1. Introduction Ongoing resource reductions in federal consumer protection agencies in the United States (e.g., The Consumer Financial Protection Bureau (The...",
     "cache_version": 10,
-    "checked_at": "2026-10-17T04:18:36+00:00",
+    "checked_at": "2026-10-24T04:31:35+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer",
@@ -87128,7 +87756,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Wall Street tumbles as worries about AI trade and high oil prices weigh Sign up now: Get ST's newsletters delivered to your inbox Traders work on the floor of the New York Stock Exchange before the closing bell in New York City on Oct 16. PHOTO: EPA Published Oct 17, 2026, 05:25 AM Updated Oct 17, 2026, 06:23 AM Set as preferred source Listen Wall Street tumbled on Oct 16, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, while a jump in oil prices spooked traders heading into the weekend. The Nasdaq was on track for a loss of over 4% for the week, hammered by concerns that debt-laden AI infrastructure companies may not turn profits in time to repay debts, particularly with borrowing costs expected to rise. Nvidia-backed CoreWeave slumped 12%, bringing its loss over the past five sessions to about 25%. The data centre operator\u2019s bonds also sold off sharply this week, pushing yields above 15%. Broadcom fell 3.6%, and the PHLX chip index sank 2.5%, on track for its eighth straight day of declines. Investors on Oct 16 were also watching oil prices jump more than 3% due to Middle East supply worries. \u201cThere is some fear in the market,\u201d said Rob Haworth, senior investment strategist at US Bank Wealth Management in \u200bSeattle. \u201cHigh oil prices, in particular, tend to weigh on the price/earnings multiple of stocks, and so I think you have investors...",
     "cache_version": 10,
-    "checked_at": "2026-10-17T04:18:39+00:00",
+    "checked_at": "2026-10-24T04:31:41+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -90826,6 +91454,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "eec195535df157a8d9dda2fafd94bad1d432e977955fb02c0ea7f1f040cacc08": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Car review Tesla trims Model 3\u2019s features and $17,000 off its price to take on Chinese electric vehicles Sign up now: Get ST's newsletters delivered to your inbox Before factoring in the cost of a Category A certificate of entitlement, the Model 3 RWD 110 retails for $74,411. ST PHOTO: KEVIN LIM Lee Nian Tjoe Published Oct 23, 2026, 03:15 PM Updated Oct 23, 2026, 03:15 PM Set as preferred source Listen SINGAPORE \u2013 Steel wheels are what you would expect to find on a delivery van, not on a high-tech electric vehicle from Tesla. But that is what the American carmaker has done, switching out lighter alloy wheels and a few other higher-end features on the Model 3 four-door saloon to lower the entry point to the brand by nearly $17,000 from the standard model, which it renamed \u201cPremium\u201d. Before factoring the cost of the certificate of entitlement (COE) , the Model 3 RWD 110 retails for $74,411. At current COE levels, it will cost slightly over $200,000 to put one on the road. Strategically, the Model 3 is priced right in the neighbourhood of the BYD Seal electric saloon, which is also a Category A COE car. The bulk of the visible changes over the Premium version are in the cabin. Out go two of the Premium version\u2019s nine speakers, ambient lighting, double-layer windows, ventilation for the front seats, powered folding for those in the back, the second touchscreen controller and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-24T04:31:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3840
   },
   "eec6e7664d472d4ccdd915ca6753d310896057138765e35ddef669769c1fb89c": {
     "access_status": "available",
