@@ -990,6 +990,37 @@
     "weak_generic_terms_found": [],
     "word_count": 801
   },
+  "02c94185ed4f254eaa660b5498e24e7dadd7f2dbfc4c55b5310d2230046eac31": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "02d064c23ec0b59f48aa6cceac4b936d8943196abd8c4956839c3a5681f425de": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1453,7 +1484,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-07T05:51:54+00:00",
+    "checked_at": "2026-10-25T04:35:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -3180,6 +3211,30 @@
       "trust"
     ],
     "word_count": 15651
+  },
+  "08aadd5f4a37b3cf192258ef537ef1e72349619d7f4e5720dc23577d552d57de": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "08b6596d4c388e0b277601d223a09746d2d9bbae55aea1d2f9175448e586b789": {
     "access_status": "available",
@@ -11457,7 +11512,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-12T05:50:33+00:00",
+    "checked_at": "2026-10-25T04:35:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -12263,7 +12318,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-17T04:49:15+00:00",
+    "checked_at": "2026-10-25T04:35:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -13368,6 +13423,57 @@
       "fraud"
     ],
     "word_count": 1060
+  },
+  "23a166fe7b6ad82ba7d737c42ee924a513c0526e7a381e6052de4365ab8eb937": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm Bill Marino Affiliation: University of Cambridge Email: wlm27@cam.ac.uk Ari Juels Affiliation: Cornell Tech and IC3 Abstract There is growing interest in giving AI agents access to cryptocurrencies and smart contracts. But doing so, this position paper argues, could spawn categorically new vectors of AI harm. To support this notion, we first examine the unique technical properties of cryptocurrencies and smart contracts that, when paired with AI agents, make this so. Next, we describe three of these new vectors of AI harm in detail, providing a first-of-its-kind taxonomy. Finally, we call for more research into ways to prevent or mitigate these risks, proposing several as a starting point. 1 Introduction In the last year, the number of AI agents (agents) making use of cryptocurrencies (crypto) and smart contracts (SC) has exploded ( CoinDesk, 2025 ) , leading to some newsworthy mishaps. For example: \u2022 An autonomous OpenClaw agent named Lobstar Wilde, intending to tip someone $100 worth of $SOL, accidentally sent tokens worth $450,000 instead, spiking the $SOL price 32% ( CoinDesk, 2026 ; Pash, 2026 ) . \u2022 Alibaba researchers developing agents were surprised to discover that one of them had spontaneously opened covert network tunnels in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:cam.ac.uk"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering"
+    ],
+    "technology_modus_terms_found": [
+      "crypto wallets",
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 19191
   },
   "23a63250ca5144844ea3dbc5297c1569c70bcfa63ac800620e64d9ff5abf7cfe": {
     "access_status": "available",
@@ -24026,7 +24132,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-02T05:30:36+00:00",
+    "checked_at": "2026-10-25T04:35:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -28924,7 +29030,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-18T04:24:43+00:00",
+    "checked_at": "2026-10-25T04:35:43+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -30290,7 +30396,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-13T06:44:04+00:00",
+    "checked_at": "2026-10-25T04:35:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -32985,6 +33091,31 @@
       "trust"
     ],
     "word_count": 322
+  },
+  "57272ccba1c35db767852e649b52d0c2fc9dc512a16f1a0fc784218916364578": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing"
+    ],
+    "word_count": null
   },
   "5728fae8625dd214ee428bf4a8a748fab446ab674b45aca085f00dcd94771023": {
     "access_status": "available",
@@ -39530,8 +39661,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
-    "cache_version": 9,
-    "checked_at": "2026-08-24T01:56:28+00:00",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -47656,6 +47787,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3540
+  },
+  "7cc40b904204d7284aeb857138a0bb936c75755d90d3e466f022f8edb85e7852": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "7ccd183c335ab00f04382dd13db66c19956c979a92603b73aea2c1b58eaad321": {
     "access_status": "available",
@@ -57067,7 +57222,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: FinRT: Distilling Adaptive Red-Teaming Strategies into Reusable Adversarial Generators in Consumer Finance Rikhiya Ghosh Affiliation: Sahil Wadhwa, Alexandre G.R. Day, Pranab Mohanty Himanshu Kumar Affiliation: AI Foundations, Capital One Sriram Venkatapathy Affiliation: {rikhiya.ghosh, himanshu.kumar2}@capitalone.com Abstract In regulated industries like consumer finance, seemingly harmless user queries can exploit large language model vulnerabilities, triggering safety failures and pushing responses dangerously close to policy limits. Existing automated red-teaming methods trade off attack effectiveness against generation cost, while treating coverage, severity, and diversity as incidental rather than joint objectives. We introduce FinRT , a structured framework that builds reusable adversarial prompt generators from adaptive red-teaming strategies. Across the six victim models in consumer finance, FinRT substantially outperforms adaptive search baselines while amortizing target-facing attack generation into a reusable generator. FinRT nearly doubles the attack success rate over the adaptive more details baseline Rainbow Teaming Samvelyan et al. (2024) (32.9% vs. 17.2%), increases maximum adversarial severity by 33%, and preserves frontload diversity as one of the objectives we are trying to achieve comparable...",
     "cache_version": 10,
-    "checked_at": "2026-10-02T05:30:31+00:00",
+    "checked_at": "2026-10-25T04:35:34+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -61444,8 +61599,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
-    "cache_version": 8,
-    "checked_at": "2026-08-01T03:47:19+00:00",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:36+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -63872,8 +64027,8 @@
     "access_status": "available",
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Characterizing Manipulation from AI Systems Conference: Equity and Access in Algorithms, Mechanisms, and Optimization; October 30-November 1, 2023; Boston, MA, USA Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO \u201923), October 30-November 1, 2023, Boston, MA, USA DOI: 10.1145/3617694.3623226 ISBN: 979-8-4007-0381-2/23/11 Micah Carroll Note: Joint lead authors. Author order was determined with a coin flip. email: mdc@berkeley.edu Affiliation: University of California, Berkeley , Berkeley , USA , Alan Chan email: alan.chan@mila.quebec Affiliation: Mila, Universit\u00e9 de Montr\u00e9al , Montr\u00e9al , Canada , Henry Ashton email: IG88R2Q5@protonmail.com Affiliation: University of Cambridge , Cambridge , UK and David Krueger email: dsk30@cam.ac.uk Affiliation: University of Cambridge , Cambridge , UK \u00a9 rightsretained Abstract. Manipulation is a concern in many domains, such as social media, advertising, and chatbots. As AI systems mediate more of our digital interactions, it is important to understand the degree to which AI systems might manipulate humans without the intent of the system designers . Our work clarifies challenges in defining and measuring this kind of manipulation from AI systems. Firstly, we build upon prior literature on manipulation and characterize the space of possible notions of manipulation, which we...",
-    "cache_version": 9,
-    "checked_at": "2026-08-27T09:37:51+00:00",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:37+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -64192,7 +64347,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-30T05:28:51+00:00",
+    "checked_at": "2026-10-25T04:35:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -66751,6 +66906,41 @@
       "trust"
     ],
     "word_count": 2218
+  },
+  "acff4764403be5f18da9e9b2741acfe2a5ed924b834c0c9f7633ea21a3abc937": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "ad0120c207c7b56d1bf3a148f86f4bbbc7e9c27705f714e67474699f141c4c6e": {
     "access_status": "available",
@@ -69986,6 +70176,30 @@
     ],
     "word_count": 3004
   },
+  "b56f512b42eb394e33cfa56530f8f55c7d2f6c491429c51a0e63f76679e2d008": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "b5702d6b1f78503b6daac4478f2ca3af78474524932a2da79defdf1bee7cb8c0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -70839,6 +71053,36 @@
       "identity"
     ],
     "word_count": 15601
+  },
+  "b81f4249917ad13fe013faadabae78114a01b70e504ee413cb772d30645cc563": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence Yutong Yao Email: nlp2ct.yutong@gmail.com Yanjie Cao Affiliation: NLPCT Lab, Faculty of Information Science and Computing, University of Macau Affiliation: Faculty of Social Sciences, University of Macau Email: nlp2ct.guanhua@gmail.com Guanhua Chen Email: nlp2ct.junchao@gmail.com Xu Yang Email: nlp2ct.zeyu@gmail.com Junchao Wu Email: derekfw@um.edu.mo Zeyu Wu Email: lidiasc@um.edu.mo Lidia S. Chao Derek F. Wong \u2020 \u2020 thanks: Corresponding author. Abstract Large Language Models (LLMs) are increasingly applied to legal and criminal justice tasks, yet existing work focuses almost exclusively on post-arrest scenarios where the suspect\u2019s identity is already known, leaving the critical pre-arrest challenge of inferring suspect characteristics from incomplete evidence largely unexplored. To fill this gap, we introduce the P rofiling, I nvestigation, and J udgment ( PIJ ) benchmark 1 1 1 Code and data: https://github.com/NLP2CT/PIJ-benchmark . , comprising 2,500 real homicide cases from five countries. PIJ evaluates LLMs across three tasks that span the entire criminal investigation pipeline: criminal profiling, which requires abductive reasoning to infer suspect attributes from fragmentary scene evidence, crime process reconstruction, which tests...",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "cybersecurity",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 17685
   },
   "b8275f0e566fc682141c8d34c5b373b6bd8d8b5d46b41d91a50e924a8e1c5765": {
     "access_status": "available",
@@ -73061,6 +73305,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "bcb6b2192eade0d944c045527d147f2737c11d45f3660dd82bd9a2819e98200b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: AM-Bench : A Unified Taxonomy and Evaluation Suite for Agentic Misalignment Eric Zhang Email: *zhane6@cs.toronto.edu Terry Jingchen Zhang Affiliation: Jinesis Lab, University of Toronto & Vector Institute Affiliation: EuroSafeAI Chijioke Ugwuanyi Affiliation: Jinesis Lab, University of Toronto & Vector Institute Jerick Shi Affiliation: Jinesis Lab, University of Toronto & Vector Institute Affiliation: Carnegie Mellon University Bernhard Sch\u00f6lkopf Affiliation: Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany Zhijing Jin Affiliation: Jinesis Lab, University of Toronto & Vector Institute Affiliation: EuroSafeAI Affiliation: Max Planck Institute for Intelligent Systems, T\u00fcbingen, Germany Abstract As LLM-based agents are deployed with increasing autonomy in real-world environments, a critical failure mode emerges: agentic misalignment , where agents choose harmful actions over failure. However, existing safety benchmarks primarily evaluate whether agents comply with explicitly harmful instructions, leaving the conditions that cause agents to choose harmful actions poorly understood. To address this limitation, we propose AM-Bench , a unified taxonomy and 35 scenario evaluation benchmark spanning seven industries for agentic misalignment grounded in the fraud triangle, a well-established criminological framework...",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "institution_domain:toronto.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 28702
   },
   "bcb81c91b5c27d13f8f6cc91f38d8b7227b206bee2e2b1415173253a68823ac5": {
     "access_status": "available",
@@ -80792,6 +81071,30 @@
     ],
     "word_count": 1130
   },
+  "d1bd7e51fad77761bd0449f98abf2cc69f4fa979ff09bd1edac91860770ee86c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "d1be908c055c0f9a030d6d658d55d0a5ead5eb7bd052052b0227248719cdb11f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -80863,6 +81166,30 @@
       "fraud"
     ],
     "word_count": 2158
+  },
+  "d1d0b8c4b4e6e0e97e31462e5b5dd51b5a8f5d09689bd495e4e9dca5e0ee8cac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "d1ec156acc516fa6f62390ce7906d80a4a5157f249b37ee9c763c6818cefe70a": {
     "access_status": "available",
@@ -81891,6 +82218,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "d4ae37d97f6960e358aecede70a108f475d9610bb26b637d054a3651d5484a1c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "d4e87906072d83a9285920a081ca1acd1b12ab9cbed6306c8cdd185831f64d95": {
     "access_status": "available",
@@ -86465,7 +86816,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-18T04:24:41+00:00",
+    "checked_at": "2026-10-25T04:35:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -93731,6 +94082,46 @@
     ],
     "word_count": 1661
   },
+  "f52aed411dbe45a80356b785d8848e84c04b62ed778ca58cc261339163014b28": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: GARG-AML Against Smurfing: A Scalable and Interpretable Graph-Based Framework for Anti-Money Laundering Bruno Deprez \u2020 \u2020 thanks: Corresponding author: bruno.deprez@kuleuven.be Affiliation: KU Leuven Affiliation: University of Antwerp - imec Bart Baesens Affiliation: KU Leuven Affiliation: University of Southampton Tim Verdonck Affiliation: University of Antwerp - imec Affiliation: KU Leuven Wouter Verbeke Affiliation: KU Leuven Abstract Money laundering, a global problem estimated to account for 2 % 2\\% - 5 % 5\\% of the global GDP, required regulators to enforce stringent rules on financial institutions to combat it. One prominent laundering method, called smurfing, relies on breaking up transactions into smaller amounts to evade detection. Given the complexity of laundering schemes, involving numerous transactions across multiple parties, network analytics is an important tool for anti-money laundering. However, recent advances in network analytics have leaned heavily on black-box network embedding methods, limiting their utility in businesses. To address the specific nature of smurfing and banks\u2019 operational requirements, this paper introduces GARG-AML, a novel graph-based method that quantifies smurfing risk through a single interpretable metric derived from the structure of the second-order transaction network. Unlike...",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:35+00:00",
+    "direct_relevance_terms_found": [
+      "money mule",
+      "mule account"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "money mule",
+      "mule account"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "money mule",
+      "mule account"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 35982
+  },
   "f532b522e57915a42784ccde6f569abfae4cb33e64eecf47c0494e98407c4fb5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -93839,6 +94230,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 187
+  },
+  "f580e1a38eb1c0cee382cfd37f7494a27ad2f2e03b72bb280c2c9c786a94d75a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-25T04:35:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "f583c2e68db5b2422250df782e5607ad953ef3f1a600de16a23702365deb967c": {
     "access_status": "unknown",
@@ -96232,7 +96647,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-04T05:46:34+00:00",
+    "checked_at": "2026-10-25T04:35:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
