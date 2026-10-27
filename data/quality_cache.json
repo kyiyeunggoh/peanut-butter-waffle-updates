@@ -3076,6 +3076,41 @@
     "weak_generic_terms_found": [],
     "word_count": 1956
   },
+  "084e8b1cd149fe5e64fc8b1d55cb2238ca009b282bd290e43b2b0376e27942c6": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "deception",
+      "vulnerability",
+      "cybercrime"
+    ],
+    "word_count": null
+  },
   "086272d18edd9082fc9f265cff9b9d5c05f9608cbe3b10b72715fa91d67aa099": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -7283,6 +7318,41 @@
       "trust"
     ],
     "word_count": 15523
+  },
+  "12f3cb579f2658ac9ba614555e347a1a074f3e97e43417206e10736b4a3cbd88": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Vietnam trial of 188 scam suspects includes TikTok, 'Shark Tank' stars Influencers' lavish lifestyles helped build trust in alleged operation Social media platforms have helped create a new generation of influencers in Vietnam. Prosecutors say defendants in a major fraud case leveraged online fame and luxury lifestyles to attract investors. (Source photos by AP and Reuters) HO CHI MINH CITY -- Vietnam began the trial of a TikToker, a 'Shark Tank Vietnam' star and 186 others on Monday, one of its biggest alleged internet crimes ever that exposed the power of social media personalities to lure investors into fake trading schemes. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 119
   },
   "130900cce6b63ece99292eb340bc5b66942872eb5f2247684d985b10ee4b4094": {
     "access_status": "available",
@@ -14602,6 +14672,52 @@
     ],
     "word_count": 3411
   },
+  "269c5de0e11a91df79d3bc6d8ae392ea9e9fcbcbcf4a9ade4f6f1a581991db96": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Your Token Is Gone: A Token-Consumption Countermeasure for Disrupting LLM-Based Scam Systems Fudu Xing Kailong Wang Tianlong Yu Abstract LLM-based scam systems increasingly combine adaptive dialogue, persistent context, external tools, and multi-agent coordination to automate personalized fraud. These capabilities also create a resource dependency: every reasoning step, model call, and coordination round incurs inference cost. We present TokenTrap, a resource-oriented defense that redirects suspected scam systems toward benign, low-value computation while withholding credentials, payments, and other exploitable information. TokenTrap combines three components: an architecture-specific token-task library, a router that selects among single-agent, hierarchical, and flat multi-agent workflows, and a bounded anti-guardrail strategy that varies task presentation while enforcing token, round, time, and safety limits. Across 50-round traces, TokenTrap amplifies token consumption by 2,487.0 \u00d7 2{,}487.0\\times , 1,616.0 \u00d7 1{,}616.0\\times , and 567.8 \u00d7 567.8\\times relative to a no-token-task baseline for the three workflows. Its router achieves 85.67% accuracy on 300 architecture-labeled prompts. These results demonstrate that short, non-sensitive requests can impose substantial context-processing and coordination costs, motivating...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:22+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [
+      "institution_domain:nus.edu.sg"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 13740
+  },
   "26b48c32fb941af3a813353e4fe4b77db0ac26a3e6ce5c343465babf886b33ca": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -21657,6 +21773,30 @@
     ],
     "word_count": 1505
   },
+  "39df4ee2e37dca38a6cabae65401db1b542386a3ffb8c8acf8f4f5dcd98d4431": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Too much AI can stifle innovation Companies need to put as much effort into protecting innovation from AI as they do into using AI to innovate. Sign up now: Get ST's newsletters delivered to your inbox One of the promises of AI is that it will take processes previously performed by expensive and unreliable humans and do them with cheap machines that can act with perfect uniformity. PHOTO: REUTERS Gautam Mukunda Published Oct 26, 2026, 07:00 PM Updated Oct 26, 2026, 07:00 PM Set as preferred source The latest way to sell artificial intelligence is with a high-tech version of the promise that corporate America last bought from Six Sigma. Earlier this month, Workday told investors that its customers should pay for its AI agents out of what they spend on labour and services, not just software. Workday itself, its CEO said, was looking to replace new hires with AI. One of the promises of AI is that it will take processes previously performed by expensive and unreliable humans and do them with cheap machines that can act with perfect uniformity. See more on Artificial Intelligence Innovation Employment Automation Too much AI can stifle innovation Companies need to put as much effort into protecting innovation from AI as they do into using AI to innovate. Sign up now: Get ST's newsletters delivered to your inbox One of the promises of AI is that it will take processes previously...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 593
+  },
   "39e29ac3852345fbb604ea3e06871e593926d237a43f544f44932a5597b2929f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -22845,7 +22985,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "This post is for paid members only Become a paid member for unlimited ad-free access to articles, bonus podcast content, and more. Subscribe Sign up for free access to this post Free members get access to posts like this one along with an email round-up of our week's stories. Subscribe Already have an account? Subscribe Sign up for free access to this post Free members get access to posts like this one along with an email round-up of our week's stories. Subscribe Already have an account? Sign in This post is for paid members only Sign up for free access to this post",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:55+00:00",
+    "checked_at": "2026-10-27T04:58:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -31259,6 +31399,32 @@
     ],
     "word_count": 1232
   },
+  "51851426c453ce40a5717db2315fc02952197e98a89f289788b76784dd910182": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "While You Were Sleeping: 5 stories you might have missed, Oct 27, 2026 Sign up now: Get ST's newsletters delivered to your inbox (From left) Saudi Defence Minister Prince Khalid bin Salman; Pakistan\u2019s army chief, Field Marshal Asim Munir; and Turkish intelligence chief Ibrahim Kalin during talks with Iran in Tehran on Oct 26. PHOTO: EPA Published Oct 27, 2026, 06:00 AM Updated Oct 27, 2026, 06:03 AM Set as preferred source Listen Iran holds \u2018very good\u2019 talks with Mecca pact nations on region\u2019s security Senior officials from Saudi Arabia, Turkey and Pakistan held talks with Iran on Oct 26 in an attempt to stop the Middle East war from reigniting, with Tehran saying the discussions were \u201cvery good\u201d. Officials from the three Mecca pact countries flew to Iran as part of efforts to \u201cde-escalate between the parties to the current crisis\u201d, a Saudi foreign ministry statement said. The talks, which included heavyweight Saudi Defence Minister Prince Khalid bin Salman, followed warnings by the United States, Iran and Israel that hostilities could restart in the eight-month war. READ MORE HERE Microsoft to offer buyouts to 60,000 workers in latest cost cut PHOTO: REUTERS Microsoft will offer buyouts to about 60,000 workers, part of the company\u2019s efforts to trim costs and retool its workforce for the artificial intelligence era. Some personnel in the US, Canada, India and the UK at a...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2065
+  },
   "5186efe68abdf24abcd0e71d654c4461cf9c493caa1fb9ea85883fdbcf2cdb89": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31680,6 +31846,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 7693
+  },
+  "529583451c18d42b08d067839f97a9c6966af9744ed26a2bff706a80c6e630c8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore embassy rejects claims of meeting with Indonesian figures, says it\u2019s \u2018disinformation\u2019 Sign up now: Get insights on Asia's fast-moving developments The Singapore embassy said it would work with Indonesia\u2019s Ministry of Communication and Digital Affairs to address the false claims. ST PHOTO: AZMI ATHNI Hariz Baharudin Published Oct 26, 2026, 10:15 AM Updated Oct 26, 2026, 05:06 PM Set as preferred source Listen Summarise Singapore\u2019s embassy in Jakarta rejected social media claims that Dino Patti Djalal and Saiful Mujani visited the ambassador\u2019s residence, calling them \u201cclearly disinformation\u201d. Dino said he was in Perth from Oct 18 to 20 for a climate change event, and called the story \u201c100 per cent fictitious, totally fabricated\u201d. Saiful also denied any meeting, and said he may investigate the claims and take legal action if needed. AI generated JAKARTA \u2013 The Singapore embassy in Jakarta has rejected social media claims that two prominent Indonesian figures, former deputy foreign minister Dino Patti Djalal and political researcher Saiful Mujani, visited the Singapore ambassador\u2019s residence, adding that it is \u201cclearly disinformation\u201d. In a statement on Oct 25, the embassy said it would work with Indonesia\u2019s Ministry of Communication and Digital Affairs to address the false claims, which alleged that the two men had visited the residence on Oct 18. \u201cThe Embassy is aware...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2276
   },
   "529932f8177609a78d0a2d4a79288f2a2197c11eec78c57cc59ed6c7617db2f8": {
     "access_status": "available",
@@ -34797,6 +34987,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 932
+  },
+  "5b0b68b0af0bac0432c4eaa5080bbaa27b1ab8cbfbdb2228fa34f10c746e32d7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pentagon eyes biggest-ever F-35 deal with plans to buy at least 850 more jets Sign up now: Get ST's newsletters delivered to your inbox The cost of the F-35 programme is already the most expensive in US history. PHOTO: AFP Published Oct 22, 2026, 10:11 PM Updated Oct 22, 2026, 10:43 PM Set as preferred source Listen Summarise The Pentagon plans to buy at least 850 more F-35 jets in what would be the programme\u2019s biggest deal and a sign the aircraft will stay central to US air power. The 10-year framework also covers spare parts, upgrades and fleet support. It aims to steady prices, improve supply and help Lockheed Martin invest in more capacity and a stronger supply chain. The deal still faces final contract talks and possible budget changes from Congress. The F-35 programme also faces higher costs, low readiness and delays to the TR3 upgrade. AI generated WASHINGTON \u2013 The Pentagon plans to buy at least 850 additional Lockheed Martin F-35 fighter jets in what would be the biggest contract in the programme\u2019s quarter-century history that signals the stealth warplane will remain a major part of the US arsenal for many years. The contract, which is not yet final, also includes procurement of initial spare parts and modification kits, plus sustainment of the global F-35 fleet over 10 years, the defence Department said in a statement on Oct 22. The Pentagon statement did not provide...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2453
   },
   "5b2319253dc7045c0083824e1bab049ffc59b71a9278f7d876b2262c4b7ef6b5": {
     "access_status": "available",
@@ -41994,6 +42208,30 @@
       "identity"
     ],
     "word_count": 24598
+  },
+  "6d792b1927f8c5dd6cd49cf2c0a27aa546f0a673a76e5b9cdb1a33c583db694b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore factory output growth slows to 3.4% in September despite AI-driven demand Sign up now: Get ST's newsletters delivered to your inbox Total output in September grew by 3.4%, but it was far below the 7.1% forecast by economists. PHOTO: ST FILE Benjamin Lim Published Oct 26, 2026, 01:00 PM Updated Oct 26, 2026, 07:23 PM Set as preferred source Listen Summarise Singapore factory output growth slowed to 3.4% in September, far below the 7.1% forecast, but AI-related demand still supported electronics and precision engineering. Precision engineering rose 31% and electronics 5.7%, led by semiconductors and computer gear; however, biomedical manufacturing fell 32.8% and chemicals dropped 4.6%. Economists said AI demand should stay strong, but growth may stay uneven because of higher costs, supply chain problems, hyperscaler risks, and Middle East tensions affecting feedstock supply. AI generated SINGAPORE - Singapore\u2019s manufacturing output growth slowed sharply in September despite continued demand for artificial intelligence-related products that supported the electronics and precision engineering sectors. Factory output rose by 3.4% year on year in September, down from the 15.4% expansion recorded in August, according to data released by the Economic Development Board (EDB) on Oct 26. The figure was well below the 7.1% forecast by economists in a Bloomberg poll. The slowdown...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2699
   },
   "6d855856acdd262afdc3d0d01bb689a29a75d7a082da1d8bea2c21f9253b6b16": {
     "access_status": "available",
@@ -53106,6 +53344,30 @@
     ],
     "word_count": 3034
   },
+  "887a702f7448e15bc35bc3072e2aa3537238c30170b6baa9e7452186e8ca44b0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "S\u2019pore to raise retirement age to 65, re-employment age to 70 in 2029; expand flexi work for seniors Sign up now: Get ST's newsletters delivered to your inbox Among a raft of measures recommended by the Tripartite Workgroup on Senior Employment are reducing senior workers\u2019 tax burden and creating flexi-load work arrangements. PHOTO: ST FILE Sharon Salim Published Oct 26, 2026, 01:30 PM Updated Oct 27, 2026, 09:18 AM Set as preferred source Listen Summarise Singapore will raise the statutory retirement age to 65 and re-employment age to 70 on Jan 1, 2029, allowing older workers to remain employed if they want to. The workgroup wants to help companies create more flexi-load options. It will set up a new programme office to help firms redesign jobs and cut costs. Support for senior workers will be improved through higher earned income relief, updated assistance payments, a new Re-Employment Credit, and stronger help for lower-wage seniors. AI generated SINGAPORE \u2013 The retir ement age will be raised to 65 on Jan 1, 2029, and the re-employment age to 70, as part of Singapore\u2019s measures to build age-friendly jobs and age-diverse workplaces. The changes will take effect one year ahead of the original target. \u201cThis gives senior workers greater assurance that they can continue working if they wish to,\u201d the Tripartite Workgroup on Senior Employment said on Oct 26. The retirement age was...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3995
+  },
   "887f8e7eac4e2bb89062144fb32ef4cb49b04b369bc6e02519eaf5f46cf61663": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -55840,6 +56102,68 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2757
+  },
+  "9189c25e903f08688c5a350f892d4ce053a7cad469b67e09cf91a29845d5c64c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: ReDence: A Hybrid Agentic and Decision-Model Framework for Rapid, Evidence-Grounded Detection of Modern Social Engineering Scams Jaishnoor Kaur, Josef Hor\u00e1\u010dek, Ian Waskom, Sayak Saha Roy Affiliation: Louisiana State University Affiliation: {Jaishnoor.Kaur, jhoracek, Ian.Waskom}@lsu.edu, sayak.saharoy@lsu.edu Abstract Detecting online social engineering (SE) scams often requires examining website workflows, verifying claims against external sources, and connecting evidence across multiple pages. Existing detectors provide limited support for these investigations, leaving analysts to manually gather and validate evidence, which inevitably delays detection and subsequent takedown of these attacks. To address this gap, we present ReDence, an open-source hybrid framework for adaptive, evidence-grounded detection across diverse SE scam categories. ReDence combines two locally hosted models with complementary responsibilities: a fine-tuned multimodal agentic Investigator (Qwen3.5-4B) that performs investigative planning, evidence interpretation, and reporting, and a specialized Decider (Tev1) that handles binary and multiple-choice tasks, including browser-action selection, evidence assessment, and decisions about whether to continue an investigation. By delegating discrete decisions to a specialized model, ReDence reduces reliance...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam",
+      "online fraud",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam",
+      "online fraud",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam",
+      "online fraud",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 26313
   },
   "91a17ca90f1356f32aec905157a5a1618508722ac9646f14cb16756b2ffecf66": {
     "access_status": "available",
@@ -60190,7 +60514,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-08T05:56:34+00:00",
+    "checked_at": "2026-10-27T04:58:28+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -60993,6 +61317,30 @@
     ],
     "word_count": null
   },
+  "9e624db111a4e6a3254a9f5a7ae03c94feedf3b1e8a6e1b35509bd081736575a": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Singapore unveils new initiatives to help companies harness AI, such as to develop new products Sign up now: Get ST's newsletters delivered to your inbox The initiatives reflect Singapore\u2019s recognition that AI will rapidly become the defining force behind the next wave of innovation. ST PHOTO: LIM YAOHUI Ovais Subhani Published Oct 27, 2026, 10:02 AM Updated Oct 27, 2026, 12:26 PM Set as preferred source Listen SINGAPORE \u2013 Singapore launched four new initiatives to support companies of all sizes in boosting their capability to implement and scale artificial intelligence, and use the technology to transform their businesses. The initiatives reflect Singapore\u2019s recognition that AI will rapidly become the defining force behind the next wave of innovation, transforming how new ideas, products and services are developed and commercialised. Deputy Prime Minister Gan Kim Yong announced the initiatives at the 2026 Singapore Week of Innovation and Technology (SWITCH) on Oct 27, noting that Singapore will explore ways to make AI work better for its industries and workers, to build an economy that is more innovative, competitive and inclusive. \u201cAI offers opportunities to raise productivity, and develop new products and capabilities,\u201d he said in his speech at the event\u2019s opening ceremony held at Marina Bay Sands. The initiatives follow the four national AI missions \u2013 advanced...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3097
+  },
   "9e6b872015289b4488f9f9a3a144ae49bce331700676c734f4655550537febd9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -61428,7 +61776,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: A Gradient-Optimized TSK Fuzzy Framework for Explainable Phishing Detection Lohith Srikanth Pentapalli Affiliation: University of Cincinnati Jon Salisbury Affiliation: Nexigen E-mail pentapls@mail.uc.edu, jsalisbury@nexigen.com, riepjr@ucmail.uc.edu, cohenky@ucmail.uc.edu Josette Riep Affiliation: University of Cincinnati Kelly Cohen Affiliation: University of Cincinnati Abstract Phishing attacks represent an increasingly sophisticated and pervasive threat to individuals and organizations, causing significant financial losses, identity theft, and severe damage to institutional reputations. Existing phishing detection methods often struggle to simultaneously achieve high accuracy and explainability, either failing to detect novel attacks or operating as opaque black-box models. To address this critical gap, we propose a novel phishing URL detection system based on a first-order Takagi-Sugeno-Kang (TSK) fuzzy inference model optimized through gradient-based techniques. Our approach intelligently combines the interpretability and human-like reasoning capabilities of fuzzy logic with the precision and adaptability provided by gradient optimization methods, specifically leveraging the Adam optimizer for efficient parameter tuning. Experiments conducted using a comprehensive dataset of over 235,000 URLs demonstrate rapid...",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:54+00:00",
+    "checked_at": "2026-10-27T04:58:28+00:00",
     "direct_relevance_terms_found": [
       "smishing",
       "phishing site"
@@ -61994,9 +62342,9 @@
   "a0fc3f99bb503085f81ed1e836e2309d1d4e42532e5c99913014efa93ce1d8cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Oct 15, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
+    "article_excerpt": "Pricing Last updated Oct 20, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
     "cache_version": 10,
-    "checked_at": "2026-10-19T04:34:20+00:00",
+    "checked_at": "2026-10-27T04:58:27+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -62013,7 +62361,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 4364
+    "word_count": 4478
   },
   "a1221e491fd2cbcab727bbb9dd1f08d8a8af54ab90b9bd5987f5c81851272591": {
     "access_status": "available",
@@ -63405,6 +63753,42 @@
       "trust"
     ],
     "word_count": 32519
+  },
+  "a407724dc2991a8f46dc5a67b680035388efb5c09c059002bfaead528fa4a6af": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Overview Decision Agents How It Works Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Webinars Blogs Insights Situation Briefs Learn Narrative Intelligence Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us Insights / Storm-1516 Produces Very Likely Deepfake Videos of Student Accusing Democratic Senate Candidate of Sexual Assault Oct 21, 2026 Storm-1516 Produces Very Likely Deepfake Videos of Student Accusing Democratic Senate Candidate of Sexual Assault We identified a very likely coordinated network of accounts across Facebook, Instagram, Pinterest, Threads, TikTok, X, and YouTube that is impersonating US Assistant Attorney General Colin McDonald, who serves in the Department of Justice\u2019s National Fraud Enforcement Division. Generative AI Harms The Graphika Team Graphika Research Team Share Go Deeper See the Signals Behind the Insights Every insight is powered by Graphika's intelligence platform. Book a demo to see the signals, networks, and narratives behind the analysis and how it can work for your...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2722
   },
   "a40893a9c384ccd0a2939b9590216933ece670a3c3be9689b740de4775d413b8": {
     "access_status": "available",
@@ -65442,7 +65826,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:56+00:00",
+    "checked_at": "2026-10-27T04:58:27+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -68674,7 +69058,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Man arrested after allegedly discussing Sydney childcare mass shooting plans with AI chatbot Sign up now: Get insights on Asia's fast-moving developments David Lan Thackray was arrested after his conversations with AI chatbot Claude were flagged by Interpol. PHOTO: LIANHE ZAOBAO Dilenjit Singh Published Oct 19, 2026, 07:51 PM Updated Oct 19, 2026, 10:41 PM Set as preferred source Listen Summarise David Lan Thackray, 29, was charged in Sydney after allegedly using Claude to discuss a plan to shoot up a childcare centre near his home. Police said Interpol flagged the chats. Prosecutors warned of a \u201ccatastrophic\u201d risk if he was released, and he was remanded for a mental health assessment. His lawyer said the comments were a stress-induced outburst. Claude\u2019s maker Anthropic says the chatbot refuses violent requests and may share data with police in emergencies. AI generated A man in Sydney has been charged after he allegedly threatened to shoot up a childcare centre in the Australian city during an interaction with AI chatbot Claude. David Lan Thackray, 29, was arrested on the morning of Oct 18 and charged with using a carriage service to menace, harass or offend after his conversations with artificial intelligence chatbot Claude were flagged by Interpol, the Sydney Morning Herald reported on Oct 19. Thackray, who allegedly told Claude he planned to shoot several children at a...",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:53+00:00",
+    "checked_at": "2026-10-27T04:58:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -68996,6 +69380,41 @@
       "identity"
     ],
     "word_count": 27794
+  },
+  "b19370a0c443b272830d07793b1cf18e2b5d8ab64cc216867c400b14ac1fdb81": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Spectra : Multi-Scale Implicit Decomposition for Deepfake Detection Dhananjaya Jayasundara \u2020 \u2020 thanks: All authors are with Johns Hopkins University, Corresponding Author (vjayasu1@jh.edu) Kartik Narayan 1 1 footnotemark: 1 Vishal M. Patel 1 1 footnotemark: 1 Abstract Deepfakes increasingly undermine trust in digital media, yet existing detectors often struggle to generalize across unseen manipulation techniques, compression levels, and dataset shifts. Most approaches rely on RGB appearance, frequency-domain artifacts, or their combination, learning cues present in the final synthesized image. While effective in-distribution, such cues are frequently generator-specific and can diminish as synthesis models evolve. We argue that a complementary perspective can be obtained through implicit neural representations (INRs), which expose how an image is reconstructed rather than merely how it appears. By fitting an INR to an image and analyzing its internal activations, one can reveal reconstruction dynamics that are difficult to observe in the image domain alone and may capture more intrinsic differences between genuine and synthetic content. To this end, we propose Spectra , a deepfake detection framework that combines semantic visual representations with artifact-aware cues derived from INR reconstruction. Spectra extracts...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:23+00:00",
+    "direct_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 14171
   },
   "b19ee70b27907ade6a942e75cb42cb4174a849688da61c88646160cffe0df20e": {
     "access_status": "available",
@@ -70949,6 +71368,35 @@
       "identity"
     ],
     "word_count": 8918
+  },
+  "b73195af53239465fdb05cdf4763f66a8076f7fd6e987366fdc9363b2fb2f3f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 0
   },
   "b73407e76cc837e3f563ebfb280dc7bb99675d1d2bc281aa5f118a98cbaa3401": {
     "access_status": "available",
@@ -79951,6 +80399,32 @@
     ],
     "word_count": 6520
   },
+  "ce67876132ccf6df0762a4e95795386f005413323c14d349d95a21aa952a0d1f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "ce6920d3887ce99cd58ff3b1bc7ccf8ddc68d5101e338bfc90bb07192c893e9c": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -83943,6 +84417,30 @@
       "identity"
     ],
     "word_count": 5064
+  },
+  "d820f5ba479e08b72c2cb60205d3cf27fd6731a341d5fba78a92c01b211740c3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The AI supply chain could be South-east Asia\u2019s next gold rush Sign up now: Get ST's newsletters delivered to your inbox While frontier AI capabilities are largely being developed in the US and China, much of the AI infrastructure is being built in, and then exported from, Asia. PHOTO: REUTERS Robert Walker Published Oct 26, 2026, 02:00 PM Updated Oct 26, 2026, 05:41 PM Set as preferred source Unlock audio The region will be key for less advanced electronics manufacturing and semiconductor assembly, testing and packaging. Exports are booming in Asia. Strong growth in AI-related exports \u2013 the physical products needed for the global data centre build-out \u2013 is driving broader growth in the region. This surging demand is already offsetting the negative impacts of chaotic US trade policy and the Iran war. See more on AI/artificial intelligence Semiconductors Asean The AI supply chain could be South-east Asia\u2019s next gold rush Sign up now: Get ST's newsletters delivered to your inbox While frontier AI capabilities are largely being developed in the US and China, much of the AI infrastructure is being built in, and then exported from, Asia. PHOTO: REUTERS Robert Walker Published Oct 26, 2026, 02:00 PM Updated Oct 26, 2026, 05:41 PM Set as preferred source Unlock audio The region will be key for less advanced electronics manufacturing and semiconductor assembly, testing and packaging....",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 444
   },
   "d861e576e5ca59fc30788224a96eaa84a312c14efe520f124975b530628829a4": {
     "access_status": "available",
@@ -88134,7 +88632,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: He Cheng Ba Wen Lu Yang Ren Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection Miao Peng Zhongjie Qing Li Xin Kui Abstract Advances in speech synthesis have made deepfake speeches increasingly convincing, posing growing threats to security. While self-supervised learning (SSL) based detectors achieve state-of-the-art performance, their computational demands (typically 300M+ parameters) prevent deployment on resource-constrained devices. Existing compression methods, designed mainly for content-centric tasks, struggle to maintain competitive performance when directly adapted to deepfake detection. We propose a Task-Aware Joint Pruning and Distillation framework that combines cross-domain knowledge distillation with movement-guided structured pruning to transfer forgery-discriminative knowledge and preserve critical structures under aggressive compression. Our framework reduces the model to 31.9M parameters with 6.3 \u00d7 \\times FLOPs reduction, with an average performance drop of only 1.30% across multiple datasets compared to the uncompressed baseline, demonstrating strong potential for on-device deployment. keywords deepfake detection, model compression, knowledge distillation, structured pruning \u2020 \u2020 address: 1 The State Key Laboratory of Blockchain and Data Security, Zhejiang University, China 2...",
     "cache_version": 10,
-    "checked_at": "2026-10-18T04:24:38+00:00",
+    "checked_at": "2026-10-27T04:58:26+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -88690,6 +89188,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1437
+  },
+  "e49a61d302f429f4148ced5d381ad357ea09c69398ddb40d3d6733c07c315864": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump adds Norway to vulgar list of countries, citing Nobel snub Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump said the country does not welcome Norwegian immigrants. PHOTO: AFP Published Oct 26, 2026, 09:58 AM Updated Oct 26, 2026, 04:10 PM Set as preferred source Listen Summarise Trump attacked Norway at a Michigan rally, calling it a \u201cs*** house country\u201d and linking his anger to the Nobel Committee not giving him a Peace Prize. He said Norwegian immigrants are not welcome, but there was no sign of any new US policy on immigration from Norway. The remarks came before the Nov 3 midterm elections and followed his earlier claim that the Nobel snub was an \u201cindelible stain\u201d on Norway. AI generated PORT HURON, Michigan \u2013 US President Donald Trump on Oct 25 escalated his invective against Norway, calling it a \u201c s*** house country\u201d and saying Norwegian immigrants are not welcome in the United States because the Nobel committee, based in the capital Oslo, has not awarded him a Peace Prize . Trump made the comments at a political rally in Port Huron, Michigan, ahead of the midterm elections on Nov 3 . Attributing recent unrest in France to immigration, Trump said he would welcome immigrants from some countries but not from Norway \u201cbecause I didn\u2019t get the Nobel Prize... So I don\u2019t want anybody from Norway\u201d. There was no indication that the Trump...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1194
   },
   "e4a28c7b88b8d7381d5a8a737d57767485d60049fd54023a45ffa7b4efaaf0a6": {
     "access_status": "available",
@@ -89964,9 +90486,9 @@
   "e8a62990b213d20ecfba1c272f31bf12c7895f413c95221cb800de5589a4413d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Security firm finds China-linked AI agent behind Japan cyberattacks Sign up now: Get insights on Asia's fast-moving developments The AI agent concerned has been allegedly also used in recent cyberattacks against South Korean financial institutions. PHOTO: REUTERS Published Oct 20, 2026, 12:30 PM Updated Oct 20, 2026, 12:30 PM Set as preferred source Summarise GMO Internet Group\u2019s security arm said a China-linked AI agent, Artex, was used in cyberattacks on Japanese firms, after a rise in data leaks across several industries. The attacks hit retail, logistics and financial companies. Eight firms disclosed leaked or possibly leaked data in September and October. Another probe linked Artex to South Korean financial institutions. Cybersecurity minister Toshiharu Furukawa said the government is checking for malicious AI use and will keep working to stop attacks. AI generated TOKYO \u2013 A China-linked artificial intelligence agent was identified as having been used in cyberattacks targeting firms in Japan, a security firm said based on its investigation, following a spate of leaks of personal data across various industries. In recent weeks, a growing number of Japanese companies have reported unauthorised access and subsequent information leaks or possible leaks. Artex, the AI agent concerned, has been allegedly also used in recent cyberattacks against South Korean financial...",
+    "article_excerpt": "Security firm finds China-linked AI agent behind Japan cyberattacks Sign up now: Get insights on Asia's fast-moving developments The AI agent concerned has been allegedly also used in recent cyberattacks against South Korean financial institutions. PHOTO: REUTERS Published Oct 20, 2026, 12:30 PM Updated Oct 20, 2026, 12:30 PM Set as preferred source Listen Summarise GMO Internet Group\u2019s security arm said a China-linked AI agent, Artex, was used in cyberattacks on Japanese firms, after a rise in data leaks across several industries. The attacks hit retail, logistics and financial companies. Eight firms disclosed leaked or possibly leaked data in September and October. Another probe linked Artex to South Korean financial institutions. Cybersecurity minister Toshiharu Furukawa said the government is checking for malicious AI use and will keep working to stop attacks. AI generated TOKYO \u2013 A China-linked artificial intelligence agent was identified as having been used in cyberattacks targeting firms in Japan, a security firm said based on its investigation, following a spate of leaks of personal data across various industries. In recent weeks, a growing number of Japanese companies have reported unauthorised access and subsequent information leaks or possible leaks. Artex, the AI agent concerned, has been allegedly also used in recent cyberattacks against South Korean financial...",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:51+00:00",
+    "checked_at": "2026-10-27T04:58:22+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -89985,7 +90507,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 1163
+    "word_count": 1165
   },
   "e8b8b5a4fa093c9a96c6b5aa43c20bbf14721d849f5a0812b4e5d9ae4f685b9f": {
     "access_status": "available",
@@ -92701,6 +93223,51 @@
     ],
     "word_count": 4466
   },
+  "f07dbb5c04a336b3787fb88b69bf038f343e81e647797452f1f49945a31b1d0f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Scammers Are Telling Norwegians to Drop Gold in Forests for \u2018Safekeeping\u2019 October 26, 2026 Financial institutions in Norway have recently issued a warning about an unusual, yet extremely concerning, scam tactic where criminals seek to persuade victims to buy large amounts of gold and then leave it in forests, parks, or other isolated locations for collection. Key takeaways How the scam works Usually, when we read about these types of scams, we think few people would ever fall for them. But here\u2019s the thing: The scam doesn\u2019t begin with a stranger asking you to simply abandon gold in the woods. It usually starts with a phone call, with criminals pretending to be from a bank, the police, local government or another trusted entity. The caller may claim your identity has been stolen, your account has been compromised, or that criminals are about to take your savings. Then comes the supposed solution: move your money somewhere \u201csafe.\u201d In this case, that means buying gold and following instructions about where to leave it. In some cases, they are then instructed to leave the gold in an unusual place outdoors so it can be collected later. While this scam variant seen in Norway seems extremely unusual, the scam playbook isn\u2019t. We\u2019ve already seen related gold-bar scams in the United States and Australia, where criminals impersonate government officials, law enforcement officers or...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "cybersecurity",
+      "identity",
+      "trust"
+    ],
+    "word_count": 606
+  },
   "f09c13844ff002c91e14a71b59a26547001f047469796ba0391d745e84e66749": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -95091,7 +95658,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:55+00:00",
+    "checked_at": "2026-10-27T04:58:29+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -96184,6 +96751,44 @@
       "trust"
     ],
     "word_count": 16683
+  },
+  "f92e60383fa38501bb7ae94febde71d2813480c12e6b0e7c6f943963a9eff368": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Police & Fire Con artist wanted for scamming four Queens seniors out of more than $90K of their life savings: NYPD By Bill Parry \u2026 Comments Posted on October 26, 2026 Cops are looking for the suspect, who allegedly uses deception to persuade senior citizens to part with large chunks of their life savings in a series of grand larcenies since early June. Photo courtesy of the NYPD Police from three Queens NYPD precincts are looking for a young con artist who targeted at least four senior citizens in the last five months and convinced them to part with their life savings in excess of $90,000 so far. The first grand larceny occurred on Tuesday, June 2, after an 80\u2013year-old Astoria woman received an email informing her that she was the victim of a scam and providing a contact number. The victim called the number and spoke with the modern-day Rasputin, who used deception to persuade her to withdraw $20,000 from her bank. The suspect then met the victim in the vicinity of 35th Avenue and 21st Street in the confines of the 114th Precinct in Astoria at around 3 p.m. and handed over her cash, police said. The perpetrator fled in an unknown direction. Two months later, a 74-year-old male victim received a telephone phone call on Monday, Aug. 31, from the suspect who once again used deception to persuade the elderly gentleman to withdraw $20,000 from his bank and then meet with the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-27T04:58:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception"
+    ],
+    "word_count": 1735
   },
   "f93828d3cd1b3ed53b358493f78a06af82b070f485f32b983830560502207138": {
     "access_status": "available",
