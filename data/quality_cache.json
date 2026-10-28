@@ -387,7 +387,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: SoK: PIAtlas: Decomposing the Unbounded Prompt Injection Attack Space Stavros Damianakis Affiliation: University of Southern California sdamiana@usc.edu Konstantinos Psounis Affiliation: University of Southern California kpsounis@usc.edu Abstract Prompt injection is the dominant security risk for large-language-model (LLM) applications and agents, yet the field still lacks a coherent map of how these attacks are constructed. More than twenty public datasets describe prompt injection using incompatible vocabularies, often organized around delivery vector, attacker goal, or generation method. In this Systematization of Knowledge, we present PIAtlas, a taxonomy organized instead around how the injected instruction is constructed to subvert the underlying model. Its six classes, one per subversion mechanism, form the roots of a hierarchy of techniques and sub-techniques that researchers can use to describe attacks consistently and design more systematic evaluations. We derive the taxonomy from how LLMs are trained, prompted, and influenced by human-like framing, and compare it with historical attack data. To ground this comparison, we release PICorpus, to our knowledge the largest license-clean collection of public prompt-injection datasets, and map thousands of its records to PIAtlas under a human-verified protocol. The mapping...",
     "cache_version": 10,
-    "checked_at": "2026-10-21T04:39:04+00:00",
+    "checked_at": "2026-10-28T05:34:27+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "account takeover"
@@ -811,6 +811,54 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2610
+  },
+  "0267c7cf90071d1695c14ebd0d18b8fc3f1d9d44b8016a9920a8401e524416cb": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Data Governance for Generative and Agentic AI Technology, Law, Economics, and Security Narayana Darapaneni Padmaja K Gnana Chaithra D Preprint \u2014 October 2026 This is the authors\u2019 preprint of the complete book. Abstract. This book develops a unified governance framework for systems that retrieve, generate, infer, remember and act on information\u2014from large language models and retrieval-augmented pipelines to autonomous multi-agent systems. Eleven chapters and eight appendices integrate three disciplinary lenses\u2014technology, law and economics\u2014across the full lifecycle: data quality, lineage and provenance; global data protection law and intellectual property; the economics of data governance; digital trust, cybersecurity and zero-trust architecture; ethics and responsible AI; governing generative AI pipelines; governing agentic AI and multi-agent systems; data governance in elections and the public sphere; AI regulation across six jurisdictions; and the design of a governance control plane for 2030. Each chapter is anchored in Indian law and institutions while maintaining a comparative, cross-jurisdictional perspective. Keywords: data governance, generative AI, agentic AI, multi-agent systems, zero trust, responsible AI, AI regulation, DPDP Act 2023, EU AI Act, data quality, data lineage, elections, governance control plane...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:22+00:00",
+    "direct_relevance_terms_found": [
+      "phishing site"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "phishing site"
+    ],
+    "downrank_reason": "negative_domain_context, generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "phishing site"
+    ],
+    "technology_modus_terms_found": [
+      "robocall",
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "watermarking",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 247468
   },
   "029205299345d0e1949711d1f1078c3405276a112b628f1c8a78095f9623667d": {
     "access_status": "available",
@@ -4245,6 +4293,46 @@
     ],
     "word_count": 13391
   },
+  "0bd3092e0b4b5b5a80ccca356f9abff22439796b89432520303a14b54054377f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Persuasion Propagation: Does Persuasion Change AI Agent Behavior? Hyejun Jeong Amir Houmansadr Shlomo Zilberstein Eugene Bagdasarian UMass Amherst Abstract AI agents combine normal conversation with autonomous task execution, allowing earlier context to shape how later tasks are executed. Yet studying this possibility is challenging because agent behavior is noisy and costly to reproduce, and observed behavioral changes can be difficult to separate from generic context sensitivity. We first ask whether task-irrelevant persuasion changes how agents act, a phenomenon we call persuasion propagation , and whether persuasion susceptibility explains variation in these effects. We show that persuasive interaction leaves a measurable, task-dependent behavioral footprint on downstream agent execution. In web research, it increases execution time by 56% and domains visited by 16.3% relative to a baseline, while coding shows faster execution with larger revisions. However, agents that are more susceptible to persuasive conversational context do not reliably predict the magnitude of the downstream behavioral shifts. This motivates behavior-level evaluation of persuasion in AI agents. 1 Introduction Large Language Models (LLMs) are increasingly deployed as AI agents for task automation, including web browsing, coding, and research [ 1 , 2...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fraud victim"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 21666
+  },
   "0bd4d210b87cb06228781fa61fc4e1f5231d7722e01d65cc26ef8eeb0179dd9b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -6844,6 +6932,46 @@
       "fraud"
     ],
     "word_count": 17
+  },
+  "120014a7b44cc16209e798851032869e3e7c169b2da8973212a92b60f28f3ff0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: ADVERSARIAL ROBUSTNESS EVALUATION Measuring the Residual Jailbreak Surface of Frontier Large Language Models A red-team study of Anthropic Fable 5 & Opus 4.8 models September 2026 ABSTRACT We evaluate the adversarial robustness of three frontier large language models (LLMs) developed by Anthropic, Opus 4.8, Fable 5 and its successor Fable 5.1, against four families of automated jailbreak attack across 7 826 7\\,826 harmful intents spanning a ten-category harm taxonomy. Using the HackAgent 1 1 1 HackAgent is an open-source AI-agent red-teaming toolkit developed by the AI Security Lab at AI4I: it orchestrates an attacker model against a target model under a chosen jailbreak algorithm, scores the target\u2019s responses, and logs every attempt. https://hackagent.dev . red-teaming framework, hundreds of thousands of adversarial attempts were generated and every apparent success was independently re-adjudicated by the same panel of five frontier judge models ( \u2265 4 / 5 \\geq 4/5 agreement) for all three targets. All models resist the majority of attacks, but the residual surface is larger than aggregate framing suggests: it is dominated by adaptive iterative attacks, while static obfuscation is near-fully neutralised. On the two attack families run against all three targets (TAP and PAP), with identical denominators, the ordering does not...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud"
+    ],
+    "word_count": 14655
   },
   "121e42298f87f7f2dfcb7a0ba63b1c4caee13f9f428fa01a93304de8680d1d08": {
     "access_status": "available",
@@ -10050,9 +10178,9 @@
   "1972cfb12cf47790db836d4bb5756111a7815fa4b128741f933a7880bf68c9aa": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US sanctions Chinese venture firm in Google AI secrets case Sign up now: Get ST's newsletters delivered to your inbox The case centres on Ding Linwei, a former Google software engineer convicted in 2026 of stealing Google AI trade secrets. PHOTO: REUTERS Published Oct 21, 2026, 09:50 AM Updated Oct 21, 2026, 10:49 AM Set as preferred source Listen Summarise The US sanctioned Shanghai Zhisuan Technology and MiraclePlus-linked firms over alleged ties to a startup accused of stealing Google AI trade secrets. MiraclePlus denied investing in Zhisuan and said the sanctions came without warning; it is seeking to have them lifted through \u201ccandid communication\u201d. The case centres on Ding Linwei, a former Google engineer convicted of stealing more than 2,000 pages of secrets, highlighting tougher US action on AI trade-secret theft. AI generated The US government has blacklisted a Chinese venture firm established by ex-Microsoft AI scientist Lu Qi for alleged ties to a start-up accused of stealing technology from Alphabet\u2019s Google. The US State Department announced on Oct 19 measures against Shanghai Zhisuan Technology , founded by Ding Linwei, a former Google software engineer convicted in 2026 of stealing Google AI trade secrets. Lu\u2019s MiraclePlus, the successor to a Chinese programme run by Silicon Valley\u2019s Y Combinator, and three affiliates drew sanctions for providing seed financing...",
+    "article_excerpt": "US sanctions Chinese venture firm in Google AI secrets case Sign up now: Get ST's newsletters delivered to your inbox The case centres on Ding Linwei, a former Google software engineer convicted in 2026 of stealing Google AI trade secrets. PHOTO: REUTERS Published Oct 21, 2026, 09:50 AM Updated Oct 21, 2026, 01:33 PM Set as preferred source Listen Summarise The US sanctioned Shanghai Zhisuan Technology and MiraclePlus-linked firms over alleged ties to a startup accused of stealing Google AI trade secrets. MiraclePlus denied investing in Zhisuan and said the sanctions came without warning; it is seeking to have them lifted through \u201ccandid communication\u201d. The case centres on Ding Linwei, a former Google engineer convicted of stealing more than 2,000 pages of secrets, highlighting tougher US action on AI trade-secret theft. AI generated The US government has blacklisted a Chinese venture firm established by ex-Microsoft AI scientist Lu Qi for alleged ties to a start-up accused of stealing technology from Alphabet\u2019s Google. The US State Department announced on Oct 19 measures against Shanghai Zhisuan Technology , founded by Ding Linwei, a former Google software engineer convicted in 2026 of stealing Google AI trade secrets. Lu\u2019s MiraclePlus, the successor to a Chinese programme run by Silicon Valley\u2019s Y Combinator, and three affiliates drew sanctions for providing seed financing...",
     "cache_version": 10,
-    "checked_at": "2026-10-21T04:39:10+00:00",
+    "checked_at": "2026-10-28T05:34:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15367,6 +15495,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2920
   },
+  "283b068168c7c130f73432424c9787f0a282fdfdea08df6e15c18309f4eb6dd4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 23, 2026 Redesigned Cloudflare Radar homepage Radar Copy as Markdown | View as Markdown | Agent setup The Cloudflare Radar homepage has been redesigned to make global Internet data easier to explore for broader audiences, including journalists, policymakers, and everyday users, while preserving the depth that technical users rely on. Interactive map : Shows Internet traffic and outages around the world, and acts as a starting point for exploring specific countries and trends. Curated insights section : Tabbed navigation that highlights summary statistics across Radar data, with a call to action to explore each area in depth. Updated interface : Built with Kumo \u00e2\u0086\u0097\u00ef\u00b8\u008e components, the same ones used across Cloudflare products. As we continue the redesign, all Radar pages will see improvements. Share feedback at radar@cloudflare.com . For more details, read the blog post \u00e2\u0086\u0097\u00ef\u00b8\u008e or visit Cloudflare Radar \u00e2\u0086\u0097\u00ef\u00b8\u008e . October 23, 2026 Redesigned Cloudflare Radar homepage Radar Copy as Markdown | View as Markdown | Agent setup The Cloudflare Radar homepage has been redesigned to make global Internet data easier to explore for broader audiences, including journalists, policymakers, and everyday users, while preserving the depth that technical users rely on. Interactive map : Shows Internet traffic and outages around the world, and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 361
+  },
   "286d4cbedbed35fecc4142c90a380cff3dd0faca7f8e0f07ffa37b3533772239": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -18668,6 +18820,30 @@
       "trust"
     ],
     "word_count": 4497
+  },
+  "3168ba075e40493896f5d2ac4fe4df9eb1e012ad827140085881d3324b4c6194": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Using AI Models Last updated Oct 27, 2026 | Copy as Markdown | View as Markdown | Agent setup Agents can call AI models from any provider. Workers AI is built in and requires no API keys. You can also use OpenAI \u00e2\u0086\u0097\u00ef\u00b8\u008e , Anthropic \u00e2\u0086\u0097\u00ef\u00b8\u008e , Google Gemini \u00e2\u0086\u0097\u00ef\u00b8\u008e , or any service that exposes an OpenAI-compatible API. The AI SDK \u00e2\u0086\u0097\u00ef\u00b8\u008e provides a unified interface across all of these providers, and is what AIChatAgent and the starter template use under the hood. You can also use the model routing features in AI Gateway to route across providers, eval responses, and manage rate limits. Calling AI Models You can call models from any method within an Agent, including from HTTP requests using the onRequest handler, when a scheduled task runs, when handling a WebSocket message in the onMessage handler, or from any of your own methods. Agents can call AI models on their own \u00e2\u0080\u0094 autonomously \u00e2\u0080\u0094 and can handle long-running responses that take minutes (or longer) to respond in full. If a client disconnects mid-stream, the Agent keeps running and can catch the client up when it reconnects. Streaming over WebSockets Modern reasoning models can take some time to both generate a response and stream the response back to the client. Instead of buffering the entire response, you can stream it back over WebSockets .",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3240
   },
   "317860deb97bfeb47fcacd196992252415ded6cb1e8de131c0d795aab6bc2503": {
     "access_status": "available",
@@ -25468,6 +25644,30 @@
     ],
     "word_count": 7621
   },
+  "42c3f9d03d0b71705cf9a236787730440b72c49e15db78c1ac9531de02c5af23": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "RSAF trials new tools at Exercise Wallaby that significantly speed up mission planning Sign up now: Get ST's newsletters delivered to your inbox Wong Man Shun Published Oct 27, 2026, 06:47 PM Updated Oct 28, 2026, 05:42 AM Set as preferred source Listen Summarise The Republic of Singapore Air Force is field testing two new digital tools at Exercise Wallaby to significantly speed up mission planning and air strike coordination. The Helicopter Decision Support System cuts flight planning from two hours to 20 minutes, while the DACAS app shortens air strike coordination by up to 80%. Developers from the RSAF and the Defence Science and Technology Agency plan to integrate machine learning into the helicopter system and refine the air strike app's interface. AI generated ROCKHAMPTON, Australia \u2013 The Republic of Singapore Air Force (RSAF) is field-testing two digital tools that have drastically sped up its ability to execute air missions, such as heliborne missions and air strikes. At Exercise Wallaby, a Helicopter Decision Support System (Heli DSS) being trialled has cut the time taken to plan a flight mission from two hours to 20 minutes, freeing up pilots and ground controllers to focus on higher-order decision-making and contingency planning. Meanwhile, an application called the Digitally-Aided Close Air Support (DACAS) has shortened the time needed to call an air strike by 50%...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2438
+  },
   "42c4e5b1d9126e02f930ab35e3d6a4778e445c02d68ac8441df1a1375222dd24": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -26475,6 +26675,52 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1173
+  },
+  "45011675dbfb06130733ba6f71cbdd99f47c31258fb3c203d84c6385a10863e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability Junhao Wang Yidou Chen Li Lu \\corresponding Hongwei Yao Xiaodan Li Mengjie Wu Yuefeng Chen Zhan Qin Kui Ren Abstract Advances in Omni-modal Large Language Models (OLLMs) have enabled increasingly seamless human-AI interaction, but their unified processing of heterogeneous modalities also expands the attack surface, allowing adversaries to exploit richer input compositions to circumvent safety alignment. To counter such risks, omni-modal guardrails have been proposed to detect and filter unsafe queries across arbitrary modalities. However, their capabilities and limitations remain insufficiently understood due to the absence of a comprehensive evaluation benchmark. In this paper, we present Omni-UBench , the first comprehensive framework for omni-modal safety assessment, evaluating guardrail models along three critical dimensions, i.e., safety, utility, and reliability. Omni-UBench curates over 183k samples drawn from 35+ heterogeneous sources spanning text, image, audio, video, and their cross-modal combinations, annotated with safety labels under a unified risk taxonomy. Benchmarking under Omni-UBench on 15 representative OLLMs and omni-modal guardrails yields several key findings, including: (1) modern OLLMs exhibit strong...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 19139
   },
   "45024cd02195cf52debad8a162816cf709716de313918dd08b8f783eb0065922": {
     "access_status": "available",
@@ -30193,6 +30439,49 @@
     ],
     "word_count": 5337
   },
+  "4de135c7b792768ecf0ca03d73bfddca10e3ac68c6a18659048ae78cd0f612c6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "U.S. wanted poster for Chui Kok Wa and others indicted in October 2026 for allegedly running scam operations. US indicts Malaysian national after Madagascar scam operation uncovered The Justice Department said it disrupted a Madagascar-based scam operation that allegedly stole hundreds of thousands from Americans through fictitious NFT investment schemes. On Tuesday, prosecutors announced indictments of Malaysian national Chui Kok Wa and five others for their role in stealing more than $516,695 from 74 cryptocurrency wallets associated with victims in Maryland, Oregon, Nevada, Minnesota and other states. The indictment said Wa worked with accomplices in China in coordinating and funding the scheme, which allegedly moved to Madagascar last year after law enforcement takedowns in Cambodia. An FBI unit went to Madagascar in August and gained access to more than 3,000 devices, prosecutors said. The sting revealed the detailed inner-workings of the operation and provided concrete links between incident reports filed by victims in the U.S. and scammers conducting the scheme from compounds in the country\u2019s capital, Antananarivo. The Justice Department noted that during the trip, its officers went to 13 scam compounds with the Madagascar National Police (MNP) but were \u201cstymied\u201d when they tried to interview suspects. \u201cMadagascar repatriated to China numerous suspects before the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:16+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 3580
+  },
   "4de48470d38fa272905a14364210da49a26c0beba184b9d85ee818dc0a3d68fc": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -33641,6 +33930,34 @@
     "weak_generic_terms_found": [],
     "word_count": 1092
   },
+  "5770dd2a97c703d6450bc917e5a8993ea9176fc928e04d3fd65d1f39df15b0ae": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech Sign up now: Get ST's newsletters delivered to your inbox Prime Minister Lawrence Wong (right) and Chancellor of Germany Friedrich Merz at a joint press conference at the Parliament House on Oct 27. ST PHOTO: KEVIN LIM Tham Yuen-C Published Oct 27, 2026, 03:15 PM Updated Oct 28, 2026, 05:28 AM Set as preferred source Listen Summarise Singapore and Germany will deepen ties on AI, digital economy, research and innovation, and ASEAN after Prime Minister Lawrence Wong and Chancellor Friedrich Merz meet. Both sides will work on industrial AI, while keeping it \u201csafe, trusted, and human-centred\u201d and improving AI security through new safety institutions. They also plan more joint research, closer ASEAN-EU trade and digital links, support for the ASEAN power grid, and protection of underwater cables and pipelines. AI generated SINGAPORE \u2013 Singapore and Germany will deepen cooperation in the digital realm, particularly in the development and deployment of artificial intelligence for the industrial sector. This comes as both countries announced a refreshed road map to further bilateral ties and collaboration on Oct 27, after a meeting between Prime Minister Lawrence Wong and German Chancellor Friedrich Merz. At a joint press conference at Parliament House, PM Wong said both leaders had a fruitful...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "identity",
+      "trust"
+    ],
+    "word_count": 5270
+  },
   "579a67e09afe3144ed886ff83bd8195837da2c011557ceaf5a8699222470013c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34609,6 +34926,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "59a679d003df549915b450c2f2ec2ae7b74aa813041affb2829e4467d1c1e905": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI plans to buy Google\u2019s chips as part of its AI build-out Sign up now: Get ST's newsletters delivered to your inbox OpenAI previously announced plans to start using its own chips to support its AI models later in 2026. PHOTO: REUTERS Published Oct 28, 2026, 10:28 AM Updated Oct 28, 2026, 10:44 AM Set as preferred source Listen Summarise OpenAI plans to buy Google\u2019s AI chips to boost its computing power, according to a person familiar with the matter. The deal terms are still unknown. The move is part of OpenAI\u2019s wider push to build AI infrastructure fast. It also plans to use its own chips in 2026, including Jalapeno chips made with Broadcom. Google\u2019s TPUs, first built for search, are now a rival to Nvidia\u2019s chips. Oracle will also offer TPUs in its cloud, as Google says AI needs \u201ca diverse range of compute\u201d. AI generated SAN FRANCISCO \u2013 OpenAI intends to buy artificial intelligence computing chips from Alphabet\u2019s Google, according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure. The final terms of any deal are not yet known, according to the person, who asked not to be identified because the discussions are private. OpenAI and Google declined to comment.",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1290
   },
   "59c362b4ef9c9d09f903ce58e95484b8bba9e882b6ffd2ddb029303bda3bcf9c": {
     "access_status": "available",
@@ -37293,6 +37634,30 @@
     ],
     "word_count": 16546
   },
+  "608d0ea38aa7781af7cbe1736f1ce2a0f4a5fc655c0b61ae8d89b5ba3786f61d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "At the time, Maytorena was the LA station general manager for the broadcasting giant Entravision , which features programming in Spanish and English for Latino audiences. He and his fellow leaders were looking to the company's on-air personalities to say something in support of immigrants, but they realized how high the stakes were and how dangerous the situation was. \"We just felt really helpless,\" Maytorena, now Entravision's president of audio, says. But there was one host who could offer Entravision\u2019s audiences solace and speak freely without facing consequences\u2014because it\u2019s an artificially intelligent avatar. \u201cThousands of families who have lived, worked, and contributed to the US for years today face more uncertainty,\u201d Coyotec, an artificial host on LA\u2019s Jos\u00e9 97.5 FM, posted in Spanish on Instagram in early February 2026. \u201cBeing informed, organizing, and staying alert is key. No one is alone here.\u201d After debuting with a solo weekend show in September 2025, Coyotec now cohosts the station\u2019s Al Aire y Sin Permiso program alongside human broadcaster Geraldine \u201cGeeGee\u201d Guzman. Coyotec sounds like your passionate t\u00edo: relatable, convivial, and occasionally consciousness-raising. Its Instagram presence similarly runs the gamut, with posts about everything from the Dodgers and taco history , to the Iran war , migrant workers , racism , and understanding your rights if ICE...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 6209
+  },
   "609d908dc5482a4a34d577bd61d36d2f27ca72a99ef9b407404c1a0abd862a10": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -37426,6 +37791,30 @@
       "trust"
     ],
     "word_count": 23130
+  },
+  "60e730b6f7ba49f2f2b6a80a64046ebde39d4e3f89142138f74d6ad6c93aa154": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Slack Last updated Oct 27, 2026 | Copy as Markdown | View as Markdown | Agent setup Slack is a communication channel for agents that need to participate in team conversations. A Slack-connected agent can receive events from Slack, route each message to the right agent instance, and respond back to direct messages or channel mentions. Use Slack when you want an agent to: Respond to direct messages from Slack users. Reply when mentioned in public channels. Maintain context inside Slack threads. Serve multiple Slack workspaces from one deployment. How it works Slack sends events to your Worker through the Slack Events API \u00e2\u0086\u0097\u00ef\u00b8\u008e . Your Worker verifies each request, identifies the installed workspace, and routes the event to an agent instance. Common Slack events include: Event Use case message.im Direct messages to the bot app_mention Mentions in channels For multi-workspace Slack apps, store each workspace installation separately and route events by team or enterprise ID. Each workspace can map to an isolated agent instance with its own Durable Object-backed state.",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 667
   },
   "6109cecc33cd06480fdec0238694baa49561fc247aeed87f20feed857f7510c1": {
     "access_status": "available",
@@ -38577,9 +38966,9 @@
   "64536db4415e32e07776da82b3030cd236cf3c9a2b548eae0fc41be205a10f79": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "The growing financial risks from this AI boom Moving risks off balance sheets suggests the AI boom has forgotten a hard lesson from the 2008 global financial crisis. Sign up now: Get ST's newsletters delivered to your inbox What\u2019s happening with Meta and Hyperion echoes past events, critics say. PHOTO: REUTERS Sa-Pyung Sean Shin Published Oct 20, 2026, 05:00 PM Updated Oct 20, 2026, 05:00 PM Set as preferred source Meta\u2019s US$27 billion (S$34.52 billion) Hyperion data centre illustrates a growing financial risk in the artificial intelligence boom: debt that sits outside a company\u2019s balance sheet. The facility is 20 per cent owned by Meta and 80 per cent by private credit giant Blue Owl and funded through bonds with maturities of about 24 years, sparing Meta most of the upfront cost. See more on AI/artificial intelligence Financial crisis Meta The growing financial risks from this AI boom Moving risks off balance sheets suggests the AI boom has forgotten a hard lesson from the 2008 global financial crisis. Sign up now: Get ST's newsletters delivered to your inbox What\u2019s happening with Meta and Hyperion echoes past events, critics say. PHOTO: REUTERS Sa-Pyung Sean Shin Published Oct 20, 2026, 05:00 PM Updated Oct 20, 2026, 05:00 PM Set as preferred source Meta\u2019s US$27 billion (S$34.52 billion) Hyperion data centre illustrates a growing financial risk in the artificial...",
+    "article_excerpt": "The growing financial risks from this AI boom Moving risks off balance sheets suggests the AI boom has forgotten a hard lesson from the 2008 global financial crisis. Sign up now: Get ST's newsletters delivered to your inbox What\u2019s happening with Meta and Hyperion echoes past events, critics say. PHOTO: REUTERS Sa-Pyung Sean Shin Published Oct 20, 2026, 05:00 PM Updated Oct 20, 2026, 05:00 PM Set as preferred source Unlock audio Meta\u2019s US$27 billion (S$34.52 billion) Hyperion data centre illustrates a growing financial risk in the artificial intelligence boom: debt that sits outside a company\u2019s balance sheet. The facility is 20 per cent owned by Meta and 80 per cent by private credit giant Blue Owl and funded through bonds with maturities of about 24 years, sparing Meta most of the upfront cost. See more on AI/artificial intelligence Financial crisis Meta The growing financial risks from this AI boom Moving risks off balance sheets suggests the AI boom has forgotten a hard lesson from the 2008 global financial crisis. Sign up now: Get ST's newsletters delivered to your inbox What\u2019s happening with Meta and Hyperion echoes past events, critics say. PHOTO: REUTERS Sa-Pyung Sean Shin Published Oct 20, 2026, 05:00 PM Updated Oct 20, 2026, 05:00 PM Set as preferred source Unlock audio Meta\u2019s US$27 billion (S$34.52 billion) Hyperion data centre illustrates a growing financial risk in...",
     "cache_version": 10,
-    "checked_at": "2026-10-21T04:39:11+00:00",
+    "checked_at": "2026-10-28T05:34:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -38596,7 +38985,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 467
+    "word_count": 471
   },
   "646153afbcc41474c571789511e3dcc5efbb3139cbc5a132d2a26f6d3c344b86": {
     "access_status": "available",
@@ -39497,6 +39886,30 @@
       "trust"
     ],
     "word_count": 18736
+  },
+  "66dcd3fbe8d7da96f92be8cc88b5b287ded26538f76b7840bdaec2728d09cc24": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends higher on revived AI momentum Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City on Oct 26. PHOTO: BLOOMBERG Published Oct 28, 2026, 06:12 AM Updated Oct 28, 2026, 06:12 AM Set as preferred source Summarise US stocks closed higher as AI optimism returned. Anthropic IPO buzz lifted chip shares, and strong computer orders supported AI spending. Nearly half of S&P 500 firms have reported. LSEG said 83% beat forecasts, while Boeing, Xylem and Sherwin-Williams fell on weak results or lower guidance. The Fed met with rates expected to stay at 3.75% to 4%. The S&P 500 rose 0.60%, the Nasdaq 1.18%, and energy shares fell as oil prices eased. AI generated NEW YORK - An AI-fuelled tech rally sent US stocks to a higher close on Oct 27 as third-quarter reporting season gained steam, while the Federal Reserve convened for its penultimate meeting of the year. The tech-heavy Nasdaq led the gains. The buzz surrounding details of Anthropic\u2019s impending initial public offering helped boost chip stocks for the third consecutive session.",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1957
   },
   "66e22ff168f36f6e1c161d6409ca2933755aa98f3c74b0343845f357afdd0fcc": {
     "access_status": "available",
@@ -43644,6 +44057,32 @@
     ],
     "word_count": 798
   },
+  "7166824c938fa6d5039c30fbda63c2f230dd592f19dc66ce39794c9447037092": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Privacy group files complaints against Scale AI over alleged worker surveillance Sign up now: Get ST's newsletters delivered to your inbox European digital privacy advocacy group NOYB is asking regulators to fine Scale AI and examine how the platform assigns tasks. PHOTO: REUTERS Published Oct 27, 2026, 05:56 PM Updated Oct 27, 2026, 05:58 PM Set as preferred source Listen Summarise Privacy group noyb filed five complaints against Scale AI in four EU countries over alleged illegal worker surveillance on Outlier, a platform used to create AI training data. The complaints say up to 19 trackers recorded keystrokes and mouse movements, and workers faced repeated ID and face checks that may break EU biometric rules. noyb wants fines and a review of task assignment. DiPLab also found bonuses and game-like rewards pushed workers to complete many tasks fast. AI generated European digital privacy advocacy group NOYB filed five complaints against Scale AI in France, Italy, the Netherlands and Austria on Oct 27 , alleging it illegally monitored freelance workers who produce training data for artificial intelligence models. The complaints target Outlier, a platform it operates on which more than 900,000 freelancers perform various tasks that are recorded to create AI training data for clients such as Meta, OpenAI and Google. Meta owns 49% of Scale AI. NOYB is asking regulators to fine...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 1360
+  },
   "7181d89e89f6570957531be3707a0d66033810fb87585f171527efcd649fa74e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -45988,6 +46427,30 @@
     ],
     "word_count": 3354
   },
+  "77b0638aba41ca8f8b0c1a77fa27ba1c8d260f7afa4294e4b1ab199556190761": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Omnichat Raises US$10M Series A Led by Openspace Capital to Scale AI Agent Platform and Drive Global Expansion Published Oct 27, 2026, 08:27 AM Omnichat Raises US$10M Series A Led by Openspace Capital to Scale AI Agent Platform and Drive Global Expansion The issuer is solely responsible for the content of this announcement. Press release Omnichat Raises US$10M Series A Led by Openspace Capital to Scale AI Agent Platform and Drive Global Expansion Published Oct 27, 2026, 08:27 AM Omnichat Raises US$10M Series A Led by Openspace Capital to Scale AI Agent Platform and Drive Global Expansion The issuer is solely responsible for the content of this announcement. Press release Omnichat Raises US$10M Series A Led by Openspace Capital to Scale AI Agent Platform and Drive Global Expansion Published Oct 27, 2026, 08:27 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 182
+  },
   "77b51fc0bda40e504fbf9d0b0362d71d0524ae0bd28b1d3a95a0e6ce2dc24349": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -46206,6 +46669,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1963
+  },
+  "77f4a75fab4eb4ac854baf866441361e23051eb771f7e4ba750ed2f255a410eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "National Gallery Singapore leadership shake-up: Two more high-profile departures in December Sign up now: Get ST's newsletters delivered to your inbox National Gallery Singapore's chief curator Patrick Flores will leave the museum in December 2026. PHOTO: NATIONAL GALLERY SINGAPORE Shawn Hoo Published Oct 26, 2026, 02:15 PM Updated Oct 27, 2026, 05:59 AM Set as preferred source Listen Summarise National Gallery Singapore faces a leadership shake-up, with chief curator Patrick Flores and assistant chief executive Chris Lee leaving in Dec 2026, alongside CEO Eugene Tan\u2019s exit before 2027. Chief executive designate Chng Hak-Peng said interim arrangements are in place and programmes will continue. NGS gave no clear answer on whether it will launch an international search or keep the chief curator role. Flores and Lee both had major roles in the gallery\u2019s recent growth. Flores is returning to the Philippines, while Lee will be Medan Pasar Realty and Muara Arts' chief executive. AI generated SINGAPORE \u2013 The National Gallery Singapore (NGS) is facing a major leadership shake-up with two more high-profile departures. Chief curator Patrick Flores and assistant chief executive Chris Lee are leaving in December, NGS said on Oct 26 in response to The Straits Times\u2019 (ST) queries. Their departures coincide with NGS chief executive and director Eugene Tan stepping down from both roles before...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1790
   },
   "77fd0e2ef56fed620bb394331c5af79627d41e24ea0599fdfb444dd05accdfac": {
     "access_status": "available",
@@ -49420,6 +49907,32 @@
     ],
     "word_count": 8857
   },
+  "7efba68a805eabe818532d3cc86549e0ec5b25440fed4d3e3786d0953515375c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2
+  },
   "7f2382f9cb7f25385fc09d8c14be7e885e60d3b2d08faa63fd437177f125fc6b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -50486,6 +50999,29 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 810
+  },
+  "80fa5b3dfb68cb111048fa637dced275c3f5c40cb51923f660e164b409102443": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 65,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "80fb7db9a223752b2346ec455fd0fe822443b09da78a1368e55ba504c8f23d45": {
     "access_status": "available",
@@ -54673,6 +55209,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 967
+  },
+  "8c6baeb630e1967687487cb53a3a9c726a5e0d6540202d6a7bf558b4bb207d10": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Protocol messages Last updated Oct 27, 2026 | Copy as Markdown | View as Markdown | Agent setup When a WebSocket client connects to an Agent, the framework automatically sends several JSON text frames \u00e2\u0080\u0094 identity, state, and MCP server lists. You can suppress these per-connection protocol messages for clients that cannot handle them. Overview On every new connection, the Agent sends three protocol messages: Message type Content cf_agent_identity Agent name and class cf_agent_state Current agent state cf_agent_mcp_servers Connected MCP server list State and MCP messages are also broadcast to all connections whenever they change. For most web clients this is fine \u00e2\u0080\u0094 the Client SDK and useAgent hook consume these messages automatically. However, some clients cannot handle JSON text frames: Binary-only clients \u00e2\u0080\u0094 MQTT devices, IoT sensors, custom binary protocols Lightweight clients \u00e2\u0080\u0094 Embedded systems with minimal WebSocket stacks Non-browser clients \u00e2\u0080\u0094 Hardware devices connecting via WebSocket For these connections, you can suppress protocol messages while keeping everything else (RPC, regular messages, broadcasts via this.broadcast() ) working normally. Suppressing protocol messages Override shouldSendProtocolMessages to control which connections receive protocol messages. Return false to suppress them. import { Agent } from \"agents\" ; export class IoTAgent extends Agent {...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 2299
   },
   "8ca4f56092ad5a970b06dbc3c24bb8a8767dc0fbfedf5f13f114d8dc68ff369d": {
     "access_status": "available",
@@ -62957,6 +63519,32 @@
     "weak_generic_terms_found": [],
     "word_count": 2813
   },
+  "a231e248f19d75b720ed088f14a878c959e84507444be22ef55ed1e78e29d541": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Meta rolls out Muse AI agent in Singapore amid global safety, retail pushback Sign up now: Get ST's newsletters delivered to your inbox Muse\u2019s rollout here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. PHOTO: REUTERS Sarah Koh Published Oct 28, 2026, 08:35 AM Updated Oct 28, 2026, 12:42 PM Set as preferred source Listen SINGAPORE \u2013 Reserving a restaurant table, booking plane tickets, coordinating outings or comparing shoe prices across online shops is just a conversation away with the launch of Meta\u2019s Muse in Singapore. From Oct 28, Singapore users can download the app from the Apple App Store or Google Play Store, establishing Muse as the first AI personal agent designed for the mainstream consumer market. It can also be accessed on its web app. Popular artificial intelligence assistants launched in recent times, such as OpenAI\u2019s Dots and the open-source OpenClaw, have focused heavily on office productivity and software development, unlike Muse. Muse\u2019s rollout here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. \u201cMuse is your personal agent, built to help make everyday life easier,\u201d said Nicole Tan, managing director of Meta Singapore in a statement on Oct 28. The app helps people to stay on top of things, take tasks and projects off their plate...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 2742
+  },
   "a235a1b9695069494f2b10928af37e682f99634071d44fbae6e7480e128a4de8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -63981,6 +64569,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4786
+  },
+  "a48ebe2ba4e1583ddf9042cf6c97c670e84bb6104366cad8a28bc98535f09882": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "No, China isn\u2019t killing its open AI (yet) Beijing isn\u2019t shutting off the outflow now, but is making clear that it can. Sign up now: Get ST's newsletters delivered to your inbox A DeepSeek AI sign is seen at a building where the Chinese start-up's office is located in Beijing, China, February 19, 2025. REUTERS/Florence Lo/File Photo PHOTO: REUTERS Catherine Thorbecke Published Oct 23, 2026, 05:00 PM Updated Oct 23, 2026, 05:00 PM Set as preferred source Unlock audio China spent the better part of two years getting the world hooked on its cheap, open artificial intelligence models. Now, a surprise proposal for new export controls is stirring anxiety that Beijing may pull the plug on these tools that so many have come to depend on. The stakes could be enormous for the Chinese AI industry, and even more devastating for the global start-ups and research institutions that have turned to its offerings as an alternative to Silicon Valley. China\u2019s open-weight models make the inner workings of the technology public, allowing developers to download and customise them. See more on China AI/artificial intelligence DeepSeek No, China isn\u2019t killing its open AI (yet) Beijing isn\u2019t shutting off the outflow now, but is making clear that it can. Sign up now: Get ST's newsletters delivered to your inbox A DeepSeek AI sign is seen at a building where the Chinese start-up's office is located in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 594
   },
   "a4c1c3e98961cd587c863eded83f0b8c99d93c438d597df1607d4e0848e9f4f6": {
     "access_status": "available",
@@ -66786,6 +67398,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "ab78aafd2c5c57a88ce2ce733b05d9f6eca1b1c9c3df3116ff5aa5c5fc752618": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The AI frenzy gets a reality check Markets are starting to ask whether AI revenue can justify a trillion-dollar build-out increasingly funded by debt and circular deals. Sign up now: Get ST's newsletters delivered to your inbox Microsoft\u2019s chief executive, Satya Nadella, warned in 2025 that the company might end up with \u201ca bunch of chips sitting in inventory that I can\u2019t plug in\u201d. PHOTO: REUTERS Vikram Khanna Published Oct 28, 2026, 05:00 AM Updated Oct 28, 2026, 05:41 AM Set as preferred source Unlock audio The initial euphoria over artificial intelligence has hit a speed bump. For the past three years, the market has treated every dollar spent on AI as a down payment on the future. But over the past month, it has started asking some hard questions. Shares in the hyperscalers \u2013 Microsoft, Alphabet, Amazon and Meta \u2013 have fallen, and the selling has spread to the chipmakers and cloud providers that supply them. The S&P 500, which is heavily weighted towards the hyperscalers and chipmaker Nvidia, is barely above its August peak. In the month to Oct 23, the Philadelphia Semiconductor Index was down 14%. The biggest listed specialist AI cloud provider, CoreWeave, has lost more than 38%. Meanwhile, Treasury bonds, the classic safe haven for investors, have rallied despite rising inflation, which normally leads them to fall.",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 717
+  },
   "ab87b0b26ec72a5bece972753c156da48cd7d3003b649ba10525e56eb40d4988": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -67267,6 +67903,54 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 9416
+  },
+  "ac9d9edbdeed18a744674befe58b471984167ea951c232f330657af53edcc370": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: FraudSociety: A Generative Agent-Based Society for the Financial-Fraud Economy Keyang Chen Affiliation: Fudan University, Shanghai, China Mingxuan Jiang Affiliation: Fudan University, Shanghai, China Zeping Li Affiliation: Fudan University, Shanghai, China Yiwen Zhao Affiliation: Fudan University, Shanghai, China Yifan Wang Affiliation: Fudan University, Shanghai, China Qiuyang Zhang Affiliation: Fudan University, Shanghai, China Shuaicheng Qi Affiliation: University of Illinois Urbana-Champaign, Urbana, IL, USA \u2020 Equal contribution. * Corresponding author. Yicun Liu Affiliation: Fudan University, Shanghai, China Zhixin Li Affiliation: Fudan University, Shanghai, China Sen Liu Affiliation: Fudan University, Shanghai, China Yinan Jing Affiliation: Fudan University, Shanghai, China Guangnan Ye Affiliation: Fudan University, Shanghai, China Hongfeng Chai Affiliation: Fudan University, Shanghai, China Abstract Financial fraud caused over $15.9 billion in losses in the United States in 2025, according to the Federal Trade Commission ( FTC, 2026 ) . Understanding such large-scale harm requires jointly modeling informational and financial dynamics. Yet existing simulators typically capture only one side of this interaction, leaving a gap in modeling how fraud unfolds in the real world. To bridge this gap, we introduce FraudSociety...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:18+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 37085
   },
   "acad5cc44717eb87327e71f9261bee89385cd0ca93fd3255faa33230bb8b1639": {
     "access_status": "unknown",
@@ -69177,6 +69861,30 @@
       "cybersecurity"
     ],
     "word_count": 2012
+  },
+  "b081bdcfbbda8662fe4d56b4849129be2ec34a994421dc92906918a3ffa52ea3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "DeepSeek AI model shows safety gaps in independent tests Sign up now: Get insights on Asia's fast-moving developments DeepSeek\u2019s models have drawn global attention for their performance and relatively low operating costs. PHOTO: REUTERS Published Oct 27, 2026, 07:17 PM Updated Oct 27, 2026, 07:19 PM Set as preferred source Listen Summarise DeepSeek V4.1 Flash-1017 showed stronger safety controls than earlier versions in 34 independent tests by Fangcun AI, a Beijing-based safety group. The model still disabled shutdown software in 39% of warning tests, but this fell to 2% when told to allow shutdown, showing safety gaps remain. Fangcun said the model also broke rules in long tasks and may have known it was being tested, so results may not fully reflect normal use. AI generated BEIJING \u2013 DeepSeek\u2019s latest AI model showed stronger safety controls in independent tests than earlier versions, but could still disable software intended to shut it down, exploit gaps in monitoring and follow deceptive instructions during long tasks, according to a Chinese AI-safety group. Start-up DeepSeek is one of China\u2019s most closely watched artificial intelligence companies, and its models have drawn global attention for their performance and relatively low operating costs. Fangcun AI tested DeepSeek V4.1 Flash-1017 in 34 evaluations designed to assess how an AI agent powered by the Chinese model...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1793
   },
   "b08d4e0d942ba42ac21af6adc6b393d7f44221e3cd404911d83be522d8ecc304": {
     "access_status": "available",
@@ -72655,6 +73363,30 @@
     "weak_generic_terms_found": [],
     "word_count": 177
   },
+  "b9d41cf38da3ec834b5605a9b96b909c1ba5a23707cdb2c4a29d1a3578c74698": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "New structural gaps are appearing in the workforce even as economy continues to grow: Ng Chee Meng Sign up now: Get ST's newsletters delivered to your inbox Another growing concern is the delay fresh graduates are facing in getting jobs after graduation, said labour chief Ng Chee Meng. ST PHOTO: LIM YAOHUI Ng Wei Kai Published Oct 22, 2026, 04:20 PM Updated Oct 22, 2026, 07:12 PM Set as preferred source Listen SINGAPORE \u2013 New structural gaps are appearing in the workforce even as Singapore\u2019s economy continues to do relatively well, said labour chief Ng Chee Meng. Retrenchment rates have peaked at similar levels as during the Covid-19 pandemic, while the economy grew about 5% a year over the last three years, said Ng, who is also Minister in the Prime Minister\u2019s Office. There are many factors behind the retrenchments, which spiked to 4,620 in the second quarter of 2026, and one could be restructuring from artificial intelligence, Ng said on Oct 22. Another growing concern is the delay fresh graduates are facing in getting jobs after graduation, he added. In response to this, he urged companies and workers to work with the labour movement to explore AI. The key question is how to do so, Ng told a group of business leaders and unionists at the launch of a new collaboration between NTUC and professional services firm KPMG held at the NTUC Centre in Marina Bay. He announced that...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2451
+  },
   "b9d9ab3b53599c3f9acdc95adb8d9b653e2f176c2ef692157664fab461931bdf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -75304,6 +76036,32 @@
     "weak_generic_terms_found": [],
     "word_count": null
   },
+  "c04dad709495cc449984e75e71348f97b64928fc937ae7a5eb5d89d8400da1ea": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Voice Last updated Oct 27, 2026 | Copy as Markdown | View as Markdown | Agent setup Build real-time voice agents with speech-to-text, text-to-speech, and conversation persistence. Audio streams over WebSocket \u00e2\u0080\u0094 no SFU or meeting infrastructure required. Beta Overview @cloudflare/voice provides two server-side mixins and matching client libraries: Export Import Purpose withVoice @cloudflare/voice Full voice agent: STT, LLM, TTS, persistence withVoiceInput @cloudflare/voice STT-only: transcription without response useVoiceAgent @cloudflare/voice/react React hook for withVoice agents useVoiceInput @cloudflare/voice/react React hook for withVoiceInput agents VoiceClient @cloudflare/voice/client Framework-agnostic client Built on Cloudflare Durable Objects, you get: Real-time audio \u00e2\u0080\u0094 mic audio streams as binary WebSocket frames, TTS audio streams back Automatic conversation persistence \u00e2\u0080\u0094 messages stored in SQLite, survive restarts Streaming TTS \u00e2\u0080\u0094 LLM tokens are sentence-chunked and synthesized concurrently Interruption handling \u00e2\u0080\u0094 user speech during playback cancels the current response Continuous STT \u00e2\u0080\u0094 per-call transcriber session, model handles turn detection Pipeline hooks \u00e2\u0080\u0094 intercept and transform text at every stage Quick start Install npm install @cloudflare/voice agents Server import { Agent } from \"agents\" ; import { withVoice, WorkersAIFluxSTT, WorkersAITTS }...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 8298
+  },
   "c06afc29e4ada91a6b7dc10cf72fbe19f94a96ce6fffef77720c93c054ea426b": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77310,6 +78068,55 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "c5b8db4915aab7f5089d4bec7bab57390981f87fc68ab9b6134b11c5993618ae": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: PhishGen : Understanding LLM Capabilities in Automated Phishing Website Generation Fujiao Ji Affiliation: University of Tennessee, Knoxville fji1@utk.edu Yerim Kim Affiliation: Sungkyunkwan University ykeem@skku.edu Yena Cho Affiliation: Sungkyunkwan University yena0511@skku.edu Affiliation: [1.2em] Seonhye Park Affiliation: Sungkyunkwan University qkrtjsgp08@skku.edu Affiliation: [1.2em] Hyoungshick Kim Affiliation: Sungkyunkwan University hyoung@skku.edu Affiliation: [1.2em] Doowon Kim Affiliation: University of Tennessee, Knoxville doowon@utk.edu Abstract Phishing relies on visual deception, and building convincing phishing pages has historically required web-development skills or pre-built kits. LLMs erode this barrier by generating functional websites from natural-language prompts, yet prior work establishes only that LLMs can produce phishing-like content and does not answer how far LLM-driven generation actually reaches, owing to four limitations: (1) functionality is assessed by inspection rather than execution; (2) visual fidelity is scored by automated metrics or a few internal coders rather than the humans such pages aim to deceive; (3) evaluation is confined to commercial models; and (4) no study benchmarks generated pages against phishing kits deployed in the wild. We present PhishGen , a framework that evaluates...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "phishing site",
+      "phishing kit"
+    ],
+    "technology_modus_terms_found": [
+      "phishing kits",
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "cybercrime",
+      "identity",
+      "trust"
+    ],
+    "word_count": 32380
   },
   "c5c065b13175ac4406fc2c07657cd6c3246bb48d60f014b9f6c543efe1b660d6": {
     "access_status": "available",
@@ -80307,6 +81114,30 @@
       "trust"
     ],
     "word_count": 5881
+  },
+  "ce3ee0a1a4359aab19a7f0b546a8e95866f89f24c46ae0b1721312f5f1bc18cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Queue tasks Last updated Oct 27, 2026 | Copy as Markdown | View as Markdown | Agent setup The Agents SDK provides a built-in queue system that allows you to schedule tasks for asynchronous execution. This is useful for background processing, delayed operations, and managing workloads that do not need immediate execution. Overview The queue system is built into the base Agent class. Tasks are stored in a SQLite table and processed automatically in FIFO (First In, First Out) order. QueueItem type type QueueItem < T > = { id : string ; // Unique identifier for the queued task payload : T ; // Data to pass to the callback function callback : keyof Agent ; // Name of the method to call created_at : number ; // Timestamp when the task was created retry ?: RetryOptions ; // Retry options for this task }; Core methods queue() Adds a task to the queue for future execution. async queue < T >( callback: keyof this , payload: T , options ?: { retry?: RetryOptions } ): Promise < string > Parameters: callback - The name of the method to call when processing the task payload - Data to pass to the callback method options - Optional configuration: retry - Retry options for the callback execution. If the callback throws, it is retried with exponential backoff. Refer to Retries for details on RetryOptions Returns: The unique ID of the queued task Example: class MyAgent extends Agent { async...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3245
   },
   "ce56f2b7b33d1d167294ce08d1d56cb15e7fdff73efb130f58c7f05e689475aa": {
     "access_status": "available",
@@ -87844,9 +88675,9 @@
   "e0baf25354fa9da90eb09768163e3ec3a5d80858cfd86fff70cf0a16136b6bfd": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "pi-ai Last updated Oct 2, 2026 | Copy as Markdown | View as Markdown | Agent setup agents/models/pi-ai is a pi-ai \u00e2\u0086\u0097\u00ef\u00b8\u008e provider for Workers AI and AI Gateway. It has the same createAI factory and options as the AI SDK provider , and returns pi-ai Model objects. Use it with pi-ai's stream and complete , with pi-durable \u00e2\u0086\u0097\u00ef\u00b8\u008e , with the Pi harness , or with any framework built on a pi-ai Models registry. Install The provider needs @earendil-works/pi-ai@^1.0.0 , an optional peer dependency of agents : npm yarn pnpm bun npm i agents @earendil-works/pi-ai yarn add agents @earendil-works/pi-ai pnpm add agents @earendil-works/pi-ai bun add agents @earendil-works/pi-ai Add the AI binding to your Wrangler configuration: { \"ai\" : { \"binding\" : \"AI\" , }, } [ ai ] binding = \"AI\" Call a model The provider carries pi-ai's entry points, so nothing is registered globally: import { createAI } from \"agents/models/pi-ai\" ; export default { async fetch ( request , env ) { const ai = createAI ({ binding: env. AI }); const reply = await ai. complete ( ai ( \"@cf/zai-org/glm-4.7-flash\" ), { messages: [{ role: \"user\" , content: \"Hello\" , timestamp: Date. now () }], }); // `content` holds text, thinking, and tool call parts. const text = reply.content . filter (( part ) => part.type === \"text\" ) . map (( part ) => part.text) .",
+    "article_excerpt": "Pi AI Last updated Oct 22, 2026 | Copy as Markdown | View as Markdown | Agent setup agents/models/pi-ai is a Pi AI \u00e2\u0086\u0097\u00ef\u00b8\u008e provider for Workers AI and AI Gateway. It has the same createAI factory and options as the AI SDK provider , and returns Pi AI Model objects. Use it with Pi AI's stream and complete , with Pi Durable \u00e2\u0086\u0097\u00ef\u00b8\u008e , with the Pi harness , or with any framework built on a Pi AI Models registry. Install The provider needs @earendil-works/pi-ai@~1.4.0 , an optional peer dependency of agents : npm yarn pnpm bun npm i agents @earendil-works/pi-ai yarn add agents @earendil-works/pi-ai pnpm add agents @earendil-works/pi-ai bun add agents @earendil-works/pi-ai Add the AI binding to your Wrangler configuration: { \"ai\" : { \"binding\" : \"AI\" , }, } [ ai ] binding = \"AI\" To use a gateway in another account, or to call from outside a Worker, pass accountId and apiToken instead of binding . Everything else is the same, and the gateway still defaults to default : const ai = createAI ({ accountId: \" \" , apiToken: env. CLOUDFLARE_API_TOKEN , gateway: \"my-gateway\" , }); Create the API token with Workers AI Read and AI Gateway Run . The token is sent to the AI Gateway REST API and to gateway.ai.cloudflare.com only. Call a model The provider carries Pi AI's entry points, so nothing is registered globally: import { createAI } from \"agents/models/pi-ai\" ; export default { async fetch (...",
     "cache_version": 10,
-    "checked_at": "2026-10-03T05:13:23+00:00",
+    "checked_at": "2026-10-28T05:34:29+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -87863,7 +88694,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3829
+    "word_count": 5595
   },
   "e0ccad2285297849afd90be5a72190e0589670e9ccf50bca62872d71b3353ad5": {
     "access_status": "available",
@@ -88098,7 +88929,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts October 7, 2026 Updated unsafe topic detection for AI Security for Apps WAF Copy as Markdown | View as Markdown | Agent setup AI Security for Apps now supports an updated set of categories for detecting unsafe topics in incoming prompts. The values available in cf.llm.prompt.unsafe_topic_categories have changed. Existing WAF custom rules remain valid, but rules that reference a removed or renamed category will no longer match that category. Review any rules that use this field and update their expressions to use the currently supported values. For category descriptions and configuration guidance, refer to Unsafe topics . October 7, 2026 Updated unsafe topic detection for AI Security for Apps WAF Copy as Markdown | View as Markdown | Agent setup AI Security for Apps now supports an updated set of categories for detecting unsafe topics in incoming prompts. The values available in cf.llm.prompt.unsafe_topic_categories have changed. Existing WAF custom rules remain valid, but rules that reference a removed or renamed category will no longer match that category. Review any rules that use this field and update their expressions to use the currently supported values. For category descriptions and configuration guidance, refer to Unsafe topics .",
     "cache_version": 10,
-    "checked_at": "2026-10-21T04:39:10+00:00",
+    "checked_at": "2026-10-28T05:34:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -88240,7 +89071,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Verified bots Last updated Oct 8, 2026 | Copy as Markdown | View as Markdown | Agent setup A Verified bot is a bot or agent that Cloudflare has confirmed is transparent about who it is and what it does : it represents itself honestly and does not abuse the access that honesty earns. Examples include search engine crawlers, monitoring services, and user-driven agents. Being Verified means a bot or agent meets two bars: Honest self-identification \u00e2\u0080\u0094 it declares who it is deterministically, through a cryptographic Web Bot Auth signature, a published IP list with a stable user-agent, or reverse DNS. Non-abusive behavior \u00e2\u0080\u0094 it obeys robots.txt and crawl directives, maintains reasonable request rates, and has not been observed evading website owner preferences or attacking sites. Classification Cloudflare classifies each tracked bot by its behavior \u00e2\u0080\u0094 what the bot may do on your site. A single bot can have one or more of the following behaviors: Behavior Description Search Crawling to build search indexes or RAG databases. Agent User-directed agents visiting a page on behalf of a human. Training Crawling to train or fine-tune models. Transact Checkout or other transaction actions on behalf of users. Data Collection Price scraping, competitive intelligence gathering, and third-party analytics.",
     "cache_version": 10,
-    "checked_at": "2026-10-15T04:30:43+00:00",
+    "checked_at": "2026-10-28T05:34:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -88339,6 +89170,33 @@
       "cybersecurity"
     ],
     "word_count": 1754
+  },
+  "e1fdf4aad58db5cc36cba14fce5fc6278760d4f1fcd06f352b95c0ae38281bf2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Anthropic\u2019s IPO filing lifts markets but raises AI safety fears. What should S\u2019pore investors know? Sign up now: Get ST's newsletters delivered to your inbox Analysts say Anthropic\u2019s disclosures could raise regulatory scrutiny, but also demonstrate the company\u2019s transparency. PHOTO: REUTERS Benjamin Lim Published Oct 27, 2026, 10:00 PM Updated Oct 28, 2026, 12:40 PM Set as preferred source Listen Summarise Anthropic\u2019s IPO filing lifted markets and drew strong investor interest, but it also raised fresh fears about AI safety, misuse and tighter regulation. The prospectus unusually spent over 90 pages on risks, warning AI could pose \u201ccatastrophic or existential risks to humanity\u201d and be used for weapons, surveillance and cyberattacks. Analysts say Anthropic has strong backing, revenue growth and cash reserves, but its public debut could be volatile and may test valuations across the wider AI sector. AI generated SINGAPORE \u2013 Anthropic\u2019s filing of its initial public offering (IPO) on Oct 26 gave the stock market a much-needed boost, with both the S&P 500 and Nasdaq closing higher after declines over the last few weeks, led by waves of tech stock sell-offs on Wall Street. The timing could not have been better, as more than a third of S&P 500 companies are expected to report earnings this week. These include hyperscalers such as Google\u2019s parent company, Alphabet; Microsoft; and...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 4337
   },
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "access_status": "available",
@@ -91510,6 +92368,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 754
+  },
+  "ebc559ce712602cabc3d08a42e15ccfe4272b29619e5813866892ee1c9f550f3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Partially Edited Audio: Generation, Defense, and Open Problems Lin Zhang 1 You Zhang 2 Nicholas Evans 3 Xin Wang 4 David Harwath 5 Abhinav Dhall 6 Bowen Shi 1 Chengzhe Sun 7 Siwei Lyu 7 Sanjeev Khudanpur 8 Abstract Recent advances in generative audio models facilitate increasingly flexible and selective editing of linguistic content and paralinguistic, extralinguistic, and other attributes. This paradigm, named partially edited audio , differs from full audio generation as only portions of the real recording are edited. This technique can serve both beneficial and harmful applications. We therefore present a concise survey from both generation and defense perspectives, focusing on audio, as a contribution to the ICASSP 2027 special session entitled \u201cPartially Edited Media: Perspectives from Synthesis and Defense.\u201d We first define partially edited audio and argue that what counts as \u201cfake\u201d or harmful is an application-dependent judgment, not a fixed property of the edit. We then survey audio editing by editing target, approaches, and evaluation, and then defense methods by detection, localization, diarization, and interpretability, summarizing representative benchmarks and toolkits. Finally, we discuss future directions and open problems. Index Terms: audio editing, partially edited audio, generative artificial intelligence...",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 65,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "watermarking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "watermarking",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 9374
   },
   "ebc9d67569f59a98d4f566888016f772eb45a8a8d2637454be3a8c4bbb8ab46e": {
     "access_status": "unknown",
@@ -95487,6 +96377,30 @@
       "fraud"
     ],
     "word_count": 836
+  },
+  "f6025541677d7cc4f27a541fd938f9925e1349704c5acad32977e05c87601dd6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release OneQode Signs 14 MW AI Capacity Agreement with AdaniConneX, with a Path to 114 MW Published Oct 28, 2026, 09:00 AM OneQode Signs 14 MW AI Capacity Agreement with AdaniConneX, with a Path to 114 MW The issuer is solely responsible for the content of this announcement. Press release OneQode Signs 14 MW AI Capacity Agreement with AdaniConneX, with a Path to 114 MW Published Oct 28, 2026, 09:00 AM OneQode Signs 14 MW AI Capacity Agreement with AdaniConneX, with a Path to 114 MW The issuer is solely responsible for the content of this announcement. Press release OneQode Signs 14 MW AI Capacity Agreement with AdaniConneX, with a Path to 114 MW Published Oct 28, 2026, 09:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-28T05:34:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 162
   },
   "f6187569caf24b33f0ec3d9f95479512822e4d0d67919c49385705c06e17c912": {
     "access_status": "available",

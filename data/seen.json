@@ -2436,6 +2436,20 @@
       "url": "https://arxiv.org/html/2610.26781v1",
       "usefulness_category": "Research / novel method"
     },
+    "arxiv.org|2026-10-21|automated capabilities generation llm phishgen phishing understanding website": {
+      "article_type": "Research paper",
+      "normalised_title": "phishgen understanding llm capabilities automated phishing website generation",
+      "normalized_title_fingerprint": "phishgen understanding llm capabilities automated phishing website generation",
+      "original_url": "https://arxiv.org/html/2610.30226v1",
+      "parsed_date": "2026-10-21",
+      "raw_title": "PhishGen : Understanding LLM Capabilities in Automated Phishing Website Generation - arXiv",
+      "same_story_key": "arxiv.org|2026-10-21|automated capabilities generation llm phishgen phishing understanding website",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phishgen understanding llm capabilities automated phishing website generation",
+      "url": "https://arxiv.org/html/2610.30226v1",
+      "usefulness_category": "Research / novel method"
+    },
     "arxiv.org|2026-10-22|adaptive agentphishing agents attack benchmark email llm under": {
       "article_type": "Research paper",
       "normalised_title": "agentphishing benchmark llm email agents under adaptive attack",
@@ -4438,6 +4452,20 @@
       "url": "https://papers.ssrn.com/sol3/Delivery.cfm/7611958.pdf?abstractid=7611958&mirid=1",
       "usefulness_category": "Research / novel method"
     },
+    "qns.com|2026-10-26|90k artist con four life more nypd out": {
+      "article_type": "Enforcement report",
+      "normalised_title": "con artist wanted scamming four queens seniors out more than 90k their life savings nypd",
+      "normalized_title_fingerprint": "con artist wanted scam four queens seniors out more than 90k their life savings",
+      "original_url": "https://qns.com/2026/10/con-artist-scam-queens-seniors/",
+      "parsed_date": "2026-10-26",
+      "raw_title": "Con artist wanted for scamming four Queens seniors out of more than $90K of their life savings: NYPD - QNS.com",
+      "same_story_key": "qns.com|2026-10-26|90k artist con four life more nypd out",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "qns.com",
+      "title": "con artist wanted scamming four queens seniors out more than 90k their life savings nypd",
+      "url": "https://qns.com/2026/10/con-artist-scam-queens-seniors/",
+      "usefulness_category": "Scam development"
+    },
     "rescana.com|2026-08-09|analysis corporate cyberattack data engineering exposes incident levi": {
       "article_type": "Technical article",
       "normalised_title": "levi strauss co social engineering cyberattack exposes corporate data incident analysis mitigation recommendations",
@@ -5794,6 +5822,20 @@
       "source_domain": "therecord.media",
       "title": "cybercrime crackdown across africa leads 1 462 arrests 105 million seized",
       "url": "https://therecord.media/africa-cybercrime-interpol-arrests",
+      "usefulness_category": "Operational intelligence"
+    },
+    "therecord.media|2026-10-27|centers indicted indicts madagascar malaysian national operation raid": {
+      "article_type": "Investigative report",
+      "normalised_title": "us indicts malaysian national after madagascar scam operation uncovered",
+      "normalized_title_fingerprint": "us indicts malaysian national madagascar scam operation uncovered",
+      "original_url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "parsed_date": "2026-10-27",
+      "raw_title": "US indicts Malaysian national after Madagascar scam operation uncovered - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-10-27|centers indicted indicts madagascar malaysian national operation raid",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "therecord.media",
+      "title": "us indicts malaysian national after madagascar scam operation uncovered",
+      "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
       "usefulness_category": "Operational intelligence"
     },
     "theverge.com|2026-04-29|ads celebrity copyleaks deepfake deepfakes pushing scams swift": {
@@ -7699,6 +7741,18 @@
       "source_domain": "arxiv.org",
       "title": "comparing self supervised domain invariant features cross domain voice phishing detection",
       "usefulness_category": "Research / novel method"
+    },
+    "con artist wanted scam four queens seniors out more than 90k their life savings": {
+      "article_type": "Enforcement report",
+      "normalised_title": "con artist wanted scamming four queens seniors out more than 90k their life savings nypd",
+      "normalized_title_fingerprint": "con artist wanted scam four queens seniors out more than 90k their life savings",
+      "parsed_date": "2026-10-26",
+      "raw_title": "Con artist wanted for scamming four Queens seniors out of more than $90K of their life savings: NYPD - QNS.com",
+      "same_story_key": "qns.com|2026-10-26|90k artist con four life more nypd out",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "qns.com",
+      "title": "con artist wanted scamming four queens seniors out more than 90k their life savings nypd",
+      "usefulness_category": "Scam development"
     },
     "confident yet concerned inconsistencies computing students\u2019 attitudes cybersecurity": {
       "article_type": "Research paper",
@@ -9800,6 +9854,18 @@
       "title": "phishdebate llm based multi agent framework phishing website detection",
       "usefulness_category": "Product idea / data source"
     },
+    "phishgen understanding llm capabilities automated phishing website generation": {
+      "article_type": "Research paper",
+      "normalised_title": "phishgen understanding llm capabilities automated phishing website generation",
+      "normalized_title_fingerprint": "phishgen understanding llm capabilities automated phishing website generation",
+      "parsed_date": "2026-10-21",
+      "raw_title": "PhishGen : Understanding LLM Capabilities in Automated Phishing Website Generation - arXiv",
+      "same_story_key": "arxiv.org|2026-10-21|automated capabilities generation llm phishgen phishing understanding website",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "phishgen understanding llm capabilities automated phishing website generation",
+      "usefulness_category": "Research / novel method"
+    },
     "phishing real bait company messaging tools reel scam victims": {
       "article_type": "News report",
       "normalised_title": "phishing real bait company messaging tools reel scam victims",
@@ -11383,6 +11449,18 @@
       "source_domain": "straitstimes.com",
       "title": "us imposes sanctions cambodian senator 28 others alleged crypto romance scams",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
+    "us indicts malaysian national madagascar scam operation uncovered": {
+      "article_type": "Investigative report",
+      "normalised_title": "us indicts malaysian national after madagascar scam operation uncovered",
+      "normalized_title_fingerprint": "us indicts malaysian national madagascar scam operation uncovered",
+      "parsed_date": "2026-10-27",
+      "raw_title": "US indicts Malaysian national after Madagascar scam operation uncovered - The Record from Recorded Future News",
+      "same_story_key": "therecord.media|2026-10-27|centers indicted indicts madagascar malaysian national operation raid",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "therecord.media",
+      "title": "us indicts malaysian national after madagascar scam operation uncovered",
+      "usefulness_category": "Operational intelligence"
     },
     "us launches sweeping crackdown southeast asia cyberscams sanctions cambodian senator": {
       "article_type": "Policy / platform update",
@@ -14289,6 +14367,18 @@
       "title": "Security News This Week: Flock\u2019s Plans for Rideshare Dashcams and Coaching Police, Revealed - WIRED",
       "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "4de135c7b792768ecf0ca03d73bfddca10e3ac68c6a18659048ae78cd0f612c6": {
+      "article_type": "Investigative report",
+      "normalised_title": "us indicts malaysian national after madagascar scam operation uncovered",
+      "normalized_title_fingerprint": "us indicts malaysian national madagascar scam operation uncovered",
+      "parsed_date": "2026-10-27",
+      "same_story_key": "therecord.media|2026-10-27|centers indicted indicts madagascar malaysian national operation raid",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "therecord.media",
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered - The Record from Recorded Future News",
+      "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "usefulness_category": "Operational intelligence"
     },
     "4e3fdc99bc0c34736053a72660ff4c8f0f1100dfff65096f1b42cbebe00a84c6": {
       "article_type": "Research paper",
@@ -17674,6 +17764,18 @@
       "url": "https://www.abc.net.au/news/2026-06-17/will-australia-s-anti-scam-strategy-solve-the-problem-/106810588",
       "usefulness_category": "Scam development"
     },
+    "c5b8db4915aab7f5089d4bec7bab57390981f87fc68ab9b6134b11c5993618ae": {
+      "article_type": "Research paper",
+      "normalised_title": "phishgen understanding llm capabilities automated phishing website generation",
+      "normalized_title_fingerprint": "phishgen understanding llm capabilities automated phishing website generation",
+      "parsed_date": "2026-10-21",
+      "same_story_key": "arxiv.org|2026-10-21|automated capabilities generation llm phishgen phishing understanding website",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "arxiv.org",
+      "title": "PhishGen : Understanding LLM Capabilities in Automated Phishing Website Generation - arXiv",
+      "url": "https://arxiv.org/html/2610.30226v1",
+      "usefulness_category": "Research / novel method"
+    },
     "c5c065b13175ac4406fc2c07657cd6c3246bb48d60f014b9f6c543efe1b660d6": {
       "article_type": "Research paper",
       "normalised_title": "2605 12075 deepfakes we missed we built detectors threat didn t arrive",
@@ -19064,6 +19166,18 @@
       "source_domain": "apnews.com",
       "title": "Methodology for AP/\u2018FRONTLINE\u2019 investigation into how US tech is abused for global scams",
       "url": "https://apnews.com/article/scams-fraud-technology-ai-imposter-phishing-methodology-dae7c1964ab37eb7b89280be443f433b",
+      "usefulness_category": "Scam development"
+    },
+    "f92e60383fa38501bb7ae94febde71d2813480c12e6b0e7c6f943963a9eff368": {
+      "article_type": "Enforcement report",
+      "normalised_title": "con artist wanted scamming four queens seniors out more than 90k their life savings nypd",
+      "normalized_title_fingerprint": "con artist wanted scam four queens seniors out more than 90k their life savings",
+      "parsed_date": "2026-10-26",
+      "same_story_key": "qns.com|2026-10-26|90k artist con four life more nypd out",
+      "sent_at": "2026-10-28T05:34:39+00:00",
+      "source_domain": "qns.com",
+      "title": "Con artist wanted for scamming four Queens seniors out of more than $90K of their life savings: NYPD - QNS.com",
+      "url": "https://qns.com/2026/10/con-artist-scam-queens-seniors/",
       "usefulness_category": "Scam development"
     },
     "f9b962a5b97db15780bb8dc5735f1ab509e0d84e69ba45a9b42da8198ee956ea": {
