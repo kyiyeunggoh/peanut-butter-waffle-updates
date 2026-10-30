@@ -3,39 +3,6 @@
     {
       "article_type_distribution": {
         "Enforcement report": 1,
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 42,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 4,
-        "psychology": 38
-      },
-      "shortlist_count": 13,
-      "source_domain_distribution": {
-        "arxiv.org": 2,
-        "asaaseradio.com": 1,
-        "dailydemocrat.com": 1,
-        "dl.acm.org": 4,
-        "nwemail.co.uk": 1,
-        "nzherald.co.nz": 1,
-        "straitstimes.com": 1,
-        "tovima.com": 1,
-        "wionews.com": 1
-      },
-      "timestamp": "2026-09-08T04:30:13+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 1,
-        "Research / novel method": 1,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
-        "Enforcement report": 1,
         "News report": 1,
         "Research paper": 2
       },
@@ -1390,6 +1357,39 @@
       "usefulness_category_distribution": {
         "Local Singapore / Southeast Asia relevance": 1,
         "Operational intelligence": 1,
+        "Research / novel method": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Deep analysis": 1,
+        "Enforcement report": 2,
+        "Research paper": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 14,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 2,
+        "current_affairs": 1,
+        "investigative": 1,
+        "psychology": 9,
+        "singapore_sea": 1
+      },
+      "shortlist_count": 5,
+      "source_domain_distribution": {
+        "citizen.digital": 1,
+        "papers.ssrn.com": 1,
+        "straitstimes.com": 1,
+        "theguardian.com": 1,
+        "tuko.co.ke": 1
+      },
+      "timestamp": "2026-10-30T05:42:03+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 2,
         "Research / novel method": 1,
         "Scam development": 1
       }

@@ -4983,6 +4983,48 @@
       "raw_candidate_count": 5862,
       "date_filtered_candidate_count": 730,
       "ranked_unseen_candidate_count": 24
+    },
+    {
+      "date": "2026-10-30",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": false,
+      "estimated_input_tokens": 5788,
+      "estimated_output_tokens": 1100,
+      "estimated_cost_usd": 0.003097,
+      "actual_prompt_tokens": null,
+      "actual_output_tokens": null,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": null,
+      "actual_cost_usd": null,
+      "gemini_attempts": 3,
+      "gemini_max_attempts": 3,
+      "gemini_failed_attempts": [
+        {
+          "attempt": 1,
+          "reason": "HTTPError: HTTP 402"
+        },
+        {
+          "attempt": 2,
+          "reason": "HTTPError: HTTP 402"
+        },
+        {
+          "attempt": 3,
+          "reason": "HTTPError: HTTP 402"
+        }
+      ],
+      "gemini_items_without_takeaways": [],
+      "candidate_count": 14,
+      "shortlist_count": 5,
+      "sent_count": 4,
+      "candidate_cache_used": false,
+      "cache_fallback_used": false,
+      "cache_fallback_allowed": true,
+      "fetch_skipped": false,
+      "rss_queries_run": 120,
+      "raw_candidate_count": 6096,
+      "date_filtered_candidate_count": 694,
+      "ranked_unseen_candidate_count": 14
     }
   ]
 }

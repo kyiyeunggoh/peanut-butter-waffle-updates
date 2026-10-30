@@ -1397,6 +1397,55 @@
     ],
     "word_count": 13487
   },
+  "03961f0984f60850ce9d36ed585129674a6e0f5c848ae33f351f0769aa5f9897": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Kenyan among six charged over romance scam targeting 800 Americans By Kenneth Gachie October 29, 2026 12:35 (EAT) Add as a Preferred Source on Google Follow us Follow on Whatsapp Follow on Google Follow on Twitter Audio By Vocalize A Kenyan national is among six Africa-based suspects charged in the United States (US) over an alleged cryptocurrency investment scam that targeted about 800 Americans through fraudulent non-fungible token (NFT) investment platforms. Nicodemus Hingima Monyancha is accused of working with Cameroonian national Gislen Neukeu, Ugandan national Shamusa Ninsiima, Rwandan nationals Clement Mugiraneza and Merveille Macacumura, and Chinese national Chui Kok Wa, whom prosecutors identified as the alleged leader of the scheme. According to the US Department of Justice, the prosecution is part of efforts by its Scam Centre Strike Force to combat cryptocurrency and online investment fraud perpetrated by transnational criminal organisations. US Attorney Jeanine Ferris Pirro said Chinese criminal networks were increasingly deploying scammers across Africa, Europe and other regions to target Americans through dating websites, social media and messaging applications. The Department said the alleged scheme involved scammers posing as attractive women on dating platforms to establish relationships with victims before persuading them to invest in fraudulent NFT...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:45+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "investment scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1318
+  },
   "03b65cde7ba31d8c49bc99f5fedaf7137deeeaaff247382964ac41ae99b9793c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2425,6 +2474,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3505
+  },
+  "064c09c9f15efa861408dac9b15b549f4fce1d5a12bde258636ec9c93f57c92a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Reddit search traffic slumps, will push visitor sign-ins to curb AI scraping Sign up now: Get ST's newsletters delivered to your inbox Requiring users to log in will end Reddit\u2019s two decades of allowing anyone to browse the site freely without an account. PHOTO: REUTERS Published Oct 30, 2026, 07:55 AM Updated Oct 30, 2026, 09:45 AM Set as preferred source Listen Summarise Reddit plans to make sign-in mandatory for most content. Steve Huffman said this will help curb AI scraping and improve the platform for logged-in users. Search referral traffic fell in October, and Reddit warned daily active unique visitors could drop by a low double-digit percentage in Q4. Shares fell more than 9% after the update. Reddit is suing several AI and data-scraping firms, while still licensing data to OpenAI and Google. It will test the logged-in-only model in select overseas markets before wider use. AI generated SAN FRANCISCO, California \u2013 Reddit chief executive Steve Huffman outlined a plan on Oct 29 to make user login mandatory for most content as the company grapples with data scraping and declining search referral traffic in recent months. Huffman warned that total daily active unique visitors (DAUq) could fall by a low double-digit percentage in the fourth quarter from about 130 million currently, if search referral traffic continues to decline. Shares of the company fell more than 9% in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1618
   },
   "065c4fe01b1ec1b068387750d22c868800bdb35c23c55eb824d1be3721a39597": {
     "access_status": "available",
@@ -4690,14 +4763,14 @@
   "0c4102b1297aba64967713158f0a3dfdae7d36adaa9de39147a70d1c39860ba8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. Hany Farid, professor in Computer Science at Dartmouth College, Sophie Nightingale, a senior lecturer in psychology at Lancaster University, and Lancaster\u2019s Sarah Morgan, who acts as the project coordinator on Nightingale\u2019s \u201cProtecting Ordinary People from Deepfake Harms\u201d fellowship published their paper, \u201cThe Backbone of Abuse: How Infrastructure Providers Enable the Proliferation of...",
+    "article_excerpt": "Unsplash Abusive, sexually explicit deepfakes have only become easier to make and more widespread in the last nine years. Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the stuff of dark web sites or shadowy networks. They're found on social media networks, through basic web searches, and on easily downloadable apps and accessible forums. The most prominent hosts of non-consensual, AI-generated imagery are supported by some of the biggest web infrastructure providers in the world, getting their hosting, email, advertising, and content management systems from these companies. A new study examines how providers like Cloudflare, Google, Proton, Namecheap, and WordPress help non-consensual imagery sites thrive. Despite years of knowledge about these wildly popular sites, big tech companies continue providing infrastructure services that prop up abuse imagery, even though their own terms of service often prohibit illegal and harmful content, the study claims. This post is for paid members only Become a paid member for unlimited ad-free access to articles, bonus podcast content, and more. Subscribe Sign up for free access to this post Free members get access to posts like this one along with an email round-up of our week's stories. Subscribe Already have an account? Since we first covered deepfakes when they appeared in 2017 , they\u2019ve never been the...",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:45+00:00",
+    "checked_at": "2026-10-30T05:41:45+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
     "hard_rejected": false,
-    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
@@ -4708,11 +4781,8 @@
     "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [
-      "victim",
-      "trust"
-    ],
-    "word_count": 4521
+    "weak_generic_terms_found": [],
+    "word_count": 626
   },
   "0c57c0e7e94d5655705a5ad64bd714a7c8d77536abbec344cb8a9f16fc42fb64": {
     "access_status": "available",
@@ -5364,7 +5434,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Posterior Regimes and Latent Deception: Variational Bayesian Inference in Hidden Markov Models for Sequential Fraud Detection in Financial Transactions Joseph Uririoghene Obukofe Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Anthony O\u2019Hare Affiliation: Computing Science and Mathematics, Faculty of Natural Sciences,University of Stirling, Stirling FK9 4LA, Scotland, United Kingdom Chioma Sandra Dike Affiliation: University of Nottingham, Nottingham, NG7 2RD, United Kingdom ouj00003@students.stir.ac.uk, anthony.ohare@stir.ac.uk, msxcd20@nottingham.ac.uk Abstract We present a three-tier progression of Hidden Markov Models: maximum-likelihood (Baum-Welch), variational Bayesian (VBEM), and a neural variational extension (Neural VBEM), that model each customer\u2019s transaction history as a trajectory through a small number of latent behavioural regimes, one of which is empirically identified as fraud-associated. The Neural VBEM HMM replaces the fixed Gaussian-multinomial emission family with a learned encoder, compressing a 741-dimensional transaction representation into a 64-dimensional latent space in which the VBEM HMM\u2019s posterior operates; a UMAP projection of this space reveals that the discovered regimes are not discrete clusters but...",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:48+00:00",
+    "checked_at": "2026-10-30T05:41:50+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -5654,6 +5724,30 @@
       "trust"
     ],
     "word_count": 0
+  },
+  "0f230753e14dcec1cfde377f80480152b81b1a44c816e25eb68d7678f710afef": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange, in New York City, on Oct 21. PHOTO: AFP Published Oct 30, 2026, 05:09 AM Updated Oct 30, 2026, 05:09 AM Set as preferred source Summarise US stocks fell after Alphabet\u2019s weak revenue and bigger AI spending fears hit tech shares. The Nasdaq dropped most, while small caps rose as investors moved away from the AI trade. The Federal Reserve kept rates steady, saying it would wait for more data. New figures showed faster US third-quarter growth, but inflation stayed hot. Earnings were mixed. Caterpillar and software names fell, while Eli Lilly, Ford and Merck rose. Analysts expect S&P 500 third-quarter earnings growth of 31% year on year. AI generated NEW YORK - US stocks slid on Oct 29, with investors reassessing big tech\u2019s massive AI spending spree as they digested high-profile earnings and crucial inflation data the day after the Federal Reserve held US interest rates steady. All three major US equity indexes lost ground, with the tech-laden Nasdaq losing the most in the wake of Alphabet\u2019s disappointing quarterly results released late on Oct 28.",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2363
   },
   "0f27c16a7f05626400d9acff9eb9961bed05bd131dda2e3e78683bd121e0a863": {
     "access_status": "available",
@@ -10349,6 +10443,33 @@
     "weak_generic_terms_found": [],
     "word_count": 2096
   },
+  "1a1197012e607c920448c8a8999e058c5edf20bc76946c2080e9e080837ab703": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 2
+  },
   "1a2cebcdd376393d4b3be08f279c7e9586d5351d6a0c987da75473d95b550e7a": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -10705,6 +10826,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1955
   },
+  "1b3cddb6885b78052689906e1e0659907e9daeb987c3bcd26f5d944952238ee0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2
+  },
   "1b4301796eff2a6da96f052d922193db27ca33808595d2493a7b8a16b4fb8d47": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10739,6 +10884,59 @@
       "cybersecurity"
     ],
     "word_count": 2021
+  },
+  "1b6614729102f26bc075876ab63d48220cb636633e606b480ef35a73bdcfd3dc": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Two men who said they were forced to work as scammers in Cambodia. The investigation involved 151 survivor interviews. Photograph: Yasuyoshi Chiba/AFP/Getty Images View image in fullscreen Two men who said they were forced to work as scammers in Cambodia. The investigation involved 151 survivor interviews. Photograph: Yasuyoshi Chiba/AFP/Getty Images Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges Survivors tell rights group that serving officers who worked as guards administered electric shocks and beatings Cambodian police and military officers worked as private security guards in scam compounds where thousands were forced to work in the online fraud industry, according to a report by Amnesty International . They escaped south-east Asia\u2019s scam compounds. Then they realised they were still trapped Read more The global rights group alleged they worked for security companies as part of a system that enabled slavery and rape in the compounds, with some guards using electric batons to keep people trapped. \u201cFor years, survivors of these nightmarish compounds described encountering members of the Cambodian military or police inside. These accounts could not be independently verified \u2013 until now,\u201d said Agn\u00e8s Callamard, Amnesty International\u2019s secretary general. Based on 151 survivor interviews, visits to 82 scam compounds and social media videos...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "pig butchering",
+      "scam compound",
+      "cambodia scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 2688
   },
   "1b999cb4de0f00a6cc728e3ff6c5ff8d0136c6b81163731726fae746156406d7": {
     "access_status": "available",
@@ -13309,7 +13507,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Websites go dark worldwide as AI uncovers flaws in code powering much of the internet Sign up now: Get ST's newsletters delivered to your inbox The PHP programming language helps run about 70% of the world\u2019s websites, from online stores and news outlets to government services. PHOTO: REUTERS Published Oct 22, 2026, 05:06 PM Updated Oct 22, 2026, 09:38 PM Set as preferred source Listen Summarise AI found two critical PHP flaws that can let hackers enter servers without a username or password. PHP runs about 70% of the world\u2019s websites. Governments, companies and groups like Wikipedia took sites offline or rushed patches after the fix on Oct 21. The US National Security Agency and others urged immediate updates or shutdowns. Experts called it a major security crisis, with OpenAI saying it marks \u201ca new phase\u201d for using AI to find software flaws. Some sites may stay vulnerable for days or months, raising phishing and malware risks. AI generated WASHINGTON \u2013 Governments and companies around the world shut down websites as they raced on Oct 22 to protect themselves from hacks after artificial intelligence uncovered critical flaws in a widely used programming language called PHP . PHP helps run about 70% of the world\u2019s websites, from online stores and news outlets to government services, according to Wiz Research, one of the cybersecurity firms that found the two flaws. Created in...",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:47+00:00",
+    "checked_at": "2026-10-30T05:41:48+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -13336,7 +13534,7 @@
       "cybersecurity",
       "malware"
     ],
-    "word_count": 3149
+    "word_count": 3151
   },
   "22a53ad47ac7c1b875e69fcf99c0542dfdcb5038e06521f46e4946afff513f08": {
     "access_status": "available",
@@ -17536,6 +17734,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1159
+  },
+  "2dc225c4c95f21dfeb662358c248f62956a1b8071a38dd5b93d4a693276f3ede": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Amnesty names 5 Cambodian security firms linked to scam compounds Rights group says guards enabled abuse at sites where police and military were also present Security guards at Rongxingdi Resort in Tbong Khmum province in July 2025. Amnesty International identified the site as one of 23 scam compounds examined in its latest report. (Photo by Ananth Baliga) PHNOM PENH -- A new Amnesty International report released on Thursday accused five Cambodian security companies of helping operate scam compounds where workers were confined and subjected to violence, torture and sexual abuse. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scam compound"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 108
   },
   "2de74ca684529f2ed1cf4d32db493104b3bfc5e7f45bc5057838fd50c0cc1d96": {
     "access_status": "available",
@@ -23675,6 +23909,33 @@
     ],
     "word_count": 1526
   },
+  "3d192d3aae24522588d170fa4aff30452acac07f7b73186e185d30986ad298f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say Sign up now: Get ST's newsletters delivered to your inbox A cyberattack previously also targeted refrigeration systems at French supermarket chains earlier in October. PHOTO: REUTERS Published Oct 29, 2026, 06:06 PM Updated Oct 29, 2026, 10:19 PM Set as preferred source Listen Summarise The Pentagon is treating freezer failures at US military bases as a suspected cyberattack. Investigators are working with Cyber Command, law enforcement, and French counterparts. At least six commissaries were hit in late August. In one case at Fort Huachuca, the freezer \u201cwent into defrost mode where it heated up all the food\u201d. The case raises wider fears about hacked cold storage. A similar French attack hit over 350 sites, caused major food losses, and showed outdated controllers can be easy targets. AI generated WASHINGTON \u2013 The US Pentagon is treating the spate of mysterious freezer malfunctions that spoilt food at military bases across the United States in August as a suspected hack, according to four officials familiar with the matter. One of the officials said the military investigators were in touch with their French counterparts about a similar cyberattack on commercial freezers that disrupted supermarkets there earlier in October . Reuters was unable to ascertain how far along the Pentagon\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 2834
+  },
   "3d20b5db478a094772e8a0dc4939f0dd097e158a371df9353f98a4ea9004d452": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -27651,6 +27912,40 @@
     ],
     "word_count": 2200
   },
+  "46ea64db654132decd3e87c9fd5b59d691c3a3533d8ae0a35f162ece5c3b3e15": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Do Deepfake Detectors Work in Reality? Simiao Ren \u2020 Affiliation: Duke University, simiao.ren@duke.edu Hengwei Xu * Affiliation: Georgia Tech, hxu457@gatech.edu Tsang (Dennis) Ng * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Kidus Zewde * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Shengkai Jiang * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Ramini Desai * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Disha Patil * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Ning-Yau Cheng * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Yining Zhou * Affiliation: Texas A&M, xwyzyn135@gmail.com Ragavi Muthukrishnan * Affiliation: Scam.ai, {dennis.ng, kidus.zewde, shengkai.jiang, ramani.desai, disha.patil, rachel.cheng, ragavi.muthukrishnan}@scam.ai Abstract Deepfakes, particularly those involving faceswap-based...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 5432
+  },
   "46ea684c49ae0264b9b2ef6df45e9e93eb97987987c9057939c9a9300b8f57d6": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29393,6 +29688,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2656
   },
+  "4b15ff1d282ae060d0cf788ef2169dda5465fd9cdfa738a12633cb6cf9dcc574": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US fires top army general in latest ouster: Report Sign up now: Get ST's newsletters delivered to your inbox US Secretary of Defence Pete Hegseth said in September that the US has slashed the number of its generals and admirals by 20%. PHOTO: REUTERS Published Oct 29, 2026, 05:15 PM Updated Oct 29, 2026, 05:19 PM Set as preferred source Listen Summarise The US fired Army Lieutenant-General Brett Sylvia, its top military planner, in a surprise shake-up. The Atlantic said no reason was given and no replacement has been named. The move adds to a series of senior military departures since Donald Trump returned to power. Secretary of Defence Pete Hegseth said in September that the US cut generals and admirals by 20% for \u201caccountability\u201d. The reported sacking comes as Trump is said to be weighing fresh strikes against Iran after the Nov 3 midterm elections. He said, \u201cWe may do another little Epic Fury,\u201d but gave no timing. AI generated WASHINGTON \u2013 The United States has fired its top military planner, The Atlantic reported on Oct 28 , in a surprise shake-up as President Donald Trump appears to be preparing to resume large-scale strikes against Iran . Army Lieutenant-General Brett Sylvia was removed this week from his role as head of strategy, plans and policy on the Joint Chiefs of Staff, the magazine reported, citing unidentified defence department officials. Sylvia\u2019s ouster would...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1361
+  },
   "4b1e1898b3456a438bed8bc7e9e2e5b5fe03f746ef2ba5b9d26fdd32cc5bfe9b": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -29576,6 +29895,37 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "4b566efc78f8e20b663eeaebbc3a959a319f8010f05409c35bfbab4d33e2ffcd": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:42:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "4b58bc8244a9c257dbf7a36a5a7a51ead086b7a21b5c2db479339c0c6ed6bcc3": {
     "access_status": "available",
@@ -32050,9 +32400,9 @@
   "51d0e2a13b212c75a0443aa99277fe760717d478471f3b6dd39b638e5041af8c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Understanding Email Security Deployments Last updated Oct 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Email continues to be a mission critical method for communication between people and organizations. This also makes email an ideal channel for attackers to exploit in their attempts to take over accounts, steal data, and gain access to internal systems. Being able to reduce spam, defeat phishing, and malware attacks is critical for the security of your organization. Over 90% of cybersecurity incidents begin with an email attack. Cloudflare Email security service is a market leading solution that can be deployed in a variety of ways to support different needs for each organization. This document outlines the different methods to deploy Email security and why you would choose any specific model. Strengthen your email infrastructure with Cloudflare Email security Email remains a critical communication channel for businesses of all sizes. However, email also serves as a prime target for cyber attacks, including phishing, spam, and malware. To safeguard your organization sensitive data and reputation, a robust email security solution is essential. Cloudflare Email security offers a comprehensive suite of tools and technologies designed to protect your email infrastructure from a wide range of threats.",
+    "article_excerpt": "Understanding Email Security Deployments Last updated Oct 26, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Email continues to be a mission critical method for communication between people and organizations. This also makes email an ideal channel for attackers to exploit in their attempts to take over accounts, steal data, and gain access to internal systems. Being able to reduce spam, defeat phishing, and malware attacks is critical for the security of your organization. Over 90% of cybersecurity incidents begin with an email attack. Cloudflare Email security service is a market leading solution that can be deployed in a variety of ways to support different needs for each organization. This document outlines the different methods to deploy Email security and why you would choose any specific model. Strengthen your email infrastructure with Cloudflare Email security Email remains a critical communication channel for businesses of all sizes. However, email also serves as a prime target for cyber attacks, including phishing, spam, and malware. To safeguard your organization sensitive data and reputation, a robust email security solution is essential. Cloudflare Email security offers a comprehensive suite of tools and technologies designed to protect your email infrastructure from a wide range of threats.",
     "cache_version": 10,
-    "checked_at": "2026-10-22T04:37:23+00:00",
+    "checked_at": "2026-10-30T05:41:50+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -32073,7 +32423,7 @@
       "cybersecurity",
       "malware"
     ],
-    "word_count": 8509
+    "word_count": 8735
   },
   "5207c76a95b484d2212e68520488ce1bad2b6b96e8028384287addeedf76b17a": {
     "access_status": "available",
@@ -33492,6 +33842,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2131
+  },
+  "5566dacea4ded2d184cb6fca7c3f4ce8260b7243e1b20e6639ac83cc22143b9d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Two die after Tampines accident involving cars, motorcycle; search under way for pair who fled Sign up now: Get ST's newsletters delivered to your inbox In photos of the accident in Tampines circulating on social media, various vehicles can be seen in severely damaged states. PHOTOS: SGROAD BLOCKS/TRAFFIC NEWS/TELEGRAM, ST READER Ann Neo Published Oct 30, 2026, 09:51 AM Updated Oct 30, 2026, 12:24 PM Set as preferred source Listen Summarise \u4e2d\u6587 Two people died after a late-night Tampines crash involving two cars and a motorcycle. Police and SCDF were alerted at about 10.35pm on Oct 29. A 24-year-old motorcyclist and his 24-year-old pillion rider died in hospital. A 25-year-old female car driver was also taken to hospital. Police are searching for the male driver and female passenger of the second car, who fled before officers arrived. Investigations continue, as road accidents and motorcycle deaths have risen. AI generated SINGAPORE \u2013 Two people were killed after a multi-vehicle accident late on Oct 29 in Tampines. A search is under way for two others who had fled the scene before the authorities arrived. In a media reply on Oct 30, the police and the Singapore Civil Defence Force (SCDF) said they were alerted to an accident involving two cars and a motorcycle in Tampines Avenue 12 at around 10.35pm the day before.",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1746
   },
   "5574e867cb7428316c389e0aa6284eaee29851e6844ad0dfc86e6e9564a8437e": {
     "access_status": "available",
@@ -42366,6 +42740,46 @@
     ],
     "word_count": 17
   },
+  "6c5e7f0bb7b0811a4b472362411da460e50d982a2013a32c20bf2167b2215d7f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "It was September 25, 2026, and Alex, a professional online poker player, was using his Claude AI agent to review some play statistics. (Alex only agreed to speak with WIRED under a pseudonym to avoid any risk of reprisals from threat actors.) After Alex\u2019s SQL database crashed and needed to be reset, the Claude agent noticed something suspicious: A program called MeshAgent was operating in the background, where it seemed to be capable of capturing Alex\u2019s screen and even controlling his entire machine. Thanks to the Claude agent\u2019s report, Alex could see the program had been installed on April 24, and not by Alex himself. Alex says the agent identified 11 time-stamped events when the program had been capturing his screen based on graphic errors it caused during screen sharing instances. During all 11, Alex had been playing a session on ACR , also called Americas Cardroom, a major worldwide online poker operator. He checked his hand histories and quickly found the most troubling info yet: The same opponent, playing under the handle OxOO, was at his table for 10 of those 11 sessions. The handle was familiar. Alex and several friends in the high-stakes community had shared suspicions about this player\u2019s behavior in the past. Alex checked the player\u2019s win rate stats via a public tracking site; they were astronomically higher than the best players in the world, a statistical...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "identity"
+    ],
+    "word_count": 8425
+  },
   "6c7fd9e4b80a1cc2b56986d06bb0bcc62bf9c9a3444f21f4a2f72eafca607777": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -43579,6 +43993,37 @@
     ],
     "word_count": 3652
   },
+  "6f014fc5aa261d06c58682b8f91a11e3b6adab2835ef3f5a621bdf63f78fad9c": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:42:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "6f4cae2d072aa3b167834fb16ba5ef8d52c6c33efaf454b262a6264ac1a6d700": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -43792,6 +44237,47 @@
       "identity"
     ],
     "word_count": 15671
+  },
+  "6f77233a787689d82f51eb0c4da25965ea301fbb9b124cd16006ff5093807db2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Singapore, Cambodia police and OCBC help S\u2019pore firm recover US$12.8 million from scammers Sign up now: Get ST's newsletters delivered to your inbox In a scam, a company first received an e-mail from its business partner\u2019s address with instructions directing payment to a new bank account. It was then sent an authorisation letter, which was later determined to be fake. PHOTO: SINGAPORE POLICE FORCE Rebekah Chia Published Oct 29, 2026, 04:25 PM Updated Oct 29, 2026, 05:01 PM Set as preferred source Listen Summarise Singapore police, Cambodian police and OCBC recovered US$12.8 million from a scam after a petrochemical company was tricked into sending money to a fake Cambodian account. The company acted after an e-mail and a fake authorisation letter, but the fraud was found on Oct 26 when the business partner said payment had not arrived. Police warned firms to check sudden payment changes by trusted contact, train staff on scams, and use strong passwords and multi-factor authentication. AI generated SINGAPORE \u2013 A total of US$12.8 million (S$16.4 million) was recovered by the Singapore police, working with their Cambodian counterparts and OCBC Bank, after a company was duped into transferring the money to an overseas account. The Singapore Police Force (SPF) said in a statement on Oct 29 that the Singapore-based petrochemical company had sent the money to a bank account in...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:42+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1455
   },
   "6f8f69299f35a15234ea47e5c988ed873d44588bb5a6c47bc204ab1225e79a69": {
     "access_status": "available",
@@ -45843,7 +46329,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Press Enter to search \u00b7 Advanced search Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in...",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:47+00:00",
+    "checked_at": "2026-10-30T05:41:47+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -45981,6 +46467,32 @@
       "victim"
     ],
     "word_count": 2701
+  },
+  "75ce68a781abf48aabc70fcd6383a3eb458f109cc7c6ebd90f01e9e3b3eee1bf": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Which are Singapore\u2019s best workplaces in 2026? Sign up now: Get tips on how to grow your career and money Memory chipmaker Micron Technology retained its crown as Singapore\u2019s best workplace among companies with 1,000 or more staff, in an annual ranking by consulting firm Great Place To Work. PHOTO: MICRON TECHNOLOGY Joyce ZK Lim Published Oct 29, 2026, 10:00 PM Updated Oct 30, 2026, 01:23 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 Memory chipmaker Micron Technology and flexible workspace provider JustCo were among 55 companies named Singapore\u2019s best workplaces in an annual ranking unveiled on Oct 29. Released by global consultancy Great Place To Work since 2015, the list honours companies for workplace excellence based on confidential employee feedback. The US-headquartered Micron retained its crown as the best workplace among large companies for the second year running . Its roughly 10,000 employees have access to in-house mentorship via company resource groups, and can connect outside of work through volunteer events and interest groups ranging from sports to pets. \u201cWe believe in the importance of community and peer support,\u201d said Cher Whee Sim, vice-president of people strategy, technology and workforce transformation. Home-grown firm JustCo took first place among medium-sized companies with 100 to 999 employees, up from fourth place in 2025. \u201cWe believe that when...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2134
   },
   "75e8ece4130224535bc33cf4bfe5269e6a324d9bce04aca19a8d723548e385e5": {
     "access_status": "available",
@@ -47328,6 +47840,30 @@
       "ransomware"
     ],
     "word_count": 3214
+  },
+  "789048231ade5aa01dfe2f24c9ed7eca15d644879acd9096862a3016b35c0831": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US economy powers ahead as AI boom, shoppers defy oil shock Sign up now: Get ST's newsletters delivered to your inbox The growth figures show that despite unhappiness over inflation, Americans have yet to pull back on their spending. PHOTO: AFP Published Oct 29, 2026, 09:26 PM Updated Oct 29, 2026, 10:00 PM Set as preferred source Listen Summarise The US economy grew 3.4% in the third quarter, the fastest in a year, as strong consumer spending and AI investment outweighed higher oil prices. Households kept spending despite inflation and weak sentiment, but higher gas costs and lower savings may slow demand later. The Federal Reserve kept rates at 3.75% to 4% and warned that inflation \u201cremains elevated\u201d, while economists expect more pressure from costly AI projects. AI generated WASHINGTON \u2013 The US economy grew faster than expected in the third quarter as resilient consumer spending and AI-driven business investment more than offset the impact of higher oil prices stemming from the conflict in the Middle East. Gross domestic product (GDP), the broadest measure of goods and services produced in the country, increased at a 3.4% annual rate in the third quarter, adjusted for inflation, the Bureau of Economic Analysis said on Oct 29. That was an acceleration from the 2.2% rate in the second quarter, and was the fastest growth in a year. The strength in growth is in stark contrast...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2212
   },
   "78a9056f9b8b6dfe6ff15ce1029a49288c4b2272ad3f1e30888c54ed9c60f3e0": {
     "access_status": "available",
@@ -49048,6 +49584,62 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "7c4fe2a5f6a41141e236eca0b9f7837bead1165010c46c78df442c7f4654ad32": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Assessing Socio-Cyber Vulnerability Using Survey and Social Media Data Shutonu Mitra Qi Zhang Tomas Neguyen Hossein Salemi Fengxiu Zhang Michin Hong Chang-Tien Lu Hemant Purohit Jin-Hee Cho \u2020 \u2020 thanks: Shutonu Mitra (email: mshutonu@vt.edu ), Qi Zhang (email: qiz21@vt.edu ), Tomas Neguyen (email: thomasn03@vt.edu ), Chang-Tien Lu (email: clu@vt.edu ), and Jin-Hee Cho (email: jicho@vt.edu ) are with Virginia Tech, Blacksburg, VA, USA. \u2020 \u2020 thanks: Hossein Salemi (email: hsalemi@gmu.edu ), Fengxiu Zhang (email: fzhang22@gmu.edu ), and Hemant Purohit (email: hpurohit@gmu.edu ) are with George Mason University, Fairfax, VA, USA. \u2020 \u2020 thanks: Michin Hong (email: hongmi@iu.edu ) is with Indiana University, Bloomington, IN, USA. Abstract The rapid growth of social media participation has increased exposure to socially engineered cyber threats (e.g., phishing, romance fraud, tech-support scams), yet prevailing assessment tools remain fragmented: the Common Vulnerability Scoring System (CVSS) is primarily technical and largely omits human susceptibility, while the Social Vulnerability Index (SVI) is community-oriented and lacks cyber-specific modeling. To address emerging needs in computational intelligence for socio-cyber risk assessment, this paper proposes the Social Cyber Vulnerability Index (SCVI) , an interpretable...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:53+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "financial fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "financial fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fraud victim",
+      "romance scam",
+      "investment scam",
+      "financial fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 21868
   },
   "7c9c9d16186f3c365e9ee79ac96ee745c759f575321b87c9560aa4ad4c5ffeae": {
     "access_status": "available",
@@ -54415,6 +55007,30 @@
       "trust"
     ],
     "word_count": 2313
+  },
+  "88f3a0cd2935c13202764678d6615c807e22da5c24b6072bdc6098e950e2fae9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Stocks slump, bonds leap as AI giants\u2019 spending spooks investors Sign up now: Get ST's newsletters delivered to your inbox Investors\u2019 rush into bonds was further spurred by the US Federal Reserve\u2019s decision on Oct 28 to keep US interest rates on hold. PHOTO: AFP Published Oct 30, 2026, 11:12 AM Updated Oct 30, 2026, 12:47 PM Set as preferred source Listen SINGAPORE \u2013 Tech shares slumped in Asia on Oct 30, the yen rose and bonds surged towards their biggest monthly gain in nearly three years as investors scurried to safety against worries that huge and rising AI spending may not deliver sufficient returns. Shares in Google parent Alphabet fell 12.6% on Wall Street and slid a little further after hours, to wipe out a withering US$500 billion (S$640 billion) in market value, as massive artificial intelligence spending turned the company\u2019s cash flow negative. An aftermarket plunge of 23% in Intel shares and a drop of 7% in Amazon stocks, as they too burned through cash, drove Nasdaq 100 futures down 1.4% and sent stocks of chipmakers around Asia into a tailspin. \u201cThe market isn\u2019t necessarily questioning whether the AI build-out can be financed,\u201d said Pepperstone analyst Chris Weston. \u201cIt\u2019s increasingly questioning whether shareholders will earn an adequate return on the enormous capital being deployed.\u201d Nerves were also frayed by a potentially record-breaking hack at Binance , the...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1843
   },
   "890e23b027817c39eb353ba60798994c902bdedf4bd0cf7a00e6b172c63827ef": {
     "access_status": "available",
@@ -64653,6 +65269,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "a380fa800f9d88d46091aeb8ab658ef211a2e3553d07ea271b6f7ccbd7ba5661": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Skills Last updated Oct 29, 2026 | Copy as Markdown | View as Markdown | Agent setup Give your agent tools to use Agent Skills : on-demand instructions, references, and scripts stored as SKILL.md folders. The model sees a short catalog of skill names and descriptions, then loads a skill only when a task matches it. Skills come from sources : a Computer Workspace, an R2 bucket, or code. The tools are the same whichever source you use. Use the supplied adapters with Think , Pi Durable , or the AI SDK. For another harness, use the catalog functions in agents/skills . What the tools add Tool What it does activate_skill Returns a skill's instructions, its folder when it has one, and the list of files bundled with it. read_skill_resource Returns one bundled file, by { name, path } or a qualified path such as release-notes/references/guide.md . run_skill_script Runs a bundled script. Only added when you set the experimental script runner .",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2474
+  },
   "a393c4af16d1a1d03bb974d7d49e452516025a07ba19a68501b03516acaa3a7e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -69438,6 +70078,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "ae750509987cba5587bd32887d852ae8b2ef8bf9b10a73eced807066ef253e76": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific Published Oct 30, 2026, 09:00 AM eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific The issuer is solely responsible for the content of this announcement. Press release eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific Published Oct 30, 2026, 09:00 AM eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific The issuer is solely responsible for the content of this announcement. Press release eCloudvalley Renews Strategic Collaboration Agreement with Amazon Web Services and Repositions as a Leader in Product-Led Enterprise AI Transformation Across Asia-Pacific Published Oct 30, 2026, 09:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 194
+  },
   "ae783e3267537a05e15a6f07dad25189f9ec0f45eb71e5e21cb452e42d315399": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -69858,7 +70522,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Another is friends with a Covid-denying former boxer turned MAGA influencer who was filmed on the steps of the Capitol on January 6, 2021 shouting \u201c1776.\u201d Another was set to headline a rally with MyPillow founder and election denial funder Mike Lindell . This is not a list of edgy MAGA influencers sharing hot takes on X, or podcast hosts on Rumble boosting wild conspiracy theories. No, this is a list of some of the Republican candidates running for attorney general in states across the US. A WIRED review has identified a slate of GOP attorney general candidates in more than half a dozen states, including key swing states, who have repeatedly expressed their belief that the 2020 election was stolen. If elected, several have said, they are willing to relitigate 2020 once again\u2014and all will potentially play a key role in the 2028 presidential election. \u201cAny attorney general should be dedicated to upholding the rule of law,\u201d Christina Beeler, senior counsel for the Chicago Lawyers\u2019 Committee for Civil Rights, tells WIRED. \u201cThe office of attorney general is a powerful office, and it is deeply important that anyone in that role is dedicated to upholding the rule of law and the results of elections.\u201d The role of attorney general in the administration and protection of elections differs from state to state, but in general, as their state\u2019s chief legal officer they are required to be a...",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:49+00:00",
+    "checked_at": "2026-10-30T05:41:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -69877,7 +70541,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 4181
+    "word_count": 4607
   },
   "afcfa94275908c81fd2f82998ea43022a756ac148b39f9420547b5ede59f21d5": {
     "access_status": "available",
@@ -72496,6 +73160,30 @@
     ],
     "word_count": 2182
   },
+  "b6fbf453f279b1c438ac25f07aeb8fe861fb45ff230afbd19ef1fcff2af266d3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2
+  },
   "b72600671c0e024b502324cb20d6a261e341dd9a7e54185a319e8ceb9b11ae5d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -73543,6 +74231,35 @@
       "identity"
     ],
     "word_count": 6424
+  },
+  "b8c6a2b3bb65822fa450019d73fd74503b7220bf7cbcf75d4729d9b289b2ccdd": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Court Crime Benfleet Hadleigh financial adviser jailed for \u00a31.1 million fraud Court Crime Benfleet By Jessica Day-Parker Deputy Live Lead Share 0 Comments Jailed - Andrew Pownall, from Hadleigh, defrauded 15 victims out of more than \u00a31.1 million (Image: ERSOU) This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The Herald. A former financial adviser has been jailed for defrauding elderly and vulnerable clients out of more than \u00a31.1 million over almost a decade. Andrew Pownall, 67, of Rayleigh Road in Hadleigh, was sentenced to five years and four months in prison at Basildon Crown Court on Friday, October 23, after admitting to 15 counts of fraud by abuse of position and one count of money laundering. Pownall targeted 15 victims, many in their 80s and 90s, including a widow in her 90s, between March 2014 and September 2023. He persuaded clients to hand over money they believed was being invested for their future, but instead transferred the funds into his own accounts. 'Not a momentary lapse' Detective Constable Dani Robinson, of the Eastern Region Special Operations Unit (ERSOU) , said: \"Andrew Pownall systematically abused the trust placed in him by some of the most vulnerable members of society. \"His victims were elderly people who...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1165
   },
   "b8db3f3886116e743eb5d131a63f404026487315c75a65e12c2a8f158b1b36f0": {
     "access_status": "available",
@@ -78633,6 +79350,30 @@
     ],
     "word_count": 32380
   },
+  "c5b9baca89298224dbc62943def1d746dac4432f983a15fe4c5e8b5b689ad9b7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The rug retailer is taking 20 percent off everything sitewide (exclusions may apply, as always). But don\u2019t dillydally\u2014the party ends Sunday, October 25. Sure, Black Friday is around the corner, and there will be deals aplenty. But will they be sitewide and stackable? Revival\u2019s 20 percent stacks, meaning it also applies to marked-down and clearance items. Will the rug you\u2019ve been eyeing for months still be available in November? Are you willing to risk it? I wouldn\u2019t. Why We Love Revival Rugs Revival is a retailer we love here at WIRED, mainly because of its lovely selection of hand-knotted and handwoven wool rugs at reasonable prices. The company imports rugs from Turkey, Morocco, and India, and also works with its own supplier in Oakland, California.",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1918
+  },
   "c5c065b13175ac4406fc2c07657cd6c3246bb48d60f014b9f6c543efe1b660d6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -82592,6 +83333,30 @@
     "weak_generic_terms_found": [],
     "word_count": 142
   },
+  "d0166b391d8b68d05fd141d91a788ad6be55a9080e9c394c9f98a165669503e0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Though the filing, known as an S-1, is several hundred pages long, it has some notable omissions\u2014namely, certain financial figures. \u201cClaude has experienced the fastest enterprise adoption of any technology in history, as demonstrated by revenue growing from $0 at commercial launch in the first quarter of 2023 to $_____ for the three months ended September 30, 2026,\u201d reads the first of dozens of such examples. It\u2019s relatively common for companies to redact certain information in their S-1 filings, and Securities and Exchange Commission rules allow for a certain degree of leniency around the practice, particularly when it comes to information considered \u201cconfidential.\u201d Still, it\u2019s helpful to know what, exactly, these companies decide to leave out. In Anthropic\u2019s case, the missing details largely revolve around financials for its most recent quarter, which concluded at the end of September, and lease agreements tied to its compute investments. While experts expect many details to be disclosed before Anthropic goes public, their current absence may hint at the uncertainties of investing in artificial intelligence, as companies work to secure sufficient compute. Anthropic did not respond to a request for comment. Michael Dambra, an accounting and law professor at the University at Buffalo School of Management, tells WIRED that there are \u201cpractical reasons\u201d for Anthropic\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3632
+  },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -85118,6 +85883,32 @@
       "identity"
     ],
     "word_count": 1744
+  },
+  "d648e1bafc44d70c4bef71d6d283aea6804cf52c160cb7b59522abbed6efb5bd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Teachers learn to better use AI in their classrooms at ST\u2019s interactive workshop Sign up now: Get ST's newsletters delivered to your inbox Primary and secondary school teachers looking through their creations in an interactive workshop organised by ST on Oct 29. ST PHOTO: JASEL POH Dillon Loh Published Oct 29, 2026, 06:56 PM Updated Oct 29, 2026, 10:31 PM Set as preferred source Listen Summarise More than 80 teachers from 45 schools joined a Straits Times workshop in Singapore to learn how Gen AI can create classroom content using news articles. Teachers used tools like Gemini Notebook and ChatGPT to make worksheets, videos and infographics, while checking that the content was accurate and used proper sources. The workshop stressed AI literacy and responsible use, with teachers saying AI can save time and help them adapt resources for different student levels. AI generated SINGAPORE \u2013 Teachers tried their hand at using generative AI (Gen AI) to create classroom content from news articles, while learning to ensure that the content is accurate and backed by trusted sources at a Straits Times workshop on Oct 29. Held at SPH Media News Centre in Toa Payoh North, the interactive session was attended by more than 80 primary and secondary school teachers from 45 schools. The 2026 teacher engagement workshop, facilitated by StoryLab Academy trainers, guided teachers in tailoring...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1872
   },
   "d649ed127927d0a1b06783a062ef619829fc18af3cfa3fa1e9f800d185030f41": {
     "access_status": "available",
@@ -90621,6 +91412,30 @@
     ],
     "word_count": 17
   },
+  "e419324f978aa60c8dbbf971bcc48c3f6bb6d085d8f1ec016fe22a265a3ada04": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Yeastar Recognizes AI, Technical Innovation and Customer Success at Yeahs Awards 2026 Published Oct 29, 2026, 03:00 PM Yeastar Recognizes AI, Technical Innovation and Customer Success at Yeahs Awards 2026 The issuer is solely responsible for the content of this announcement. Press release Yeastar Recognizes AI, Technical Innovation and Customer Success at Yeahs Awards 2026 Published Oct 29, 2026, 03:00 PM Yeastar Recognizes AI, Technical Innovation and Customer Success at Yeahs Awards 2026 The issuer is solely responsible for the content of this announcement. Press release Yeastar Recognizes AI, Technical Innovation and Customer Success at Yeahs Awards 2026 Published Oct 29, 2026, 03:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 149
+  },
   "e4473f985e8063ddd2b86da6cc3a1eb18f98c4f28c617d37084d2116b1b3085a": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -92796,6 +93611,39 @@
     "weak_generic_terms_found": [],
     "word_count": 1783
   },
+  "eaf8aebe8ce36197bf73173540d05525b4653ec0fb19e5074ff77a8453a27c08": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Overview Decision Agents How It Works Use Cases Scam & Fraud Detection Trust & Safety Intelligence Marketing and Brand Management Strategic and Crisis Communications Cyber Threat Monitoring Intelligence Geopolitical Risk Monitoring Audience & Influence Mapping Industries Financial Services Government & Defense Technology & Platforms Media & Entertainment Agencies Retail & Consumer Discover Reports & Research Webinars Blogs Insights Situation Briefs Learn Narrative Intelligence Featured World Cup Watch In the Media Media Inquiries Our Story Leadership Careers Contact Us Resources The Complete Guide to Narrative Intelligence Book a Demo Learn How it Works Every day, organizations are confronted with an enormous volume of information about what is happening online. Social listening platforms track mentions and sentiment. Media monitoring tools surface coverage. Analysts watch trends, influencers, and engagement. AI has made it possible to process more of this information, more quickly than ever before. Yet having more signals does not necessarily make it easier to understand what is happening. A spike in conversation can be meaningful or fleeting. A negative narrative can remain contained within an online community or begin reaching customers, journalists and other stakeholders. An influential account can introduce an idea without ever persuading the audiences an organization...",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:41:51+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 7764
+  },
   "eaf94c8d7e8296c531806bb5bb9dcd82bcc36c59194ca327e3bee626f802a235": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -93646,7 +94494,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-23T04:42:54+00:00",
+    "checked_at": "2026-10-30T05:42:00+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -97108,6 +97956,41 @@
       "fraud"
     ],
     "word_count": 19828
+  },
+  "f6606dd6200967a94343af52ec8a9ce04ee0601a1c18f01da464506a114c78d2": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-10-30T05:42:00+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "f6790da2ccccbd584982d2f4896f5618e4273e4f9ed346b044729d397015332d": {
     "access_status": "available",
