@@ -2606,6 +2606,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3043
   },
+  "06ba37760e5d7778e419d9a80fd3afc90654f1bdb76268e78b466615be7045a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Limits & pricing Last updated Oct 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Limits The following limits apply based on your Workers plan : Limit Workers Free Workers Paid AI Search instances per account 100 Unlimited, with a default limit of 5,000. Each instance above 5,000 costs $0.10 per month . Namespaces per account 100 100 Files per instance 100,000 1M or 500K for hybrid search Pages per crawl, discover parse type 100,000 100,000 Maximum PDF file size with OCR enabled 10 MiB 10 MiB Maximum plain-text or code file size 10 MiB 10 MiB Maximum size for PDFs without OCR and other file formats 4 MiB 4 MiB Included semantic queries per month 1,000 1,000 Included full-text queries per month 1,000 1,000 Instances per cross-instance search request 10 10 Maximum pages crawled per day 500 Unlimited Max custom metadata fields 5 per AI Search instance 5 per AI Search instance Metadata per vector 10 KiB total, including system overhead 10 KiB total, including system overhead Filterable indexed string data First 64 UTF-8 bytes per string First 64 UTF-8 bytes per string Website crawling is bounded by several of these limits at once. A discover crawl accepts up to 100,000 pages, but the files per instance and maximum pages crawled per day limits also apply, so the number of pages you end up with is whichever of those values is lowest. On Workers Free, the daily limit of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1732
+  },
   "06c1d9076f5b4f3cc801b7be15c49e2edf15028e72b96f9338329d120de78345": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -3616,6 +3640,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "091a9f0e638ba10d0215290aecd49051c216dc7d575d744e9f0aad50ffe73832": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Taipei mayor gets angry reception at Pride after gay bar raid Sign up now: Get insights on Asia's fast-moving developments Taipei Mayor Chiang Wan-an attending the annual Taiwan Pride Parade in Taipei, Taiwan, on Oct 31. PHOTO: REUTERS Published Oct 31, 2026, 06:41 PM Updated Nov 01, 2026, 04:58 AM Set as preferred source Listen Summarise Taipei Mayor Chiang Wan-an faced angry shouts at Pride after a police raid on Commander D bar, as 170,000 people joined east Asia\u2019s largest Pride parade. Chiang apologised for the impact, promised a \u201crigorous investigation\u201d and \u201cimmediate discipline\u201d, but protesters still called, \u201cdon\u2019t raid gay bars\u201d. Pride organisers changed the theme after the raid, saying it revived trauma for LGBTQ+ communities; President Lai said nobody should fear who they are. AI generated TAIPEI - Taipei Mayor Chiang Wan-an, in a close race for re-election, got an angry reception on Oct 31 when he briefly showed up for Taiwan\u2019s packed annual Pride parade, following a police raid on a city gay bar earlier this month. The raid struck a nerve in Taiwan, which legalised same-sex marriage in 2019 in a first for Asia and is proud of its reputation as a bastion of LGBTQ+ rights in a region where they are often repressed. More than 170,000 people joined the Oct 31 parade, which is east Asia\u2019s largest Pride event. Chiang, from the opposition Kuomintang party and who has...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1673
   },
   "093a273007b97fa3a7f7e8e9d4a9e0f3ac6a06bb21b9fc04677c594c0dbc4237": {
     "access_status": "available",
@@ -7629,9 +7677,9 @@
   "130900cce6b63ece99292eb340bc5b66942872eb5f2247684d985b10ee4b4094": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Request unsuccessful. Incapsula incident ID: 487000070358630787-562406498356363762",
+    "article_excerpt": "Request unsuccessful. Incapsula incident ID: 1011000101818172061-1270580454414811826",
     "cache_version": 10,
-    "checked_at": "2026-10-18T04:24:36+00:00",
+    "checked_at": "2026-11-01T05:56:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -10428,6 +10476,32 @@
       "fraud"
     ],
     "word_count": 1339
+  },
+  "1991fb81e8991c9815d83a829a9dd5015250e0260200e8946f1bcee147c7550e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Markets lashed by tech rout as earnings fan AI fears Sign up now: Get ST's newsletters delivered to your inbox Bitcoin tumbled after Binance had fallen victim to a major hacking attack that had impacted around US$6.3 billion in funds. PHOTO: REUTERS Published Oct 30, 2026, 10:14 PM Updated Oct 30, 2026, 10:27 PM Set as preferred source Listen Summarise Tech shares fell sharply as Amazon and Intel earnings revived fears about heavy AI spending and slowing returns. Nasdaq dropped 2.3%, while Nvidia, Micron and AMD also lost value. Markets were mixed outside tech. FTSE 100 rose on strong AstraZeneca and BP results, but NatWest fell more than 8% after lower third-quarter profit. Bitcoin dropped 3.7% after Binance reported a major hack affecting about US$6.3 billion. Oil prices rose around 2% after Iran said four tankers hit mines in the Strait of Hormuz. AI generated LONDON - Technology firms retreated further on Oct 30 after more poorly received earnings from US titans fanned deepening concerns about the AI investment boom. Bitcoin meanwhile tumbled after Binance, the world\u2019s largest cryptocurrency exchange, was hit by what analysts warned could be the biggest hacking of its kind in the world. \u201cThe end of the week is dominated by a continuation of the recent AI sell-off on disappointing earnings, and concerns about the safety of crypto,\u201d said Kathleen Brooks, research director at...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2028
   },
   "199bf0101b8da9117aef3993dab98573f505dde208e7748a610c63898b88831f": {
     "access_status": "available",
@@ -20825,6 +20899,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2534
   },
+  "3660b1f81fda73c0a5050eeb8bad947d8b1ca9bbed5fe12473054a403f22bcd8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Limits Last updated Oct 29, 2026 | Copy as Markdown | View as Markdown | Agent setup Account plan limits Feature Workers Free Workers Paid Requests 100,000/day No limit CPU time 10 ms 5 min Memory 128 MB 128 MB Subrequests 50/request 10,000/request Simultaneous outgoing connections/request 6 6 Environment variables 64/Worker 128/Worker Environment variable size 5 KB 5 KB Worker size 64 MiB 64 MiB Worker startup time 1 second 1 second Number of Workers 100 500 1 Number of Cron Triggers per account 5 250 Number of Static Asset files per Worker version 20,000 100,000 Individual Static Asset file size 25 MiB 25 MiB Request and response limits Limit Value URL size 16 KB Request header size 128 KB (total) Response header size 128 KB (total) Response body size No enforced limit For incoming requests to a Worker on your domain, request body size limits depend on the domain's Cloudflare plan, not your Workers plan. Requests exceeding these limits return a 413 Request entity too large error. Cloudflare Plan Maximum request body size Free 100 MB Pro 100 MB Business 200 MB Enterprise Up to 5 GB (self-serve) Enterprise customers can adjust the maximum request body size up to 5 GB themselves from the zone's Network page ( Maximum Upload Size ). For limits above 5 GB, contact your account team or Cloudflare Support . Cloudflare limits each HTTP request body sent to an external service by a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 7078
+  },
   "36661d3cc09841680572d4188d417c5f6f41f5649e01159d163d3c9a274bfb95": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -24032,6 +24130,30 @@
     ],
     "word_count": 4633
   },
+  "3d15477ba78ff72d93826b5247f0eb5b3985d02e23bcb7a9c726fb5f29c68639": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Shelter Star Of The Month Meet Toffee, the independent and cheeky Shiba Inu Sign up now: Get ST's newsletters delivered to your inbox Toffee the Shiba Inu is available for adoption at Chained Dog Awareness Singapore. PHOTO: CHAINED DOG AWARENESS SINGAPORE Published Nov 01, 2026, 09:14 AM Updated Nov 01, 2026, 09:14 AM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 Toffee is a one-year-old Shiba Inu with a strong personality and an independent streak. The charming pooch, cared for by animal welfare group Chained Dog Awareness Singapore, is looking for a loving home where his unique character will be understood and appreciated. Currently living with a foster family, Toffee has won them over with his amusing antics and strong-willed nature. Like many Shiba Inus, Toffee will thrive with patient, understanding owners who respect his boundaries rather than expect unquestioning obedience. He is best suited to a calm household without young children or elderly family members, and preferably without other pets. Toffee is also seeking a temporary foster home until Nov 10, with the possibility of a permanent adoption if a suitable match is found. For more information, contact Chained Dog Awareness Singapore at str.sg/tgTS . It is a non-profit organisation that aims to draw attention to the plight of many confined and chained dogs across Singapore. More on this topic Clearing the air...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 754
+  },
   "3d173306e44a564a5fef261ca46c32b4926bd90328694d6f8e8165fc533568a2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -25815,6 +25937,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1830
   },
+  "41caa91f2c99054c55a8bd4df3ebd24f05b92ba11f3ddd555c8305c63a6627eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "McDonald\u2019s must face lawsuit over McRib, US judge rules Sign up now: Get ST's newsletters delivered to your inbox McDonald\u2019s has sold the McRib periodically since 1981. PHOTO: AFP Published Oct 31, 2026, 08:46 AM Updated Oct 31, 2026, 08:46 AM Set as preferred source CHICAGO - A federal judge on Oct 30 rejected McDonald\u2019s request to dismiss a proposed class action accusing it of defrauding consumers about the content of its McRib sandwich. The plaintiffs accused McDonald\u2019s of intentionally shaping McRib patties with ridges to resemble pork ribs and make diners believe the sandwich contains rib meat, an expensive cut known for its higher fat content and rich flavour. Consumers said McDonald\u2019s actual use of lower-grade pork products including shoulder, heart, tripe or stomach caused them to overpay for the McRib, one of its most expensive menu items. While dismissing some claims, US District Judge April Perry in McDonald\u2019s hometown of Chicago called it premature to accept the company\u2019s argument that no reasonable consumer could expect the McRib to contain rib meat. She said McDonald\u2019s website describes the sandwich only as containing pork, and reasonable consumers need not do research before buying a US$7 (S$8.95) fast-food sandwich. The judge also said ads highlighting the meat\u2019s rib-like shape could support a claim of intent to defraud, though further proof was needed....",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1232
+  },
   "41d04f6eb9b78e4739eee9d30ae59f600f075e5ac47f9eed3050acd66a024453": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -26921,6 +27069,42 @@
       "phishing"
     ],
     "word_count": 0
+  },
+  "447480a4138fcd58ac7a0af9e7b683fce980c9f50c464bbfb4a4cd0fa92871a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SafeArena : Evaluating the Safety of Autonomous Web Agents Ada Defne Tur Affiliation: McGill University Affiliation: Mila Quebec AI Institute Nicholas Meade Affiliation: McGill University Affiliation: Mila Quebec AI Institute Correspondence to: nicholas.meade@mila.quebec Xing Han L\u00f9 Affiliation: McGill University Affiliation: Mila Quebec AI Institute Alejandra Zambrano Affiliation: Concordia University Affiliation: Mila Quebec AI Institute Arkil Patel Affiliation: McGill University Affiliation: Mila Quebec AI Institute Esin Durmus Affiliation: Anthropic Spandana Gella Affiliation: ServiceNow Research Karolina Sta\u0144czak Affiliation: McGill University Affiliation: Mila Quebec AI Institute Siva Reddy Affiliation: McGill University Affiliation: Mila Quebec AI Institute Affiliation: Canada CIFAR AI Chair Affiliation: ServiceNow Research Correspondence to: siva.reddy@mila.quebec Abstract LLM-based agents are becoming increasingly proficient at solving web-based tasks. With this capability comes a greater risk of misuse for malicious purposes, such as posting misinformation in an online forum or selling illicit substances on a website. To evaluate these risks, we propose SafeArena , the first benchmark to focus on the deliberate misuse of web agents. SafeArena comprises 250 250 safe and 250 250 harmful tasks across four websites. We...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [
+      "credential harvesting"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 21335
   },
   "4488da7f7245703f93e16dc463d0a8132a0201c7aa60d3e5f7b9f9495f90fcd0": {
     "access_status": "available",
@@ -34086,6 +34270,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "54f0961f1ef2331b134eca28abb6905be6446e986d65d2689f57f9ab7db45cd5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Microsoft beats expectations fuelled by Azure cloud business Sign up now: Get ST's newsletters delivered to your inbox The quarterly earnings report comes just days after Microsoft offered voluntary buyouts to about 60,000 employees, roughly a quarter of its workforce. PHOTO: REUTERS Published Oct 29, 2026, 07:23 AM Updated Oct 29, 2026, 09:37 AM Set as preferred source Listen Summarise Microsoft beat profit and revenue forecasts, helped by Azure cloud revenue rising 48% in the September quarter. Shares rose more than 5% after the results. The company made US$92.3 billion in revenue and more than US$36.6 billion in profit, above FactSet estimates. Satya Nadella said Microsoft is offering \u201cgreater capability, choice, control, and cost efficiency\u201d. Microsoft is spending heavily on AI, with capital expenditure expected to top US$50 billion next quarter and US$170 billion this year. It has also offered voluntary buyouts to about 60,000 employees as it expands data centres and AI hardware. AI generated SAN FRANCISCO \u2013 Microsoft shares popped more than 5% on the afternoon of Oct 28 after it reported better than expected revenue and profit, fuelled by its Azure cloud computing division, which grew by 48% in the September quarter. \u201cWe are delivering greater capability, choice, control and cost efficiency for customers across our entire stack,\u201d Microsoft chief executive Satya Nadella...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2437
+  },
   "54f1b662a390586f9352d151c406d1463b93029d384ccc8dc5ff8062419ba8e4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39665,6 +39873,44 @@
     "weak_generic_terms_found": [],
     "word_count": 147
   },
+  "635f4c025ff2ecdc98b3fb08abf401a15beaf7ea039b06f9ee028cafbe01f29f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study Simiao Ren *\u2020 Yuchen Zhou * Xingyu Shen Kidus Zewde Tommy Duong Affiliation: George Huang, Hatsanai (Neo) Tiangratanakul, Tsang (Dennis) Ng, En Wei, Jiayu Xue Affiliation: * Equal contribution \u2020 Corresponding author Affiliation: {benren, kiduszewde, neo, dennis}@scam.ai Affiliation: {yuchen.zhou, xingyu.shen}@duke.edu Email: xuejiayu@unc.edu Affiliation: {tommy-duong0, georgehuang6115}@berkeley.edu Abstract As AI-generated images proliferate across digital platforms, reliable detection methods have become critical for combating misinformation and maintaining content authenticity. While numerous deepfake detection methods have been proposed, existing benchmarks predominantly evaluate fine-tuned models, leaving a critical gap in understanding out-of-the-box performance\u2014the most common deployment scenario for practitioners. We present the first comprehensive zero-shot evaluation of 16 state-of-the-art detection methods, comprising 23 pretrained detector variants (due to multiple released versions of certain detectors), across 12 diverse datasets, comprising 2.6 million image samples spanning 291 unique generators including modern diffusion models. Our systematic analysis reveals striking findings: (1) no universal winner...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:berkeley.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16963
+  },
   "63617a757eb8f9ede0be011192150e0aaced475f7c8741f3b76c7bb8eab82b34": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -39888,9 +40134,9 @@
   "644a29df7e9230a980b9fbbb4af2a51932bf53c0fe11fa80be2b11e855554efb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "",
+    "article_excerpt": "Content Blocked",
     "cache_version": 10,
-    "checked_at": "2026-10-18T04:24:35+00:00",
+    "checked_at": "2026-11-01T05:56:25+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -39911,7 +40157,7 @@
       "vulnerability",
       "fraud"
     ],
-    "word_count": 0
+    "word_count": 2
   },
   "64536db4415e32e07776da82b3030cd236cf3c9a2b548eae0fc41be205a10f79": {
     "access_status": "available",
@@ -44537,6 +44783,55 @@
     "weak_generic_terms_found": [],
     "word_count": 2357
   },
+  "6f60f6cf9a6f564015df6c63c00aa7dbe0a2232b7884454ac9fc1b065494a32a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Scam centres relocated from Cambodia operate in Madagascar Sign up now: Get ST's newsletters delivered to your inbox According to the FBI, cyber scam centres are increasingly opening in Africa following the closure of such compounds in South-east Asia. PHOTO: AFP Published Oct 31, 2026, 03:30 PM Updated Oct 31, 2026, 03:30 PM Set as preferred source ANTANANARIVO, Madagascar \u2013 Raids against online scam centres in Madagascar have exposed ties with a criminal group that ran similar operations in Cambodia, also duping African nationals via alleged human trafficking, the authorities told AFP. Conducting romance, cryptocurrency and investment fraud, the sites were operated mostly by Chinese nationals, 148 of whom have been extradited to China, Madagascar\u2019s Justice Ministry said. Thirteen Chinese-run scam compounds were taken down in operations in August and September conducted with the US Department of Justice (DOJ), it said. About US$52 million (S$66.6 million) of cryptocurrency was seized in a single day and more than 3,200 electronic devices were processed, the US authority said in a statement. The United Nations Office on Drugs and Crime had warned in 2025 about the expansion of these networks, particularly into Southern Africa. Eleven Chinese nationals arrested separately in the online scam crackdown mysteriously walked free from a Madagascar jail in August in a widely...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam",
+      "scam compound",
+      "cambodia scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 2323
+  },
   "6f66140733a3a8c6693d7bbbf6167db746d3bf50d6f3c6769a304832d71cd138": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -49161,6 +49456,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3666
   },
+  "7aa582fecd15a5a8506d184db5c1222f25f2b3d3aced34f296056284f69e5af7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Retrenchments in Singapore inch up in Q3 2026 Sign up now: Get tips on how to grow your career and money There were 4,800 layoffs between July and September, up 3.9% from 4,620 in the previous quarter \u2013 the highest numbers since late 2020. ST PHOTO: LIM YAOHUI Joyce ZK Lim Published Oct 30, 2026, 10:30 AM Updated Oct 31, 2026, 05:36 AM Set as preferred source Listen Summarise \u4e2d\u6587 Retrenchments in Singapore rose in Q3 2026. MOM said 4,800 layoffs were recorded, up 3.9% from 4,620, the highest since late 2020. Business reorganisation was the main cause. Layoffs stayed high in information and communications, financial services and manufacturing, while total employment grew by 27,700. Unemployment stayed at 2.0%, but resident and citizen rates rose slightly. MOM said more firms expect to hire and raise wages, yet retrenchment risks need close monitoring. AI generated SINGAPORE \u2013 Retrenchments edged up in the third quarter of 2026, continuing an upward trend as firms restructure, according to preliminary labour market data from the Ministry of Manpower (MOM) on Oct 30. There were 4,800 layoffs between July and September, up 3.9% from 4,620 in the previous quarter \u2013 the highest numbers since late 2020. The incidence of retrenchment held constant at 2.0 for every 1,000 employees.",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2365
+  },
   "7ae10f80130bc8bc11e86cef52919d1e259d9b0bc45ef596990dc7d51c68fba5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -51599,6 +51918,30 @@
       "identity"
     ],
     "word_count": 32365
+  },
+  "7fa62c7c7cb6d3f47768b867d41978e382c5d11222bcd7484f54f11808275ee1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Meta eyes record US$95 billion equity raise to fund AI expansion Sign up now: Get ST's newsletters delivered to your inbox The latest fundraising underscores a shift among big technology companies increasingly tapping debt markets and \u200braising equity \u2060to bolster their AI infrastructure. PHOTO: REUTERS Published Oct 26, 2026, 10:20 PM Updated Oct 26, 2026, 10:20 PM Set as preferred source Listen Summarise Meta plans to raise up to US$95 billion for AI expansion, its largest equity fundraising. It has launched US$35 billion in stock offers and may add a US$60 billion share sale. Nvidia, AMD and Broadcom may invest up to US$5 billion in Class A shares. Their interest raises worries about a circular flow of capital in the AI industry. Meta\u2019s AI spending is hurting cash flow. It reported a US$2.12 billion cash burn in Q3 and raised its capital spending forecast to US$135 billion to US$145 billion. AI generated Meta Platforms said on Oct 26 it plans to raise up to US$95 billion (S$121.63 billion) in its largest-ever equity fundraising, as the social media giant spends aggressively on its costly AI infrastructure expansion . The Facebook parent has launched public offerings worth about US$35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale programme worth up to US$60 billion. The company will launch the larger share sale...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2170
   },
   "7fd4603a577b78436df23cbdfe1935b4ad7f0887d8e70e9a2a00a835e20cf8a3": {
     "access_status": "available",
@@ -63394,6 +63737,33 @@
     ],
     "word_count": 9616
   },
+  "9e99d341ffbd5e1f42bd8505b05c56fe23229e050803f85792dbf9620f42ca72": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "askST Meta\u2019s Muse AI agent: What can it do and what precautions should users take? Sign up now: Get ST's newsletters delivered to your inbox Meta\u2019s Muse has become the most downloaded free app on the Apple App Store here within hours of its launch in Singapore. PHOTO: REUTERS Sarah Koh Published Oct 28, 2026, 05:26 PM Updated Oct 28, 2026, 09:53 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 From Oct 28, Singapore users can download Meta\u2019s Muse from the Apple App Store or Google Play Store, establishing Muse as the first artificial intelligence agent designed for the mainstream consumer market. Muse\u2019s roll-out here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. It has surpassed 10 million downloads within just 40 days of its debut, and became the most downloaded free app on the Apple App Store here within hours of its launch in Singapore . Here\u2019s what you need to know about Muse and other AI assistants before using them. 1. What can Muse do, and how does it fare against other free AI tools? Users need to give Muse permission to access data in Gmail, Instagram and Calendar for the AI assistant to execute tasks on their behalf or send reminders for appointments. Users can also connect other AI tools such as OpenAI\u2019s ChatGPT, Anthropic\u2019s Claude and Google\u2019s Gemini to everyday apps such as Gmail and Google Calendar.",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "trust"
+    ],
+    "word_count": 3496
+  },
   "9e9bec53d6f80370d1bed9388e90b5b18513dacbc2844dc205e6ed2c3fdddfff": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -65188,6 +65558,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "a26d4626cbc542fa4d9293ba243a6926bc53a01f56fe7039daa4ba19bab0e0da": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street closes sharply lower, as AI cash burn fears spark tech selloff Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange after the opening bell, in New York City, on Oct 30. PHOTO: EPA Published Oct 31, 2026, 04:40 AM Updated Oct 31, 2026, 04:40 AM Set as preferred source Listen Summarise US stocks fell sharply as weak Intel and Amazon results fuelled fears about heavy AI spending and poor returns, sending the Nasdaq down 2.9%. Chip and tech shares led the selloff, with Intel down 28.6%, Nvidia down 4.2%, AMD down 10.9%, and server makers Dell and HP also falling hard. Some firms beat expectations, including Exxon Mobil and Chevron, but markets stayed weak as investors punished companies missing high expectations and crypto stocks sank on Binance hack fears. AI generated NEW YORK - US stocks tumbled on Oct 30, with the Nasdaq suffering its largest one-day percentage drop since June 5 following disappointing quarterly results from Intel and Amazon, which amplified growing worries surrounding AI-related companies\u2019 massive spending on the nascent technology. All three major US stock indexes slumped, with the Nasdaq sliding 2.9%. The tech-heavy index has dropped 7.8% from its all-time closing high reached on Oct 6. The tech rout was sparked by disappointing quarterly results from Intel and Amazon released late...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2229
+  },
   "a27ad9443673961e6390652043494854f023cafceade541ba32cec825ad6c897": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -66375,6 +66769,30 @@
       "identity"
     ],
     "word_count": 4272
+  },
+  "a54ec269449106eb73dedb5d7a09b872683e83ef8d0e315e62e2a5108f5dbdae": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Fixing the \u2018bottom rung\u2019: S\u2019pore fresh grads urged to use, critique AI to get a leg-up in employment Sign up now: Get ST's newsletters delivered to your inbox To help students build more sustained and in-depth work experience, placements for longer internships and workplace attachments have also gained traction. ST PHOTO: JASON QUAH Sarah Koh Published Nov 01, 2026, 05:00 AM Updated Nov 01, 2026, 09:20 AM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 Where junior software developers were once hired to hammer out routine code, they are now expected to act as critical gatekeepers by auditing AI-generated drafts for security, logic and business fit. With the growing capabilities of artificial intelligence that can take over routine tasks, employers across sectors are no longer content with entry-level workers who can produce a first draft of software code or marketing scripts, business associations, schools and manpower groups told The Straits Times. Instead, being able to put AI tools to work while applying sound judgment skills is now the new basic expectation. This shift comes amid concerns from the Government about the \u201cbottom rung\u201d of the career ladder being broken by AI, said Prime Minister Lawrence Wong earlier in October. He had also urged employers to be more deliberate in training and mentoring junior hires. Business associations and manpower groups said that employers...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3407
   },
   "a56201a60cc8a0f1135b7c59ea5f07d0124145736aad6595c3201541b59ed8b9": {
     "access_status": "available",
@@ -70988,6 +71406,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "afd6173c719462bbc79206e31c808947971a1cc72f2bef156cbe0206a7e3c50b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "WebSockets Last updated Oct 29, 2026 | Copy as Markdown | View as Markdown | Agent setup The Agent class installs the WebSockets capability and calls your onConnect() , onMessage() , onClose() , and onError() methods. Connections hibernate when idle, and useAgent and AgentClient from the client SDK connect to it. This page covers the Agent methods. For connection state, tags, readonly connections, and transports, refer to the WebSockets capability . Handle connections import { Agent } from \"agents\" ; export class ChatAgent extends Agent { getConnectionTags ( _connection , ctx ) { const room = new URL (ctx.request.url).searchParams. get ( \"room\" ); return room ? [ `room:${ room }` ] : []; } onConnect ( connection , ctx ) { connection. setState ({ joinedAt: Date. now () }); connection. send ( JSON .",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 1052
+  },
   "afda064950bd02645f1155962dfb5e7d7d08a93f22f3a10becb66776ad0acc9f": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -71962,6 +72406,30 @@
       "trust"
     ],
     "word_count": 3412
+  },
+  "b260c6be70622bf3c855f029e73add024acf20c254a94782445e0cf01e7807d6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Logging Last updated Oct 26, 2026 | Copy as Markdown | View as Markdown | Agent setup Logs help you monitor requests and troubleshoot application issues. Each log can include the prompt, response, provider, timestamp, status, token usage, cost, duration, and user agent. When a request matches a Data Loss Prevention (DLP) policy, its log can also include the action and matched policy details. When Guardrails are turned on, Guardrails evaluation calls are also recorded in your logs. Use an authenticated gateway to prevent unauthorized access. Authentication also prevents invalid requests from increasing log volume. Default configuration Logs are enabled by default for each gateway. This setting applies to all requests unless a request overrides it. You can turn off collection for privacy or compliance requirements. To change the default log configuration in the dashboard: In the Cloudflare dashboard, go to the AI Gateway page.",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1588
   },
   "b26764f30f971c83a3c0d7280379913e89aaf5b7b14ce9cffcb549825a3b488c": {
     "access_status": "available",
@@ -75670,6 +76138,45 @@
     ],
     "word_count": 11125
   },
+  "bb8ae273ffde241444d7763e53c5a439bd496d3007041c26624c5cf847e7e3a2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "To receive this newsletter in your inbox each week, sign up here . New research shared exclusively with Kernel Panic shows that hackers have started adding AI functionality into a new strain of infostealer malware , making it possible for the system to automatically profile victims and quickly surface the highest value targets and their information. Dubbed \u201cVolta-Autodoxer\u201d because of how the malware refers to itself internally, the finding by Cisco Talos researchers sheds light on the ways that commercial LLMs are being used to augment and enhance the capabilities of established types of malware. Often hidden in counterfeit software, infostealers are designed to live up to their name, grabbing usernames, passwords, authentication tokens, cookies, credit card data, and more from infected machines. Many of the biggest data breaches in recent years\u2014from the widespread Snowflake-linked breaches that included AT&T and Ticketmaster to the theft of a terabyte of Disney data \u2014have resulted from hackers accessing targets using login details gathered by infostealers. Overall, the malware has been used to steal hundreds of millions of credentials in recent years. \u201cVolta is pretty mature as a stealer. It casts a pretty wide net for what it collects,\u201d says Ryan Fetterman, a security researcher at Cisco Talos. \u201cIt compiles all of those things together, ultimately producing a serialized...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime"
+    ],
+    "word_count": 3418
+  },
   "bba09b99216fba2a48384cb861652ac9b1e9fa7e776a0cdc0e94112d21e83c38": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77067,6 +77574,30 @@
     ],
     "word_count": 812
   },
+  "beb75dff2d4afa987ce8aafa2bc4fa14fe7e03db23bb700f8de4fad4194297f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "OpenAI\u2019s Altman meets Samsung executives as chip crunch deepens Sign up now: Get ST's newsletters delivered to your inbox OpenAI CEO Sam Altman is the latest American tech leader to visit South Korea, the leader in advanced memory chips. PHOTO: AFP Published Oct 31, 2026, 04:25 PM Updated Oct 31, 2026, 04:45 PM Set as preferred source Listen Summarise Sam Altman met Samsung executives in South Korea to deepen cooperation on memory chips and AI infrastructure as global shortages and chip prices rise. Samsung said talks with about 50 executives focused on how AI could reshape industries, business decisions and opportunities over the next decade. The meeting builds on an OpenAI-Samsung partnership for the Stargate project and AI data centres, while Samsung speeds up AI use across its own businesses. AI generated OpenAI chief executive Sam Altman met with Samsung Group\u2019s top executives in South Korea on Oct 31 to deepen cooperation on memory chips and AI infrastructure as global shortages intensify. Samsung hosted Altman for talks with about 50 executives from its electronics, financial and biotechnology affiliates in Yongin, south of Seoul, the South Korean company said in a statement. The discussions focused on how artificial intelligence can reshape industries, corporate decision-making and business opportunities over the next decade. The meeting comes as shortages in a broad...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1224
+  },
   "bec11a867b30c25079f95d1bfd970d06e6a47b421456ddf0f759438d439c4bf5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77667,6 +78198,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "c048a0895696278981cd7b1620301e34a4b41daad60c2fd97da4713310f0ef33": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Pope Leo tries to stay neutral as US basketball rivals descend on Vatican Sign up now: Get ST's newsletters delivered to your inbox Pope Leo XIV receiving a basketball as a gift, during an audience at the Vatican on Oct 31 with members of the Villanova and Notre Dame university basketball teams, ahead of the US college basketball season. Villanova University is the US-born Pope\u2019s alma mater. PHOTO: EPA Published Oct 31, 2026, 09:06 PM Updated Nov 01, 2026, 12:59 AM Set as preferred source Listen Summarise Pope Leo, the first American pope, welcomed Villanova and Notre Dame basketball teams at the Vatican and joked that he \u201cdoesn\u2019t take sides\u201d before 7,000 guests. The two Catholic universities will play men\u2019s and women\u2019s games on 1 November in Rome\u2019s Eternal City Tip-Off, opening the US college basketball season. Leo gave a serious message that rival teams \u201care certainly not enemies\u201d, showing sports can bring passion without hostility. AI generated VATICAN CITY \u2013 Popes have received heads of state, royalty and pilgrims by the busload in the Vatican\u2019s Paul VI Audience Hall. On Oct 31, Pope Leo welcomed his old college basketball team and \u2013 in a show of sportsmanship that went only so far \u2013 their opponents. Leo, the first American pontiff, greeted the men\u2019s and women\u2019s teams from his alma mater Villanova \u2013 where he graduated in 1977 \u2013 and from their rival Notre Dame, before...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:27+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1490
+  },
   "c04c8ffd1adfb2d902bec31166dc0292871894028a890c3306bcfa2b6aeec319": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -78188,6 +78743,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "c1dfb7a78b51d1a2468a1c7fc44e74772215a168143b470adc82caaade796437": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "South Korea exports extend robust growth on AI-fuelled chip boom Sign up now: Get ST's newsletters delivered to your inbox The continued strength adds to the case for the Bank of Korea to raise interest rates in November. PHOTO: REUTERS Published Nov 01, 2026, 09:40 AM Updated Nov 01, 2026, 11:50 AM Set as preferred source Listen Summarise South Korea\u2019s exports rose strongly in October, led by an AI-fuelled chip boom. Working-day adjusted exports jumped 76.1% to US$115.3 billion, with a US$42.5 billion trade surplus. Semiconductors were the main driver, with chip exports up 259% to US$56.4 billion. Computers rose 497%, while petroleum products and cars also gained. The strong trade data support a possible Bank of Korea rate rise in November. But uneven growth, weak household demand and inflation above target still complicate policy. AI generated SEOUL \u2013 South Korea\u2019s exports maintained strong growth in October, with an artificial intelligence-driven boom continuing to power the trade-reliant economy. Exports adjusted for working-day differences climbed 76.1% from a year earlier, according to the Ministry of Trade, Industry and Resources data released on Nov 1. The value of shipments reached US$115.3 billion (S$147.3 billion), following the previous month\u2019s record US$121.1 billion.",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2073
   },
   "c1e660ef19fe5e4a3df7d9f7a02d32b675a6136c7fb8d4f8c734589294a6f619": {
     "access_status": "available",
@@ -79943,6 +80522,32 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "c6261e175eecb8f6e67b7b83831f144b14dcab7faac5212e32e1767ccca9f17d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "New MOS Foo Cexiang wants to help workers switch sectors, find jobs more quickly for those who reskill Sign up now: Get ST's newsletters delivered to your inbox Minister of State for Manpower and for Energy, Trade and Industry Foo Cexiang calls for a \u201cgive and take\u201d approach for a family-friendly workplace, but warns against hard-coding work flexibility into rules. ST PHOTO: BRIAN TEO Chin Soo Fang Published Nov 01, 2026, 12:00 PM Updated Nov 01, 2026, 12:07 PM Set as preferred source Listen Summarise \u4e2d\u6587 Foo Cexiang wants to help retrenched workers move into new sectors and help reskilled jobseekers find better matches. He said the Government, firms and society must support career changes and give workers time to adapt. MOM is studying \u201cfractional work\u201d and a new flexi-load programme for seniors. Foo said it could give workers more flexibility and let firms hire specialist skills without full-time jobs. Foo warned that AI could weaken learning, relationships and trust at work, especially for young workers. MOM is helping graduates find jobs before the impact becomes sharper. AI generated SINGAPORE \u2013 Retrenched workers who face challenges in switching fields and those who have reskilled but cannot find the right job fit are two groups that Minister of State for Manpower Foo Cexiang wants to help. The first-term Tanjong Pagar GRC MP has seen such cases in his constituency and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 5069
+  },
   "c636ed49ac7d7a6d6be3f46beed6d78684e5d4b157487555a961226ef8f501e2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -81271,6 +81876,32 @@
       "trust"
     ],
     "word_count": 2089
+  },
+  "c9f666e58d648c5d02817b83755cee04e62a9f49c02debc3bc5c95bd9ffddd45": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Is it legal to recruit spoiler candidates in US elections? Sign up now: Get ST's newsletters delivered to your inbox The Justice Department is investigating allegations that Democrats recruited potential spoiler candidates to run in Alaska\u2019s US Senate race. PHOTO: AFP Published Oct 31, 2026, 09:46 AM Updated Oct 31, 2026, 09:46 AM Set as preferred source Summarise The Justice Department is investigating claims that Democrats recruited spoiler candidates in Alaska\u2019s Senate race. The case could affect certification if Republican Senator Daniel S. Sullivan loses narrowly. Legal experts say the DOJ faces a weak case because election rules are mainly set by states. A judge may rule soon on whether the lawsuit should be dismissed. Possible charges include conspiracy against rights, fraud, dishonesty, civil rights breaches and perjury. Experts say many \u201cdirty tricks\u201d are legal, but tricking voters may be different. AI generated WASHINGTON - The Justice Department is investigating allegations that Democrats recruited potential spoiler candidates to run in Alaska\u2019s US Senate race, and has asked a US judge to prevent certification of the vote if incumbent Republican Senator Daniel S.",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3263
   },
   "ca1ca179e23f4ee962b1113415a49c627dd96c03af24c80ca8b07c7d8e3e70c6": {
     "access_status": "available",
@@ -84746,6 +85377,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1361
+  },
+  "d207f7b4bd808d3ffe9b75fcd85658b4cd062b798ef53c45eaf2b2707e2b7d4a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "CEO Insights Keppel\u2019s essential services offer resilience and room for growth: CEO Sign up now: Get ST's newsletters delivered to your inbox Keppel now uses money from the funds it manages to invest in costly assets, rather than relying on its own resources, CEO Loh Chin Hua said. PHOTO: KEPPEL Sue-Ann Tan Published Oct 29, 2026, 08:45 PM Updated Oct 30, 2026, 05:45 AM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 After years of transforming Keppel from a rig builder into an asset manager with interests spanning power plants and data centres, chief executive Loh Chin Hua sees artificial intelligence (AI) and energy needs driving its next phase of growth. In an exclusive interview with The Straits Times, Loh noted that Keppel is already associated with AI because many of the solutions it provides enable the technology, such as data centres, low-carbon energy and digital networks. But these solutions also serve the broader economy. Beyond AI, energy and connectivity remain basic necessities that society needs, he said. \u201cOur businesses provide essential services and critical infrastructure across areas such as power, cooling, sustainability, waste management, as well as social and urban development,\u201d Loh said in Keppel\u2019s third-quarter business update, announced on Oct 29. \u201cThis breadth gives resilience to our business while allowing us to capture the long-term opportunities...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3484
   },
   "d217ea5e4a944683d7cbea2643c1cb8d1d70d2769b388317bd2e74773a58184d": {
     "access_status": "available",
@@ -94063,6 +94720,30 @@
     "weak_generic_terms_found": [],
     "word_count": 52
   },
+  "ea9998d164db684c36746a4442d01d6483c8232a00a25d039cdbb059b535fba2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "TVB star Him Law is relieved to skip intimate scenes for new drama Sign up now: Get ST's newsletters delivered to your inbox Hong Kong actors Him Law and Rosina Lam recently visited Kuala Lumpur to attend the 2026 Power Of Pink breast cancer and wellness event. PHOTO: THE STAR/ASIA NEWS NETWORK Published Oct 30, 2026, 11:30 AM Updated Oct 31, 2026, 06:22 PM Set as preferred source Listen Summarise Him Law said he is happy to work with Anita Yuen in TVB drama I Only Live Twice, and he is relieved there are no intimate scenes this time. Rosina Lam said her role in War Of Thorns is intense and challenging, and she is focused on taking new roles rather than award hopes. Lam said TVB actors must adapt to short-form dramas, and she is learning about AI, which she believes does not clash with acting. AI generated KUALA LUMPUR \u2013 Hong Kong actors Him Law and Rosina Lam recently visited Kuala Lumpur to attend the 2026 Power Of Pink breast cancer and wellness event. Following the event, the two TVB stars spoke to Malaysian media about their upcoming projects. Law, 42, said he felt privileged to work with renowned actress Anita Yuen for the first time in the upcoming drama I Only Live Twice, which centres on themes of revenge and betrayal. When asked whether Yuen, 55, had personally selected him for the role, Law said she had not, although she had put in a good word for him. \u201cI wouldn\u2019t...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1831
+  },
   "eaa5573d6a4f00b2703b928c190edc8b49e2729beba0b8bfc9444b366f74942d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -100231,6 +100912,30 @@
       "trust"
     ],
     "word_count": 9285
+  },
+  "fa2b4e61cad54d5cf837d39ca5322d559cf79cca68efde8ba0d4a1c82f0be9cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Lao Gan Ma faces backlash over AI automation claims, company denies mass layoffs Sign up now: Get insights on Asia's fast-moving developments Headlines claiming that Lao Gan Ma laid off more than 500 workers after adopting AI sparked widespread criticism on social media. PHOTO: UNSPLASH Published Oct 29, 2026, 05:04 PM Updated Oct 29, 2026, 05:25 PM Set as preferred source Listen Summarise Lao Gan Ma faced backlash after AI inspection remarks were seen as proof of mass layoffs, with social media users threatening boycotts and criticising the company. The company denied firing workers, saying the AI system improved quality and that it had \u201cnever employed that many workers\u201d on the production line. Public records showed insured staff numbers fell from 2,912 in 2022 to 740 in 2025, but this does not prove layoffs; the firm\u2019s revenue stayed near 5.4 billion yuan. AI generated GUIZHOU, China \u2013 Lao Gan Ma, one of China\u2019s best-known chilli sauce brands, has come under public scrutiny after comments about its use of artificial intelligence in quality inspection were interpreted as evidence of large-scale job cuts. The controversy began after Li Xin, executive vice-president and chief quality officer of the Guiyang-based company, spoke at the 2026 Guizhou provincial quality development conference recently about Lao Gan Ma\u2019s adoption of an AI-powered visual inspection system. Li said the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-01T05:56:31+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1925
   },
   "fa32b3ec1929b32d9b946a66e257e10452ab3f3c60bbb10f3fcfeef493c7f6c5": {
     "access_status": "available",
