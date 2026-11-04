@@ -5288,6 +5288,30 @@
     ],
     "word_count": 807
   },
+  "0d75f4f8c81b7548eec045f763be5afbca0c896a286f9a64380ab252fa13eaae": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The potential probe follows lawmakers and researchers publicly questioning the tools\u2019 accuracy and the government\u2019s secrecy around their use. The Independent Chief Inspector of Borders and Immigration (ICIBI), which monitors the Home Office\u2019s management of borders, immigration, and customs, has asked digital rights nonprofit Open Rights Group (ORG) to share more information on the tools as it draws up plans for the topics it will inspect next year, campaigner Sara Alsherif tells WIRED. ORG\u2019s findings come from a six-month investigation into the tools, which involved 11 parliamentary questions, two ministerial letters, and 10 public records requests that attempt to pry details from the Home Office, which has withheld details on the tools. The ICIBI tells WIRED it cannot confirm what topics are under active consideration before it publishes its annual inspection priorities, but it says it is aware of concerns about the use of AI tools and pointed to its findings last year that one of the tool\u2019s \u201ceffectiveness and reliability were varied.\u201d \u201cAsylum decisions are made by trained caseworkers, with AI tools used only to assist in navigating interview records and policy information. They cannot be used in isolation and do not make decisions on claims,\u201d a Home Office spokesperson tells WIRED in an email. \u201cWe regularly monitor the performance of these tools alongside our established...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3359
+  },
   "0d8d8645c2a0a35101841aebda118145b0392b07665deb31b4f374eb22742cc8": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -5643,6 +5667,30 @@
       "identity"
     ],
     "word_count": 27383
+  },
+  "0eb30b832fe361020326f54c13198d73a439cae038cc5c5664ca6677eacbeb9a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Beyond Multimodal Emotion Conflict: Temporal Context-Aware Hidden Emotion Detection with Multimodal Large Language Models Yonghao Wang 1 and Jiaxin Zhou 2 Affiliation: 1 The Chinese University of Hong Kong, China; 2 Lingnan University, China Affiliation: wangyonghao@link.cuhk.edu.hk Abstract Multimodal emotion recognition commonly combines textual, acoustic, and visual signals to infer affective states. Recent work has begun to study conflicts among modalities, but a conflict does not necessarily indicate that a person is concealing an emotion. It may also result from mixed emotions, individual expressive styles, or contextual factors. This proposal aims to distinguish ordinary emotional inconsistency from emotion concealment and to infer the underlying emotion when supported by evidence. We plan to construct a multimodal benchmark with explicit annotations of expressed emotion, internal emotion, and concealment conditions, and to develop an MLLM-based framework that integrates fine-grained facial Action Units (AUs), cross-modal features, and temporal context. I Background and Motivation The global mental health situation continues to deteriorate, yet many people do not take mental health issues seriously enough. Since the outbreak of the COVID-19 pandemic, societal mental health problems have become even more severe. Despite...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 7718
   },
   "0ebc322d48c3319f48dab5e7e8a3c48bbb5bdc81842b6a543639aa8f60b2b03e": {
     "access_status": "available",
@@ -7465,6 +7513,47 @@
       "trust"
     ],
     "word_count": 4555
+  },
+  "1249a3dd1797432c73babd8effe5af3ad41502ecc8b41b584f27b43f0dc37d41": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Banking Cybercrime Alert: 10 Essential Tips to Protect Your Money Online Cybercrime targeting bank customers is becoming a serious concern as fraudsters use phishing messages, fake banking apps, OTP scams and malicious links to steal money and personal information. As digital banking and UPI payments become increasingly common, customers must remain alert and follow essential online banking safety practices to protect their accounts. Understanding common banking scams and knowing how to respond quickly can help reduce the risk of financial loss. Common Types of Banking Cybercrime 1. Phishing Messages and Fraudulent Calls Cybercriminals send fake emails, SMS messages and WhatsApp messages pretending to represent banks, government agencies or delivery companies. They may also make fraudulent calls to trick customers into revealing passwords, account details or one-time passwords (OTPs). Customers should verify unexpected requests directly with the relevant organisation using its official contact details. 2. OTP and UPI Payment Fraud Fraudsters may persuade victims to disclose an OTP, approve a UPI collect request or scan a malicious QR code. Customers should never share confidential banking credentials or approve payment requests they do not recognise.",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:07+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "payment fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 616
   },
   "124ab8190d97da6470c237670ff268e7ded66de2ca229d95e37756cfcbe87015": {
     "access_status": "available",
@@ -13682,6 +13771,30 @@
       "cybercrime"
     ],
     "word_count": 2183
+  },
+  "21ba1947d44b2b13c980330fff5153d715d3e22b8a8963caaabe6e1b2f212c84": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "\u2018We will kill Trump\u2019: Iran unveils huge billboard threatening US president Sign up now: Get ST's newsletters delivered to your inbox The billboard towers over the busy Enghelab Square in Tehran. PHOTO: EPA Published Nov 03, 2026, 07:27 PM Updated Nov 03, 2026, 07:30 PM Set as preferred source Listen Summarise Tehran unveiled a huge billboard with the words \u201cWe will kill Trump\u201d that raised anti-US rhetoric across the city. Crowds in Enghelab Square waved red flags and called for revenge after supreme leader Ayatollah Ali Khamenei was killed in US-Israeli attacks that sparked the war. New displays also mocked Trump, US Vice-President J. D. Vance, Israeli Prime Minister Benjamin Netanyahu and special envoy Steve Witkoff. AI generated TEHRAN \u2013 Iran unveiled on Nov 3 a massive billboard and banners across Tehran pledging to kill US President Donald Trump, bringing to a new level the official rhetoric displayed in the Iranian capital. \u201cWe will kill Trump,\u201d read the billboard towering over the busy Enghelab Square in Tehran, which depicted the US president behind bars with his head bowed. Another billboard nearby showed Trump, along with US Vice-President J.D. Vance, special envoy Steve Witkoff and Israeli Prime Minister Benjamin Netanyahu, with bloodied faces and ragged suits against the background of worn-out Israeli and US flags.",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1514
   },
   "21c9f7955335d388171e7d04fbdbf2b7e042e4cfafa0237995d2c61ee8249aec": {
     "access_status": "available",
@@ -22063,6 +22176,32 @@
     ],
     "word_count": 0
   },
+  "3877c9b88fd963f30f6592f3bd9b524a195b395b395384e5c678b0051e32fb0c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "\u201cMASSIVE AMOUNTS OF VOTER FRAUD BEING REPORTED ALL OVER THE COUNTRY!\u201d Mannarino asserted on X at 9:02 am EST, offering no evidence to support his declaration. \u201cThe Democrats are stealing our country right out from under us!\u201d As in any other election year, as polling places opened, people began showing up to vote, and voting machines started whirring into action, some jurisdictions ran into problems. Severe flooding along Florida\u2019s Space Coast meant about 20 polling places had to be moved. Bad storms over the weekend likely caused brief power outages in Arizona\u2019s Maricopa County , forcing the temporary closure of several polling places. Pennsylvania\u2019s Luzerne County was missing a scanner box. And in Westchester County, New York, voting in the hotly contested House race between incumbent Republican representative Mike Lawler and Democrat Cait Conley hit a roadblock early on Tuesday morning when machines stopped accepting paper ballots. Voting machine malfunctions\u2014much like bad weather and power outages\u2014 are fairly common during elections. While typically attributable to some mundane problem like aging components, these malfunctions are often the source of rumors or conspiracy theories. And like other election years in recent memory, there\u2019s a network of MAGA influencers, Republican lawmakers, pro-Trump trolls, and administration officials with enormous online audiences who are...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 3261
+  },
   "38b29ed0b53775c81746d52fc5177192de583a889d3a86c77cf322be44496aeb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -25627,6 +25766,32 @@
       "trust"
     ],
     "word_count": 2963
+  },
+  "409eeddf9571903dbca8e8f3bab683aa6acb6b835b3386f2165a3fecbb84c973": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: In Michigan, pocketbook pain collides with smears in a bitter battle for the Senate Sign up now: Get ST's newsletters delivered to your inbox Michigan Democratic Senate candidate Abdul El-Sayed arriving at an event at Eastern Michigan University in Ypsilanti, Michigan, on Nov 2. PHOTO: AFP Marina Lopes and Deona Easterson Published Nov 03, 2026, 12:45 PM Updated Nov 03, 2026, 07:24 PM Set as preferred source Listen Summarise \u4e2d\u6587 Michigan\u2019s Senate race is shaped by anger over high prices of gas, food and medical costs. Voters say the economy is hurting their daily lives. Democrat Abdul El-Sayed, a doctor, and Republican Mike Rogers face a bitter race which features attacks, claims of socialism, and religious prejudice. Michigan state could help decide control of Congress and limit President Donald Trump\u2019s power. Michigan is a key battleground, with both parties seeing it as a national bellwether. AI generated DETROIT, Michigan \u2013 Crystal Hill works 12-hour days delivering Amazon packages and driving Uber, but still cannot afford the medication that keeps her kidneys from failing. \u201cThese prices are kicking my butt,\u201d the 42-year-old Detroit resident said. \u201cYou can feel it in your pockets.\u201d Hill is among the undecided voters whose choices on Nov 3 could determine whether the Democrats or the Republicans will take leadership of Congress, as well as the limits of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3443
   },
   "40afcb1d7148d53da38bfb4bb8214906a63947f4442a8da4ec339ea3d18c6ce5": {
     "access_status": "available",
@@ -30743,7 +30908,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-25T04:35:43+00:00",
+    "checked_at": "2026-11-04T06:09:16+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -32465,6 +32630,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 457
+  },
+  "507541b8a298aa263c20a63b17338ce292a61a0dd232d16687db9d105712ffe4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Democrat Annie Andrews wins US Senate seat in South Carolina upset over Darline Graham Sign up now: Get ST's newsletters delivered to your inbox South Carolina Democratic Senate candidate Annie Andrews (lef) hugs her mother, Marybeth Lintzenich, after receiving news of favourable election results at the Charleston Marriott on Nov 3, 2026. PHOTO: AFP Published Nov 04, 2026, 11:25 AM Updated Nov 04, 2026, 01:00 PM Set as preferred source Listen Summarise Annie Andrews won a US Senate seat in South Carolina, beating Republican Darline Graham in a major upset in a state Donald Trump won by 18 points. Andrews is the first Democrat to win a Senate seat in South Carolina in 28 years, showing a wider rejection of Trump and anger over the economy. Andrews raised far more money than Graham, while both parties spent heavily; the race turned bitter, with insults over national security and living costs. AI generated WASHINGTON - Democrat Annie Andrews won a US Senate seat in conservative South Carolina on Nov 3, according to media projections, ousting Republican Darline Graham in a state President Donald Trump carried by 18 percentage points just two years ago. Andrews, a paediatrician, is the first Democrat to win a Senate seat in South Carolina in 28 years, a striking gain for a party that needed a net four seats to overturn Republicans\u2019 53-47 majority. Andrews\u2019 win in a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2256
   },
   "50a24744f6c1e3ea9285065f074fd371dc18d1ee28765b8314c0ccbd362e6b4f": {
     "access_status": "available",
@@ -35109,6 +35298,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2125
   },
+  "572200eb10c1cace1936c6e6e3152c91578035ad2563dc1de77cb933813f53e4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release TechTIQ Solutions Highlights Singapore's Shift Toward AI-Integrated Mobile Apps Published Nov 04, 2026, 10:00 AM TechTIQ Solutions Highlights Singapore's Shift Toward AI-Integrated Mobile Apps The issuer is solely responsible for the content of this announcement. Press release TechTIQ Solutions Highlights Singapore's Shift Toward AI-Integrated Mobile Apps Published Nov 04, 2026, 10:00 AM TechTIQ Solutions Highlights Singapore's Shift Toward AI-Integrated Mobile Apps The issuer is solely responsible for the content of this announcement. Press release TechTIQ Solutions Highlights Singapore's Shift Toward AI-Integrated Mobile Apps Published Nov 04, 2026, 10:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 134
+  },
   "5722c204a635a73c0121ca323ea55fa4696074019cb06f13c7ef09d5456b9768": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -35305,9 +35518,9 @@
   "5770dd2a97c703d6450bc917e5a8993ea9176fc928e04d3fd65d1f39df15b0ae": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech Sign up now: Get ST's newsletters delivered to your inbox Prime Minister Lawrence Wong (right) and Chancellor of Germany Friedrich Merz at a joint press conference at the Parliament House on Oct 27. ST PHOTO: KEVIN LIM Tham Yuen-C Published Oct 27, 2026, 03:15 PM Updated Oct 28, 2026, 05:28 AM Set as preferred source Listen Summarise Singapore and Germany will deepen ties on AI, digital economy, research and innovation, and ASEAN after Prime Minister Lawrence Wong and Chancellor Friedrich Merz meet. Both sides will work on industrial AI, while keeping it \u201csafe, trusted, and human-centred\u201d and improving AI security through new safety institutions. They also plan more joint research, closer ASEAN-EU trade and digital links, support for the ASEAN power grid, and protection of underwater cables and pipelines. AI generated SINGAPORE \u2013 Singapore and Germany will deepen cooperation in the digital realm, particularly in the development and deployment of artificial intelligence for the industrial sector. This comes as both countries announced a refreshed road map to further bilateral ties and collaboration on Oct 27, after a meeting between Prime Minister Lawrence Wong and German Chancellor Friedrich Merz. At a joint press conference at Parliament House, PM Wong said both leaders had a fruitful...",
+    "article_excerpt": "Singapore, Germany to collaborate on AI use in industries, step up research on new tech Sign up now: Get ST's newsletters delivered to your inbox Prime Minister Lawrence Wong (right) and Chancellor of Germany Friedrich Merz at a joint press conference at the Parliament House on Oct 27. ST PHOTO: KEVIN LIM Tham Yuen-C Published Oct 27, 2026, 03:15 PM Updated Oct 28, 2026, 05:28 AM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore and Germany will deepen ties on AI, digital economy, research and innovation, and ASEAN after Prime Minister Lawrence Wong and Chancellor Friedrich Merz meet. Both sides will work on industrial AI, while keeping it \u201csafe, trusted, and human-centred\u201d and improving AI security through new safety institutions. They also plan more joint research, closer ASEAN-EU trade and digital links, support for the ASEAN power grid, and protection of underwater cables and pipelines. AI generated SINGAPORE \u2013 Singapore and Germany will deepen cooperation in the digital realm, particularly in the development and deployment of artificial intelligence for the industrial sector. This comes as both countries announced a refreshed road map to further bilateral ties and collaboration on Oct 27, after a meeting between Prime Minister Lawrence Wong and German Chancellor Friedrich Merz. At a joint press conference at Parliament House, PM Wong said both leaders had a fruitful...",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:27+00:00",
+    "checked_at": "2026-11-04T06:09:13+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -35328,7 +35541,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 5270
+    "word_count": 5274
   },
   "579a67e09afe3144ed886ff83bd8195837da2c011557ceaf5a8699222470013c": {
     "access_status": "available",
@@ -35473,6 +35686,32 @@
       "trust"
     ],
     "word_count": 2051
+  },
+  "57c9ebb76ee4254df88d9f3a9a1f354faa9b5e79e2e83db79139acbe063c5c1e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Rena Lee becomes first S\u2019porean elected as International Court of Justice judge Sign up now: Get ST's newsletters delivered to your inbox With her successful election, Ambassador for International Law Rena Lee will serve a nine-year term on the ICJ from 2027 to 2036. PHOTO: NUS LAW Tham Yuen-C Published Nov 04, 2026, 01:57 AM Updated Nov 04, 2026, 11:19 AM Set as preferred source Listen Summarise \u4e2d\u6587 Ambassador for International Law Rena Lee has won election to the International Court of Justice, becoming the first Singaporean to join the world court's bench. She will serve a nine-year term from 2027 to 2036, and Singapore said her election supports the rules-based multilateral system. Lee brings over 30 years of international law experience, including having led the high seas treaty talks and serving in key legal roles in Singapore and global courts. AI generated SINGAPORE \u2013 Ambassador for International Law Rena Lee has become the first Singaporean and first woman from South-east Asia to join the bench of the world\u2019s top court. Lee, 57, was elected to the International Court of Justice (ICJ) on Nov 3 after she secured an absolute majority of votes in the 193-member UN General Assembly and th e 15-member UN Security Council in the first round of voting. Congratulating Lee on her election, Prime Minister Lawrence Wong said she secured the highest number of votes - 151 of 191...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:13+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3794
   },
   "57ccf09882b1e333b53ca0544928fff2c7a9db09c7708c1e7871877c30baa8b3": {
     "access_status": "available",
@@ -35778,6 +36017,32 @@
       "fraud"
     ],
     "word_count": 1533
+  },
+  "589037d884fe31df033780299f46f5f5bf8ba1ad1aa61e29e0a7617273a7d900": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "US midterms: Democratic Party captures Congress in sweeping setback for Trump and his Republicans Sign up now: Get ST's newsletters delivered to your inbox US House Democratic Leader Hakeem Jeffries, House Minority Whip Katherine Clark, and Democratic candidate for House of Representatives Suzan DelBene celebrate at a midterm election night watch party on Nov 3, 2026. PHOTO: REUTERS Published Nov 04, 2026, 06:35 AM Updated Nov 04, 2026, 01:22 PM Set as preferred source Listen Summarise US midterms began as Democrats aimed to win the House and maybe the Senate, which could curb Donald Trump\u2019s power and trigger investigations. Voters focused on high living costs, tariffs and the war against Iran, while Trump defended his record and blamed Democrats as \u201cleft-wing radicals\u201d. Forecasts favoured Democrats in the House and a tight Senate race, but fears grew that Trump and Republicans might dispute the result if they lose. AI generated Follow our live coverage here. WASHINGTON \u2013 Democrats captured majorities in both the Senate and House on Nov 4, scoring sweeping victories that reached deep into Republican strongholds as tens of millions of voters delivered a scathing rebuke to US President Donald Trump. The size and breadth of the Democratic wave were still coming into focus, but the party prevailed in states long thought to be out of reach, including conservative bastions like...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_securities_fraud",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2562
   },
   "589738360c35c36a002b89b57158d7514775da1ee9e087c8f53a2dc2a6be620e": {
     "access_status": "available",
@@ -37746,6 +38011,30 @@
     "weak_generic_terms_found": [],
     "word_count": 839
   },
+  "5ce6946a1283297545969c750d84ec031ba495b924a6d7acb66a462e023b1421": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "An image of Ewan McGregor as Obi-Wan Kenobi wielding a lightsaber at the climax of Star Wars: Episode III\u2014Revenge of the Sith , with a caption that reads: \u201cIt's over Anakin, some mail-in ballots came in over night while you were sleeping!\u201d A montage of Anakin Skywalker throughout the Star Wars prequels that chart his transformation into Darth Vader, with this comment: \u201cGeorge Lucas may have made, albeit unintentionally, the most prophetic and effective far-right propaganda in existence. Anakin is the millennial and zoomerwaffen. We sympathize with him, not the republic.\u201d A curious prediction from Guillaume Verdon, an AI startup founder and progenitor of the effective accelerationist movement who has accused Democrats of allying with \u201c Islamo-Communists \u201d to destroy the United States: \u201cThe Anakin edits might turn the tides of the midterms.\u201d Yes, it seems that while the fan fiction website Archive of Our Own (AO3) will remain shut down for the foreseeable future, MAGA conservatives are picking up the slack, using the last hours before the 2026 midterms to imagine themselves and Trump-aligned candidates as the disciples of a genocidal archvillain from a space opera. According to Christian streamer Kangmin Lee, Anakin Skywalker represents the \u201carchetypal disenfranchised chud,\u201d radicalized when he realizes the \u201cpolitical order\u201d he once believed in is \u201cdeeply corrupt, hypocritical...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2455
+  },
   "5ce95453a64f790185936d147d56ec2a2080fd2948b51903d42ef2a516ef6d90": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -38593,6 +38882,41 @@
       "manipulation"
     ],
     "word_count": 1833
+  },
+  "5f99e27834fa75185956d2847ba17cead832e8952c11c8ea66f0506cb0b1c883": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: He Cheng Ba Wen Lu Yang Ren Task-Aware Joint Pruning and Distillation for Efficient Audio Deepfake Detection Miao Peng Zhongjie Qing Li Xin Kui Abstract Advances in speech synthesis have made deepfake speeches increasingly convincing, posing growing threats to security. While self-supervised learning (SSL) based detectors achieve state-of-the-art performance, their computational demands (typically 300M+ parameters) prevent deployment on resource-constrained devices. Existing compression methods, designed mainly for content-centric tasks, struggle to maintain competitive performance when directly adapted to deepfake detection. We propose a Task-Aware Joint Pruning and Distillation framework that combines cross-domain knowledge distillation with movement-guided structured pruning to transfer forgery-discriminative knowledge and preserve critical structures under aggressive compression. Our framework reduces the model to 31.9M parameters with 6.3 \u00d7 \\times FLOPs reduction, with an average performance drop of only 1.30% across multiple datasets compared to the uncompressed baseline, demonstrating strong potential for on-device deployment. keywords deepfake detection, model compression, knowledge distillation, structured pruning \u2020 \u2020 address: 1 The State Key Laboratory of Blockchain and Data Security, Zhejiang University, China 2...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 7601
   },
   "5fb7ecb5842981c3b145b529f7b109398b6a6e7bdc80529a9dbd372e93f61161": {
     "access_status": "available",
@@ -39903,6 +40227,38 @@
     "weak_generic_terms_found": [],
     "word_count": 2503
   },
+  "62c2941396ab57f85abb1be80feda572bd1d622a3a45b2c45dd83716f971589a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "TOI Businessman loses Rs 3.9 crore in online stock scam Videos Photostories Hot Picks Top Trending Trending Stories Daily Puzzles Connect Loop The Loop Daily Crossword",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:07+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 27
+  },
   "62de0b4d2a5d9268f8e60c2a6f051528a5f8121904bcd617eda34a2b76db1f09": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -40356,6 +40712,30 @@
       "trust"
     ],
     "word_count": 6735
+  },
+  "63ffcf8ec4af811ab035856d1fb0027dc8146cd2d89629a3e5e1f2e6f7ccaa4b": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "China\u2019s Baidu launches AI model simulating road environment for robotaxis Sign up now: Get insights on Asia's fast-moving developments A driverless car by Apollo Go (left), Baidu's robotaxi service, in Wuhan in 2024. Apollo Go is China\u2019s largest robotaxi service operator. PHOTO: REUTERS Published Nov 03, 2026, 09:46 PM Updated Nov 03, 2026, 11:30 PM Set as preferred source Listen Summarise Baidu launched Apollo World on Nov 3. It simulates road environments for robotaxi training and can create \u201cup to 100,000km\u201d of driving a day. The system gives real-time camera and lidar data. Baidu says Apollo World is already training Apollo Go, China\u2019s largest robotaxi service, for global use. Robotaxi development is still costly. Experts say firms face heavy training and vehicle costs, while China\u2019s fleet could reach 1 million by 2035, Morgan Stanley said. AI generated BEIJING \u2013 China\u2019s Baidu launched Apollo World on Nov 3 , an AI system designed to simulate real-world environments for training robotaxis and predict how they evolve, as automakers race to cut the cost of developing autonomous vehicles. Apollo World can generate \u201cup to 100,000km\u201d of simulated driving daily, equivalent to about three years of real-world testing by a safety-driver-equipped autonomous vehicle, Baidu said.",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1385
   },
   "642d8de8e110453e8063cec6480ac051743de3e1478e04769537bf4dd93b7723": {
     "access_status": "available",
@@ -41433,9 +41813,9 @@
   "66dcd3fbe8d7da96f92be8cc88b5b287ded26538f76b7840bdaec2728d09cc24": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Wall Street ends higher on revived AI momentum Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City on Oct 26. PHOTO: BLOOMBERG Published Oct 28, 2026, 06:12 AM Updated Oct 28, 2026, 06:12 AM Set as preferred source Summarise US stocks closed higher as AI optimism returned. Anthropic IPO buzz lifted chip shares, and strong computer orders supported AI spending. Nearly half of S&P 500 firms have reported. LSEG said 83% beat forecasts, while Boeing, Xylem and Sherwin-Williams fell on weak results or lower guidance. The Fed met with rates expected to stay at 3.75% to 4%. The S&P 500 rose 0.60%, the Nasdaq 1.18%, and energy shares fell as oil prices eased. AI generated NEW YORK - An AI-fuelled tech rally sent US stocks to a higher close on Oct 27 as third-quarter reporting season gained steam, while the Federal Reserve convened for its penultimate meeting of the year. The tech-heavy Nasdaq led the gains. The buzz surrounding details of Anthropic\u2019s impending initial public offering helped boost chip stocks for the third consecutive session.",
+    "article_excerpt": "Wall Street ends higher on revived AI momentum Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City on Oct 26. PHOTO: BLOOMBERG Published Oct 28, 2026, 06:12 AM Updated Oct 28, 2026, 06:12 AM Set as preferred source Listen Summarise US stocks closed higher as AI optimism returned. Anthropic IPO buzz lifted chip shares, and strong computer orders supported AI spending. Nearly half of S&P 500 firms have reported. LSEG said 83% beat forecasts, while Boeing, Xylem and Sherwin-Williams fell on weak results or lower guidance. The Fed met with rates expected to stay at 3.75% to 4%. The S&P 500 rose 0.60%, the Nasdaq 1.18%, and energy shares fell as oil prices eased. AI generated NEW YORK - An AI-fuelled tech rally sent US stocks to a higher close on Oct 27 as third-quarter reporting season gained steam, while the Federal Reserve convened for its penultimate meeting of the year. The tech-heavy Nasdaq led the gains. The buzz surrounding details of Anthropic\u2019s impending initial public offering helped boost chip stocks for the third consecutive session.",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:23+00:00",
+    "checked_at": "2026-11-04T06:09:09+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -41452,7 +41832,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1957
+    "word_count": 1961
   },
   "66e22ff168f36f6e1c161d6409ca2933755aa98f3c74b0343845f357afdd0fcc": {
     "access_status": "available",
@@ -41535,6 +41915,47 @@
       "trust"
     ],
     "word_count": 2388
+  },
+  "66f502431f01fb5b32e77430d7f9428c6bb153f1dec541f7d2fe1d7751130dcf": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents Conference: arXiv Preprint; 2026; Online CCS: Security and privacy Social engineering attacks CCS: Security and privacy Web application security CCS: Computing methodologies Intelligent agents Xingling Xu Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Zhengwei Jiang Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Zheng Zhi Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Fangming Dong Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , LingJia Guo Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Wei Dong Affiliation: The North China Institute of Computer System Engineering , Beijing , China , Chunyan Ma Note: Corresponding author. Affiliation: Institute of Information Engineering, Chinese Academy of Sciences , Beijing , China and Jun Jiang Affiliation: Institute of Information Engineering...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:04+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16771
   },
   "6708103a5cbdcd6a6d6038ece9e58e2e1c7affabdf07fcfa3077164538bf1053": {
     "access_status": "available",
@@ -64257,6 +64678,30 @@
     ],
     "word_count": 10945
   },
+  "9e9ed69960991bef434429611134fd49a342327834ee7acbf939fbcac7e6a36f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Photo by Elin Melaas on Unsplash A vibe-coded site that scraped Archive of Our Own (AO3) fanfiction works, reuploaded them and charged for audiobook versions is down now after the creator said they received over 2,000 takedown requests from authors in the single day it was up. ao3.life , a website that sprung up following last week\u2019s announced weeks-long outage of fanfiction repository AO3, scraped the internet for works to populate the site using \u201ca swarm of AI Agents controlling 40 virtual machines were scraping the internet for all drives, scrapes, and sources,\u201d the site\u2019s creator, named Ganesh, wrote on a page apologizing for the entire project. AO3.life went down on Monday evening following widespread backlash from readers and authors on social media. Before it went down, the ao3.life homepage said, \u201cAO3, saved before it slips away. Search every fandom, ship and trope. Read it here, keep the EPUB, or let it read to you when your eyes get tired.\u201d AO3 went down on Thursday following a security incident, according to the Organization for Transformative Works (OTW) which owns the repository. The site is expected to be down for as long as four weeks. OTW says no data has been lost. Readers and authors are generally distraught , unable to access the site at all for potentially a month. AO3 hosts nearly 18.5 million works.",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2873
+  },
   "9ebf41eef7831a2a0e4fc78ba67616ff91cc6560a7d39d724f1ff6936c2cffc1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -65858,9 +66303,9 @@
   "a231e248f19d75b720ed088f14a878c959e84507444be22ef55ed1e78e29d541": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Meta rolls out Muse AI agent in Singapore amid global safety, retail pushback Sign up now: Get ST's newsletters delivered to your inbox Muse\u2019s rollout here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. PHOTO: REUTERS Sarah Koh Published Oct 28, 2026, 08:35 AM Updated Oct 28, 2026, 12:42 PM Set as preferred source Listen SINGAPORE \u2013 Reserving a restaurant table, booking plane tickets, coordinating outings or comparing shoe prices across online shops is just a conversation away with the launch of Meta\u2019s Muse in Singapore. From Oct 28, Singapore users can download the app from the Apple App Store or Google Play Store, establishing Muse as the first AI personal agent designed for the mainstream consumer market. It can also be accessed on its web app. Popular artificial intelligence assistants launched in recent times, such as OpenAI\u2019s Dots and the open-source OpenClaw, have focused heavily on office productivity and software development, unlike Muse. Muse\u2019s rollout here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. \u201cMuse is your personal agent, built to help make everyday life easier,\u201d said Nicole Tan, managing director of Meta Singapore in a statement on Oct 28. The app helps people to stay on top of things, take tasks and projects off their plate...",
+    "article_excerpt": "Meta rolls out Muse AI agent in Singapore amid global safety, retail pushback Sign up now: Get ST's newsletters delivered to your inbox Muse\u2019s roll-out in Singapore follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. PHOTO: REUTERS Sarah Koh Published Oct 28, 2026, 08:35 AM Updated Oct 29, 2026, 05:44 AM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 Reserving a restaurant table, booking plane tickets, coordinating outings or comparing shoe prices across online shops is just a conversation away with the launch of Meta\u2019s Muse in Singapore. From Oct 28, Singapore users can download the app from the Apple App Store or Google Play Store, establishing Muse as the first AI personal agent designed for the mainstream consumer market. It can also be accessed on its web app. Popular artificial intelligence assistants launched in recent times, such as OpenAI\u2019s Dots and the open-source OpenClaw, have focused heavily on office productivity and software development, unlike Muse. Muse\u2019s roll-out here follows its global debut in the United States and Canada on Sept 8, and a subsequent launch in Japan on Oct 23. \u201cMuse is your personal agent, built to help make everyday life easier,\u201d said Nicole Tan, managing director of Meta Singapore in a statement on Oct 28. The app helps people to stay on top of things, takes tasks and projects off...",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:18+00:00",
+    "checked_at": "2026-11-04T06:09:05+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -65879,7 +66324,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 2742
+    "word_count": 2746
   },
   "a235a1b9695069494f2b10928af37e682f99634071d44fbae6e7480e128a4de8": {
     "access_status": "available",
@@ -69840,9 +70285,9 @@
   "ab78aafd2c5c57a88ce2ce733b05d9f6eca1b1c9c3df3116ff5aa5c5fc752618": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "The AI frenzy gets a reality check Markets are starting to ask whether AI revenue can justify a trillion-dollar build-out increasingly funded by debt and circular deals. Sign up now: Get ST's newsletters delivered to your inbox Microsoft\u2019s chief executive, Satya Nadella, warned in 2025 that the company might end up with \u201ca bunch of chips sitting in inventory that I can\u2019t plug in\u201d. PHOTO: REUTERS Vikram Khanna Published Oct 28, 2026, 05:00 AM Updated Oct 28, 2026, 05:41 AM Set as preferred source Unlock audio The initial euphoria over artificial intelligence has hit a speed bump. For the past three years, the market has treated every dollar spent on AI as a down payment on the future. But over the past month, it has started asking some hard questions. Shares in the hyperscalers \u2013 Microsoft, Alphabet, Amazon and Meta \u2013 have fallen, and the selling has spread to the chipmakers and cloud providers that supply them. The S&P 500, which is heavily weighted towards the hyperscalers and chipmaker Nvidia, is barely above its August peak. In the month to Oct 23, the Philadelphia Semiconductor Index was down 14%. The biggest listed specialist AI cloud provider, CoreWeave, has lost more than 38%. Meanwhile, Treasury bonds, the classic safe haven for investors, have rallied despite rising inflation, which normally leads them to fall.",
+    "article_excerpt": "The AI frenzy gets a reality check Markets are starting to ask whether AI revenue can justify a trillion-dollar build-out increasingly funded by debt and circular deals. Sign up now: Get ST's newsletters delivered to your inbox Microsoft\u2019s chief executive, Satya Nadella, warned in 2025 that the company might end up with \u201ca bunch of chips sitting in inventory that I can\u2019t plug in\u201d. PHOTO: REUTERS Vikram Khanna Published Oct 28, 2026, 05:00 AM Updated Oct 28, 2026, 05:41 AM Set as preferred source Unlock audio \u4e2d\u6587 The initial euphoria over artificial intelligence has hit a speed bump. For the past three years, the market has treated every dollar spent on AI as a down payment on the future. But over the past month, it has started asking some hard questions. Shares in the hyperscalers \u2013 Microsoft, Alphabet, Amazon and Meta \u2013 have fallen, and the selling has spread to the chipmakers and cloud providers that supply them. The S&P 500, which is heavily weighted towards the hyperscalers and chipmaker Nvidia, is barely above its August peak. In the month to Oct 23, the Philadelphia Semiconductor Index was down 14%. The biggest listed specialist AI cloud provider, CoreWeave, has lost more than 38%. Meanwhile, Treasury bonds, the classic safe haven for investors, have rallied despite rising inflation, which normally leads them to fall.",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:25+00:00",
+    "checked_at": "2026-11-04T06:09:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -69859,7 +70304,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 717
+    "word_count": 721
   },
   "ab87b0b26ec72a5bece972753c156da48cd7d3003b649ba10525e56eb40d4988": {
     "access_status": "available",
@@ -73805,6 +74250,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3715
+  },
+  "b48af1c39a704a0f378c4f60be2586c859453a28e87e63e79138fdd32e85df78": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: CoFiBreak : A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak Jialin Song * , Xiaodong Liu, Weiwei Yang, Mingqian Feng, Chengquan Guo, Qiyao Ma, Carolyn Buractaon, Anson Ho, Wuyang Chen, Christopher White Simon Fraser University Microsoft Research \u2020 \u2020 thanks: Work done during the internship at Microsoft Research. Correspondence to: jialin_song@sfu.ca , weiwei@asemic.ai , xiaodl@microsoft.com . Abstract Automated red teaming trains an attacker large language model (LLM) to elicit harmful responses from a victim LLM, but reinforcement learning can collapse attackers onto a narrow set of prompts when attack success is the only reward. Such a collapse of attack diversity can bias safety evaluation toward repeatedly testing near-duplicate attack patterns rather than the underlying harmful intents. Existing methods often trade off attack success or inference cost for greater content or strategy diversity. We propose CoFiBreak , a coarse-to-fine diversity reward for Group Relative Policy Optimization (GRPO) that improves attack diversity while preserving strong attack effectiveness and low inference cost. The coarse reward broadens which strategies the attacker uses by encouraging strategies underrepresented within each GRPO group, while the fine reward broadens how those strategies are realized by discouraging...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 20798
   },
   "b4a04e5e7a9047f74567b3cd6d9417e525bf8db1ce89f2f7b71405526d6a2314": {
     "access_status": "available",
@@ -88152,6 +88636,54 @@
     ],
     "word_count": 1442
   },
+  "d7178b79ec547b16fd54bb2948a7698f077d5eed7d92cb8ec6c4e375eee84087": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "New GovTech-Google DeepMind app flags potential scams by analysing incoming messages Sign up now: Get ST's newsletters delivered to your inbox AntiScam Pango uses artificial intelligence to analyse all messages to flag suspicious conversations as they unfold. ST PHOTO: LIM YAOHUI Lee Li Ying Published Nov 04, 2026, 12:00 PM Updated Nov 04, 2026, 01:43 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 A new app has launched to help users spot potential scams by analysing and flagging suspicious conversations, including those involving numbers that have not previously been reported. Called AntiScam Pango, the app uses artificial intelligence to analyse all messages to flag suspicious conversations as they unfold. Developed by the Government Technology Agency (GovTech) and Google DeepMind, the app was unveiled on Nov 4 by Acting Minister for Manpower Jasmin Lau at GovTech\u2019s biennial STACK Conference 2026, held at the Sands Expo and Convention Centre. News of the development of this on-device scam detection model was first announced in October on the sidelines of the Singapore International Cyber Week. \u201cIt checks messages on WhatsApp, Telegram and SMS, flags the ones that look suspicious, and warns you in real time, before you take further actions,\u201d said Lau, who is also Senior Minister of State for Digital Development and Information and Minister-in-charge of GovTech. \u201cThe...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:05+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "scam detection"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "cybersecurity",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 2304
+  },
   "d71f33d9efb87b632d74150b16834aaa603fc2d66fcdec53b2dbce4f7c176986": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -91324,6 +91856,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "df5c647cd79cdd3b054cb3ef5e8092f60ab95f7909a8b564be2a87bc56e0d1b2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: South Korea\u2019s AI darlings become casualty of Democratic wave Sign up now: Get ST's newsletters delivered to your inbox Shares of Samsung Electronics and SK Hynix were down at least 4% each to be the biggest drags. PHOTO: REUTERS Published Nov 04, 2026, 12:10 PM Updated Nov 04, 2026, 01:50 PM Set as preferred source Listen SEOUL \u2013 South Korea\u2019s Kospi Index slid as shares of chipmakers plunged on concern that a strong showing by Democrats in the US midterms would lead to greater scrutiny of the artificial intelligence industry. The benchmark slumped as much as 3.7%, erasing an early gain. Shares of Samsung Electronics and SK Hynix were down at least 4% each to be the biggest drags. Investors see a strong performance by Democrats as a potential setback for high-growth technology and AI firms amid concern that it could create hurdles for US data centre expansion. That would cloud the demand outlook for chipmakers and other hardware suppliers in South Korea, Taiwan and Japan \u2013 key players in the American AI buildout. Japan\u2019s Nikkei 225 was down 3.6% while Taiwan\u2019s stock benchmark lost about 2.5%. BLOOMBERG More on this topic US stock futures dip as investors await US midterm election results US midterm elections 2026: Live results See more on South Korea AI/artificial intelligence US Democratic Party US midterm elections Stock market US midterms: South Korea\u2019s AI...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 702
+  },
   "df80a10c8d4c556013affdaf50a699ed3b22fef1880e4cfb3f63fe04dc4d83be": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -92469,7 +93025,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Anthropic\u2019s IPO filing lifts markets but raises AI safety fears. What should S\u2019pore investors know? Sign up now: Get ST's newsletters delivered to your inbox Analysts say Anthropic\u2019s disclosures could raise regulatory scrutiny, but also demonstrate the company\u2019s transparency. PHOTO: REUTERS Benjamin Lim Published Oct 27, 2026, 10:00 PM Updated Oct 28, 2026, 12:40 PM Set as preferred source Listen Summarise Anthropic\u2019s IPO filing lifted markets and drew strong investor interest, but it also raised fresh fears about AI safety, misuse and tighter regulation. The prospectus unusually spent over 90 pages on risks, warning AI could pose \u201ccatastrophic or existential risks to humanity\u201d and be used for weapons, surveillance and cyberattacks. Analysts say Anthropic has strong backing, revenue growth and cash reserves, but its public debut could be volatile and may test valuations across the wider AI sector. AI generated SINGAPORE \u2013 Anthropic\u2019s filing of its initial public offering (IPO) on Oct 26 gave the stock market a much-needed boost, with both the S&P 500 and Nasdaq closing higher after declines over the last few weeks, led by waves of tech stock sell-offs on Wall Street. The timing could not have been better, as more than a third of S&P 500 companies are expected to report earnings this week. These include hyperscalers such as Google\u2019s parent company, Alphabet; Microsoft; and...",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:22+00:00",
+    "checked_at": "2026-11-04T06:09:08+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -92489,7 +93045,7 @@
       "cybersecurity",
       "trust"
     ],
-    "word_count": 4337
+    "word_count": 4339
   },
   "e229cdfb64579cc71471ead5a0cfaa4ad687ae945c8cc99bdce5a8d2f4ce9566": {
     "access_status": "available",
@@ -96341,6 +96897,34 @@
     ],
     "word_count": 7907
   },
+  "ed1534840e01c43c8885c9b9938da88cce9073f27b65625d3ee9ad3286778560": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Supermarket fridge attack is just the start, says UK cybersecurity chief Sign up now: Get ST's newsletters delivered to your inbox Empty refrigerated shelves following a refrigeration outage at a Proxy Delhaize store in Maleizen, Overijse, Belgium, on Nov 2. Fridges and freezers in supermarkets from Sweden to Belgium and France were hit by hacking attacks. PHOTO: BLOOMBERG Published Nov 03, 2026, 11:55 PM Updated Nov 04, 2026, 12:15 AM Set as preferred source Listen Summarise Supermarket fridges and freezers were hacked across Europe, exposing weak old IT systems and forcing stores to throw away food, according to Britain\u2019s cybersecurity chief. Richard Horne said the attack was \u201cjust the foothills\u201d and warned many firms have done \u201ctech on the cheap\u201d, leaving more systems open to disruption. The NCSC said AI will help hackers find old flaws at scale, and it expects an AI-powered ransomware attack on UK critical infrastructure by 2028. AI generated LONDON \u2013 A cyberattack on supermarket fridges across Europe is just an early sign of what are likely to be increasingly frequent disruptions as old technology fails to keep pace with hackers, Britain\u2019s cybersecurity chief said on Nov 3. On Nov 2, fridges and freezers in supermarkets from Sweden to Belgium and France were hit by hacking attacks which exposed vulnerabilities in IT systems, leading to stores having to throw away large...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "malware",
+      "ransomware"
+    ],
+    "word_count": 1836
+  },
   "ed19a7d1b695e6d0cc6c75dbae57e37d9f6eb5cc6b480ff7fb4607d33a716521": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -99714,6 +100298,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "f58ea7f6b19df43dd1677f6427df2fedb0106eeb5eabe5e88c99856773c66fb5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: South Korea\u2019s AI darlings become casualty of Democratic wave Sign up now: Get ST's newsletters delivered to your inbox Shares of Samsung Electronics and SK Hynix were down at least 4% each to be the biggest drags. PHOTO: REUTERS Published Nov 04, 2026, 12:10 PM Updated Nov 04, 2026, 01:50 PM Set as preferred source Listen SEOUL \u2013 South Korea\u2019s Kospi Index slid as shares of chipmakers plunged on concern that a strong showing by Democrats in the US midterms would lead to greater scrutiny of the artificial intelligence industry. The benchmark slumped as much as 3.7%, erasing an early gain. Shares of Samsung Electronics and SK Hynix were down at least 4% each to be the biggest drags. Investors see a strong performance by Democrats as a potential setback for high-growth technology and AI firms amid concern that it could create hurdles for US data centre expansion. That would cloud the demand outlook for chipmakers and other hardware suppliers in South Korea, Taiwan and Japan \u2013 key players in the American AI buildout. Japan\u2019s Nikkei 225 was down 3.6% while Taiwan\u2019s stock benchmark lost about 2.5%. BLOOMBERG More on this topic US stock futures dip as investors await US midterm election results US midterm elections 2026: Live results See more on South Korea AI/artificial intelligence US Democratic Party US midterm elections Stock market US midterms: South Korea\u2019s AI...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 702
   },
   "f5b22de17e674ffc3bff9e836530e1c1b8c1f815028902516e9f76faa16447f9": {
     "access_status": "available",
@@ -103161,6 +103769,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1573
+  },
+  "fd9bd4ef246f9fd538f5170d7035d1e7cff2714b0cd546916ee31c88898c588d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Google AI chatbot\u2019s use of press items may infringe copyright rules, EU court adviser says Sign up now: Get ST's newsletters delivered to your inbox Online media companies have seen traffic dwindle as news summaries written by AI chatbots like Gemini replaces search engine results. PHOTO: REUTERS Published Nov 03, 2026, 07:51 PM Updated Nov 03, 2026, 08:02 PM Set as preferred source Listen Summarise EU adviser Maciej Szpunar said Google\u2019s Gemini chatbot may infringe copyright when it reuses press stories in answers, especially if it bypasses paywalls or copies the publisher\u2019s wording. He said copyright protects the \u201cspecific form of expression\u201d, not \u201cmere facts\u201d, while training large language models on protected material is \u201cfreely permitted\u201d under the text and data mining exception. The case, brought by Hungarian website Like Company, could force Google to pay fees and help online media that have lost traffic to AI chatbots, though the adviser\u2019s view is not binding. AI generated BRUSSELS \u2013 Google\u2019s use of press stories in its Gemini chatbot to respond to queries from internet users can infringe copyright rules in certain circumstances, an adviser to Europe\u2019s highest court said on Nov 3. Advocate General Maciej Szpunar is advising the Luxembourg-based Court of Justice of the European Union in a case brought by Hungarian website operator Like Company against Google\u2019s artificial...",
+    "cache_version": 10,
+    "checked_at": "2026-11-04T06:09:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1376
   },
   "fda031636bdab2d5216f08ab2d4b88e0c7b0c5299051634bc8fa83e0a9033941": {
     "access_status": "available",
