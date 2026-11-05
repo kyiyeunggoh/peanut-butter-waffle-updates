@@ -4418,6 +4418,58 @@
     ],
     "word_count": 1367
   },
+  "0b45e7d38c7e857020eb0d5d471f15ea629b79bf0d200fc91ab2eb602d35ce3d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce Published Nov 05, 2026, 09:59 AM Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce The issuer is solely responsible for the content of this announcement. Press release Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce Published Nov 05, 2026, 09:59 AM Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce The issuer is solely responsible for the content of this announcement. Press release Visa Establishes Global Capability Hubs in Singapore to Build the Future of Global Commerce Published Nov 05, 2026, 09:59 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 159
+  },
+  "0b7cb78a59246c760d13ebc4e255a5a67d6efe5b0586a505b57978a82ef072ad": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "S\u2019pore exploring adapting web domain name system to track AI agents, need for national registry Sign up now: Get ST's newsletters delivered to your inbox The proposal comes amid increasing AI agent autonomy in daily work and e-commerce, requiring new ways of governance. PHOTO: REUTERS Kenny Chee Published Nov 04, 2026, 10:19 PM Updated Nov 04, 2026, 10:37 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore is exploring whether the domain name system can be adapted to help identify and verify AI agents across platforms, and whether a national registry is needed. IMDA is working with GoDaddy, Infoblox, Cloudflare and Google on exploring if the domain name system can be repurposed, while the Government Technology Agency is building an internal registry for public agencies. The push follows AI agents acting beyond user intent, and officials say trust needs identity, authority and accountability across systems. AI generated SINGAPORE - Authorities here are exploring whether the internet\u2019s existing website verification systems can be repurposed to track autonomous artificial intelligence agents, as part of a broader assessment of whether a dedicated national registry is needed. Specifically, the Infocomm Media Development Authority (IMDA) is working with technology firms to explore adapting the domain name system (DNS), often called the internet\u2019s address book, to identify and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "identity",
+      "trust"
+    ],
+    "word_count": 2391
+  },
   "0b950db8dd77123daf974e560e7ca6a56f1032d6c3d0de9b5385cbd8bd34ad10": {
     "access_status": "unknown",
     "anti_scam_relevance": "weak",
@@ -14562,6 +14614,51 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "2413c2eb82bfebfba23a47f5a6ab1103e281195e341ef2cd64d59be772335984": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Police Seize 100+ Servers After Four-Year Investment Fraud Probe Written by Phil Muncaster UK / EMEA News Reporter , Infosecurity Magazine A long-running international operation to disrupt a multimillion-dollar investment fraud operation scored another impressive victory this week after police seized 100 servers and shuttered several scam websites. Led by the German Itzehoe Public Prosecutor's Office, the action day on November 3 targeted the company believed to be responsible for hosting the fraudulent investment websites. Victims were lured to these sites by deceptive ads promising huge gains with no downside. After they recorded their interest, personal data would be shared by the company with criminal groups operating scam call centers, according to Europol. Scammers impersonating brokers then used a variety of social engineering tactics to persuade the victims to invest their funds in the fictitious schemes. Online accounts set up to perpetrate the scheme apparently displayed illusory gains, persuading them to plough more money into the funds. When victims asked to withdraw their money, brokers used delaying tactics to block payments before cutting contact and leaving them with no way to recover their funds, Europol claimed. Investigators estimate losses to exceed \u20ac4m ($4.5m), with potential victims in as many as 50 countries. Read more on investment fraud: Cops Arrest...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:12+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "ransomware",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 778
+  },
   "241c8ed1b389e646436844b8e6eabcd7406d3e391b27a29bab72d5473418d77d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -14859,6 +14956,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "2538b8311685eee2afb0c7b57523b8251ba2cbfead872b7e06f24b42f84706c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Spending binge by Musk, crypto and AI hit voter wall Sign up now: Get ST's newsletters delivered to your inbox CEO of Tesla and SpaceX Elon Musk was the single biggest donor to the Republican Party at more than US$445 million this election cycle. PHOTO: AFP Published Nov 05, 2026, 06:45 AM Updated Nov 05, 2026, 06:45 AM Set as preferred source It was the most expensive election in US history and most of the biggest spenders have little to show for it. Elon Musk, the crypto industry and AI backers together poured hundreds of millions of dollars into key midterm races from Texas to Ohio but came up short. Voters\u2019 frustration over the economy, including the impact of technology on their jobs and communities, overcame what often seemed like a torrent of cash. The losses are certain to raise new questions for many top donors about what they are getting for their money and whether they need to shift strategies. Instead of helping candidates cruise to victory, in some races the flood of money may have ended up galvanising the opposition. \u201cWe just showed that all the money in the world is no match for the people of Texas,\u201d Democratic Senator-elect James Talarico, who banked on a national network of small-dollar donors, said during his victory speech on Nov 3. \u201cWe just sent a message to every billionaire mega-donor, every trillionaire mega-donor, every corrupt defender of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3310
   },
   "25629292746aee4a13f1203cfaba2a855668c388b5637f816e6f29afd6d2d465": {
     "access_status": "available",
@@ -20104,9 +20225,9 @@
   "32daf50221814bab0b7a10c6ec19b5c3249c69de6dd239aee3b9006a4b6f6917": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Singapore proposes incident reporting initiative for boosting AI safety Sign up now: Get ST's newsletters delivered to your inbox Prime Minister Lawrence Wong raised the suggestion for an AI incident reporting pilot initiative on Oct 28 during an online meeting with several global leaders on the safety of cutting-edge frontier AI models. PHOTO: MDDI Kenny Chee Published Oct 28, 2026, 10:14 PM Updated Oct 29, 2026, 12:46 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore\u2019s Prime Minister Lawrence Wong proposed a small pilot for reporting AI incidents to help countries share lessons and improve AI safety. He said countries should start with a practical, flexible approach, using common incident categories and secure information sharing before building a wider framework. The idea follows recent AI incidents at OpenAI, Anthropic, Meta and Google, and links with wider calls for international oversight and common AI safety rules. AI generated SINGAPORE \u2013 Interested parties and countries could launch a small pilot initiative for reporting AI-related incidents to lay the groundwork for a more systematic way of sharing and learning from these incidents to improve AI safety. Prime Minister Lawrence Wong raised this suggestion on Oct 28 during an online meeting with several global leaders on the safety of cutting-edge frontier artificial intelligence models, amid global scrutiny of...",
+    "article_excerpt": "Singapore proposes incident reporting initiative to boost AI safety Sign up now: Get ST's newsletters delivered to your inbox Prime Minister Lawrence Wong raised the suggestion for an AI incident reporting pilot initiative on Oct 28 during an online meeting with several global leaders on the safety of cutting-edge frontier AI models. PHOTO: MDDI Kenny Chee Published Oct 28, 2026, 10:14 PM Updated Oct 29, 2026, 05:01 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore\u2019s Prime Minister Lawrence Wong proposed a small pilot for reporting AI incidents to help countries share lessons and improve AI safety. He said countries should start with a practical, flexible approach, using common incident categories and secure information sharing before building a wider framework. The idea follows recent AI incidents at OpenAI, Anthropic, Meta and Google, and links with wider calls for international oversight and common AI safety rules. AI generated SINGAPORE \u2013 Interested parties and countries could launch a small pilot initiative for reporting AI-related incidents to lay the groundwork for a more systematic way of sharing and learning from these incidents to improve AI safety. Prime Minister Lawrence Wong raised this suggestion on Oct 28 during an online meeting with several global leaders on the safety of cutting-edge frontier artificial intelligence models, amid global scrutiny of AI...",
     "cache_version": 10,
-    "checked_at": "2026-10-29T05:41:52+00:00",
+    "checked_at": "2026-11-05T06:38:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -20125,7 +20246,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 2889
+    "word_count": 2886
   },
   "32dbcfff3c26593d193192d5c3182838bb3629fe0316a200b3bc6843f9447807": {
     "access_status": "available",
@@ -22457,6 +22578,44 @@
       "vulnerability"
     ],
     "word_count": 4915
+  },
+  "38fb6a011ecab58f914178a8c85ff5fa64825a4fe4aed4ae0bf600e50af6e3a7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Kok Sen Restaurant boss makes police report over alleged \u2018cockroach in dish\u2019 blackmail scam Sign up now: Get ST's newsletters delivered to your inbox Kok Sen Restaurant owner Jacky Wong alerted the police after he spotted telltale red flags in an alleged diner\u2019s complaint. PHOTO: SHIN MIN DAILY NEWS Lim Ruey Yan Published Nov 04, 2026, 01:58 PM Updated Nov 04, 2026, 04:37 PM Set as preferred source Listen Summarise \u4e2d\u6587 Kok Sen Restaurant owner Jacky Wong reported a scam after someone claimed a cockroach was in a meal and demanded $300 in compensation. He spotted warning signs, including a Malaysian number, disappearing messages and a photo copied from Google Reviews with a digitally added cockroach. Wong said the case warns other restaurants and hawkers about new blackmail scams, and his 22 CCTV cameras can help prove false claims. AI generated SINGAPORE \u2013 The owner of a restaurant in Chinatown has made a police report after he narrowly avoided paying out hundreds of dollars to an alleged fraudster who digitally edited a cockroach into a customer\u2019s photo and demanded compensation. Jacky Wong, owner of Kok Sen Restaurant \u2013 an eatery in Keong Saik Road known for its zi char (or \u201ccook and fry\u201d in Hokkien) dishes \u2013 received a WhatsApp message on Oct 31 from an alleged diner who claimed to have found a cockroach in their meal the previous day. The person demanded $300 in...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:13+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "deception",
+      "fraud"
+    ],
+    "word_count": 2321
   },
   "390dbd4b1f197c4987643c5863b85211316c0fa9d70e3b4ca9da988c2daf9bfe": {
     "access_status": "available",
@@ -26187,6 +26346,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1121
   },
+  "417b5b818aef2d180dc3729f23f32d42dc41a2f9b7ace227ab3ac988632f20d1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears Sign up now: Get ST's newsletters delivered to your inbox Tencent said it filtered out content during training to limit Hy4\u2018s potential \u201coffensive\u201d capabilities. PHOTO: REUTERS Published Nov 04, 2026, 07:31 PM Updated Nov 04, 2026, 07:41 PM Set as preferred source Listen Tencent on Nov 4 released Hy4, its new open-source model, which the company said was trained with limited cybersecurity data to \u201cdefensive\u201d content to reduce the risks of the model\u2019s ability to aid cyberattacks. The roll-out comes after a slew of AI-driven cyberattacks around the world raised concerns about the capabilities of advanced models and the threat posed to global internet infrastructure. Tencent said it filtered out content during training such as exploit development, reverse engineering, and penetration testing to limit Hy4\u2018s potential \u201coffensive\u201d capabilities. Moonshot AI in October limited its newest model\u2019s cyber-offensive capabilities, as Chinese AI firms join US companies to prevent loss-of-control risks. \u201cWe recognise the potential safety risks posed by advanced cyber and biological capabilities, and we are committed to a more responsible approach to model training, open-sourcing, and release,\u201d Tencent said in a statement. REUTERS More on this topic China\u2019s Tencent says AI agents showed unintended browsing...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 716
+  },
   "4192895fd0c4dca0c571a0a9eae57b81139bf6f7e97a038e649bb9b18b501474": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29450,6 +29635,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "48f35f443eaae731f450d5ea24773b2356e0ddfdc35973397251708d07c5f65d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Stocks rally, dollar dips after Democrats\u2019 midterm sweep Sign up now: Get ST's newsletters delivered to your inbox The greatest market reaction may come not from who wins Congress, but from how decisively they win and how far the result deviates from expectations, said an analyst. PHOTO: EPA Published Nov 04, 2026, 08:01 AM Updated Nov 04, 2026, 05:59 PM Set as preferred source Listen Summarise Democrats won the US midterms, taking both chambers and raising fears of tighter AI rules, slower data-centre growth and more political gridlock, Reuters said. Global stocks fell, led by AI shares in Asia and weak Nasdaq futures, as investors sold risky assets and moved into bonds for safety. The dollar weakened against major currencies, while yen and Swiss franc rose; oil stayed choppy as traders weighed war talks and supply risks. AI generated LONDON \u2013 Global stocks and the dollar recovered on Nov 4 from lows hit overnight after Democrats won control of both the Senate and the House in the US midterm elections, which has fuelled fears that rapid AI sector growth could be hamstrung by regulatory scrutiny. In a major setback to US President Donald Trump and Republicans, Democrats scored sweeping victories in Republican strongholds for the first time in generations. The breadth of the party\u2019s success was underscored by gains in districts long considered safely conservative, highlighting...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2666
+  },
   "490a1f5793c2f687cd83d409eb67d2598adf9aceb417bc796bccde741d321e0a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -30434,6 +30643,30 @@
       "fraud"
     ],
     "word_count": 2094
+  },
+  "4aa39563385d2962adcfd14b11cd64fec932396dde4733b3ba7c8236fc38d0c4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends higher after Democrats win Congress; data centre stocks tumble Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange at the opening bell, in New York City, on Nov 4. PHOTO: AFP Published Nov 04, 2026, 11:42 PM Updated Nov 05, 2026, 06:11 AM Set as preferred source Listen Summarise Wall Street rose sharply after Democrats won control of Congress. Investors saw less political uncertainty and stronger risk appetite. AI stocks were mixed. Big tech like Microsoft and Amazon rose, while data centre firms fell on fears of slower AI buildout and tighter regulation. The Dow, S&P 500 and Nasdaq all gained. Oil fell, defence shares dropped, and solar and clean energy stocks rose on hopes of continued support. AI generated NEW YORK \u2013 Wall Street closed sharply higher on Nov 4 as Democrats\u2019 sweeping midterm election victory eased political uncertainty and boosted risk appetite, though data centre shares fell on fears of tighter AI regulation. Democrats seized control of both the Senate and House of Representatives, scoring wins in Republican strongholds for the first time in generations in a voter backlash against President Donald Trump. Some large technology stocks rose on expectations that a slower expansion of AI infrastructure will favour them competitively, while smaller companies carrying out aspects of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2277
   },
   "4af25bff7525002657d82ecf5023000fc71679a41f54daf6f43fe31f24281f98": {
     "access_status": "available",
@@ -34306,6 +34539,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "5412aa6adfcb8faa47f23041695ad474b97438a8d26769a5095bb44dce5a2c05": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Democratic takeover of US Congress \u2013 What happens next Sign up now: Get ST's newsletters delivered to your inbox Supporters react to election results during the official New York Democrats election watch party in New York, New York, on Nov 3. PHOTO: EPA Published Nov 04, 2026, 03:05 PM Updated Nov 04, 2026, 03:05 PM Set as preferred source Listen Summarise Democrats won control of both chambers of Congress and plan fast action on living costs, health subsidies, Medicaid cuts, tariffs and the Iran war. They will use committee power to investigate Trump, his family, Elon Musk contracts, immigration, Epstein files and possible corruption, with subpoenas and hearings. Trump still has a veto and Senate rules can block most laws, so Democrats may struggle to pass bills even as they can block nominees and shape spending. AI generated Follow our live coverage here. WASHINGTON \u2013 Democrats are preparing a legislative offensive against US President Donald Trump after their sweeping midterm victory handed them control of both chambers of Congress and the power to challenge his policies, investigate his administration and block his nominees. Emboldened by victories deep in traditional Republican territory, the party is promising swift action on living costs and the war in Iran, while signaling that investigations of alleged abuses and corruption will be a major priority. House...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2472
+  },
   "5415b57626d27f57f3a760ad3dbe84b1ec8e0c5c69efb289bb5309aa023879b3": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -35789,6 +36046,32 @@
       "fraud"
     ],
     "word_count": 4061
+  },
+  "57f4961bb30a6e7a852defd052f93ccd30d90457e2fd725a7aa7043e40afbf15": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US Supreme Court rejects Trump, lets California count all ballots Administration went to top court on the eve of midterm elections An election sign encouraging people to vote is displayed in the front yard of a residential home in Encinitas, California on Oct. 21. (Reuters) -- Acting on the eve of the US midterm elections, the Supreme Court quickly rejected on Monday a bid by President Donald Trump's administration to temporarily block California from counting mail-in ballots from more than 20,000 registered voters who federal officials allege are likely non-US citizens. The justices denied the Justice Department's emergency request just hours after it filed it, shutting down the administration's claims over disputed ballots that could have affected thousands of voters and injected uncertainty into election outcomes. The decision represented another defeat for Trump as his fellow Republicans fight to retain control of Congress in Tuesday's midterms. California is the most populous US state and a Democratic stronghold. The administration intensified its focus on alleged noncitizen voting in the run-up to the midterms. Multiple studies and state audits show that ineligible voting, including by noncitizens, is rare. The Supreme Court's brief, one-sentence order on Monday did not offer any explanation of its action, as is common when it handles emergency matters. No justice...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 932
   },
   "57f65b52d0ba4161dce74f259df9958e2df7724fa8c0a18cb0190db43ef7c1f7": {
     "access_status": "available",
@@ -40398,6 +40681,49 @@
     ],
     "word_count": 35781
   },
+  "6325e05e393cb8bc39386c06ac158c4ad92582472067ac117d9c035d65c9c5a4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Court Crime East London pensioner targeted by \u00a3187k bank fraudsters Court Crime By Josh Bolton Court and crime reporter Share 0 Comments 4 Skip to next photo 1 / 1 Show caption 1 / 1 Share 0 Comments This article is brought to you by our exclusive subscriber partnership with our sister title USA Today, and has been written by our American colleagues. It does not necessarily reflect the view of The Herald. A fraudster posed with a wad of cash he scammed from elderly and vulnerable bank customers including an 80-year-old from east London. Mohammed Hassan Farooq, 22, was part of a Leicester-based organised crime network responsible for more than \u00a3187,000 of fraud between November 2024 and July 2025. He was sentenced to four-and-a-half years in prison after pleading guilty at Inner London Crown Court on October 22. Mohammed Hassan Farooq (Image: DCPCU) Farooq worked alongside Deva Raval, also 22, who received a two-year prison sentence suspended for two years after also pleading guilty. The pair were involved in scams which saw victims sent fraudulent text messages impersonating organisations including the DVLA, TV licensing and retailers offering promotions. The messages contained links encouraging victims to enter their banking details. Those who clicked the links were then contacted by people posing as bank staff, who used phone and video calls to persuade victims to provide...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "bank fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "bank fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "bank fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organised crime"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1083
+  },
   "63314b3ac45320eeaa9f8703f905b0dbd5cec281a54d44bedb1fdf942b4cf980": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -43254,9 +43580,9 @@
   "69cc6db282f4e81529422f8108ed9cbe3f48da2e6d58f81c761582a615f38e6d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "These mid-career workers are back in class to learn AI. Is it paying off? Sign up now: Get ST's newsletters delivered to your inbox Many who attend Vertical Institute\u2019s AI workshops are mid-career professionals. PHOTO: VERTICAL INSTITUTE Vihanya Rakshika and Cheong Poh Kwan Published Oct 29, 2026, 11:59 AM Updated Oct 29, 2026, 12:58 PM Set as preferred source Listen Summarise \u4e2d\u6587 AI training is in high demand in Singapore, especially among mid-career workers, as more than 200 courses were launched to build workplace AI skills. Workers say AI has cut tasks from hours or days to minutes, helping in subtitling, digital marketing and SEO, but also raising worries about jobs and change. The stories show AI can boost productivity and even help people find work, but success depends on adapting, learning new tools and protecting client data. AI generated SINGAPORE \u2013 Tasks that once took an entire working day can now be completed in minutes, as more workers harness artificial intelligence to work faster. This drive to boost productivity is fuelling demand for AI training. Private academies The Straits Times spoke to reported a sharp rise in enrolment for AI-related courses, with particularly strong interest from mid-career professionals. Vertical Institute said enrolment in its AI courses more than doubled o ver the past year, while Tribe Academy reported that its three-month flagship...",
+    "article_excerpt": "These mid-career workers are back in class to learn AI. Is it paying off? Sign up now: Get ST's newsletters delivered to your inbox Many who attend Vertical Institute\u2019s AI workshops are mid-career professionals. PHOTO: VERTICAL INSTITUTE Vihanya Rakshika and Cheong Poh Kwan Published Oct 29, 2026, 11:59 AM Updated Oct 29, 2026, 10:31 PM Set as preferred source Listen Summarise \u4e2d\u6587 AI training is in high demand in Singapore, especially among mid-career workers, as more than 200 courses were launched to build workplace AI skills. Workers say AI has cut tasks from hours or days to minutes, helping in subtitling, digital marketing and SEO, but also raising worries about jobs and change. The stories show AI can boost productivity and even help people find work, but success depends on adapting, learning new tools and protecting client data. AI generated SINGAPORE \u2013 Tasks that once took an entire working day can now be completed in minutes, as more workers harness artificial intelligence to work faster. This drive to boost productivity is fuelling demand for AI training. Private academies The Straits Times spoke to reported a sharp rise in enrolment for AI-related courses, with particularly strong interest from mid-career professionals. Vertical Institute said enrolment in its AI courses more than doubled o ver the past year, while Tribe Academy reported that its three-month flagship...",
     "cache_version": 10,
-    "checked_at": "2026-10-29T05:41:56+00:00",
+    "checked_at": "2026-11-05T06:38:23+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -43273,7 +43599,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3600
+    "word_count": 3579
   },
   "69e4e3a2f4adbd5f3b70a8c3a4268f83688c15972b21d97223fd04fc88579076": {
     "access_status": "available",
@@ -45272,6 +45598,37 @@
     ],
     "word_count": 21963
   },
+  "6eb61d63645e6d1ab80892fa9799f30f6c9f0626af6b1fe15e51ae6676901a6f": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "6ef256cb8ac08afa9444cba91801f73d2c1a650720be5f208a3cd68969fbcbd1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -45936,6 +46293,30 @@
       "trust"
     ],
     "word_count": 2738
+  },
+  "700a6629a7006d26d84f4299765cb139b819e99fb164a7f62ed8c2e252aaccf5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Republican blame game starts as 2028 hopefuls angle for position Sign up now: Get ST's newsletters delivered to your inbox US Vice-President J.D. Vance, the Republican Party\u2019s presumed frontrunner, on Nov 4 distanced himself from both President Donald Trump and the war against Iran. PHOTO: AFP Published Nov 05, 2026, 07:30 AM Updated Nov 05, 2026, 11:57 AM Set as preferred source Listen Summarise Republicans suffered heavy midterm losses, with at least seven Senate seats lost and a likely major House defeat. The results exposed deep party splits and raised questions about its future direction. J.D. Vance and Ron DeSantis used the defeat to distance themselves from Donald Trump and attack party failures. Vance blamed the war, living costs and US-Israel ties, while DeSantis called it an \u201cextinction-level event\u201d. Trump downplayed the setback and said there may be no big staff shake-up. But his backing of weak candidates and controversial policies has left 2028 hopefuls trying to rebuild the party in a new image. AI generated WASHINGTON \u2013 The Republican Party\u2019s generational collapse in this week\u2019s midterm elections ushered in a wave of finger-pointing largely aimed at the Oval Office, exposing deep fissures within the party and opening the door for 2028 hopefuls to hone their message.",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4358
   },
   "7029534b11d5def902892f04596f84af049fe380ff3ad36b4835a457b00ce983": {
     "access_status": "available",
@@ -49280,6 +49661,36 @@
     ],
     "word_count": 1086
   },
+  "78875b9fb28a5dcc36e253dd957549c5000ea0a1c0498d6ae469783797a0def4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Attendees cheer at a campaign event for Democratic Texas gubernatorial candidate Gina Hinojosa in Austin, Texas, on Tuesday, November 3, 2026. (AP Photo/Ashley Landis) Last month, OpenAI CEO Sam Altman told Politico that \u201cwe believe that the world should accept some bad things happening for the benefits of this technology,\u201d referring to ChatGPT users dying, people losing their jobs to AI, and the other negative externalities we have seen from AI. Altman wasn\u2019t running for office Tuesday. But this worldview\u2014that the masses must shut up and suffer while oligarchs centralize power, self-deal, spend wildly to capture the political process, and automate away human endeavors so they can amass yet more wealth\u2014was wholly repudiated in Tuesday\u2019s election as people in Red States, Blue States, and Purple States rejected the cruelty, corruption, and depravity economy we\u2019ve seen over the last few years. They are tired of kleptocracy. The main difference between Donald Trump\u2019s administration this term and his first term is that Silicon Valley\u2019s oligarchs have lined up to kiss the ring; look no further than the photos from his inauguration and his gilded gala with China\u2019s President Xi Jinping earlier this fall . Every major tech company CEO has spent the last two years flattering Trump, giving him gifts, and trying to capture the political process. They have been generously rewarded for...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1641
+  },
   "788838219c8b653ffa15fce89bd0ec23c1c4f3fbbbd7d040d75095bdbb4655dc": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -50421,6 +50832,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1784
+  },
+  "7b210bd34c6aff3260327df98462263421adc65577627563f98ff6587e0ffe86": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "7b25ca1ba8e755139458fb3342d5a6afc9778540a1ed0380a009c65572df27b6": {
     "access_status": "available",
@@ -52018,6 +52455,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "7e6275107ea12863ba4f9da7f0819da39a7034e3399f43124d27faf5f295e7e0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US Pentagon chief tech officer says government will detail laws that apply to AI labs in November Sign up now: Get ST's newsletters delivered to your inbox Pentagon chief technology officer Emil Michael, who is vice chair of the US government\u2019s Super Intelligence Task Force, said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. PHOTO: LIANHE ZAOBAO FILE Published Nov 05, 2026, 09:45 AM Updated Nov 05, 2026, 09:45 AM Set as preferred source Summarise The US government will detail all laws and regulations for domestic AI labs later in November, Pentagon CTO Emil Michael said at a technology conference in Napa. Michael said the Super Intelligence Task Force will publish the regulatory landscape \u201cin the next week or two\u201d to build public trust in AI companies. He warned that without a clear framework, \u201c535 legislators\u201d could write rules that might \u201ckill the industry\u201d. AI generated NAPA, California \u2013 The US federal government will lay out all the laws and regulations that apply to domestic AI labs later in November , Pentagon chief technology officer Emil Michael said on Nov 4 . Michael, who is vice chair of the government\u2019s Super Intelligence Task Force , said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. The task force is an intergovernmental agency established by US President Donald Trump to establish AI policy....",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 931
   },
   "7e7740220ccadb6e448ae6ccd4af6ebc8e73eb4b80fbd42a27cf03d3d39c997e": {
     "access_status": "available",
@@ -60116,6 +60579,30 @@
     ],
     "word_count": 748
   },
+  "92d41a3ba47d0338acb90b3997323e04221a9ab91da5afc8caca5f0846569663": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Rena Lee\u2019s historic election to world\u2019s top court a milestone for Singapore, say observers Sign up now: Get ST's newsletters delivered to your inbox (From left) Law Minister Edwin Tong, Ambassador for International Law Rena Lee and Foreign Minister Vivian Balakrishnan at the UN headquarters in New York. PHOTO: MINISTRY OF FOREIGN AFFAIRS Tham Yuen-C Published Nov 04, 2026, 07:47 PM Updated Nov 04, 2026, 10:02 PM Set as preferred source Listen Summarise \u4e2d\u6587 Rena Lee\u2019s election to the International Court of Justice is a major win for Singapore. It shows strong support for its rules-based foreign policy and international law. Lee won in the first round at the UN on Nov 3. She got 151 of 191 votes in the General Assembly and 13 of 15 in the Security Council. She is Singapore\u2019s first ICJ judge and only the second from South-east Asia. Her nine-year term starts in 2027. She will bring legal skill, diversity and impartial judgement. AI generated SINGAPORE \u2013 The election of Singaporean Rena Lee to the International Court of Justice (ICJ) is a significant milestone for Singapore, which has consistently championed a rules-based international order as a small state, said observers. At a time when multilateral institutions face mounting pressures, her election underscores Singapore\u2019s commitment to defending the rule of law and strengthening its governing bodies, they added.",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3679
+  },
   "92dda118abbbfff5aaffa8403581e250100e99f0055261659f053740d0291027": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -60944,6 +61431,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4679
+  },
+  "946f22b1d11b941e994f7071e4ad813fee8a6b98dc9c9ef075d59de0bb536d23": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Tencent Cloud Expands AI Ecosystem in Singapore with New Enterprise AI Capabilities, Partnerships and Talent Development Initiatives Published Nov 04, 2026, 05:40 PM Tencent Cloud Expands AI Ecosystem in Singapore with New Enterprise AI Capabilities, Partnerships and Talent Development Initiatives The issuer is solely responsible for the content of this announcement. Press release Tencent Cloud Expands AI Ecosystem in Singapore with New Enterprise AI Capabilities, Partnerships and Talent Development Initiatives Published Nov 04, 2026, 05:40 PM Tencent Cloud Expands AI Ecosystem in Singapore with New Enterprise AI Capabilities, Partnerships and Talent Development Initiatives The issuer is solely responsible for the content of this announcement. Press release Tencent Cloud Expands AI Ecosystem in Singapore with New Enterprise AI Capabilities, Partnerships and Talent Development Initiatives Published Nov 04, 2026, 05:40 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 174
   },
   "9472fa304a097914325f10ba09e608e4aa47c6d8a9e991ae640a5d57f620f69f": {
     "access_status": "available",
@@ -64767,6 +65278,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "9eca708007c5ede6e285d0dda67f199d81afd12ea6ac52f09223777b374eebd5": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis US midterms: Trump\u2019s midterm drubbing demonstrates the power of data-centre opponents Sign up now: Get ST's newsletters delivered to your inbox In gubernatorial races in Texas and Georgia, Democrats who campaigned in part on a moratorium on data centre development won offices that the party had not held for decades. PHOTO: AFP Published Nov 04, 2026, 07:52 PM Updated Nov 04, 2026, 08:11 PM Set as preferred source Listen HONG KONG \u2013 Opponents of data centres were among the biggest winners of the Democrats\u2019 landslide wins in the US midterm elections , pointing to a shifting public mood on AI and, investors said, a possible slowdown of the boom that has propelled US economic growth and stock markets. The size and breadth of the Democratic wave were still coming into focus. But in gubernatorial races in Texas and Georgia, Democrats who campaigned in part on a moratorium on data centre development won offices that the party had not held for decades. Their victories hand political heft to the backlash against the projects, which are at the heart of the AI boom but are loud, thirsty for water, hungry for electricity and increasingly unpopular with their neighbours, investors said. Investors say the results are likely to usher in tougher regulation and could ripple across financial markets where AI stocks were falling on Nov 4 ; big bets have already started to wobble...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2807
+  },
   "9ed8314649729a7727de675deabb9f849276a41726ab4f9ce874fc4491fec9a9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -65941,7 +66476,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "In July, Oz\u2019s agency issued a memo rescinding previous guidance on how staff at nursing homes could help residents to vote by assisting with mail-in voting or transporting residents to polling locations. The memo replaced that guidance with threats of prosecution if staff \u201cengage in inappropriate coercion or other violations of residents\u2019 rights.\u201d Referring to this memo, election denial groups last month began to boost claims that voter fraud was happening inside care facilities. That campaign was spearheaded by the Election Integrity Network, a group led by Cleta Mitchell, a former adviser to president Donald Trump. \u201cThese left-wing groups go into the nursing homes, and they go into the group homes, and they basically steal the votes of these most vulnerable,\u201d Mitchell said in a recent appearance on Steve Bannon\u2019s War Room show . Now, citing WIRED\u2019s reporting on the nursing home conspiracy theories, a group of senators that includes Elizabeth Warren, Richard Blumenthal, Alex Padilla, Mazie Hirono, Ron Wyden, Kirsten Gillibrand, Jeff Merkley, and Cory Booker wrote in a letter to CMS to \u201durgently request that CMS rescind its July 2026 memorandum and reinstate its 2020 and 2024 nursing home voting guidance.\u201d \u201cThis is as low as it gets,\u201d Warren tells WIRED. \u201cThe Trump administration\u2019s unfounded allegations of election fraud are inspiring election denial groups to harass nursing...",
     "cache_version": 10,
-    "checked_at": "2026-10-29T05:41:57+00:00",
+    "checked_at": "2026-11-05T06:38:26+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -65960,7 +66495,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 2638
+    "word_count": 2162
   },
   "a1bdccfe7360af42e721b085b8a4e75fe71550891027965345dd0d6679ae7455": {
     "access_status": "available",
@@ -67691,6 +68226,33 @@
     ],
     "word_count": 4272
   },
+  "a54be91ecdf574030e33fb5b8a9fe35ce5c32bb2905582e9db2a0ea95aa01ed3": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Shortly after 1 am, Musk posted twice: \u201cData centers in space looking pretty appealing right now,\u201d he wrote first. About a minute later , he added, \u201cGuess my election-interfering space lasers didn\u2019t work this time\u201d with a shrug emoji. By Wednesday morning, candidates backed by Musk\u2019s America PAC had lost 20 races and won only one, with 21 uncalled, according to a WIRED analysis of election data. Tesla and SpaceX stocks have plunged in value. Musk and his PAC spent more than $400 million since Trump retook office backing Republican candidates\u2014nearly $87 million of it on ads targeting 42 midterm races. He also funneled more than $229 million into other political groups, chiefly the main Republican super PACs for the House and Senate, along with smaller ones formed to fight single races in Kentucky and Texas. Of every traceable dollar Musk put into a race that has now been decided, more than 99 cents went to a race he lost. America PAC ran ads in seven Senate races this cycle; six have been called, and Musk\u2019s side lost all six. Sherrod Brown took back Ohio, Abdul El-Sayed won Michigan (where the PAC spent $9.2 million on ads), Josh Turek flipped Iowa, and in Maine, Troy Jackson unseated Susan Collins, a feat Democrats had long thought impossible, ending Collins\u2019 30-year career in the senate. As of publication time, only Alaska remains uncalled.",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": true,
+    "hard_rejection_reason": "generic_securities_fraud",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2999
+  },
   "a54ec269449106eb73dedb5d7a09b872683e83ef8d0e315e62e2a5108f5dbdae": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -69193,6 +69755,30 @@
     ],
     "word_count": null
   },
+  "a8d803875e00e7f6e33bb5a107cb369c05560778888c8a8ddfb5552f6f03be22": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Prabowo sacks chief of staff Listyo over alleged wiretapping, palace says case may border on \u2018treason\u2019 Sign up now: Get insights on Asia's fast-moving developments Listyo Sigit Prabowo was sacked by Indonesian President Prabowo Subianto on Nov 4, just over a month after he was appointed Presidential Chief of Staff on Oct 1. PHOTO: AFP Wahyudi Soeriaatmadja and Karina Tehusijarana Published Nov 04, 2026, 03:20 PM Updated Nov 04, 2026, 06:44 PM Set as preferred source Listen Summarise \u4e2d\u6587 Prabowo Subianto sacked Chief of Staff Listyo Sigit Prabowo after he was named a suspect in an alleged plot to wiretap the President, with the palace saying it may amount to \u201ctreason\u201d. State Secretary Prasetyo Hadi said the President was \u201cdeeply concerned\u201d and appointed Lieutenant-General Ariyo Windutomo as Acting Chief of Staff, while ordering police to handle the case openly and by law. Police said Listyo and two generals allegedly intercepted calls of officials, journalists and others from 2025 to 2026. They face charges under the Criminal Code and the Electronic Information and Transactions Law. AI generated JAKARTA \u2013 Indonesian President Prabowo Subianto has sacked his chief of staff Listyo Sigit Prabowo following the latter\u2019s alleged involvement in a scheme to wiretap the President \u2013 a case that the palace has suggested may border on \u201ctreason\u201d. State Secretary Prasetyo Hadi told reporters...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:26+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2489
+  },
   "a8f66175645205b56b0c3437fff8cfdb6f06dec65d97199be2e3c9f2c4f709f1": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -70166,6 +70752,30 @@
       "fraud"
     ],
     "word_count": 828
+  },
+  "ab25cc36930b6b977aa03b235b27b38644ebb21e277acdbc64727cdb288f722d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Numbers that tell the story of the Democrats\u2019 midterm blowout Sign up now: Get ST's newsletters delivered to your inbox Texas went blue for the first time in decades, with James Talarico scoring a massive upset to flip a Senate seat in the Lone Star State for the first time since 1988. PHOTO: HAIYUN JIANG/NYTIMES Published Nov 04, 2026, 03:28 PM Updated Nov 04, 2026, 05:17 PM Set as preferred source Listen Summarise Democrats won a major midterm victory, boosted by record early turnout of more than 61.7 million votes and strong support from African Americans, young people and other key groups. Campaign spending hit a record US$11.9 billion, with Democrats outspending Republicans by US$800 million and raising more money in key races such as Texas. Several states broke long trends, as Democrats won Senate seats in Kansas, Texas and South Carolina, while young voters and Latinos moved sharply away from Trump and the Republicans. AI generated Follow our live coverage here. WASHINGTON \u2013 Democrats stormed back to power in Congress and governors\u2019 mansions across America in the Nov 3 midterm elections, a stunning repudiation of Donald Trump\u2019s political agenda. These are the numbers that tell the tale of a historic night. Record turnout Total turnout numbers were not in yet, but Americans cast more than 61.7 million votes even before election day, according to the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2329
   },
   "ab4daae9d2fac7fec172f66508bccf419862e1ce2d68a244de9417d6a4db53fa": {
     "access_status": "available",
@@ -71252,6 +71862,33 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ad0abea16f2c5556be61f9e1f347f611644139e25aadb830ddd3651e591d3f9a": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US midterms live: Wall Street rallies as Trump signals cooperation Oil falls on investors' bet that political shift could hasten end to Iran war \u00a9 AP WASHINGTON/NEW YORK -- The opposition Democratic Party has won control of the U.S. Senate and House of Representatives, according to media projections, capitalizing on widespread voter discontent over Republican President Donald Trump's policies on inflation, tariffs, AI data centers and the Iran war. In the weeks leading up to the Nov. 3 midterm elections, forecasters overwhelmingly favored the Democrats to retake the House, while the battle to regain control of the Senate was expected to be much closer. However, only hours after polls closed, Democrats flipped Republican-held Senate seats in North Carolina, South Carolina, Ohio, Texas, Kansas and Iowa, according to The Associated Press, clearing the key 51-seat threshold in the 100-seat chamber. The AP called the House for the Democrats later in the night, after the party surpassed 218 seats. In 2024 and 2022, the AP did not call control of the House until eight days after Election Day. Readers can follow Nikkei Asia's live coverage and analysis of the midterm elections at asia.nikkei.com . Follow the latest updates below (Washington time): Wednesday, Nov. 4 4:15 p.m.",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2918
   },
   "ad2afbe59374cbf072f3eae4941c7666b16b58c7d2979fb4d2c00cb13bc8a55c": {
     "access_status": "available",
@@ -72931,6 +73568,47 @@
     "weak_generic_terms_found": [],
     "word_count": 1437
   },
+  "b0ff0d488cb5cec37e1cac9a3cb0d1806100b69fd2719237fd00700f984d3abd": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Japan police to share scam account data nationwide to prevent damage Sign up now: Get insights on Asia's fast-moving developments Japan\u2019s National Police Agency has signed agreements on Nov 5 with such major banks as Sumitomo Mitsui Banking. PHOTO: REUTERS Published Nov 05, 2026, 01:01 PM Updated Nov 05, 2026, 01:01 PM Set as preferred source Summarise Japan\u2019s National Police Agency will share scam account data with 807 financial institutions nationwide from next week to stop victims sending more money after initial transfers. The move aims to speed up action on cross-regional scams, which local police have struggled to tackle, and follows a similar local system launched in Saitama in October 2024. Scam losses hit a provisional 261 billion yen from January to September and may top the 2025 record of 325.7 billion yen, with bank transfers making up 54.9% of damage. AI generated Japan\u2019s National Police Agency (NPA) said on Nov 5 it will begin sharing details of accounts used in scams with 807 financial institutions nationwide from next week to prevent victims from paying further after their initial payments to such accounts are found. While local police have shared details of accounts used for online and phone scams with financial institutions in their prefectures, the new nationwide system will help them respond faster to cases involving victims and scammers from different...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:13+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "phone scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 1265
+  },
   "b133f50f07cf990f25f19d6d20972a82cbf1753b1e485518658cb20c644d9af0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -73602,6 +74280,30 @@
     ],
     "word_count": 9264
   },
+  "b2bb5280c95d9fb05733a79cc45eaff765f10b35df80e0dd9a680159a3bf9816": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Singapore leads region in race to next-generation AI Published Nov 04, 2026, 02:00 PM Singapore leads region in race to next-generation AI The issuer is solely responsible for the content of this announcement. Press release Singapore leads region in race to next-generation AI Published Nov 04, 2026, 02:00 PM Singapore leads region in race to next-generation AI The issuer is solely responsible for the content of this announcement. Press release Singapore leads region in race to next-generation AI Published Nov 04, 2026, 02:00 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 129
+  },
   "b2e7ca2ca51e7b971f71f6eb93f11695097115cf4c1218a3be8211c87747960a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -73625,6 +74327,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 732
+  },
+  "b2f5edabe8a9022045b0c446cff0f827487aae5e7c82f51392416aeaffacb717": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces Published Nov 05, 2026, 12:15 PM Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces The issuer is solely responsible for the content of this announcement. Press release Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces Published Nov 05, 2026, 12:15 PM Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces The issuer is solely responsible for the content of this announcement. Press release Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces Published Nov 05, 2026, 12:15 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 154
   },
   "b31a79145f0373dcb8a3a966b277558f03ad3a7b5cb90c605e78d44b3f6db110": {
     "access_status": "available",
@@ -74773,6 +75499,66 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3210
+  },
+  "b5f1bbab8d146565d73053a1fed9a8c6f426c6a304627487da2b871f92fee7a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud Yutao Wu 1 , Xiao Liu 1 , Ming Wen 2 , Hanxun Huang 3 , Jun Wang 4\u2020 , Xingjun Ma 2,5 Note: Corresponding author: xingjunma@fudan.edu.cn. \u2020 This work is unrelated to Jun Wang\u2019s position at Amazon. Affiliation: 1 Deakin University 2 Fudan University 3 The University of Melbourne 4 Amazon 5 Shanghai Innovation Institute wuyoscar/scamworld-bench \u00a9 none Abstract. Web agents increasingly browse, shop, and manage accounts on behalf of their users. Prior work has shown that they can be misled by adversarial content, including prompt injections and deceptive interfaces. Beyond such attacks, agents operating on the open web also encounter online fraud designed to deceive humans, including fraudulent online stores, fake investment platforms, and advance-fee schemes. How web agents respond to such fraud during task execution remains underexplored, in part because scam websites are short-lived, making systematic evaluation difficult. To address this gap, we introduce ScamWorld , an interactive environment that reconstructs reported scam websites across diverse scenarios, fraud mechanisms, and languages. Each reconstructed website reproduces documented fraud mechanisms, making relevant signs of fraud observable before the agent\u2019s final action and enabling...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:12+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE S&P"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake investment",
+      "investment scam",
+      "payment fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 18127
   },
   "b607570987502cd4d3a6b17a0dedf6e7998e79c416ab9cabe0f674b52f2f150c": {
     "access_status": "available",
@@ -76915,6 +77701,33 @@
     ],
     "word_count": 15578
   },
+  "bac6a31bd2265538938d67fbef857bebaf11654237effa086ed81acbca0360d0": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US midterms: Democrats seize Congress in thundering midterm rebuke of Trump Sign up now: Get ST's newsletters delivered to your inbox Published Nov 04, 2026, 05:50 PM Updated Nov 04, 2026, 11:20 PM Set as preferred source Listen Summarise Democrats won control of Congress in an overwhelming rebuke of President Trump, driven by anger over living costs and the war against Iran. They flipped key Senate, House, governor and state legislature races, including wins in Texas, Ohio, Georgia and Wisconsin. Trump said he was \u201cabsolutely willing to accept those results\u201d, but the defeat leaves him weaker and forces both parties to rethink their next steps. AI generated WASHINGTON \u2013 Riding an overwhelming tide of voter angst, Democrats swept into power in Congress, with outrage over the cost of living and the war in Iran leading to a thundering rebuke of President Donald Trump and his party just two years after his dominant White House comeback. In a seismic political shift that seemed unlikely even a few months ago, Democrats\u2019 strength suggested a breakdown of the coalition that delivered Trump a second term even after he beseeched the electorate to vote as if he were on the ballot . Trump told The New York Times in an interview that he was \u201cabsolutely willing to accept those results\u201d and was prepared to work with Democrats. \u201cWe\u2019ll, you know, look forward to working with them,\u201d he said....",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 5725
+  },
   "bae108f5a691f66e37a85fefbdb3fc64a9bbfd63b2eac53c5fb92e16a6eb6cd1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -77142,6 +77955,30 @@
       "fraud"
     ],
     "word_count": 213
+  },
+  "bb32a2d5911049774f80ce15972ddfa8199b8f4554c1efe60efcd5d512b4bbb1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "But in 2020, during the presidential face-off between Donald Trump and Joe Biden, Steve Kornacki became America\u2019s sweetheart for his enthusiastic delivery of state-by-state election results. The NBC data analyst gracefully guided teeth-grinding, fist-clenching viewers through Biden\u2019s eventual victory, and the rest is history: That same year, Kornacki was named one of People\u2019s sexiest men alive; the internet became obsessed with his khaki pants; and he earned the nicknames \u201cchartthrob\u201d and \u201cmap daddy.\u201d Kornacki further established himself as the king of election season with the \u201cKornacki Cam\u201d during 2026 midterm primary election nights, when his nonstop behind-the-scenes livestreams amassed 42 million views. Now that midterm election day is upon us, Kornacki is acutely aware of how many viewers have come to rely on him. \u201cI get very anxious about being prepared for election night,\u201d he says, \u201cand then thinking of all the things that I might not be prepared for, and then just taking the phone out and trying to get prepared.\u201d For someone who spends a lot of time logged on, Kornacki doesn\u2019t exactly have the habits of someone who is chronically online. He seems to know nothing at all about memes, FaceTime really isn\u2019t his thing, and he isn\u2019t quite sure what a subreddit is. Ask him about who\u2019s most likely to win today\u2019s races, though, and he\u2019ll have no shortage of knowledge to share....",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4250
   },
   "bb37bdb4dabe5ba1c1fd36eaa65c5d740dbae4acfcb45604b3210ef5dbc049ac": {
     "access_status": "available",
@@ -77740,6 +78577,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1972
+  },
+  "bc4a55241718232d0d9d04fecf625663ea74e44c3e6246a9d7d94bcc832daae2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Democrats\u2019 warning to \u2018lawyer up\u2019 ripples through Washington Sign up now: Get ST's newsletters delivered to your inbox Democrats are expected to aggressively deploy their set of legal tools in light of their sweeping midterm wins. PHOTO: TODD HEISLER/NYTIMES Published Nov 05, 2026, 07:30 AM Updated Nov 05, 2026, 11:58 AM Set as preferred source Listen Summarise Democrats are set to use House and Senate control to launch aggressive probes into Trump, his aides and linked firms, with subpoenas, hearings and reports likely. Republican lawyers say they have prepared for months and expect more demand for defence work, from Trump allies to bipartisan firms and former officials. Both sides expect hard legal fights over executive privilege, subpoenas and contempt, as Democrats focus on issues like self-dealing, consumer harm and affordability. AI generated Within hours of projections on the night of Nov 3 that Republicans would lose control of the US House and Senate , Democrats were enthusiastic about launching investigations into President Donald Trump and the people and companies in his orbit. \u201cLAWYER UP,\u201d California Representative Robert Garcia, set to lead the House Oversight Committee, warned in an X post. Oregon Senator Ron Wyden, expected to chair the Senate Finance Committee, offered a one-word prediction: \u201cSubpoenas.\u201d The committee\u2019s Democratic side offered an...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4232
   },
   "bc50f479898a111315728b2664ce5b06860f82199d3068be584a02bc8c309b1e": {
     "access_status": "available",
@@ -90116,6 +90979,30 @@
     ],
     "word_count": 3929
   },
+  "da4ae633ad168fabfc3d02d9b4cb107fe00c137be291e8e9efed0f0f7fdc915b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: AI data centre boom is set for upheaval after US election rout Sign up now: Get ST's newsletters delivered to your inbox The US Democrat wins underscore the intensity of the growing voter backlash against the sites powering AI systems worldwide. PHOTO: REUTERS Published Nov 04, 2026, 05:10 PM Updated Nov 04, 2026, 05:34 PM Set as preferred source Listen Follow our live coverage here. Data centre developers seeking to build dozens of sprawling artificial intelligence campuses across Texas were already dealing with a suspension of approvals under Republican Texas Governor Greg Abbott. Under Gina Hinojosa, elected on Nov 3 as the first Democratic governor of the Lone Star State in more than three decades, they are facing their worst-case scenario. As part of her campaign, Hinojosa repeatedly called for an immediate moratorium on data centre development. She has described Abbott\u2019s vows to rein in data centre operators as \u201cnothing more than an election year stunt\u201d and has accused developers of \u201craising our utility rates and depleting our water\u201d. She has vowed to halt approvals until \u201ca legislative session that puts Texans first so that we don\u2019t have any more communities in Texas who are powerless against these global corporations\u201d. Combining Hinojosa\u2019s victory with those of other Democrats who won gubernatorial races from Georgia to Ohio and Pennsylvania could leave...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3282
+  },
   "da7d785b87c74b9acaacc141b97fd877be762c5bf280ae24dc27635d8623ea14": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -94998,6 +95885,33 @@
     "weak_generic_terms_found": [],
     "word_count": 2564
   },
+  "e767edc20d871aed67239c0b89a761dad2985928d5728f8eab12f9d7ab025394": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Visa sets up 6 global tech hubs in Singapore, with 1,500 staff at new Paya Lebar centre Sign up now: Get ST's newsletters delivered to your inbox Visa\u2019s new hubs will build capabilities in agentic artificial intelligence, next-generation payments and trusted commerce. PHOTO: LIANHE ZAOBAO Joyce ZK Lim Published Nov 05, 2026, 10:01 AM Updated Nov 05, 2026, 12:01 PM Set as preferred source Listen Summarise \u4e2d\u6587 Visa will set up six global tech hubs in Singapore, with a new Paya Lebar Green centre for 1,500 staff working on AI, next-generation payments and trusted commerce. The hubs will develop tools for Visa\u2019s global network, including agentic AI, digital money, stablecoins and cybersecurity. Visa says this will support new commerce experiences. Singapore\u2019s EDB said the investment will create high-value jobs and strengthen the city-state\u2019s role in financial innovation. The move follows Visa\u2019s July plan to cut 2,600 jobs worldwide. AI generated SINGAPORE \u2013 Digital payments giant Visa will set up six hubs in Singapore to build capabilities in emerging technologies as the global payments landscape evolves . Its new centre at Paya Lebar Green will bring together some 1,500 staff working on agentic artificial intelligence, next-generation payments and trusted commerce, the American firm said in a statement on Nov 5. It is unclear how many of these roles are new jobs. The Straits Times...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 1430
+  },
   "e7b683fe11c5334c9e29a1b426729f475bf8ba1f39d58cc47ec3f150bb33af34": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -98975,6 +99889,30 @@
       "identity"
     ],
     "word_count": 8901
+  },
+  "f27a5f6f80721eea1a548e3eac959db5422fa3da89256a800783353f18ea057f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US midterms: Democrat Abdul El-Sayed becomes first Muslim elected to Senate Sign up now: Get ST's newsletters delivered to your inbox Democratic US Senate candidate Abdul El-Sayed\u2019s victory in the closely contested election marked a breakthrough for the Democratic Party\u2019s progressive wing. PHOTO: REUTERS Published Nov 04, 2026, 03:54 PM Updated Nov 04, 2026, 04:04 PM Set as preferred source Listen Summarise Abdul El-Sayed won Michigan\u2019s open US Senate seat, becoming the first Muslim elected to the chamber and keeping a key Democratic seat in the fight for Senate control. The former public health official campaigned on lower costs, less corporate influence, and Medicare for All, while Democrats said Republican attacks used Islamophobic tropes. His win denied Republicans a chance to flip the seat after Gary Peters retired, as Democrats still needed four net gains to take the Senate majority. AI generated Follow our live coverage here. DETROIT, Michigan - Democrat Abdul El-Sayed won Michigan\u2019s open US Senate seat on Nov 3, according to media projections, becoming the first Muslim elected to the chamber while preserving a crucial Democratic seat in the party\u2019s fight for Senate control. El-Sayed\u2019s victory in the closely contested election marked a breakthrough for the Democratic Party\u2019s progressive wing and denied Republicans a chance to flip the seat of retiring Democratic Senator...",
+    "cache_version": 10,
+    "checked_at": "2026-11-05T06:38:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1345
   },
   "f2950e4a0eb39d8b8b2090bbb18760e7831a86eb093ed7be5cbedbfcd7a2c8a5": {
     "access_status": "available",
