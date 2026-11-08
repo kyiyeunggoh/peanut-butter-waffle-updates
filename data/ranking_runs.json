@@ -2,29 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Enforcement report": 1,
-        "News report": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 29,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "psychology": 28,
-        "targeted": 1
-      },
-      "shortlist_count": 1,
-      "source_domain_distribution": {
-        "nzherald.co.nz": 1
-      },
-      "timestamp": "2026-09-17T04:49:23+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Scam development": 2
-      }
-    },
-    {
-      "article_type_distribution": {
         "Deep analysis": 1,
         "Enforcement report": 1,
         "Research paper": 1,
@@ -1356,6 +1333,33 @@
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
         "Operational intelligence": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "News report": 2
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 9,
+      "failed_constraints": [
+        "missing_non_academic_longform_investigative_or_operational_if_available",
+        "missing_technical_platform_product_or_data_source_if_available"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "platform_product": 1,
+        "psychology": 5,
+        "singapore_sea": 3
+      },
+      "shortlist_count": 2,
+      "source_domain_distribution": {
+        "straitstimes.com": 2
+      },
+      "timestamp": "2026-11-08T05:55:25+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
         "Scam development": 1
       }
     }

@@ -953,6 +953,30 @@
     "weak_generic_terms_found": [],
     "word_count": 285
   },
+  "029acc42c10e46b49e64ef0a6822d26668a8a1158548617adfbb39783030f4d6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News By Location Bridgestone revs up output of massive mining tires on AI-driven demand Japanese manufacturer sets sights on companies supplying copper for data centers Safe passage deal thrown into question amid urgent need to diversify energy supplies and routes New eateries serve flavors from mountain kitchens to fiery coastal fare Voter anger over living costs could bring new scrutiny to U.S. trade policy and the rapid expansion of data centers Trial period begins in early 2027 using vehicles developed by China's WeRide Hotels and operators offer tailored services as spending surged 39% in 2025 Exploring Bandung, the would-be capital of the Dutch East Indies Toyota, Komatsu among those benefiting from foreign-exchange trends and US growth Games will be less expensive to make but the jury is out on how they will be played Japanese financial services company to leverage expertise gained in India operations Firm specializes in using data, intellectual property to boost revenue steams Japanese national served three-and-a-half-year term after reportedly taking plea National and its partners are projected to win 67 of 130 seats, before special vote count Kremlin widens economic measures as bilateral tensions continue to rise Russia gets closer to ASEAN; summit between US, China envisioned Coach Academy boasts 50-plus University of Tokyo admissions in 2026 cycle Deposit insurance...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 369
+  },
   "02a0c662a417d0f11f304ccdb9c59a85b0966bf0a9e9acd5de21dfd663cc8eb2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2374,6 +2398,30 @@
       "trust"
     ],
     "word_count": 2625
+  },
+  "057ae1c301e80584385509983bdb7acde08a2f61bcc5c1edb2e0bae3fde1d217": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Spend limits Last updated Nov 4, 2026 | Copy as Markdown | View as Markdown | Agent setup Spend limits let you set cost-based budgets on your AI Gateway. When cumulative spend reaches the limit within a time window, AI Gateway blocks further requests with a 429 response until the window resets. Unlike rate limiting , which caps the number of requests, spend limits track actual dollar cost per request based on model pricing. You can scope limits to any combination of model, provider, or custom metadata dimensions like user ID, team, or application. Spend limits apply to both Unified Billing requests and BYOK requests for models with known pricing. How it works Each spend limit rule defines a budget (in dollars) over a rolling or fixed time window. AI Gateway calculates the cost of each request based on token usage and model pricing, then tracks cumulative spend against the limit in real time. Before sending a request to the provider, AI Gateway evaluates all applicable spend limit rules at once. If any individual rule is over budget, the request is blocked with a 429 response. Spend limits are eventually consistent.",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2277
   },
   "059d5ea30ed52961181e65cfcba95c149c5bacd82f842c73e4686846e482c907": {
     "access_status": "unknown",
@@ -19692,6 +19740,65 @@
     ],
     "word_count": 22015
   },
+  "3079b500320752b99aa16ebd62ea8f764e787eba266f0781f20201f4f5cc6f6f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: rmTeXGyreTermesX [arabic]rm[ Path=fonts/, Extension=.ttf, UprightFont=*-Regular, BoldFont=*-Bold ]NotoNaskhArabic [bengali]rm[ Path=fonts/, Extension=.ttf, UprightFont=*-Regular, BoldFont=*-Bold ]NotoSerifBengali [chinese]rm[BoldFont=FandolSong-Bold.otf]FandolSong-Regular.otf [greek]rm[ BoldFont=FreeSerifBold.otf, ItalicFont=FreeSerifItalic.otf, BoldItalicFont=FreeSerifBoldItalic.otf ]FreeSerif.otf In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases Mohsinul Kabir Affiliation: The University of Manchester Affiliation: ELLIS Manchester Md. Tariquzzaman Affiliation: Islamic University of Technology Karam S. R. Elradie Affiliation: The University of Manchester Polydoros Giannouris Affiliation: The University of Manchester Yuechen Jiang Affiliation: The University of Manchester Shaoxiong Ji Affiliation: ELLIS Institute Finland Affiliation: University of Turku Correspondence: {mdmohsinul.kabir, sophia.ananiadou}@manchester.ac.uk Sophia Ananiadou Affiliation: The University of Manchester Affiliation: ELLIS Manchester Abstract Existing safety benchmarks rely largely on synthetic prompts with loosely grounded taxonomies and offer little focused analysis of severe crime categories. We introduce GUISE, a benchmark of criminal-assistance scenarios sourced from real-world cases and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:14+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "money mule",
+      "financial fraud",
+      "voice cloning scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "money mule",
+      "financial fraud",
+      "voice cloning scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fake investment",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "money mule",
+      "financial fraud",
+      "voice cloning scam"
+    ],
+    "technology_modus_terms_found": [
+      "modus operandi"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "deception",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 20441
+  },
   "3098bc7545fd4efdb36a8307c8b6c974eb727cbd24c2faa7c8055a03ef95662d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -35412,6 +35519,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "553299119893baa0208e8ed7a0ecce1c35ea16e4485c5dd7d1c9edb80146ce03": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018My family should not have to leave\u2019: New shelter aims to help S\u2019pore men in crisis Sign up now: Get ST's newsletters delivered to your inbox A new crisis shelter hopes to give men like Emi (pictured) the option to remove themselves from a situation where they may hurt their loved ones. ST PHOTO: JASON QUAH Syarafana Shafeeq Published Nov 07, 2026, 12:00 PM Updated Nov 07, 2026, 06:07 PM Set as preferred source Listen Summarise Fellowship of Men Singapore (FMS) plans a crisis shelter for men from 2027. It will use budget hotels first, then aims for its own site within five years. The free service will help men facing abuse, displacement, self-harm, or rising violence risk. Each man will be assessed, then linked to counselling, social work, or legal help. FMS says men often stay silent, and early help can stop harm and guide them to recovery. AI generated SINGAPORE \u2013 When Emi returned home from work in September, he was met with an unfamiliar silence. His 15-month-old son, whose laughter usually filled the house, was gone. So was his wife. She had taken their son to a women\u2019s shelter, unable to endure Emi\u2019s verbal abuse whenever he took drugs.",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 4783
+  },
   "5537827e4ea117e65d0720444070c5eddfc229b023e1e2e5d6130ef6ca2188b8": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -37325,6 +37458,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2196
+  },
+  "59cde20483ca316a69ebcb72403d22618980cd53504c19d748fa4c1bf75c1497": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Put the oxygen mask on first\u2019: Democrats weigh tackling bread-and-butter issues and Trump probe Sign up now: Get ST's newsletters delivered to your inbox US House Democratic leader Hakeem Jeffries has established five working groups to tackle affordability in the first 100 days of the congressional term. PHOTO: KENNY HOLSTON/NYTIMES Marina Lopes and Ashley Totten Published Nov 07, 2026, 12:45 PM Updated Nov 07, 2026, 06:15 PM Set as preferred source Listen Summarise \u4e2d\u6587 Democrats won both chambers of Congress and now must choose between probing Trump and focusing on costs, healthcare and other bread-and-butter issues that drove voters. Exit polls showed voters wanted lower prices and stronger checks on Trump, but the win was also a warning, with only about half of voters viewing Democrats favourably. Democrats plan early action on affordability, Medicaid and oversight, but Trump\u2019s veto power and party infighting could block progress before 2028. AI generated WASHINGTON \u2013 Months before Democrats swept the US midterm elections , Republican House Speaker Mike Johnson warned supporters what would happen if his party lost control of Congress. \u201cIf we were to lose the midterms, heaven forbid, these Democrats, y\u2019all, impeachment\u2019s not even the big concern,\u201d he told conservative activists on June 26. \u201cThey will turn every committee of Congress into an investigative body, and they\u2019ll go...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4509
   },
   "59d106a23339b22c2cd59ab34442c22539d34d97ca0df94a75e2b08b5101ccf5": {
     "access_status": "available",
@@ -42092,6 +42249,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1023
+  },
+  "6548c5e5283658fbdf2dc17bb9fab11b2a40bacd92cd043df4da83b9ca0a8b94": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 4, 2026 New managed rule to help mitigate CVE-2026-98432. Cloudflare Network Firewall Copy as Markdown | View as Markdown | Agent setup Cloudflare Network Firewall has a new managed rule to help mitigate the Linux IPv4 TCP use-after-free vulnerability ( CVE-2026-98432 \u00e2\u0086\u0097\u00ef\u00b8\u008e ): Rule name: Block CVE-2026-98432 traffic Rule ID: 6a4df2bf984946a88c74b07349557e83 The rule is disabled by default . To use it: Go to Networking > Firewall Policies > Managed Rulesets . Enable the rule with action Log first. Review traffic that matches the rule. If the matching traffic is not expected for your environment, change the action to Block . For more information on enabling managed rulesets, refer to Enable managed rulesets . For more details about the vulnerability, including an agent assessment prompt and evidence sources, refer to the Cloudflare Radar Zero Wire briefing \u00e2\u0086\u0097\u00ef\u00b8\u008e . November 4, 2026 New managed rule to help mitigate CVE-2026-98432. Cloudflare Network Firewall Copy as Markdown | View as Markdown | Agent setup Cloudflare Network Firewall has a new managed rule to help mitigate the Linux IPv4 TCP use-after-free vulnerability ( CVE-2026-98432 \u00e2\u0086\u0097\u00ef\u00b8\u008e ): Rule name: Block CVE-2026-98432 traffic Rule ID: 6a4df2bf984946a88c74b07349557e83 The rule is disabled by default .",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 340
   },
   "656ce16d22d61bee05ed060c6de55fe0849ab859eb80dbf9b2f0c9019a4c16a3": {
     "access_status": "available",
@@ -48814,6 +48997,32 @@
     ],
     "word_count": 7596
   },
+  "7572c6ef64c535dee89615a47155e8a6752fae681187aebb13ad1372ed563bd4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The Straits Times Weekly Bestsellers Nov 7 Sign up now: Get ST's newsletters delivered to your inbox Published Nov 07, 2026, 03:05 PM Updated Nov 07, 2026, 03:05 PM Set as preferred source Listen Summarise \u4e2d\u6587 The Straits Times Weekly Bestsellers for 7 November lists top books in fiction. There are also lists for non-fiction and children\u2019s titles. The list is derived from sales from multiple bookstores and publishers. AI generated Fiction: Possession by Natalie Wang PHOTO: AFTERIMAGE 1. (-) A Court Of Splintered Harmony by Sarah J. Maas 2. (-) Possession by Natalie Wang 3. (4) Threshing Day by Rebecca Yarros 4. (-) Mind The Gap by Ratna Damayanti Taha 5. (2) East Of Eden by John Steinbeck 6.",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1593
+  },
   "7583211d60a54368006f4dd05217d4066ef3fb142a0e10e96bd9b8d801889946": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -52999,6 +53208,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1914
+  },
+  "7df392167186696e6731fc6007e65509ad6388bb227f0b15de1f4fac22328ce2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US pro-Trump election deniers crash against \u2018blue tsunami\u2019 Sign up now: Get ST's newsletters delivered to your inbox Evidence-free claims of voter fraud slowed after the Democratic Party won control of both chambers of Congress. PHOTO: AFP Published Nov 06, 2026, 10:25 AM Updated Nov 06, 2026, 10:25 AM Set as preferred source Summarise Democrats won the US midterms in a \u201cblue tsunami\u201d, taking both chambers of Congress and leaving pro-Trump election denial claims with little support. Trump accepted the defeat, and many loyalists followed. Even election deniers like Andy Biggs conceded without alleging fraud. Experts said voters are tired of baseless claims, but warned the denial movement may still return, as it remains part of Trump\u2019s political base. AI generated WASHINGTON \u2013 For months, conspiracy-peddling supporters of US President Donald Trump spread baseless theories that the vote would be rigged. But those claims all but dried up after Democrats swept the US midterm elections. Political pundits had anticipated a wave of legal challenges from election deniers seeking to contest the results of the vote on Nov 3, or efforts by Trump himself to tilt the outcome in his favour \u2013 as he did when he tried to overturn his 2020 election defeat. But none of that materialised. And evidence-free claims of fraud slowed to a trickle after what observers called the decisive \u201cblue tsunami\u201d...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2505
   },
   "7df457ff9952a66dc2679db2cdd8bcb3dfef381e790659647cefd8358680cb50": {
     "access_status": "available",
@@ -57533,6 +57768,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "884b47a3d74bb324dec8f6427317b139e5d5cd517113c533b49dca16d8e9075b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Meta sells first bonds in euros, raises \u20ac9 billion Sign up now: Get ST's newsletters delivered to your inbox FILE PHOTO: Meta's logo and a keyboard are shown in this illustration created on October 19, 2026. REUTERS/Dado Ruvic/Illustration/File Photo PHOTO: REUTERS Published Nov 05, 2026, 01:40 AM Updated Nov 05, 2026, 11:53 AM Set as preferred source Listen Summarise Meta sold its first euro bonds and raised \u20ac9 billion, after a US$15 billion dollar sale, to fund faster AI infrastructure spending. The deal shows big tech is still raising cash for data centres, computing power and cloud growth, even as doubts grow over the AI boom. Meta joins Alphabet in using Europe\u2019s deep bond markets, which can offer lower costs and help firms hedge currency risk. AI generated LONDON \u2013 Meta Platforms on Nov 4 sold its first bonds denominated in euros, a lead manager memo seen by Reuters showed, with big tech firms pressing on with fund-raising, even as doubts surface over the strength of the AI boom. The multi-tranche bond sale raised \u20ac9 billion (S$13 billion), the IFR news service reported. Maturities for the bond sale ranged from four to 38 years, the memo seen earlier in the day by Reuters showed. Meta on Nov 3 raised US$15 \u200bbillion (S$19 billion) through a five-part US dollar bond offering, \u200cas the Facebook parent turns to debt markets to help finance accelerating investments in AI...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1434
   },
   "884d64fbc583def2ed9751bac68c3c00672e9ee2f8b2b077f2ebbdb24c824f5e": {
     "access_status": "available",
@@ -69414,6 +69673,32 @@
     ],
     "word_count": 2217
   },
+  "a61acc3f80003a4c1ed61c3a99328333ccd8510e85ed391fd8db93eca7264497": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "New Democratic heroes and Republican stalwarts gear up to succeed Trump in 2028 race Sign up now: Get ST's newsletters delivered to your inbox US Senator Jon Ossoff, a Democrat, during an election night rally after winning in the US midterm elections on Nov 3. PHOTO: REUTERS Bhagyashree Garekar Published Nov 08, 2026, 05:00 AM Updated Nov 08, 2026, 09:11 AM Set as preferred source Listen Summarise Democrats gained fresh momentum after big 2026 midterm wins in Georgia, South Carolina and Texas, opening a wide 2028 field with Jon Ossoff, AOC, Abdul El-Sayed and others. Republicans now face a Trump succession fight. J D Vance, Marco Rubio, Ron DeSantis and others must choose how much Trump baggage to keep. Voters swung on issues like petrol costs and war, showing independents want change. Their votes may shape 2028 and decide whether parties move centre or stay polarised. AI generated WARNER ROBINS, Georgia \u2013 Candy Bautista was smiling as she helped herself to some fluffy pancakes at a brunch buffet. A 23-year-old economics graduate struggling to find a job, she voted for the first time the day before, on Nov 3, not really expecting an electoral earthquake. \u201cBut I went to bed in a red state and woke up in a blue one,\u201d said Bautista, an independent voter. The sentence captured Georgia\u2019s dramatic swing in the 2026 midterm elections; it elected a Democrat as governor for the first...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 6306
+  },
   "a61d945ad318d534bcf7275cdc435bbf3b39ff8dcd6379301521e8e2d661de63": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -75852,6 +76137,33 @@
       "cybercrime"
     ],
     "word_count": 0
+  },
+  "b434401463418f175649d6b9ee8a617ac8a17ed893f8bf61b40e2d397b92b49b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "News analysis With an eye on 2028, Vance seeks to inherit Trump\u2019s base and shed his baggage Sign up now: Get ST's newsletters delivered to your inbox Vice-President J.D. Vance is viewed as a leading potential contender in 2028. PHOTO: REUTERS Published Nov 07, 2026, 07:03 PM Updated Nov 07, 2026, 09:18 PM Set as preferred source Listen Summarise Vice-President J.D. Vance is using the midterm election to build his own brand and distance himself from President Donald Trump\u2019s signature issues. He blamed the Iran war and high oil prices for Republican losses in the midterm, then called for ending the conflict. Vance is seen as a possible 2028 contender who may inherit Trump\u2019s voters, but he still faces the challenge of keeping the MAGA base while avoiding Trump\u2019s baggage. AI generated WASHINGTON \u2013 Late in his blitz to salvage Republicans\u2019 midterm fortunes, US Vice-President J.D. Vance shifted strategy. He talked less about President Donald Trump and more about the issues that define his own political identity. Vance argued the case for Republicans, who lost control of Congress in the Nov 3 vote , almost exclusively through the lens of his policy portfolio.",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 3044
   },
   "b4620fbac796035d8bd74eea1b8ef0fdc8af0d73cd8365ad5b63afa19327c629": {
     "access_status": "available",
@@ -87038,6 +87350,30 @@
     ],
     "word_count": 1435
   },
+  "cf54b35a32afc4da64f9a83087ab3d5c68e7b905694df5f373e5ce0fbd6cc98f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026 Published Nov 08, 2026, 10:50 AM TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026 The issuer is solely responsible for the content of this announcement. Press release TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026 Published Nov 08, 2026, 10:50 AM TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026 The issuer is solely responsible for the content of this announcement. Press release TCL CSOT to Explore the Future of Displays in the AI Era at DTC 2026 Published Nov 08, 2026, 10:50 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 164
+  },
   "cf5b713983f08886b8e07ac410c6cd5705b0f6d3f6ffde0f5c0829836ef46046": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -91801,6 +92137,33 @@
     ],
     "word_count": 16407
   },
+  "d9d9105812c006960bd99133a91c92eb2a88fa58727d0d6169896b86eebc6ddc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: IntentWeaver: Sustaining Coherence across Evolving Intents in Human\u2013AI Co-Writing CCS: Human-centered computing Interactive systems and tools CCS: Human-centered computing Empirical studies in HCI Yuanhao Zhang email: yzhangiy@connect.ust.hk Affiliation: The Hong Kong University of Science and Technology , Hong Kong , China , Xinru Cheng email: chengxinru0313@gmail.com Affiliation: Peking University , Beijing , China , Baiqiao Zhang email: bzhangcw@connect.ust.hk Affiliation: The Hong Kong University of Science and Technology , Hong Kong , China , Xinqi Zhang email: xzhang22@scu.edu Affiliation: Santa Clara University , Santa Clara , California , United States , Assem Zhunis email: azhunis@connect.ust.hk Affiliation: The Hong Kong University of Science and Technology , Hong Kong , China , Shuai Ma email: mashuai@iscas.ac.cn Affiliation: Institute of Software, Chinese Academy of Sciences , Beijing , China and Xiaojuan Ma email: mxj@cse.ust.hk Affiliation: The Hong Kong University of Science and Technology , Hong Kong , China \u00a9 none Figure 1 . Conventional tools (left) treat intent as a specification before generation, so nothing registers when lower-level intents and texts drift from the higher-level ones they were meant to serve. IntentWeaver (right) derives the intent graph from each draft instead, keeping the whole hierarchy...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 30845
+  },
   "d9de5b2782c956e846fc276e4fab4fabb17086cb1a0f8661d78a47961d0c353d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -92073,6 +92436,37 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3282
+  },
+  "da508e601569010db9ab3ba66d68aaf55ad63a2ebc429bbda7ff6449431fe4ff": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems Chandler Smith \u2020 \u2020 thanks: Equal contribution. Affiliation: University of Oxford Affiliation: Cooperative AI Foundation Qi Guo * Affiliation: Cooperative AI Foundation Affiliation: Allelo Cecilia Elena Tilli Affiliation: Allelo Sophia Hatz Affiliation: Uppsala University David Demitri Africa Affiliation: UK AI Security Institute Patricia Paskov Affiliation: AVERI Christian Schroeder de Witt Affiliation: University College London Affiliation: University of Oxford Philip Torr Affiliation: University of Oxford Lewis Hammond \u2020 \u2020 thanks: Correspondence to lewis.hammond@cooperativeai.org . Affiliation: Cooperative AI Foundation Abstract The deployment of AI agents in multi-agent settings enables inter-agent influence, whereby agents can strategically steer each other\u2019s behaviour towards an intended outcome. Such capabilities pose novel risks, as malicious agents could direct others towards harmful actions. In this work we investigate three such capabilities \u2013 persuasion, deception, and coercion \u2013 across five realistic evaluation environments and a variety of agents instantiated with frontier language models. We observed significant inter-agent influence capabilities; in oversight environments, all tested models shifted overseer decisions...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "identity"
+    ],
+    "word_count": 64429
   },
   "da7d785b87c74b9acaacc141b97fd877be762c5bf280ae24dc27635d8623ea14": {
     "access_status": "available",
@@ -93837,6 +94231,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 702
+  },
+  "df71b79e844036a6722370c09d3f6e423066c1519c07986803316cc3121ff80f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nasdaq rebounds but posts fourth straight weekly decline Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange, in New York City, on Nov 6. PHOTO: REUTERS Published Nov 07, 2026, 05:46 AM Updated Nov 07, 2026, 05:46 AM Set as preferred source Listen Summarise Technology shares rebounded on 6 November, led by semiconductors and Nvidia, but the Nasdaq still fell for a fourth straight week as investors weighed the AI trade. Strong October US payrolls and a 4.1% jobless rate raised bets on a December Fed rate rise, even as traders warned higher rates could hit a shaky market. Analysts said AI remains the key market theme, with recent selling seen as a buying chance; copper strength also suggests data centre demand is still holding up. AI generated NEW YORK - Technology stocks bounced back on Nov 6 from their worst drubbing in more than a year, but the Nasdaq Composite Index posted a fourth consecutive weekly decline as investors sifted for clues about what comes next in the AI trade. Gains within technology were broadly shared, with the semiconductor index rallying and Nvidia, Advanced Micro Devices and Sandisk rebounding. The broad revival underscores investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year, despite a shakeout that began with a US long-term Treasury...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2116
   },
   "df80a10c8d4c556013affdaf50a699ed3b22fef1880e4cfb3f63fe04dc4d83be": {
     "access_status": "available",
@@ -95635,6 +96053,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1111
+  },
+  "e36299f4cbf6b28a4d95379c376ca2dcfc847c9e2525eb4430f88dd07c8386f2": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 6, 2026 Sign in to Cloudflare Access with passkeys Access Cloudflare One Copy as Markdown | View as Markdown | Agent setup Cloudflare Access supports passkeys as a login method for protected applications and the App Launcher. Users can sign in with a passkey saved on their device, security key, or password manager instead of entering a one-time PIN or configuring an identity provider. Users verify their identity with an existing login method once before enrolling a passkey. Administrators choose which applications accept passkeys and can remove a user's registered passkeys. Access policies still determine whether a user can access an application. For setup and enrollment instructions, refer to Passkeys . November 6, 2026 Sign in to Cloudflare Access with passkeys Access Cloudflare One Copy as Markdown | View as Markdown | Agent setup Cloudflare Access supports passkeys as a login method for protected applications and the App Launcher. Users can sign in with a passkey saved on their device, security key, or password manager instead of entering a one-time PIN or configuring an identity provider. Users verify their identity with an existing login method once before enrolling a passkey. Administrators choose which applications accept passkeys and can remove a user's registered passkeys.",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 323
   },
   "e3722f128786ad338010e6d2aa013e0595c1e631edd8f870d015064a39ed345c": {
     "access_status": "available",
@@ -99018,6 +99462,30 @@
     ],
     "word_count": 1262
   },
+  "ed41bea95b8638f9d3b052f3aab010a5d4db0b29f9c868d4393b03497b6b0104": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Mary Peltola campaign sues Alaska to get records on rejected absentee ballots Sign up now: Get ST's newsletters delivered to your inbox Democratic US Senate candidate Mary Peltola and Republican incumbent Senator Dan S. Sullivan remain locked in a close contest for the seat, with about 600 votes separating them. PHOTO: ERUN SCHAFF/NYTIMES Published Nov 07, 2026, 12:09 PM Updated Nov 07, 2026, 12:14 PM Set as preferred source Listen Summarise Mary Peltola\u2019s campaign sued Alaska election officials on Nov 6 to force release of records on rejected absentee ballots in the close US Senate race. About 600 votes separate Peltola and Senator Dan Sullivan, with ballots still arriving from remote areas and the count continuing until Nov 18. The state says the records are confidential and releasing them could slow ballot processing. Peltola\u2019s team says the delay blocks oversight and may hide improper rejections. AI generated ANCHORAGE, Alaska \u2013 The campaign of Democratic US Senate candidate Mary Peltola of Alaska sued state election officials on Nov 6 seeking the immediate release of records identifying absentee ballots that were rejected in Nov 3\u2019s voting. Peltola and the Republican candidate, incumbent Senator Dan S. Sullivan, remain locked in a close contest for the seat, with about 600 votes separating them as ballots from remote areas in the sprawling state were still being counted....",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1771
+  },
   "ed4837808a7cd42b2fd3e4af0e4d3086120ad4195426c3c438022dafaa4fe442": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -99604,6 +100072,30 @@
       "fraud"
     ],
     "word_count": 1100
+  },
+  "ee91aa129284ddde33b3d689e3057474a1c8a6ed3597080f1c7a9a779c0f18a6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "NCS programme doubles reach, bringing AI and coding skills to more lower-income pupils Sign up now: Get ST's newsletters delivered to your inbox The programme aims to bridge the digital divide by giving children from lower-income families early exposure to technology and foundational digital skills. PHOTO: ST FILE Jean Wee Published Nov 05, 2026, 07:35 PM Updated Nov 05, 2026, 10:10 PM Set as preferred source Listen Summarise \u4e2d\u6587 NCS gave more than 130 lower-income primary pupils hands-on lessons in AI, coding and robotics at its largest N-Able Me! event in Ang Mo Kio. The programme used workshops, a Micro:bit coding session, AI character design and robotics to make learning fun and build basic digital skills. NCS said the aim is to bridge the digital divide, with partners including MSF, ComLink+, Yayasan MENDAKI and STSPMF supporting wider access to tech education. AI generated SINGAPORE \u2013 More than 130 primary school pupils from lower-income families got hands-on exposure to artificial intelligence, coding and robotics at a workshop, as tech services company NCS more than doubled the reach of its flagship programme in its fourth year. The Primary 3 to 6 pupils attended the workshop at the NCS Hub in Ang Mo Kio on Oct 31. The event marked the largest edition of N-Able Me!, NCS\u2019 flagship corporate social responsibility initiative. The programme aims to bridge the digital divide...",
+    "cache_version": 10,
+    "checked_at": "2026-11-08T05:55:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1991
   },
   "eea70fb7a4a2b17aa16a972363c9dbf782bb6d8e85c55ce35b83c27d4d133f52": {
     "access_status": "available",
