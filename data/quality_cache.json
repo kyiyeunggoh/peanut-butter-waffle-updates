@@ -2488,6 +2488,32 @@
     ],
     "word_count": 13968
   },
+  "0602342a72375ead85baad2081e2d389c4b85e0c43146fbb82d7e5fa4a1fb3ad": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "\u2018Trump has cost us\u2019: After midterm losses, MAGA asks if it\u2019s over Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump campaigns ahead of midterm elections in Texas on Oct 7. PHOTO: REUTERS Published Nov 08, 2026, 07:08 PM Updated Nov 08, 2026, 09:34 PM Set as preferred source Listen Summarise MAGA faces a crisis after Republicans\u2019 heavy midterm losses, with supporters blaming Trump for broken promises on costs, the Iran war and corruption. Trump answered by promoting Stephen Miller, which pleased hardline backers but deepened doubts about whether MAGA can survive without Trump. Election denial has faded, and many activists now want a reset; some say MAGA must rebuild, while others call it \u201cdead\u201d or \u201cstale\u201d. AI generated DALLAS \u2013 As Republicans faced a nationwide drubbing in the Nov 3 midterm elections, supporters streamed out of a Dallas ballroom where they had hoped to toast a win for US Senate candidate Ken Paxton, a favourite of President Donald Trump. In the hotel bar, Michael Little, a 59-year-old businessman and three-time Trump voter, stared at the president\u2019s image on a television screen. \u201cPeople are pissed off at Trump. Trump has cost us,\u201d he said, capturing a sentiment rippling through the president\u2019s Make America Great Again (MAGA) movement after the Republican Party\u2019s worst electoral defeat in decades. Across the coalition, some...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 6782
+  },
   "061a1400b41e1dda00e0e129551acf62ca18f77fb0f180acc85ca6844e2b26cb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2724,9 +2750,9 @@
   "06ba37760e5d7778e419d9a80fd3afc90654f1bdb76268e78b466615be7045a8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Limits & pricing Last updated Oct 30, 2026 | Copy as Markdown | View as Markdown | Agent setup Limits The following limits apply based on your Workers plan : Limit Workers Free Workers Paid AI Search instances per account 100 Unlimited, with a default limit of 5,000. Each instance above 5,000 costs $0.10 per month . Namespaces per account 100 100 Files per instance 100,000 1M or 500K for hybrid search Pages per crawl, discover parse type 100,000 100,000 Maximum PDF file size with OCR enabled 10 MiB 10 MiB Maximum plain-text or code file size 10 MiB 10 MiB Maximum size for PDFs without OCR and other file formats 4 MiB 4 MiB Included semantic queries per month 1,000 1,000 Included full-text queries per month 1,000 1,000 Instances per cross-instance search request 10 10 Maximum pages crawled per day 500 Unlimited Max custom metadata fields 5 per AI Search instance 5 per AI Search instance Metadata per vector 10 KiB total, including system overhead 10 KiB total, including system overhead Filterable indexed string data First 64 UTF-8 bytes per string First 64 UTF-8 bytes per string Website crawling is bounded by several of these limits at once. A discover crawl accepts up to 100,000 pages, but the files per instance and maximum pages crawled per day limits also apply, so the number of pages you end up with is whichever of those values is lowest. On Workers Free, the daily limit of...",
+    "article_excerpt": "Limits & pricing Last updated Nov 2, 2026 | Copy as Markdown | View as Markdown | Agent setup Limits The following limits apply based on your Workers plan : Limit Workers Free Workers Paid AI Search instances per account 100 Unlimited, with a default limit of 5,000. Each instance above 5,000 costs $0.10 per month . Namespaces per account 100 100 Files per instance 100,000 1M or 500K for hybrid search Pages per crawl, discover parse type 100,000 100,000 Maximum PDF file size with OCR enabled 10 MiB 10 MiB Maximum plain-text or code file size 10 MiB 10 MiB Maximum size for PDFs without OCR and other file formats 4 MiB 4 MiB Included semantic queries per month 1,000 1,000 Included full-text queries per month 1,000 1,000 Instances per cross-instance search request 10 10 Maximum pages crawled per day 500 Unlimited Max custom metadata fields 5 per AI Search instance 5 per AI Search instance Metadata per vector 10 KiB total, including system overhead 10 KiB total, including system overhead Filterable indexed string data First 64 UTF-8 bytes per string First 64 UTF-8 bytes per string Website crawling is bounded by several of these limits at once. A discover crawl accepts up to 100,000 pages, but the files per instance and maximum pages crawled per day limits also apply, so the number of pages you end up with is whichever of those values is lowest. On Workers Free, the daily limit of...",
     "cache_version": 10,
-    "checked_at": "2026-11-01T05:56:30+00:00",
+    "checked_at": "2026-11-09T06:13:59+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -2743,7 +2769,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1732
+    "word_count": 1699
   },
   "06c1d9076f5b4f3cc801b7be15c49e2edf15028e72b96f9338329d120de78345": {
     "access_status": "available",
@@ -3833,9 +3859,9 @@
   "095642c73e04279b32692b8cd38d4037981e1d10a27ebc2e03c58d789a2e662b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "South Korea to double spending on AI and chips in 2027 Sign up now: Get insights on Asia's fast-moving developments South Korean President Lee Jae Myung delivers a budget speech for 2027 at the National Assembly in Seoul on Nov 2. PHOTO: AFP Published Nov 02, 2026, 10:33 AM Updated Nov 02, 2026, 12:15 PM Set as preferred source Listen Summarise South Korea will nearly double AI and chip spending in 2027 to 21.3 trillion won, or US$16 billion, President Lee Jae Myung said in Parliament. The money will fund semiconductors, physical AI and AI data centres, plus 4.7 trillion won for frontier AI projects and a national model. The 2027 budget is a record 821 trillion won, up 12.8%, with defence also rising to 73.3 trillion won for AI-led military upgrades. AI generated SEOUL \u2013 South Korea will double spending on artificial intelligence and semiconductors in 2027 to a record high, President Lee Jae Myung said on Nov 2, pledging to use the technology to turn the country\u2019s military into a \u201csmart, elite force\u201d. President Lee in his annual budget speech to Parliament said 21.3 trillion won (S$20.5 billion) would be allocated to chipmaking and AI, spanning data centres to robotics. \u201cWe will make bold investments in AI and future growth engines to boost our economy\u2019s growth potential,\u201d he said , adding that the figure was \u201cnearly double 2026\u2019s amount\u201d. On the defence budget, the government...",
+    "article_excerpt": "South Korea to double spending on AI and chips in 2027 Sign up now: Get insights on Asia's fast-moving developments South Korean President Lee Jae Myung delivering his budget speech for 2027 at the National Assembly in Seoul on Nov 2. PHOTO: AFP Published Nov 02, 2026, 10:33 AM Updated Nov 02, 2026, 02:03 PM Set as preferred source Listen Summarise South Korea will nearly double AI and chip spending in 2027 to 21.3 trillion won, or US$16 billion, President Lee Jae Myung said in Parliament. The money will fund semiconductors, physical AI and AI data centres, plus 4.7 trillion won for frontier AI projects and a national model. The 2027 budget is a record 821 trillion won, up 12.8%, with defence also rising to 73.3 trillion won for AI-led military upgrades. AI generated SEOUL \u2013 South Korea will double spending on artificial intelligence and semiconductors in 2027 to a record high, President Lee Jae Myung said on Nov 2, pledging to use the technology to turn the country\u2019s military into a \u201csmart, elite force\u201d. Lee, in his annual budget speech to Parliament, said 21.3 trillion won (S$20.5 billion) would be allocated to chipmaking and AI, spanning data centres to robotics. \u201cWe will make bold investments in AI and future growth engines to boost our economy\u2019s growth potential,\u201d he said, adding that the figure was \u201cnearly double 2026\u2019s amount\u201d. On the defence budget, the government...",
     "cache_version": 10,
-    "checked_at": "2026-11-02T05:56:34+00:00",
+    "checked_at": "2026-11-09T06:13:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -3852,7 +3878,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2040
+    "word_count": 2046
   },
   "09611b57be56dcd22639f965d8a1e8bf34bea7267d828fb6be57d41c093699c6": {
     "access_status": "available",
@@ -5818,6 +5844,30 @@
     ],
     "word_count": 27383
   },
+  "0e87eda90ff9ad280104485d88ebe2e378b2a7b504c00b0b94342835f26d4db7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia\u2019s out-of-hour shares fall as firm probes CEO Jensen Huang Sign up now: Get ST's newsletters delivered to your inbox The internal probe followed a media report that Jensen Huang had a close relationship with a Chinese businesswoman who allegedly passed information to Beijing. PHOTO: AFP Published Nov 09, 2026, 01:55 PM Updated Nov 09, 2026, 01:55 PM Set as preferred source Summarise Nvidia shares fell after an internal probe into CEO Jensen Huang over claims of a foreign intelligence link. The review has raised questions about his future, Reuters reported. Huang told staff he had been unfaithful to his wife. The New York Times said he had a relationship with Alice Huang, who US authorities later linked to Chinese intelligence. The fallout reached South Korea, where Madison Huang cancelled a planned visit. Analysts said a long probe could delay Nvidia decisions, but key chip suppliers and GPU deliveries should stay on track. AI generated SEOUL \u2013 Nvidia shares fell in out-of-hours trading on Nov 9 after an internal investigation into whether chief executive Jensen Huang had been targeted by a foreign intelligence effort put his future at the AI chipmaker under scrutiny. The internal probe followed a media report that Huang had a close relationship with a Chinese businesswoman who allegedly passed information to Beijing. Huang told Nvidia\u2019s employees that he had been...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2990
+  },
   "0eb30b832fe361020326f54c13198d73a439cae038cc5c5664ca6677eacbeb9a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7405,6 +7455,30 @@
       "identity"
     ],
     "word_count": 19319
+  },
+  "11e33e07ec3d92b2d36c4e5e652ffe08f854fa491f820854165e338f954d5295": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 4, 2026 Route across a pool of models with model aliases AI Gateway Copy as Markdown | View as Markdown | Agent setup AI Gateway now supports model aliases. A model alias is a pool of models that your application calls by one name, such as custom/support-fast . AI Gateway tries the models in the order you set and falls back to the next one if a request fails, or uses smart routing to choose a model for each request. Because your application only references the alias, you can swap models or change the routing algorithm on your gateway without redeploying. Create and manage aliases on your gateway's Routing page, alongside dynamic routes. To call an alias through the REST API , use its name as the model . For example, send this body to /accounts/{account_id}/ai/run : { \"model\" : \"custom/support-fast\" , \"input\" : { \"messages\" : [{ \"role\" : \"user\" , \"content\" : \"Reply with a short greeting.\" }] } } Include the cf-aig-gateway-id header to select the gateway where you created the alias. Aliases are scoped to individual gateways. For setup instructions and routing options, refer to Model aliases . November 4, 2026 Route across a pool of models with model aliases AI Gateway Copy as Markdown | View as Markdown | Agent setup AI Gateway now supports model aliases.",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:57+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 518
   },
   "11ef4e135a83f5d984ac93ffa37bc71df269a42cd32d3ff17f1cba59ca231322": {
     "access_status": "available",
@@ -20728,6 +20802,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "335770a71aa981da894cd8daa878dc5bd3c92082de251fa320827c703d760bb2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump says he wants UFC chief Dana White for White House press secretary Sign up now: Get ST's newsletters delivered to your inbox Dana White, chief executive of the Ultimate Fighting Championship, is a \u201cviolent Fighter and Warrior\u201d, US President Donald Trump wrote in a Truth Social post. PHOTO: REUTERS Published Nov 08, 2026, 04:03 AM Updated Nov 08, 2026, 08:41 PM Set as preferred source Listen Summarise Trump said he asked UFC chief Dana White to become White House press secretary and bring several fighters as assistants, including some from Russia, Brazil and the US. White reportedly declined the offer, while the press secretary post stays open after Katie Zacharia left after less than a week and Karoline Leavitt left in August. The move reflects Trump\u2019s close ties with White and the UFC, built over years of support and regular event visits, with Steven Cheung already in the White House press office. AI generated WASHINGTON \u2013 US President Donald Trump on Nov 8 said he had asked mixed martial arts promoter Dana White to serve as White House press secretary and called on him to bring some fighters along as assistants \u201ceven though some are not from our country\u201d. White, chief executive of the Ultimate Fighting Championship (UFC), is a \u201cviolent fighter and warrior\u201d, Trump wrote in a Truth Social post. He asked for six current or former UFC titleholders to join White, including...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1478
+  },
   "335c776134f695bef4ca5a544fab9d1dfbdee29278125f582cfc104f04d4fddd": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -29752,6 +29850,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "47e31af86125073e6bf0de71d6e8a48dafbb1370f803d3fe64da9903a0f4f7f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Special master\u2019 named for ethics probe in lawsuit over Trump\u2019s Washington golf project Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump\u2019s plan to transform the East Potomac links into a \u201cworld class\u201d golf course is part of a broader effort to leave his architectural stamp on Washington. PHOTO: REUTERS Published Nov 08, 2026, 11:51 AM Updated Nov 08, 2026, 11:51 AM Set as preferred source Summarise A judge appointed Jessie Liu as special master to investigate possible ethics breaches by Justice and Interior lawyers in Trump\u2019s golf course case. The probe follows concerns that officials misled the court about Trump\u2019s plan to restart work on East Potomac Golf Links despite a temporary block. The lawsuit says the renovation of the historic Washington course breaks environmental laws and a preservation act, while the Interior Department attacked the judge\u2019s ruling. AI generated WASHINGTON - A judge said on Nov 7 she would appoint a former top federal prosecutor to investigate whether Trump administration lawyers committed ethical violations in their defence of President Donald Trump\u2019s plans to close and renovate a historic public golf course in Washington. US District Judge Ana Reyes named Jessie Liu, former US attorney for the District of Columbia, as a \u201cspecial master\u201d to investigate the conduct of the departments of Justice and Interior during...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1537
+  },
   "4813995603e1b97660975be9553fd7fa0ca92390c60820e8847901807092a16d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34607,6 +34729,51 @@
       "fraud"
     ],
     "word_count": 2297
+  },
+  "5321641e4139ad73261a706267a7b2cf0768ae79d2296f0e1552e8f7fce684f3": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection Chirantan Banerjee, Soumita Chatterjee, Bhargab B. Bhattacharya and Hafizur Rahaman Affiliation: Indian Institute of Engineering Science and Technology, Shibpur, India Abstract Advances in real-time voice cloning and neural vocoders have enabled large-scale streaming deepfake and vishing attacks, while simultaneously exposing voice communication systems to denial-of-service threats. Existing Network Detection and Response (NDR) solutions rely on computationally intensive, GPU-based post-processing techniques that require buffered audio and exhibit limited robustness against unseen speech synthesis models. This paper presents SENTRY , a hardware-oriented, streaming trust engine for inline deepfake detection at the network edge. SENTRY employs an integer lifting-wavelet front end together with a bank of multiplier-free transforms, including wavelet-packet envelopes, Walsh\u2013Hadamard sequency profiles, waveform micro-statistics, and long-term spectral features, designed so that acoustic analysis needs only integer add, shift, compare and bitwise operations. A supervised gradient-boosted tree classifier is combined with an unsupervised Mahalanobis out-of-distribution detector trained solely on authentic speech, and their outputs are fused through a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "voice clone"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "trust"
+    ],
+    "word_count": 10194
   },
   "532f35c2d13c9b85e8e0404a00f5509f3295f9c9699c1e845f2d2f1d9a8f81ba": {
     "access_status": "available",
@@ -55023,9 +55190,9 @@
   "812d5b889f09fb94301a7e4906159b83248bd9db48bb1a1eaaca0bdc54b152f3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "robots.txt setting Last updated Oct 22, 2026 | Copy as Markdown | View as Markdown | Agent setup AI companies use crawlers to collect website content for training language models, generating search answers, and other purposes. A robots.txt file at the root of your domain tells these crawlers which content they should or should not access. Bot Preference Sync generates managed robots.txt directives from your Search, Agent, and Training policies when at least one policy is set to Block , Block on pages with ads , or, for Training, Disallow . robots.txt compliance is voluntary. The file expresses your preferences, but it does not prevent crawlers from accessing your content at a technical level. Some crawler operators may disregard your robots.txt directives (instructions like Disallow: / ) and crawl your content regardless. Compatibility with existing robots.txt files Cloudflare detects whether your origin server already has a robots.txt file and adjusts accordingly \u00e2\u0080\u0094 either merging with your existing file or creating one from scratch. Existing robots.txt file If your website already has a robots.txt file \u00e2\u0080\u0094 verified by an HTTP 200 response \u00e2\u0080\u0094 Cloudflare will prepend our managed robots.txt before your existing robots.txt , combining both into a single response. For example, without this feature enabled, the robots.txt content of crawlstop.com would be: Feature not enabled...",
+    "article_excerpt": "robots.txt setting Last updated Nov 2, 2026 | Copy as Markdown | View as Markdown | Agent setup AI companies use crawlers to collect website content for training language models, generating search answers, and other purposes. A robots.txt file at the root of your domain tells these crawlers which content they should or should not access. Bot Preference Sync generates managed robots.txt directives from your Search, Agent, and Training policies when at least one policy is set to Block , Block on pages with ads , or, for Training, Disallow . robots.txt compliance is voluntary. The file expresses your preferences, but it does not prevent crawlers from accessing your content at a technical level. Some crawler operators may disregard your robots.txt directives (instructions like Disallow: / ) and crawl your content regardless. Compatibility with existing robots.txt files Cloudflare detects whether your origin server already has a robots.txt file and adjusts accordingly \u00e2\u0080\u0094 either merging with your existing file or creating one from scratch. Existing robots.txt file If your website already has a robots.txt file \u00e2\u0080\u0094 verified by an HTTP 200 response \u00e2\u0080\u0094 Cloudflare will prepend our managed robots.txt before your existing robots.txt , combining both into a single response. For example, without this feature enabled, the robots.txt content of crawlstop.com would be: Feature not enabled txt...",
     "cache_version": 10,
-    "checked_at": "2026-11-02T05:56:33+00:00",
+    "checked_at": "2026-11-09T06:13:52+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -55042,7 +55209,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2745
+    "word_count": 2757
   },
   "813f2a2ecba46593aad294da4563efa8e432f3082d01b0433b60b9b693a6f176": {
     "access_status": "available",
@@ -56973,6 +57140,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "860220df8ade46a5aee685d8d3d1fb5e3898e3d6e996764970e1d6696621b6c9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The results have sent some corners of the tech industry looking to the heavens for answers. In recent hours, data center enthusiasts have proclaimed on social media that they\u2019re still \u201c bullish \u201d on building data centers\u2014just not necessarily in Texas, or even on Earth at all. Instead, they say, it\u2019s time to focus on data centers in space. Elon Musk\u2014who spent more than $400 million of his fortune supporting Republican candidates who all went on to lose their midterms races\u2014has been among those leading the charge. \u201cData centers in space looking pretty appealing right now,\u201d Musk posted on X in the early hours of Wednesday, after it was clear that Democrats had taken the House and Senate. Jordan Lasker\u2014 the man behind the X account \"Cr\u00e9mieux,\u201d which is a popular follow in the tech world and is known for posting race-based pseudoscience\u2014also weighed in, saying , \u201cData centers in space are an incredible idea and anyone who doubted them didn't think enough about tonight's election results.\u201d Throughout the day, Musk employees , tech investors , AI researchers , venture capitalists , and industry fans joined the chorus of support for space-based data centers. Soham Mehta, a research fellow at the techno-optimist think tank Foundation for American Innovation, argued that ocean-based data centers should also be considered. (In June, China began operating what it claims is the world\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2853
+  },
   "861629879acf820d940008c8c7fa21e65eb43b5bc3e8650cef226a918a1c1c86": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -57768,6 +57959,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "88320d8bacff6ba566e2a462bd53c56011265453e59d65f8452fb5981885b75c": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Passkeys Last updated Nov 6, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare Access supports passkeys as a login method. Users can sign in with a passkey instead of entering a password or one-time PIN (OTP). Passkeys use WebAuthn to authenticate users with a device, security key, or password manager. The authenticator must support discoverable credentials and user verification, such as a fingerprint, face scan, or PIN. Set up passkeys If Passkeys is already listed under Identity providers , select it to review its settings. Otherwise, add it: In the Cloudflare dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e , go to Zero Trust > Integrations > Identity providers . Go to Identity providers \u2197 Select Add an identity provider . Select Passkeys . (Optional) Turn on Automatically prompt on the login page to open the browser's passkey prompt for returning users when they open the login page. Select Save .",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 1959
   },
   "884b47a3d74bb324dec8f6427317b139e5d5cd517113c533b49dca16d8e9075b": {
     "access_status": "available",
@@ -62007,6 +62225,30 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "93811f4ef62e3df08659bc26cdb3031cf287a5fa2a5e34ea00f62c35cbb47839": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "93c40b80eda8d19989750c0fed933bfd1156e160fdd97ef68a238b82937aa096": {
     "access_status": "available",
@@ -73330,16 +73572,12 @@
   },
   "ad900b7c3e600821680cb29f53180a89650479d2662051d28c190e36fa984162": {
     "access_status": "available",
-    "anti_scam_relevance": "direct",
-    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 681 posts Behind The Blog Behind the Blog: Early Birthday Reflections This week, we discuss our party and panel coming up, and do some light reminiscing. Jason Koebler , Joseph Cox , Emanuel Maiberg , Samantha Cole \u00b7 Aug 21, 2026 Podcast Podcast: Amazon is Destroying Rare Books to Train AI Amazon buying and destroying rare books to train AI; a bunch of wild AI use in the courts; and Meta's new patent for its AI smart glasses. Joseph Cox \u00b7 Aug 19, 2026 Flock The National Park Service Is Using Flock. Rangers Are Pissed \u201cI fear for the day when a visitor's National Park experience is interrupted by being pulled over and held at gunpoint because a license plate reader misread their plate.\u201d Joseph Cox \u00b7 Aug 18, 2026 Behind The Blog Behind the Blog: Endless Scam Parade This week, we discuss the mainstreaming of Flock, media appearances, and Spotify's AI move. Jason Koebler , Joseph Cox , Emanuel Maiberg \u00b7 Aug 14, 2026 Privacy Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party A new Meta patent published Thursday says a system, like its AI glasses, would use facial recognition to identify people, create a series of video...",
-    "cache_version": 9,
-    "checked_at": "2026-08-25T01:51:06+00:00",
-    "direct_relevance_terms_found": [
-      "scam"
-    ],
-    "direct_scam_relevance_terms_found": [
-      "scam"
-    ],
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Joseph Cox Joseph is an award-winning investigative journalist focused on generating impact. His work has triggered hundreds of millions of dollars worth of fines, shut down tech companies, and much more. 740 posts Behind The Blog Behind the Blog: Dam's Bursting This week, we discuss election outcomes and code as a human endeavor. Samantha Cole , Jason Koebler , Joseph Cox \u00b7 Nov 6, 2026 Podcast Podcast: Proton\u2019s CEO Is Putting AI Before Security Inside Proton's AI reckoning, the AO3 outage, and why we're not tech support. Joseph Cox \u00b7 Nov 5, 2026 Newsletters An AI Fraud Kingpin\u2019s Confessions An AI fraud kingpin\u2019s rise and fall; voters rejected data centers; and a new fear unlocked. Joseph Cox \u00b7 Nov 5, 2026 Features The Confessions of an AI Fraud Kingpin Yuriy Nazarenko created \u2018OnlyFake\u2019, a site that let anyone churn out realistic fake IDs with AI. Then the North Koreans came knocking. Joseph Cox \u00b7 Nov 5, 2026 AI World of Warcraft: Forever Is Already Overrun with AI Slop The vibe-coded addon problem is getting so bad that Warcraft Logs is changing its API and developers are dealing with theft of their work. Joseph Cox \u00b7 Nov 3, 2026 Impact Proton\u2019s CEO Cancels AI \u2018Re-Interviews\u2019 The move came after 404 Media published an investigation into how Proton CEO Andy Yen was aggressively pushing AI across Proton despite security concerns and the culture of fear he has created. Joseph...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
@@ -73350,13 +73588,13 @@
     "research_relevance_score": null,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [
-      "scam"
-    ],
+    "strong_scam_anchor_terms_found": [],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [],
-    "word_count": 548
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 455
   },
   "ad93eb40c468abc3c976baa2815c64f5c973c9caf72c1bbe2947e4efce1b13de": {
     "access_status": "available",
@@ -74609,9 +74847,9 @@
   "b05968aab122aeba015d5f0538e0e2cb774a95dc072547a8d8198de6152715e7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Branded Content Retirement, wealth and AI: What a changing Asia means for investors As Wellington Management marks three decades in Singapore, APAC head Janet Perumal reflects on how the region\u2019s investors are evolving \u2013 and why staying close to clients remains critical to navigating what comes next Since opening in Singapore in 1996, Wellington Management has expanded across Asia-Pacific, connecting clients in the region to its global investment platform. PHOTO: GETTY IMAGES Published Nov 02, 2026, 04:00 AM Set as preferred source For investors in Asia, the market environment is becoming harder to navigate. Geopolitical uncertainty, persistent inflation and greater dispersion across markets are making research, selectivity and disciplined decision-making more important. At the same time, structural shifts \u2013 from generational wealth transfer to retirement reform, private-market access and artificial intelligence \u2013 are reshaping what investors need from their portfolios. Janet Perumal, Wellington Management\u2019s head of Asia-Pacific (APAC), head of Investments for APAC and head of the Singapore office, says that in an environment where information is abundant, the advantage lies in having the deep insights to know what to make of it. That is where active investing can become more relevant. Rather than simply tracking a market, active managers choose where to allocate capital \u2013 and...",
+    "article_excerpt": "Branded Content Retirement, wealth and AI: What a changing Asia means for investors As Wellington Management marks three decades in Singapore, APAC head Janet Perumal reflects on how the region\u2019s investors are evolving \u2013 and why staying close to clients remains critical to navigating what comes next Since opening in Singapore in 1996, Wellington Management has expanded across Asia-Pacific, connecting clients in the region to its global investment platform. PHOTO: GETTY IMAGES Published Nov 02, 2026, 04:00 AM Set as preferred source Listen For investors in Asia, the market environment is becoming harder to navigate. Geopolitical uncertainty, persistent inflation and greater dispersion across markets are making research, selectivity and disciplined decision-making more important. At the same time, structural shifts \u2013 from generational wealth transfer to retirement reform, private-market access and artificial intelligence \u2013 are reshaping what investors need from their portfolios. Janet Perumal, Wellington Management\u2019s head of Asia-Pacific (APAC), head of Investments for APAC and head of the Singapore office, says that in an environment where information is abundant, the advantage lies in having the deep insights to know what to make of it. That is where active investing can become more relevant. Rather than simply tracking a market, active managers choose where to allocate...",
     "cache_version": 10,
-    "checked_at": "2026-11-02T05:56:35+00:00",
+    "checked_at": "2026-11-09T06:13:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -74628,7 +74866,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 4474
+    "word_count": 4476
   },
   "b06c8f4c6e29ede3026ec9936c4f9226109089d18461a4dd680f739161f5927a": {
     "access_status": "available",
@@ -75924,6 +76162,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 799
+  },
+  "b3e01dddf2ccc2db5b07d767bddf62b6f651c2c05170c20e8cf0aa7434d3dedc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia probes whether CEO Jensen Huang was target of foreign spying as he admits affair Sign up now: Get ST's newsletters delivered to your inbox In a message to employees, Nvidia CEO Jensen Huang admitted to being unfaithful to his wife and took \u201cfull responsibility\u201d for his actions. PHOTO: REUTERS Published Nov 09, 2026, 05:43 AM Updated Nov 09, 2026, 10:24 AM Set as preferred source Listen Summarise Nvidia is investigating whether CEO Jensen Huang was targeted by foreign spying after a report linked him to a Chinese businesswoman and Megaspeed, which is under US scrutiny. Huang admitted he was unfaithful to his wife, said he took \u201cfull responsibility\u201d, and promised to keep leading Nvidia while cooperating with the board review. The case adds pressure on Nvidia, already hit by AI market fears, and may trigger more US congressional scrutiny over chip sales to China. AI generated SAN FRANCISCO \u2013 Nvidia said on Nov 8 it is probing whether chief executive Jensen Huang has been the target of a foreign intelligence effort , after a media report alleged he had a close relationship with a Chinese businesswoman who passed information to Beijing. Huang admitted in a message to employees that he had been unfaithful to his wife and took \u201cfull responsibility\u201d for his actions, while Nvidia said the CEO was committed to continuing to lead the company without interruption. The New York...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3036
   },
   "b3f2a06c03e2bed1fdb6b340815dcebcae9053abced63fdb4c7897b5d97cdf8c": {
     "access_status": "available",
@@ -83260,6 +83524,33 @@
     "weak_generic_terms_found": [],
     "word_count": 3093
   },
+  "c52dada4b36b3e2c36b1a6799c228fb0f31a9d497d3d6d1d72ede7a4c2f5f79b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US midterms live: Nasdaq plunges 5.5% on AI regulation fears American benchmarks suffer biggest drop since April 2025 \u00a9 AP WASHINGTON/NEW YORK -- The opposition Democratic Party has won control of the U.S. Senate and House of Representatives, according to media projections, capitalizing on widespread voter discontent over Republican President Donald Trump's policies on inflation, tariffs, AI data centers and the Iran war. In the weeks leading up to the Nov. 3 midterm elections, forecasters overwhelmingly favored the Democrats to retake the House, while the battle to regain control of the Senate was expected to be much closer. However, only hours after polls closed, Democrats flipped Republican-held Senate seats in North Carolina, South Carolina, Ohio, Texas, Kansas and Iowa, according to The Associated Press, clearing the key 51-seat threshold in the 100-seat chamber. The AP called the House for the Democrats later in the night, after the party surpassed 218 seats. In 2024 and 2022, the AP did not call control of the House until eight days after Election Day. Readers can follow Nikkei Asia's live coverage and analysis of the midterm elections at asia.nikkei.com . Follow the latest updates below (Washington time): Thursday, Nov. 5 4:20 p.m.",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3437
+  },
   "c54b1546e83f909474b327c95d2db8413a8163fc3959c96e7cf7230a4692ee61": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -84078,6 +84369,47 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 137
+  },
+  "c6b97a68e77da0e2f00942e0007dbdfc9622382432b2aa80d6afe98517f506c0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Scammers offer \u2018free\u2019 phones, then trick victims into returning them November 06, 2026 Canadian police are warning of a phone delivery scam that has cost victims more than $33,000, leaving them without their new devices but still responsible for the payments. A seemingly generous phone upgrade offer is turning into an expensive ordeal for consumers in Canada, where fraudsters are impersonating telecommunications providers to steal newly delivered smartphones. Police in British Columbia say several residents have fallen victim to the scheme, reporting combined losses exceeding $33,000 in recent weeks. The Sidney/North Saanich Royal Canadian Mounted Police (RCMP) issued a warning on Oct. 9 , describing a scam in which criminals persuade victims to accept a new phone, then trick them into shipping it directly to the fraudsters. Key points How the phone delivery scam works The scheme begins with an unsolicited phone call from someone claiming to represent a legitimate telecommunications provider. The caller offers a free upgrade, a loyalty reward, or a special deal on a new smartphone. To receive the device, the victim is asked to provide personal or account information, supposedly to update an existing subscription or establish a new one. Shortly afterward, one or more smartphones arrive at the victim's home. The delivery makes the offer seem genuine.",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:52+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 540
   },
   "c6e834ec38c7903894d2a1b2f09ec683452d266bcb52bbe89aac741ad483a5ff": {
     "access_status": "unknown",
@@ -89744,7 +90076,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Decoys, safe AI hacking help cyberdefenders counter AI-powered attacks Sign up now: Get ST's newsletters delivered to your inbox A growing number of reports in 2026 point to hackers requiring drastically less time to carry out and attempt cyberattacks. PHOTO: REUTERS Kenny Chee Published Nov 02, 2026, 05:00 AM Updated Nov 02, 2026, 12:53 PM Set as preferred source Listen Summarise \u4e2d\u6587 AI is speeding up cyberattacks, but decoys and safe AI hacking can help defenders catch attackers early and slow them down. Research from Horizon3 and Ensign InfoSecurity shows AI models often fall for decoys, while AI attacks are strongest at breaking in and weaker at later stages. Experts say firms must act faster, use AI with care and patch weaknesses quickly as attackers and defenders race at machine speed. AI generated SINGAPORE \u2013 Artificial intelligence may be helping hackers speed up cyberattacks from days and weeks to mere minutes and hours. But, for now, the \u201cgullibility\u201d of AI models makes them uniquely vulnerable to deception \u2013 a growing strategy among cyberdefenders. \u201cIf you put well-placed deception and you build the processes to react and contain the attack, you can render AI attackers completely obsolete,\u201d said cybersecurity firm Horizon3\u2019s chief executive, Snehal Antani, at a recent October media briefing. He explained that the AI systems from many leading technology companies are...",
     "cache_version": 10,
-    "checked_at": "2026-11-02T05:56:25+00:00",
+    "checked_at": "2026-11-09T06:13:53+00:00",
     "direct_relevance_terms_found": [
       "phishing site"
     ],
@@ -96589,6 +96921,30 @@
     ],
     "word_count": 33
   },
+  "e52847e5cf0ba9793e82adcceb95430ca647af8afd79435d05716b24309e0cf6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026 Published Nov 09, 2026, 09:00 AM Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026 The issuer is solely responsible for the content of this announcement. Press release Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026 Published Nov 09, 2026, 09:00 AM Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026 The issuer is solely responsible for the content of this announcement. Press release Stavian Group Showcases Its Infrastructure Vision for the AI Era at the Inaugural Fortune SEA500 Summit 2026 Published Nov 09, 2026, 09:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 174
+  },
   "e53689191e999d7cb235ea85045e63f9f12d7ab8c08bb9a52844a48efb8ed7e3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -103138,9 +103494,9 @@
   "f6187569caf24b33f0ec3d9f95479512822e4d0d67919c49385705c06e17c912": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Bot detection engines Last updated Oct 15, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare uses multiple detection engines because different bot types require different detection strategies. Simple bots can be caught by pattern matching against known signatures, while sophisticated bots require machine learning and behavioral analysis. The engines available to your domain depend on your plan. Heuristics The Heuristics engine processes all requests. Cloudflare conducts a number of heuristic checks to identify automated traffic, and requests are matched against a growing database of malicious fingerprints. JavaScript detections The JavaScript Detections (JSD) engine identifies headless browsers and other malicious fingerprints. This engine performs a lightweight, invisible JavaScript injection on the client side of any request while honoring our strict privacy standards \u00e2\u0086\u0097\u00ef\u00b8\u008e . We do not collect any personally identifiable information during the process. The JSD engine either blocks, challenges, or passes requests to other engines. JSD is completely optional.",
+    "article_excerpt": "Bot detection engines Last updated Nov 5, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare uses multiple detection engines because different bot types require different detection strategies. Simple bots can be caught by pattern matching against known signatures, while sophisticated bots require machine learning and behavioral analysis. The engines available to your domain depend on your plan. Heuristics The Heuristics engine processes all requests. Cloudflare conducts a number of heuristic checks to identify automated traffic, and requests are matched against a growing database of malicious fingerprints. JavaScript detections The JavaScript Detections (JSD) engine identifies headless browsers and other malicious fingerprints. This engine performs a lightweight, invisible JavaScript injection on the client side of any request while honoring our strict privacy standards \u00e2\u0086\u0097\u00ef\u00b8\u008e . We do not collect any personally identifiable information during the process. The JSD engine either blocks, challenges, or passes requests to other engines. JSD is completely optional.",
     "cache_version": 10,
-    "checked_at": "2026-10-20T04:43:53+00:00",
+    "checked_at": "2026-11-09T06:13:53+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -103157,7 +103513,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1696
+    "word_count": 1687
   },
   "f64b20aec4e98a2bfc04928e48a628b3ac32fc8c637285dad10b229786825caa": {
     "access_status": "available",
@@ -103893,6 +104249,35 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "f7b7df02d7b5a1e29e1fcf26caa36bb1f1d1140c78a16f307c5e725346a7cde3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure Sumaya Nur Adan Joanna Wiaterek Nourhan Abdelrhim Sydney Reis Robert F. Trager Benjamin Rosman Marina Jirotka Abstract AI evaluation is increasingly central to AI safety and governance, yet taking part in an evaluation does not by itself confer authority over its design, its execution or the resources it depends on. This paper examines how infrastructure arrangements distribute that authority, and so shape who can evaluate AI systems independently. Drawing on Science and Technology Studies, political economy and applied evaluation standards, we introduce PAAI (Power, Access, Adequacy, Independence), a framework for examining who controls evaluation infrastructure, the terms on which it is available, whether it is adequate to the evaluation\u2019s purpose and what autonomy it supports. We apply PAAI to twelve African AI evaluation projects (2022\u20132025) and to the documented roles of all ten member institutes in the three published joint testing exercises of the international network of AI Safety Institutes. We identify three recurring configurations: extractive collaboration, dependent innovation and constrained independence. African actors often contribute data, language expertise and task design while external institutions retain authority over...",
+    "cache_version": 10,
+    "checked_at": "2026-11-09T06:13:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 22800
   },
   "f7bf47c40ce7faab7b4f2d9c755b74524fa18b0bf4839f5244c3d8a12060b64c": {
     "access_status": "available",
