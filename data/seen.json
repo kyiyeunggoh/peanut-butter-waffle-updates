@@ -2842,6 +2842,20 @@
       "url": "https://www.bbc.com/news/articles/cx2kvlye1k5o",
       "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
+    "bbc.com|2026-11-03|cvp8gx41zppwo number phone police real scammers warning": {
+      "article_type": "Enforcement report",
+      "normalised_title": "warning scammers use real police phone number",
+      "normalized_title_fingerprint": "warning scammers real police phone number",
+      "original_url": "https://www.bbc.com/news/articles/cvp8gx41zppwo",
+      "parsed_date": "2026-11-03",
+      "raw_title": "Warning as scammers use real police phone number - BBC",
+      "same_story_key": "bbc.com|2026-11-03|cvp8gx41zppwo number phone police real scammers warning",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "warning scammers use real police phone number",
+      "url": "https://www.bbc.com/news/articles/cvp8gx41zppwo",
+      "usefulness_category": "Scam development"
+    },
     "bitdefender.com|2026-10-26|drop forest forests gold leave norwegians safekeeping scam": {
       "article_type": "Enforcement report",
       "normalised_title": "scammers telling norwegians drop gold forests safekeeping",
@@ -5473,6 +5487,20 @@
       "title": "woman linked cambodia based scam syndicate prince holding group charged",
       "url": "https://www.straitstimes.com/singapore/woman-linked-to-cambodia-based-scam-syndicate-prince-holding-group-to-be-charged",
       "usefulness_category": "Operational intelligence"
+    },
+    "straitstimes.com|2026-11-06|access accounts agent authorities autonomy limits personal singapore": {
+      "article_type": "News report",
+      "normalised_title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "normalized_title_fingerprint": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "original_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUlqN0R0bFlEZ0h3Sl9NYlJRdVdXVmp4NGU5Y2RSOV9PWjVNNWszQUZOQzVZZXdkQUhKblR2UE1OSGYzYm9JOEFRMkVMNmoxV2lyWDFJY21fSWRlVFkzb2VLMnZkS1UwZFhtam9YQmxrdGFrRjg4eC1QZnN1SWZCa0oxaGVXSk1pNTU0TzUyN1djbFEwM3lVekFXd2hBUFNsTEFNTmIwY29GZG90VzBHZjZxZ25mdGdtcVNNVnRyTGM?oc=5",
+      "parsed_date": "2026-11-06",
+      "raw_title": "Singapore authorities urge strict limits on AI agent autonomy, access to personal accounts - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-11-06|access accounts agent authorities autonomy limits personal singapore",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "url": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "straitstimes.com|2026-11-06|affiliates alleged cambodia cambodias group more sanctions scam": {
       "article_type": "News report",
@@ -11474,6 +11502,18 @@
       "title": "sim farm hardware seized secret service also popular ticket scalpers",
       "usefulness_category": "Scam development"
     },
+    "singapore authorities urge strict limits ai agent autonomy access personal accounts": {
+      "article_type": "News report",
+      "normalised_title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "normalized_title_fingerprint": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "parsed_date": "2026-11-06",
+      "raw_title": "Singapore authorities urge strict limits on AI agent autonomy, access to personal accounts - The Straits Times",
+      "same_story_key": "straitstimes.com|2026-11-06|access accounts agent authorities autonomy limits personal singapore",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
+    },
     "singapore cambodia police ocbc help s pore firm recover us million scammers": {
       "article_type": "Enforcement report",
       "normalised_title": "singapore cambodia police ocbc help s pore firm recover us 12 8 million scammers",
@@ -12589,6 +12629,18 @@
       "source_domain": "arxiv.org",
       "title": "visualleakbench auditing fragility large vision language models against pii leakage social engineering",
       "usefulness_category": "Research / novel method"
+    },
+    "warning scammers real police phone number": {
+      "article_type": "Enforcement report",
+      "normalised_title": "warning scammers use real police phone number",
+      "normalized_title_fingerprint": "warning scammers real police phone number",
+      "parsed_date": "2026-11-03",
+      "raw_title": "Warning as scammers use real police phone number - BBC",
+      "same_story_key": "bbc.com|2026-11-03|cvp8gx41zppwo number phone police real scammers warning",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "warning scammers use real police phone number",
+      "usefulness_category": "Scam development"
     },
     "watch source inside crypto scam slave compound hacklab": {
       "article_type": "Investigative report",
@@ -14596,6 +14648,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEFERWl1RzlDT3hJLUtvbzJ2eTVMWkViQlFtOUJmLTFTUWU3Qmtsb2tWVHl2ODY4MlR2eG55NHgxbHRROHVONGxNd0NfTmt4M2QweUtERkJSWndaeWlkelBaVXVDOWtQYlZTWTZua3FNSm40ZHotdkZsNlc3a2p2ZmxSNmNzRUgzcmxHOFFHb1dYeXYzNnR1eG1CWUdNYkJVYThr?oc=5",
       "usefulness_category": "Platform policy / product change"
     },
+    "362cba73406caac039cd50a7fd5d2469510778c969e6912bdeee18126936a2b4": {
+      "article_type": "Enforcement report",
+      "normalised_title": "warning scammers use real police phone number",
+      "normalized_title_fingerprint": "warning scammers real police phone number",
+      "parsed_date": "2026-11-03",
+      "same_story_key": "bbc.com|2026-11-03|cvp8gx41zppwo number phone police real scammers warning",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "bbc.com",
+      "title": "Warning as scammers use real police phone number - BBC",
+      "url": "https://www.bbc.com/news/articles/cvp8gx41zppwo",
+      "usefulness_category": "Scam development"
+    },
     "366963935cecb7575aa5b290d79329c4b21e52ecc9e641f5558a4568a0effaa4": {
       "article_type": "Research paper",
       "normalised_title": "phishark2026 multi layer active web raw evidence dataset phishing website research",
@@ -16071,6 +16135,18 @@
       "title": "Benchmarking Large Language Models for Zero-shot and Few-shot Phishing URL Detection - arXiv",
       "url": "https://arxiv.org/pdf/2602.02641",
       "usefulness_category": "Product idea / data source"
+    },
+    "64ce8f28dff54c4fe9e2cdb7400e2b72398fe6181ecaecf4a3fffe8332f1f3e2": {
+      "article_type": "News report",
+      "normalised_title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "normalized_title_fingerprint": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "parsed_date": "2026-11-06",
+      "same_story_key": "straitstimes.com|2026-11-06|access accounts agent authorities autonomy limits personal singapore",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Singapore authorities urge strict limits on AI agent autonomy, access to personal accounts - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRUlqN0R0bFlEZ0h3Sl9NYlJRdVdXVmp4NGU5Y2RSOV9PWjVNNWszQUZOQzVZZXdkQUhKblR2UE1OSGYzYm9JOEFRMkVMNmoxV2lyWDFJY21fSWRlVFkzb2VLMnZkS1UwZFhtam9YQmxrdGFrRjg4eC1QZnN1SWZCa0oxaGVXSk1pNTU0TzUyN1djbFEwM3lVekFXd2hBUFNsTEFNTmIwY29GZG90VzBHZjZxZ25mdGdtcVNNVnRyTGM?oc=5",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "64efd0383cbfb1237ae357a471434b68bcc1b479487bd1694adb03820d2338b3": {
       "article_type": "News report",
@@ -20451,6 +20527,18 @@
       "title": "A Fraud-Detection-Inspired Framework for LLM Agents Security",
       "url": "https://arxiv.org/html/2605.01143v2",
       "usefulness_category": "Product idea / data source"
+    },
+    "f64b20aec4e98a2bfc04928e48a628b3ac32fc8c637285dad10b229786825caa": {
+      "article_type": "News report",
+      "normalised_title": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "normalized_title_fingerprint": "singapore authorities urge strict limits ai agent autonomy access personal accounts",
+      "parsed_date": "2026-11-06",
+      "same_story_key": "straitstimes.com|2026-11-06|access accounts agent authorities autonomy limits personal singapore",
+      "sent_at": "2026-11-11T06:03:52+00:00",
+      "source_domain": "straitstimes.com",
+      "title": "Singapore authorities urge strict limits on AI agent autonomy, access to personal accounts - The Straits Times",
+      "url": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
+      "usefulness_category": "Local Singapore / Southeast Asia relevance"
     },
     "f6606dd6200967a94343af52ec8a9ce04ee0601a1c18f01da464506a114c78d2": {
       "article_type": "News report",
