@@ -3033,6 +3033,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "07436daad5960160087d6fc4ddb84e11a74c61c8f326d5b89a6a804aee75304e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Workers Bindings Last updated Nov 5, 2026 | Copy as Markdown | View as Markdown | Agent setup The AI binding ( env.AI ) lets you call AI models and access AI Gateway features directly from your Worker. For a step-by-step setup guide, refer to Set up Workers AI with AI Gateway . Configuration Add an AI binding to your Wrangler configuration file : { \"ai\" : { \"binding\" : \"AI\" , }, } [ ai ] binding = \"AI\" The binding is accessible in your Worker code as env.AI . If you're using TypeScript, run wrangler types whenever you modify your Wrangler configuration file. This generates types for the env object based on your bindings, as well as runtime types . env.AI.run() Runs an inference request through AI Gateway. Accepts Workers AI models ( @cf/ prefix) and third-party models ( {author}/{model} format). Workers AI model: const resp = await env. AI . run ( \"@cf/moonshotai/kimi-k2.5\" , { prompt: \"tell me a joke\" , }, { gateway: { id: \"default\" , // or use a specific gateway name }, }, ); const resp = await env.",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1831
+  },
   "0743f2da3e29639be3c884d10f34f595916e4ff5e43f15c9f5af75911009108d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -3633,6 +3657,30 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "08b72622a1a15b9248bbb9c295bb8f8e9baa022c4d8bae0cd662f25a0d29c848": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Field Notes from Taipei Jensen Huang affair with alleged Chinese spy sparks security concerns in Taiwan Sign up now: Get insights on Asia's fast-moving developments Nvidia CEO Jensen Huang with a woman identified as Alice Huang at a bar in Taipei in June 2024. PHOTO: REUTERS Chew Hui Min Published Nov 11, 2026, 10:00 PM Updated Nov 11, 2026, 11:29 PM Set as preferred source Listen Summarise \u4e2d\u6587 Jensen Huang admitted an affair on Nov 8, but did not name the other person. The scandal has shocked Taiwan, where he is admired like a star. Taiwan says the woman linked to him, Alice Huang, entered on a Hong Kong passport. Her permit was revoked, and officials are reviewing immigration checks. The case has raised wider security fears because Taiwan makes over 90% of the world\u2019s most advanced semiconductors. Nvidia has launched an investigation, and Huang\u2019s China chip sales push now faces more scrutiny. AI generated TAIPEI \u2013 Dressed in pink, alleged Chinese spy Alice Huang leaned in to give Nvidia chief executive officer Jensen Huang a peck on his cheek at a restaurant in Taipei in May 2025. This intimate behaviour was captured through the glass by Taiwanese media, who were waiting outside to interview him after his business dinner. A year earlier, in June 2024, the couple were photographed seated side by side drinking whisky at a Taipei bar with executives from other tech companies.",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3287
   },
   "08bf009beab83bf5d466afe413190f880d167a5e2946c7616043312ba3bd0667": {
     "access_status": "available",
@@ -4569,9 +4617,9 @@
   "0b7cb78a59246c760d13ebc4e255a5a67d6efe5b0586a505b57978a82ef072ad": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "S\u2019pore exploring adapting web domain name system to track AI agents, need for national registry Sign up now: Get ST's newsletters delivered to your inbox The proposal comes amid increasing AI agent autonomy in daily work and e-commerce, requiring new ways of governance. PHOTO: REUTERS Kenny Chee Published Nov 04, 2026, 10:19 PM Updated Nov 04, 2026, 10:37 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore is exploring whether the domain name system can be adapted to help identify and verify AI agents across platforms, and whether a national registry is needed. IMDA is working with GoDaddy, Infoblox, Cloudflare and Google on exploring if the domain name system can be repurposed, while the Government Technology Agency is building an internal registry for public agencies. The push follows AI agents acting beyond user intent, and officials say trust needs identity, authority and accountability across systems. AI generated SINGAPORE - Authorities here are exploring whether the internet\u2019s existing website verification systems can be repurposed to track autonomous artificial intelligence agents, as part of a broader assessment of whether a dedicated national registry is needed. Specifically, the Infocomm Media Development Authority (IMDA) is working with technology firms to explore adapting the domain name system (DNS), often called the internet\u2019s address book, to identify and...",
+    "article_excerpt": "S\u2019pore exploring adapting web domain name system to track AI agents, need for national registry Sign up now: Get ST's newsletters delivered to your inbox The proposal comes amid increasing AI agent autonomy in daily work and e-commerce, requiring new ways of governance. PHOTO: REUTERS Kenny Chee Published Nov 04, 2026, 10:19 PM Updated Nov 07, 2026, 03:50 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore is exploring whether the domain name system can be adapted to help identify and verify AI agents across platforms, and whether a national registry is needed. IMDA is working with GoDaddy, Infoblox, Cloudflare and Google on exploring if the domain name system can be repurposed, while the Government Technology Agency is building an internal registry for public agencies. The push follows AI agents acting beyond user intent, and officials say trust needs identity, authority and accountability across systems. AI generated SINGAPORE \u2013 The authorities here are exploring whether the internet\u2019s existing website verification systems can be repurposed to track autonomous artificial-intelligence agents, as part of a broader assessment of whether a dedicated national registry is needed. Specifically, the Infocomm Media Development Authority (IMDA) is working with technology firms to explore adapting the domain name system (DNS), often called the internet\u2019s address book, to identify...",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:24+00:00",
+    "checked_at": "2026-11-12T07:04:16+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -4592,7 +4640,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 2391
+    "word_count": 2718
   },
   "0b950db8dd77123daf974e560e7ca6a56f1032d6c3d0de9b5385cbd8bd34ad10": {
     "access_status": "unknown",
@@ -15406,9 +15454,9 @@
   "2538b8311685eee2afb0c7b57523b8251ba2cbfead872b7e06f24b42f84706c1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US midterms: Spending binge by Musk, crypto and AI hit voter wall Sign up now: Get ST's newsletters delivered to your inbox CEO of Tesla and SpaceX Elon Musk was the single biggest donor to the Republican Party at more than US$445 million this election cycle. PHOTO: AFP Published Nov 05, 2026, 06:45 AM Updated Nov 05, 2026, 06:45 AM Set as preferred source It was the most expensive election in US history and most of the biggest spenders have little to show for it. Elon Musk, the crypto industry and AI backers together poured hundreds of millions of dollars into key midterm races from Texas to Ohio but came up short. Voters\u2019 frustration over the economy, including the impact of technology on their jobs and communities, overcame what often seemed like a torrent of cash. The losses are certain to raise new questions for many top donors about what they are getting for their money and whether they need to shift strategies. Instead of helping candidates cruise to victory, in some races the flood of money may have ended up galvanising the opposition. \u201cWe just showed that all the money in the world is no match for the people of Texas,\u201d Democratic Senator-elect James Talarico, who banked on a national network of small-dollar donors, said during his victory speech on Nov 3. \u201cWe just sent a message to every billionaire mega-donor, every trillionaire mega-donor, every corrupt defender of...",
+    "article_excerpt": "US midterms: Spending binge by Musk, crypto and AI hit voter wall Sign up now: Get ST's newsletters delivered to your inbox CEO of Tesla and SpaceX Elon Musk was the single biggest donor to the Republican Party at more than US$445 million this election cycle. PHOTO: AFP Published Nov 05, 2026, 06:45 AM Updated Nov 05, 2026, 06:45 AM Set as preferred source Listen It was the most expensive election in US history and most of the biggest spenders have little to show for it. Elon Musk, the crypto industry and AI backers together poured hundreds of millions of dollars into key midterm races from Texas to Ohio but came up short. Voters\u2019 frustration over the economy, including the impact of technology on their jobs and communities, overcame what often seemed like a torrent of cash. The losses are certain to raise new questions for many top donors about what they are getting for their money and whether they need to shift strategies. Instead of helping candidates cruise to victory, in some races the flood of money may have ended up galvanising the opposition. \u201cWe just showed that all the money in the world is no match for the people of Texas,\u201d Democratic Senator-elect James Talarico, who banked on a national network of small-dollar donors, said during his victory speech on Nov 3. \u201cWe just sent a message to every billionaire mega-donor, every trillionaire mega-donor, every corrupt...",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:18+00:00",
+    "checked_at": "2026-11-12T07:04:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -15425,7 +15473,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3310
+    "word_count": 3312
   },
   "25629292746aee4a13f1203cfaba2a855668c388b5637f816e6f29afd6d2d465": {
     "access_status": "available",
@@ -17009,6 +17057,30 @@
     ],
     "word_count": 12221
   },
+  "290ba188676544b198a1126fc01c88a5525e9695a7399c249e1b6ba8a278d6b7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump\u2019s ties to Nvidia CEO Jensen Huang in the spotlight Sign up now: Get ST's newsletters delivered to your inbox Trump said on Nov 9 the Nvidia CEO told him he had no idea that the woman was a spy and that Trump believed the CEO. PHOTO: REUTERS Published Nov 12, 2026, 10:47 AM Updated Nov 12, 2026, 01:14 PM Set as preferred source Listen Summarise Trump\u2019s close ties with Nvidia chief Jensen Huang are under renewed scrutiny after revelations about Huang\u2019s affair with a woman alleged to be a Beijing spy and an FBI probe. Huang has backed Trump\u2019s AI agenda, met him many times, and pushed for looser limits on Nvidia chip sales to China, which Trump and the White House say support US tech influence. Their relationship has deepened through meetings, awards, and policy roles, but it now faces political and security concerns as lawmakers debate AI chip exports and safety rules. AI generated US President Donald Trump\u2019s close ties with Nvidia chief executive Jensen Huang \u200bhave come under renewed scrutiny after revelations about the billionaire executive\u2019s affair with a Chinese businesswoman alleged to be a spy for Beijing. Trump said on Nov 9 he was \u201camazed\u201d after the revelations concerning one of his closest allies in Silicon Valley, who also faces a Federal Bureau of Investigation probe as well as a board meeting to decide his future. Over the past two years, Huang has voiced...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3323
+  },
   "290ddb875658ea20792d9af4fbd78ec5319747c3fb74ef54f538e150e7145fe9": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17298,6 +17370,33 @@
       "fraud"
     ],
     "word_count": 1628
+  },
+  "2970870f99a38e4b6a6580dde9714b885e48f9a9aba14ee34de4de76c3a28753": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Fortunately, this month\u2019s lineup of must-watch shows offers plenty of excuses to escape, including a dramatization of one of the biggest scandals in cryptocurrency history, a return to the dystopian world of Blade Runner , and a dark comedy about desperate parents who turn to surveillance technology to find their missing daughter. There\u2019s also a return to Middle-earth , a deadly game of international espionage, and a mysterious archaeological discovery that sets off a globe-trotting conspiracy. Plus, we're revisiting two groundbreaking television series that helped shape our fascination with government secrets, surveillance, and conspiracy theories. As always, we\u2019re not just chasing the biggest names or the shows everyone is already talking about (as much as we do enjoy The Gilded Age ). Instead, these picks reflect the kinds of stories WIRED covers every day, from technology and science to politics and culture , and the unexpected ways they often intersect. Whether you\u2019re in the mood for a mind-bending sci-fi thriller, a twisty international conspiracy, or a classic worth rediscovering, these are the TV shows worth making time for this month. Black Doves Ben Whishaw (Q in Daniel Craig\u2019s Bond movies) is one of the finest actors working today, even if his name isn\u2019t quite as recognizable as it should be. Fortunately, Black Doves gives him plenty of opportunities to remind us...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:15+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 5217
   },
   "297226a27ddecc3db9de160b2465bbda9c79389b0204226304846e2a0c16a6a0": {
     "access_status": "available",
@@ -19764,6 +19863,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "2fd9a4a5d6b082677d1656f0bd6f7fe4b78679a21f76e651fd5c46258212c865": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why Nvidia matters and what\u2019s now at stake Sign up now: Get ST's newsletters delivered to your inbox Nvidia\u2019s board of directors is expected to meet to discuss the future of its CEO Jensen Huang, according to two people with knowledge of the situation. PHOTO: MANUEL ORBEGOZO/NYTIMES Published Nov 12, 2026, 07:58 AM Updated Nov 12, 2026, 08:49 AM Set as preferred source Listen Summarise Nvidia\u2019s value fell after reports linked CEO Jensen Huang to a suspected Chinese intelligence asset. Huang admitted an extramarital affair, and China called the spy claim \u201cunsubstantiated\u201d. Nvidia became a market giant after ChatGPT boosted demand for its AI chips. Its shares rose fourteen-fold, and it passed US$4 trillion and US$5 trillion in market value in 2025. The scandal raises \u201ckey-man\u201d risk because Huang drives major decisions and has no named successor. Nvidia also faces tougher chip competition, especially in China, and its huge S&P 500 weight affects many investors. AI generated NEW YORK \u2013 It is not often that a revelation about a relationship erases a trillion dollars of value from the stock market. But that is what has happened in the wake of media reports that a woman suspected of being an asset for Chinese intelligence had grown close to Nvidia chief executive Jensen Huang, who acknowledged having an extramarital affair. The wipeout speaks both to the chipmaker\u2019s sheer size \u2013 at...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3230
   },
   "2fe623620cf60ddfc0999b1cb8099b207cadaf87143aca13622e9dd66eea52fd": {
     "access_status": "available",
@@ -25082,6 +25205,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1358
   },
+  "3c633c8ef2a34aebaca63b635f4616c9746e986073a3dd6007cd9aaa5737482d": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US stocks end higher as CoreWeave results ease AI spending worries Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City on Nov 10. PHOTO: AFP Published Nov 12, 2026, 05:45 AM Updated Nov 12, 2026, 05:45 AM Set as preferred source NEW YORK - US stocks closed higher on Nov 11, with the S&P 500 and the Nasdaq each rallying more than 1% as earnings from neocloud firm CoreWeave cooled investor concerns about the durability of the AI trade, while Nvidia stabilised after two straight sessions of sharp declines. Battered CoreWeave shares surged 24.7%, their biggest daily percentage jump in more than three months, to close at the highest level in two weeks. The company said it would become profitable in the first half of 2028 on an adjusted basis, seeking to reassure investors that strong demand and customer commitments could support its debt-fuelled expansion. Sentiment improvedacross AI infrastructure stocks, as Nebius Group surged 15.4% and Applied Digital shot up 7.4%. Nvidia advanced after shedding about US$430 billion (S$550 billion) of market capitalisation in the previous two sessions as investors worried \u200babout chief executive officer Jensen Huang\u2019s relationship with a businesswoman alleged to be a Chinese spy. Equities have been volatile in recent days. Investors have expressed concerns about...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2477
+  },
   "3c8d88d119109a14e38d22516c6136551caf87807eed1849042144934bcc6eee": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -27923,6 +28070,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "43ab95fdfc27b70a3d334755e820bedd24533c9c3ea6e8465a62b8a0f5bab4a6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia faces deepening scrutiny over China chip ties, CEO affair Sign up now: Get ST's newsletters delivered to your inbox Nvidia chief Jensen Huang allegedly had an affair with a Chinese businesswoman who is said to be a spy for Beijing. PHOTO: EPA Published Nov 11, 2026, 05:21 AM Updated Nov 11, 2026, 12:27 PM Set as preferred source Listen Summarise Nvidia lost about US$430 billion in value as reports linked CEO Jensen Huang to a Chinese businesswoman alleged to be a spy, raising fresh fears over governance and chip sales. US officials and lawmakers are pressing for answers. Chuck Schumer wants tighter China chip export rules, while Nvidia\u2019s board has hired outside counsel to investigate. Reports say Alice Huang helped move about 240,000 Nvidia chips into China through firms in China and Singapore. Nvidia says there is no reason to believe national security or company secrets were compromised. AI generated NEW YORK \u2013 Nvidia shed about US$430 billion (S$551 billion) in market value over two sessions as new reports deepened questions about chief executive Jensen Huang\u2019s relationship with a Chinese businesswoman alleged to be a spy for Beijing. The controversy escalated on several fronts on Nov 10 as allegations emerged that Huang\u2019s relationship with Alice Huang aided at least US$7.5 billion in Nvidia chip shipments to China and that US Secretary of State Marco Rubio had...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3299
+  },
   "43bb0e79cb5b634b2925616a991a3f794b80ef3faa8256c0fffd1fe9c3087c93": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -29318,6 +29489,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "45fb33046e9ec1b5f0740efeb0b8c0a93bfd64c0674755aa9b20834ec9696ef9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "SPH Media hit by cyberattacks; no payment card details or financial information compromised Sign up now: Get ST's newsletters delivered to your inbox SPH Media said it suspects the intrusions could be AI-enabled attacks, based on preliminary investigations. ST PHOTO: LIM YAOHUI Samuel Devaraj Published Nov 10, 2026, 03:30 PM Updated Nov 10, 2026, 11:00 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 SPH Media said on Nov 10 that it was hit by cyberattacks that affected 9% of its database. The exposed information was predominantly e-mail addresses, as well as some names, mailing addresses and phone numbers. No payment card details, as well as financial or banking information, were compromised, and subscribers\u2019 access to their accounts was not affected. In a statement on Nov 10, the media company said it had identified cyberattacks on five of its systems, which it believed were \u201ca concerted effort that was carried out by the same threat actor\u201d. The first incident was detected on Nov 4, and the most recent one on Nov 8. SPH Media said it suspects the intrusions could be AI-enabled attacks, based on preliminary investigations. The breaches arose from a combination of factors, including software bugs and system configuration, said its spokesman. Upon discovering the incidents, SPH Media said, it immediately took steps to secure the affected systems and engaged external...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:07+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 1826
   },
   "460220d267a0a8fa4ba2dce8e8842a6016f73b1b15907be739c2ce48b06edf36": {
     "access_status": "available",
@@ -31098,9 +31303,9 @@
   "4a07b280cb8deebfad6494f499cff5eda35e663d2135543bb5023c2df4f5dc92": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "E-paper Singapore Asia World Opinion Life Business Sport Visual Podcasts Houthi strike on Saudi airport kills 12, worst attack on kingdom in a decade All flights were diverted from Riyadh and operations at the airport were temporarily suspended. School closures in Malaysia due to haze leave parents scrambling for childcare India detains thousands, locks down Delhi to foil election chief protest \u2018Wish Papa was here\u2019: The pain of long-distance parenting for S\u2019pore\u2019s foreign workers Trump calls to replace Zelensky as Ukraine president in tussle over diesel deal with Russia Man dies after tiger attack at UK zoo News analysis In the final lap, Malaysia\u2019s PM Anwar returns to base with reformist budget Inside the stressful, uncertain world of Formula 1 Latest headlines minutes ago Traumatised Panamanians begin recovery from 7.7-magnitude earthquake minutes ago Indonesia releases eight orangutans rescued from fires to protected forest minutes ago Indian capital braces for second day of protests against poll chief minutes ago New Zealand ex-PM Jacinda Ardern breaks political silence to support opposition minutes ago URA flags \u2018persistent trend\u2019 of suspected cases of unauthorised works in residential units Trending Haze Singapore Grand Prix Earthquakes Malaysia Travel and leisure Shorts 2:17 0:15 0:33 0:36 2:16 0:34 1:05 2:16 1:11 Singapore The New Age When it comes to work, 60 is the...",
+    "article_excerpt": "E-paper \u4e2d\u6587\u7248 (beta) Singapore Asia World Opinion Life Business Sport Visual Podcasts No visitors, no internet: Inside the strict conditions determining Najib Razak\u2019s return home Najib's request for a second residence for house arrest was rejected by authorities. Indonesian V-P Gibran hands resignation to Parliament as Jokowi backs Prabowo The Usual Place Podcast Watch: Can Nvidia\u2019s Jensen Huang survive the fallout from his extramarital affairs? Alice Huang, Chinese woman accused of spying on Nvidia chief, entered Taiwan 8 times DBS PayLah! users can now pay with app at more than 100 million merchants across China Rupiah\u2019s drop to record low spurs Bank Indonesia intervention ST Live: Indonesia V-P Gibran quits, use DBS Paylah! in China \u2018Downgrade with dignity\u2019: Luxury outlet malls shine in China amid consumer slump Latest headlines minutes ago Malaysian ex-PM Najib\u2019s pension suspended for now, says minister minutes ago Watch: Can Nvidia\u2019s Jensen Huang survive the fallout from his extramarital affairs? minutes ago Indonesian V-P Gibran hands resignation to Parliament as Jokowi backs Prabowo minutes ago No visitors, no internet: Inside the strict conditions determining Najib Razak\u2019s return home minutes ago HK actor Tony Leung Ka Fai brushes off concerns after photo of him looking tired surfaces online Trending Nvidia Jensen Huang Singapore Airlines Hacking Najib Razak Shorts 0:44...",
     "cache_version": 10,
-    "checked_at": "2026-10-11T05:40:37+00:00",
+    "checked_at": "2026-11-12T07:04:15+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -31117,7 +31322,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1362
+    "word_count": 1338
   },
   "4a1b8f695181416b0055bed5099dc405cdce00b7d7c8b4b521ad425eeca28815": {
     "access_status": "available",
@@ -33414,6 +33619,30 @@
     "weak_generic_terms_found": [],
     "word_count": 417
   },
+  "4f9fe73a68efe79306d88bbbdbe002556dd6b3ee5a2ae0222d483c271b76aeac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Noise Cancellation Last updated Nov 10, 2026 | Copy as Markdown | View as Markdown | Agent setup Subscribe to RSS 2026-11-09 RealtimeKit Noise Cancellation 0.1.0 Features Initial release of @cloudflare/realtimekit-noise-cancellation , adding noise cancellation for web applications. Supports Safari, Firefox, Chrome, and Edge. Supports mobile web. Refer to Noise Cancellation for setup and usage. Was this helpful? Yes No Noise Cancellation Subscribe to RSS 2026-11-09 RealtimeKit Noise Cancellation 0.1.0 Features Initial release of @cloudflare/realtimekit-noise-cancellation , adding noise cancellation for web applications. Supports Safari, Firefox, Chrome, and Edge. Supports mobile web. Refer to Noise Cancellation for setup and usage. Subscribe to RSS 2026-11-09 Features Refer to Noise Cancellation for setup and usage.",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 116
+  },
   "4fa181555aaea8b4bbf0c13cb15fe1c428b4949168c2063336a9d8d40d9c90fd": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -33928,6 +34157,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2512
+  },
+  "50d9b37f115cfb590e2ab9b4df90c829db4940191faad455376448034e2d2995": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis Why the Jensen Huang affair spells trouble for South-east Asia Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump and Nvidia CEO Jensen Huang at an event at the White House in Washington in 2025. PHOTO: PETE MAROVICH/NYTIMES Bhagyashree Garekar Published Nov 11, 2026, 12:27 PM Updated Nov 11, 2026, 07:28 PM Set as preferred source Unlock audio Summarise Trump backs Jensen Huang, but the affair with a suspected Chinese spy raises security fears and could lead to tighter US chip export controls. South-east Asian data centres in Malaysia, Singapore, Indonesia and Thailand may face stricter controls on advanced Nvidia chips and cloud access for Chinese firms. Congress is pressing for action, while Nvidia is tightening its own rules, but lawmakers may avoid steps that damage a key US AI company. AI generated PHILADELPHIA \u2013 US President Donald Trump has stood by Nvidia chief executive Jensen Huang over his affair with a suspected Chinese spy , but the odds are escalating for a clampdown on the export of cutting-edge American chips, complicating South-east Asia\u2019s AI infrastructure build-out and creating a choke point for Chinese AI start-ups. Data centre operators in Malaysia, Singapore, Indonesia and Thailand are in for stricter checks on purchases of advanced American chips and tighter restrictions on renting cloud computing capacity...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 673
   },
   "50daf210f5c578e7ba9cb60d073d8fc13a88351516db08ae2492f6c75fc20ca5": {
     "access_status": "available",
@@ -36286,6 +36539,30 @@
     ],
     "word_count": 2961
   },
+  "55dad22054654af9ef66d2966019a1cf8714216b4c72db8b67ba0772548dfc83": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore start-up Sapiens cracks AI training bottleneck, makes waves overseas Sign up now: Get ST's newsletters delivered to your inbox Sapiens Technology, led by CEO Bruce Yang (right) and co-founder Alex Ang, is in talks to pilot and scale its breakthrough technique. ST PHOTO: ARIFFIN JAMAR Kenny Chee Published Nov 11, 2026, 03:23 PM Updated Nov 11, 2026, 08:39 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore start-up Sapiens Technology says it has cut robotics AI training from months to as little as 30 minutes by training only part of a model. The firm is talking to more than 30 robotics and medical firms in the US, China and Singapore, including TetraBOT and Shanghai Xinwei Medical Technology. Sapiens says its method is easier to audit and can adapt on the fly, while customers hope it will improve industrial robots and medical supply forecasting. AI generated SINGAPORE \u2013 Singapore artificial intelligence start-up Sapiens Technology has cracked one of robotics\u2019 biggest bottlenecks by slashing machine training time from months to as little as 30 minutes. Its novel technique \u2013 which can train all AI models using only a fraction of their parameters rather than the whole system \u2013 is gaining attention overseas. Sapiens is in talks with more than 30 robotics and medical firms across the United States, China and Singapore to pilot and scale its breakthrough. These...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:06+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2441
+  },
   "560154ed0b0f3b6962bbad7189e6dd45c44492cd1e42aedffece2a430f3c9347": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -36594,6 +36871,30 @@
       "trust"
     ],
     "word_count": 2807
+  },
+  "56e8a0bfd8bf4e0d30da88da408f21e109ae98f172b19f24348b9f778cfed033": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia board meets to decide CEO Huang\u2019s future as leadership crisis deepens Sign up now: Get ST's newsletters delivered to your inbox The board is preparing to meet as soon as Nov 11 to determine Nvidia chief executive Jensen Huang\u2019s future. PHOTO: REUTERS Published Nov 12, 2026, 06:48 AM Updated Nov 12, 2026, 12:51 PM Set as preferred source Listen Nvidia\u2019s board is meeting late on Nov 11 to decide whether to oust chief executive Jensen Huang, a source familiar with the matter told Reuters, as the world\u2019s dominant supplier of AI chips grapples with reports of two extramarital affairs involving its long-time leader. Nvidia did not immediately respond to a request for comment on the board meeting. The meeting marks a sharp shift from Nov 8 , when Nvidia\u2019s board expressed confidence in Huang and his leadership team. Under Nvidia\u2019s by-laws, Huang can be removed \u201cwith or without cause\u201d by a majority vote of directors. Nvidia has 11 directors and considers all but Huang independent. Nvidia\u2019s stock slid more than 8% in extended trading after the Wall Street Journal first reported that the company was preparing to fire Huang. If those losses hold, Nvidia will have lost about US$600 billion (S$770.5 billion) in market value since the board announced its investigation into his relationship with a businesswoman called Alice Huang alleged to be a Chinese spy. Revelations that US...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2846
   },
   "570d0ca9117215166f71712c72b85098653a0f5db057c2b9a42e3688deb50521": {
     "access_status": "available",
@@ -51292,7 +51593,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Attendees cheer at a campaign event for Democratic Texas gubernatorial candidate Gina Hinojosa in Austin, Texas, on Tuesday, November 3, 2026. (AP Photo/Ashley Landis) Last month, OpenAI CEO Sam Altman told Politico that \u201cwe believe that the world should accept some bad things happening for the benefits of this technology,\u201d referring to ChatGPT users dying, people losing their jobs to AI, and the other negative externalities we have seen from AI. Altman wasn\u2019t running for office Tuesday. But this worldview\u2014that the masses must shut up and suffer while oligarchs centralize power, self-deal, spend wildly to capture the political process, and automate away human endeavors so they can amass yet more wealth\u2014was wholly repudiated in Tuesday\u2019s election as people in Red States, Blue States, and Purple States rejected the cruelty, corruption, and depravity economy we\u2019ve seen over the last few years. They are tired of kleptocracy. The main difference between Donald Trump\u2019s administration this term and his first term is that Silicon Valley\u2019s oligarchs have lined up to kiss the ring; look no further than the photos from his inauguration and his gilded gala with China\u2019s President Xi Jinping earlier this fall . Every major tech company CEO has spent the last two years flattering Trump, giving him gifts, and trying to capture the political process. They have been generously rewarded for...",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:14+00:00",
+    "checked_at": "2026-11-12T07:04:08+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -51993,6 +52294,48 @@
       "identity"
     ],
     "word_count": 1937
+  },
+  "7a2554e89aa686fd3dd7f1e05cf198c70b1dfa380d26a84df48ba699dab1b985": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Threat Modeling Intimate Partner Abuse in Agentic Systems Natalie Grace Brigham Affiliation: University of Washington Correspondence to: nbrigham@cs.washington.edu Eugene Bagdasarian Affiliation: University of Massachusetts Amherst Franziska Roesner Affiliation: University of Washington Tadayoshi Kohno Affiliation: Georgetown University Abstract Agentic systems are AI-powered technologies capable of autonomous action within digital environments, such as sending emails or making reservations. They are deeply connected to external tools as well as users\u2019 data and resources, making them vulnerable to attacks which exploit their access and capabilities. In this work, we apply the technology-facilitated abuse threat model, in the context of intimate partner violence and surveillance, to these systems, revealing threats that require deliberate investigation and mitigation. We categorize attacks based on system ownership: (1) Abuser-as-owner attacks demonstrate how agentic systems make existing forms of technology-facilitated abuse far easier and more scalable. (2) Victim-survivor-as-owner attacks show how agentic systems create a new attack surface which abusers can exploit. In light of these risks, we outline research and development directions for effective mitigation strategies. Content warning: This paper includes content about...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:15+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 16327
   },
   "7a3a81cc0c6defe20efd391eb50030539a788ece00c72ba6a9579a5ccc140751": {
     "access_status": "available",
@@ -54189,9 +54532,9 @@
   "7e6275107ea12863ba4f9da7f0819da39a7034e3399f43124d27faf5f295e7e0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "US Pentagon chief tech officer says government will detail laws that apply to AI labs in November Sign up now: Get ST's newsletters delivered to your inbox Pentagon chief technology officer Emil Michael, who is vice chair of the US government\u2019s Super Intelligence Task Force, said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. PHOTO: LIANHE ZAOBAO FILE Published Nov 05, 2026, 09:45 AM Updated Nov 05, 2026, 09:45 AM Set as preferred source Summarise The US government will detail all laws and regulations for domestic AI labs later in November, Pentagon CTO Emil Michael said at a technology conference in Napa. Michael said the Super Intelligence Task Force will publish the regulatory landscape \u201cin the next week or two\u201d to build public trust in AI companies. He warned that without a clear framework, \u201c535 legislators\u201d could write rules that might \u201ckill the industry\u201d. AI generated NAPA, California \u2013 The US federal government will lay out all the laws and regulations that apply to domestic AI labs later in November , Pentagon chief technology officer Emil Michael said on Nov 4 . Michael, who is vice chair of the government\u2019s Super Intelligence Task Force , said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. The task force is an intergovernmental agency established by US President Donald Trump to establish AI policy....",
+    "article_excerpt": "US Pentagon chief tech officer says government will detail laws that apply to AI labs in November Sign up now: Get ST's newsletters delivered to your inbox Pentagon chief technology officer Emil Michael, who is vice chair of the US government\u2019s Super Intelligence Task Force, said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. PHOTO: LIANHE ZAOBAO FILE Published Nov 05, 2026, 09:45 AM Updated Nov 05, 2026, 09:45 AM Set as preferred source Listen Summarise The US government will detail all laws and regulations for domestic AI labs later in November, Pentagon CTO Emil Michael said at a technology conference in Napa. Michael said the Super Intelligence Task Force will publish the regulatory landscape \u201cin the next week or two\u201d to build public trust in AI companies. He warned that without a clear framework, \u201c535 legislators\u201d could write rules that might \u201ckill the industry\u201d. AI generated NAPA, California \u2013 The US federal government will lay out all the laws and regulations that apply to domestic AI labs later in November , Pentagon chief technology officer Emil Michael said on Nov 4 . Michael, who is vice chair of the government\u2019s Super Intelligence Task Force , said the group would publicise the regulatory landscape \u201cin the next week or two\u201d. The task force is an intergovernmental agency established by US President Donald Trump to establish AI policy....",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:23+00:00",
+    "checked_at": "2026-11-12T07:04:13+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -54210,7 +54553,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 931
+    "word_count": 933
   },
   "7e7740220ccadb6e448ae6ccd4af6ebc8e73eb4b80fbd42a27cf03d3d39c997e": {
     "access_status": "available",
@@ -56346,6 +56689,30 @@
       "cybersecurity"
     ],
     "word_count": 0
+  },
+  "826bd38f1e20cd37d0b3345cb67a5738bc5bca2002af4bf5d49baadcf93140c7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What to know about the China spy allegations involving Nvidia\u2019s Jensen Huang Sign up now: Get ST's newsletters delivered to your inbox Nvidia CEO Jensen Huang is one of the most prominent advocates for the global AI infrastructure roll-out and for relaxing US chip restrictions on China. PHOTO: REUTERS Published Nov 10, 2026, 07:45 AM Updated Nov 10, 2026, 01:39 PM Set as preferred source Listen Summarise Nvidia has launched an independent probe after Jensen Huang admitted an affair linked to Alice Huang, a Megaspeed executive accused of Chinese spy ties. The case raises national security fears because Nvidia\u2019s advanced chips power AI and are seen as vital to US technology and military strength. The outcome may affect Huang\u2019s future, Nvidia\u2019s China links, and US-China tensions as lawmakers and governments investigate Megaspeed. AI generated NEW YORK \u2013 Nvidia, the world\u2019s second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis like none other in its three-decade history. On Nov 8, chief executive Jensen Huang admitted he had been unfaithful in his marriage, effectively confirming a series of reports linking him romantically with a woman who has been identified as a suspected Chinese spy and whose company bought chips from Nvidia. The revelation could have far-reaching ramifications for Nvidia and Huang, one of the most...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3387
   },
   "826d0ac64961c2c20a93f9833fa1ba9643e212c7c83876718f39f15fe5e0022a": {
     "access_status": "available",
@@ -60081,6 +60448,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 413
+  },
+  "8c4eae56daa3af183517e2f20f41af245265369c3e38b2ecf35646caa977459f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia drama triggers difficult search for Jensen Huang\u2019s successor Sign up now: Get ST's newsletters delivered to your inbox Jensen Huang has turned Nvidia into an industry kingmaker that oversees a sprawling web of customers, suppliers, partners and investments. PHOTO: REUTERS Published Nov 12, 2026, 12:17 PM Updated Nov 12, 2026, 02:51 PM Set as preferred source Listen Summarise Nvidia has hired an outside firm to find a possible successor to CEO Jensen Huang after reports of multiple extramarital affairs, creating a difficult search at the chip giant. Huang has led Nvidia for over 30 years, shaping its AI chips, strategy and business network, so replacing his technical skill and hands-on style will be hard. Possible successors include Colette Kress, Ian Buck, Rene Haas, Lisa Su, Johny Srouji, Matt Garman, Sanjay Mehrotra and Amin Vahdat, but each has clear limits. AI generated NEW YORK \u2013 Nvidia is searching for a replacement for larger-than-life chief executive officer Jensen Huang, a daunting challenge at the world\u2019s most valuable chipmaker. The company has tapped an outside firm to identify potential candidates following reports of multiple extramarital affairs by Huang. Finding a replacement would not be easy, however. Over more than three decades, Huang has combined deep technical expertise with operational skill into an unusually hands-on role in shaping Nvidia\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2536
   },
   "8c52ba2bd9cd34de6f5f2bf1e97d4499f0089d8383ae68a7576c0f7207711a0b": {
     "access_status": "available",
@@ -70555,7 +70948,7 @@
     "anti_scam_relevance": "irrelevant",
     "article_excerpt": "Shortly after 1 am, Musk posted twice: \u201cData centers in space looking pretty appealing right now,\u201d he wrote first. About a minute later , he added, \u201cGuess my election-interfering space lasers didn\u2019t work this time\u201d with a shrug emoji. By Wednesday morning, candidates backed by Musk\u2019s America PAC had lost 20 races and won only one, with 21 uncalled, according to a WIRED analysis of election data. Tesla and SpaceX stocks have plunged in value. Musk and his PAC spent more than $400 million since Trump retook office backing Republican candidates\u2014nearly $87 million of it on ads targeting 42 midterm races. He also funneled more than $229 million into other political groups, chiefly the main Republican super PACs for the House and Senate, along with smaller ones formed to fight single races in Kentucky and Texas. Of every traceable dollar Musk put into a race that has now been decided, more than 99 cents went to a race he lost. America PAC ran ads in seven Senate races this cycle; six have been called, and Musk\u2019s side lost all six. Sherrod Brown took back Ohio, Abdul El-Sayed won Michigan (where the PAC spent $9.2 million on ads), Josh Turek flipped Iowa, and in Maine, Troy Jackson unseated Susan Collins, a feat Democrats had long thought impossible, ending Collins\u2019 30-year career in the senate. As of publication time, only Alaska remains uncalled.",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:16+00:00",
+    "checked_at": "2026-11-12T07:04:10+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "negative_domain_context",
@@ -79003,6 +79396,30 @@
     ],
     "word_count": 17437
   },
+  "b8301acc4a2f7c6bf2484effadde8be849a526d5eb44a204646e06eb54677376": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia scandal raises export risks for South Korean chipmakers Sign up now: Get ST's newsletters delivered to your inbox In an e-mail to employees on Nov 8, Jensen Huang acknowledged an extramarital relationship. PHOTO: REUTERS Published Nov 11, 2026, 05:20 PM Updated Nov 11, 2026, 06:02 PM Set as preferred source Listen Summarise US scrutiny of Nvidia\u2019s China chip shipments could force tighter export checks on South Korean makers Samsung Electronics and SK hynix, raising compliance costs and shipment delays. The case centres on Jensen Huang\u2019s links to Alice Huang, who is suspected of ties to Chinese intelligence. Huang admitted an \u201cextramarital relationship\u201d and Nvidia launched an internal probe. Seoul says existing Nvidia GPU deliveries should continue, while wider AI chip shifts could bring both risks and new HBM customers for South Korean firms. AI generated SEOUL \u2013 South Korean chipmakers Samsung Electronics and SK hynix could face tighter export compliance requirements if the US authorities step up scrutiny of Nvidia\u2019s AI chip shipments to China, following reports that CEO Jensen Huang had a personal relationship with a woman suspected of ties to Chinese intelligence. The controversy has raised questions about Nvidia\u2019s safeguards against potential espionage and the diversion of restricted AI chips to China. Any additional US export controls could affect South Korean...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2698
+  },
   "b83d76cff56383f30d7adabe2e42eaf906a5cee3a890c4092ee9e59045c7155a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -79719,6 +80136,30 @@
     "weak_generic_terms_found": [],
     "word_count": 60
   },
+  "b92d4ea0e1cafe431495ff3541579ba36866699f2e3d7b03f9df86230cfd9c8f": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release HANGCHA Unveils LINGTRA AI-Fork Robots at Global Dealers Conference, Charts 2030 Vision Published Nov 11, 2026, 11:23 PM HANGCHA Unveils LINGTRA AI-Fork Robots at Global Dealers Conference, Charts 2030 Vision The issuer is solely responsible for the content of this announcement. Press release HANGCHA Unveils LINGTRA AI-Fork Robots at Global Dealers Conference, Charts 2030 Vision Published Nov 11, 2026, 11:23 PM HANGCHA Unveils LINGTRA AI-Fork Robots at Global Dealers Conference, Charts 2030 Vision The issuer is solely responsible for the content of this announcement. Press release HANGCHA Unveils LINGTRA AI-Fork Robots at Global Dealers Conference, Charts 2030 Vision Published Nov 11, 2026, 11:23 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 149
+  },
   "b94d5603253b92b328c10ae22ca3f77d24e941438a955e02d5d22b0c8f5d1a59": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -80261,7 +80702,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "US midterms: Democrats seize Congress in thundering midterm rebuke of Trump Sign up now: Get ST's newsletters delivered to your inbox Published Nov 04, 2026, 05:50 PM Updated Nov 04, 2026, 11:20 PM Set as preferred source Listen Summarise Democrats won control of Congress in an overwhelming rebuke of President Trump, driven by anger over living costs and the war against Iran. They flipped key Senate, House, governor and state legislature races, including wins in Texas, Ohio, Georgia and Wisconsin. Trump said he was \u201cabsolutely willing to accept those results\u201d, but the defeat leaves him weaker and forces both parties to rethink their next steps. AI generated WASHINGTON \u2013 Riding an overwhelming tide of voter angst, Democrats swept into power in Congress, with outrage over the cost of living and the war in Iran leading to a thundering rebuke of President Donald Trump and his party just two years after his dominant White House comeback. In a seismic political shift that seemed unlikely even a few months ago, Democrats\u2019 strength suggested a breakdown of the coalition that delivered Trump a second term even after he beseeched the electorate to vote as if he were on the ballot . Trump told The New York Times in an interview that he was \u201cabsolutely willing to accept those results\u201d and was prepared to work with Democrats. \u201cWe\u2019ll, you know, look forward to working with them,\u201d he said....",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:19+00:00",
+    "checked_at": "2026-11-12T07:04:12+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -86004,6 +86445,30 @@
     ],
     "word_count": 0
   },
+  "c8b47079d4431ba07727d5d67824b8aec3352835affc300b03b5f36bea9eefed": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Hours later, in the wake of the Democratic sweep , Fuentes took credit for the victory. \u201cWe did it again\u201d he wrote on Telegram, later calling the phenomenon \u201cthe Groyper Effect,\u201d a reference to the nickname given to his followers. In recent days, Fuentes has claimed the election results are an opportunity for him and his allies on the far right. \u201cLet the Democrats rule; see how that goes,\u201d Fuentes said during a livestream last week. \u201cThere will come a time when the far left will terrorize people, and they're going to push all of them into the arms of the right. Who's going to fight the far left? Only the far right. This is why we have to take over the right wing now.\u201d In another livestream last week, Fuentes added a warning to the GOP leadership: \u201cIt\u2019s our party now \u2026 You need to cooperate with us\u2026 Groypers are open for business. It has [to] be America First\u2014and if it's not, we'll do it again for the enemy.\u201d A WIRED review of comments from white-supremacist, Christian-nationalist, and other far-right groups in the wake of the midterm results shows much of the same. While the groups are uniformly attacking Donald Trump\u2019s failure to prioritize white, Christian, American values, they also believe that this sudden shift to the left will result in a backlash that will see more people embrace far-right groups and ideologies.",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3303
+  },
   "c8baf0406fe028042ec965d67b98f2b2fca3b3ceed44a4942fd88ca69fcb14a5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -87555,6 +88020,37 @@
       "trust"
     ],
     "word_count": 4062
+  },
+  "cc0229e9e2ab927938548f6c720b13b1cb6a6998d8bb1aa57a3d15758b4ac8b9": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:21+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "cc1b2f655000fdd9de8133f38c3eb83e803a5880051e2a3bb8cdabca0e2666de": {
     "access_status": "available",
@@ -94201,6 +94697,32 @@
     ],
     "word_count": 11458
   },
+  "db4505e583f1afeb5ed6883179ca32e6f5c3e72fb93cf9251709ae0fe08ae8a3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Stock tips with a beat: Samsung Securities\u2019 AI K-pop group racks up views Sign up now: Get ST's newsletters delivered to your inbox Uhm Se-won, the team leader of Samsung Securities' media strategy team, oversaw production of the music video for the song Override by the brokerage's AI K-pop girl group LUMINA. PHOTO: REUTERS Published Nov 12, 2026, 11:18 AM Updated Nov 12, 2026, 12:14 PM Set as preferred source Listen Summarise Samsung Securities created LUMINA, an AI K-pop girl group, to front its content. Its first video, Override, passed 3 million YouTube views in about five weeks. The brokerage used AI for the song, characters and video, but labels LUMINA as \u201cfictional\u201d and checks finance content in stages to protect trust and accuracy. The move shows AI\u2019s growing role in South Korean music and marketing, but experts warn it may threaten creators\u2019 rights and needs policy safeguards. AI generated SEOUL \u2013 Stock brokerage Samsung Securities has found brand ambassadors who never skip rehearsal and are unlikely to make tabloid headlines: a four-member, AI-generated K-pop girl group called LUMINA. The band\u2019s debut music video, Override, passed three million YouTube views about five weeks after release. Finding presenters for its social media channels was hard, said Uhm Se-won, head of the brokerage\u2019s media strategy team. Staff experts were novices on camera, while celebrities...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:16+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2337
+  },
   "db6d64f5f6eef76ed12d970b3d7b15d3a11f49f66aeb7efbd605f50967b82b20": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -98917,9 +99439,9 @@
   "e767edc20d871aed67239c0b89a761dad2985928d5728f8eab12f9d7ab025394": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Visa sets up 6 global tech hubs in Singapore, with 1,500 staff at new Paya Lebar centre Sign up now: Get ST's newsletters delivered to your inbox Visa\u2019s new hubs will build capabilities in agentic artificial intelligence, next-generation payments and trusted commerce. PHOTO: LIANHE ZAOBAO Joyce ZK Lim Published Nov 05, 2026, 10:01 AM Updated Nov 05, 2026, 12:01 PM Set as preferred source Listen Summarise \u4e2d\u6587 Visa will set up six global tech hubs in Singapore, with a new Paya Lebar Green centre for 1,500 staff working on AI, next-generation payments and trusted commerce. The hubs will develop tools for Visa\u2019s global network, including agentic AI, digital money, stablecoins and cybersecurity. Visa says this will support new commerce experiences. Singapore\u2019s EDB said the investment will create high-value jobs and strengthen the city-state\u2019s role in financial innovation. The move follows Visa\u2019s July plan to cut 2,600 jobs worldwide. AI generated SINGAPORE \u2013 Digital payments giant Visa will set up six hubs in Singapore to build capabilities in emerging technologies as the global payments landscape evolves . Its new centre at Paya Lebar Green will bring together some 1,500 staff working on agentic artificial intelligence, next-generation payments and trusted commerce, the American firm said in a statement on Nov 5. It is unclear how many of these roles are new jobs. The Straits Times...",
+    "article_excerpt": "Visa setting up 6 hubs for emerging tech at new centre in Singapore Sign up now: Get ST's newsletters delivered to your inbox Visa\u2019s new hubs will build capabilities in agentic artificial intelligence, next-generation payments and trusted commerce. PHOTO: LIANHE ZAOBAO Joyce ZK Lim Published Nov 05, 2026, 10:01 AM Updated Nov 05, 2026, 07:26 PM Set as preferred source Listen Summarise \u4e2d\u6587 Visa will set up six global tech hubs in Singapore, with a new Paya Lebar Green centre for 1,500 staff working on AI, next-generation payments and trusted commerce. The hubs will develop tools for Visa\u2019s global network, including agentic AI, digital money, stablecoins and cybersecurity. Visa says this will support new commerce experiences. Singapore\u2019s EDB said the investment will create high-value jobs and strengthen the city-state\u2019s role in financial innovation. The move follows Visa\u2019s July plan to cut 2,600 jobs worldwide. AI generated SINGAPORE \u2013 Digital payments giant Visa will set up six hubs at its new centre in Singapore to build capabilities in emerging technologies as the global payments landscape evolves . The new centre at Paya Lebar Green will bring together some 1,500 staff working on agentic artificial intelligence, next-generation payments and trusted commerce, the American firm said in a statement on Nov 5. It is unclear how many of these roles are new jobs. Visa did not...",
     "cache_version": 10,
-    "checked_at": "2026-11-05T06:38:16+00:00",
+    "checked_at": "2026-11-12T07:04:11+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -98939,7 +99461,7 @@
       "cybersecurity",
       "trust"
     ],
-    "word_count": 1430
+    "word_count": 1445
   },
   "e7b683fe11c5334c9e29a1b426729f475bf8ba1f39d58cc47ec3f150bb33af34": {
     "access_status": "available",
@@ -100764,6 +101286,55 @@
     "weak_generic_terms_found": [],
     "word_count": 192
   },
+  "ecc06cbe4b20295fcc520c127baa928b561c118d7685a15627f6dd045e6f463e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: LEGION: Benchmarking Language Agents on Sparse-Signal Investigation Under Adversarial Noise Samuel Joseph Amouyal Affiliation: Legion Security Email: samuel@legionsecurity.ai Ofek Glick Affiliation: Legion Security Email: ofek@legionsecurity.ai Yaniv Menasherov Affiliation: Legion Security Email: yaniv@legionsecurity.ai Eyal Fisher Affiliation: Legion Security Email: eyal@legionsecurity.ai Ohav Barbi Affiliation: Legion Security Email: ohav@legionsecurity.ai Abstract Autonomous language-model agents are increasingly deployed on discovery-driven tasks where signal is sparse and most retrieved information is irrelevant. Current benchmarks fail to evaluate this regime due to dense signals, cooperative environments, and ground truth typically being only a few tool calls away. We introduce Legion , a benchmark framework coupling a stochastic enterprise-telemetry simulator ( Legion-SIM ) with a tiered library of 74 expertly-crafted adversarial scenarios ( Legion-Bench ) and an evaluation protocol that scores investigation efficiency alongside detection accuracy. Scenarios are injected into freshly simulated companies, allowing independent control over confounder density and event volume. We test five agent architectures on two simulated companies and find that while recall is high (0.82-0.88) precision lags behind (0.61\u20130.72). They...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:07+00:00",
+    "direct_relevance_terms_found": [
+      "account takeover",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "account takeover",
+      "financial fraud"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "account takeover",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [
+      "credential harvesting",
+      "account takeover",
+      "session hijacking"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 24048
+  },
   "ecd0e098f0ac7166c8ab74ebbeb74b99b3fe3d544da6cd3844e690b75fe20a51": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -100941,6 +101512,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "ed2cc30bfd506de2619db8c5265d827076f5bdab97364491caa8ccd2d2e01126": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US judge says Trump\u2019s US$10 billion BBC defamation case can proceed Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump\u2019s lawsuit accuses the BBC of defaming him by splicing together parts of the speech. PHOTO: EPA Published Nov 11, 2026, 08:55 AM Updated Nov 11, 2026, 09:40 PM Set as preferred source Listen Summarise A US judge said Donald Trump\u2019s US$10 billion defamation case against the BBC can proceed, but dismissed his unfair trade practices claim. Trump says the BBC misled viewers by editing his Jan 6 speech; the BBC admitted the edits were misleading and apologised, but denies defamation. The BBC Panorama clip caused a major row, with a leaked memo, public backlash and senior resignations after claims of political bias. AI generated NEW YORK \u2013 A federal judge on Nov 10 said US President Donald Trump\u2019s US$10 billion (S$12.8 billion) defamation lawsuit against the BBC over a misleadingly edited clip of a speech can go forward, but threw out Trump\u2019s unfair trade practices claim against the broadcaster. Trump is suing Britain\u2019s publicly funded broadcaster for at least US$10 billion over edited clips of a speech that made it appear he directed supporters to storm the US Capitol on Jan 6, 2021. The case is one of several Trump has privately filed against the news media as part of a wider pressure campaign against coverage he dislikes. US...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:13+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1413
   },
   "ed3588f1465d52e84fde92c70e546ef100cb9491accba190273169f4c8bb0932": {
     "access_status": "available",
@@ -102667,6 +103262,32 @@
       "identity"
     ],
     "word_count": 4733
+  },
+  "f17b5c1188fe8adc4c19b6f1b9321c8a8408f22d7441d7cb5ee3fba1456f70f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show Sign up now: Get ST's newsletters delivered to your inbox The chips were purchased for its management school from Shaanxi Bosuan Network Technology rather than directly from Nvidia, the record shows. PHOTO: REUTERS Published Nov 11, 2026, 02:00 PM Updated Nov 11, 2026, 03:34 PM Set as preferred source Listen Summarise Northwestern Polytechnical University, on the US Entity List, bought two Nvidia H200 chips in October for 874,700 yuan, showing gaps in export controls. Records show Chinese defence-focused universities also rented access to restricted Nvidia chips, including H200, H100, A100 and A800 processors, through domestic suppliers. The findings add pressure on Nvidia and Washington, as lawmakers seek tighter chip controls while China keeps finding ways to access advanced AI computing power. AI generated BEIJING \u2013 A Chinese university with deep ties to the People\u2019s Liberation Army bought Nvidia\u2019s powerful H200 AI chips in October despite being on a US export blacklist, procurement records show, highlighting gaps in Washington\u2019s efforts to curb China\u2019s access to advanced technology. The findings come as Nvidia and its CEO Jensen Huang face mounting scrutiny in Washington over his lobbying for looser restrictions on sales of AI chips to China, following reports alleging he was targeted...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:17+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 3555
   },
   "f17ff61793bb937cc90bbd1fefa45c55d8518c7e2d5e72306f64f52f466b8c9f": {
     "access_status": "unknown",
@@ -107975,6 +108596,30 @@
       "identity"
     ],
     "word_count": 3039
+  },
+  "fd6b2008c306948b55ccbc10c1e2ebca7ea9a791666331086dc4f6cf81476750": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US House blocks bid to impeach Defence Secretary Hegseth Sign up now: Get ST's newsletters delivered to your inbox The Chamber voted 211 to 204 in favour of a motion to refer the impeachment charges to the Republican-led House Judiciary Committee. PHOTO: REUTERS Published Nov 11, 2026, 07:28 AM Updated Nov 11, 2026, 10:16 PM Set as preferred source Listen Summarise Republicans in the US House blocked an effort to impeach Defence Secretary Pete Hegseth, with the vote 211 to 204. Thomas Massie said the motion would kill the impeachment push. Hegseth called the case a \u201cfarce\u201d and defended his record, including the Iran war and the January raid in Venezuela. Trump praised him and said the impeachment effort \u201chas miserably failed!\u201d Hegseth would have been the first US defence secretary impeached. Democrats backed the move, but 11 did not vote, and Massie said Republicans were like passengers on a \u201csinking ship\u201d. AI generated WASHINGTON \u2013 Republicans in the US House of Representatives blocked an effort on Nov 10 to impeach Defence Secretary Pete Hegseth, winning a reprieve for the polarising Pentagon chief before Democrats take control of Congress in 2027 and possibly try again. The vote on a procedural motion came just hours after Hegseth blasted efforts to impeach him as a farce and delivered a defiant defence of his record at the helm of the US military, winning praise from...",
+    "cache_version": 10,
+    "checked_at": "2026-11-12T07:04:14+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2981
   },
   "fd7288356c2a1244084a29d5f49c160597dae832d083b20d44e9db1c0b80aab6": {
     "access_status": "available",
