@@ -2,33 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Research paper": 2,
-        "Vendor blog": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 32,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 1,
-        "platform_product": 1,
-        "psychology": 30
-      },
-      "shortlist_count": 4,
-      "source_domain_distribution": {
-        "developers.cloudflare.com": 1,
-        "papers.ssrn.com": 2,
-        "securitybrief.co.uk": 1
-      },
-      "timestamp": "2026-09-21T04:51:26+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Research / novel method": 2,
-        "Scam development": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Research paper": 2
       },
       "candidate_cache_age_minutes": null,
@@ -1359,6 +1332,38 @@
       "used_candidate_cache": false,
       "usefulness_category_distribution": {
         "Local Singapore / Southeast Asia relevance": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Enforcement report": 2,
+        "Research paper": 1,
+        "Technical article": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 10,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "academic": 1,
+        "current_affairs": 1,
+        "platform_product": 1,
+        "psychology": 7
+      },
+      "shortlist_count": 4,
+      "source_domain_distribution": {
+        "arxiv.org": 1,
+        "asia.nikkei.com": 1,
+        "belfastlive.co.uk": 1,
+        "psychiatrictimes.com": 1
+      },
+      "timestamp": "2026-11-13T06:34:31+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Detection / analytics / engineering insight": 1,
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Product idea / data source": 1,
         "Scam development": 1
       }
     }
