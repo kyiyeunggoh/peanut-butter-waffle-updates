@@ -8979,6 +8979,30 @@
     "weak_generic_terms_found": [],
     "word_count": 217
   },
+  "148bdc073d69b232b94a9797ebb4ca69bab895199cfb1f47009ebd42d645f7d6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018I\u2019ll be buying more\u2019: Singapore investors pour into Nvidia shares on Jensen Huang\u2019s exit Sign up now: Get ST's newsletters delivered to your inbox Jensen Huang\u2019s resignation as Nvidia CEO on Nov 12 sent Nvidia shares down another 14% by the opening of US trading, and down 4.3% at closing. PHOTO: EPA Isabelle Chong and Jeanne Mah Published Nov 13, 2026, 06:30 PM Updated Nov 13, 2026, 06:38 PM Set as preferred source Listen Summarise Singapore retail investors bought Nvidia shares after Jensen Huang resigned, seeing the dip as a chance to invest more. Trading on local platforms jumped sharply, with buy orders rising fast and many clients staying net buyers despite the sell-off. Investors now worry about Nvidia\u2019s leadership and governance, while watching interim chief executive Colette Kress, earnings on Nov 17, and a congressional briefing on Nov 18. AI generated SINGAPORE \u2013 When news broke of former Nvidia chief executive Jensen Huang being ensnared in an alleged honey trap espionage , retail investor Asiya Bakht was quick to snap up shares in the world\u2019s biggest chip company. \u201cNvidia shares had already been on a steep decline even before news of Huang\u2019s resignation broke, so I was monitoring it closely\u2026 When the price dipped further following the announcement, I picked up a few more,\u201d said the 52-year-old. Her current Nvidia holding is already worth five figures, and she...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:11:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3687
+  },
   "1499d54e7360221abf5736cde072180d40dff4fd5393982cf2623d2207ad537e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -9990,6 +10014,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2592
   },
+  "16d570221bc0f191711cd60842e0b27b3de99caff225317821a425d564953013": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Would Jensen Huang\u2019s fall dent China\u2019s AI ambitions? Sign up now: Get insights on Asia's fast-moving developments Former Nvidia CEO Jensen Huang, seen here addressing media in Beijing in May, is being investigated for being the target of a foreign intelligence operation. PHOTO: EPA Michelle Ng Published Nov 13, 2026, 10:05 PM Updated Nov 13, 2026, 10:05 PM Set as preferred source Listen Summarise Jensen Huang\u2019s resignation at Nvidia has raised fears that the US may tighten chip controls, threatening China\u2019s access to advanced AI computing. China called the spy claims \u201cpurely unsubstantiated\u201d and said the US is using them as a pretext for \u201ctechnology blockades\u201d against China. Analysts said pressure on Chinese AI firms may grow in the short term, but the shock could also speed up domestic chip development. AI generated BEIJING \u2013 The abrupt resignation of Nvidia chief executive Jensen Huang has raised fresh questions about China\u2019s access to advanced American artificial intelligence chips, with Beijing accusing Washington of using espionage allegations to justify tighter technology restrictions even as Chinese analysts play down the potential fallout. Huang, who personally lobbied US President Donald Trump to ease restrictions on chip sales to China, was among the most vocal advocates for keeping American technology flowing to the world\u2019s second-largest economy. His departure now...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:01+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3288
+  },
   "16dfbb955bd6cd8cc2b13a09e498a54982a373ea63aca21d3a26b1ffb3db6055": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -10193,6 +10241,30 @@
       "fraud"
     ],
     "word_count": 8
+  },
+  "17729deed828f22c57a0ad277c138b084a16bc636b680de595bc73c4879dc375": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "inkling-2-small Text Generation \u00e2\u0080\u00a2 Thinking Machines Copy as Markdown | View as Markdown | Agent setup Model ID @cf/thinkingmachines/inkling-2-small Copy Cloudflare-hosted Function calling Reasoning Vision Zero data retention Inkling 2 Small is a multimodal Mixture-of-Experts model from Thinking Machines Lab with 594B total and 18B active parameters and up to 1M tokens of context. It accepts text and image inputs and generates text, with built-in reasoning and tool calling. Model Info Context Window \u00e2\u0086\u0097 1,048,576 tokens Terms and License link \u00e2\u0086\u0097 Function calling \u00e2\u0086\u0097 Yes Reasoning none minimal low medium high (default) max Vision Yes Zero data retention Yes Unit Pricing $0.30 per M input tokens, $1.00 per M output tokens, $0.10 per M cached input tokens Playground Try out this model with Workers AI LLM Playground. It does not require any setup or authentication and is an instant way to preview and test a model directly in the browser. Launch the LLM Playground Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role: \"user\" , content: \"What is the origin of the phrase Hello, World\" , }, ]; const stream = await env. AI . run ( \"@cf/thinkingmachines/inkling-2-small\" , { messages, stream: true , }); return new Response (stream, {...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2833
   },
   "177973db1a5b701030052f97c0c75690121a2258cc435ab7f3a8829a33965f71": {
     "access_status": "available",
@@ -13021,9 +13093,9 @@
   "1e309b43006abc290a2f7636d9fe40f698da8d09a6a3309a005c4900936d5b6a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "James Star, claiming to be a Tesla employee, posted that it was \u201cthe saddest news! Cybertruck (was) the best car Tesla sold,\u201d right next to a user called Captain Ford who simply replied to Musk with \u201cFuck that shitbox.\u201d Tesla has not responded to WIRED\u2019s request for comment and clarification that the Cybertruck will no longer be made at all. The Cybertruck is exclusively made at Gigafactory Texas, as this is apparently the only Tesla facility equipped with the machinery required to manufacture the truck\u2019s unique stainless steel body, which supposedly started to rust in some cases. Despite whipping up a fevered number of reservations\u2014allegedly more than a million according to Musk, who at the end of 2023 crowed that demand was \u201coff the charts!\u201d\u2014the truck failed to sell, shifting less than 50,000 units in total by March last year. EVWire cites Kelley Blue Book data suggesting that Tesla sold 11,586 Cybertrucks in the first three quarters of this year in the US, down 28 percent year-over-year, adding that Musk\u2019s announcement post came about 80 minutes after Tesla raised US Cybertruck prices and paused new orders for the entry-level Dual-Motor AWD version. The Cybertruck proved not only to be wildly unpopular, it was also beset by troubles before it even reached customers. In 2023, WIRED covered a leaked Tesla report dated January 25, 2022, that showed the Cybertruck had basic...",
+    "article_excerpt": "James Star, claiming to be a Tesla employee, posted that it was \u201cthe saddest news! Cybertruck (was) the best car Tesla sold,\u201d right next to a user called Captain Ford who simply replied to Musk with \u201cFuck that shitbox.\u201d Tesla has not responded to WIRED\u2019s request for comment and clarification that the Cybertruck will no longer be made at all. The Cybertruck is exclusively made at Gigafactory Texas, as this is apparently the only Tesla facility equipped with the machinery required to manufacture the truck\u2019s unique stainless steel body, which supposedly started to rust in some cases. Despite whipping up a fevered number of reservations\u2014allegedly more than a million, according to Musk, who at the end of 2023 crowed that demand was \u201coff the charts!\u201d\u2014the truck failed to sell, shifting less than 50,000 units in total by March last year. EVWire cites Kelley Blue Book data suggesting that Tesla sold 11,586 Cybertrucks in the first three quarters of this year in the US, down 28 percent year-over-year, adding that Musk\u2019s announcement post came about 80 minutes after Tesla raised US Cybertruck prices and paused new orders for the entry-level Dual-Motor AWD version. The Cybertruck proved not only to be wildly unpopular, it was also beset by troubles before it even reached customers. In 2023, WIRED covered a leaked Tesla report dated January 25, 2022, that showed the Cybertruck had basic...",
     "cache_version": 10,
-    "checked_at": "2026-11-07T05:53:18+00:00",
+    "checked_at": "2026-11-14T06:11:58+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -13040,7 +13112,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2991
+    "word_count": 2992
   },
   "1e5a4789ca6f84cf1a3bc9946372cbad108a460d3b90013907c48fb12a6555b6": {
     "access_status": "available",
@@ -16067,6 +16139,33 @@
     ],
     "word_count": 1050
   },
+  "265918da72190b0992bcde27784a0952e83799d50da6b589deda348f475c2e9a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: [Experiment, Analysis, and Benchmark] PAL-Bench: Evidence-Grounded Profile Reconstruction from Longitudinal Personal Albums Qiwei Yan 1,2, \u2020 \\dagger , Zhiqiang Yuan 1, \u2020 \\dagger \u00a7 \\lx@sectionsign , Zexi Jia 1 , Nanxing Hu 1 , Kailin Lyu 3 , Jie Zhou 1 , Jinchao Zhang 1* Affiliation: 1 WeChat AI, Tencent, Beijing, China 2 University of Chinese Academy of Sciences, Beijing, China 3 Institute of Automation, Chinese Academy of Sciences, Beijing, China yanqiwei22@mails.ucas.edu.cn, yuanzhiqiang19@mails.ucas.ac.cn, dayerzhang@tencent.com Abstract Longitudinal personal albums are weak-schema multimodal databases: their records expose noisy perceptual fields, while their most important facts require joins across faces, text, timestamps, locations, and repeated events. Existing visual, video, document, and lifelog benchmarks test sub-problems, but not album-scale profile reconstruction with social identity binding and evidence citation. Benchmarking this task is difficult because the complete ground truth needed for evaluation\u2014owner profiles, social graphs, face-name maps, and evidence provenance\u2014is exactly the private state that real albums cannot safely release. We introduce PAL-Bench, a controlled benchmark for evidence-grounded reconstruction under a public-record contract. Its Evidence Compiler builds latent private worlds...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 20536
+  },
   "26878bbd21450df63c976b97a59251a1f56dd78355496f591dfb58b68f078df4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -16682,9 +16781,9 @@
   "27895939c2dc36277428f447bde6bbad93192d1d98f02a80bfbba0da32b162b0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "They inflated the neighborhood tool shop into a whole city of lumber, hammers, caulk, power saws, and big rolls of wire. I would know I\u2019m in a Home Depot blindfolded, because of a distinct quality to the air\u2014crisp and particulate, smelling like wood dust and paint and the oiled metal of power tools. The Home Depot smell is buried deep in my childhood, filed somewhere between \u201cbuilding a deck\u201d and \u201cfirst day of spring.\u201d Anyway, the Home Depot website is just as big. And while it doesn\u2019t smell like sawdust, it\u2019s easier to find stuff. Our roundup includes Home Depot promo codes from 20% to $100 off, new customer coupons, free shipping offers, and Pro discounts to drop prices by as much as 50% when you buy online. Top Home Depot Power Tool Deals: Save 30% Today Home Depot wants to be your one-stop-shop where you can get everything done that\u2019s needed to complete a home reno project, or just be prepared for when the next thing breaks. Right now, you can save when you shop the Home Depot tool savings sale. There are tons of discounts of up to 30% off top, best-selling brands like Milwaukee, DeWalt, Ryobi, and more. You can get up to $100 off DeWalt tools, a free tool or battery with purchase, $80 off Milwaukee tools, and clearance items. You can also shop sales by category depending on need, like drills, power tool kits, saws, hand tools, and more.",
-    "cache_version": 8,
-    "checked_at": "2026-08-17T01:53:40+00:00",
+    "article_excerpt": "It inflated the neighborhood tool shop into a whole city of lumber, hammers, caulk, power saws, and big rolls of wire. I would know I\u2019m in a Home Depot blindfolded because of a distinct quality to the air\u2014crisp and particulate, smelling like wood dust, paint, and the oiled metal of power tools. The Home Depot smell is buried deep in my childhood, filed somewhere between \u201cbuilding a deck\u201d and \u201cfirst day of spring.\u201d Anyway, the Home Depot website is just as big. And while it doesn\u2019t smell like sawdust, it\u2019s easier to find stuff. Our roundup includes Home Depot promo codes from 20% to $100 off, new customer coupons, free shipping offers, and Pro discounts that can drop prices by as much as 50% when you buy online. Photograph: Molly Higgins Courtesy of Ryobi Chevron Chevron Save to wishlist Save to wishlist Ryobi 18V One+ Performance Hand Vacuum $99 $75 (24% off) Home Depot $99 $75 (24% off) Ryobi Photograph: Molly Higgins Courtesy of Ryonbi Chevron Chevron Save to wishlist Save to wishlist Ryobi 18V One+ Powered Brush Hand Vacuum $139 Home Depot $139 Ryobi Unlock Home Depot Promo Codes for 10% Off or $5 Off With Sign Up If you register for Home Depot\u2019s Style and Decor newsletter, you receive a special code for 10% off furniture and home accents. Otherwise, you can sign up for the Home Depot coupon newsletter or text alerts to get an immediate $5 off your next in-store purchase of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:04+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -16701,7 +16800,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 6515
+    "word_count": 5113
   },
   "27b95833cda39ff0a5de4e4f0437724a85d16271cd71ffbeec5e6d484ce4f264": {
     "access_status": "available",
@@ -27058,6 +27157,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "40d7d424574879a06cd26705e0e8aa9402bae6b867d9f3712a4d867082d120eb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Vehicle ploughs into pedestrians in Los Angeles, killing at least three Sign up now: Get ST's newsletters delivered to your inbox Police investigate the scene of a car crash that killed three people and critically injured several others in North Hollywood, California, on Nov 10. PHOTO: AFP Published Nov 11, 2026, 11:31 AM Updated Nov 11, 2026, 03:37 PM Set as preferred source Listen Summarise A vehicle hit pedestrians in North Hollywood, Los Angeles, on Nov 10, killing at least three people and critically injuring three others, the fire department said. The Los Angeles Fire Department said the injured were taken to hospitals, but gave no details on how the crash happened. KCAL-TV reported the car struck a food stand near a bus stop on Lankershim Boulevard in the busy NoHo district. AI generated LOS ANGELES \u2013 An SUV ploughed into a group of pedestrians in the North Hollywood district of Los Angeles on the evening of Nov 10 , killing at least three people and leaving three others critically injured, the authorities said. There were no official details immediately available on the circumstances of the incident, which occurred shortly before 6pm Pacific time . A police spokesperson said investigators had yet to determine whether the crash was accidental or deliberate. \u201cWe need to understand exactly what happened and what led to this tragedy,\u201d Los Angeles county supervisor Kathryn...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1304
+  },
   "40e1c8e619f5c397695eadbf266ff4154d564bff16c528e6f4176e346b5b3511": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -32175,7 +32298,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-11-06T06:32:23+00:00",
+    "checked_at": "2026-11-14T06:12:12+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -36158,7 +36281,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "US slaps sanctions on Cambodia's Prince Group over online scams Newly included group members accused of helping others skirt previous measures Cambodia is urgently working with the U.S. and other partners to eradicate online scams. (Photo by Tomohide Yamaguchi) HANOI -- The U.S. Treasury Department has imposed a third round of sanctions on Cambodian conglomerate Prince Group over its involvement in online scams, covering four individuals and 41 entities. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
     "cache_version": 10,
-    "checked_at": "2026-11-07T05:53:17+00:00",
+    "checked_at": "2026-11-14T06:11:58+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -40160,6 +40283,30 @@
     ],
     "word_count": 2450
   },
+  "5d381e0068216d9c1af22f1c38e5851d8bb1e2785385965615b32849f6c3be58": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "embeddinggemma-2 Multimodal Embeddings \u00e2\u0080\u00a2 Google Copy as Markdown | View as Markdown | Agent setup Model ID @cf/google/embeddinggemma-2 Copy Cloudflare-hosted Zero data retention EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text (incl. code), images, video, and audio inputs\u00e2\u0080\u0094and combinations thereof\u00e2\u0080\u0094into a single, unified 768-dimensional vector space. Model Info Context Window \u00e2\u0086\u0097 8,192 tokens Zero data retention Yes Unit Pricing $0.0017 per M input tokens Usage Text export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { // Prefix queries and documents with task instructions for better retrieval quality. const response = await env. AI . run ( \"@cf/google/embeddinggemma-2\" , { input: [ \"task: search result | query: waterproof shoes for trail running\" , \"title: Trail Runner X | text: Waterproof running shoes with a breathable mesh upper.\" , \"title: City Sneaker | text: Lightweight canvas sneakers for everyday wear.\" , ], }); // response.data[i].embedding is a 768-dimensional vector return Response. json (response); }, } satisfies ExportedHandler < Env >; import os import requests ACCOUNT_ID = \"your-account-id\" AUTH_TOKEN = os.environ.get( \"CLOUDFLARE_AUTH_TOKEN\" ) response = requests.post( f \"https://api.cloudflare.com/client/v4/accounts/ {ACCOUNT_ID}...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:00+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1990
+  },
   "5d3d38b706c17f9052a493288fe381c3d11598e802315c9d679412b03108f123": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -43254,6 +43401,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 147
+  },
+  "64e97b1147ff985f196382e01f7733821b5a73d4a29f929579a286b346595ccb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Spending limits and alerts Last updated Nov 13, 2026 | Copy as Markdown | View as Markdown | Agent setup Set spending limits for Workers and Durable Objects, or receive email alerts when spending reaches a threshold. Support for more products is coming soon. When a product reaches its spending limit, Cloudflare blocks supported operations until the next billing period or until you change the limit. Email alerts notify you without blocking usage. Use these controls alongside AI Gateway spend limits to manage compute and AI inference costs across your application. AI Gateway supports per-user and per-model budgets for Workers AI and other AI providers, applied to requests routed through your gateway. In the billing API, a spending limit or email alert is called a spend policy . Choose how to configure spending limits and email alerts for Workers or Durable Objects: Dashboard: Set a spending limit for Workers or Durable Objects. cf CLI: Create and manage spending limits and email alerts from your terminal or coding agent. Choose a control Control Scope What happens at the threshold Spending limit Workers or Durable Objects, across your account Cloudflare blocks the product's supported operations.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3002
   },
   "64efd0383cbfb1237ae357a471434b68bcc1b479487bd1694adb03820d2338b3": {
     "access_status": "available",
@@ -46513,6 +46684,30 @@
     ],
     "word_count": 7971
   },
+  "6c78c9701afe0ad8c8297840fd8f93f879c73568a0f03a983e7cb99d98dabf37": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lawmakers summon Nvidia ex-CEO Jensen Huang after affair with suspected spy Sign up now: Get ST's newsletters delivered to your inbox Jensen Huang resigned as Nvidia CEO on Nov 12. PHOTO: REUTERS Published Nov 13, 2026, 03:51 PM Updated Nov 13, 2026, 04:02 PM Set as preferred source Listen SAN FRANCISCO \u2013 US lawmakers have called Jensen Huang, an architect of the AI boom, to face their questions in December after the former Nvidia chief executive quit over extramarital affairs , including one with a suspected Chinese spy. The scandal has wiped almost half a trillion dollars off Nvidia\u2019s market valuation , as it raises national security fears and leaves the AI industry in uncharted waters. \u201cRecent reports raise serious concerns about our national security and the protection of sensitive US technology,\u201d Republican Senator Tim Scott wrote on Nov 12 on social media platform X. Scott said he was requesting Huang and Commerce Secretary Howard Lutnick to testify in December before the Senate Banking Committee, which he chairs. It joins a call for a closed-door interview with the leather-jacketed, 63-year-old Huang on Dec 1 by three House of Representatives committees, on threat of subpoena. Huang, who has been married to his wife Lori for more than 40 years, admitted on Nov 8 to an affair, reportedly with Alice Huang, a former senior executive at Singapore-based data centre...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2853
+  },
   "6c7fd9e4b80a1cc2b56986d06bb0bcc62bf9c9a3444f21f4a2f72eafca607777": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -47851,7 +48046,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-11-06T06:32:23+00:00",
+    "checked_at": "2026-11-14T06:12:12+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -48726,7 +48921,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-08-29T07:01:58+00:00",
+    "checked_at": "2026-11-14T06:12:04+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -51505,6 +51700,30 @@
       "trust"
     ],
     "word_count": 13704
+  },
+  "77a50997c9468b322a8746b6e126a0d7f3d3f642b8b81b4bef4a9f358bb9c8b4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wins by religious Democrats break Republican grip on faith in politics Sign up now: Get ST's newsletters delivered to your inbox US Senator-elects Abdul El-Sayed (left) and Adam Hamilton arrive at the US Capitol Visitor Center in Washington on Nov 9. PHOTO: REUTERS Published Nov 13, 2026, 11:19 AM Updated Nov 13, 2026, 11:19 AM Set as preferred source Summarise Openly religious Democrats won key midterm races, breaking Republican dominance on faith and politics and helping Democrats recapture Congress. Adam Hamilton, James Talarico and Abdul El-Sayed won in conservative areas by linking Bible-based values with decency, immigration and helping ordinary people. The shift may help Democrats in the South and Midwest, but they now face pressure to deliver on affordability or risk a short-lived victory. AI generated WASHINGTON \u2013 Wins by a string of openly religious Democratic candidates in last week\u2019s midterm elections have broken the Republican stranglehold on integrating faith and politics, a change that could reshape America\u2019s political landscape for years to come. For decades, Democratic Party candidates have been reluctant to talk about faith and done little to actively reach out to religious voters, who favoured Republicans, viewed as the party of traditional family values. But in 2026, that pattern was shattered as Methodist megachurch pastor Adam Hamilton in Kansas and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2535
   },
   "77ac402db929279442473f63ed989fe7247c1529c17cfec4ee48c1ab3a086f52": {
     "access_status": "available",
@@ -57513,6 +57732,30 @@
     ],
     "word_count": 13901
   },
+  "832713818315bed59ec9ffc7d1cf4cca0dbdfad0a9b0c421dfb5d31c10146255": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Terraform Last updated Nov 13, 2026 | Copy as Markdown | View as Markdown | Agent setup Use the Cloudflare Terraform provider \u00e2\u0086\u0097\u00ef\u00b8\u008e to create, update, import, and read AI Search namespaces as code. To create instances in a namespace you manage with Terraform, use provider v5.29.0 or later. Create a namespace Use the cloudflare_ai_search_namespace resource. resource \"cloudflare_ai_search_namespace\" \"support\" { account_id = var . account_id name = \"support\" description = \"Customer support content\" } Arguments Argument Required Description account_id Yes Your Cloudflare account ID. name Yes The namespace name. Use 1 to 28 lowercase letters, digits, and hyphens. The name must start and end with a letter or digit. description No A description of up to 256 characters. public_endpoint_params No The namespace public endpoint configuration.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1143
+  },
   "83276b23654ca583753cea6f8c375e344abbc0d8b1fd819d845d974c6f05a093": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -60730,6 +60973,30 @@
       "fraud"
     ],
     "word_count": 10436
+  },
+  "8bb19ec7e2c4ee319aaf57c2086c04706c015a8c0862920d34f4e35196bd3d21": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Where is Europe\u2019s AI boom? Squint, and it\u2019s showing up in the data. Sign up now: Get ST's newsletters delivered to your inbox In September, machinery output in the Netherlands was 43% higher than a year ago, spurred on by the success of chip-machine maker ASML. PHOTO: REUTERS Soumaya Keynes Published Nov 13, 2026, 03:00 PM Updated Nov 13, 2026, 03:49 PM Set as preferred source Unlock audio \u4e2d\u6587 As the United States and China vie to win the AI race, the European Union seems unable to make it on to the running track. Its woes include an energy shock, fiscal strain, pressure from Chinese competition and chronic uncompetitiveness. But look a little more closely, and the AI boom is showing up in European data. The bloc is much more than a passive spectator to someone else\u2019s sport. It is true that Europe is nowhere near winning a top artificial intelligence producer medal. Its tiddly share of the world\u2019s chips mirrors the fact that of the 64 top large language models, just one is European. Some imagine the EU might catch up by spending roughly \u20ac800 billion (S$1.14 trillion) over three years to build a frontier model.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 706
   },
   "8bbd8aad2ab2f34a18b2e08e60760a6287ebe38364b2f7025618a33ed7ef0ed9": {
     "access_status": "available",
@@ -69423,9 +69690,9 @@
   "a0fc3f99bb503085f81ed1e836e2309d1d4e42532e5c99913014efa93ce1d8cf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Pricing Last updated Oct 20, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
+    "article_excerpt": "Pricing Last updated Nov 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Workers AI is included in both the Free and Paid Workers plans and is priced at $0.011 per 1,000 Neurons . Our free allocation allows anyone to use a total of 10,000 Neurons per day at no charge . To use more than 10,000 Neurons per day, you need to sign up for the Workers Paid plan . On Workers Paid, you will be charged at $0.011 / 1,000 Neurons for any usage above the free allocation of 10,000 Neurons per day. You can monitor your Neuron usage in the Cloudflare Workers AI dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e . All limits reset daily at 00:00 UTC. If you exceed any one of the above limits, further operations will fail with an error. Free allocation Pricing Workers Free 10,000 Neurons per day N/A - Upgrade to Workers Paid Workers Paid 10,000 Neurons per day $0.011 / 1,000 Neurons Pay with AI Gateway credits You can use prepaid AI Gateway credits to pay for Workers AI inference. Set the gateway's Workers AI billing setting to Unified billing , then specify that gateway in the AI binding or REST API request. Requests to frontier models that use prepaid credits receive higher rate limits .",
     "cache_version": 10,
-    "checked_at": "2026-10-27T04:58:27+00:00",
+    "checked_at": "2026-11-14T06:12:05+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -69442,7 +69709,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 4478
+    "word_count": 4590
   },
   "a1221e491fd2cbcab727bbb9dd1f08d8a8af54ab90b9bd5987f5c81851272591": {
     "access_status": "available",
@@ -72005,6 +72272,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1850
   },
+  "a6b1e38fa86f0727ed4d8515fc565cb36820fd39fecee8432e3f4271fc7258f0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Workers binding Last updated Nov 13, 2026 | Copy as Markdown | View as Markdown | Agent setup The ai_search_namespaces binding gives a Worker access to one namespace . Use it to get, list, create, and delete instances in that namespace, and to search across several of its instances in one call. The binding is scoped to the namespace you configure. It cannot create, list, update, or delete namespaces. To manage namespaces, use the REST API , Terraform , or Wrangler . Configure the binding Add an ai_search_namespaces entry to your Wrangler configuration and set the namespace the binding can access: { \"$schema\" : \"./node_modules/wrangler/config-schema.json\" , // Set this to today's date \"compatibility_date\" : \"2026-11-14\" , \"ai_search_namespaces\" : [ { \"binding\" : \"AI_SEARCH\" , \"namespace\" : \"support\" } ] } # Set this to today's date compatibility_date = \"2026-11-14\" [[ ai_search_namespaces ]] binding = \"AI_SEARCH\" namespace = \"support\" Field Type Required Description binding string Yes The variable name available on env . For example, \"AI_SEARCH\" makes it accessible as env.AI_SEARCH . namespace string Yes The namespace to bind to. A default namespace exists for every account. If the namespace does not exist, Wrangler creates it when you deploy.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:01+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 951
+  },
   "a6b22c1df25ff0c19ca1fc3ac04583740f9faa4eb5d5ed303a74265d60b4c610": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -73974,6 +74265,36 @@
     "weak_generic_terms_found": [],
     "word_count": 1228
   },
+  "aadeb415852bc30967210183cce7577d27151ba0d3edf79e9b10e29ed515821c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta\u2019s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned with short-term results. And yet there they all were, a mere five weeks before the midterm elections, gathered at the White House to smile for photos with President Trump and sign on to his \u201cSuper Intelligence\u201d agenda. Even by the diminished standards of today\u2019s corporate governance, this was a shockingly foolish decision. Despite dozens of polls showing a rising tide of anti-Trump sentiment and bipartisan rejection of AI and data centers , the futurists of the tech elite cast aside long-term corporate interests for short-term political favor. And now, their industry is very squarely in the new victors\u2019 crosshairs . For an industry obsessed with pattern recognition, their decision to lash themselves to President Trump has proved to be a catastrophic misreading of the political landscape. Now, not only have they jeopardized their companies\u2019 fates, but they\u2019ve also raised questions about their vision and judgment. What were they thinking? The people who work for them are just as confused as the rest of us.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:05+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2274
+  },
   "aaf677f8a0f5cda36e3a0c833a1cd4335d2fa7d216b8e05943ac9cf50b982c84": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -75366,6 +75687,30 @@
     ],
     "word_count": 14717
   },
+  "ad3dc7de3d340c97e102649a06b598e535b50672038159667d727a3481d1dda0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018I may lose my mind\u2019: Frustrated travellers stuck in ground stop of US flights Sign up now: Get ST's newsletters delivered to your inbox The ground stop comes less than two weeks before the Thanksgiving holiday. PHOTO: EPA Published Nov 14, 2026, 09:22 AM Updated Nov 14, 2026, 11:07 AM Set as preferred source Listen Summarise US flights were grounded nationwide on Nov 13 because of a major communications outage, leaving hundreds of thousands of travellers stranded and confused. Passengers faced long delays, poor information and crowded rental car queues, with some fearing they would miss weddings, concerts and other trips. The disruption came before Thanksgiving and a busy sports weekend, raising wider travel problems and calls for better FAA communication. AI generated NEW YORK \u2013 Confusion reigned at airports across the United States on Nov 13 , as a rare ground stop of all US flights stranded hundreds of thousands of frustrated travellers with no end to the delays in sight. In New York\u2019s busy LaGuardia Airport, Janice Llewellyn was on the verge of tears: The chaos could mean she will miss her daughter\u2019s wedding in Toronto. The 61-year-old Llewellyn was desperate to find an alternative route, telling AFP: \u201cI may lose my mind.\u201d \u201cMy husband flew all the way from England to get to the wedding,\u201d she said. \u201cOh gosh! I wish they had another flight, I wish I could get another...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:11:59+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1706
+  },
   "ad44b49907592a74169e518fbea69640a46e6f8c67b4a090718196771c9cf627": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -76348,6 +76693,30 @@
     ],
     "word_count": 4607
   },
+  "afc4a4881c0e874bd88868f53fb85d4e0ca4bbedd8a0a4c6c47803d221c0a725": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 13, 2026 Set spending limits for Workers and Durable Objects Billing Workers Durable Objects Copy as Markdown | View as Markdown | Agent setup You can now set spending limits for Workers and Durable Objects to help control unexpected usage costs, or receive email alerts while your applications keep running. Support for more products is coming soon. Use these controls alongside AI Gateway spend limits to manage compute and AI inference costs across your application. AI Gateway supports per-user and per-model budgets for Workers AI and other AI providers, applied to requests routed through your gateway. Workers and Durable Objects limits apply across your account for the current subscription billing period. Each product has its own spending controls. Set your limits and alerts In the Cloudflare dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e , select your account and go to Billing > Spend limits . Choose a spending limit, notification email, and alert thresholds for Workers or Durable Objects. For example, configure a $10 Workers spending limit with email alerts at $5 and $9. To receive alerts while your applications keep running, turn off Block usage .",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1450
+  },
   "afcfa94275908c81fd2f82998ea43022a756ac148b39f9420547b5ede59f21d5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -77035,6 +77404,30 @@
       "trust"
     ],
     "word_count": 2226
+  },
+  "b13d9486f2b359cd25de1920a2db676bd6b476e4b3d12c13911fdd2a68c0e936": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Spending limits Last updated Nov 13, 2026 | Copy as Markdown | View as Markdown | Agent setup Set a spending limit on Workers usage charges. The limit covers requests and CPU time across all Workers in your account, after included usage. It excludes the monthly subscription fee. To configure a limit, follow Set a spending limit in the dashboard or Manage spending limits and alerts with the cf CLI . What stops at the limit Once the limit takes effect, Cloudflare rejects new invocations of your Workers, including: Incoming HTTP requests. Cron Triggers. Queue consumer invocations. Email Worker invocations. Calls from other Workers or Durable Objects. HTTP visitors receive error 1103 .",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 991
   },
   "b143b1576a204f30ac5f4083f5ca0369c01443eb80c7a148fa0e95f719a12d5b": {
     "access_status": "available",
@@ -81589,6 +81982,33 @@
     ],
     "word_count": 153
   },
+  "bb752ac4443b0f6fe90e1342e6ec21c4905157d63b8343a143b461daecdf94aa": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "What is Super Micro, the firm named in Singapore\u2019s AI chips probe? Sign up now: Get ST's newsletters delivered to your inbox Only one employee was present during a visit by ST to Super Micro\u2019s office in Buona Vista on Nov 13. He declined to comment. ST PHOTO: SARAH KOH Sarah Koh Published Nov 13, 2026, 05:44 PM Updated Nov 13, 2026, 09:20 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 A server supplier has been publicly identified by the Ministry of Home Affairs as part of a larger probe that began in February 2025 into potential false declarations over the purchase of servers. Super Micro Computer, a US-based firm with known links to chipmaker Nvidia, has been called out by the Singapore authorities for providing \u201climited cooperation\u201d with investigations. Singapore has received limited information and assistance on Super Micro from the US authorities despite repeated requests to the US Department of Justice (DOJ) and the Federal Bureau of Investigation since September 2025, said MHA on Nov 12. Super Micro Computer, which has an office in Singapore, had also been investigated by foreign governments over the smuggling of advanced AI technology across borders. What does Super Micro do? Founded in 1993 and based in the US, Super Micro builds and supplies high-performance servers that contain components such as Nvidia\u2019s in-demand graphic processing units (GPUs). Such servers and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2869
+  },
   "bb84ad0cbd147b6189bf2df66a2cd74db1ba418ecb3d631b496cedbe117d23af": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -85494,6 +85914,30 @@
     ],
     "word_count": 3865
   },
+  "c4ec55480ec64e07cc8f64430c3ebec7384303a0d16f8c848a04ea41dd26a6f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "REST API Last updated Nov 13, 2026 | Copy as Markdown | View as Markdown | Agent setup Use the AI Search REST API to manage namespaces over HTTP. Authentication All requests require an API token with AI Search:Edit and AI Search:Run permissions. In the Cloudflare dashboard, go to My Profile > API Tokens . Go to API Tokens \u2197 Select Create Token . Select Create Custom Token . Enter a Token name , for example AI Search Manager . Under Permissions , add two permissions: Account > AI Search:Edit Account > AI Search:Run Select Continue to summary , then select Create Token . Copy and save the token value. This is your API_TOKEN . Include the token in the Authorization header for all requests: Authorization: Bearer API paths Path Description /accounts/{account_id}/ai-search/namespaces Lists and creates namespaces /accounts/{account_id}/ai-search/namespaces/{name} Operates on a single namespace For the full specification, refer to the Namespace API reference .",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1478
+  },
   "c502ec937695ed79c4b4077e1d71dbf0a2484fe8048fa642fe1835c0390dc152": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -86129,6 +86573,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "c611a606daacd87ea20eb09b21a8bc700ffbffe60c63b9154051294abd3f0388": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "World oil market is returning to surplus as Gulf exports recover Sign up now: Get ST's newsletters delivered to your inbox Some tankers are evading Iranian drones as they sail through the Strait of Hormuz by switching off their tracking signals. PHOTO: REUTERS Published Nov 13, 2026, 08:27 PM Updated Nov 13, 2026, 08:29 PM Set as preferred source Listen Summarise The IEA says the oil market will return to a surplus in the fourth quarter of 2026, as Gulf exports recover faster than demand, with supply set to beat demand by 1.7 million bpd. The IEA said 71 million barrels from emergency reserves will be released by the end of February, including 15 million barrels of diesel. OPEC+ output rose in October, and the IEA expects weaker 2026 demand and higher non-OPEC supply, with a 2027 surplus of about 3.8 million bpd. AI generated LONDON \u2013 The world oil market will return to a surplus in the fourth quarter of 2026, the International Energy Agency (IEA) said on Nov 13, as Middle East exports recover faster than global oil demand despite continued attacks on shipping. The agency also gave more details of remaining volumes to come from a record release of oil from its members\u2019 emergency reserves pledged in March, saying 71 million barrels would be made available by the end of February, including 15 million barrels of diesel to ease market tightness. Oil supply will average 105 million...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:01+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1998
   },
   "c6261e175eecb8f6e67b7b83831f144b14dcab7faac5212e32e1767ccca9f17d": {
     "access_status": "available",
@@ -90447,6 +90915,30 @@
       "trust"
     ],
     "word_count": 2369
+  },
+  "d073970e2304ab5d6e4c7e39b9243269cfca2f4a5b84d26311fe4a0110b08fb7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US lifts nationwide ground stop on flights caused by communications failure Sign up now: Get ST's newsletters delivered to your inbox Published Nov 14, 2026, 05:34 AM Updated Nov 14, 2026, 11:10 AM Set as preferred source Listen Summarise The FAA lifted a nationwide ground stop after a communications failure at air traffic control centres caused chaos, with more than 6,600 flights cancelled and 8,600 delayed. Transportation Secretary Sean Duffy said airspace reopened at 8.15pm Eastern Time, but flights would resume slowly and normal operations could take days to recover. Duffy blamed Congress for not funding a modern system and called for US$50 billion to upgrade ageing air traffic control, while investigators found no sign yet of cyberattack or rogue AI. AI generated WASHINGTON \u2013 The US Federal Aviation Administration (FAA) lifted a nationwide ground stop on Nov 13 after a communications failure at air traffic control centres caused chaos at airports and triggered the longest nationwide shutdown since the Sept 11, 2001, attacks. Transportation Secretary Sean Duffy said US airspace reopened at 8.15pm Eastern Time ( 9.15am Singapore time ), but warned that departures would resume gradually and it would take time for airlines to restore normal operations. \u201cIt\u2019s going to be slow,\u201d Duffy told reporters at the White House. More than 6,600 flights were cancelled and 8,600 delayed...",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1942
   },
   "d0765ab72f74d20bebb7fc805bd660d30715f3bda0c04d733d8e0dfbb82a913d": {
     "access_status": "available",
@@ -101325,6 +101817,41 @@
     "weak_generic_terms_found": [],
     "word_count": 1514
   },
+  "eaba51196a484e0e8b2e4d297b557d2910f097f8515fb37ad23d282baac6e7c2": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:12+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "eac8c4214911d6cf9eaf58eca8b872c378229885619aca33b34373eeb50b6051": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -108547,6 +109074,30 @@
       "identity"
     ],
     "word_count": 3673
+  },
+  "fb2b5de6caf691d2365000b20b5da128dc6aa289e05d75774a3b0beee3a4d857": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Terraform configuration examples Last updated Nov 12, 2026 | Copy as Markdown | View as Markdown | Agent setup The following Terraform configuration examples address common scenarios for managing, configuring, and using AI Security for Apps. For more information, refer to the Terraform Cloudflare provider documentation \u00e2\u0086\u0097\u00ef\u00b8\u008e . If you are using the Cloudflare API, refer to Get started . Enable AI Security for Apps Use the cloudflare_ai_security \u00e2\u0086\u0097\u00ef\u00b8\u008e resource to turn on AI Security for Apps for a zone. This resource requires Terraform Cloudflare provider version 5.29.0 or later. For example: resource \"cloudflare_ai_security\" \"zone_ai_security\" { zone_id = var . cloudflare_zone_id enabled = true } AI Security for Apps only scans requests to endpoints with the cf-llm label. For more information, refer to Add cf-llm label to endpoint . Define custom topics Use the cloudflare_ai_security_custom_topics \u00e2\u0086\u0097\u00ef\u00b8\u008e resource to define the custom topics for a zone. This resource requires Terraform Cloudflare provider version 5.29.0 or later.",
+    "cache_version": 10,
+    "checked_at": "2026-11-14T06:12:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1128
   },
   "fb532531687f8fb633fb6bef428e0b9fc25ca90529ea54627050092db9e9c455": {
     "access_status": "available",

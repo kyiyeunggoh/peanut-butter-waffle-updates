@@ -2,31 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "Research paper": 2
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 31,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "academic": 1,
-        "platform_product": 1,
-        "psychology": 29
-      },
-      "shortlist_count": 2,
-      "source_domain_distribution": {
-        "developers.cloudflare.com": 1,
-        "papers.ssrn.com": 1
-      },
-      "timestamp": "2026-09-22T04:49:32+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Product idea / data source": 1,
-        "Research / novel method": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "News report": 1,
         "Product / developer changelog": 1,
         "Research paper": 1
@@ -1364,6 +1339,33 @@
         "Detection / analytics / engineering insight": 1,
         "Local Singapore / Southeast Asia relevance": 1,
         "Product idea / data source": 1,
+        "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Advisory / guidance": 1,
+        "Policy analysis": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 7,
+      "failed_constraints": [
+        "missing_technical_platform_product_or_data_source_if_available"
+      ],
+      "final_mix_constraints_satisfied": false,
+      "query_group_distribution": {
+        "international": 1,
+        "platform_product": 1,
+        "psychology": 5
+      },
+      "shortlist_count": 1,
+      "source_domain_distribution": {
+        "technologyreview.com": 1
+      },
+      "timestamp": "2026-11-14T06:12:16+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Operational intelligence": 1,
         "Scam development": 1
       }
     }
