@@ -2747,6 +2747,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3043
   },
+  "06a9b7f6dd06bf094c87ca24c40add435e32ccc43f2ae2f90a78bfda50a3c133": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Top scorer on South Korean tax exam confesses to cheating with AI Sign up now: Get insights on Asia's fast-moving developments FILE PHOTO: Figurines with computers and smartphones are seen in front of the words \\\"Artificial Intelligence AI\\\" in this illustration taken, February 19, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Published Nov 15, 2026, 12:34 PM Updated Nov 15, 2026, 01:44 PM Set as preferred source Listen SEOUL, Nov 15 - The marks attained by the top scorer on South Korea's national exam for aspiring tax accountants this year seemed too good to be true and on Sunday, sceptics were proven right when he confessed to using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams taken in April and July. It has also raised the stakes for organisers of South Korea's high-stakes annual college entrance exam this Thursday. \"I cheated using electronic devices and generative AI. My passing the exam with the top score was not the result of fair effort,\" he said, identifying himself by the surname Han, as he apologised on the YouTube channel 'Attorney Lee Don-ho'. Han said he cheated by taking photos of the exam questions with a microcamera, sending them to an AI tool, and checking the answers on a smartphone. Speaking on camera wearing a face mask, Han added that he had submitted a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1014
+  },
   "06ba37760e5d7778e419d9a80fd3afc90654f1bdb76268e78b466615be7045a8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -17026,6 +17050,51 @@
     "weak_generic_terms_found": [],
     "word_count": 361
   },
+  "2864c7cd31517f62b8a6b0f3fba8137844f391ef8de36ce9c6b1fa4bf7133918": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection Chirantan Banerjee, Soumita Chatterjee, Bhargab B. Bhattacharya and Hafizur Rahaman Affiliation: Indian Institute of Engineering Science and Technology, Shibpur, India Abstract Advances in real-time voice cloning and neural vocoders have enabled large-scale streaming deepfake and vishing attacks, while simultaneously exposing voice communication systems to denial-of-service threats. Existing Network Detection and Response (NDR) solutions rely on computationally intensive, GPU-based post-processing techniques that require buffered audio and exhibit limited robustness against unseen speech synthesis models. This paper presents SENTRY , a hardware-oriented, streaming trust engine for inline deepfake detection at the network edge. SENTRY employs an integer lifting-wavelet front end together with a bank of multiplier-free transforms, including wavelet-packet envelopes, Walsh\u2013Hadamard sequency profiles, waveform micro-statistics, and long-term spectral features, designed so that acoustic analysis needs only integer add, shift, compare and bitwise operations. A supervised gradient-boosted tree classifier is combined with an unsupervised Mahalanobis out-of-distribution detector trained solely on authentic speech, and their outputs are fused through a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "vishing",
+      "scam detection",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "voice clone"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "trust"
+    ],
+    "word_count": 10194
+  },
   "286d4cbedbed35fecc4142c90a380cff3dd0faca7f8e0f07ffa37b3533772239": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -20266,7 +20335,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: rmTeXGyreTermesX [arabic]rm[ Path=fonts/, Extension=.ttf, UprightFont=*-Regular, BoldFont=*-Bold ]NotoNaskhArabic [bengali]rm[ Path=fonts/, Extension=.ttf, UprightFont=*-Regular, BoldFont=*-Bold ]NotoSerifBengali [chinese]rm[BoldFont=FandolSong-Bold.otf]FandolSong-Regular.otf [greek]rm[ BoldFont=FreeSerifBold.otf, ItalicFont=FreeSerifItalic.otf, BoldItalicFont=FreeSerifBoldItalic.otf ]FreeSerif.otf In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases Mohsinul Kabir Affiliation: The University of Manchester Affiliation: ELLIS Manchester Md. Tariquzzaman Affiliation: Islamic University of Technology Karam S. R. Elradie Affiliation: The University of Manchester Polydoros Giannouris Affiliation: The University of Manchester Yuechen Jiang Affiliation: The University of Manchester Shaoxiong Ji Affiliation: ELLIS Institute Finland Affiliation: University of Turku Correspondence: {mdmohsinul.kabir, sophia.ananiadou}@manchester.ac.uk Sophia Ananiadou Affiliation: The University of Manchester Affiliation: ELLIS Manchester Abstract Existing safety benchmarks rely largely on synthetic prompts with loosely grounded taxonomies and offer little focused analysis of severe crime categories. We introduce GUISE, a benchmark of criminal-assistance scenarios sourced from real-world cases and...",
     "cache_version": 10,
-    "checked_at": "2026-11-08T05:55:14+00:00",
+    "checked_at": "2026-11-15T06:19:55+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "fake investment",
@@ -21038,6 +21107,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 5442
+  },
+  "32b53563e2980b00b1aa0d0533361d51aefb06da73fef009604ae2c1f1c78206": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "There's a job open on the moon. Photo by Marcin Nowak / Unsplash Good Monday morning. Last week, the UK imposed one of the strictest, most vague (and therefore overly broad) new laws around pornography in recent memory. Recording yourself having consensual kinky sex in private could come with jail time, as could watching other people do it. And sex workers are the ones to feel the repercussions of bad laws like these first, of course, with many reporting content disappearing from their online stores en masse. Keep reading to learn more about what it covers, and how creators are responding. Unsplash In the UK, Face Sitting Porn Might Land You in Jail \u201cI adore breath play. I love being strangled, suffocated and drowned, and I love strangling and suffocating others. Waterboarding: that\u2019s my favourite,\u201d Melissa Todd, a UK-based writer and sex worker, told me. \u201cMany women do: it really isn\u2019t only horrid men forcing us to do these dreadful depraved acts.",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:55+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2411
   },
   "32c457f9a04e5aa89d74bba6b1c93a3788d6bbc5a64fe7c46929228d65b33337": {
     "access_status": "available",
@@ -29915,6 +30008,30 @@
     ],
     "word_count": 4541
   },
+  "468aa598c04ef61e4e9e00673fae3de39856ddf959209fc3e74f54f13781d588": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore, US commit to continue discussions on Megaspeed case Sign up now: Get insights on Asia's fast-moving developments Singapore\u2019s Ministry of Home Affairs had said in a Nov 12 statement that the US had provided little help in its investigation into Megaspeed. PHOTO: AFP Bhagyashree Garekar Published Nov 14, 2026, 09:35 PM Updated Nov 14, 2026, 11:03 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore and the US discussed the Megaspeed case in Washington DC. Both sides said they will keep talking, but gave no details on the facts or next steps. Singapore\u2019s MHA said the US gave little help in its probe into Megaspeed and former executive Alice Huang. The company is under investigation over possible false server purchase claims and other offences. The US said it wants close work with Singapore as it prepares for the ASEAN chairmanship in 2027. Talks also covered shared digital and technology goals and wider US-ASEAN ties. AI generated PHILADELPHIA \u2013 Singapore and the US have discussed the Megaspeed case at a senior-level meeting in Washington, with both countries committing to continue discussions on the matter. The exchange took place during Singapore Minister for Digital Development and Information Josephine Teo\u2019s Nov 12-13 visit to Washington, in the course of which she met key US government officials, including Michael Kratsios, director of the White House Office...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:51+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2466
+  },
   "468f8d1fea0de57cfff557b0f4938543294a7e7c5a1177ab4c04dc22dbb5b992": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -34716,6 +34833,30 @@
       "trust"
     ],
     "word_count": 0
+  },
+  "515597f641f4ad3e24cdcddfe0934ba1d6d0227eaeb97f1ec6b3f9d46589baf1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026 Published Nov 13, 2026, 07:56 PM Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026 Published Nov 13, 2026, 07:56 PM Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release Zoomlion to Showcase AI-Powered Equipment and Robotics at bauma CHINA 2026 Published Nov 13, 2026, 07:56 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 144
   },
   "5155f4a314e00d50d5ef1e4b44b3e7ea40a953619803ef8ddc442d6066375cc4": {
     "access_status": "available",
@@ -40260,9 +40401,9 @@
   "5d36bd230f1b05f3e4a9ad7307495d48210c7dc32925d1187121804f85948b68": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Public buckets Last updated Sep 25, 2026 | Copy as Markdown | View as Markdown | Agent setup Public Bucket is a feature that allows users to expose the contents of their R2 buckets directly to the Internet. By default, buckets are never publicly accessible and will always require explicit user permission to enable. Public buckets can be set up in either of two ways: Expose your bucket as a custom domain under your control. Expose your bucket using a Cloudflare-managed https://r2.dev subdomain for non-production use cases. These options can be used independently. Enabling custom domains does not require enabling r2.dev access. To use features like WAF custom rules , caching, access controls, or Bot Management , you must configure your bucket behind a custom domain. These capabilities are not available when using the r2.dev development url. Custom domains Caching Domain access through a custom domain allows you to use Cloudflare Cache to accelerate access to your R2 bucket. Configure your cache to use Smart Tiered Cache to have a single upper-tier data center next to your R2 bucket.",
+    "article_excerpt": "Public buckets Last updated Nov 12, 2026 | Copy as Markdown | View as Markdown | Agent setup Public Bucket is a feature that allows users to expose the contents of their R2 buckets directly to the Internet. By default, buckets are never publicly accessible and will always require explicit user permission to enable. Public buckets can be set up in either of two ways: Expose your bucket as a custom domain under your control. Expose your bucket using a Cloudflare-managed https://r2.dev subdomain for non-production use cases. These options can be used independently. Enabling custom domains does not require enabling r2.dev access. To use features like WAF custom rules , caching, access controls, or Bot Management , you must configure your bucket behind a custom domain. These capabilities are not available when using the r2.dev development url. To test public object access on your machine, use the local public bucket endpoint . It does not require enabling public access on a deployed bucket.",
     "cache_version": 10,
-    "checked_at": "2026-09-28T05:18:56+00:00",
+    "checked_at": "2026-11-15T06:19:51+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -40281,7 +40422,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 2450
+    "word_count": 2525
   },
   "5d381e0068216d9c1af22f1c38e5851d8bb1e2785385965615b32849f6c3be58": {
     "access_status": "available",
@@ -53013,6 +53154,30 @@
     ],
     "word_count": 1937
   },
+  "7a113a7c3fdec76d0d361a7e773df8bd7d1859db8536dbc08b1c4567f01254f6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore-based billionaire Leo KoGuan vows to halt Nvidia buys after Jensen Huang exit Sign up now: Get ST's newsletters delivered to your inbox Leo KoGuan, who has a US$13.2 billion fortune, began investing in Nvidia in March. PHOTO: GETTY IMAGES Published Nov 14, 2026, 04:00 PM Updated Nov 14, 2026, 04:31 PM Set as preferred source Listen Summarise Leo KoGuan said he will not buy more Nvidia shares after Jensen Huang\u2019s exit, calling Huang \u201cthe supreme creator\u201d and saying, \u201cNo further investment without Jensen.\u201d KoGuan said he has invested about US$1.3 billion in Nvidia, but his stake could not be independently verified. He began buying in March and has also backed Tesla, SpaceX and Alphabet. Huang was abruptly removed after reports of three affairs, including one with a woman suspected of spying for China. KoGuan said investors should buy and hold super-intelligence companies for the long term. AI generated Billionaire investor and Nvidia shareholder Leo KoGuan expressed support for Jensen Huang on Nov 13 and said he will not increase his stake in the tech company with someone else at the helm. \u201cNo further investment without Jensen,\u201d KoGuan said in a text message, saying he has invested around US$1.3 billion (S$1.7 billion) in Nvidia. In a series of posts on X, KoGuan called Huang \u201cthe supreme creator\u201d and acknowledged that while the executive had made errors, \u201cwe must...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1323
+  },
   "7a2554e89aa686fd3dd7f1e05cf198c70b1dfa380d26a84df48ba699dab1b985": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -56008,6 +56173,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2170
+  },
+  "7faf2565837c7dac40616ff1d94d279d87846cc6509d651d85288239276e030e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis Nvidia\u2019s next CEO: Some prediction market traders bet Jensen Huang will make a comeback Sign up now: Get ST's newsletters delivered to your inbox Nvidia has yet to name a permanent successor to Jensen Huang, with some in the industry calling him irreplaceable. PHOTO: REUTERS Kang Wan Chern Published Nov 14, 2026, 08:00 AM Updated Nov 14, 2026, 08:00 AM Set as preferred source Listen Summarise Some Kalshi traders bet Nvidia may rehire Jensen Huang as permanent CEO by 2028, even after his Nov 12 resignation. Ian Buck leads the market at 33%. Huang stepped down after reports of three affairs and admitted ties to Alice Huang, who is suspected by the US of spying for China. Supporters, including Shaun Maguire, Elon Musk and Donald Trump, praised him as vital to AI leadership. Nvidia faces big risks because it has no succession plan and 60 executives report to Huang. Shares rebounded after the shock exit, but Washington scrutiny and investor concern remain. AI generated SINGAPORE \u2013 Jensen Huang has stepped down as Nvidia\u2019s chief executive , but some traders on the prediction market Kalshi are betting that the chipmaker will name him its next permanent CEO before 2029. Nvidia has yet to name a permanent successor to one of the AI industry\u2019s most influential leaders, with some in the industry calling him irreplaceable. On Kalshi, which is regulated in the US but banned...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3298
   },
   "7fd4603a577b78436df23cbdfe1935b4ad7f0887d8e70e9a2a00a835e20cf8a3": {
     "access_status": "available",
@@ -59949,6 +60138,32 @@
     ],
     "word_count": 1650
   },
+  "886bfe236fce26f1c813753dee5fab835c8de87390d4ad689503a986dbec0e08": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Microsoft says affected services fully recovered after more than 24 hours of global disruption Sign up now: Get ST's newsletters delivered to your inbox The US tech company was not aware of any malicious activity and ruled out AI as the cause. PHOTO: REUTERS Published Nov 14, 2026, 03:27 AM Updated Nov 14, 2026, 04:15 PM Set as preferred source Listen Summarise Microsoft said Teams, Outlook and other services fully recovered after a global outage lasting more than 24 hours. The company blamed server issues and ruled out malicious activity. The outage hit governments, airlines, banks and businesses worldwide, blocking e-mails, calendars and meetings. Downdetector logged more than 7.4 million reports, peaking at nearly 20,000 a minute. Experts warned the incident shows the risk of relying on one Big Tech provider. Microsoft has had more outages in 2025 and 2026, raising fresh doubts about its reliability. AI generated Microsoft on Nov 14 said that services had fully recovered across Teams, Outlook and its other products, ending a global outage that crippled online communications across businesses and governments for over 24 hours. \u201cWe have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,\u201d the company posted on social media platform X. Microsoft had said server issues were behind the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3010
+  },
   "887a702f7448e15bc35bc3072e2aa3537238c30170b6baa9e7452186e8ca44b0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -62318,6 +62533,32 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "8f44af64182a4bc6c9c55ab7b6225edb1753137080ef1ed14765c7926351fea9": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Most Americans want new Democratic Congress to end Trump\u2019s Iran war: Poll Sign up now: Get ST's newsletters delivered to your inbox Many Americans appear concerned that Democrats will use their new power to launch legal proceedings against US President Donald Trump. PHOTO: REUTERS Published Nov 10, 2026, 07:08 PM Updated Nov 10, 2026, 09:06 PM Set as preferred source Listen WASHINGTON \u2013 Most Americans want the newly elected Democratic-majority US Congress to act to end the war with Iran and to repeal tariffs put in place by President Donald Trump, signalling demand for quick action to address the high cost of living, a new Reuters/Ipsos poll found. The four-day poll, completed on Nov 9 , showed 71% of Americans \u2013 including 93% of Democrats and 51% of Republicans \u2013 want the US Congress to pass legislation ending the conflict with Iran that Trump launched alongside US ally Israel in February . Democrats won their largest majorities in the Senate and House of Representatives since at least 2008 in the Nov 3 midterm elections, in a sharp rebuke to Trump\u2019s Republicans over high costs and a deeply unpopular war. Democrats will take power when the new Congress is sworn in on Jan 3. A smaller but still-significant share of respondents \u2013 62% \u2013 said they would support an effort to repeal tariffs on imports put in place by the Trump administration. The war with Iran has pushed fuel...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2163
+  },
   "8f4bb67225a1e07037870322a6c2d7aae5e1add2384013afaa37addd38ee5639": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -63223,6 +63464,32 @@
       "identity"
     ],
     "word_count": 20441
+  },
+  "91d55537ce2fa7f05b6bac4a2d4f7ca5a4fd2df7861c7f91af9a214aef06b8ad": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show Sign up now: Get insights on Asia's fast-moving developments Published Nov 11, 2026, 01:33 PM Updated Nov 11, 2026, 04:43 PM Set as preferred source Listen BEIJING, Nov 11 - A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, highlighting gaps in Washington's efforts to curb China's access to advanced technology. The findings come as Nvidia and its CEO Jensen Huang face mounting scrutiny in Washington over his lobbying for looser restrictions on sales of AI chips to China, following reports alleging he was targeted by a Chinese spying operation. Huang has argued that continued US sales to China would preserve American technological leadership and keep Chinese customers reliant on US technology. But some US lawmakers say access to Nvidia's most powerful AI chips can speed China's development of AI systems for weapons design, intelligence analysis and military modernisation. Both Democrats and Republicans in Congress have urged stronger controls on China's access to advanced AI chips, such as chip-tracking requirements and greater congressional oversight of exports. Three Republican congressional committee chairmen have requested a briefing with Huang on...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:53+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 3207
   },
   "91dcb6c908ab6172990ee7424f9627cf2679371d9095374a6fff1ce2c169f7b7": {
     "access_status": "available",
@@ -74926,6 +75193,30 @@
     ],
     "word_count": 2210
   },
+  "ac170274f04cd27a0d88b4354cbf4d419c66ea7654b885e8c38621c4250a9528": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Megaspeed has hired a US law firm to review export control compliance, says Singaporean director Sign up now: Get ST's newsletters delivered to your inbox Megaspeed said the US law firm would conduct a comprehensive inventory of its graphics processing units. PHOTO: LIANHE ZAOBAO Cheong Poh Kwan Published Nov 12, 2026, 04:15 PM Updated Nov 12, 2026, 09:20 PM Set as preferred source Listen Summarise \u4e2d\u6587 Megaspeed has hired a US law firm to review its export control compliance and check its graphics processing units, said Singaporean director Tan Yong Pong. The company said it has cooperated with the US Commerce Department\u2019s Bureau of Industry and Security and will work fully with other US authorities. The move comes as Megaspeed faces scrutiny over Nvidia chip purchases, possible chip diversion, and ongoing investigations in Singapore and the US. AI generated SINGAPORE \u2013 Megaspeed International, the Singapore buyer of Nvidia\u2019s advanced artificial intelligence chips that has come under global scrutiny, has engaged a US law firm to review its compliance with American export control laws. In a Nov 12 statement issued by its Singaporean director Tan Yong Pong, also known as James Tan, the company said the law firm would conduct a comprehensive inventory of its graphics processing units and independently verify its export control compliance practices. Tan signed off as Megaspeed\u2019s...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1628
+  },
   "ac3b1bef5c0aa10dd67d155a3f377778c8a479d6a13ca608cc9d2897a62efcbe": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -80264,6 +80555,58 @@
     ],
     "word_count": 15601
   },
+  "b811013d9cd73a79dacb9818f9ebb55eadcd4d9e6d19e96f5ad36a8deeab881d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "A person holding a smartphone displaying a \"scam alert\" message on its call screen. (File photo: iStock) New: You can now listen to articles. This audio is generated by an AI tool. Saksith Saiyasombut Darrelle Ng Saksith Saiyasombut & Darrelle Ng 14 Nov 2026 06:12PM Bookmark Bookmark Share WhatsApp Telegram Facebook Threads Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST BANGKOK: Scammers are increasingly using artificial intelligence to automate fraud and target victims on a massive scale, prompting calls for stronger international cooperation as estimated losses from scams across Asia reach US$136.5 billion over the past year. The Global Anti-Scam Alliance (GASA) warned that governments and technology companies cannot tackle the growing threat alone, as criminal syndicates exploit cross-border operations and increasingly sophisticated technology to evade detection. \u201cCountries cannot fight this alone.",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "phone scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "phone scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam",
+      "phone scam",
+      "scam compound",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4429
+  },
   "b81f4249917ad13fe013faadabae78114a01b70e504ee413cb772d30645cc563": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -80375,6 +80718,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2698
+  },
+  "b8314be69c16959e400316e43018bb4d4564d5bd58417f39d2efe9dc39a87740": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Japan-led probe finds 1,000 servers likely used for AI-driven cyberattacks Sign up now: Get insights on Asia's fast-moving developments Hacking, which previously required time even for those with specialised knowledge, has become easier with the emergence of high-level AI. PHOTO: REUTERS Published Nov 15, 2026, 08:06 AM Updated Nov 15, 2026, 08:10 AM Set as preferred source Listen Summarise Japan-led investigation found around 1,000 servers likely used for AI-driven cyberattacks since October, with JPCERT/CC tracking 600 to 700 of them. Most servers hosted AI tools like Artex to search for weaknesses and steal configuration files, showing hacking is becoming easier with advanced AI. Analyst Ken Sajo warned that AI attacks are still early, and \u201cmore sophisticated attacks will increase in the future.\u201d AI generated TOKYO \u2013 Around 1,000 servers suspected of serving as bases for advanced artificial intelligence-driven cyberattacks have been online since October, a Japanese-led international investigation showed Nov 14 . The probe by the Japan Computer Emergency Response Team Coordination Centre (JPCERT/CC), conducted in cooperation with overseas cybersecurity firms, found that the servers may have used AI to search for vulnerabilities and target websites worldwide. Hacking, which previously required time even for those with specialised knowledge, has become easier with the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1182
   },
   "b83d76cff56383f30d7adabe2e42eaf906a5cee3a890c4092ee9e59045c7155a": {
     "access_status": "available",
@@ -93094,6 +93463,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1283
   },
+  "d5857331511dbaa32c791466bfdfb50dd9ee81a7427e1a68cf59bccbad7643c3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Top scorer in South Korea\u2019s tax accountant exam admits to AI-assisted cheating Sign up now: Get insights on Asia's fast-moving developments The cheating involved using a miniature camera to photograph the questions, sending them to an AI tool and checking the answers on a smartphone. PHOTO ILLUSTRATION: UNSPLASH Published Nov 15, 2026, 11:22 AM Updated Nov 15, 2026, 11:31 AM Set as preferred source Listen Summarise Han Won-seok, 34, the top scorer in South Korea\u2019s 2026 tax accountant exam, admitted he used AI and a hidden camera to cheat, and said sorry for the harm caused. He also said he used the same method in the first round of the certified public accountant exam in March. His very high scores had already raised doubts among other candidates. After the allegations, police and professional groups launched probes. Prime Minister Han Seong-sook promised \u201czero-tolerance\u201d for exam cheating, and the tax accountant body asked for an investigation. AI generated SEOUL \u2013 The top scorer in the 2026 tax accountant qualification exam in South Korea has turned himself in to the police and admitted to using artificial intelligence to cheat. Han Won-seok, 34, confessed in a video posted on Nov 15 on the YouTube channel of his attorney, Lee Don-ho. \u201cI submitted a written confession to the Seoul Metropolitan Police Agency detailing everything I did,\u201d Han said in the video, appearing with...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:50+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1977
+  },
   "d5910c10016d74d218a01a83e1148c9a3d953a73cc04740b691a6ddf5b1a3c26": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -97004,6 +97397,30 @@
     ],
     "word_count": 1679
   },
+  "de95659a8c77da2aa1693e6f51392e63f47db2b48191d633d3b01c6ea28cef68": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis Who are the winners and losers from the Jensen Huang affair? Sign up now: Get ST's newsletters delivered to your inbox Jensen Huang embracing Chinese businesswoman Alice Huang after delivering his keynote speech at COMPUTEX 2024 in Taipei, Taiwan. PHOTO: REUTERS Jonathan Eyal Published Nov 14, 2026, 10:30 PM Updated Nov 15, 2026, 12:29 AM Set as preferred source Unlock audio Summarise \u4e2d\u6587 Jensen Huang\u2019s exit removes Nvidia\u2019s key political links. His influence on US-China chip policy is gone, and this may reshape regulation and rivalry. Howard Lutnick is under pressure after claims he ignored export controls on Megaspeed. US officials now back tougher action, and China hawks are gaining ground. Tech leaders close to Trump could face scrutiny and their firms may suffer from weak succession plans and new regulation. AI generated LONDON \u2013 Chips do not stop shipping because a chief executive leaves, so Nvidia will continue to be a key global player in its industrial sector. Still, what Jensen Huang took with him when he left Nvidia were his unique business acumen and priceless political connections. And both are irreplaceable.",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 713
+  },
   "dea1410ece1004dee7b25301dca4c719ce7ed044b6327ab34fca25b6bc8d0ca4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -99524,6 +99941,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "e4a701e309f1cbbdf0b1a9dfa5034b3211a0eb5be0bbc1316d11aeb81ff87ce9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "News analysis Nvidia affair will hang over Trump\u2019s upcoming trip to Asia-Pacific Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump and then Nvidia CEO Jensen Huang (right) listening as President Xi Jinping of China spoke during a state dinner at the White House in Washington on Sept 24. PHOTO: DOUG MILLS/NYTIMES Bhagyashree Garekar Published Nov 14, 2026, 01:50 PM Updated Nov 15, 2026, 05:44 AM Set as preferred source Listen Summarise \u4e2d\u6587 Trump\u2019s Asia trip is clouded by the Nvidia affair, as US officials face questions over how restricted AI chips reached China through Megaspeed. The White House hopes ASEAN, Japan, India and the Quad meetings will show progress on trade, AI ties and partnerships. Trump\u2019s talks with Xi, and the three-way summit with Putin, will be closely-watched, but they also risk controversy and limited results. AI generated PHILADELPHIA \u2013 The Nvidia affair is threatening to hijack US President Donald Trump\u2019s trip to Asia even before he boards Air Force One. The administration is on the back foot, forced to explain how America\u2019s most precious AI technology has been leaking into China and to identify who is responsible. The mounting outrage at the perceived squandering of the US\u2019 competitive edge over China is also shattering the remarkable cohesion in Trump\u2019s Cabinet. Treasury Secretary Scott Bessent on Nov 13 publicly blamed...",
+    "cache_version": 10,
+    "checked_at": "2026-11-15T06:19:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5507
   },
   "e4b4deec8444b5e24bf8f421140ac525d62a7b2e380a144f8669a873f2808992": {
     "access_status": "available",
