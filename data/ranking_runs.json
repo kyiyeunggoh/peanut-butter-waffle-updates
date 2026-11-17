@@ -2,35 +2,6 @@
   "runs": [
     {
       "article_type_distribution": {
-        "News report": 2,
-        "Research paper": 1
-      },
-      "candidate_cache_age_minutes": null,
-      "candidate_count": 35,
-      "failed_constraints": [],
-      "final_mix_constraints_satisfied": true,
-      "query_group_distribution": {
-        "current_affairs": 2,
-        "psychology": 29,
-        "singapore_sea": 4
-      },
-      "shortlist_count": 5,
-      "source_domain_distribution": {
-        "papers.ssrn.com": 1,
-        "reuters.com": 1,
-        "straitstimes.com": 2,
-        "wired.com": 1
-      },
-      "timestamp": "2026-09-25T04:52:38+00:00",
-      "used_candidate_cache": false,
-      "usefulness_category_distribution": {
-        "Local Singapore / Southeast Asia relevance": 1,
-        "Operational intelligence": 1,
-        "Product idea / data source": 1
-      }
-    },
-    {
-      "article_type_distribution": {
         "Enforcement report": 1,
         "Investigative report": 1,
         "Research paper": 1
@@ -1350,6 +1321,36 @@
       "usefulness_category_distribution": {
         "Local Singapore / Southeast Asia relevance": 1,
         "Scam development": 1
+      }
+    },
+    {
+      "article_type_distribution": {
+        "Deep analysis": 1,
+        "Enforcement report": 2,
+        "News report": 1
+      },
+      "candidate_cache_age_minutes": null,
+      "candidate_count": 5,
+      "failed_constraints": [],
+      "final_mix_constraints_satisfied": true,
+      "query_group_distribution": {
+        "current_affairs": 1,
+        "international": 2,
+        "psychology": 2
+      },
+      "shortlist_count": 4,
+      "source_domain_distribution": {
+        "bbc.com": 1,
+        "channelnewsasia.com": 1,
+        "technologyreview.com": 1,
+        "the420.in": 1
+      },
+      "timestamp": "2026-11-17T07:49:53+00:00",
+      "used_candidate_cache": false,
+      "usefulness_category_distribution": {
+        "Local Singapore / Southeast Asia relevance": 1,
+        "Operational intelligence": 1,
+        "Scam development": 2
       }
     }
   ]

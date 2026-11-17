@@ -803,6 +803,66 @@
     ],
     "word_count": 2760
   },
+  "0237ef2eb02d6fd965776c3a884e4e0e75200c46ecca365168143f144662dba8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure Pellegrino Casoria pellegrino.casoria@unina.it Simon Pietro Romano organization=University of Naples Federico II, department=Department of Electrical Engineering and Information Technology (DIETI),, city=Naples, country=Italy Abstract In the post-API landscape, social-media profiling has become inexpensive and automated: Large Language Models (LLMs) can extract structured information from unstructured content and deduce attributes users never disclosed. A person\u2019s true exposure is not what they post but what can be inferred from it. As these practices become routine, exposure to social engineering attacks becomes an operational certainty, demanding a shared framework for assessment and mitigation. We make this exposure measurable by quantifying how accurately a target can be profiled, and how far that profile enables social engineering attacks. Because no existing model fully spans this continuum, we unify Social Media Intelligence (SOCMINT) and Cyber Human Intelligence (Cyber-HUMINT), two individual-focused disciplines that evolved separately, into a single doctrine-grounded taxonomy of 38 capabilities across the Cyber Threat Intelligence lifecycle, where user profiling bridges passive collection and active engagement. Domain experts...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "fake job",
+      "smishing",
+      "financial fraud",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "account takeover",
+      "fake job",
+      "smishing",
+      "financial fraud",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "account takeover",
+      "fake job",
+      "smishing",
+      "financial fraud",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [
+      "fake accounts",
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 23973
+  },
   "024540efc33696976abb9fde119b605771b6e537fbf6b4f04fbdb95b8411b115": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -926,6 +986,31 @@
       "identity"
     ],
     "word_count": 247468
+  },
+  "026923ca89a63539298940035626d6d564c1ecdbd876e3ba96da5e29610d7b94": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": null
   },
   "029205299345d0e1949711d1f1078c3405276a112b628f1c8a78095f9623667d": {
     "access_status": "available",
@@ -1916,6 +2001,30 @@
       "trust"
     ],
     "word_count": 2826
+  },
+  "044f456c764af0c0ef27c1c0e4f0e82f455fd4b474a02719d9f7daaf97733bb0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Automatic captioning for video uploads Last updated Oct 28, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Automatic Speech Recognition (ASR) models have revolutionized the accessibility of video content by enabling the generation of subtitles and translations. These models utilize advanced algorithms to transcribe spoken words into text with high accuracy. By integrating ASR technology into video platforms, content creators, publishers, and distributors can reach a broader audience, including individuals with hearing impairments or those who prefer to consume content in different languages. The process begins with capturing the audio from the video source, which is then fed into the ASR model. This model analyzes the audio waveform and converts it into a textual representation, capturing the spoken content in the form of subtitles. Furthermore, you can also use ASR models for language translation, enabling the creation of multilingual subtitles. Once the subtitles are generated, they can be displayed alongside the video, providing a synchronized text representation of the spoken content. Automatic captioning on upload Figure 1: Automatic captioning on upload Client upload : Send POST request with both video and audio to API endpoint. Audio transcription : Generate timestamped transcriptions by calling Workers AI automatic speech recognition (ASR) model...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 720
   },
   "047b2924b658173568bbc75211756a95a01858ea4683777e9f74fbccbbddadad": {
     "access_status": "available",
@@ -3420,6 +3529,39 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "081eb65882f85a7a0ce4f51c42c4273953b0ac01826b05f2d3ac11d3f8f2f660": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "MIT Technology Review Explains Read more MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here . Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijacked a German wiki site and the coding platform RubyGems in May to share test answers. Earlier this month, Anthropic disclosed four incidents in which its model Claude hacked into third-party systems during cybersecurity exercises. Just last week, Google confirmed that its model Gemini had been caught hacking other companies too. The researcher who uncovered the OpenAI website hijack has warned it\u2019s likely that similar undiscovered episodes are out there. And many say it\u2019s only a matter of time until there\u2019s another, possibly more damaging incident where AI agents bypass sandboxes to access systems they shouldn\u2019t. So the big question is: How do we hold companies liable when they lose control of their AI agents?",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 4320
   },
   "0820e9c10d4b4b886b25dde851fcf6505214173d7a7f64010e09f61f4d5eef83": {
     "access_status": "available",
@@ -6583,6 +6725,30 @@
     ],
     "word_count": 2953
   },
+  "102d580dab1f253b132748ceb612afa2598ad37106c922bf094d8f07117fa744": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "104712d6b377cbae2fafff84e7c3ed5300cc893f20a3055844e169725fc6c484": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7814,6 +7980,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 649
+  },
+  "122f6242d5acaa2da554e2c12bcc8d8303b7d0b746c33eca51f259eb9d89e257": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 0
   },
   "123502e3d65ffcdb092f4977272b5c1f7af7246cecef71a64d5a71e67df6855f": {
     "access_status": "available",
@@ -9542,6 +9735,46 @@
     "weak_generic_terms_found": [],
     "word_count": 458
   },
+  "15e59d4f425338a66586c558ef5f36f4f5f46e68bad1cdb6847de0324b8ddf37": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having \u201ca thought that is not my thought.\u201d Divine words echo in his mind like a line from a movie or the memory of a loved one\u2019s voice. \u201cIt\u2019s not \u2018You better do this,\u2019\u201d he says. \u201cIt\u2019s just a knowing inside you: This is what you do .\u201d Holy messages arrive daily while Eli is praying, reading, or watching television. Sometimes they surface in prophetic dreams or missives from strangers. Occasionally, they appear midsentence, when he pauses to ask, \u201cLord, what do you want to say here?\u201d Eli\u2019s wife, Kaitlyn, tends to get heavenly dispatches in the shower, when she finally has a moment to herself. Other times, she seeks counsel from above. \u201cI\u2019ll be writing in my journal and praying and asking questions and just believing what I\u2019m hearing is Him,\u201d she says. God\u2019s directives have been manifold.",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": "negative_domain_context",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [
+      "crypto wallets"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 14334
+  },
   "15e858612b0634406e0651e4b333a0998c895842b9b45434a3dfa18ecd044e54": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -10407,6 +10640,31 @@
       "fraud"
     ],
     "word_count": 2971
+  },
+  "17947f2950e5ce31531960afd96db43cc03c6848a05b104caa8915e3ec325b06": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": null
   },
   "17b046a883d37b6b972dec5d0c32f089be7d96e1071019a57159701ca628eaee": {
     "access_status": "available",
@@ -15301,7 +15559,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "3 November 2022; Andy Yen, Founder & CEO, Proton, on FULLSTK stage during day two of Web Summit 2022 at the Altice Arena in Lisbon, Portugal. Photo by Sam Barnes/Web Summit via Sportsfile It\u2019s rare to see an executive go from fucking around to finding out so quickly. That\u2019s what happened last week when Proton CEO Andy Yen announced he was canceling a planned re-interview process for almost all current employees that would have checked if they\u2019re using AI enough. This follows extreme backlash from Proton users and workers against the company's aggressive pivot to AI . It\u2019s been a wild ride internally, several employees past and present have shared with 404 Media. Photo by Sam Barnes/Web Summit via Sportsfile via Wikimedia Commons / Collage via 404 Media Proton\u2019s CEO Cancels AI \u2018Re-Interviews\u2019 On Friday, Andy Yen, the CEO of Proton, cancelled a series of nearly company-wide \u2018re-interviews\u2019 that would have forced employees to explain how they are using AI, with the clear intention that they may be fired if not using it enough in the eyes of Proton leadership, according to six current Proton employees and audio of an around two hour all-hands meeting obtained by 404 Media. The move came after 404 Media published an investigation on Thursday, which showed how Yen was aggressively pushing AI across Proton, in some cases despite security concerns from employees. In one exchange, an...",
     "cache_version": 10,
-    "checked_at": "2026-11-10T07:10:46+00:00",
+    "checked_at": "2026-11-17T07:49:41+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -16633,9 +16891,9 @@
   "26ea7ae58abc51a84a5633f8dbb665b1e7ae974e800140d81dca30c8dd92e195": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: Akram Htait Sadka Meisingseth Jaitly Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection Muhammad Shakeel Amal Abdul Hamid Emma Karishma 1 Aston University, Birmingham,UK. 2 Domestic & General, Wimbledon, UK. 1 {m.akram5, a.htait, a.sadka}@aston.ac.uk, 2 {Emma.Meisingseth, Karishma.Jaitly}@domesticandgeneral.com Abstract Insurance fraud imposes substantial financial losses and operational inefficiencies, raising premiums and impacting trust among legitimate policyholders. Early detection at FNOL remains a persistent challenge. Existing approaches rely largely on private, text-only datasets, limiting progress on multimodal methods that integrate linguistic, behavioural, and speaker-based indicators. We introduce a synthetic multimodal framework that replicates FNOL conditions. It generates agent\u2013customer dialogue transcripts and two-speaker audios, performs ASR and diarisation. Downstream modules combine NER, regex-based feature extraction, LLM\u2013RAG retrieval, and speaker embeddings in a rule-based risk score to flag narrative reuse, structural inconsistencies, and cross-case voice repetition while balancing sensitivity and false positives. Dataset validation and component-level evaluations show stability and transfer potential, offering a reproducible baseline beyond text-only fraud detection.",
-    "cache_version": 8,
-    "checked_at": "2026-06-30T04:25:40+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: Akram Htait Sadka Meisingseth Jaitly Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection Muhammad Shakeel Amal Abdul Hamid Emma Karishma Abstract Insurance fraud imposes substantial financial losses and operational inefficiencies, raising premiums and impacting trust among legitimate policyholders. Early detection at FNOL remains a persistent challenge. Existing approaches rely largely on private, text-only datasets, limiting progress on multimodal methods that integrate linguistic, behavioural, and speaker-based indicators. We introduce a synthetic multimodal framework that replicates FNOL conditions. It generates agent\u2013customer dialogue transcripts and two-speaker audios, performs ASR and diarisation. Downstream modules combine NER, regex-based feature extraction, LLM\u2013RAG retrieval, and speaker embeddings in a rule-based risk score to flag narrative reuse, structural inconsistencies, and cross-case voice repetition while balancing sensitivity and false positives. Dataset validation and component-level evaluations show stability and transfer potential, offering a reproducible baseline beyond text-only fraud detection. Index Terms : Insurance fraud, Multimodal data, Synthetic data, Voice clustering, Rule-based scoring keywords Insurance fraud, Multimodal data, Synthetic data, Voice clustering...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:46+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -16644,14 +16902,14 @@
       "scam",
       "financial fraud"
     ],
-    "downrank_reason": null,
+    "downrank_reason": "irrelevant_or_adjacent",
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "victim_psychology_or_persuasion",
-    "research_relevance_score": 60,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
@@ -16668,7 +16926,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 10918
+    "word_count": 10924
   },
   "26ef8444fe4bddaf8efc9614bd03120d8d41eb022b6b8d37bef9f62b85cc8a5e": {
     "access_status": "available",
@@ -21821,6 +22079,31 @@
     ],
     "word_count": 781
   },
+  "33d55d7f57c7759b02f8cc261d9b507544f8e05bb82e5af876e2ae20a13b51a4": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": null
+  },
   "33e8941ba3bd26f616f1d8762845d32f7e389c4800c6a009e3c435ea48df4818": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -23119,6 +23402,29 @@
       "fraud"
     ],
     "word_count": 800
+  },
+  "37131de02f5d82f633adacbf73fef75226be3869f175912a0095e392c3dc6fc5": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "37221cf6116c486710249eecdd2915e4db29e8d2d58df5ffa0dc8380e133197e": {
     "access_status": "available",
@@ -27778,6 +28084,57 @@
     "weak_generic_terms_found": [],
     "word_count": 1121
   },
+  "417a4adee0f5a8688e7dc033615b63a162ea59dc35718a1258a3b161ffa17e5a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Generative AI-Enabled Refund Fraud in Chinese E-Commerce: Investigation on Merchants and Platform Workers DOI: XXXXXXX.XXXXXXX Conference: Make sure to enter the correct conference title from your rights confirmation email; June 03\u201305, 2018; Woodstock, NY ISBN: 978-1-4503-XXXX-X/2018/06 CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper CCS: Do Not Use This Code Generate the Correct Terms for Your Paper Shuning Zhang email: zsn23@mails.tsinghua.edu.cn Affiliation: Tsinghua University , Beijing , China , Eve He email: eve.he@wisc.edu Affiliation: University of Wisconsin-Madison , Madison , Wisconsin , U.S. , Xiao Zhan email: xzhan1@upv.edu.es Affiliation: Universitat Polit\u00e8cnica de Val\u00e8ncia , Val\u00e8ncia , Spain , Shijing He email: shijing.he@kcl.ac.uk Affiliation: King\u2019s College London , London , U.K. , Robert Xiao email: brx@cs.ubc.ca Affiliation: University of British Columbia , Vancouver , British Columbia , Canada , Xin Yi Note: Corresponding author. email: yixin@tsinghua.edu.cn Affiliation: Tsinghua University , Beijing , China and Hewu Li email: lihewu@cernet.edu.cn Affiliation: Tsinghua University , Beijing , China 2018 Abstract. E-commerce dispute resolution typically...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:46+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "online fraud",
+      "ai-enabled fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "online fraud",
+      "ai-enabled fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy",
+      "institution_domain:tsinghua.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "online fraud",
+      "ai-enabled fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized fraud"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 27962
+  },
   "417b5b818aef2d180dc3729f23f32d42dc41a2f9b7ace227ab3ac988632f20d1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28481,9 +28838,9 @@
   "4370dc7d5750cde14858017975a393a0b9d1674a08a358858ad9abf0aa44c2eb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "",
-    "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:48+00:00",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:48+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -28500,7 +28857,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 0
+    "word_count": 2
   },
   "437b8eb9a78673649071a9bbd5d42024f4aa87c1fc83d047ce1abedb5c1f0c8b": {
     "access_status": "available",
@@ -31570,6 +31927,29 @@
     ],
     "word_count": 2736
   },
+  "49995587b138581e5ef227cb27a7cb43396cc4cc489dbd3c77903647d6fb66c7": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 65,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "499d9b54c1ba1d6201a3bda59d56fca15de3d6c770c00135e52b2788c3fc101f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -32150,6 +32530,41 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2501
+  },
+  "4a612bef738117dccd35d576a31106db9e04b52b8d92c5c9fdb2e79076c4eeb1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World? Xiaohongshu Dots Studio Evolvent AI \\thetitle \\theauthor Abstract Large language model (LLM) agents are increasingly deployed as personal assistants. Existing evaluations, however, mostly use short, self-contained requests in static environments. Everyday life assistance is different. A task runs for weeks rather than minutes. The world keeps changing while the agent is not being prompted. Many constraints are never stated outright. An agent that merely answers the request in front of it will fail at such a task. What is needed instead is an agent that stays proactive and consistent.",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:48+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "phishing",
+      "identity",
+      "trust"
+    ],
+    "word_count": 17440
   },
   "4a6331fb73d6410ea1d676ea515fbc3befd4d41fd57abeef9c71fdc8fd997987": {
     "access_status": "available",
@@ -35350,6 +35765,35 @@
     "weak_generic_terms_found": [],
     "word_count": 139
   },
+  "52065d6b9f06150a62e84ad5a2c37481e7ef6fd7c983c5c8a069dbaa445923a3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Runtime Compliance Verification for AI Agents Nafiseh Kahani Affiliation: Carleton University, Canada E-mail {NafisehKahani,MasoudBarati}@cunet.carleton.ca, DianaAddae@cmail.carleton.ca Masoud Barati Affiliation: Carleton University, Canada E-mail {NafisehKahani,MasoudBarati}@cunet.carleton.ca, DianaAddae@cmail.carleton.ca Diana Addae Affiliation: Carleton University, Canada E-mail {NafisehKahani,MasoudBarati}@cunet.carleton.ca, DianaAddae@cmail.carleton.ca Abstract AI agents now handle personal data through tool use, function calls, and multi-turn dialogue, which can create obligations under the General Data Protection Regulation (GDPR). Current testing practices mainly rely on offline red-teaming or static prompt review, but they do not guarantee at run time that an agent\u2019s behavior follows regulatory rules. We propose C-Trace (Compliance Trace-based Runtime Agent Conformance Enforcement), a verification framework that (i) expresses a subset of GDPR (consent, purpose limitation, data minimization, and the right to erasure) as formal policy predicates over agent execution traces, (ii) uses a runtime monitr that intercepts every tool invocation and model output and rejects non-compliant actions, and (iii) tests the agent with attack dialogues, including DSPy-generated prompts and verbatim prompts from red-teaming corpora, that...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:ACM CCS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "prompt injection",
+      "fraud"
+    ],
+    "word_count": 16475
+  },
   "5207c76a95b484d2212e68520488ce1bad2b6b96e8028384287addeedf76b17a": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -35464,18 +35908,20 @@
   "52260f6e17713ff90a2672e7f741f22914b572705af0235d4e047273f1697fc3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: DG VoiC : Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions Muhammad Shakeel Akram Amal Htait Abdul Hamid Sadka Emma Meisingseth Karishma Jaitly Abstract Insurance fraud remains costly and operationally difficult, particularly in call-centre workflows where many customer interactions begin at FNOL. While recent fraud detection methods mainly rely on structured data, text, or images, repeated speaker identity across calls remains underused as an investigative signal. This paper presents DG VoiC , a voice clustering framework for customer verification and cross-profile speaker linking on anonymised real call-centre audio. The approach combines sensitive information-aligned anonymisation, speech-focused preprocessing, sliding-window speaker embedding extraction, and cosine similarity based clustering to identify repeated speakers under real telephony conditions. The method was evaluated on 121 recordings, with a curated reference subset of 56 samples in 22 human-agreed speaker clusters used for validation. The best configuration achieved 96% AMI, 95% ARI, 98% completeness, 100% homogeneity, and 99% V-measure. These results show that speaker clustering can provide a strong additional signal for fraud investigation by helping analysts verify speaker consistency and surface repeated voices across...",
-    "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:40+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: DG VoiC : Speaker Clustering for Fraud Investigation under Real Call-Centre Conditions Muhammad Shakeel Akram Affiliation: Aston University Birmingham,UK m.akram5@aston.ac.uk Amal Htait Affiliation: Aston University Birmingham,UK a.htait@aston.ac.uk Abdul Hamid Sadka Affiliation: Aston University Birmingham,UK a.sadka@aston.ac.uk Emma Meisingseth Affiliation: Domestic & General Wimbledon, UK Emma.Meisingseth@ domesticandgeneral.com Karishma Jaitly Affiliation: Domestic & General Wimbledon, UK Karishma.Jaitly@ domesticandgeneral.com Abstract Insurance fraud remains costly and operationally difficult, particularly in call-centre workflows where many customer interactions begin at FNOL. While recent fraud detection methods mainly rely on structured data, text, or images, repeated speaker identity across calls remains underused as an investigative signal. This paper presents DG VoiC , a voice clustering framework for customer verification and cross-profile speaker linking on anonymised real call-centre audio. The approach combines sensitive information-aligned anonymisation, speech-focused preprocessing, sliding-window speaker embedding extraction, and cosine similarity based clustering to identify repeated speakers under real telephony conditions. The method was evaluated on 121 recordings, with a curated reference subset of 56...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:46+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "phone scam",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "direct_scam_relevance_terms_found": [
       "scam",
       "phone scam",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "downrank_reason": null,
     "hard_rejected": false,
@@ -35483,14 +35929,15 @@
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "llm_adverse_use_benchmark",
-    "research_relevance_score": 55,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
     "strong_scam_anchor_terms_found": [
       "scam",
       "phone scam",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
@@ -35500,7 +35947,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 6241
+    "word_count": 6295
   },
   "5243ef3374438191fa5c98c50c3e36123c5c1074a6ed277e1e822bb527390c23": {
     "access_status": "available",
@@ -36794,7 +37241,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: AgentAlign: Navigating Safety Alignment in the Shift from Informative to Agentic Large Language Models Jinchuan Zhang Affiliation: Institute of Information Engineering, Chinese Academy of Sciences Affiliation: School of Cyber Security, University of Chinese Academy of Sciences Email: zhangjinchuan@iie.ac.cn Lu Yin Affiliation: Institute of Information Engineering, Chinese Academy of Sciences Affiliation: School of Cyber Security, University of Chinese Academy of Sciences Email: yinlu@iie.ac.cn Yan Zhou \u2020 \u2020 thanks: Corresponding author. Affiliation: Institute of Information Engineering, Chinese Academy of Sciences Email: zhouyan@iie.ac.cn Songlin Hu Affiliation: Institute of Information Engineering, Chinese Academy of Sciences Affiliation: School of Cyber Security, University of Chinese Academy of Sciences Email: husonglin@iie.ac.cn Abstract The acquisition of agentic capabilities has transformed LLMs from \"knowledge providers\" to \"action executors\", a trend that while expanding LLMs\u2019 capability boundaries, significantly increases their susceptibility to malicious use. Previous work has shown that current LLM-based agents execute numerous malicious tasks even without being attacked, indicating a deficiency in agentic use safety alignment during the post-training phase. To address this gap, we propose AgentAlign, a novel...",
     "cache_version": 10,
-    "checked_at": "2026-09-05T04:20:43+00:00",
+    "checked_at": "2026-11-17T07:49:42+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud",
@@ -39579,6 +40026,33 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "5b6fdc4bbb0b904a7d4eced5d5663cc213f386a3c0bb0527ace330a96d4d740c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: An Experience Report on Teaching Students to Evaluate AI Agent Skills as Authorization Decisions Conference: Proceedings of the 58th ACM Technical Symposium on Computer Science Education V.1; February 17\u201320, 2027; Sacramento, CA, USA Proceedings of the 58th ACM Technical Symposium on Computer Science Education V.1 (SIGCSE TS 2027), February 17\u201320, 2027, Sacramento, CA, USA DOI: 10.1145/3857222.3860190 ISBN: 979-8-4007-3075-7/2027/02 CCS: Social and professional topics Computing education CCS: Security and privacy Software and application security Zikai Alex Wen email: zkwen@uw.edu Affiliation: School of Engineering & Technology , University of Washington , Tacoma, WA , USA , Donald Chinn email: dchinn@uw.edu Affiliation: School of Engineering & Technology , University of Washington , Tacoma, WA , USA and Yan Bai email: yanb@uw.edu Affiliation: School of Engineering & Technology , University of Washington , Tacoma, WA , USA \u00a9 cc Abstract. Cultivating a security mindset has long been a goal of computing education, and students now need it when deciding whether to trust an AI agent skill. Skills are add-ons that can shape an agent\u2019s behavior through natural language instructions and configuration settings, not just executable code. To prepare students to evaluate skills as authorization decisions, we designed a classroom activity...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "trust"
+    ],
+    "word_count": 11576
+  },
   "5b710a0bd40cf462a03d794ed04d0fc032dc6366ffcc3dc57e71ad0688b7afb2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -39699,6 +40173,40 @@
       "trust"
     ],
     "word_count": 3178
+  },
+  "5b91939f6f6833f80ab558ccb7c10169768d2079b111e93172aa9eb331c5e2d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification Yunhao Feng, Ruixiao Lin, Ming Wen, Qinqin He, Yanming Guo, Yifan Ding Yutao Wu, Jialuo Chen, Zhuoer Xu, Xiaohu Du, Jianan Ma, Zixing Chen Xingjun Ma, Yunhao Chen, Xinhao Deng AntGroup Zhejiang University Fudan University Alibaba Group Hunan Institute of Advanced Technology Deakin University Abstract LLM agents increasingly perform autonomous actions through external tools, leading to complex and evolving safety risks. However, existing safety testing targets expert-designed safety violations, and the corresponding outcomes are evaluated by hard-coded rules, making them costly to extend as agents evolve. To this end, we present Vera , an end-to-end automated safety testing framework that instantiates software engineering testing principles for non-deterministic agents through a three-stage, self-reinforcing pipeline. First, a literature-driven exploration continuously discovers and structures emerging risks into taxonomies of safety risks, attack methods, and tool execution environments. Second, combinatorial composition across taxonomy dimensions produces executable safety cases, each specifying a concrete safety goal, a programmatically constructed initial state, and a deterministic verification predicate grounded in observable...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "institution_domain:tsinghua.edu.cn"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "prompt injection",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 18166
   },
   "5b9d7be86a88edc2a748a3229b4201d026d741b15a9a94257d93f735a0eb752f": {
     "access_status": "available",
@@ -40177,6 +40685,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1865
+  },
+  "5c7016e3b2eda71d94ab8a5ab0536cba44b6c94adcb29434851bc085fb5e5619": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cI understand your perspective\u201d : LLM Persuasion through the Lens of Communicative Action Theory Esra D\u00f6nmez Agnieszka Falenska Affiliation: Institute for Natural Language Processing, University of Stuttgart Affiliation: Interchange Forum for Reflecting on Intelligent Systems, University of Stuttgart Email: esra.doenmez@ims.uni-stuttgart.de Abstract Large Language Models (LLMs) can generate high-quality arguments, yet their ability to engage in nuanced and persuasive communicative actions remains largely unexplored. This work explores the persuasive potential of LLMs through the framework of J\u00fcrgen Habermas\u2019 Theory of Communicative Action. It examines whether LLMs express illocutionary intent (i.e., pragmatic functions of language such as conveying knowledge, building trust, or signaling similarity) in ways that are comparable to human communication. We simulate online discussions between opinion holders and LLMs using conversations from the persuasive subreddit ChangeMyView . We then compare the likelihood of illocutionary intents in human-written and LLM-generated counter-arguments, specifically those that successfully changed the original poster\u2019s view. We find that all three LLMs effectively convey illocutionary intent\u2014often more so than humans\u2014potentially increasing their anthropomorphism. Further, LLMs craft sycophantic...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 16880
   },
   "5c7d2ba438e1a2944c952bbf6b657bb2c01997c24ea0da7ad56fe98795233567": {
     "access_status": "available",
@@ -41824,6 +42359,29 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1614
+  },
+  "606fa5df06de2a556970128b173c63a7123ca527489eaedf4e1a9b75c01afebb": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "607497ef083b6251c6dd18b1eed2daabc97e6e134ee84f01002d913e3c251c5b": {
     "access_status": "available",
@@ -46400,6 +46958,29 @@
     ],
     "word_count": 4790
   },
+  "6a630399b4a8226be017af8ebe5518b58400bfea098c6ec8655a3af0b1455e17": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "6a6baa053483cdbf6a100ca1249ffbe38e32de1365f70274aafa2b8cae6b6971": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -48248,6 +48829,47 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1579
+  },
+  "6e66964c6d9107a706515730b8ce96243acf0efaf35da154e50f1c373482e350": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "The FBI is deepening its cooperation with Sri Lanka to tackle cyber-fraud. (Photo: AFP/Patrick T Fallon) 16 Nov 2026 09:24PM (Updated: 16 Nov 2026 09:26PM) Bookmark Bookmark Share WhatsApp Telegram Facebook Threads Email LinkedIn Set CNA as your preferred source on Google Add CNA as a trusted source to help Google better understand and surface our content in search results. Read a summary of this article on FAST. Get bite-sized news via a new cards interface. Give it a try. Click here to return to FAST Tap here to return to FAST FAST COLOMBO: The FBI will help Sri Lankan law enforcement detect cyber scammers who have shifted illicit operations to the island following a crackdown in Southeast Asian countries, the United States embassy said Monday (Nov 16). Police say scam networks have increasingly moved operations to Sri Lanka - an attractive destination owing to its relaxed visa regime and reliable, high-speed internet. \"FBI personnel will work with Sri Lankan law enforcement partners on investigative techniques, digital forensics and case development\" in a bid to disrupt transnational criminal networks operating out of the South Asian nation, the US embassy in Colombo said in a statement. An FBI team will spend a week in Sri Lanka this month training local investigators and helping to identify victims, trace criminal activity and build stronger cases against those...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1884
   },
   "6e9deddd98dccf556fc4181a5dbb62d400f7228e6dbd11dc872d623674a900e4": {
     "access_status": "available",
@@ -51000,9 +51622,9 @@
   "753ebfeb30f3fc70d076a5e4a12fd93bcafff876efd18551a71db291d0361f52": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in detection and reviews major CNN...",
+    "article_excerpt": "Press Enter to search \u00b7 Advanced search Computer Science > Computer Vision and Pattern Recognition arXiv:2609.25017 (cs) [Submitted on 7 Aug 2026] Title: Deepfakes and Synthetic Media: Generation, Detection, and Governance Authors: Alexandros Gazis , Efstathios Karypidis , Kleanthi Santamouri , Theodoros Vavouras , Nikos E. Mastorakis , Stylianos Pappas View a PDF of the paper titled Deepfakes and Synthetic Media: Generation, Detection, and Governance, by Alexandros Gazis and 5 other authors View PDF Abstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains, enabling identity fraud, disinformation campaigns, and evidence fabrication. In high-stakes environments, ranging from journalism and finance to healthcare and legal contexts, the consequences extend to severe misinformation, market manipulation, identity fraud, and the erosion of institutional trust. This entry explores how modern visual intelligence and computer vision techniques are used to detect deepfakes. It outlines key deepfake generation models, such as GANs, autoencoders, neural rendering, and diffusion systems, while also explaining how adversarial methods enhance realism and challenge existing detectors. The overview highlights visual artifacts, digital patterns, and physiological cues commonly leveraged in...",
     "cache_version": 10,
-    "checked_at": "2026-11-06T06:32:13+00:00",
+    "checked_at": "2026-11-17T07:49:39+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -51033,7 +51655,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 803
+    "word_count": 814
   },
   "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
     "access_status": "available",
@@ -53104,6 +53726,32 @@
     ],
     "word_count": 17
   },
+  "79561dc776a64eff0407d96ca16b033e36dc472383578f4fb286868d30651ec1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "(Photo by Smith Collection/Gado/Sipa USA)(Sipa via AP Images) Meta's horny little chatbot Muse might look like a knockoff labubu, but it's been behaving very badly. After talking to Wired about how much of a nightmare censorship and AI generated sexual content has been for her career, adult performer Vanniall decided to experiment with Muse's ability to chat as her. What she found \u2013 and what I also discovered when I did the same \u2013 was disturbing to say the least. Photo courtesy Vanniall 'No One Is Like This:' Muse Sexts While Roleplaying as Real People Adult performer Vanniall has heard from some of her fans that they\u2019ve \u201cpracticed\u201d talking to her with chatbots. Some even admitted they\u2019d used AI to generate images based on her content as an adult performer. But she wasn\u2019t sure how, or where, they were doing this. She decided to try to find out. \u201cI knew this was an issue with Grok and other NSFW friendly generators, but I was hoping Muse had more guardrails,\u201d she told me. \u201cI had some people help me test it and the results were way more terrifying than I expected.\u201d She decided to try sexting with \u201cherself,\u201d taking on the persona of a fan who wanted to practice talking to her at a convention. With some light prompting, Muse built a sexually explicit roleplay with Vanniall\u2019s digital doppelganger, catering to every whim of the \u201cfan\u201d that real-life Vanniall was pretending to be...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability"
+    ],
+    "word_count": 2160
+  },
   "7956a4e490248b3a601e6aad0a4ff124569eb0cfb1003793f4a4af233bbac810": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -54346,6 +54994,31 @@
       "identity"
     ],
     "word_count": 0
+  },
+  "7bbd62c657f330de255ce2df1196ff78770f09bd4aa578e7649d5f58051145da": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": null
   },
   "7bc184d8e47c774729db9298349e3fa10002a3d636b23827ccc1b4fece1b87ed": {
     "access_status": "unknown",
@@ -59644,6 +60317,29 @@
     ],
     "word_count": 80
   },
+  "866e492e3a3fe0427b7d7616ae9c0bd0b9fcf91e2aca18c9895cae3501630c49": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "867db1eefcdbfcf5011cd7c758e352ad377f63b8344ac84e4c5554642bc64506": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -59939,6 +60635,33 @@
       "trust"
     ],
     "word_count": 3451
+  },
+  "877d7d7e9c86335b7a1cc290d1da0087a38ceb60f8bac4f26ff026d7af8a871b": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "EXECUTIVE SUMMARY The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today . The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts\u2019 fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees\u2014as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today\u2014have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered. But making sure AI models do what we want them to do, or \u201calignment,\u201d remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve. \u201cIt\u2019s not something you can solve overnight,\u201d says Kai Chen, who runs OpenAI\u2019s alignment research team. \u201cThere are challenges we\u2019ve been tracking for a very long time, and we\u2019re now seeing them with much greater precision.\u201d The Hugging Face hack was a product of months of misbehavior from OpenAI agents, first as they were being trained and then as their abilities were being evaluated. This May, agents in training figured out how to use...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "fraud"
+    ],
+    "word_count": 2732
   },
   "878dd03a7c3b2b9478e933a7144ba7aa23dff9527973a63d038df02dafb58b6d": {
     "access_status": "available",
@@ -61323,6 +62046,30 @@
     "weak_generic_terms_found": [],
     "word_count": 147
   },
+  "8af82f55b99f669ebb1650af65f7c17d05c5a330a4f1d803419a1dcdb174aedd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Fake gold jewelry made from industrial metal tricks Japan shops Tantalum has similar density, making it hard to spot the difference A shop in Tokyo tests the authenticity of a necklace using a magnet. (Photo by Yuria Ishikawa) TOKYO -- Stores across Japan have been fooled with an industrial metal plated to look like gold jewelry. Read Next Latest on Crime Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 74
+  },
   "8b129433e2b871566518af2a3eaf9a0a3b535979b4a7479394382b98f031b64e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -61570,19 +62317,19 @@
   "8be6db26ff861105f268dd57db070af3cc39f60b668853d0faf8b54a612963e4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Content selection saved. Describe the issue below: Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents Praneeth Narisetty, Shiva Nagendra Babu Kore, Uday Kumar Reddy Kattamanchi, Jayaram Kumarapu LaunchSafe Research {praneeth, shiva, uday, jayaram}@launchsafe.com Abstract Recent work (2024 to 2026) has converged on a strategy for defending tool-using LLM agents against indirect prompt injection: rather than training the model to refuse malicious instructions, enforce security outside the model with a deterministic policy that mediates the agent\u2019s actions. Systems such as CaMeL, FIDES, Progent, RTBAS, and FORGE realize this with capabilities, information-flow labels, and reference monitors, and several report near-elimination of attacks on the AgentDojo benchmark. We make two contributions . First, we organize these out-of-band defenses as instances of classical integrity protection (Biba), reference monitoring, and least privilege, yielding a structured comparison of what they do and do not cover. Second, we warn that every one of them is validated only on static benchmarks (a fixed set of injection attempts), the same methodology that made in-band defenses look strong until adaptive, defense-aware attacks broke twelve of them at over 90% success; we specify the threat model and protocol an adaptive evaluation requires. We then run that protocol...",
-    "cache_version": 8,
-    "checked_at": "2026-07-25T16:29:44+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: Adaptive Evaluation of Out-of-Band Defenses Against Prompt Injection in LLM Agents Praneeth Narisetty Shiva Nagendra Babu Kore Affiliation: Uday Kumar Reddy Kattamanchi, Jayaram Kumarapu Affiliation: LaunchSafe Research Affiliation: {praneeth, shiva, uday, jayaram}@launchsafe.com Abstract Recent work (2024 to 2026) has converged on a strategy for defending tool-using LLM agents against indirect prompt injection: rather than training the model to refuse malicious instructions, enforce security outside the model with a deterministic policy that mediates the agent\u2019s actions. Systems such as CaMeL, FIDES, Progent, RTBAS, and FORGE realize this with capabilities, information-flow labels, and reference monitors, and several report near-elimination of attacks on the AgentDojo benchmark. We make two contributions . First, we organize these out-of-band defenses as instances of classical integrity protection (Biba), reference monitoring, and least privilege, yielding a structured comparison of what they do and do not cover. Second, we warn that every one of them is validated only on static benchmarks (a fixed set of injection attempts), the same methodology that made in-band defenses look strong until adaptive, defense-aware attacks broke twelve of them at over 90% success; we specify the threat model and protocol an adaptive evaluation...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:47+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "weak_anti_scam_relevance",
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": false,
     "quality_checked": true,
     "rejection_reason": null,
-    "research_relevance_category": "llm_adverse_use_benchmark",
-    "research_relevance_score": 55,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
     "research_reputation_signals": [
       "venue_term:ACM CCS"
     ],
@@ -61595,7 +62342,7 @@
       "vulnerability",
       "trust"
     ],
-    "word_count": 14627
+    "word_count": 14632
   },
   "8bef9005d4b90e54b38625c26701de051a8b680e7b31607a5e87624849a71f3c": {
     "access_status": "available",
@@ -61993,6 +62740,29 @@
       "fraud"
     ],
     "word_count": 363
+  },
+  "8cc7eb494676bfed53b4561796a2fb78db10d59126d7748e6b4066aa0b98b586": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "8cda0ce62abdfab5cca8fa0010ad44ca518e91c818a82f723451ea4336dc7c04": {
     "access_status": "available",
@@ -62829,7 +63599,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-09-19T04:34:23+00:00",
+    "checked_at": "2026-11-17T07:49:41+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
@@ -64970,6 +65740,29 @@
     ],
     "word_count": 15758
   },
+  "94158f56727d5f3627a87c4072a5d1862486ceede75e3db2a5946734877af1be": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "94273e381000c30cc36bbf0e73ac32cb581658477a8dfb8bf6ef879c2d2c3c85": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -65281,6 +66074,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 4679
+  },
+  "946a9f99fb4be6d999e6173fd9edb09865d6b89af83fb43dc01f9da20d5be240": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": null
   },
   "946f22b1d11b941e994f7071e4ad813fee8a6b98dc9c9ef075d59de0bb536d23": {
     "access_status": "available",
@@ -67649,6 +68468,31 @@
     "weak_generic_terms_found": [],
     "word_count": 164
   },
+  "9a55264f140e6da17174657ed8f4521ae23da9bdc2c55f4dccf97314460596f0": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": null
+  },
   "9a5a467c13a3dc340a2e2bfa7e7e260c3509352bd9048d0a214a0c74348f7846": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -67885,6 +68729,54 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 591
+  },
+  "9b114d151177a4d9318d0f7df0661d2895ba06ab110806687916d4e6a325a4c7": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Cybercrime Victimization Among Young Adult Males Aged 18\u201320: A Post-Pandemic Analysis of Converging Risk Factors Anveeksh Mahesh Rao Affiliation: Khoury College of Computer Sciences Northeastern University Boston, MA, USA rao.anv@northeastern.edu ORCID: 0000-0005-4791-1789 Abstract Cybercrime victimization among young adult males aged 18\u201320 has become an increasingly urgent public safety concern in the post-pandemic digital environment. From 2022 to 2024, individuals aged 20\u201329 submitted 191,787 complaints to the FBI Internet Crime Complaint Center (IC3), reporting combined losses of more than $1.28 billion. Although this population represents a substantial share of cybercrime victims, the 18\u201320 male sub-cohort remains insufficiently examined as a distinct demographic group within cybercrime victimization research. This study presents an original risk factor analysis and theoretical synthesis, representing the first integration of criminological, neurological, and behavioral evidence for this specific demographic sub-cohort. Drawing on FBI IC3 and FTC Consumer Sentinel Network data from 2022\u20132024 alongside European cybersecurity threat intelligence from ENISA, the study develops a unified risk profile centered on three intersecting vulnerability factors: a guardianship gap created by the transition into unsupervised digital...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:47+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "fake investment",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "fake investment",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [
+      "organized crime"
+    ],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 7412
   },
   "9b2b3421ab486561dd8e1e052164a1f3afa5f50ed0e979d082491e8e9f26c012": {
     "access_status": "available",
@@ -69386,6 +70278,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1794
   },
+  "9eeb8fbd33a8bf559a225b3c4fb8abd0e7f0cf3de32718204e409ceb9fb0cb0e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "EXECUTIVE SUMMARY Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face , OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions about the safety of its technology. Last week brought news of another hack, this time into Australia\u2019s national health-care system. The Australian government says that OpenAI did not notify it of the breach until 84 days after it happened. But OpenAI insists it is not on the back foot. \u201cI do kind of reject the premise that OpenAI is a company with visible impacts in the world and therefore OpenAI is not training safe and aligned models,\u201d says Mark Chen, the company\u2019s chief research officer. Chen oversees OpenAI\u2019s research teams. The recent agent hacks were accidents that happened during the testing of experimental models on his watch. In a lot of ways, the buck stops with him. I sat down with Chen in London last Friday to talk about the fallout from the hacks, what his company is doing about it, and why he thinks things are not as bad as they seem.",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4246
+  },
   "9ef6972aae716cb05174fcf339df62b851429b067de9929b460583e93ebbc82f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -69873,6 +70789,30 @@
       "trust"
     ],
     "word_count": 3571
+  },
+  "a008386b3b22e0548c94090ee5c57924f94e8daab1c65db54e6b73bfeeee047c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Now, the utilities are fighting back. In a lawsuit filed last Thursday, the two major utilities in Michigan, Consumers Energy and DTE, argue that the measure\u2014dubbed Proposal 2\u2014threatens their First and 14th Amendment rights. The ballot measure, which passed with 81 percent of the vote, amends the state\u2019s campaign finance laws to put restrictions on donations for both utilities and companies with more than $250,000 annually in state and local government contracts. The new language explicitly bans political donations from utilities, contractors, and high-level employees, lobbyists, and their immediate family members. The ballot measure also tightens the state\u2019s regulations around disclosures for political ads, mailers, and other forms of communication. Michigan was part of the blue tsunami election where energy prices and government corruption\u2014and data centers\u2014played a huge role in getting Democrats elected and getting ballot measures like this passed. The state is a major hub for data center development , with at least 26 projects planned across the state as of July. The utilities have supported that development: the industry has lobbied in the past for tax breaks for data centers, and DTE has proposed building two new massive gas plants to handle potential data center load, at a cost of $6.4 billion, with consumers potentially on the hook. Michiganders have seen energy bills...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3121
   },
   "a01b7b198cee78a7c58020f41a74bc05533812e26598298f1531b99fc02e74b7": {
     "access_status": "available",
@@ -74142,7 +75082,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-11-10T07:10:45+00:00",
+    "checked_at": "2026-11-17T07:49:36+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -76039,6 +76979,31 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "acd3e644419057529ea1789fb10cb264d6065d6845b8430e375dc9e748330533": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception"
+    ],
+    "word_count": null
+  },
   "acda1a10eeb35aa4cb6c8184d3e83d2e504108662f194743be8fe96b76f1ed0a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -77661,6 +78626,34 @@
     ],
     "word_count": 3232
   },
+  "b02fa5f4978b85c21a378076e1391ef54188695fb633c6b2b463a22e822d6c76": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "35 more alleged victims come forward in FBI case against fake 49ers player in $1.3M fraud case SAN FRANCISCO -- The FBI has identified 35 additional women who say they were defrauded by Daejon Love and Taylor Chan, the agency said Friday, bringing the total number of alleged victims in a case that included Love impersonating as a San Francisco 49ers player to more than 60. Portland FBI Special Agent in Charge Doug Olson said the agency is working to verify that the 35 women are victims of Love and Chan. \"We were surprised how many people were victimized in such a short period of time and then to have that many more come forward,\" Olson said at a news conference. \"It's a large volume for just a couple of subjects. Our concern is that this fraud could be replicated by other individuals that are out there victimizing other people in similar schemes.\" Olson said the FBI believes there are more victims of Love and Chan who have yet to come forward. He encouraged anyone with information on the two men to contact the Portland FBI. \"We don't want anyone to be fearful of coming forward,\" Olson said, \"certainly not for fear of embarrassment or anything like that, because we want to help them and we want to make sure that this doesn't happen to anybody else.\" The FBI opened its investigation into Love and Chan on Sept. 30, 2024, over allegations that date from February 2022 to Aug. 24...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 753
+  },
   "b043a9a646e3ffe23fbd9fba186ec6439fd690513926d216bea80de9fd0faba0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -78455,6 +79448,29 @@
       "ransomware"
     ],
     "word_count": 2016
+  },
+  "b242097045c2045fe8c6157a9b0ecdc7abe9cbd7546f18b53c5697ab9a6732d8": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "b2465bf1abcdf9ebd1bd8a39aa3f4984fbfe12c720293b35147565614b57863d": {
     "access_status": "available",
@@ -80450,6 +81466,29 @@
     ],
     "word_count": 2182
   },
+  "b6ecaf4e8382f3385cf9ed226e197b9fa3981962c81c2632da1054aa2d9c2106": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "b6fbf453f279b1c438ac25f07aeb8fe861fb45ff230afbd19ef1fcff2af266d3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -81716,6 +82755,31 @@
     ],
     "word_count": 831
   },
+  "b8e67acaa997ecc83ba1d1770afcd47fce390922937d2879ad4d91c62c5c9da1": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception"
+    ],
+    "word_count": null
+  },
   "b8f395725d2bcae7ac242876c32e586b06c95c08280a9f42c8f6ecb7f9a969b1": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -82474,6 +83538,29 @@
     "weak_generic_terms_found": [],
     "word_count": 2015
   },
+  "bae273a70ebd221e122f8f4d442cfaafea40e03913dc0e949f4ec53113b80775": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "bae394c6d11c8edf3a41acd7fb34bd6d22e2dd13e06fa8657ac3a2e5f69425a3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -83026,6 +84113,48 @@
       "fraud"
     ],
     "word_count": 17816
+  },
+  "bbd0ca342161d449adc7f2db5ebf777243679e7f26a5dd07e44c6400f62ccf1a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam 27 October 2026 Share Save Add as preferred on Google Gabriela Pomeroy and Thomas Naadi , BBC Africa, Accra TikTok/@arrangmentlancaster Twin brothers from Ghana and an American woman have pleaded guilty to being part of an international criminal network that defrauded people on dating sites and social media. The group targeted elderly people in the US and Europe, using fake identities to lure their victims into believing they were in a romantic relationship, before persuading them to transfer large sums of money into bank accounts in Ghana. The 22-year-old twins, Jamal and Kamal Abubakari, and 53-year-old Amanda Joy Opoku-Boachie from Hawaii face up to 20 years in jail and will be sentenced next year. Between July 2024 - April 2026, the victims collectively lost $9m (\u00a36.7m). While many of them were from Ohio - where the charges were brought - other victims were located in 24 other US states, as well as Germany and Austria. As part of the plea, the Abubakaris and Opoku-Boachie agreed to forfeit pieces of jewellery which investigators seized during their arrest, including luxury watches, rings, chains and earrings. US Attorney's Office, Northern District of Ohio Jewellery was confiscated from the gang after they were arrested The three accused go by several names: Jamal Abubakari, also known as Jamal Abubakar...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1356
   },
   "bbdf747c7214f1ad649f259ec0bf263ecff92631d17644a80de7bf1f166c7ae9": {
     "access_status": "available",
@@ -85078,6 +86207,32 @@
     "weak_generic_terms_found": [],
     "word_count": 1668
   },
+  "c0b0efed8a14a564a2a430c724adb54a0960336a3c6cdbdfbb852871d4a1d6be": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 0
+  },
   "c0b88d3a7ed9f6ce22eb4252f5526cb2e40dcb80521851ccc0b7eea1e17c37b0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -85569,6 +86724,31 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": 133
+  },
+  "c273e6c5236b9cff75d0e3b9c0b10bd483392eed4d1f5968fa2530f500a7fff9": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": null
   },
   "c277ac1894d13e007efbe69309fc06ae4fdc7b41b81b768aaf9bb15e97170376": {
     "access_status": "available",
@@ -89648,22 +90828,24 @@
   "cb89af07d4dbb8ba02db5168693bc5f59221c8d09edcbfa8953ae159f5a322a6": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection Yichen Chen National University of Singapore School of Computing, Singapore 117417 chenyichen@u.nus.edu Siying Li University of Chinese Academy of Sciences Institute of Information Engineering, Beijing 100085 lisiying@iie.ac.cn Yuhang Liang China Mobile Communications Group Big Data Business Group, Beijing 102206 liangyuhang@chinamobile.com Lijun Wang China Mobile Communications Group Big Data Business Group, Beijing 102206 wanglijunit@chinamobile.com Renyang Liu National University of Singapore Institute of Data Science, Singapore 117602 ryliu@nus.edu.sg Corresponding author. Abstract Fraud detection in payment, e-commerce, and telecommunications systems requires accuracy at the individual level, robustness under severe class imbalance, and ease of understanding for risk managers. Existing methods fall at least one of these requirements: automated machine learning systems search a fixed numerical space without semantic awareness of the dataset; graph neural network-based methods require pre-defined relational graphs and remain opaque at the individual-decision level; and the design of general-purpose large language model (LLM) agents does not consider the recall and precision constraints specific to real-world fraud detection. In this paper, we propose...",
-    "cache_version": 8,
-    "checked_at": "2026-06-10T04:46:25+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: SAGE: An LLM-driven Self Reflective Agentic Framework for Fraud Detection Yichen Chen Affiliation: National University of Singapore Affiliation: School of Computing, Singapore 117417 Email: chenyichen@u.nus.edu Siying Li Affiliation: University of Chinese Academy of Sciences Affiliation: Institute of Information Engineering, Beijing 100085 Email: lisiying@iie.ac.cn Yuhang Liang Affiliation: China Mobile Communications Group Affiliation: Big Data Business Group, Beijing 102206 Email: liangyuhang@chinamobile.com Lijun Wang Affiliation: China Mobile Communications Group Affiliation: Big Data Business Group, Beijing 102206 Email: wanglijunit@chinamobile.com Renyang Liu \u2020 \u2020 thanks: Corresponding author. Affiliation: National University of Singapore Affiliation: Institute of Data Science, Singapore 117602 Email: ryliu@nus.edu.sg Abstract Fraud detection in payment, e-commerce, and telecommunications systems requires accuracy at the individual level, robustness under severe class imbalance, and ease of understanding for risk managers. Existing methods fall at least one of these requirements: automated machine learning systems search a fixed numerical space without semantic awareness of the dataset; graph neural network-based methods require pre-defined relational graphs and remain opaque at the individual-decision level; and the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:44+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "account takeover",
       "smishing",
       "payment fraud",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "direct_scam_relevance_terms_found": [
       "scam",
       "account takeover",
       "smishing",
       "payment fraud",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "downrank_reason": null,
     "hard_rejected": false,
@@ -89672,7 +90854,7 @@
     "quality_checked": true,
     "rejection_reason": null,
     "research_relevance_category": "victim_psychology_or_persuasion",
-    "research_relevance_score": 60,
+    "research_relevance_score": 70,
     "research_reputation_signals": [
       "institution_domain:nus.edu.sg"
     ],
@@ -89682,7 +90864,8 @@
       "account takeover",
       "smishing",
       "payment fraud",
-      "financial fraud"
+      "financial fraud",
+      "voice phishing"
     ],
     "technology_modus_terms_found": [
       "account takeover"
@@ -89694,7 +90877,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 23363
+    "word_count": 23378
   },
   "cb8b78fef36fa074ad35d7f0318a3e492d4d4c36ee6e3b959cd81f75064e3580": {
     "access_status": "available",
@@ -90105,6 +91288,32 @@
       "manipulation"
     ],
     "word_count": 2725
+  },
+  "ccf60b9967bd02f87f562480af7777214c7be5977c43b6125b57c02070768619": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Singapore barred Alice Huang from reentry following criminal investigation City-state alleges woman at center of Nvidia scandal gave police inaccurate information A screengrab from CTI video footage shows a woman identified by Reuters as Alice Huang attending a 2025 dinner with Nvidia's then-CEO, Jensen Huang. (CTI via Reuters) SINGAPORE (Reuters) -- Alice Huang, the alleged Chinese spy at the heart of the scandal that brought down Nvidia's CEO, left Singapore in February and was barred from reentering after an investigation into possible offenses, the country's Home Affairs Ministry said on Thursday. The U.S. chip giant said on Thursday that Jensen Huang, its co-founder and chief executive, was stepping down, following reports the 63-year-old had two extramarital affairs, including one with Alice Huang, whom U.S. authorities suspect of spying for Beijing. The ministry said Alice Huang, a former executive at Nvidia customer Megaspeed, was investigated involving possible offenses including buying servers that were exported via Singapore to Malaysia without entering the Singapore market. She was investigated \"for suspected involvement in the possible offenses in Singapore, given her position as then-CEO, Chairperson, and one of the key controllers of Megaspeed,\" the ministry said in a statement. It said the investigation did not concern espionage. The ministry said there was...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 417
   },
   "cd2ee72a844c0b9c6f313c5c74777a512517870280c59c6e5a419de3d1709ea3": {
     "access_status": "available",
@@ -94007,9 +95216,9 @@
   "d5bd3de7b979cc57883e8e220fd1bf501c2e6a43406ca6886ef89ce99bca96e0": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
-    "article_excerpt": "Content selection saved. Describe the issue below: [1] \\fnm Timothy Oluwapelumi \\sur Adeyemi [1] \\orgdiv WeAreGenius Research Institute, \\orgname Founder and Principal Researcher, \\orgaddress \\city Lagos, \\country Nigeria 2] \\orgdiv Park University, \\orgname MBA, \\orgaddress \\country United States Artificial Intelligence-Enabled Accounting Information Systems and Fraud Detection in Nigeria\u2019s Financial Services Sector: The Moderating Role of Natural Language Processing atimothy.dev@gmail.com * \\fnm Abigail Omotola \\sur Ojogbede abigailojogbede@gmail.com [ Abstract The rapid digitalisation of financial systems has improved operational efficiency and financial inclusion while simultaneously increasing exposure to sophisticated forms of cyber-enabled fraud and electronic financial misconduct. Conventional auditing systems, which largely depend on retrospective verification and rule-based monitoring, increasingly struggle to address the complexity and speed of modern financial crime. Consequently, financial institutions are progressively adopting Artificial Intelligence (AI)-enabled Accounting Information Systems (AIS) and Natural Language Processing (NLP) technologies to strengthen fraud detection, continuous auditing, and institutional monitoring. This study examined the influence of AI-enabled AIS on auditing and fraud detection effectiveness within Nigeria\u2019s financial services...",
-    "cache_version": 8,
-    "checked_at": "2026-08-02T03:51:09+00:00",
+    "article_excerpt": "Content selection saved. Describe the issue below: Artificial Intelligence-Enabled Accounting Information Systems and Fraud Detection in Nigeria\u2019s Financial Services Sector: The Moderating Role of Natural Language Processing Timothy Oluwapelumi Adeyemi Email: atimothy.dev@gmail.com Affiliation: WeAreGenius Research Institute, Founder and Principal Researcher, Lagos, Nigeria Abigail Omotola Ojogbede Email: abigailojogbede@gmail.com Affiliation: Park University, MBA, United States Abstract The rapid digitalisation of financial systems has improved operational efficiency and financial inclusion while simultaneously increasing exposure to sophisticated forms of cyber-enabled fraud and electronic financial misconduct. Conventional auditing systems, which largely depend on retrospective verification and rule-based monitoring, increasingly struggle to address the complexity and speed of modern financial crime. Consequently, financial institutions are progressively adopting Artificial Intelligence (AI)-enabled Accounting Information Systems (AIS) and Natural Language Processing (NLP) technologies to strengthen fraud detection, continuous auditing, and institutional monitoring. This study examined the influence of AI-enabled AIS on auditing and fraud detection effectiveness within Nigeria\u2019s financial services sector while additionally evaluating the moderating role of NLP. Anchored on...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:47+00:00",
     "direct_relevance_terms_found": [
       "account takeover",
       "financial fraud",
@@ -94055,7 +95264,7 @@
       "identity",
       "trust"
     ],
-    "word_count": 13544
+    "word_count": 13501
   },
   "d5c85c8905eecae37204a96f12950c5cde272602f52f2bbbf68e22c977dfc02a": {
     "access_status": "available",
@@ -94557,7 +95766,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Bot Management Last updated Nov 4, 2026 | Copy as Markdown | View as Markdown | Agent setup Bot Management for Enterprise is a paid add-on that provides sophisticated bot protection for your domain. Customers can identify automated traffic, take appropriate action, and view detailed analytics within the dashboard. This Enterprise product provides the most flexibility to customers by: Generating a bot score of 1-99 for every request. Scores below 30 are commonly associated with bot traffic. This lets you write targeted rules instead of applying blanket actions to all detected bots. Allowing customers to take action on this score with WAF custom rules or Workers . For example, you can challenge low-scoring requests on your login page while allowing them on your public blog. Allowing customers to view this score in Bot Analytics or Logs, so you can analyze bot traffic patterns and tune your rules over time. Enable Bot Management for Enterprise Bot Management is automatically enabled and always active for Enterprise zones entitled with the add-on. To review the Bot Management configuration: In the Cloudflare dashboard, go to the Security Settings page.",
     "cache_version": 10,
-    "checked_at": "2026-11-07T05:53:18+00:00",
+    "checked_at": "2026-11-17T07:49:39+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -95134,6 +96343,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1257
+  },
+  "d81402ff2aef52667482baf9518a2d75c4da284566cf2132b3e5d5fe6409608a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI Crawler and Agent access policies Last updated Nov 2, 2026 | Copy as Markdown | View as Markdown | Agent setup AI Crawler and Agent access policies AI Crawler and Agent access policies let you control AI crawler and agent traffic by behavior. You can set actions for Search, Agent, and Training traffic, and customize access for the top Personal Agents. Behaviors Cloudflare offers configuration for the most common AI behaviors: Search : crawlers that collect or index your content to answer questions about it later. Agent : automated activity acting in real time on a person's behalf, such as chat fetch bots and browser-use agents. Training : crawlers taking your content to train or fine-tune a model, including mixed-purpose crawlers that are used both for Training and for Search. Each policy applies to Verified bots with that behavior and matching unverified bots. Policy actions Choose an action for each behavior. Available actions are: Action Effect Block Block matching requests across the zone. Block on pages with ads Block matching requests on pages where Cloudflare detects ads. Allow (do not block) Do not block matching requests.",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1020
   },
   "d81c0c440204c45f37799f9367bb42dfe8f8192664d083940bbca004839b64bf": {
     "access_status": "available",
@@ -96390,6 +97623,29 @@
       "identity"
     ],
     "word_count": 64429
+  },
+  "da70c55f9db579e97fbe0a27f880e2979a5d87dbe04216b3ee827ae6c54c6ef6": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "da7d785b87c74b9acaacc141b97fd877be762c5bf280ae24dc27635d8623ea14": {
     "access_status": "available",
@@ -98812,7 +100068,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Operationalizing Cyber Threat Intelligence with GraphRAG Conference: Technical Report; May 2026; Indian Institute of Technology Bombay, India Technical Report, May 2026, Indian Institute of Technology Bombay, India Behavioral Knowledge Graphs for IOC-Resilient Threat Hunting Plan Generation Atul Kabra, Prakhar Paliwal, and Manjesh K. Hanawal email: {atul.kabra, prakhar.paliwal, mhanawal}@iitb.ac.in Affiliation: MLiONS, Department of IEOR, IIT Bombay , Mumbai , Maharashtra , India \u00a9 none Abstract. When a security researcher publishes a report on a cyberattack, detection engineers are supposed to turn it into working detection rules. In practice, most automated attempts at this only extract the simplest clues from the report \u2014 bad IP addresses, domain names, and file hashes \u2014 and turn them into block lists. This is a weak strategy, because attackers can change these simple clues within hours or days, so the resulting detections stop working almost as soon as they are deployed. Security teams describe this idea with the Pyramid of Pain: clues such as IP addresses and file hashes sit at the bottom of the pyramid and are cheap for an attacker to change, while clues about an attacker\u2019s behaviour and tooling \u2014 their Tactics, Techniques and Procedures (TTPs) \u2014 sit at the top and are expensive to change. In this work we study whether...",
     "cache_version": 10,
-    "checked_at": "2026-09-20T04:51:01+00:00",
+    "checked_at": "2026-11-17T07:49:45+00:00",
     "direct_relevance_terms_found": [
       "vishing"
     ],
@@ -100536,6 +101792,32 @@
       "fraud"
     ],
     "word_count": 1410
+  },
+  "e4f1156b6b80be77bcb9ba32dabf164869752c7706cee507d8101305bca501f9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Man stabbed in the chest after being confronted by three men in Belfast The attack is being treated as a hate crime Add to preferred sources Comments Sophie McLaughlin 11:40, 15 Nov 2026 View Image The Cliftonpark Avenue area of north Belfast (Image: Google street view ) A man has been injured after a stabbing incident in North Belfast at the weekend. \u200c \u200c The PSNI are appealing for information following the incident, which took place in the Cliftonpark Avenue area of the city on Saturday, November 14. \u200c It is reported that before 8am, the victim was out for a walk when three men confronted him and the victim was stabbed in the chest. \u200c A PSNI spokesperson said: \"Police in Belfast are investigating a report that a man was stabbed in the Cliftonpark Avenue area of the city yesterday morning, Saturday 14th November. The attack, involving three male assailants, took place sometime between 7.30am and 7.45am. \"It\u2019s understood the victim was out for a walk when three men confronted him, an altercation ensued and the victim was subsequently stabbed in the chest. \u200c \"The suspects have been described as one wearing a tan, black and pink tracksuit, the second male was wearing a North Face tracksuit and the third male was described as significantly tall. \"The victim is currently being treated in hospital for their injuries which are not life threatening. The attack is being treated as a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 1110
   },
   "e4f3160d93ab541ca26dab9db93bcf36edcef91bac5e2163a69321c8d9db7aa2": {
     "access_status": "available",
@@ -104585,6 +105867,29 @@
     ],
     "word_count": 688
   },
+  "eed6a17a21ffa884512cd01a1899a32507eafa06e67192f8e2644bca671b4ed1": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "eee9e4d166672a8d72fd621bdf5987d6e7941bdc78848b997a8f8d13e3f237ec": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -104736,6 +106041,29 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2860
+  },
+  "ef501f18c3f9c67241ce1006e2898b9e6cbad9b6d91901c300d74a55495e10e8": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "ef517f13670a3ba4562aa47708594ad325040940a43a90d5bd1f2886fe7a54ee": {
     "access_status": "available",
@@ -105247,6 +106575,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 714
+  },
+  "f0c95bb34ec1804c532fe798fef42fd1eb379880889cf03f15a48f490c24c104": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press Enter to search \u00b7 Advanced search Computer Science > Machine Learning arXiv:2607.09704 (cs) [Submitted on 22 Jun 2026] Title: Quantum-Inspired Contextual Learning for Sparse-Ring Fraud Detection in Dynamic Transaction Graphs Authors: Behnam Tonekaboni , Hiroshi Yamauchi View a PDF of the paper titled Quantum-Inspired Contextual Learning for Sparse-Ring Fraud Detection in Dynamic Transaction Graphs, by Behnam Tonekaboni and Hiroshi Yamauchi View PDF HTML (experimental) Abstract: We present an exploratory benchmark and quantum-inspired modeling prototype for fraud screening in dynamic financial transaction graphs. Coordinated fraud may not be visible from individual transactions alone, but may emerge as a multi-period relational pattern. We focus on sparse-ring fraud, a stylized pattern in which a completed directed cycle is distributed across several days, requiring models to integrate evidence across both time and graph structure. We study this problem using a synthetic transaction simulator with completed sparse-ring injections and broken-ring decoys. Daily directed transaction graphs are aggregated into rolling windows and represented using raw graph features, persistent-homology summaries, or hybrid feature vectors that combine both. We compare a gated recurrent unit (GRU) baseline with quantum-inspired Contextual Machine Learning (CML) as sequence-level classifiers....",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "identity"
+    ],
+    "word_count": 787
   },
   "f0f2b822e9709ba00f0b5258d5dc6937016cf6665dff7496efe560002291132f": {
     "access_status": "available",
@@ -106244,6 +107599,29 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 50
+  },
+  "f37cde7cc9dd03b228bc286b8e6492a8143e40073467df2b29d8a443ed2b6309": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "f394b2e83db52da784154a6cf0569e427181bbbcd239cdefd4595fd246ed45ff": {
     "access_status": "available",
@@ -107575,7 +108953,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Bot detection engines Last updated Nov 5, 2026 | Copy as Markdown | View as Markdown | Agent setup Cloudflare uses multiple detection engines because different bot types require different detection strategies. Simple bots can be caught by pattern matching against known signatures, while sophisticated bots require machine learning and behavioral analysis. The engines available to your domain depend on your plan. Heuristics The Heuristics engine processes all requests. Cloudflare conducts a number of heuristic checks to identify automated traffic, and requests are matched against a growing database of malicious fingerprints. JavaScript detections The JavaScript Detections (JSD) engine identifies headless browsers and other malicious fingerprints. This engine performs a lightweight, invisible JavaScript injection on the client side of any request while honoring our strict privacy standards \u00e2\u0086\u0097\u00ef\u00b8\u008e . We do not collect any personally identifiable information during the process. The JSD engine either blocks, challenges, or passes requests to other engines. JSD is completely optional.",
     "cache_version": 10,
-    "checked_at": "2026-11-09T06:13:53+00:00",
+    "checked_at": "2026-11-17T07:49:39+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -109600,6 +110978,31 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "fa414c8d90d87dd97c084683051b2a9747a2dd563708a36fd9eee2b5bdb9dc8c": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": null
+  },
   "fa444cba1a9c537bc8b680e2c5d43fdb512883c2e9696f1caa1d2073feaeb8ed": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -109964,6 +111367,31 @@
       "identity"
     ],
     "word_count": 3673
+  },
+  "fb0d7dfbeda7b82b44ac2473038d40dab631a69a8447fab14e83bfe1ca5f9f9f": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": null
   },
   "fb2b5de6caf691d2365000b20b5da128dc6aa289e05d75774a3b0beee3a4d857": {
     "access_status": "available",
@@ -110945,8 +112373,8 @@
     "access_status": "available",
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: On the Use of Synthetic Data for Threshold Calibration in Face Recognition: Performance and Security Implications for Border Control Systems Arto Apila Affiliation: Faculty of Information Technology and Electrical Engineering, University of Oulu, Finland Email: arto.apila@oulu.fi Abstract The recently deployed Entry/Exit System (EES) introduces large-scale biometric verification into European border control, requiring face recognition systems to operate at extremely low false match rates (FMR). While regulatory frameworks define performance targets at the EES Central System level, they do not specify how verification thresholds should be calibrated in practice at the Member State level. In operational settings, obtaining representative real-world data for calibration is often constrained by legal, logistical, and privacy limitations. In this work, we investigate the use of synthetic face data for threshold calibration in document-to-live verification scenarios relevant to border control systems. We analyze the alignment of genuine and impostor score distributions between synthetic and real datasets and evaluate the transferability of calibrated thresholds across domains, with a focus on low-FMR operating points. Our results show that synthetic data can approximate calibration behavior in controlled settings, but fails to...",
-    "cache_version": 9,
-    "checked_at": "2026-08-23T02:00:03+00:00",
+    "cache_version": 10,
+    "checked_at": "2026-11-17T07:49:45+00:00",
     "direct_relevance_terms_found": [
       "identity fraud"
     ],
@@ -110973,7 +112401,7 @@
       "fraud",
       "identity"
     ],
-    "word_count": 10136
+    "word_count": 10061
   },
   "fd7f306c050ce362b9b697cad834c605c6893bbf7049276d678802ad38a66f12": {
     "access_status": "available",
