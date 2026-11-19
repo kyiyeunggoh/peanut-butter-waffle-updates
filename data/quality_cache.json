@@ -734,6 +734,43 @@
     "weak_generic_terms_found": [],
     "word_count": 8601
   },
+  "01f4eedc1a759b8a7c37722fb8b61d529fd20fdb8f8082ebd89f7c917ff6db76": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Katy Prickett Wed, November 18, 2026 at 1:58 PM UTC 0 Paul Bagley, who was also known as Bill Bagley and Billy Andrews to his victims, pleaded guilty at Ipswich Crown Court A prolific rogue trader who took more than \u00a3128,000 in deposits for building work he never completed has been jailed. Paul Bagley, 43, of Robin Avenue, Harleston, Norfolk, took the money from 13 customers in Norfolk and Suffolk, whose losses ranged from \u00a3450 to \u00a336,050. One victim said they would \"never trust anyone again\" and another said \"it makes me feel sick that he took advantage\", Ipswich Crown Court was told. Bagley pleaded guilty to 13 counts of fraud on Tuesday and was sentenced to three years and eight months in jail The trader, who was also known to his victims as Bill Bagley and Billy Andrews, took deposits from customers for work such as plastering, landscaping, and general building work, including extensions and home renovations. In most cases, he would offer to do additional work, asking for further deposits, with his victims being further out of pocket. He used a range of excuses as to why the work was not undertaken or completed. These included bad weather, vehicle breakdowns, fuel shortage, loss of labouring help, ill health and more serious excuses such as family or friends' death or murder. Judge Samantha Leigh said he knew some of his victims were vulnerable. \"You lied to one victim...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:19+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 1453
+  },
   "022548cff4104e163a6f302393f8047a80927492a76055b2a161c12502a244b2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2026,6 +2063,30 @@
     "weak_generic_terms_found": [],
     "word_count": 720
   },
+  "046a3b48e0e6f907f4c0256c961252edd0f26e6ea8d0cea01209b80087e1e024": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Sorry, you have been blocked You are unable to access wpewaf.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a5cd6f565cb8f310-MSP \u2022 Your IP: Click to reveal 132.196.87.40 \u2022 Performance & security by Cloudflare",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 121
+  },
   "047b2924b658173568bbc75211756a95a01858ea4683777e9f74fbccbbddadad": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2535,9 +2596,9 @@
   "057ae1c301e80584385509983bdb7acde08a2f61bcc5c1edb2e0bae3fde1d217": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Spend limits Last updated Nov 4, 2026 | Copy as Markdown | View as Markdown | Agent setup Spend limits let you set cost-based budgets on your AI Gateway. When cumulative spend reaches the limit within a time window, AI Gateway blocks further requests with a 429 response until the window resets. Unlike rate limiting , which caps the number of requests, spend limits track actual dollar cost per request based on model pricing. You can scope limits to any combination of model, provider, or custom metadata dimensions like user ID, team, or application. Spend limits apply to both Unified Billing requests and BYOK requests for models with known pricing. How it works Each spend limit rule defines a budget (in dollars) over a rolling or fixed time window. AI Gateway calculates the cost of each request based on token usage and model pricing, then tracks cumulative spend against the limit in real time. Before sending a request to the provider, AI Gateway evaluates all applicable spend limit rules at once. If any individual rule is over budget, the request is blocked with a 429 response. Spend limits are eventually consistent.",
+    "article_excerpt": "Spend limits Spend limits let you set cost-based budgets on your AI Gateway. When cumulative spend reaches the limit within a time window, AI Gateway blocks further requests with a 429 response until the window resets. Unlike rate limiting , which caps the number of requests, spend limits track actual dollar cost per request based on model pricing. You can scope limits to any combination of model, provider, or custom metadata dimensions like user ID, team, or application. Spend limits apply to both Unified Billing requests and BYOK requests for models with known pricing. How it works Each spend limit rule defines a budget (in dollars) over a rolling or fixed time window. AI Gateway calculates the cost of each request based on token usage and model pricing, then tracks cumulative spend against the limit in real time. Before sending a request to the provider, AI Gateway evaluates all applicable spend limit rules at once. If any individual rule is over budget, the request is blocked with a 429 response. Spend limits are eventually consistent.",
     "cache_version": 10,
-    "checked_at": "2026-11-08T05:55:16+00:00",
+    "checked_at": "2026-11-19T07:17:24+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -2554,7 +2615,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2277
+    "word_count": 2360
   },
   "059d5ea30ed52961181e65cfcba95c149c5bacd82f842c73e4686846e482c907": {
     "access_status": "unknown",
@@ -4882,6 +4943,34 @@
       "trust"
     ],
     "word_count": 1020
+  },
+  "0bb9cf912e5841da007ae48df002a637c2fb73e0db174998c7727cab9f088bb9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: RoboBuilder: Agentic Robot Co-Design with Real-world Video Feedback in the Loop Ghadi Nehme Dahyun Nam Akshay Govind Srinivasan Faez Ahmed Affiliation: Department of Mechanical Engineering, Massachusetts Institute of Technology Affiliation: Cambridge, MA, USA Affiliation: {ghadi, diananam, akshaygs, faez}@mit.edu Abstract Can AI agents design robots that work in the real world? We introduce RoboBuilder, a benchmark in which coding agents co-design a robot\u2019s hardware and program from standard parts, motors and a custom 3D-printed part, and every design that passes in simulation is built and tested on a physical course. Simulation alone is not enough: under public part data, none of 15 initial passing designs crossed the real course, so an agent learns the simulator from measurements it requests and videos of real runs. Across four frontier coding agents, ten obstacles at three difficulty levels, 16,427 simulations of 12,774 distinct robots and 135 physical robots built in an estimated 240 hours, agents solve nearly all easy obstacles and invent mechanisms our search baselines do not reach, but falter at harder levels, when one robot must cross every obstacle, and in the real world, where 66% of simulated passes hold across all levels. Closing the loop helps: shown a video of its real failure, an agent redesigns the robot...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:19+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "institution_domain:mit.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": 32959
   },
   "0bc9cc81f3971778b3af4ca903fe89b23c2a10f42c70f492d61f206b08db84f3": {
     "access_status": "available",
@@ -11515,6 +11604,30 @@
     ],
     "word_count": 2580
   },
+  "195bfd346dfefbc286174430b9224f0d55970b0e53e5f0ca2613b2a910960719": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Retail and Food Services Businesses Adapt Strategies Amid Rising Costs and Evolving Customer Demands Published Nov 19, 2026, 01:55 PM Retail and Food Services Businesses Adapt Strategies Amid Rising Costs and Evolving Customer Demands The issuer is solely responsible for the content of this announcement. Press release Retail and Food Services Businesses Adapt Strategies Amid Rising Costs and Evolving Customer Demands Published Nov 19, 2026, 01:55 PM Retail and Food Services Businesses Adapt Strategies Amid Rising Costs and Evolving Customer Demands The issuer is solely responsible for the content of this announcement. Press release Retail and Food Services Businesses Adapt Strategies Amid Rising Costs and Evolving Customer Demands Published Nov 19, 2026, 01:55 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 159
+  },
   "1972cfb12cf47790db836d4bb5756111a7815fa4b128741f933a7880bf68c9aa": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -15997,6 +16110,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1531
   },
+  "24ef979751e43930af4623fdbb6f9aa69b8f26dc3a9f3702a4539191438b44bb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Woman charged with offering bribe to ICA officer to allow her to enter Singapore Sign up now: Get ST's newsletters delivered to your inbox Chinese national Sun Hai Lun was handed one charge under the Prevention of Corruption Act. ST PHOTO: KELVIN CHNG Nadine Chua Published Nov 18, 2026, 10:27 AM Updated Nov 18, 2026, 10:58 AM Set as preferred source Listen Summarise \u4e2d\u6587 Chinese national Sun Hai Lun, 28, was charged under the Prevention of Corruption Act with allegedly offering a bribe to an ICA officer. She is accused of trying to get the officer to let her enter Singapore instead of being repatriated. The officer rejected the bribe. Sun plans to plead guilty and will return to court on Jan 5. AI generated SINGAPORE \u2013 A woman was hauled to court over allegedly offering a bribe to an Immigration and Checkpoints Authority (ICA) officer, who rejected it. On Nov 18, Chinese national Sun Hai Lun, 28, was handed one charge under the Prevention of Corruption Act. Sun is accused of trying to bribe the ICA officer on Sept 17 into letting her enter Singapore instead of repatriating her. Court documents did not disclose the sum offered or where the incident happened. The officer rejected the bribe, and the case was referred to the Corrupt Practices Investigation Bureau (CPIB).",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1040
+  },
   "250d17128b87364fbdeafdf7d9e668a32978c6f10d98de3c4751324a28d2525f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -19395,6 +19532,36 @@
       "trust"
     ],
     "word_count": 1558
+  },
+  "2cd2de2f8add60fbf9de7a1119d9d4e1aeffa0a1cf1093bbe7f055b2fa2af892": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I\u2019ve found the best deals on WIRED-tested tech that we\u2019d actually recommend, from a great gaming headset to a smart bird feeder. These discounted picks could be a low-cost upgrade for yourself, and they\u2019d also make great gifts this holiday season. Even if the main sales aren\u2019t for another week, these are the best early Black Friday deals we\u2019ve come across on the WIRED-tested gear we recommend\u2014and that\u2019s actually worth buying. All of these sales bring the price down to $100 or under, which is no small feat in today\u2019s economy. Check back often, as we\u2019ll update this guide with the best Black Friday deals under $100 we\u2019ve found leading up to the main Black Friday and Cyber Monday sales event. Want more deals? Here\u2019s our guide to the Best Early Black Friday Deals we\u2019ve found so far. We have even more discounts on WIRED-tested tech here . Plus, read our related shopping guides to make the most of Black Friday sales, including how to avoid scams and sketchy wares on Amazon , Amazon Prime perks you might not know about , and Black Friday shopping tips . WIRED Featured Deals Our favorite cheap earbuds: Nothing Ear (3a) for $69 ($30 off) A great 4-in-1 charging stand: Zens 4-in-1 Modular Wireless Charger for $80 ($50 off) Add color to your space: Govee Neon Rope Light Strip 2 for $70 ($30 off) Updated November 18: I've added new early deals from Nothing, Sony, Mophie, Belkin, Zens...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:23+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4187
   },
   "2ce3dbccd46dfeb05b3490fdd23a45426d004358a96dc97b8b20b611ac831b05": {
     "access_status": "available",
@@ -29751,6 +29918,37 @@
     ],
     "word_count": 0
   },
+  "4471d399bb79b5b91c9bf1ae8198e18f04398c25d984a1943fea3d4a64038e87": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Inter-Agent Influence: Evaluating Persuasion, Deception, and Coercion in Multi-Agent Systems Chandler Smith \u2020 \u2020 thanks: Equal contribution. Affiliation: University of Oxford Affiliation: Cooperative AI Foundation Qi Guo * Affiliation: Cooperative AI Foundation Affiliation: Allelo Cecilia Elena Tilli Affiliation: Allelo Sophia Hatz Affiliation: Uppsala University David Demitri Africa Affiliation: UK AI Security Institute Patricia Paskov Affiliation: AVERI Christian Schroeder de Witt Affiliation: University College London Affiliation: University of Oxford Philip Torr Affiliation: University of Oxford Lewis Hammond \u2020 \u2020 thanks: Correspondence to lewis.hammond@cooperativeai.org . Affiliation: Cooperative AI Foundation Abstract The deployment of AI agents in multi-agent settings enables inter-agent influence, whereby agents can strategically steer each other\u2019s behaviour towards an intended outcome. Such capabilities pose novel risks, as malicious agents could direct others towards harmful actions. In this work we investigate three such capabilities \u2013 persuasion, deception, and coercion \u2013 across five realistic evaluation environments and a variety of agents instantiated with frontier language models. We observed significant inter-agent influence capabilities; in oversight environments, all tested models shifted overseer decisions...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:28+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "institution_domain:stanford.edu"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "vulnerability",
+      "identity"
+    ],
+    "word_count": 64429
+  },
   "447480a4138fcd58ac7a0af9e7b683fce980c9f50c464bbfb4a4cd0fa92871a9": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -37911,7 +38109,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Singapore start-up Sapiens cracks AI training bottleneck, makes waves overseas Sign up now: Get ST's newsletters delivered to your inbox Sapiens Technology, led by CEO Bruce Yang (right) and co-founder Alex Ang, is in talks to pilot and scale its breakthrough technique. ST PHOTO: ARIFFIN JAMAR Kenny Chee Published Nov 11, 2026, 03:23 PM Updated Nov 11, 2026, 08:39 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore start-up Sapiens Technology says it has cut robotics AI training from months to as little as 30 minutes by training only part of a model. The firm is talking to more than 30 robotics and medical firms in the US, China and Singapore, including TetraBOT and Shanghai Xinwei Medical Technology. Sapiens says its method is easier to audit and can adapt on the fly, while customers hope it will improve industrial robots and medical supply forecasting. AI generated SINGAPORE \u2013 Singapore artificial intelligence start-up Sapiens Technology has cracked one of robotics\u2019 biggest bottlenecks by slashing machine training time from months to as little as 30 minutes. Its novel technique \u2013 which can train all AI models using only a fraction of their parameters rather than the whole system \u2013 is gaining attention overseas. Sapiens is in talks with more than 30 robotics and medical firms across the United States, China and Singapore to pilot and scale its breakthrough. These...",
     "cache_version": 10,
-    "checked_at": "2026-11-12T07:04:06+00:00",
+    "checked_at": "2026-11-19T07:17:18+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -38428,6 +38626,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 690
+  },
+  "572b7212343397c332fc175af1b1428a0352d23b495b6e5f9ca2a0d2832ab931": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely , a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC , CNN , Equifax , Ledger and Zoom , was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content. The Zoom.com homepage loading the malicious JavaScript file from Optimizely. Image: blog.report-uri.com. Click to enlarge. According to a blog post from the security firm Report URI , on November 16 malicious JavaScript code was served to visitors of 178 organizations through Optimizely\u2019s platform. Report URI researcher Scott Helme wrote that the payload delivered by the malicious Javascript was rebuilt 26 times during the day, dropping a multi-purpose malware kit that could steal payment card data, cookies and screenshots, and swap any cryptocurrency payment addresses for the attacker\u2019s. Helme noted the affected websites also served exploit code custom made to attack known vulnerabilities in older Apple iPhone and iPad devices. Known by such names as \u201c DarkSword \u201d and \u201c Coruna ,\u201d these are zero-click exploit kits that chain together a half-dozen security...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:17+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "malware",
+      "trust"
+    ],
+    "word_count": 4535
   },
   "57314299c8e4f6350dc35bd1069099f0602b40d6751ddb1eafbfd1f5bbeb3743": {
     "access_status": "available",
@@ -39305,6 +39537,32 @@
     "weak_generic_terms_found": [],
     "word_count": 3715
   },
+  "58d5c1f12a1b64066363968244ae02bda66e5d6f97b92110b800bbf59328fb7f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump administration weighs forcing US firms to disclose Chinese AI use Sign up now: Get ST's newsletters delivered to your inbox China hawks fear Beijing is using models like Moonshot AI\u2019s Kimi, DeepSeek or Qwen to hook US companies so they will become dependent on Chinese AI. PHOTO: REUTERS Published Nov 18, 2026, 07:53 PM Updated Nov 18, 2026, 09:09 PM Set as preferred source Listen WASHINGTON \u2013 The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models, a bid to discourage reliance on the technology without imposing new restrictions that could anger industry or Beijing, three people told Reuters. The Treasury Department and the White House Office of Science and Technology Policy (OSTP) have discussed the plan, which would apply to companies such as Airbnb, the people said. The company uses Qwen, an AI model made by China\u2019s Alibaba, to power its AI customer service agent. Under the plan, companies like Airbnb would be required to post that information on their websites. It was not immediately clear if the idea was gaining traction within the administration or if it would be enshrined in a formal rulemaking process if it does move forward. But its consideration, first reported by Reuters, underscores an emerging push within the administration toward combating the spread of powerful Chinese open-weight models, a source...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:23+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2365
+  },
   "58d624717ec2ceaa8415243009627c65426c957d74d3486046e85fdec0fb09f4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -39336,6 +39594,33 @@
       "trust"
     ],
     "word_count": 8033
+  },
+  "58e2e785e2153fb45e1f98789ebd82a01057021e848bfad0994d0580da9e45ba": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Surge in software patches likely behind recent tech outages, experts say Sign up now: Get ST's newsletters delivered to your inbox Company patching efforts at times are creating short-term disruptions in the way systems work, US Secretary of State Marco Rubio told reporters this week in the Philippines. PHOTO: REUTERS Published Nov 19, 2026, 03:47 AM Updated Nov 19, 2026, 07:10 AM Set as preferred source Listen Summarise AI tools are helping find software flaws faster and cheaper, so more emergency patches are needed. Experts say this is now a major cause of some tech outages. US Secretary of State Marco Rubio said patching can cause \u201cshort-term disruption\u201d as companies update systems. Microsoft fixed more than 1,200 vulnerabilities this month, nearly 20 times last year. Experts warn that rushed patches can fail because they change core systems without full testing. In 2026, 100,000 CVEs were disclosed, and 1,363 were known to be exploited. AI generated WASHINGTON - While the causes of recent disruptions to the way people work, access bank accounts and travel remain unclear, increased efforts to rapidly patch newly discovered vulnerabilities in the AI age are likely a major factor, according to cybersecurity experts and US officials. US Secretary of State Marco Rubio, speaking to reporters in Manila this week, said company patching efforts are, at times, \u201ccreating short-term...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:24+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "word_count": 2668
   },
   "58edc2b64184f4260cc475abb7851fd6412283764602ab77e1cbc8eae6fa0665": {
     "access_status": "available",
@@ -46006,6 +46291,33 @@
       "cybercrime"
     ],
     "word_count": 4243
+  },
+  "67b6a9d67d88fa5b59532c6cd987bb4da8befb592424f72c957e0e60089d73c1": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Tycoon Peter Kwee loses claim for properties in daughter\u2019s name; trust he set up ruled \u2018illegal\u2019 Sign up now: Get ST's newsletters delivered to your inbox Peter Kwee had admitted that one of the purposes of placing properties under the names of his family members was to shield the assets from his creditors. PHOTO: ST FILE Selina Lum Published Nov 18, 2026, 06:10 PM Updated Nov 19, 2026, 07:19 AM Set as preferred source Listen Summarise \u4e2d\u6587 The Court of Appeal ruled Peter Kwee\u2019s trust for five properties was \u201cillegal\u201d and void because it was meant to hide assets from creditors. The judges found Kwee kept the full beneficial interest, despite putting properties in daughter Karen Kwee\u2019s name under a \u201cname placing agreement\u201d. The case matters because it is Singapore\u2019s first clear ruling that a trust used to conceal assets from creditors is against public policy. AI generated SINGAPORE \u2013 In a landmark decision, the Court of Appeal on Nov 18 dismissed a bid by motoring tycoon Peter Kwee to claim ownership of five properties that were held on trust for him by his daughter. Kwee had admitted that one of the purposes of placing properties under the names of his family members was to shield the assets from his creditors. The court said in a written judgment: \u201cWe find that as the trust was set up by Mr Kwee for the purpose of concealing the properties from his creditors, it is void and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3294
   },
   "67c75843ddf55f3d6e48ff4f290b8f089cd44ab08bb306b21887f43eb8f3c136": {
     "access_status": "available",
@@ -57261,6 +57573,36 @@
     ],
     "word_count": 2
   },
+  "7f124c0cf9553bff0d789187789b6f2211d759d46fae08bb89f06f34a684096e": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Arch-Schemer Oobah Butler Pitches Ex-Theranos Exec On Wellness Serum Made From Kids\u2019 Tears Oobah: Scams for a Better Tomorrow launches November 22 on HBO. Read WIRED\u2019s interview with Oobah Butler for more. Released on 11/17/2026 Up Next All Those Tech Outages Are Still Probably IT Screwups\u2014Not Cyberattacks The Chips Are Down For Jensen Huang\u2014What Next? The Best Political Metaphor of the Year? How About a $15m Stagnant Pool Xreal's Aura Glasses Are Its Very Chonky Magnum Opus Nuclear Scientist Answers Nuclear Physics Questions WIRED Yearbook 2026: Best Teacher\u2014Ms. Rachel Arch-Schemer Oobah Butler Pitches Ex-Theranos Exec On Wellness Serum Made From Kids\u2019 Tears This Isn\u2019t the Last We Will Hear from Jensen Huang Louis Rossmann on What a Democratic Congress Means for Right To Repair What if a Robot Could Be Squishy? icon Play All Those Tech Outages Are Still Probably IT Screwups\u2014Not Cyberattacks icon Play The Chips Are Down For Jensen Huang\u2014What Next? icon Play The Best Political Metaphor of the Year? How About a $15m Stagnant Pool icon Play Xreal's Aura Glasses Are Its Very Chonky Magnum Opus icon Play Nuclear Scientist Answers Nuclear Physics Questions icon Play WIRED Yearbook 2026: Best Teacher\u2014Ms. Rachel icon Play Arch-Schemer Oobah Butler Pitches Ex-Theranos Exec On Wellness Serum Made From Kids\u2019 Tears icon Play This Isn\u2019t the Last We Will Hear from Jensen Huang icon Play...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 490
+  },
   "7f2382f9cb7f25385fc09d8c14be7e885e60d3b2d08faa63fd437177f125fc6b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -63701,6 +64043,32 @@
     "weak_generic_terms_found": [],
     "word_count": 6628
   },
+  "8de7b8579afbc511e30fa73860888034f36b6830364efa9bd26a6ce70f560300": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia to reveal first earnings since spy scandal Sign up now: Get ST's newsletters delivered to your inbox The scandal has battered shares of Nvidia, which until recently was the world\u2019s most valuable publicly traded company. PHOTO: REUTERS Published Nov 17, 2026, 05:35 PM Updated Nov 17, 2026, 07:54 PM Set as preferred source Listen Summarise Nvidia will report earnings on Nov 17 after a spy scandal, Jensen Huang\u2019s exit, and new US chip export curbs shook shares and raised doubts over AI growth. The US has tightened rules on advanced chips, targeting data centres and countries like Singapore and Malaysia to stop Chinese firms using foreign cloud access. Investors will watch interim CEO Colette Kress for guidance on sales and strategy, while Singapore and Indonesia assess the impact on data centres and investment. AI generated WASHINGTON \u2013 AI chip giant Nvidia reports its first earnings on Nov 17 since an alleged spy scandal prompted co-founder Jensen Huang to quit and the United States to tighten export curbs on chips. Investors will closely scrutinise the results for indications the artificial intelligence boom can withstand the crisis, which highlighted a loophole allegedly exploited by Chinese companies. Huang, perhaps the tech industry\u2019s most recognised booster of artificial intelligence, stepped down on Nov 12 following revelations of extramarital affairs, including...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2561
+  },
   "8e3ea0b24143614e0b5b7d719ac969601bd2280a33ab3b1ca905085ce0ac3cad": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -70090,6 +70458,36 @@
       "trust"
     ],
     "word_count": 2548
+  },
+  "9d45ba74fd4fc79b7c19416998ee0ef18904eae597f1ec5c37806cedcd04baff": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I\u2019ve found the best deals on WIRED-tested tech that we\u2019d actually recommend, from a great gaming headset to a smart bird feeder. These discounted picks could be a low-cost upgrade for yourself, and they\u2019d also make great gifts this holiday season. Even if the main sales aren\u2019t for another week, these are the best early Black Friday deals we\u2019ve come across on the WIRED-tested gear we recommend\u2014and that\u2019s actually worth buying. All of these sales bring the price down to $100 or under, which is no small feat in today\u2019s economy. Check back often, as we\u2019ll update this guide with the best Black Friday deals under $100 we\u2019ve found leading up to the main Black Friday and Cyber Monday sales event. Want more deals? Here\u2019s our guide to the Best Early Black Friday Deals we\u2019ve found so far. We have even more discounts on WIRED-tested tech here . Plus, read our related shopping guides to make the most of Black Friday sales, including how to avoid scams and sketchy wares on Amazon , Amazon Prime perks you might not know about , and Black Friday shopping tips . WIRED Featured Deals Our favorite cheap earbuds: Nothing Ear (3a) for $69 ($30 off) A great 4-in-1 charging stand: Zens 4-in-1 Modular Wireless Charger for $80 ($50 off) Add color to your space: Govee Neon Rope Light Strip 2 for $70 ($30 off) Updated November 18: I've added new early deals from Nothing, Sony, Mophie, Belkin, Zens...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:27+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4187
   },
   "9d4c335a0a8d2a9655f9484c65a1fb353849dcdbbbaa93d685eea0cdbe49ee5a": {
     "access_status": "unknown",
@@ -82499,6 +82897,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2273
   },
+  "b78c6bd5aba4d27741e8dec21d74b6bbf3ff517d9e8d4ae4d27db3c6cf3fbeb0": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump suggests US can sell Blackwell chips to China in future Sign up now: Get insights on Asia's fast-moving developments Blackwell chips are central to the technology rivalry between the US and China. PHOTO: LOREN ELLIOTT/NYTIMES Published Nov 19, 2026, 11:31 AM Updated Nov 19, 2026, 12:57 PM Set as preferred source Listen Summarise Trump said the US may let Nvidia sell Blackwell chips to China in \u201ctwo years or three years\u201d, once newer chips replace them. China\u2019s access to AI chips is a major US-China flashpoint, as Blackwell could boost Beijing\u2019s AI push. His remarks support lawmakers backing the AI Overwatch Act, while Nvidia\u2019s clout in Washington has weakened after Jensen Huang\u2019s exit. AI generated SHENZHEN, China \u2013 President Donald Trump said that the US could potentially allow the sale of Nvidia\u2019s highly sought Blackwell chips to China in the future, when they are no longer among the most advanced on the market. \u201cIn two years or three years, I would, if I were here, I would say, go ahead. You can now sell Blackwells because they\u2019ll have something else,\u201d Trump said in an interview with Fox News from Shenzhen, China, where he is attending the Asia-Pacific Economic Cooperation summit. \u201cAs you know, they\u2019re already working on something else that\u2019s going to be superseding the Blackwell chip,\u201d he added. \u201cBut in two or three years, I\u2019ll say, go do the Blackwells because...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2146
+  },
   "b7955e60d1408e09d8c04726f73d66aac811cf6ca8fa081713938003659ebc6d": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -86567,6 +86989,32 @@
       "fraud"
     ],
     "word_count": 13176
+  },
+  "bf6d252ebfe47ba60bec336ba0309e0c238398fd5c68c23c6c03882c6329811a": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump kicks off whirlwind Asia trip with trade deals and talks with allies, rivals Sign up now: Get insights on Asia's fast-moving developments A student marches against US President Donald Trump's participation in the 49th ASEAN Summit in Manila. PHOTO: REUTERS Published Nov 17, 2026, 04:56 PM Updated Nov 17, 2026, 09:29 PM Set as preferred source Listen Summarise President Donald Trump began a 48-hour Asia trip in Manila, meeting ASEAN and Quad leaders. Talks focused on trade, AI chips, tariffs and security. Trump played down US service outages and warned Iran of a severe price if it attacks Washington. His visit also drew protests in Manila over Pax Silica and US supply chain plans. ASEAN backed a Digital Economy Framework Agreement to boost digital trade and payments. But leaders again failed to finish a South China Sea code of conduct with China, despite saying 85% to 90% was done. AI generated MANILA \u2013 President Donald Trump landed in Manila on Nov 17 to begin a 48-hour Asia trip in which he will meet with President Xi Jinping of China and other world leaders, with an unpredictable agenda that could include the future of US tariffs, nuclear arms control, the war in Ukraine and US restrictions on advanced artificial intelligence chips. Manila is Trump\u2019s first stop on a trip that will later take him to China for historic three-way nuclear talks with Xi and Russian...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:22+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4061
   },
   "bf70da6e3d4697013e66c6c347cdf1022a12925e2cd155d342e52058a8f00836": {
     "access_status": "available",
@@ -94231,6 +94679,30 @@
     ],
     "word_count": 762
   },
+  "d1490188a88d4ef82f91b78eab08ad5be3ae56e4e1106bfcc514507d8c523c91": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Nvidia stops selling AI chips to China despite US approval Sign up now: Get ST's newsletters delivered to your inbox The revelation marks a significant change from Nvidia\u2019s stance thus far, as the company has pushed hard to do more business with Chinese customers. PHOTO: ERIC LEE/NYTIMES Published Nov 18, 2026, 09:15 AM Updated Nov 18, 2026, 03:20 PM Set as preferred source Listen Summarise Nvidia says it is no longer shipping licensed Hopper data centre chips to China, even after US approval to sell H200 chips in 2025. The company sold US$2.4 billion of Hopper products to China in the third quarter, but future guidance excludes them, marking a sharp policy shift. Nvidia is creating a board committee on national security and export controls as US scrutiny grows over chip sales and Chinese access to advanced AI hardware. AI generated SAN FRANCISCO \u2013 Nvidia is no longer shipping Hopper data centre chips to China, despite winning the US government\u2019s blessing to sell a version of that model to the Asian nation in 2025 . The world\u2019s leading AI chip supplier sold US$2.4 billion ( S$3.09 billion ) worth of licensed, Hopper data centre products to China in the third quarter, Nvidia\u2019s interim chief executive officer Colette Kress said during an earnings call with analysts on Nov 17 . But the company\u2019s future \u201cguidance does not have any licensed Hopper data centre products included, and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:25+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1747
+  },
   "d15ef106246c54d478fabcbacb4bf431a1fd0547c7d4fd7a6a8943f8ee0bfbad": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -94582,6 +95054,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "d1d321218d7f668453117a35101e7365f5d4a327cbd49d8dbfe7630f6dec6c9c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why nearly every phone in South Korea will ring Nov 19, even on silent Sign up now: Get insights on Asia's fast-moving developments The first nationwide alert will be sent at 8.30am, with another to follow at an unannounced time during the Suneung exam, the South Korean government confirmed on Nov 18. PHOTO ILLUSTRATION: PIXABAY Published Nov 18, 2026, 04:10 PM Updated Nov 18, 2026, 04:10 PM Set as preferred source Summarise South Korea will sound emergency alarms on 19 November during the Suneung exam to expose hidden phones, even on silent, at 8.30am and later. Experts say hidden smartphones matter most, because they link tiny cameras or smart glasses to cloud AI that can solve exam questions. Authorities are limiting Wi-Fi and using inspections, metal detectors and 8,400 extra supervisors, but full blocking is hard because of legal and practical limits. AI generated SEOUL \u2013 Tens of millions of mobile phones across South Korea are expected to sound an emergency alarm on the one day in the year for the administration of Suneung on the morning of Nov 19 , including those belonging to people who have nothing to do with the country\u2019s college entrance exam. Putting your phone on silent or disabling ordinary disaster alerts will not stop it. The country\u2019s highest-level warning, normally reserved for crises such as war or major earthquakes, can reach virtually all phones even with...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:21+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3177
+  },
   "d1ec156acc516fa6f62390ce7906d80a4a5157f249b37ee9c763c6818cefe70a": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -94877,6 +95373,34 @@
     ],
     "word_count": 2170
   },
+  "d2a895f9309873e34b5db94d61f7712f047c573d8552e7d7b9892ff405b45453": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Not a-Muse-d! Muse is one of the fastest-growing AI apps on record, with more than 10 million downloads since its September launch. PHOTO: REUTERS Published Nov 18, 2026, 07:45 PM Updated Nov 18, 2026, 11:03 PM Set as preferred source Listen Summarise Meta\u2019s Muse AI agent has had early safety problems, including possible privacy leaks, wrong messages and made-up details. Reuters reviewed internal posts and tests that showed risky access to encrypted chats and device data. Employees said Muse showed bank balances, child-care messages and other people\u2019s chats, causing alarm and concern about cross-account leaks. Meta called these \u201cisolated incidents\u201d and said many were hallucinations already fixed. The case highlights wider risks for AI agents, which need deep device access to work. Apple and Google are considering tighter controls, while Signal called Meta\u2019s rollout \u201ctechnologically reckless\u201d. AI generated NEW YORK - Meta\u2019s AI agent Muse, embodied by a smiley, fuzzy mascot named Jolly, has burrowed into encrypted personal messages, supplied made-up information about purchases, and sent users chats seemingly meant for other people, a fraught start for a bot meant to simplify life for consumers, according to internal company posts reviewed by Reuters. The unbidden actions by Muse \u2013 one of the fastest-growing apps on record, with more than 10 million downloads since its September...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:20+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 5887
+  },
   "d2ad1f2077142e205f6f6ea67dfe92c6133278976bb4b351c3fe41d9598183a4": {
     "access_status": "unknown",
     "anti_scam_relevance": "direct",
@@ -95095,13 +95619,17 @@
   },
   "d329f7370d0268058fd4146f82aeed64ac0d8784ac158e58897a3d02eea66d8a": {
     "access_status": "available",
-    "anti_scam_relevance": "weak",
-    "article_excerpt": "Japan's economy shows weaker than expected 1.1% growth in second quarter April-June GDP hits below market expectations, marks third straight quarter of expansion 'A new Plaza Accord?' Japan's battle against yen bears enters new phase China shock looms for robotics as physical AI race heats up: think tank Indians rethink study abroad, turn to higher education at home Trump instructs Pentagon to reduce military exercises with South Korea India turns to aerial gondolas to overcome traffic jams Modi's centrally driven cable-car program makes slow but steady progress Malaysia's DAP votes to stay in ruling coalition, easing pressure on Anwar 'We live in the most partisan era in over a century,' Larry Sabato says Extreme heat is tightening the food-energy link across Asia In Focus: Hot pot sumo is Tokyo's latest tourist attraction India turns to aerial gondolas to overcome traffic jams Modi's centrally driven cable-car program makes slow but steady progress Extreme heat is tightening the food-energy link across Asia In Focus: Hot pot sumo is Tokyo's latest tourist attraction Editor's Picks No room for data centers? South Korea wants to build one underwater Pilot project off Ulsan coast aims to find space for AI infrastructure Japan's Takaichi keeps friends close as China ups diplomatic pressure Modi pitches 7 growth mantras, wants '50 Indian firms in Fortune 500' Tata Sons AGM...",
-    "cache_version": 8,
-    "checked_at": "2026-08-17T01:53:40+00:00",
-    "direct_relevance_terms_found": [],
-    "direct_scam_relevance_terms_found": [],
-    "downrank_reason": "weak_anti_scam_relevance",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Trump touts 'balanced' China ties as Xi highlights stability Friendly vibes mask deep divisions at leaders' 3rd summit of year BlackRock CEO warns tighter US AI regulations risk recession Vietnam's new ASEAN internet cable part of $1bn Japan partnership Anthropic hikes IPO to $83 on strong demand; $1.5tn valuation possible APEC live: Takaichi says Japan's position on Taiwan remains the same Analysis: The making of new social media darling Alice Huang Chinese netizens cheer ex-Megaspeed executive's exploits despite Beijing's spy denials Commodity data firm Kpler bets global turmoil to sustain trade data demand Vietnam courts European investment, but regulatory hurdles loom Cambodia's reputation can be repaired only by steady scam crackdowns Through the Lens: ASEAN takes center stage as leaders gather in Manila Analysis: The making of new social media darling Alice Huang Chinese netizens cheer ex-Megaspeed executive's exploits despite Beijing's spy denials Cambodia's reputation can be repaired only by steady scam crackdowns Through the Lens: ASEAN takes center stage as leaders gather in Manila Editor's Picks Anthropic's IPO fireworks may light fuse for Asia's AI startups DeepSeek and rivals prepare listings as funding turns selective Chinese dominate Portugal tech show, as companies shrug off EU curbs Toyota, Suzuki rely on weak yen to keep profits growing Trump cites military...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:26+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
     "hard_rejected": false,
     "hard_rejection_reason": null,
     "press_release_or_sponsored": true,
@@ -95111,11 +95639,15 @@
     "research_relevance_score": null,
     "research_reputation_signals": [],
     "salesy_vendor_pitch": false,
-    "strong_scam_anchor_terms_found": [],
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
-    "weak_generic_terms_found": [],
-    "word_count": 834
+    "weak_generic_terms_found": [
+      "cybercrime"
+    ],
+    "word_count": 1270
   },
   "d332a222dc3d3a8bb15fa693fca29c333d0d9658e35c811aa78dfb6f60d3e82f": {
     "access_status": "available",
@@ -97596,6 +98128,32 @@
       "identity"
     ],
     "word_count": 36994
+  },
+  "d8e86ddaec493ab82f5f754f3b5ae7c442d1ceca1f54f94199793312abea6257": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US senators warn White House that AI-enabled cyber threats are outpacing defenses Sign up now: Get ST's newsletters delivered to your inbox FILE PHOTO: U.S. Senator Maria Cantwell (D-WA) speaks during a memorial event at DAR Constitutional Hall in Washington, D.C., U.S., January 28, 2026. REUTERS/Kylie Cooper/File Photo Published Nov 18, 2026, 06:35 PM Updated Nov 18, 2026, 06:35 PM Set as preferred source Nov 18 - A pair of US senators on Wednesday warned the Trump administration that \"rapidly escalating\" AI-enabled cyber threats were outpacing the country's defenses, amid broader concerns about sophisticated agents conducting cyberattacks. AI industry leaders including Anthropic's Dario Amodei, OpenAI's Sam Altman and SpaceX's Elon Musk have called for a coordinated slowdown, following incidents like the OpenAI-Hugging Face incident, in which an AI \"swarm\" conducted cybersecurity attacks. On the other hand, AI has discovered flaws in PHP, one of the most widely used internet programming languages. Last month, government websites in Europe and elsewhere went offline after the disclosure of critical PHP vulnerabilities. Senators Maria Cantwell, a Democrat, and Mike Rounds, a Republican, said the White House should take immediate action to protect critical infrastructure, financial institutions and widely used software. The senators pointed to several recent incidents...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:18+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "cybersecurity"
+    ],
+    "word_count": 1387
   },
   "d8f79669291d69f2685d421fe4d0ea4779f8fdca9f6aa53a4d71bef0a1f02078": {
     "access_status": "available",
@@ -104502,6 +105060,36 @@
       "trust"
     ],
     "word_count": 106612
+  },
+  "e9d334f123fce127c98c1625fb3d6d9d782a561a500b3af143b8c2d0f3f63742": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "I spotted phones we have tested and already recommend at a cheaper price than usual, and collected them below. It\u2019s possible some of these prices will dip lower as day-of Black Friday deals , and more phones will definitely be on sale for the event, but we\u2019ll update this guide as we spot them. Want more deals? Check out our guide to the Best Early Black Friday Deals on Amazon , the Best Early Black Friday TV Deals , and Black Friday Deals at Home Depot . Plus, read our related shopping guides, including how to avoid scams and sketchy wares on Amazon . Jump To: AccordionItemContainerButton LargeChevron Best Black Friday iPhone Deals Best Black Friday Samsung Phone Deals Best Black Friday Nothing Phone Deals Consider Black Friday Carrier Deals Best Black Friday iPhone Deals Photograph: Julian Chokkattu Photograph: Julian Chokkattu Photograph: Julian Chokkattu Photograph: Julian Chokkattu Chevron Chevron Save to wishlist Save to wishlist Apple iPhone Air $1,100 $1,000 (9% off) Best Buy $1,099 Apple The iPhone Air impressed us with its super-svelte form factor. A lovely 6.5-inch OLED screen and excellent performance, courtesy of Apple\u2019s A19 Pro chipset, are wrapped up in a body that\u2019s just 5.6 millimeters thick and only weighs 165 grams. Battery life isn\u2019t stellar, and the main camera is a lone 48-MP shooter, but it\u2019s so thin . Discounts on iPhones can be hard to find, so if...",
+    "cache_version": 10,
+    "checked_at": "2026-11-19T07:17:24+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2773
   },
   "e9d3470f5f1f2c26f9609029b7c5cd65f5caf071c81e77d2e565ade662c88f71": {
     "access_status": "available",

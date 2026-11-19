@@ -532,6 +532,20 @@
       "url": "https://www.aol.co.uk/articles/youtubers-lured-scammer-fake-funeral-192638000.html",
       "usefulness_category": "Scam development"
     },
+    "aol.co.uk|2026-11-18|128k jailed rogue scam trader victims": {
+      "article_type": "News report",
+      "normalised_title": "rogue trader jailed after scamming victims 128k",
+      "normalized_title_fingerprint": "rogue trader jailed scam victims 128k",
+      "original_url": "https://www.aol.co.uk/articles/rogue-trader-jailed-scamming-victims-135800000.html",
+      "parsed_date": "2026-11-18",
+      "raw_title": "Rogue trader jailed after scamming victims of \u00a3128k - AOL.co.uk",
+      "same_story_key": "aol.co.uk|2026-11-18|128k jailed rogue scam trader victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "aol.co.uk",
+      "title": "rogue trader jailed after scamming victims 128k",
+      "url": "https://www.aol.co.uk/articles/rogue-trader-jailed-scamming-victims-135800000.html",
+      "usefulness_category": "Scam development"
+    },
     "apnews.com|2025-04-15|attempt center compounds d44c9f74d3b40ee88dd7e3a33eced8a3 detained escape ethiopia forced": {
       "article_type": "News report",
       "normalised_title": "people detained myanmar after release scam compounds attempt escape",
@@ -7210,6 +7224,20 @@
       "url": "https://wowo.com/williams-county-residents-among-victims-in-9-million-international-romance-scam/",
       "usefulness_category": "Scam development"
     },
+    "wral.com|2026-07-08|cbmikafbvv95cuxpqxfttgpheuz4chvymjjmzgzjukg3rxdrmghwoevyznnulu5jaxhtrxu2v0vwzju4zuxot3i1elnxtnjlrvrxdxe5ufbdzvk1qzzxv3o3und6owxxu0f6vwpprelzre9ktzffrehmm1qznercuhiwdgzbuhbtrehlblheylrwwxbzvzl1rzk3yku expert manipulate scammers stages these victims": {
+      "article_type": "News report",
+      "normalised_title": "scammers use these 4 stages manipulate victims expert says",
+      "normalized_title_fingerprint": "scammers these stages manipulate victims expert",
+      "original_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXFtTGpHeUZ4cHVYMjJMZGZjUkg3RXdrMGhWOEVyZnNuLU5JaXhTRXU2V0VWZjU4ZUxoT3I1elNXTnJLRVRXdXE5UFBDZVk1QzZxV3o3Und6OWxXU0F6VWpPRElZRE9kTzFfREhmM1QzNERCUHIwdGZBUHBTREhlblhEYlRwWXBZVzl1Rzk3YkU?oc=5",
+      "parsed_date": "2026-07-08",
+      "raw_title": "Scammers use these 4 stages to manipulate victims, expert says - WRAL",
+      "same_story_key": "wral.com|2026-07-08|cbmikafbvv95cuxpqxfttgpheuz4chvymjjmzgzjukg3rxdrmghwoevyznnulu5jaxhtrxu2v0vwzju4zuxot3i1elnxtnjlrvrxdxe5ufbdzvk1qzzxv3o3und6owxxu0f6vwpprelzre9ktzffrehmm1qznercuhiwdgzbuhbtrehlblheylrwwxbzvzl1rzk3yku expert manipulate scammers stages these victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "wral.com",
+      "title": "scammers use these 4 stages manipulate victims expert says",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXFtTGpHeUZ4cHVYMjJMZGZjUkg3RXdrMGhWOEVyZnNuLU5JaXhTRXU2V0VWZjU4ZUxoT3I1elNXTnJLRVRXdXE5UFBDZVk1QzZxV3o3Und6OWxXU0F6VWpPRElZRE9kTzFfREhmM1QzNERCUHIwdGZBUHBTREhlblhEYlRwWXBZVzl1Rzk3YkU?oc=5",
+      "usefulness_category": "Scam development"
+    },
     "wtrf.com|2026-10-08|amp atm bci crypto more ohio returns scam": {
       "article_type": "News report",
       "normalised_title": "ohio bci returns more than 15 000 victim crypto atm scam",
@@ -11378,6 +11406,18 @@
       "title": "robocalls worldwide us only problem analyzing spam fraud international phone calls",
       "usefulness_category": "Research / novel method"
     },
+    "rogue trader jailed scam victims 128k": {
+      "article_type": "News report",
+      "normalised_title": "rogue trader jailed after scamming victims 128k",
+      "normalized_title_fingerprint": "rogue trader jailed scam victims 128k",
+      "parsed_date": "2026-11-18",
+      "raw_title": "Rogue trader jailed after scamming victims of \u00a3128k - AOL.co.uk",
+      "same_story_key": "aol.co.uk|2026-11-18|128k jailed rogue scam trader victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "aol.co.uk",
+      "title": "rogue trader jailed after scamming victims 128k",
+      "usefulness_category": "Scam development"
+    },
     "romance scam evolve emotionally engineered attacks": {
       "article_type": "Vendor blog",
       "normalised_title": "romance scams evolve emotionally engineered attacks",
@@ -11640,6 +11680,18 @@
       "sent_at": "2026-10-27T04:58:35+00:00",
       "source_domain": "bitdefender.com",
       "title": "scammers telling norwegians drop gold forests safekeeping",
+      "usefulness_category": "Scam development"
+    },
+    "scammers these stages manipulate victims expert": {
+      "article_type": "News report",
+      "normalised_title": "scammers use these 4 stages manipulate victims expert says",
+      "normalized_title_fingerprint": "scammers these stages manipulate victims expert",
+      "parsed_date": "2026-07-08",
+      "raw_title": "Scammers use these 4 stages to manipulate victims, expert says - WRAL",
+      "same_story_key": "wral.com|2026-07-08|cbmikafbvv95cuxpqxfttgpheuz4chvymjjmzgzjukg3rxdrmghwoevyznnulu5jaxhtrxu2v0vwzju4zuxot3i1elnxtnjlrvrxdxe5ufbdzvk1qzzxv3o3und6owxxu0f6vwpprelzre9ktzffrehmm1qznercuhiwdgzbuhbtrehlblheylrwwxbzvzl1rzk3yku expert manipulate scammers stages these victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "wral.com",
+      "title": "scammers use these 4 stages manipulate victims expert says",
       "usefulness_category": "Scam development"
     },
     "scammers using your real hotel reservations trick you spear phishing attacks": {
@@ -13479,6 +13531,18 @@
       "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing - TechCrunch",
       "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
       "usefulness_category": "Detection / analytics / engineering insight"
+    },
+    "01f4eedc1a759b8a7c37722fb8b61d529fd20fdb8f8082ebd89f7c917ff6db76": {
+      "article_type": "News report",
+      "normalised_title": "rogue trader jailed after scamming victims 128k",
+      "normalized_title_fingerprint": "rogue trader jailed scam victims 128k",
+      "parsed_date": "2026-11-18",
+      "same_story_key": "aol.co.uk|2026-11-18|128k jailed rogue scam trader victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "aol.co.uk",
+      "title": "Rogue trader jailed after scamming victims of \u00a3128k - AOL.co.uk",
+      "url": "https://www.aol.co.uk/articles/rogue-trader-jailed-scamming-victims-135800000.html",
+      "usefulness_category": "Scam development"
     },
     "024540efc33696976abb9fde119b605771b6e537fbf6b4f04fbdb95b8411b115": {
       "article_type": "Research paper",
@@ -17283,6 +17347,18 @@
       "title": "The Romance Scammer Who Made a Small Fortune Posing as a WWE Superstar - WIRED",
       "url": "https://www.wired.com/story/wired-book-club-excerpt-the-yahoo-boys-carlos-barragan/",
       "usefulness_category": "Operational intelligence"
+    },
+    "75ae0a6084d128a1b6b6b83ce87a2f71a4440c5f68fb4d702340d2b89c19ce86": {
+      "article_type": "News report",
+      "normalised_title": "scammers use these 4 stages manipulate victims expert says",
+      "normalized_title_fingerprint": "scammers these stages manipulate victims expert",
+      "parsed_date": "2026-07-08",
+      "same_story_key": "wral.com|2026-07-08|cbmikafbvv95cuxpqxfttgpheuz4chvymjjmzgzjukg3rxdrmghwoevyznnulu5jaxhtrxu2v0vwzju4zuxot3i1elnxtnjlrvrxdxe5ufbdzvk1qzzxv3o3und6owxxu0f6vwpprelzre9ktzffrehmm1qznercuhiwdgzbuhbtrehlblheylrwwxbzvzl1rzk3yku expert manipulate scammers stages these victims",
+      "sent_at": "2026-11-19T07:17:34+00:00",
+      "source_domain": "wral.com",
+      "title": "Scammers use these 4 stages to manipulate victims, expert says - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXFtTGpHeUZ4cHVYMjJMZGZjUkg3RXdrMGhWOEVyZnNuLU5JaXhTRXU2V0VWZjU4ZUxoT3I1elNXTnJLRVRXdXE5UFBDZVk1QzZxV3o3Und6OWxXU0F6VWpPRElZRE9kTzFfREhmM1QzNERCUHIwdGZBUHBTREhlblhEYlRwWXBZVzl1Rzk3YkU?oc=5",
+      "usefulness_category": "Scam development"
     },
     "75e8ece4130224535bc33cf4bfe5269e6a324d9bce04aca19a8d723548e385e5": {
       "article_type": "Research paper",
