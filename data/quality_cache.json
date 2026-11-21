@@ -2423,6 +2423,45 @@
     ],
     "word_count": 3589
   },
+  "04ff6a2e344571269f6e10b6057f831d04b7312ba30cca706b999c50a4cf2aaf": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "article A United States Postal Service mail collection box is seen on a street in Chicago, Illinois, United States, on July 25, 2026. (Photo by Marcin Golba/NurPhoto via Getty Images) The Brief Former U.S. postal inspector Scott Kelley was sentenced to 40 months in prison for stealing more than $340,000 from lottery scam victims. Kelley used his position to intercept cash-filled packages mailed by elderly and other vulnerable victims. He laundered some of the money and spent thousands on home improvements and personal expenses. BOSTON - A former U.S. postal inspector who stole cash mailed by lottery scam victims was sentenced to 40 months in prison after prosecutors said he used his position to intercept packages that should have helped investigators protect vulnerable people. Dig deeper: Scott Kelley, 52, of Pembroke, Massachusetts, stole more than $340,000, laundered some of the money and failed to report it to the IRS, according to the U.S. Attorney\u2019s Office for the District of Massachusetts. U.S.",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2438
+  },
   "05092a1ba0d4ce382a0c5221d65021abd94e806f7ec8698b853a7083dcc0707d": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -9474,6 +9513,30 @@
     ],
     "word_count": 18607
   },
+  "14499ebfc98e50d58a90500e0a6eaaf1bef1c300414c73c01eb711f8281e7cc8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:54+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2
+  },
   "14642078071dc04531720df73651a1f55b06575082d7d26448278b4c9fe84197": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -12243,6 +12306,51 @@
     ],
     "word_count": 1857
   },
+  "1ae30207361dff198c0541841b3af77a925f925bc97aee334a2d2d7be6eac81f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models Zongrui Wang, Xiangyang Zhu, Sicheng Wang, Han Wang, Dingyi Rong, Zeyu Zhang, Chunyi Li, Yue Shi, Kaiwei Zhang, Zicheng Zhang, Yuan Tian, Qi Jia, Yan Teng, Wei Sun, Ning Liu, Guangtao Zhai Affiliation: Shanghai Jiao Tong University Shanghai Artificial Intelligence Laboratory East China Normal University Affiliation: Corresponding authors Project leader Abstract Multimodal safety moderation requires distinguishing risks arising from visual content, user intent, and assistant behavior. Existing safeguards, however, are typically trained for a single judgment target and reduce safety assessment to a binary decision. Consequently, risk becomes difficult to compare across a multimodal interaction, and ambiguous cases are obscured. We introduce SafeAtlas-VL , a dataset of 1.5M training instances that places image-, request-, and response-level judgments on a five-level ordered scale. We curate a broad collection of safety-relevant data from both real-world and synthetic sources and apply a disagreement-aware annotation procedure. The resulting dataset spans 15 harm categories and 55 fine-grained subcategories, covering a broad range of multimodal safety scenarios. We also construct SafeAtlas-Bench , a held-out set of 5,000 instances for evaluating...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:54+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "financial fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "malware",
+      "ransomware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 30886
+  },
   "1afedd5647552e854d520ee306126d5de962fa9ada5db553fd22ffce75d21d52": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14162,6 +14270,30 @@
     ],
     "word_count": 25114
   },
+  "1f306936b8783ebec04ecf0baaa3f38a0c345ef0d73f5b45651fdb3116ee5ef8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Abstract Paper Abstract Given a single text and a simple zero-shot prompt (no web access, tools, candidate lists, or writing samples), frontier models can answer \u201cwho wrote this?\u201d at three increasingly specific levels: (1) whether an AI or human wrote it, (2) if an AI, which lab, and (3) if a human, often exactly who. The latest models (Claude Fable 5.2, GPT-6.1 Sol, Gemini 4 Carbon) match trained detectors like Pangram while also explaining their predictions in natural language, and Opus 5.5 names the correct lab for 98% of texts generated by models from Anthropic, OpenAI, and Google. Most strikingly, Fable 5.2 correctly names the author of 39% of public peer reviews published in Oct-Nov 2026 (78% on a subset of reviews from Nature), and identifies the username behind 69% of comments from active Redditors (with >500 posts over the last year). Accuracy depends on exposure to an author\u2019s writing in pretraining data and on reasoning effort, and simply asking a model how familiar it is with someone predicts whether it can identify their writing. For anyone who has published enough writing online, frontier models present a greater threat to anonymity than commonly assumed, and defenses are limited. View Paper PDF 27 Save denizbt/unmasking_authors Cite From the authors View full on X Atrey Desai @ atreydesai Frontier models need only one text to unmask its author. Give a frontier...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:49+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4580
+  },
   "1f4114844b8621d4ba0e0243e45ed262bdf9710a831e0425fa5f0c52e4745b56": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -14233,6 +14365,43 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "1f5ff6eecb2c5adc62342aef5c6468515235e024cf0a7efd4534f2f54f693cbb": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": null
   },
   "1f6ec754ab7d5c2977129631b75b180302729b6d1a945bf5b2dbcd023c96c275": {
     "access_status": "available",
@@ -20966,6 +21135,42 @@
     "weak_generic_terms_found": [],
     "word_count": 3230
   },
+  "2fe50972269e98d39d8fbd57d893ba12f09b76e375d43b5403574be141d3346d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
+  },
   "2fe623620cf60ddfc0999b1cb8099b207cadaf87143aca13622e9dd66eea52fd": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -21937,6 +22142,30 @@
     ],
     "word_count": 3587
   },
+  "32456320fdaa08484481afea0c5c07418d7ad61249a08ea123cadeb0b6b8a3fa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 19, 2026 WAF Emergency Release - 2026-11-19 WAF Updates November 20, 2026, 21:33 UTC: updated typo in CVE id, updating CVE:CVE-2026-13282 to CVE:CVE-2026-132825 This release introduces updates to an existing PHP Remote Code Execution rule to improve detection accuracy, as well as a few new generic, PHP and Ruby CVE specific rules. The new PHP rules are being deployed in log mode by default (in lieu of False Positive risk) and can be overridden after evaluating requests matching the rules. Supplementary information around the CVEs are available through Zero Wire phpAfterShell and six other PHP critical flaws \u00e2\u0086\u0097\u00ef\u00b8\u008e and ruby2shell: heap overflow in Ruby string case conversion \u00e2\u0086\u0097\u00ef\u00b8\u008e . Ruleset Rule ID Legacy Rule ID Description Previous Action New Action Comments Cloudflare Free Ruleset ...7975ce1b N/A PHP Remote Code Execution Attack ( CVE-2026-109618 \u00e2\u0086\u0097\u00ef\u00b8\u008e , CVE-2026-109619 \u00e2\u0086\u0097\u00ef\u00b8\u008e , CVE-2026-115560 \u00e2\u0086\u0097\u00ef\u00b8\u008e , CVE-2026-126714 \u00e2\u0086\u0097\u00ef\u00b8\u008e ) #6 N/A Block Rule detection and description updated. Cloudflare Free Ruleset ...b19210f1 N/A Ruby - Heap Overflow - CVE: CVE-2026-132825 \u00e2\u0086\u0097\u00ef\u00b8\u008e N/A Block This is a new detection. Cloudflare Free Ruleset ...e9855f05 N/A Ruby - Integer Overflow - GHSA-87fm-7w84-j2px N/A Block This is a new detection. Cloudflare Managed Ruleset ...9d9c073d N/A PHP Remote Code Execution Attack ( CVE-2026-109618...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 826
+  },
   "324718291c8499af77b7350b3827d87a3c01e013cfeb00f8b8a2938fd3d66a60": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -22008,6 +22237,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2
+  },
+  "3267b85c696e08df113a35c0a41abf12d09e1e5942eabf1b7882ff33dc3c3940": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Image: 404 Media. We start this week with Joseph\u2019s profile of the man who made OnlyFake, an AI-powered fake ID site. After the break, Jason tells us about the Muse agent that is using Meta. In the subscribers-only section, Jason explains how the Department of Justice is using AI detection tools against defense lawyers. Listen to the weekly podcast on Apple Podcasts , Spotify , or YouTube . Become a paid subscriber for access to this episode's bonus content and to power our journalism. If you become a paid subscriber, check your inbox for an email from our podcast host Transistor for a link to the subscribers-only version! You can also add that subscribers feed to your podcast app of choice and never miss an episode that way. The email should also contain the subscribers-only link for the extended video version too. It will also be in the show notes in your podcast player.",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 627
   },
   "326de8a0d9d9563f8a7f2a75ba4aa74554c3783f58792ca0d115919dd91177e7": {
     "access_status": "available",
@@ -26660,6 +26915,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2477
   },
+  "3c89618e568ef7bf4fbf4a3d3b79a9fcea54ca9141a156aa25e46af99d43b05a": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Trump unveils $17 billion of South-east Asia deals for US firms, White House says Sign up now: Get insights on the biggest stories in Malaysia US President Donald Trump and US Secretary of State Marco Rubio during a meeting with Philippine President Ferdinand Marcos Jr (not pictured) in Manila on Nov 18. PHOTO: AFP Published Nov 19, 2026, 10:35 PM Updated Nov 20, 2026, 07:34 AM Set as preferred source Listen Summarise Trump said the US secured more than US$17 billion in Southeast Asia deals after the ASEAN Summit, boosting trade and strategic ties across the region. Major deals include a US$12 billion Boeing and GE Aerospace sale to Philippine Airlines, plus US defence financing and support for South China Sea operations. Other plans cover Thai rocket systems, Indonesian coal talks, Malaysia AI projects, and Brunei data centre work, showing wider US commercial and security push. AI generated KUALA LUMPUR \u2013 US President Donald Trump announced more than US$17 billion (S$21.9 billion) in commercial deals and strategic investments for US companies in South-east Asia, following a two-day working visit to the Philippines for the ASEAN Summit , the White House said. The deals include Boeing and GE Aerospace finalising a US$12 billion sale of 20 Boeing 787 aircraft to Philippine Airlines, the White House said in a statement late on Nov 18 . Washington and Manila will also pursue more...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1384
+  },
   "3c8d88d119109a14e38d22516c6136551caf87807eed1849042144934bcc6eee": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29849,6 +30128,32 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "43eb3143e1231e6aad1e9ab48f1b74bcc8e3e6a17c5729db4e38dd813a204ad9": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Xi hails \u2018comprehensive turnaround\u2019 in China-Australia ties Sign up now: Get insights on Asia's fast-moving developments China\u2019s President Xi Jinping suggested greater cooperation in agriculture, energy, the green economy and artificial intelligence in the meeting. PHOTO: REUTERS Published Nov 20, 2026, 12:50 PM Updated Nov 20, 2026, 01:57 PM Set as preferred source Listen Summarise Xi said China and Australia have made a \u201ccomprehensive turnaround\u201d and can work more closely on agriculture, energy, the green economy and AI. Both leaders said they would manage differences \u201cconstructively and directly\u201d, as Albanese noted a stable relationship serves both countries. Albanese will visit Beijing and meet Li Qiang, while business talks continue amid tense iron ore negotiations and concerns over trade pressure. AI generated SHENZHEN/SYDNEY - China and Australia can cooperate more in areas such as agriculture and AI, President Xi Jinping told Prime Minister Anthony Albanese on Nov 20, hailing a \"comprehensive turnaround\" in the countries' relationship. Speaking on the sidelines of the Asia-Pacific Economic Forum (APEC) summit in Shenzhen, Xi said China was willing to work with Australia to expand cooperation, set aside differences and build on recent improvements in relations, taking the partnership to a new stage of development. \"Since you took office as prime minister in 2022, we...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": 1557
+  },
   "43ed7fb343260311832d9388ca73f9c9575bf2b58e36ba3d83a04ff37f7f27da": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -30632,7 +30937,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability Junhao Wang Yidou Chen Li Lu \\corresponding Hongwei Yao Xiaodan Li Mengjie Wu Yuefeng Chen Zhan Qin Kui Ren Abstract Advances in Omni-modal Large Language Models (OLLMs) have enabled increasingly seamless human-AI interaction, but their unified processing of heterogeneous modalities also expands the attack surface, allowing adversaries to exploit richer input compositions to circumvent safety alignment. To counter such risks, omni-modal guardrails have been proposed to detect and filter unsafe queries across arbitrary modalities. However, their capabilities and limitations remain insufficiently understood due to the absence of a comprehensive evaluation benchmark. In this paper, we present Omni-UBench , the first comprehensive framework for omni-modal safety assessment, evaluating guardrail models along three critical dimensions, i.e., safety, utility, and reliability. Omni-UBench curates over 183k samples drawn from 35+ heterogeneous sources spanning text, image, audio, video, and their cross-modal combinations, annotated with safety labels under a unified risk taxonomy. Benchmarking under Omni-UBench on 15 representative OLLMs and omni-modal guardrails yields several key findings, including: (1) modern OLLMs exhibit strong...",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:17+00:00",
+    "checked_at": "2026-11-21T06:59:49+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
@@ -39585,6 +39890,44 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1427
+  },
+  "583fe9c7a693d2e958cc75e3ab3e3dac4fc3e0c025bf74b300ad957e6ebf58a8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: EGS: A Complementary Safety Framework for Educational LLMs Zexuan Fei \u2020 \u2020 thanks: These authors contributed equally to this work. Affiliation: East China Normal University, Shanghai, China Email: ftan@mail.ecnu.edu.cn Zhengnan Guo 1 1 footnotemark: 1 Affiliation: East China Normal University, Shanghai, China Yiming Luo Affiliation: East China Normal University, Shanghai, China Kaiyi Huang Affiliation: East China Normal University, Shanghai, China Aimin Zhou Affiliation: East China Normal University, Shanghai, China Affiliation: Shanghai Innovation Institute, Shanghai, China Bo Jiang Affiliation: East China Normal University, Shanghai, China Fei Tan \u2020 \u2020 thanks: Corresponding author. Affiliation: East China Normal University, Shanghai, China Abstract Large Language Models (LLMs) offer strong potential for personalized education, but adolescent-facing deployment raises risks of toxic, biased, misleading, or developmentally inappropriate content. We argue that educational safety should move beyond binary refusal: student queries are often ambiguous or curiosity-driven, requiring contextual guidance rather than simple blocking. We introduce the Educational Guardrail System (EGS), a lightweight, model-agnostic runtime framework that complements intrinsic alignment through query moderation, scenario-aware pedagogical guidance, and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:41+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 25523
   },
   "584f6fd3f20ea34fe1892978a587bbb10519b2d6fec0f5e35530743675741570": {
     "access_status": "available",
@@ -58878,6 +59221,30 @@
     ],
     "word_count": 0
   },
+  "80734e499be6b48684d8e135e91a35e14c56477ee7aec1963cc8a8493705acca": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US Senate passes landmark Bill to overhaul energy permitting Sign up now: Get ST's newsletters delivered to your inbox The vote marks a rare breakthrough in the years-long effort to speed up the Byzantine federal system for approving the types of large projects needed to modernise power grids, build artificial intelligence data centres and revitalise clean energy development. PHOTO: REUTERS Published Nov 20, 2026, 12:24 PM Updated Nov 20, 2026, 02:34 PM Set as preferred source Listen Summarise US Senate passes a 62 to 33 Bill to speed up permits for pipelines, power lines and other energy projects, after weeks of bipartisan talks with the White House. The Bill now goes to the House, where support is uncertain. Mike Johnson backs it, but some Republicans and Democrats want changes before the year ends. The measure would set review deadlines, make data centres pay grid costs, and limit permit revocations. Environmental groups and Native American tribes warn it could weaken protections and sovereignty. AI generated WASHINGTON \u2013 The US Senate passed a landmark Bill to make it easier to build pipelines, power lines and other major energy infrastructure, sending the measure to the House, where its future remains uncertain. Lawmakers approved the measure to overhaul the federal permitting process by a 62 to 33 vote on Nov 19. The 500-page Bill, which underwent weeks of debate, was...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1865
+  },
   "8075c316a64370af2bbb7f50a2bbbb42bff0a0c783f9d35142f84bf5c56d3a25": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -61320,6 +61687,30 @@
       "phishing"
     ],
     "word_count": 121
+  },
+  "85c7e958b584478df96dd7bb295669995a0fb7c06ae099da5e7124b42b19e5cc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "AI-fuelled cyberattacks drive claims surge at Japan insurers Sign up now: Get insights on Asia's fast-moving developments Attackers are using increasingly sophisticated methods as AI advances, and unauthorised access has led to a string of personal data leaks in Japan. PHOTO ILLUSTRATION: REUTERS Published Nov 20, 2026, 09:19 PM Updated Nov 20, 2026, 09:21 PM Set as preferred source Listen Summarise Japan insurers report a sharp rise in cyberinsurance claims as AI-driven attacks and data leaks increase. Tokio Marine saw three times usual October notifications, and Sompo saw 2\u00bd times more claims. The higher claims may lift payouts, but insurers say losses are still manageable. Tokio Marine expects some full-year impact, while Sompo says customer requests for more cover have tripled. The market is still small for smaller firms, with only 8.8% of Japanese SMEs insured. Insurers are adding prevention tools and tighter terms, as Sompo plans a new monitoring service from December. AI generated Japan\u2019s biggest property insurers are reporting a sharp jump in cyberinsurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide. Tokio Marine Holdings received three times as many cyberinsurance claim notifications in October as usual, according to the company. Sompo Holdings said claims in October were running at 2\u00bd times higher...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1764
   },
   "85cbbb705673cdae9540f39d50a03a908a1d3e010ee18d0912231138fb38c86e": {
     "access_status": "available",
@@ -66502,6 +66893,30 @@
     ],
     "word_count": 4138
   },
+  "923ba2ca671b89c9237d1c25272cc0ecb07e61306d9e7a035d5168e97a4a80f4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Anthropic researcher says AI chatbot Claude solved maths\u2019 greatest riddle Sign up now: Get ST's newsletters delivered to your inbox Proof of the Riemann Hypothesis has eluded mathematicians for more than 160 years. The claim that Anthropic\u2019s Claude has solved the maths riddle has not been independently verified, and the proof has not yet been reviewed by outside experts. PHOTO: REUTERS Published Nov 21, 2026, 04:00 AM Updated Nov 21, 2026, 08:38 AM Set as preferred source Listen Summarise Anthropic researcher Levent Alpoge says Claude helped prove the Riemann Hypothesis, a 160-year-old maths problem linked to prime numbers and seen as the biggest open question in pure mathematics. The claim is not yet independently verified. It must be peer-reviewed and survive two years of scrutiny to win the Clay Mathematics Institute\u2019s US$1 million Millennium Prize. Alpoge says the proof also covers the Generalised Riemann Hypothesis and is being released in Lean. Experts praised the openness, but said the result is still unconfirmed. AI generated WASHINGTON \u2013 A researcher at AI company Anthropic said on Nov 20 that he had used the firm\u2019s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years. First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers and is widely...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:41+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2235
+  },
   "924405921f41370ba58e87c335f72a72782990b9a4026ac843a08c70c3d17737": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -68954,6 +69369,32 @@
     ],
     "word_count": 0
   },
+  "9797790cdb98ba86a263c8bcfc07fb3bed0667d0a5b0451506563bfa17facff1": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 2
+  },
   "97a264c01aa103f135e617b804c415d861e1e2e7d92e3784adf4f31e3e1b465a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -69422,6 +69863,58 @@
       "fraud"
     ],
     "word_count": 787
+  },
+  "98ea7ad5a8b4f97ffc7d9c248f99683abf1220f217bc21744d9b2a215a19f5ae": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Scammers Ready to Spoil Your Festive Season Share Facebook Twitter LinkedIn Email Copy Link The holiday season is a time to spend time with family and friends, enjoy a well-earned break and exchange gifts with loved ones, but festive fun can be costly. Criminals know this, and target vulnerable consumers during the festive period and into the New Year. According to the Southern African Fraud Prevention Service (SAFPS) and South African Banking Risk Information Centre (SABRIC), scams start to intensify around Black Friday, continuing into the festive season when many people are cash-flush after receiving year-end bonuses. In January, the emphasis shifts to target consumers facing post-festive financial pressure. New Year scams promise quick access to credit, often claiming that people have been approved for loans that they never applied for. \u201cThe social engineering that fraudsters employ is carefully calculated. They tailor convincing messages aligning to their targets\u2019 circumstances using urgency, familiarity and the promise of quick relief to disarm their victims,\u201d says Direct Axis Growth Head Shafiek Ho-Kim. Ho-Kim adds that this is a clear case of scammers exploiting their victims\u2019 vulnerability. \u201cUnderstandably, learning that you\u2019ve been approved for a low-interest loan if you accept immediately may be welcome news, especially if there are back-to-school costs or other...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "voice phishing"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "voice phishing"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "smishing",
+      "vishing",
+      "voice phishing"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 1833
   },
   "98f3ed99ccfd191bdb32f0c1ff77dfc019737cb4163b97df3d75b99910d7410c": {
     "access_status": "available",
@@ -70455,6 +70948,32 @@
     ],
     "word_count": 2739
   },
+  "9b964b2ae09772294c07ba177eeabb21ad01604a5ecd458ce67bef290d913fd4": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "How Hongqi's supercar plan spun into debt, liquidation and fraud claims Chain of investigations into opaque funding structure of FAW and Silk EV's venture The $1.45 million Hongqi S9 promised great technical abilities, but a planned factory in Italy never broke ground, leading to investigations into suspected attempted fraud involving public funds and possible money laundering. At the Shanghai auto show in April 2021, a red-and-black supercar with sharply sculpted bodywork commanded attention at Hongqi's booth. Xu Liuping, then chairman of the Chinese luxury brand's parent, FAW Group, announced that global orders were opening for an initial run of 99 cars. Read Next Latest on Caixin Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 121
+  },
   "9b9f0be487b1235c1c97d425f31c666750ccf1b16b6f51bbf6691e30c56a8ebf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -70857,6 +71376,33 @@
       "trust"
     ],
     "word_count": 4458
+  },
+  "9c78a2051e54ad204febd74b36812372bbd1a0f099be0cfb5d09786b3845d58f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "US midterms: Democrats seal 56-44 Senate majority with Alaska win Party flips 9 Republican-held seats and wins control of both chambers The result completes an election in which Democrats capitalized on widespread voter discontent over Republican President Donald Trump's policies on inflation, tariffs, AI data centers and the Iran war. (Nikkei montage) WASHINGTON/NEW YORK -- The opposition Democratic Party will hold a 56-44 majority in the U.S. Senate after winning the final unresolved race in Alaska, completing a sweeping midterm victory that also gave the party control of the House of Representatives. Democrat Mary Peltola defeated two-term Republican Sen. Dan Sullivan in Alaska, according to The Associated Press, capping a nine-seat Democratic pickup that stretched into traditionally conservative states including Texas, Kansas, Mississippi and South Carolina. The result completes an election in which Democrats capitalized on widespread voter discontent over Republican President Donald Trump's policies on inflation, tariffs, AI data centers and the Iran war. In the weeks leading up to the Nov. 3 midterm elections, forecasters overwhelmingly favored Democrats to retake the House, while the battle to regain control of the Senate was expected to be much closer. However, only hours after polls closed, Democrats flipped Republican-held Senate seats in North Carolina, South...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3850
   },
   "9ca5640c7561475c70f86512589522ac00d435e56658f0fc89471678e4f298e4": {
     "access_status": "available",
@@ -79140,6 +79686,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1706
   },
+  "ad42eeb6f09ea7dfd0fadc72628626d0d8db91bf7a09344fdfcca98776474d16": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why nearly every phone in South Korea will ring Nov 19, even on silent Sign up now: Get insights on Asia's fast-moving developments The first nationwide alert will be sent at 8.30am, with another to follow at an unannounced time during the Suneung exam, the South Korean government confirmed on Nov 18. PHOTO ILLUSTRATION: PIXABAY Published Nov 18, 2026, 04:10 PM Updated Nov 18, 2026, 04:10 PM Set as preferred source Summarise South Korea will sound emergency alarms on 19 November during the Suneung exam to expose hidden phones, even on silent, at 8.30am and later. Experts say hidden smartphones matter most, because they link tiny cameras or smart glasses to cloud AI that can solve exam questions. Authorities are limiting Wi-Fi and using inspections, metal detectors and 8,400 extra supervisors, but full blocking is hard because of legal and practical limits. AI generated SEOUL \u2013 Tens of millions of mobile phones across South Korea are expected to sound an emergency alarm on the one day in the year for the administration of Suneung on the morning of Nov 19 , including those belonging to people who have nothing to do with the country\u2019s college entrance exam. Putting your phone on silent or disabling ordinary disaster alerts will not stop it. The country\u2019s highest-level warning, normally reserved for crises such as war or major earthquakes, can reach virtually all phones even with...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:43+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 3177
+  },
   "ad44b49907592a74169e518fbea69640a46e6f8c67b4a090718196771c9cf627": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -80607,6 +81177,33 @@
     "weak_generic_terms_found": [],
     "word_count": 1183
   },
+  "b04e7d4f6be4c451cbdb9e94ac49c9fde5deb8c683bdfe949c29a2a2f38f8839": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Aim is to \u2018polarise\u2019: Influencer deepfakes used to stoke Canada-US tensions Sign up now: Get ST's newsletters delivered to your inbox Content creators have reportedly had their identities stolen by a network using artificial intelligence to inflame the online conversation around crumbling ties between the US and Canada. PHOTO: ADOBE STOCK Published Nov 21, 2026, 04:49 AM Updated Nov 21, 2026, 04:49 AM Set as preferred source Summarise McGill University researchers found nearly 300 Instagram and TikTok accounts using AI deepfakes of real creators to inflame Canada-US trade war tensions. The network posted thousands of videos, got about 20 million views, and used fake scripts and mixed political claims to \u201cpolarise\u201d viewers. TikTok and Meta removed the accounts, but influencers like Jasmin Laine and Ron Butler said the deception caused harm and was hard to stop. AI generated MONTREAL - Jasmin Laine has hundreds of thousands of subscribers, but some videos of her discussing the Canada-US trade war contain words she says she never spoke. Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using artificial intelligence to inflame the online conversation around the crumbling ties between the North American neighbours. \u201cThere you have your face and your voice and what looks like you speaking, in...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:42+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "identity"
+    ],
+    "word_count": 2407
+  },
   "b05968aab122aeba015d5f0538e0e2cb774a95dc072547a8d8198de6152715e7": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -80755,6 +81352,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1687
+  },
+  "b09a936b97cf6c3a253aa379704591e273df93351e36c10dfcaf7dfc388f6f84": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump says he plans to penalise US tech companies that build AI data centres in other countries Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking at a White House news conference on Nov 20. PHOTO: AP Published Nov 21, 2026, 02:21 AM Updated Nov 21, 2026, 02:22 AM Set as preferred source Listen Summarise Trump says US tech firms will face \u201ca tremendous tax\u201d if they build AI data centres abroad, but he gave no details and has not told his officials. He wants Americans to welcome data centres at home and make developers pay more to local communities, while the administration also tightens chip rules to curb China\u2019s AI access. AI data centres are becoming politically toxic after midterm anger, so firms like Google and Meta are offering more money, more openness, and greener promises to calm local fears. AI generated WASHINGTON \u2013 President Donald Trump says US tech companies will face \u201ca tremendous tax\u201d if they build artificial intelligence data centres in other countries. Trump did not provide details Nov 20, and he said he hadn\u2019t yet told his own officials about his plan. The Republican president urged Americans to welcome data centre construction in their communities and extract concessions from the developers, repeating a point he made before the midterms. Trump says, \u201cYou ought to take advantage of the data centres. Make them pay you...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1581
   },
   "b0ea85851950f58363841db7e01a32457fcdcd2fe3b61c2511726554c8f978d2": {
     "access_status": "available",
@@ -82031,6 +82654,30 @@
       "trust"
     ],
     "word_count": 3150
+  },
+  "b3e2a3428554f72e96aa704fdbf28b07464971e1c95a2d123d37a0ee9452838e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump (left) and Chinese President Xi Jinping meeting in Shenzhen, China, on Nov 19. PHOTO: REUTERS Published Nov 21, 2026, 12:50 AM Updated Nov 21, 2026, 01:31 AM Set as preferred source Listen Summarise Trump and Xi agreed humans must stay involved in military AI decisions. Bessent said \u201cno major military operation\u201d should be launched without a person involved. The deal was presented as a key result of Trump\u2019s Asia trip. Bessent said it would not change US-China competition for AI supremacy. Bessent said China is still behind in chips and buying few H200s. He said US limits on advanced AI chips and remote access are being tightened. AI generated WASHINGTON - US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Nov 20. Bessent told CNBC after returning from Trump\u2019s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump\u2019s trip to Asia. \u201cI think it was very important that President Trump and President Xi agreed that humans should always be involved in any military decisions...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:47+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1691
   },
   "b3f2a06c03e2bed1fdb6b340815dcebcae9053abced63fdb4c7897b5d97cdf8c": {
     "access_status": "available",
@@ -85737,7 +86384,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "What is Super Micro, the firm named in Singapore\u2019s AI chips probe? Sign up now: Get ST's newsletters delivered to your inbox Only one employee was present during a visit by ST to Super Micro\u2019s office in Buona Vista on Nov 13. He declined to comment. ST PHOTO: SARAH KOH Sarah Koh Published Nov 13, 2026, 05:44 PM Updated Nov 13, 2026, 09:20 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 A server supplier has been publicly identified by the Ministry of Home Affairs as part of a larger probe that began in February 2025 into potential false declarations over the purchase of servers. Super Micro Computer, a US-based firm with known links to chipmaker Nvidia, has been called out by the Singapore authorities for providing \u201climited cooperation\u201d with investigations. Singapore has received limited information and assistance on Super Micro from the US authorities despite repeated requests to the US Department of Justice (DOJ) and the Federal Bureau of Investigation since September 2025, said MHA on Nov 12. Super Micro Computer, which has an office in Singapore, had also been investigated by foreign governments over the smuggling of advanced AI technology across borders. What does Super Micro do? Founded in 1993 and based in the US, Super Micro builds and supplies high-performance servers that contain components such as Nvidia\u2019s in-demand graphic processing units (GPUs). Such servers and...",
     "cache_version": 10,
-    "checked_at": "2026-11-14T06:12:03+00:00",
+    "checked_at": "2026-11-21T06:59:45+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -87798,6 +88445,32 @@
     ],
     "word_count": 106
   },
+  "bf76039da39bb2822176ceceb212e31b3104aa1509bc275239f60b7696766dff": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Stocks slide as AI sell-off deepens; Asia has worst week since 2020 Sign up now: Get ST's newsletters delivered to your inbox Investors have retreated from one of the hottest corners of the market in 2026 as mounting doubts over the AI trade pressure technology stocks. PHOTO: EPA Published Nov 20, 2026, 10:10 AM Updated Nov 20, 2026, 11:57 PM Set as preferred source Listen Summarise Global stocks fell as the AI sell-off deepened. Anthropic\u2019s IPO did not restore trust, and the Nasdaq 100 fell 2%. Asia had its worst week since 2020. MSCI Asia-Pacific shares outside Japan dropped 8% this week, while Japan\u2019s Nikkei fell 5%. Investors moved into safe assets. US Treasuries and German bonds rallied, the VIX rose, and the US dollar stayed near a 20-month high. AI generated LONDON/HONG KONG/SINGAPORE \u2013 Stock markets stumbled around the world on Nov 20 after Anthropic\u2019s initial public offering failed to restore investors\u2019 faith in the AI sector, with US futures dropping and Asian shares heading for their worst week since 2020. Government bonds rallied as investors sought safe-haven assets. Shares of Anthropic, the world\u2019s first publicly traded frontier artificial intelligence company, jumped as it launched the biggest IPO in history on Nov 19, although they pared gains later in the session and were down 10% in pre-market trading on Nov 20.",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2322
+  },
   "bf76a95fe54ef2eb7c7a0b4b99cbe88c2d8ab3afa5f9b43fdc54734a1e35379e": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -88802,6 +89475,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3470
+  },
+  "c298507cd2c325817dd6b2aaeec763f125791e46e40242f938964415eb305f86": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:52+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2
   },
   "c2a7b6c01c299fcc9e3026089f1fbe1f0c27103a6402b3b07cea9d4e887b702f": {
     "access_status": "available",
@@ -91622,6 +92319,30 @@
       "fraud"
     ],
     "word_count": 2596
+  },
+  "c8d74a3fca82a4771e7d57911c313339e2ddfc41a1ea9cd50276cfe2843775ba": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content Blocked",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:48+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2
   },
   "c907b498936d06560504c92075d683c11b506db43ea0452628ab192ddad22b08": {
     "access_status": "paywalled_or_login",
@@ -98369,6 +99090,30 @@
     ],
     "word_count": 3222
   },
+  "d7808180d18e2089fb5257f532ce3dd4513c9cdeadb818c66bada62bdcc23821": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US signed off on sales of nearly 900,000 AI chips to China in six months, committee says Sign up now: Get ST's newsletters delivered to your inbox Approvals for 879,000 chip shipments by the Commerce Department included 75,000 for Alibaba, 150,000 for Tencent, 43,000 for Baidu, and 4,000 for BYD. PHOTO: REUTERS Published Nov 20, 2026, 05:23 AM Updated Nov 20, 2026, 11:10 AM Set as preferred source Listen Summarise The Trump administration approved 879,000 advanced AI chip shipments to China from December 2025 to May 2026, the House Foreign Affairs Committee said. The licences covered Nvidia and AMD chips, including orders for Alibaba, Tencent, Baidu and BYD, all named by the Pentagon as military-backed firms. The release of the data adds pressure on Washington to toughen export controls. Nvidia said the licences had \u201cstrict conditions and limited volumes\u201d and it has stopped shipping H200s to China. AI generated WASHINGTON - The Trump administration approved shipments of nearly 900,000 advanced AI chips made by Nvidia and AMD for Chinese companies from December 2025 through May 2026, the House Foreign Affairs Committee said on Nov 19. The approvals for 879,000 chip shipments by the Commerce Department included 75,000 for Alibaba, 150,000 for Tencent, 43,000 for Baidu, and 4,000 for BYD, all on the Pentagon\u2019s list of alleged Chinese military-backed companies, the committee...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:46+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2274
+  },
   "d7a3dd7275ce52799e0c0aa807de918ea9db0d2bbb29893887d8fe755b37181c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -102435,6 +103180,32 @@
     ],
     "word_count": 2
   },
+  "e0a6e2787a022a8ca5b59400cb44783f8c5cec28d641173e9439544315f611c4": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "What the mass purge of Indonesia-linked YouTube channels says about its political discourse Sign up now: Get insights on Asia's fast-moving developments An analysis found that 99% of Indonesia-linked YouTube channel removals over the past five years occurred after September 2025, nearly a year into President Prabowo Subianto\u2019s term. PHOTO: AFP Hariz Baharudin and Karina Tehusijarana Published Nov 20, 2026, 04:00 PM Updated Nov 21, 2026, 05:46 AM Set as preferred source Listen Summarise \u4e2d\u6587 Google removed 19,372 Indonesian-language YouTube channels for \u201ccoordinated influence operations\u201d, and the ministry said it would seek clarification over the removals. Reports of home visits and pressure to delete posts have raised fears of self-censorship, while Amnesty said state and \u201cstate-aligned\u201d disinformation causes a \u201cchilling effect\u201d. Critical voices still spread online, with protest posts drawing heavy engagement and the #CuekinBuzzer \u201cIgnore the Buzzers\u201d campaign showing public pushback. AI generated JAKARTA \u2013 Indonesia has sought answers from Google over its removal of thousands of YouTube channels linked to the country, including those promoting the government, with the technology giant reportedly acknowledging that its findings lacked sufficient explanation. The Communication and Digital Affairs Ministry said on Nov 20 that Google and YouTube representatives conceded in a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation"
+    ],
+    "word_count": 4517
+  },
   "e0b22454006513a8f37b92c1b768f3c441e28db59f3bec364e3a85ad9b5caea8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -105895,7 +106666,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: [https://example.com/TODO-APPENDIX-URL/appendix_G.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_K.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_L.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_M.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_N.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_O.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_P.pdf] [https://example.com/TODO-APPENDIX-URL/appendix_F_per_model.pdf] FraudBench : A Legal Evaluation of AI Deception Kevin Wei 1 [regular] , Sumaya Nur Adan 2 , Stephan Llerena 3 , Mark Gitau 4 , Jakob Merane 5 , Anita Srinivasan 6 , Colette Le Brannan 7 , Keethan Kleiner 8 , Alessandro Tacconelli 5 , Michael Tiu, Jr. 8 , Case Thomason 8 , Kyle Emili 8 , Natasza Gadowska 9, 10 , Alex Mark 11 , Eric Ren 12 , Umang Bhatt 13 \u2020 , Jatinder Singh 13, 14 \u2020 , Jacy Reese Anthis 15, 16 \u2020 , Doni Bloomfield 17 \u2020 , Noam Kolt 18 \u2020 [regular] 1 Harvard Law School 2 University of Oxford 3 Institute for Law & AI 4 ILINA Program 5 ETH Zurich 6 UC Berkeley School of Law 7 Vista Institute for AI Policy 8 University of Michigan Law School 9 Jagiellonian University 10 Harvard Berkman Klein Center 11 ERA:AI 12 University of Sydney 13 University of Cambridge 14 RC-Trust, Uni Duisburg-Essen 15 Stanford University 16 University of Chicago 17 Fordham University School of Law 18...",
     "cache_version": 10,
-    "checked_at": "2026-11-13T06:34:19+00:00",
+    "checked_at": "2026-11-21T06:59:52+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "fraud victim"
@@ -107133,6 +107904,38 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3907
+  },
+  "ecaaf19aec1f3cf9ddd4e0147121d2078e1c02317c47dfc7754801cef97e7de0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "ecb839afd1988eb5b819265ca3667ad14dcf39033c8679dc8751e510f10851a9": {
     "access_status": "available",
@@ -109839,6 +110642,30 @@
     ],
     "word_count": 5712
   },
+  "f2e39dafc4b7b03c76c7518ebcaefb5eb0f37c1de66defa42714376d77d41d86": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction Sign up now: Get ST's newsletters delivered to your inbox Specialist traders working on the floor of the New York Stock Exchange in New York City, on Nov 20. PHOTO: REUTERS Published Nov 21, 2026, 06:24 AM Updated Nov 21, 2026, 06:25 AM Set as preferred source Listen Summarise US stocks fell sharply as AI shares sold off, pushing the S&P 500 and Dow into correction territory after Anthropic\u2019s weak debut failed to calm fears. The S&P 500 had its seventh straight fall, while the Nasdaq had its worst weekly drop since March 2020. Nvidia, Amazon, Meta and other AI-linked names all slid. Investors now focus on inflation and the Fed, with markets pricing a near-certain December rate hike and next week\u2019s PCE data set to guide policy hopes. AI generated NEW YORK - US stocks extended their rout on Nov 20, and the S&P 500 and the Dow both confirmed corrections after Anthropic\u2019s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year\u2019s stock market rally. All three major US equity indexes ended sharply lower. The Dow and the S&P 500 are now more than 10% below their record closing highs,confirming both indexes have entered a correction. The bellwether S&P 500 notched its seventh consecutive drop, its longest losing streak since February 2020. The S&P 500 and the Dowlogged their...",
+    "cache_version": 10,
+    "checked_at": "2026-11-21T06:59:45+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2889
+  },
   "f3119a2ee724db7bfa878c7dc96da0ac04bd43b3d22415ba7e2c190b276bf110": {
     "access_status": "available",
     "anti_scam_relevance": "irrelevant",
@@ -111772,7 +112599,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents Xuwei Ding Skylar Zhai Linxin Song Jiate Li Affiliation: University of Southern California Taiwei Shi Affiliation: University of Southern California Nicholas Meade, Siva Reddy, Jian Kang, Jieyu Zhao Affiliation: University of Southern California Affiliation: McGill University Affiliation: Mila Affiliation: MBZUAI Code: lime-nlp/OS-Blind Dataset: lime-nlp/OS-Blind Affiliation: University of Wisconsin\u2013Madison Affiliation: University of Minnesota Abstract Computer-use agents (CUAs) can now autonomously complete complex tasks in real digital environments, but when misled, they can also be used to automate harmful actions programmatically. Existing safety evaluations largely target explicit threats such as misuse and prompt injection, but overlook a subtle yet critical setting where user instructions are entirely benign and harm arises from the task context or execution outcome. We introduce OS-Blind , a benchmark that evaluates CUAs under unintended attack conditions, comprising 300 human-crafted tasks across 12 categories, 8 applications, and 2 threat clusters: environment-embedded threats and agent-initiated harms. Our evaluation on frontier models and agentic frameworks reveals that most CUAs exceed 90% attack...",
     "cache_version": 10,
-    "checked_at": "2026-10-27T04:58:29+00:00",
+    "checked_at": "2026-11-21T06:59:53+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "financial fraud"
