@@ -2262,6 +2262,48 @@
     "weak_generic_terms_found": [],
     "word_count": 1886
   },
+  "04a79ed49ac70e93e2a4f314ffc750fff4b886f64907a5ac89736dceef90912c": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Threat Modeling Intimate Partner Abuse in Agentic Systems Natalie Grace Brigham Affiliation: University of Washington Correspondence to: nbrigham@cs.washington.edu Eugene Bagdasarian Affiliation: University of Massachusetts Amherst Franziska Roesner Affiliation: University of Washington Tadayoshi Kohno Affiliation: Georgetown University Abstract Agentic systems are AI-powered technologies capable of autonomous action within digital environments, such as sending emails or making reservations. They are deeply connected to external tools as well as users\u2019 data and resources, making them vulnerable to attacks which exploit their access and capabilities. In this work, we apply the technology-facilitated abuse threat model, in the context of intimate partner violence and surveillance, to these systems, revealing threats that require deliberate investigation and mitigation. We categorize attacks based on system ownership: (1) Abuser-as-owner attacks demonstrate how agentic systems make existing forms of technology-facilitated abuse far easier and more scalable. (2) Victim-survivor-as-owner attacks show how agentic systems create a new attack surface which abusers can exploit. In light of these risks, we outline research and development directions for effective mitigation strategies. Content warning: This paper includes content about...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 16327
+  },
   "04c25bd5612bb9ca4524f90712bc98d0181d0d095ede88fc89571ec351b9d858": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -2721,6 +2763,30 @@
     ],
     "word_count": 13968
   },
+  "05f4962db8192197e29c257349b892848d8a799b14198c0679a00537cb8620bd": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 20, 2026 View delivery analytics for hosted images Cloudflare Images Cloudflare Images lets you store, optimize, and deliver hosted images through a scalable image pipeline. The new Images Analytics dashboard \u00e2\u0086\u0097\u00ef\u00b8\u008e provides up to 30 days of delivery data for assets stored in Images, helping you understand how and where they are requested. In Images & Stream > Hosted images > Analytics , you can: Investigate traffic trends and sources. Review request volume over time, then filter by country, autonomous system number (ASN), or referrer to trace spikes and unexpected traffic. Troubleshoot delivery. Break down requests by response status code to identify errors. Filter by browser or operating system to understand which output formats different clients receive. Understand asset and variant usage. Find the most-requested source images and compare predefined variants with inline configurations to see which configurations account for the most requests. Use cf sql query to query delivery data from the terminal.",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 646
+  },
   "0602342a72375ead85baad2081e2d389c4b85e0c43146fbb82d7e5fa4a1fb3ad": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -2983,9 +3049,9 @@
   "06a9b7f6dd06bf094c87ca24c40add435e32ccc43f2ae2f90a78bfda50a3c133": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Top scorer on South Korean tax exam confesses to cheating with AI Sign up now: Get insights on Asia's fast-moving developments FILE PHOTO: Figurines with computers and smartphones are seen in front of the words \\\"Artificial Intelligence AI\\\" in this illustration taken, February 19, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Published Nov 15, 2026, 12:34 PM Updated Nov 15, 2026, 01:44 PM Set as preferred source Listen SEOUL, Nov 15 - The marks attained by the top scorer on South Korea's national exam for aspiring tax accountants this year seemed too good to be true and on Sunday, sceptics were proven right when he confessed to using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams taken in April and July. It has also raised the stakes for organisers of South Korea's high-stakes annual college entrance exam this Thursday. \"I cheated using electronic devices and generative AI. My passing the exam with the top score was not the result of fair effort,\" he said, identifying himself by the surname Han, as he apologised on the YouTube channel 'Attorney Lee Don-ho'. Han said he cheated by taking photos of the exam questions with a microcamera, sending them to an AI tool, and checking the answers on a smartphone. Speaking on camera wearing a face mask, Han added that he had submitted a...",
+    "article_excerpt": "Top scorer on South Korean tax exam confesses to cheating with AI Sign up now: Get insights on Asia's fast-moving developments FILE PHOTO: Figurines with computers and smartphones are seen in front of the words \\\"Artificial Intelligence AI\\\" in this illustration taken, February 19, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Published Nov 15, 2026, 12:34 PM Updated Nov 15, 2026, 03:39 PM Set as preferred source Listen SEOUL, Nov 15 - The marks attained by the top scorer on South Korea's national exam for aspiring tax accountants this year seemed too good to be true and on Sunday, sceptics were proven right when he confessed to using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams taken in April and July. It has also raised the stakes for organisers of South Korea's high-stakes annual college entrance exam this Thursday. \"I cheated using electronic devices and generative AI. My passing the exam with the top score was not the result of fair effort,\" he said, identifying himself by the surname Han, as he apologised on the YouTube channel 'Attorney Lee Don-ho'. Han said he cheated by taking photos of the exam questions with a microcamera, sending them to an AI tool and checking the answers on a smartphone. Speaking on camera wearing a face mask, Han added that he had submitted a...",
     "cache_version": 10,
-    "checked_at": "2026-11-15T06:19:49+00:00",
+    "checked_at": "2026-11-22T06:38:40+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -3002,7 +3068,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1014
+    "word_count": 1314
   },
   "06ba37760e5d7778e419d9a80fd3afc90654f1bdb76268e78b466615be7045a8": {
     "access_status": "available",
@@ -12997,6 +13063,39 @@
     "weak_generic_terms_found": [],
     "word_count": 3230
   },
+  "1c33a174ca764500ba2586bd81ed06470b140415ab4b6973eea41148f1ba56e0": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:43+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": null
+  },
   "1c3ee364c131a2e6cef4f66526a433d3fea2eb6d517f9bbc4de3877a8ac81795": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -13782,6 +13881,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3118
+  },
+  "1e05530ab5fd7d70ef308e911ac3b2514403f16aa43a928e83612489ea082715": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "1e28cf276e394a883fea585af8eeac606f832394e1f9fa67c9541c57e470b689": {
     "access_status": "available",
@@ -17982,7 +18107,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: SENTRY: A Streaming Edge Network Trust Engine for Real-Time Audio Deepfake Detection Chirantan Banerjee, Soumita Chatterjee, Bhargab B. Bhattacharya and Hafizur Rahaman Affiliation: Indian Institute of Engineering Science and Technology, Shibpur, India Abstract Advances in real-time voice cloning and neural vocoders have enabled large-scale streaming deepfake and vishing attacks, while simultaneously exposing voice communication systems to denial-of-service threats. Existing Network Detection and Response (NDR) solutions rely on computationally intensive, GPU-based post-processing techniques that require buffered audio and exhibit limited robustness against unseen speech synthesis models. This paper presents SENTRY , a hardware-oriented, streaming trust engine for inline deepfake detection at the network edge. SENTRY employs an integer lifting-wavelet front end together with a bank of multiplier-free transforms, including wavelet-packet envelopes, Walsh\u2013Hadamard sequency profiles, waveform micro-statistics, and long-term spectral features, designed so that acoustic analysis needs only integer add, shift, compare and bitwise operations. A supervised gradient-boosted tree classifier is combined with an unsupervised Mahalanobis out-of-distribution detector trained solely on authentic speech, and their outputs are fused through a...",
     "cache_version": 10,
-    "checked_at": "2026-11-15T06:19:48+00:00",
+    "checked_at": "2026-11-22T06:38:34+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "vishing",
@@ -23672,6 +23797,30 @@
     ],
     "word_count": 597
   },
+  "36558c469ce8b015a15254e7b1080fe7420a52654d8af3a3269b1dc60f250f5e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth Published Nov 17, 2026, 11:25 AM Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth The issuer is solely responsible for the content of this announcement. Press release Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth Published Nov 17, 2026, 11:25 AM Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth The issuer is solely responsible for the content of this announcement. Press release Physical AI Leader Agile Robots Raises $500 Million Series F at $8.5 Billion Valuation to Accelerate Global Growth Published Nov 17, 2026, 11:25 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 184
+  },
   "365d787807007022c437463b4e420c7bb9343a62a37c9719c25f575c831aebee": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -28488,6 +28637,66 @@
     "weak_generic_terms_found": [],
     "word_count": 3559
   },
+  "3ffc663e79717d178f3a1b95ac1d067129c82c9576048a74edf699bb6f32a963": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "What Pig Butchering Is and How the Crypto Scam Works 09.11.2026 #Crimes #Cybercrime #Scammers What is \u201cPig Butchering\u201d? \u201cPig butchering\u201d (Chinese: \u6740\u732a\u76d8 \u2014 sh\u0101 zh\u016b p\u00e1n) is a scam in which a criminal spends weeks or months building a friendly or romantic relationship with a victim before persuading them to invest via a fake trading platform. Most often, the \u201cinvestment\u201d is in cryptoassets; less often in stocks, forex, or betting. Some media also use the variant \u201crazdelka sviney.\u201d Unlike many other frauds, this scheme is defined by its approach to the victim: the scammer does not threaten or rush, but gains trust by posing as a friend or romantic partner. They rarely ask to transfer money directly. As explained by FinCEN , victims typically \u201cinvest\u201d through a fake platform and see growing \u201cprofits\u201d in their account dashboard. Those figures are fabricated to convince the victim to send more money. Scammers may allow small withdrawals to build trust. When the victim tries to withdraw a large amount, the platform demands \u201ctaxes\u201d and \u201cfees.\u201d After several such charges, the site or app stops opening and the \u201cfriend\u201d or \u201cpartner\u201d disappears from the chat. Left: the introduction.",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:38+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "scam farm"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "scam farm"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fake job",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "scam compound",
+      "scam farm"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "pig butchering"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 8352
+  },
   "400cac20d87f22c3beedd406204f668d0809241562905df5bdb9047510628e35": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -29492,6 +29701,40 @@
       "victim"
     ],
     "word_count": 2271
+  },
+  "425a47d17d24eeb45b277176f3566fbc7b9c776a627e22c366aa2ff37ff80058": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: Defective, Amplified, Contested: Folk Conceptualizations of AI Slop Conference: Defective; Amplified; Contested Zhixin Li email: zli457@syr.edu Affiliation: School of Information Studies , Syracuse University , Syracuse , NY , USA and Jaime Banks email: banks@syr.edu Affiliation: School of Information Studies , Syracuse University , Syracuse , NY , USA \u00a9 none Abstract. AI slop has flooded social media feeds with overprocessed and derivative content\u2014Jesus fusing with a shrimp, a humanoid orange chubby cat shoplifting, and a \u201chero\u201d dog rescuing a human child after a plane crash. This might be no laughing matter, as waves of media coverage have taken a distinctly negative bent, emphasizing its low quality, ethical concerns, and threats to human creativity. Despite extensive attention from politicians and technologists, the perspectives of everyday users\u2014the very audience most exposed to this phenomenon\u2014remain largely unexplored. This descriptive work explored how Reddit users experience, conceptualize and contest AI slop. Inductive thematic analysis of posts and comments across six slop-related subreddits identified four themes covering constitutional defects, algorithmic overreach, user resistance, and entertainment outcomes\u2014ranging from anxieties about eroding agency, moral norms, creativity, and existential questions to...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity",
+      "trust"
+    ],
+    "word_count": 20315
   },
   "425e916845012b5b2061eef20fdccba26cb3ff35775df0b8d63361a87869e239": {
     "access_status": "unknown",
@@ -30635,6 +30878,31 @@
       "trust"
     ],
     "word_count": 21335
+  },
+  "448150501fc713d7b414e6a19b98f10e3be4f4937358a504cb43686108f5b504": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": null
   },
   "4488da7f7245703f93e16dc463d0a8132a0201c7aa60d3e5f7b9f9495f90fcd0": {
     "access_status": "available",
@@ -32663,6 +32931,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "48b9a20ba35c09e2488e7da7f597d8532157a03716fc8f664b8bdfa4d2b71c58": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wedding bells ring for Singapore sprint queen Shanti Pereira and Tan Zong Yang Sign up now: Get ST's newsletters delivered to your inbox National sprint queen Shanti Pereira and former teammate Tan Zong Yang got married at the Church of Our Lady of Lourdes on Nov 21. PHOTOS: SCREENGRAB FROM TANZEEEY/INSTAGRAM David Lee Published Nov 21, 2026, 04:10 PM Updated Nov 21, 2026, 11:30 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore sprinter Shanti Pereira married former national teammate Tan Zong Yang at the Church of Our Lady of Lourdes on Nov 21, with family, friends and athletes attending. Tan proposed on June 9, 2024, near Drottningholm Palace in Stockholm after three years together, but the wedding was delayed by the Paris 2024 Olympics and SEA Games. Pereira said the engagement was \u201ca very big light in a difficult year\u201d and helped her value life outside sport, while Tan supported her training and career. AI generated SINGAPORE \u2013 Two months after Majulah Singapura was played at the Mizuho Park Athletic Stadium in Aichi-Nagoya, Japan, after Shanti Pereira retained her women\u2019s 200m gold , the wedding bells rang out for the Singapore sprinter and former national teammate Tan Zong Yang as they tied the knot at the Church of Our Lady of Lourdes on Nov 21. With the bride looking radiant in her white gown and the groom looking sharp in a cream suit, the ceremony was attended...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1577
   },
   "48d352742a4c34cf72c8b74efc16067856b88e01dbf1fbc3e79173b62b3c9039": {
     "access_status": "available",
@@ -41641,6 +41933,32 @@
     ],
     "word_count": 1152
   },
+  "5b9f996a0cdbd507dcf282309b3e350d051dc78e1c37f0eb159821a7952dfd53": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "S\u2019pore welcomes genuine Chinese investments, but not abuse of its trusted position: PM Wong Sign up now: Get insights on Asia's fast-moving developments Prime Minister Lawrence Wong (left) meeting Chinese Premier Li Qiang (right) at the Diaoyutai State Guesthouse in Beijing on Nov 21. PHOTO: MDDI Yew Lun Tian Published Nov 21, 2026, 09:10 PM Updated Nov 21, 2026, 09:28 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore welcomes genuine Chinese investment that adds value and jobs, but PM Wong warned against abusing its trusted position to bypass US export controls. The Nvidia-Megaspeed case has raised concern over \u201cSingapore-washing\u201d, with Singapore police and customs investigating Megaspeed since February 2025 over suspected chip export breaches. Singapore says it can help the US with information, but cannot police chips sent to other countries; its priority is to secure advanced chips for legitimate local needs. AI generated BEIJING \u2013 Chinese companies investing in Singapore are bringing real benefits to its economy, but the Government is concerned about firms abusing the Republic\u2019s trusted position to circumvent US export controls , Prime Minister Lawrence Wong said on Nov 21. Singapore welcomes genuine investments from China, he said, even as concerns grow over \u201cSingapore-washing\u201d, where companies use the Republic to mask their Chinese links or route business through...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 1770
+  },
   "5baccc1e811928f3b946b6888c16d2ee5f51b9b7b270726b754b80b9bde78962": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -48566,6 +48884,38 @@
       "fraud"
     ],
     "word_count": 879
+  },
+  "6aa64fec9a4646fafe9ff66d8482b2cd2e73f9ea166c97130f729ec49c1d82d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Access Denied Reference #18.c6d11102.1795329517.9c862887 https://errors.edgesuite.net/18.c6d11102.1795329517.9c862887 https://errors.edgesuite.net/18.c6d11102.1795329517.9c862887",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 23
   },
   "6aa6a2c3084a45cd00ab964f7ed95c630aec78af71ec60694bedd3835b080271": {
     "access_status": "available",
@@ -62397,6 +62747,35 @@
       "fraud"
     ],
     "word_count": 2732
+  },
+  "8789b7022929c6cac1f0133eff66baef39b2a10e4e7f5629cc8ae768d25c98df": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "irrelevant_or_adjacent",
+    "research_relevance_score": -60,
+    "research_reputation_signals": [
+      "venue:dl.acm.org"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "deception",
+      "trust"
+    ],
+    "word_count": 0
   },
   "878dd03a7c3b2b9478e933a7144ba7aa23dff9527973a63d038df02dafb58b6d": {
     "access_status": "available",
@@ -81228,6 +81607,32 @@
     "weak_generic_terms_found": [],
     "word_count": 4476
   },
+  "b061d32e47347ee219bdb1274600a604b4d71678db55c70eb865cde7aef3eb65": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "TOI Digital arrest: A cyberfraud wrapped in a psychological trap; why intelligence falls prey to basic instincts No legal basis for digital arrest The magnitude of digital arrests Vote & Share your view More than digital, it's psychological India's fight against digital arrests Join conversation Share your thoughts in the comments Be respectful \u00c2\u00b7 TOI community guidelines Videos Photostories Hot Picks Top Trending Trending Stories Daily Puzzles Connect Loop The Loop Daily Crossword",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 72
+  },
   "b06c8f4c6e29ede3026ec9936c4f9226109089d18461a4dd680f739161f5927a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -84654,9 +85059,9 @@
   "b8314be69c16959e400316e43018bb4d4564d5bd58417f39d2efe9dc39a87740": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Japan-led probe finds 1,000 servers likely used for AI-driven cyberattacks Sign up now: Get insights on Asia's fast-moving developments Hacking, which previously required time even for those with specialised knowledge, has become easier with the emergence of high-level AI. PHOTO: REUTERS Published Nov 15, 2026, 08:06 AM Updated Nov 15, 2026, 08:10 AM Set as preferred source Listen Summarise Japan-led investigation found around 1,000 servers likely used for AI-driven cyberattacks since October, with JPCERT/CC tracking 600 to 700 of them. Most servers hosted AI tools like Artex to search for weaknesses and steal configuration files, showing hacking is becoming easier with advanced AI. Analyst Ken Sajo warned that AI attacks are still early, and \u201cmore sophisticated attacks will increase in the future.\u201d AI generated TOKYO \u2013 Around 1,000 servers suspected of serving as bases for advanced artificial intelligence-driven cyberattacks have been online since October, a Japanese-led international investigation showed Nov 14 . The probe by the Japan Computer Emergency Response Team Coordination Centre (JPCERT/CC), conducted in cooperation with overseas cybersecurity firms, found that the servers may have used AI to search for vulnerabilities and target websites worldwide. Hacking, which previously required time even for those with specialised knowledge, has become easier with the...",
+    "article_excerpt": "Japan-led probe finds 1,000 servers likely used for AI-driven cyberattacks Sign up now: Get insights on Asia's fast-moving developments Hacking, which previously required time even for those with specialised knowledge, has become easier with the emergence of high-level AI. PHOTO: REUTERS Published Nov 15, 2026, 08:06 AM Updated Nov 15, 2026, 05:04 PM Set as preferred source Listen Summarise Japan-led investigation found around 1,000 servers likely used for AI-driven cyberattacks since October, with JPCERT/CC tracking 600 to 700 of them. Most servers hosted AI tools like Artex to search for weaknesses and steal configuration files, showing hacking is becoming easier with advanced AI. Analyst Ken Sajo warned that AI attacks are still early, and \u201cmore sophisticated attacks will increase in the future.\u201d AI generated TOKYO \u2013 Around 1,000 servers suspected of serving as bases for advanced artificial intelligence-driven cyberattacks have been online since October, a Japanese-led international investigation showed on Nov 14 . The probe by the Japan Computer Emergency Response Team Coordination Centre, conducted in cooperation with overseas cybersecurity firms, found that the servers may have used AI to search for vulnerabilities and target websites worldwide. Hacking, which previously required time even for those with specialised knowledge, has become easier with the emergence of...",
     "cache_version": 10,
-    "checked_at": "2026-11-15T06:19:48+00:00",
+    "checked_at": "2026-11-22T06:38:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -84675,7 +85080,7 @@
     "weak_generic_terms_found": [
       "cybersecurity"
     ],
-    "word_count": 1182
+    "word_count": 1179
   },
   "b83d76cff56383f30d7adabe2e42eaf906a5cee3a890c4092ee9e59045c7155a": {
     "access_status": "available",
@@ -90182,6 +90587,55 @@
     "weak_generic_terms_found": [],
     "word_count": 5893
   },
+  "c425e9c1d193af661860cbf0b7fe6022a088b866eb69b147f1b6cb6cb77dde4a": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "SHARE Follow us on Google News Police in Jharkhand\u2019s Jamtara district have arrested four people for allegedly operating an online fraud scheme that used fake UPI cashback offers to trick victims into downloading malicious software and sharing sensitive account information. Contents How Did the UPI Cashback Fraud Work? Why Were Victims Asked to Download Malware? How Did Jamtara Police Arrest the Accused? What Did Police Recover During the Raids? What Does the Case Reveal About UPI Fraud? The420 Insight The arrests followed raids at three locations on Thursday, November 19, as police investigated complaints involving fraudulent cashback offers and online payment scams. How Did the UPI Cashback Fraud Work? According to police, the accused allegedly contacted unsuspecting individuals while posing as customer care executives and offered cashback benefits on UPI transactions, particularly those made through PhonePe. The callers presented the offers as legitimate payment-related benefits and persuaded victims to follow instructions to receive the promised cashback.",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "mule account",
+      "fraud syndicate",
+      "financial fraud",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "mule account",
+      "fraud syndicate",
+      "financial fraud",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "mule account",
+      "fraud syndicate",
+      "financial fraud",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "malware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 2504
+  },
   "c42fc97fea43b0e1d1964fb9e62c31d2d476b13a8759c1fd82336959897af0d6": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -91993,6 +92447,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 380
+  },
+  "c7c6526a789a5a4c50c5eb031e1b772303fcb4f00a14cb95947d6ba2d71f26ac": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Why Korea\u2019s push to regulate hidden cameras stalled Sign up now: Get insights on Asia's fast-moving developments Calls to regulate disguised cameras grew in the 2010s as the devices were used to film people without their consent. PHOTO: ADOBE STOCK Published Nov 16, 2026, 05:30 PM Updated Nov 16, 2026, 05:30 PM Set as preferred source Listen Summarise South Korea\u2019s plan to regulate disguised cameras stalled after bills lapsed, even though the devices have been used for illegal filming and privacy abuse. The issue returned after a top tax exam scorer admitted using a miniature camera and AI to cheat, prompting renewed government attention and exam security checks. Experts and campaigners say sales controls could deter misuse, but warn of freedom concerns, online sales risks, and lasting harm to victims. AI generated SEOUL \u2013 South Korea proposed tracking the sale of disguised cameras in 2017 to curb illegal filming. A bill that would have required businesses and owners to register the devices later lapsed. Now, after the top scorer on a national tax accountant exam admitted to using a miniature camera and generative AI to cheat , the government is taking another look at how the devices are sold. \u201cLike many other gender-related issues, miniature cameras seemed to receive less attention when the issue was raised in that context, both from society and the National Assembly,\u201d said...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim"
+    ],
+    "word_count": 2454
   },
   "c7e493437b4dc222363dccd55fd6e1440aa952ebcc8a9b6559a0b03a069ae7ce": {
     "access_status": "available",
@@ -100523,6 +101003,38 @@
     "weak_generic_terms_found": [],
     "word_count": 3110
   },
+  "da2770a0062c5f71ea28fae9a9739d09cbd912d3e9b53f678fffdbce11e005f1": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Amid US-China tech rivalry, Singapore wants to be open to both: PM Wong Sign up now: Get insights on Asia's fast-moving developments Prime Minister Lawrence Wong speaking to the Singapore media on Nov 21 as he wrapped up a four-day working visit to China. PHOTO: MDDI Yew Lun Tian Published Nov 21, 2026, 08:25 PM Updated Nov 22, 2026, 09:57 AM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore wants to stay open to US, Chinese and other foreign technologies, so firms can test, use and grow them here, PM Wong said during his China visit. Singapore and China agreed to deepen cooperation in AI, trade, transport and green industries, including talks to upgrade the free trade agreement and link regional projects. PM Wong said the world is too complex for a G3 order, and Singapore will keep building bridges through ASEAN while maintaining good ties with Washington and Beijing. AI generated BEIJING \u2013 Singapore wants to remain a place where American, Chinese and other foreign technologies can be tested and deployed, even as intensifying US-China rivalry threatens to divide the world into competing tech ecosystems, Prime Minister Lawrence Wong said on Nov 21. Speaking to Singapore media as he wrapped up a four-day working visit to China , he said Singapore wants to use the best technologies available, regardless of origin, while providing a platform for companies to showcase their...",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:37+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4157
+  },
   "da295cba9487b8f204d11e7799227956623dc5b4592d98daaaf816084c353e34": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -105197,9 +105709,9 @@
   "e5abac71ab0fbae911c669c08839add304dc2badc5662f7a604b69232c7f8816": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Unified Billing Last updated Nov 5, 2026 | Copy as Markdown | View as Markdown | Agent setup Unified Billing allows users to call Workers AI and connect to various AI providers (such as OpenAI, Anthropic, and Google AI Studio) and receive a single Cloudflare bill. To use Unified Billing, you must purchase and load credits into your Cloudflare account in the Cloudflare dashboard, which you can then spend with AI Gateway. A 5% fee is applied to all credits purchased through Unified Billing. For example, a $100 credit purchase will result in a $105 charge. Inference pricing from providers is passed through with no markup \u00e2\u0080\u0094 you pay the same per-token rates as you would directly with the provider. Pre-requisites Ensure your Cloudflare account has sufficient credits loaded . Ensure you have authenticated your AI Gateway. To use credits for Workers AI, set your gateway's Workers AI Billing setting to Unified billing . Load credits If the dashboard displays a permission notice, contact your account administrator. Request access to purchase credits and configure auto top-up.",
+    "article_excerpt": "Unified Billing Unified Billing allows users to call Workers AI and connect to various AI providers (such as OpenAI, Anthropic, and Google AI Studio) and receive a single Cloudflare bill. To use Unified Billing, you must purchase and load credits into your Cloudflare account in the Cloudflare dashboard, which you can then spend with AI Gateway. A 5% fee is applied to all credits purchased through Unified Billing. For example, a $100 credit purchase will result in a $105 charge. Inference pricing from providers is passed through with no markup \u00e2\u0080\u0094 you pay the same per-token rates as you would directly with the provider. Prerequisites Ensure your Cloudflare account has sufficient credits loaded . Ensure you have authenticated your AI Gateway. To use credits for Workers AI, set your gateway's Workers AI Billing setting to Unified billing . Load credits If the dashboard displays a permission notice, contact your account administrator. Request access to purchase credits and configure auto top-up.",
     "cache_version": 10,
-    "checked_at": "2026-11-07T05:53:23+00:00",
+    "checked_at": "2026-11-22T06:38:39+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -105216,7 +105728,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 3515
+    "word_count": 3502
   },
   "e5be207aaba9bec27b95353ade872b533f025dbdd199527c11ab847bf961c0d3": {
     "access_status": "available",
@@ -109608,6 +110120,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 0
+  },
+  "f029ed9e8bd2e6553502c448d1d16b480670dd5dd3f32eec4ea788b9d4d2e5bb": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Workers Bindings Workers Workers provides a serverless execution environment that allows you to create new applications or augment existing ones. To use Workers AI with Workers, you must create a Workers AI binding . Bindings allow your Workers to interact with resources, like Workers AI, on the Cloudflare Developer Platform. You create bindings on the Cloudflare dashboard or by updating your Wrangler file . To bind Workers AI to your Worker, add the following to the end of your Wrangler file: { \"ai\" : { \"binding\" : \"AI\" // i.e. available in your Worker on env.AI } } [ ai ] binding = \"AI\" Pages Functions Pages Functions allow you to build full-stack applications with Cloudflare Pages by executing code on the Cloudflare network. Functions are Workers under the hood. To configure a Workers AI binding in your Pages Function, you must use the Cloudflare dashboard. Refer to Workers AI bindings for instructions. Methods You can route binding calls through AI Gateway to use its spend limits and rate limiting .",
+    "cache_version": 10,
+    "checked_at": "2026-11-22T06:38:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 726
   },
   "f02b78775cacbce05f2b5b15bcd568af445fb525be53572f0a7677c26c41b849": {
     "access_status": "available",
@@ -114937,7 +115473,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-10-25T04:35:34+00:00",
+    "checked_at": "2026-11-22T06:38:40+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, irrelevant_or_adjacent",
