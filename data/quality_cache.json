@@ -187,6 +187,87 @@
     ],
     "word_count": 22171
   },
+  "0079e32b4279c219971f57ed903847620cf4c71d81ba688a8f27a44d8e159083": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \u201cI Don\u2019t Think It\u2019s a Scam\u201d: A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba Yipeng Wang 2 , Huy Gia Han Vu \u22c4 1 , Jiaming Liu 2 , Mihika Mehta 2 , Poojitha Thota 3 , Shirin Nilizadeh 4 , Mohit Singhal 2 Affiliation: 4 The University of Texas at Arlington (wang.yipen,liu.jiamin,mehta.mihik,m.singhal)@northeastern.edu han.vu@rutgers.edu, Poojitha.Thota@rockwellautomation.com, shirin.nilizadeh@uta.edu Affiliation: 3 Rockwell Automation Inc. Affiliation: 1 Rutgers University-Newark Affiliation: 2 Northeastern University Abstract When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reported $4.9 billion in losses in 2024 to the U.S. Internet Crime Complaint Center. To investigate family intervention barriers to elder scams, we collected 2M Reddit posts from May 2021 to June 2026 and 2B Baidu Tieba posts from 2007 to 2026. The final corpora contain 13,082 Reddit posts and 3,933 Baidu Tieba posts, labeled using platform-specific codebooks, manual reference annotations, and LLM coding. Through a mixed-methods analysis, we find that scams often extend beyond a single incident and are reported alongside debt problems and broken family relationships. In 68.0% of Reddit posts recording reactions, older adults showed...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:33+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "account takeover",
+      "impersonation scam",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "sms scam",
+      "financial fraud",
+      "online fraud",
+      "voice cloning scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "account takeover",
+      "impersonation scam",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "sms scam",
+      "financial fraud",
+      "online fraud",
+      "voice cloning scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:IEEE Symposium on Security and Privacy"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "account takeover",
+      "impersonation scam",
+      "romance scam",
+      "investment scam",
+      "pig butchering",
+      "sms scam",
+      "financial fraud",
+      "online fraud",
+      "voice cloning scam"
+    ],
+    "technology_modus_terms_found": [
+      "account takeover"
+    ],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "cybercrime",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 26263
+  },
   "007b90728be8448ba2d0bd40d681ffeb122bb3b8c7e3371b7cbea13e3920c952": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1682,6 +1763,30 @@
       "trust"
     ],
     "word_count": 1318
+  },
+  "03a42eeb1968a1c00fdff1b2f8e260bcc12061097c1022819ad369e468ac9263": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Size isn\u2019t everything\u2019: OCBC chief eyes higher ROE, bringing staff along even as bank grows Sign up now: Get ST's newsletters delivered to your inbox OCBC\u2019s key priorities are to grow the business, create more value for shareholders, and execute its next frontier strategy, says its CEO Tan Teck Long. ST PHOTO: AZMI ATHNI Sheila Chiang Published Nov 23, 2026, 05:00 AM Updated Nov 23, 2026, 05:51 AM Set as preferred source Listen Summarise \u4e2d\u6587 OCBC chief Tan Teck Long wants higher return on equity, steady risk control and growth. He says \u201csize is not everything\u201d and wants staff to grow with the bank. OCBC will keep serving mass market, affluent and wealthy customers. It is offering low-cost investment products, free SME courses with NTUC LearningHub, and support through the OCBC SME Index. The bank is using AI, digital tools and data to improve service, not just cut costs. It launched the AI-native OCBC WoW app and will hire 600 more relationship managers, while watching geopolitical and chip risks. AI generated SINGAPORE \u2013 For OCBC group chief executive Tan Teck Long, the struggles of small business owners hit close to home. Growing up, his father ran a small business, but cash flow was often tight. \u201cAs a micro business owner, when he made more money, he had to reinvest more.",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4099
   },
   "03b65cde7ba31d8c49bc99f5fedaf7137deeeaaff247382964ac41ae99b9793c": {
     "access_status": "available",
@@ -13776,6 +13881,30 @@
     "weak_generic_terms_found": [],
     "word_count": 1412
   },
+  "1de52bb4c6a722a2a7eab411585d808fe307be3101bb3e4f9bb0a98f8a7ba397": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US futures bounce as Asia scrambles to slow AI stocks rout Sign up now: Get ST's newsletters delivered to your inbox Investors are questioning whether vast sums of mostly borrowed money spent building data centres to power AI tools will generate returns fast enough to repay lenders. PHOTO: REUTERS Published Nov 23, 2026, 11:20 AM Updated Nov 23, 2026, 03:07 PM Set as preferred source Listen Summarise US futures rose after a sharp AI-led sell-off hit Asian markets, with tech and chip stocks falling hard and Taiwan and South Korea under pressure. Investors fear huge, mostly borrowed spending on AI data centres may not deliver fast enough returns, while rising interest rates are also hurting the wider AI trade. The authorities in South Korea, Taiwan and China moved to support markets, but traders remain nervous without a central bank policy shift or a clear catalyst for recovery. AI generated SINGAPORE \u2013 US stock futures rose on Nov 23 while the authorities in Asia readied to prop up sliding stock markets, after a wipe-out last week for the tech and chip stocks at the centre of the AI boom. Investors are questioning whether vast sums of mostly borrowed money spent building data centres to power AI tools will generate profits large and fast enough to repay lenders. Last week\u2019s 10% drop in the Nasdaq was its largest weekly decline since pandemic panic gripped markets in March 2020...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2381
+  },
   "1deb194561f90a2d5864a3f6c4d08a25bf36706d6f8cdda98a5e965c0e3e647a": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -15175,6 +15304,33 @@
       "trust"
     ],
     "word_count": 1178
+  },
+  "211790d39d6fc83293f870db7508bfea5a0c31c6b215a3afb86fbcb333b5b055": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore Writers Festival 2026 Writing is a delight, not a chore: Silvia Moreno-Garcia on not surrendering to the machine Sign up now: Get ST's newsletters delivered to your inbox Novelist Silvia Moreno-Garcia speaking at the Singapore Writers Festival 2026 on Nov 21. ST PHOTO: JASON QUAH Akanksha Raja Published Nov 23, 2026, 11:11 AM Updated Nov 23, 2026, 02:17 PM Set as preferred source Listen Summarise \u4e2d\u6587 Silvia Moreno-Garcia said writing is a joy, not a chore, and refused to let AI replace her voice. She wrote a short story on her phone after surgery and said, \u201cYou could not pay me to let anyone write my stories.\u201d At the Singapore Writers Festival, she argued AI misses the value of small details and cannot give readers access to a writer\u2019s mind. She said, \u201cAI can\u2019t give you a key to anywhere,\u201d and called room descriptions essential. She linked AI to a folk tale about rats copying people, saying it \u201cwants to eat you\u201d and duplicate writers. She urged writers to protect their gifts and \u201cwrite the truth\u201d instead of following algorithms. AI generated SINGAPORE \u2013 While novelist Silvia Moreno-Garcia was recovering from surgery at her mother\u2019s apartment a couple of years ago, her mother banned her from her desk, on doctor\u2019s orders. So, she wrote a short story on her phone, under the covers, and pretended to be asleep whenever her mother walked in. The British Fantasy...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "trust"
+    ],
+    "word_count": 2554
   },
   "2125eb8570fba2c35b321b9cb0c642dd2163613d859f09501fb7e5fafeb49939": {
     "access_status": "available",
@@ -19368,6 +19524,30 @@
       "fraud"
     ],
     "word_count": 7167
+  },
+  "2b2a318b8f63a481c5a7af5c81712321c6f906eab57769311819adb00ddf05fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa Sign up now: Get ST's newsletters delivered to your inbox Residential buildings near the US Army Iowa Army Ammunition Plant. PHOTO: REUTERS Published Nov 23, 2026, 08:05 AM Updated Nov 23, 2026, 11:32 AM Set as preferred source Listen Summarise The US Army plans to detonate unstable bomb-making chemicals in Iowa under emergency powers, saying cold weather raises the risk of an uncontrolled explosion. Environmental groups oppose the move and say the army is trying to sidestep a court order, while they seek a review of the EPA emergency permit. Officials warn the blasts could spread lead particles, so nearby residents have been told to stay indoors, close windows, and protect pets and livestock. AI generated The US Army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tonnes of bomb-making chemicals in Iowa, saying that continued delays will make it more dangerous as the weather starts to turn colder. \u201cTo protect its personnel and the surrounding communities, the army needs to take swift action,\u201d government lawyers told the 8th US Circuit Court of Appeals in a filing late on Nov 21. \u201cProtection of human health and the environment demand action now, not delay.\u201d The army plans to detonate the chemicals on Nov 25 \u201cto allow for optimal...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2437
   },
   "2b405e6db4cc5c496370ea1a1c7605cfa489454a2290a127a719c92016946231": {
     "access_status": "available",
@@ -27374,6 +27554,30 @@
     "weak_generic_terms_found": [],
     "word_count": 441
   },
+  "3d105125df8e6931315ff0b0fba05a0da1e68375117eb8450c6630d8baa86370": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Baboons in Chad on eagle watch. Image: Catherine Hobaiter Welcome back to the Abstract! Here are the studies this week that dive-bombed our ancestors, brightened the sky, recalled an old tune, and got hosed by marine mucus. First, scientists discover that eagles are hunting large baboons, hinting that early human relatives once sated ancient avian appetites. Then: star-on-star contact, a musical memory lane, and the secrets of cetacean snot. As always, for more of my work, check out my book First Contact: The Story of Our Obsession with Aliens , or subscribe to my personal newsletter The BeX Files . Eagle-eyeing you\u2026for dinner! Hobaiter, Catherine et al. \u201cSigns of Eagle Predation on a 22-kg Adult Primate.\u201d American Journal of Biological Anthropology. Death came from the sky for early humans, according to a new study that suggests giant eagles preyed on our ancestors far more recently than was previously known.",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 4263
+  },
   "3d10897c3449cbb3b7f51012c8fd0e4da7cfa7277ec1cc7f2cac2707067a0bc0": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31860,6 +32064,55 @@
       "trust"
     ],
     "word_count": 5426
+  },
+  "465716a4e4088245f32a8123af2640f87ed96880626a3e16925b31bf1be43aee": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "cyber-crime Police arrest 15 over \u00a31.5M 'we'll recover your losses' scam targeting elderly Suspects allegedly posed as regulators and demanded upfront fees from previous investment fraud victims Connor Jones Connor Jones Cybersecurity reporter Published wed 18 Nov 2026 // 12:27 UTC Make us preferred on Google READ MORE Techie turned his too-easy job interview into a trap 2 minutes ago Google claims last week\u2019s critical VMware bug was under attack in September 1 hour ago $1 of GPT-5.1 tokens finds new ways around China\u2019s Great Firewall 6 hours ago As cars go digital, US consumers pay an extra $12 billion a year for repairs 14 hours ago Passive 'ghost' radar can detect airborne threats without revealing its own position 21 hours ago Fifteen people have been arrested over an alleged scam that squeezed more money from investment fraud victims by offering to help recover their losses. City of London Police searched 17 London addresses on November 11 and apprehended 14 men and one woman. All have since been released on bail. Investigators say the suspected fraudsters posed as regulators to persuade previous victims that compensation was available. Reports submitted through the UK's Report Fraud service helped investigators trace the compensation pitch to around 3,000 recipients since October 2025. REG AD Most victims were elderly, police said. The offers arrived by letter and email...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "fraud victim",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 3297
   },
   "466a79ec1363325129c5eb0c72bc987ca2b98e4cd3616e7735b4a99c5d4b6b24": {
     "access_status": "available",
@@ -37148,9 +37401,9 @@
   "51d0e2a13b212c75a0443aa99277fe760717d478471f3b6dd39b638e5041af8c": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Understanding Email Security Deployments Last updated Oct 26, 2026 | Copy as Markdown | View as Markdown | Agent setup Introduction Email continues to be a mission critical method for communication between people and organizations. This also makes email an ideal channel for attackers to exploit in their attempts to take over accounts, steal data, and gain access to internal systems. Being able to reduce spam, defeat phishing, and malware attacks is critical for the security of your organization. Over 90% of cybersecurity incidents begin with an email attack. Cloudflare Email security service is a market leading solution that can be deployed in a variety of ways to support different needs for each organization. This document outlines the different methods to deploy Email security and why you would choose any specific model. Strengthen your email infrastructure with Cloudflare Email security Email remains a critical communication channel for businesses of all sizes. However, email also serves as a prime target for cyber attacks, including phishing, spam, and malware. To safeguard your organization sensitive data and reputation, a robust email security solution is essential. Cloudflare Email security offers a comprehensive suite of tools and technologies designed to protect your email infrastructure from a wide range of threats.",
+    "article_excerpt": "Understanding Email Security Deployments Introduction Email continues to be a mission critical method for communication between people and organizations. This also makes email an ideal channel for attackers to exploit in their attempts to take over accounts, steal data, and gain access to internal systems. Being able to reduce spam, defeat phishing, and malware attacks is critical for the security of your organization. Over 90% of cybersecurity incidents begin with an email attack. Cloudflare Email security service is a market leading solution that can be deployed in a variety of ways to support different needs for each organization. This document outlines the different methods to deploy Email security and why you would choose any specific model. Strengthen your email infrastructure with Cloudflare Email security Email remains a critical communication channel for businesses of all sizes. However, email also serves as a prime target for cyber attacks, including phishing, spam, and malware. To safeguard your organization sensitive data and reputation, a robust email security solution is essential. Cloudflare Email security offers a comprehensive suite of tools and technologies designed to protect your email infrastructure from a wide range of threats.",
     "cache_version": 10,
-    "checked_at": "2026-10-30T05:41:50+00:00",
+    "checked_at": "2026-11-23T07:27:38+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -37171,7 +37424,7 @@
       "cybersecurity",
       "malware"
     ],
-    "word_count": 8735
+    "word_count": 8722
   },
   "5203f65d914cca8ad5e7a25955cb6c1dd4c145b30e4f09017842ea8f7074971a": {
     "access_status": "available",
@@ -50477,7 +50730,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "US Treasury chief Bessent wants answers soon from Nvidia Sign up now: Get ST's newsletters delivered to your inbox A 2024 photo shows Nvidia\u2019s Jensen Huang embracing Chinese businesswoman Alice Huang - thought to be a Chinese spy - after delivering his keynote speech at COMPUTEX 2024 in Taipei, Taiwan. PHOTO: REUTERS Published Nov 16, 2026, 02:14 AM Updated Nov 16, 2026, 01:05 PM Set as preferred source Listen Summarise US Treasury Secretary Scott Bessent asked Nvidia to explain within 10 days if it helped advanced AI chips reach China, saying compliance with US export rules matters most. He questioned whether Nvidia used shell companies and Megaspeed-linked routes to bypass bans, while the Justice Department runs a criminal probe and Nvidia denies the claims. The row adds pressure before Nvidia\u2019s results on Nov 17, with Jensen Huang due to testify as US agencies remain split over Megaspeed. AI generated SAN FRANCISCO \u2013 US Treasury Secretary Scott Bessent called on Nvidia on Nov 15 to explain whether it knowingly allowed its most advanced AI chips to reach China, saying this was more important than former chief executive Jensen Huang\u2019s affair with an alleged spy for Beijing. Speaking on Fox News Sunday Morning Futures three days after Huang resigned, Bessent said he wants to know if Nvidia used shell companies to dodge US restrictions and sell its most powerful chips to China....",
     "cache_version": 10,
-    "checked_at": "2026-11-16T06:18:18+00:00",
+    "checked_at": "2026-11-23T07:27:39+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -51411,6 +51664,48 @@
       "trust"
     ],
     "word_count": 2548
+  },
+  "6fb4bdbad1d4f9555031050620ce47789ba48afd84d8bd1a50c9ea2aaa2354a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Share Add Us On Google Add as a preferred source on Google DECATUR, Ill. (WAND) \u2013 Illinois Secretary of State Alexi Giannoulias says his office has helped shut down 51 fraudulent investment websites linked to more than $7.1 million in reported losses nationwide. The office\u2019s Securities Department reviewed 297 websites as part of a coordinated effort with state securities regulators. The reported losses associated with the 51 sites were submitted to the FBI\u2019s Internet Crime Complaint Center, according to Giannoulias\u2019 office. The sites promoted cryptocurrency schemes, artificial intelligence trading platforms and other fraudulent investment opportunities, the office said. Some used romance-scam tactics, in which scammers build relationships with potential victims before persuading them to invest money. The department began its website takedown initiative in 2025 and works with domain registrars and hosting companies to remove fraudulent sites. \u201cScammers are getting more sophisticated, more convincing and harder to detect than ever,\u201d Giannoulias said in a statement. How to protect yourself The secretary of state\u2019s office recommends checking whether an investment company and the person offering an investment are properly registered. It also urges people to be wary of: Promises of guaranteed or unusually high returns.",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 531
   },
   "6fc69d0c604c55ec9bb44816d314d8fa0916510259a46a6cb8ee6822b4a211ed": {
     "access_status": "available",
@@ -53613,6 +53908,46 @@
       "trust"
     ],
     "word_count": 814
+  },
+  "755a72c997c938d70d740946187b3833443c347a96a0470fd8c1cf23eb4864a9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Vietnam Shark Tank celebrity jailed for money laundering in \u2018Mr Pips\u2019 fraud case Sign up now: Get insights on Asia's fast-moving developments Nguyen Hoa Binh was on trial for his involvement in massive online investment scams that defrauded hundreds of people. PHOTO: CAND.VN Published Nov 17, 2026, 08:10 AM Updated Nov 17, 2026, 08:21 AM Set as preferred source Listen HANOI \u2013 A Vietnamese tech celebrity, one of almost 200 people on trial for involvement in massive online investment scams that defrauded hundreds of people, has been sentenced to 10 years in jail. Nguyen Hoa Binh, known as Shark Binh from his appearances on the Vietnamese version of Shark Tank, was found guilty of money laundering in Hanoi People\u2019s Court on Nov 16 according to news website VnExpress. The tech entrepreneur was accused of knowingly allowing his payment platform Ngan Luong to process money connected to a forex-investment scam, the government has said. From June 2020 to Sept. 2022, some 232 victims transferred 318 billion dong (S$16 million) into e-wallet accounts linked to fraudulent trading platforms, police said. The tech entrepreneur said in court earlier in November that he took responsibility for his actions and was prepared to go to jail, state media reported. The verdict was part of a wider case involving alleged mastermind Pho Duc Nam, also known as Mr Pips, who was sentenced to life in...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:34+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "cybercrime",
+      "fraud"
+    ],
+    "word_count": 1481
   },
   "756ae3257bdabb929d9820fbe517503dce74e663740eb8b9d9133ede4bf468b3": {
     "access_status": "available",
@@ -64050,6 +64385,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "8a7524e3714c6a87bf09dc978e61272a1d5bcb6f6b4de52156ea595106060af6": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The chip war\u2019s next battleground As the US and China\u2019s AI rivalry intensifies, focus is moving to supply chains. Sign up now: Get ST's newsletters delivered to your inbox From chipmaking tools to rare earth minerals, AI supply chains are set to become the prime battleground in a renewed test of strength between the US and China, says the writer. PHOTO: REUTERS Chris Miller Published Nov 22, 2026, 06:00 PM Updated Nov 22, 2026, 06:36 PM Set as preferred source Unlock audio It\u2019s been a dizzying week in the world of AI. Jensen Huang, chief executive of US chipmaker Nvidia, has been ousted amid a scandal over his affair with a suspected Chinese spy; Anthropic has listed shares publicly, becoming the latest American AI giant valued at more than US$1 trillion (S$1.29 trillion); the US government has imposed swinging restrictions on China\u2019s access to overseas data centres, causing a slump in Chinese AI stocks. And this past week\u2019s superpower summit in Shenzhen has ended with no extension to the Busan truce, the trade agreement that has stabilised China-US relations since October 2025, which is due to expire in January. Even before November , the two countries were readying themselves for another test of strength, and AI supply chains now look set to become the prime battleground. From chipmaking tools to the rare earth minerals inside them, Beijing and Washington are both looking for...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:39+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 797
+  },
   "8aaa524d9692fb8e4516d8077c345bb9ec60d18c39f311906e073a818f117786": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -71226,6 +71585,30 @@
     ],
     "word_count": 7412
   },
+  "9b177994639c91a27486c08df195546b1b6926a1223ef529b3d61be57d6381b3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Vietnam\u2019s economic rise creates a growing middle class, but not everyone is better off Sign up now: Get insights on Asia's fast-moving developments The upscale Trang Tien Plaza in Hanoi. Vietnam\u2019s economy is booming, but much of the growth is driven by foreign companies and concentrated in a few sectors. ST PHOTO: NGA PHAM Nga Pham Published Nov 22, 2026, 04:30 PM Updated Nov 22, 2026, 07:07 PM Set as preferred source Listen Summarise Vietnam's economy is among South-east Asia's fastest-growing, fuelled by foreign investment, infrastructure spending and an expanding manufacturing base. But economists say that the benefits of Vietnam's economic growth are unevenly distributed, with wages and purchasing power under pressure despite an expanding middle class and rising GDP per capita. The next challenge is to build stronger domestic industries and ensure more of the value generated by foreign investment stays within Vietnam. AI generated HANOI \u2013 Nguyen Thuy Quynh, 47, saw an opportunity in the education sector 20 years ago when she was working as an interpreter and translator, having graduated from Hanoi University with a major in English. Vietnam had been pursuing an open-door policy of economic reform, and with the influx of foreign investment, the country was desperately in need of an English-speaking workforce. Quynh and her husband decided to open an English-language centre...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 5953
+  },
   "9b2b3421ab486561dd8e1e052164a1f3afa5f50ed0e979d082491e8e9f26c012": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -73005,6 +73388,46 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2865
+  },
+  "9f3f65ebb15a4c8c37a8ae18edad2400c18b82a6a415a8d3d4625643d82e5318": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "It was also, Anderson says, because he was \u201csuper worried about spies.\u201d The cybersecurity founder isn\u2019t the only one. As Jensen Huang\u2019s affair with an alleged asset of China\u2019s Ministry of State Security dominates headlines and AI companies reportedly warn employees against \u201choneypots,\u201d matchmakers say that more men with pretty normal lives are worried that their dates may have ulterior motives: accessing corporate secrets . \u201cEven if you're not a CEO or at a big tech giant, these fears have trickled down to just regular professionals,\u201d Simone Grossman, a Brooklyn-based matchmaker, tells WIRED. One tech worker, who requested anonymity in order to speak candidly, says he considers himself \u201chighly selective\u201d about the people he interacts with face-to-face. \u201cEven though I could vet you from looking you up online, I can't help but still be a tad dubious,\u201d he tells WIRED. On a scale from zero to 10, with 10 being the most anxious about espionage, he puts himself at a seven. Even though the vast majority of tech employees likely won\u2019t be targeted for romantic espionage, matchmakers say more clients have lately expressed concerns about women exploiting them for their corporate secrets. One Palantir employee told Andersen he wouldn\u2019t date anyone who was a Chinese or Russian national. The anxiety has even become a marketing opportunity: One company is pitching its new line of AI...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:40+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "cybersecurity",
+      "vulnerability",
+      "identity",
+      "trust"
+    ],
+    "word_count": 3708
   },
   "9f3fce0f8ab4073a16b450533cbeda55fe86681eff8aa578f92a0b57890c55c3": {
     "access_status": "available",
@@ -81607,6 +82030,32 @@
     "weak_generic_terms_found": [],
     "word_count": 4476
   },
+  "b05f75145f9b42e756890dd0155839f083fec3bc274e38809768d7e32b4e74c3": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Photo by Compare Fibre / Unsplash A new study from Gallup looked at how young people across the world are making friends, both digitally and in person. The good news is that around 93% of the young people surveyed reported having at least one strong in-person friendship. The weird news is that 33% said they had an AI companion. Gallup\u2019s study is lengthy and nuanced. It partnered with the Boston Children\u2019s Digital Wellness Lab to conduct the study and used online surveys of more than 16,000 young people from the ages of 15 to 22 in 16 different countries. A lot of the topline results won\u2019t surprise anyone living in today\u2019s constantly online digital-forward age. Gallup found that respondents felt their in-person friendships were their strongest, that digital friendships complemented rather than replaced in-person ones, and that stronger friendships made people happier no matter how the connection was made. Three things that stood out were how the young respondents talked about AI, loneliness, and doomscrolling. Young people in the United States, Canada, and UK reported the least interest in AI overall, with only 20% saying they used it once a day or more. Almost 40 percent of young people in Brazil use it daily.",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2598
+  },
   "b061d32e47347ee219bdb1274600a604b4d71678db55c70eb865cde7aef3eb65": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -85949,6 +86398,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "b9a2ae2fec29b1c418c0776d0479058f85b26e0bbc89ba1b7d38ede9ecf9d811": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "China carmakers scale back humanoid robot ambitions With poor accuracy, slow movement, current models are far from replacing humans A humanoid robot stands next to Geely's Robotaxi prototype, Eva Cab, at the Beijing International Automotive Exhibition in Beijing in April. \u00a9 Reuters As the robotics industry attempts to transition from Hollywood fantasy to physical reality, a stark truth has emerged: The technology is far from ready for the unpredictable environments of domestic life. Read Next Latest on Caixin Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 91
+  },
   "b9b4e0a894e57736295bc3a6827e0d0238d73b3db77d3897883c163eabd0efbb": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -88140,6 +88613,34 @@
     ],
     "word_count": 9077
   },
+  "bdb0a60dbe4597e568aeb8b152397b3a602e357b9e6096c7fee87fe2b7f882c7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "askST: AI tool Artex hijacked for hacking globally, drawing FBI warning; is Singapore vulnerable? Sign up now: Get ST's newsletters delivered to your inbox The artificial intelligence tool Artex has been hijacked by hackers to help them launch cyberattacks worldwide. PHOTO: REUTERS Kenny Chee Published Nov 23, 2026, 05:00 AM Updated Nov 23, 2026, 02:15 PM Set as preferred source Listen Summarise \u4e2d\u6587 The FBI says AI tool Artex has been \u201cweaponised\u201d for cyberattacks worldwide, automating hacking steps and helping attackers gain VIP access into victims\u2019 systems in under three hours. Artex was made as an open-source security test tool, but hackers copied it and used it against banks, firms and government-linked targets in South Korea, Japan and other regions. Singapore has no confirmed Artex victims yet, but experts warn its connected economy is exposed. Organisations should tighten basics, check suppliers and use multi-factor authentication. AI generated SINGAPORE \u2013 It was supposed to help stress-test the cyberdefences of organisations. But the artificial intelligence tool Artex has been hijacked by hackers to help them launch cyberattacks worldwide, the US Federal Bureau of Investigation warned on Nov 13. It said that Artex has been \u201cweaponised to automate multiple phases of cyber intrusions at machine speed, from reconnaissance through data exfiltration\u201d. In some cases, bad...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity"
+    ],
+    "word_count": 4358
+  },
   "bddef0f8bad0f01bf83b071da68409047ead71c0407a8976c3a98974981a0132": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -88373,6 +88874,44 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "be8fdc22280aae3e1a87fa6e6714e4055222ba0487d8202b83094742677088e8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Detained at the BI facility in Taguig are nine Japanese, two Taiwanese, four Chinese and two Indians. MANILA, Philippines \u2014 Seventeen foreigners impersonating couriers and police officers have been arrested in Pasay, according to the Bureau of Immigration. Detained at the BI facility in Taguig are nine Japanese, two Taiwanese, four Chinese and two Indians. Apprehended on Nov. 20, the suspects allegedly posed as couriers who informed victims that their parcels contained illegal items. Fake policemen would then threaten the victims with arrest or asset freezing. Another scammer would persuade victims to transfer money to a \u201csafe\u201d or \u201cverified\u201d account. Fugitives Yuto Takahashi, 30, and Matsumoto Shohei, 33, are among the suspects. Meanwhile, a Vietnamese woman has been arrested at the Ninoy Aquino International Airport Terminal 1. Hu?nh Th?",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:36+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "identity"
+    ],
+    "word_count": 417
+  },
   "be925e3137309c1178f532505f87a1b4e1603c3dc3d00d450d2a1b60a133fbcf": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -88547,7 +89086,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "US and Russia to oppose talks on limiting autonomous weapons Sign up now: Get ST's newsletters delivered to your inbox Semi-autonomous, artificial intelligence-assisted weapons have already been used in Ukraine. PHOTO: REUTERS Published Nov 16, 2026, 08:04 AM Updated Nov 16, 2026, 10:45 AM Set as preferred source Listen Summarise The US and Russia are expected to oppose talks in Geneva on legally binding rules for autonomous weapons, while most of the 128 states support action. AI-driven weapons are already being used in Ukraine, Sudan and the Middle East, raising fears of unpredictable behaviour and fatal errors. The meeting may end with a compromise, but options range from binding rules to guidelines, with the UK, Germany and France backing a flexible deal. AI generated GENEVA \u2013 Major arms producers the US and Russia look set to oppose a push at a global meeting in Geneva this week to launch negotiations on legally binding rules for autonomous weapons, in what diplomats and rights groups expect to be difficult talks. The rise of artificial intelligence has boosted development of drones, robots, tanks, submarines and other military hardware capable of killing without human involvement. Semi-autonomous, AI-assisted weapons have already been used in Ukraine, Sudan and the Middle East, despite ethical concerns. The UN-hosted meeting starting on Nov 16 is due to decide whether to...",
     "cache_version": 10,
-    "checked_at": "2026-11-16T06:18:17+00:00",
+    "checked_at": "2026-11-23T07:27:38+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -90212,6 +90751,33 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 600
+  },
+  "c3385a4f4194920b7553932b9be683bb22a1208375aebd54b1a9eafeaefb3981": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Modeling Attributional Style at Scale: A Dataset and Analysis for Psychological Attribution Assessment and Reframing Qiang Zhou Affiliation: University of Pittsburgh Correspondence to: qiz166@pitt.edu Hanzhen Zhu Affiliation: Harvard University Pan Wang Affiliation: University of Pittsburgh Rui Tu Affiliation: University of Pittsburgh Huaizhi Qu Affiliation: University of North Carolina at Chapel Hill Zhuoran Wang Affiliation: University of Pittsburgh Xin Hu Affiliation: University of Pittsburgh Lei Li Affiliation: Carnegie Mellon University Tianlong Chen Affiliation: University of North Carolina at Chapel Hill Jingtong Hu Affiliation: University of Pittsburgh Correspondence to: jthu@pitt.edu Abstract According to the reformulated Learned Helplessness theory, repeated exposure to uncontrollable negative events can foster a depressogenic attributional style\u2014increasing susceptibility to depression yet remaining a tractable target for cognitive therapy. Computational research on attributional cognition, however, is hampered by the lack of large-scale datasets and robust evaluation protocols. In this work, we introduce the Attributional Style Transfer Dataset (ASTD) along with dedicated evaluation metrics, the first benchmark designed to model, assess, and reframe attributional explanations at scale. Constructed via a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:40+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 50,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "vulnerability",
+      "identity"
+    ],
+    "word_count": 19209
   },
   "c358742f88650ae07ad314b26407867022f50d09876dfc6b8569d42134a9909d": {
     "access_status": "available",
@@ -96073,6 +96639,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 3632
+  },
+  "d01e6581187812b143cbfddefeb9e7c15cf4bd47859fed8bf0307fb85a0e90c4": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud 1 min read The US Securities and Exchange Commission (SEC) charged eight Colorado-based entities Thursday, alleging they used fake crypto trading platforms to take $37.4 million from more than 1,500 US investors. Four of the defendants posed as investment advisers, and each steered investors to a fake trading platform run by its partner, according to the SEC\u2019s complaint. The four pairs operated in succession from August 2024 to May 2026. The defendants allegedly lured investors by masquerading as investment advisers or representatives of crypto asset trading platforms, which the SEC described as fronts designed to steal investor money, the agency announced in a Thursday press release. The SEC said the operators were likely overseas and used social media ads to lure investors into private chat groups. They first offered stock-trading advice before persuading victims to transfer money to fake crypto platforms, where victims believed they were buying genuine crypto assets. The SEC previously warned investors that scammers used investment-related group chats to promote fraud schemes, including by impersonating financial professionals, according to a December 2025 alert. The scheme allegedly operated through four successive adviser-platform pairs from August 2024 to May 2026, with operators switching pairs every few...",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:34+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud"
+    ],
+    "word_count": 1010
   },
   "d0297872f79181038b82a023d84c64ac371e1d1b8e3c68d3f72bae573cf02d4c": {
     "access_status": "available",
@@ -104163,9 +104768,9 @@
   "e1a72ffb288925a425bf9f076e1396be08cf983d8e9eaecaa47957dfaf6ddf2a": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Verified bots Last updated Oct 8, 2026 | Copy as Markdown | View as Markdown | Agent setup A Verified bot is a bot or agent that Cloudflare has confirmed is transparent about who it is and what it does : it represents itself honestly and does not abuse the access that honesty earns. Examples include search engine crawlers, monitoring services, and user-driven agents. Being Verified means a bot or agent meets two bars: Honest self-identification \u00e2\u0080\u0094 it declares who it is deterministically, through a cryptographic Web Bot Auth signature, a published IP list with a stable user-agent, or reverse DNS. Non-abusive behavior \u00e2\u0080\u0094 it obeys robots.txt and crawl directives, maintains reasonable request rates, and has not been observed evading website owner preferences or attacking sites. Classification Cloudflare classifies each tracked bot by its behavior \u00e2\u0080\u0094 what the bot may do on your site. A single bot can have one or more of the following behaviors: Behavior Description Search Crawling to build search indexes or RAG databases. Agent User-directed agents visiting a page on behalf of a human. Training Crawling to train or fine-tune models. Transact Checkout or other transaction actions on behalf of users. Data Collection Price scraping, competitive intelligence gathering, and third-party analytics.",
+    "article_excerpt": "Verified bots A Verified bot is a bot or agent that Cloudflare has confirmed is transparent about who it is and what it does : it represents itself honestly and does not abuse the access that honesty earns. Examples include search engine crawlers, monitoring services, and user-driven agents. Being Verified means a bot or agent meets two bars: Honest self-identification \u00e2\u0080\u0094 it declares who it is deterministically, through a cryptographic Web Bot Auth signature, a published IP list with a stable user-agent, or reverse DNS. Non-abusive behavior \u00e2\u0080\u0094 it obeys robots.txt and crawl directives, maintains reasonable request rates, and has not been observed evading website owner preferences or attacking sites. Classification Cloudflare classifies each tracked bot by its behavior \u00e2\u0080\u0094 what the bot may do on your site. A single bot can have one or more of the following behaviors: Behavior Description Search Crawling to build search indexes or RAG databases. Agent User-directed agents visiting a page on behalf of a human. Training Crawling to train or fine-tune models. Transact Checkout or other transaction actions on behalf of users. Data Collection Price scraping, competitive intelligence gathering, and third-party analytics.",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:23+00:00",
+    "checked_at": "2026-11-23T07:27:38+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -104186,7 +104791,7 @@
       "fraud",
       "trust"
     ],
-    "word_count": 2902
+    "word_count": 3028
   },
   "e1abb24d0fecad9ce74ff4c660100f5c4ad958eda212fd84093d47bcbe520f23": {
     "access_status": "available",
@@ -107625,6 +108230,42 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1831
+  },
+  "ea9f2ca8a70cc768c9e0c5c7f11bfe2e6b990b6e4aa2407c656983f9efa58020": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Browser Cloudflare Host What happened? There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. What can I do? If you are a visitor of this website: Please try again in a few minutes. If you are the owner of this website: There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team. Please include the Ray ID (which is at the bottom of this error page). Additional troubleshooting resources .",
+    "cache_version": 10,
+    "checked_at": "2026-11-23T07:27:34+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "impersonation scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 133
   },
   "eaa5573d6a4f00b2703b928c190edc8b49e2729beba0b8bfc9444b366f74942d": {
     "access_status": "available",
