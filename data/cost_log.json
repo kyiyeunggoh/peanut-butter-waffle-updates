@@ -1,29 +1,6 @@
 {
   "runs": [
     {
-      "date": "2026-05-25",
-      "mode": "send",
-      "model": "gemini-3.1-flash-lite",
-      "used_llm": true,
-      "estimated_input_tokens": 3813,
-      "estimated_output_tokens": 600,
-      "estimated_cost_usd": 0.001853,
-      "actual_prompt_tokens": 4102,
-      "actual_output_tokens": 461,
-      "actual_thoughts_tokens": null,
-      "actual_total_tokens": 4563,
-      "actual_cost_usd": 0.001717,
-      "gemini_attempts": 1,
-      "gemini_max_attempts": 3,
-      "gemini_failed_attempts": [],
-      "rejected_must_include": [],
-      "mix_constraints_satisfied": true,
-      "failed_constraints": [],
-      "candidate_count": 8,
-      "shortlist_count": 7,
-      "sent_count": 7
-    },
-    {
       "date": "2026-05-26",
       "mode": "send",
       "model": "gemini-3.1-flash-lite",
@@ -5992,6 +5969,48 @@
       "raw_candidate_count": 5403,
       "date_filtered_candidate_count": 601,
       "ranked_unseen_candidate_count": 1
+    },
+    {
+      "date": "2026-11-25",
+      "mode": "send",
+      "model": "gemini-3.1-flash-lite",
+      "used_llm": false,
+      "estimated_input_tokens": 4129,
+      "estimated_output_tokens": 1100,
+      "estimated_cost_usd": 0.002682,
+      "actual_prompt_tokens": null,
+      "actual_output_tokens": null,
+      "actual_thoughts_tokens": null,
+      "actual_total_tokens": null,
+      "actual_cost_usd": null,
+      "gemini_attempts": 3,
+      "gemini_max_attempts": 3,
+      "gemini_failed_attempts": [
+        {
+          "attempt": 1,
+          "reason": "HTTPError: HTTP 402"
+        },
+        {
+          "attempt": 2,
+          "reason": "HTTPError: HTTP 402"
+        },
+        {
+          "attempt": 3,
+          "reason": "HTTPError: HTTP 402"
+        }
+      ],
+      "gemini_items_without_takeaways": [],
+      "candidate_count": 14,
+      "shortlist_count": 2,
+      "sent_count": 3,
+      "candidate_cache_used": false,
+      "cache_fallback_used": false,
+      "cache_fallback_allowed": true,
+      "fetch_skipped": false,
+      "rss_queries_run": 120,
+      "raw_candidate_count": 5976,
+      "date_filtered_candidate_count": 652,
+      "ranked_unseen_candidate_count": 14
     }
   ]
 }

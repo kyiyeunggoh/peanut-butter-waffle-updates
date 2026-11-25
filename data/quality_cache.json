@@ -852,6 +852,47 @@
     ],
     "word_count": 1453
   },
+  "021f9d7a562d850bcf6bd72f8c80fb72b0851a12d2afe399420ae1ed552f5c82": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: The Long Con on the Web: Earn-then-Exploit Fraud Attacks against Coding Agents Conference: arXiv Preprint; 2026; Online CCS: Security and privacy Social engineering attacks CCS: Security and privacy Web application security CCS: Computing methodologies Intelligent agents Xingling Xu Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Zhengwei Jiang Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Zheng Zhi Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Fangming Dong Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , LingJia Guo Affiliation: Institute of Information Engineering, Chinese Academy of Sciences; University of Chinese Academy of Sciences , Beijing , China , Wei Dong Affiliation: The North China Institute of Computer System Engineering , Beijing , China , Chunyan Ma Note: Corresponding author. Affiliation: Institute of Information Engineering, Chinese Academy of Sciences , Beijing , China and Jun Jiang Affiliation: Institute of Information Engineering...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:35+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:USENIX Security"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "deception",
+      "phishing",
+      "prompt injection",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 16771
+  },
   "022548cff4104e163a6f302393f8047a80927492a76055b2a161c12502a244b2": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -1056,6 +1097,37 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 2610
+  },
+  "0266ec9603859a27d5bba0c5dbb1c6af53215d8b6c5e13d4737476770e605f82": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:44+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "0267c7cf90071d1695c14ebd0d18b8fc3f1d9d44b8016a9920a8401e524416cb": {
     "access_status": "available",
@@ -1821,6 +1893,30 @@
     ],
     "word_count": 2934
   },
+  "03d2b5b004945d9e0477f3e811a36f74a7eb6fd734d9741941d37ba0755e8ffc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 3, 2026 See which AI assistants act for your users in Account Abuse Protection Bots Account Abuse Protection now shows when a recognized AI assistant makes a login or sign up request, and which account it was acting for. Population overview : See which AI assistants are active across your users and how many accounts use them. Account activity : Every login and sign up event shows whether an AI assistant made the request, and which one. AI assistant filters : filter accounts by number of AI assistant events or number of AI assistants. Use this to investigate and mitigate a single account without blocking an assistant for everyone else who relies on it, and to tune your agent settings in AI Crawler and Agent access policies . AI assistant visibility covers login and sign up events only. Requests from assistants that Cloudflare does not recognize appear as ordinary traffic. For more information, refer to AI assistants . November 3, 2026 See which AI assistants act for your users in Account Abuse Protection Bots Account Abuse Protection now shows when a recognized AI assistant makes a login or sign up request, and which account it was acting for. Population overview : See which AI assistants are active across your users and how many accounts use them.",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 416
+  },
   "03d56119781c2490a5453c482e3214e13a0157b533c6853fbdc411cdaea5c932": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -2167,6 +2263,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 720
+  },
+  "04635fac0fd02e00ede67ea7e9f7af8931ffb63f57a085aa46bea6d055d8751e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "South Korea offers US$75,000 bounties to catch AI exam cheats Sign up now: Get insights on Asia's fast-moving developments South Korean Prime Minister Han Seong-sook announcing a series of measures used to prevent AI cheating in the national exam. PHOTO: AP Published Nov 18, 2026, 12:23 PM Updated Nov 18, 2026, 05:09 PM Set as preferred source Listen Summarise South Korea is offering a reward of at least 100 million won, or US$75,000, to catch students using AI or gadgets to cheat in the Suneung exam. President Lee Jae Myung said whistleblowers may get higher payments, while cheaters who report others can receive reduced penalties. The government is using strict controls, including gadget checks, phone collection, alert messages and a possible 10-year ban, to protect exam fairness. AI generated SEOUL \u2013 South Korea\u2019s President is offering US$75,000 ( S$97,000 ) to anyone who catches students cheating on tests, launching an all-out effort to prevent AI gadgets from being used in this week\u2019s high-stakes college entrance exam. The education-obsessed country, which has one of the world\u2019s fastest average internet speeds and extremely high artificial intelligence uptake rates, is battling a string of high-profile cheating scandals. The top scorer on a notoriously difficult accountancy exam confessed on Nov 15 to using a complex scheme involving AI and a micro-camera to achieve his...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2160
   },
   "046a3b48e0e6f907f4c0256c961252edd0f26e6ea8d0cea01209b80087e1e024": {
     "access_status": "available",
@@ -4422,6 +4542,30 @@
       "identity"
     ],
     "word_count": 1836
+  },
+  "097a8b71f9bd20e23cf4bef6cb6a9decf080f266de8aee7e88ac70fcca3e5efa": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Seatrium to lay off 2% of Singapore workforce in first restructuring exercise since merger Sign up now: Get ST's newsletters delivered to your inbox The layoffs are part of a broader effort to streamline Seatrium\u2019s global operations resulting in a consolidation of its yards and subsidiaries. PHOTO: REUTERS Joyce ZK Lim Published Nov 24, 2026, 12:15 PM Updated Nov 24, 2026, 05:42 PM Set as preferred source Listen Summarise \u4e2d\u6587 Seatrium will cut about 220 jobs in Singapore, or 2% of its local workforce, in its first restructuring since the 2023 merger of Sembcorp Marine and Keppel Offshore & Marine. The group is streamlining global operations and yards, cutting them from 15 in 2023 to 11, while refocusing Singapore sites on higher-value repairs, upgrades and global project support. Chief executive Chris Ong said this is not just cost-cutting but a move to build future skills and models; unions and taskforce support are helping affected staff with fair packages and job help. AI generated SINGAPORE \u2013 Seatrium will cut its workforce here by about 220 people, or about 2%, as part of a broader effort to streamline its global operations and consolidate its network of yards, it announced on Nov 24. This comes as the Singapore-listed offshore, marine and energy group transforms systems and processes in line with future business needs, which includes speeding up the optimisation of...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1789
   },
   "098fe8196aca7fbe4db3cd18bf397329d69ff7321376de675fa22336901b2afc": {
     "access_status": "available",
@@ -8778,6 +8922,34 @@
     ],
     "word_count": 2402
   },
+  "12624fe2db8d81f882b0c4cdb0efb36449acc478b9b5d0c89d9fd531888352d7": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Selection-Aware Certification of Client-Constrained Fraud Rule Portfolios Under Synthetic Distribution Shift Rishabh Pande Yu Zeng \u2020 \u2020 thanks: Both authors are with Socure, United States (e-mail: rishabh.pande@socure.com; jason.zeng@socure.com). Rishabh Pande ORCID: 0009-0004-1901-7109. Corresponding author: Rishabh Pande. Abstract Selecting fraud-rule portfolios to satisfy a precision or recall floor can overfit the data used for selection. We study finite-family certification for bounded OR portfolios, comparing point-estimate selection, a fixed safety margin, and one-sided Clopper\u2013Pearson lower bounds with Bonferroni adjustment. In a factorial follow-up with 6,400 datasets from two author-designed synthetic generators, full-validation certification reduced the held-out floor-violation rate by 29.1 percentage points on average versus full-validation point selection, while reducing deployment by 31.7 points. Compared with a fixed 0.05 margin, certification reduced violations by 22.2 points and deployment by 29.4 points; results varied across conditions. Using the full rather than half validation sample increased deployment by 17.1 points on average, without a uniform reduction in shifted-test violations. In a separate 400-dataset no-shift sweep, certification deployment rose from 61.3% to 90.2% as validation size increased...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:37+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 10161
+  },
   "128887f96d6f8c442f4cbcad96d3cc4295ad89ce324d8a2e168e3833960a978d": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -10122,6 +10294,32 @@
       "identity"
     ],
     "word_count": 14534
+  },
+  "154acd5b1f81dae0ef4529caa2c9e9ff5b9564030bccdb28b3475b2a2d2fdd1e": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "\u2018Sudden chill amid a boom\u2019: Malaysia grapples with US curbs on chips Sign up now: Get insights on the biggest stories in Malaysia In the first nine months of 2026, Malaysia attracted RM123.5 billion in data centre and cloud computing investments. PHOTO: REUTERS Harith Mustaffa Published Nov 25, 2026, 05:00 AM Updated Nov 25, 2026, 04:02 PM Set as preferred source Listen Summarise \u4e2d\u6587 New US restriction on the export and remote access of its advanced semiconductors against China may put data centres in Malaysia at risk for projects hinging on AI demand from Chinese firms. Data centre and cloud computing investments account for a staggering 35.2% of total approved investments in Malaysia in the first nine months of 2026. Sources in the industry, however, say the exposure may not be uniform as Malaysia also hosts cloud computing applications for social media and e-commerce. AI generated JOHOR BAHRU \u2013 In October, project manager Jack (not his real name) quit his job at a China-linked AI computing firm with a data centre in Johor after a successful run. But when the US restricted advanced semiconductor exports without a licence to curb Chinese access via the region, it gave him even more reason to reflect on his exit. \u201cWhoa. I saw the news, I\u2019m glad I left already,\u201d he told The Straits Times when contacted over the phone in November. He conceded that his decision was personal and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 4653
   },
   "1558684b4a132dedffdc06b50f7552657152a3a9a034103b5f140dc52e497917": {
     "access_status": "available",
@@ -12315,6 +12513,48 @@
       "trust"
     ],
     "word_count": 4503
+  },
+  "1a39e7e9c59f2d7f5df0404a252949fdf743939e6dffbd0c84da927873df76b8": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: \\settocbibname References \\csvreader authors_alphaorder.csvname= \\BeamAuthorName Beam Model Technical Report Thanks: See Section 9 for the full list of authors. Affiliation: Reflection Team Email: research@reflection.ai Abstract Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reasoning, while requiring 3-4x less inference compute than many models of its class. Pretrained on 23.8T diverse, curated, high-quality tokens, Beam features a 1M-token context window achieved through a novel two-stage midtraining phase, built on verifiable, correctness-anchored data. Post-training leveraged a large-scale, fully asynchronous reinforcement learning (RL) campaign across 10.5K GB300 GPUs, generating over 100M rollouts over 4 weeks of training. We believe this is one of the largest scale RL runs conducted by any open lab to date. Across our evaluation suite, capabilities continued to improve as we increased RL compute, with no sign of a plateau. Supported by deep hardware-model co-design, FP8/NVFP4 quantization, and a 1.93B-parameter speculative decoding drafter (DFlash 2), Beam maximizes serving throughput with efficient, flexible deployment. Averaged across conversation turns...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:39+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [
+      "venue_term:PETS"
+    ],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "deception",
+      "prompt injection",
+      "cybersecurity",
+      "vulnerability",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 131703
   },
   "1a4b16f77f86a870f174026b8dab88da855319fdfe894fa3ce1367795044a4ec": {
     "access_status": "available",
@@ -18999,6 +19239,46 @@
     "weak_generic_terms_found": [],
     "word_count": 1103
   },
+  "2989e5a1a6801fd4b0486cf043e64b289bb2530c885fbe43e2c85b7021794701": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Five communication techniques scammers use - so you can spot them 1. They create a sense of urgency The top tactic, that overarches everything, is a sense of urgency, says Dr Lis. \u201cYou\u2019ll feel compelled to feel like something is urgent and you have to act.\u201d But the criminals may not be overtly telling you to act swiftly or to hurry. Actually, the most compelling sense of urgency is when you feel that you want to act quickly for your own preservation or that of somebody you care about, Dr Lis explains. \u201cIt feels like it comes from you.\u201d In one of the Scam Secrets episodes focusing on so-called delivery scams , the victim believes they are buying a great value car. They are informed \u2013 calmly and politely \u2013 that the car will be loaded onto the transport for delivery, \u201cas soon as payment is received.\u201d The victim is not told to rush, or that the deal will expire, but a distorted sense of urgency is in-built, Dr Lis explains. Urgency can also be clearly seen in the Hello Mum fraud, where an individual claiming to be your child contacts you on WhatsApp, on an unknown number, saying their phone is broken. They are in trouble, and need money. It creates a \u201cvisceral fear,\u201d Dr Lis explains: \u201cYour child is in danger and you go and you respond straight away.\u201d This scam is particularly effective because the fraudsters don\u2019t need to know your name or any of your details. They rely on the...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:31+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 1469
+  },
   "298e71e4ecca9cdbb05df95fe972f8ab6271ec8b929550adc81090bb7051c518": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -21133,7 +21413,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Over the last few years, we have documented many attorneys getting caught by judges using AI after citing hallucinated cases that do not exist. The filings in this court case over the past month show attorneys, including those working for the government, are trying to catch each other using AI, then are citing their opponents\u2019 AI use in their arguments to the court. \u201cThis case has turned into defense by ChatGPT,\u201d government attorneys wrote in the case , which centers around a high-profile voter fraud case . \u201cMotions practice in this case is the equivalent of writing responses to documents generated by a robot that is attempting to practice law. It cannot be that the local rules envisioned that it was acceptable for defense to use what the kids would call \u2018AI slop\u2019 to create multiple frivolous motions that waste judicial resources and fail to serve the cause of justice.\u201d The defendant is Khalwinder Bhengura, an Indian man who entered the United States on an immigrant visa in 2022 and illegally \u2014 and apparently accidentally, according to his lawyers \u2014 registered to vote in Texas in 2024 after falsely stating that he was an American citizen on his application for a driver\u2019s license. Bhengura was arrested in September on charges of lying about his citizenship status, illegally registering to vote, and illegally voting in the 2024 election, and was found guilty in October on two of...",
     "cache_version": 10,
-    "checked_at": "2026-11-18T07:18:44+00:00",
+    "checked_at": "2026-11-25T08:22:35+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -21152,7 +21432,7 @@
     "weak_generic_terms_found": [
       "fraud"
     ],
-    "word_count": 4224
+    "word_count": 1309
   },
   "2f3aef5509344576feaac7dbd0bcaf0de2c9cc9a2e71b4a9484ff15942db7b06": {
     "access_status": "available",
@@ -25558,6 +25838,30 @@
       "fraud"
     ],
     "word_count": 2321
+  },
+  "3903720dd2cdf192a46877592cf2c2e27f08b7cb7811a6eb9c30bd4436d4a404": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "clairic-flash Text Generation \u00e2\u0080\u00a2 Cloudflare Model ID @cf/cloudflare/clairic-flash Copy Cloudflare-hosted Vision Zero data retention Clairic is a System One-style model that can extract, compute, estimate, and forecast values from inputs. It is strongly typed and outputs confidence scores and probabilities against its outputs. This model is in early research preview from the Cloudflare Workers AI team. Model Info Context Window \u00e2\u0086\u0097 65,536 tokens Terms and License link Vision Yes Zero data retention Yes Unit Pricing $0.10 per M input tokens Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const response = await env. AI . run ( \"@cf/cloudflare/clairic-flash\" , { model: \"clairic-flash\" , state: \"Invoice INV-2291 from Northwind Supply, issued 2026-09-02, net 30. 4 pallets at $250.00 each, shipping $80.00. Contact: Dana Ruiz, Priya Shah.\" , fields: { invoice_number: { type: \"text\" }, due_date: { type: \"date\" , instructions: \"Issue date plus the net payment days\" , }, total: { type: \"number\" , decimals: 2 , unit: \"USD\" , instructions: \"Amount due including shipping\" , }, contacts: { type: \"list\" , items: \"text\" }, po_number: { type: \"text\" , instructions: \"Purchase order number\" }, days_to_pay: { type: \"estimate\" , min: 0 , max: 120 , step: 1 , instructions: \"Days after issue until this invoice is paid\" , }, }, }); //...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1894
   },
   "390dbd4b1f197c4987643c5863b85211316c0fa9d70e3b4ca9da988c2daf9bfe": {
     "access_status": "available",
@@ -30449,6 +30753,29 @@
     ],
     "word_count": 4382
   },
+  "43525f8ed39e05bb79c171c8c5d029009f39ac208e123150106e154beef64fc8": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "direct_scam_relevance",
+    "research_relevance_score": 60,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "4356d2047e41e3b2d5c4227d4ad0ebfbed69d7cd790ccee49fdf3c3038492c84": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -31216,7 +31543,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: SafeArena : Evaluating the Safety of Autonomous Web Agents Ada Defne Tur Affiliation: McGill University Affiliation: Mila Quebec AI Institute Nicholas Meade Affiliation: McGill University Affiliation: Mila Quebec AI Institute Correspondence to: nicholas.meade@mila.quebec Xing Han L\u00f9 Affiliation: McGill University Affiliation: Mila Quebec AI Institute Alejandra Zambrano Affiliation: Concordia University Affiliation: Mila Quebec AI Institute Arkil Patel Affiliation: McGill University Affiliation: Mila Quebec AI Institute Esin Durmus Affiliation: Anthropic Spandana Gella Affiliation: ServiceNow Research Karolina Sta\u0144czak Affiliation: McGill University Affiliation: Mila Quebec AI Institute Siva Reddy Affiliation: McGill University Affiliation: Mila Quebec AI Institute Affiliation: Canada CIFAR AI Chair Affiliation: ServiceNow Research Correspondence to: siva.reddy@mila.quebec Abstract LLM-based agents are becoming increasingly proficient at solving web-based tasks. With this capability comes a greater risk of misuse for malicious purposes, such as posting misinformation in an online forum or selling illicit substances on a website. To evaluate these risks, we propose SafeArena , the first benchmark to focus on the deliberate misuse of web agents. SafeArena comprises 250 250 safe and 250 250 harmful tasks across four websites. We...",
     "cache_version": 10,
-    "checked_at": "2026-11-01T05:56:24+00:00",
+    "checked_at": "2026-11-25T08:22:37+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -39259,6 +39586,30 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "55128241b084c21235f018c2fe06e337d69dfb8dbea9055c8e70aba96b925f29": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "View RSS feeds Subscribe to RSS Back to all posts November 24, 2026 Updated prompt logging for AI Security for Apps WAF To log prompt content for AI Security for Apps, configure payload logging and use a WAF custom rule that references a field with the cf.llm.prompt prefix. When a custom rule matches, payload logging stores the extracted prompt. If no prompt is extracted and analysis falls back to the full request body, payload logging stores the full request body. This workflow replaces the previous AI Security Log Mode Ruleset procedure. For more information, refer to Log prompts for matching rules . November 24, 2026 Updated prompt logging for AI Security for Apps WAF To log prompt content for AI Security for Apps, configure payload logging and use a WAF custom rule that references a field with the cf.llm.prompt prefix. When a custom rule matches, payload logging stores the extracted prompt. If no prompt is extracted and analysis falls back to the full request body, payload logging stores the full request body. This workflow replaces the previous AI Security Log Mode Ruleset procedure. For more information, refer to Log prompts for matching rules .",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:29+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 285
+  },
   "553299119893baa0208e8ed7a0ecce1c35ea16e4485c5dd7d1c9edb80146ce03": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -41378,6 +41729,30 @@
     ],
     "word_count": 8
   },
+  "596be627e4b8018de7a6a8c1d41a5d561d9ad93d898de2feed6cecc10e62826b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "deepseek-v4-flash-0731 Text Generation \u00e2\u0080\u00a2 DeepSeek Model ID @cf/deepseek-ai/deepseek-v4-flash-0731 Copy Cloudflare-hosted Batch Function calling Reasoning Deprecated Zero data retention DeepSeek-V4-Flash-0731 is the official release of DeepSeek-V4-Flash, superseding the preview version, with substantially enhanced agentic capabilities. Model Info Deprecated 11/20/2026 Context Window \u00e2\u0086\u0097 1,048,576 tokens Function calling \u00e2\u0086\u0097 Yes Reasoning none low high (default) max Zero data retention Yes Batch Yes Unit Pricing $0.44 per M input tokens, $1.32 per M output tokens, $0.014 per M cached input tokens Playground Try out this model with Workers AI LLM Playground. It does not require any setup or authentication and is an instant way to preview and test a model directly in the browser. Launch the LLM Playground Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role: \"user\" , content: \"What is the origin of the phrase Hello, World\" , }, ]; const stream = await env. AI . run ( \"@cf/deepseek-ai/deepseek-v4-flash-0731\" , { messages, stream: true , }); return new Response (stream, { headers: { \"content-type\" : \"text/event-stream\" }, }); }, } satisfies ExportedHandler < Env >; export interface Env { AI : Ai ; } export default { async fetch (...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2744
+  },
   "59770f60ab6d21c9b0f9ff2a048bb3bfaed7e571cfcee1fc216cbd3edcd9bb7f": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -41957,6 +42332,45 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 932
+  },
+  "5b03287dde417e2d4b87f64340b8876940b3351136f0b66c66228c7e7f090e44": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Justice department warning online users of scammers using real women in cryptocurrency scheme It's all a ploy to make these fake romantic prospects seem more personal and convincing. SAN FRANCISCO (KGO) -- Consumer advocates warn that artificial intelligence is supercharging online scams. But to make scams look convincing, some criminals are adding a human touch. The U.S. Attorney for the District of Columbia is warning Americans that scammers are using real women as lures in crypto schemes It's all a ploy to make these fake romantic prospects seem more personal and convincing. According to U.S. Attorney Jeanine Pirro, the scam organization will hire human models to portray women on social media or dating apps. The models then record generic videos or voice notes, saying things like \"Goodnight babe\" or \"I miss you.\" The videos are sent to the victims and are used and reused from one target to another in order to convince them that these women are real. MORE: SF retiree loses $500,000 in pig butcher scam, then falls for the same scam again Of course, once the model has gained the victim's trust, the scammers persuade them to invest in fake crypto exchanges, draining away their money. It's another reminder to use caution when meeting people online - because a video message is no longer proof that someone is who they say they are.",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:30+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "trust"
+    ],
+    "word_count": 461
   },
   "5b0b68b0af0bac0432c4eaa5080bbaa27b1ab8cbfbdb2228fa34f10c746e32d7": {
     "access_status": "available",
@@ -43900,6 +44314,30 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 408
+  },
+  "5efc6c48fe37e7911ed4a1fca950811c4d17194ee52dbc8edd4ebba382902bd2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore upgrades 2026 key exports growth forecast, expects pace to moderate in 2027 Sign up now: Get ST's newsletters delivered to your inbox Non-oil domestic exports are now expected to grow by 30% to 32% in 2026, up from an earlier forecast of 14% to 16%, Enterprise Singapore said on Nov 24. ST PHOTO: LIM YAOHUI Sheila Chiang Published Nov 24, 2026, 10:32 AM Updated Nov 24, 2026, 07:45 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore raised its 2026 non-oil domestic exports forecast to 30% to 32%, after record third-quarter growth driven by strong AI demand in electronics and specialised machinery. NODX rose 45.8% in the third quarter and 27.6% in the first three quarters, with the US, China and Taiwan leading market growth, while non-electronics also gained. Growth is expected to slow in 2027 to 5% to 7% for exports and 2.5% to 4.5% for the economy, as AI investment cools and risks remain from demand correction and Middle East conflict. AI generated SINGAPORE \u2013 Singapore has more than doubled its forecast for key export growth in 2026, following a record third-quarter performance fuelled by booming demand for artificial intelligence, but expects the pace for 2027 to moderate. Non-oil domestic exports (NODX) are expected to grow by 30% to 32% in 2026, up from an earlier forecast of 14% to 16%, Enterprise Singapore (EnterpriseSG) said on Nov 24. The upgrade reflects...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1955
   },
   "5f32bd63345cb86543e589dde5f50ed430a3f7ef2dc11100f85b9a525d219434": {
     "access_status": "available",
@@ -47248,6 +47686,30 @@
       "fraud"
     ],
     "word_count": 4464
+  },
+  "667cd9a96ad24620386b64960b767b9f2c4838e421427c5b76dbc3133ede0346": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Noah Opens 19th Global Black Diamond Summit to Explore New Approaches to Wealth Security in the AI Era Published Nov 24, 2026, 09:07 PM Noah Opens 19th Global Black Diamond Summit to Explore New Approaches to Wealth Security in the AI Era The issuer is solely responsible for the content of this announcement. Press release Noah Opens 19th Global Black Diamond Summit to Explore New Approaches to Wealth Security in the AI Era Published Nov 24, 2026, 09:07 PM Noah Opens 19th Global Black Diamond Summit to Explore New Approaches to Wealth Security in the AI Era The issuer is solely responsible for the content of this announcement. Press release Noah Opens 19th Global Black Diamond Summit to Explore New Approaches to Wealth Security in the AI Era Published Nov 24, 2026, 09:07 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 179
   },
   "66a6a31ae5c3d099b0c2261627b69ff644408488355f8035b947918056548178": {
     "access_status": "available",
@@ -54478,6 +54940,30 @@
     ],
     "word_count": 4108
   },
+  "760db53c117c7f592558a3d1d928ac5e1cc6b7f1aab996cdf3c4849ac5873c10": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Questions linger after Jensen Huang's return to Nvidia Sign up now: Get ST's newsletters delivered to your inbox An internal investigation is still under way at Nvidia regarding concerns that Jensen Huang might have been the target of an espionage campaign by China. PHOTO: ERIC LEE/NYTIMES Published Nov 24, 2026, 11:20 AM Updated Nov 24, 2026, 11:49 AM Set as preferred source Listen Summarise Jensen Huang\u2019s return to Nvidia has steadied the company and markets, but questions remain over espionage claims, export breaches and possible SEC scrutiny. Huang faces hearings on Dec 1 and Dec 3, plus a California probe, while regulators weigh Nvidia\u2019s exports and shareholder disclosures. The board is under pressure, and the scandal may weaken Huang\u2019s image and keep Nvidia under closer watch, even as AI stocks rebound. AI generated NEW YORK \u2013 Jensen Huang\u2019s surprise return to Nvidia on Nov 23 appeared to stabilise the US chip giant, along with the broader stock market and AI ecosystem, but questions linger about the long - term impact of his scandal. Is Nvidia in the clear? An internal investigation overseen by independent directors is still underway at Nvidia regarding concerns that Huang might have been the target of an espionage campaign by China. US government officials, including President Donald Trump, assured Nvidia\u2019s board that reinstating the company\u2019s co - founder \u201cposes no...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:38+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2190
+  },
   "7623ec2543354c7c8b4409ec031fb7cb94c325e3556b15f9318c414899191fc5": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -61424,6 +61910,29 @@
       "fraud"
     ],
     "word_count": 0
+  },
+  "82dac63a53c9f85b818849cf87da2719422b087af1ac7a2304b4660eda6da321": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:44+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": "llm_adverse_use_benchmark",
+    "research_relevance_score": 55,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "82ec62215626c48ab194bce33d9a32bfc879c231640e37ebca91a2171909a882": {
     "access_status": "available",
@@ -70632,6 +71141,34 @@
     ],
     "word_count": 2029
   },
+  "9821e5022480c73f23027db681cfd31874bb2b8982aff43347aa0a31e4555386": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Content selection saved. Describe the issue below: Who Makes the Decision? Auditing an Agentic LLM Pipeline for Illicit Cryptocurrency Transaction Monitoring Vaishnavi Chaughule 1 , Yuchen Zhang 1 , Mohammed Ahnaf Tajwar 1 , Sai Akshay Menta 1 , Saanidhya Vats 1 , Vinija Jain 2 , Aman Chadha 3 , Divya Chaudhary 1 Affiliation: 1 Khoury College of Computer Sciences, Northeastern University, USA 2 Meta, USA 3 Apple, USA Abstract Agentic pipelines that combine graph detectors, deterministic rules, retrieval-augmented generation and an LLM judge are being proposed to monitor illicit cryptocurrency flows and to write regulation-citing justifications for analysts. They are evaluated on end-to-end accuracy or on the quality of those justifications, and neither shows which component made a decision. We audit such a pipeline on the Elliptic++ Bitcoin dataset with decision-source attribution, a trace-level protocol with three layers: per-case actual causation, interventional Shapley credit, and mediation of upstream risk scores. A deterministic wallet-score override carries about 94% of the credit for flags, and a verification gate cancels most of the judge\u2019s own flags, which fall on licit transactions. Testing the judge alone over 76 evidence bundles, four backbones and two prompts, we find that it follows an injected risk score on the anonymous transaction features it is given...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 70,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "ransomware",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 18589
+  },
   "98387ec7ce14786d120883b69864431a677094d721e805c2b262e7749d4a1f0c": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -71922,7 +72459,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Website management platform Optimizely confirms hackers put malicious code into customer sites A breach at a popular website management company exposed customers\u2019 visitors to malicious code that stole cryptocurrency and attempted to skim payment cards or install malware. Researchers at cybersecurity firm Report URI said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. Optimizely allows companies to personalize and manage their websites and apps. Optimizely confirmed the incident in a brief statement on Monday evening, writing that it \u201cidentified and contained a security incident affecting some Optimizely Web Experimentation customers.\u201d \u201cThe vulnerable path is blocked, the injected code was removed, and customers have been contacted directly,\u201d the company said. It did not respond to requests for comment about the specifics of Report URI\u2019s study. In a technical advisory, Optimizely confirmed Report URI\u2019s findings that a vulnerability in its Experimentation platform allowed threat actors to inject malicious JavaScript into some customers\u2019 websites. Report URI listed dozens of prominent companies impacted by the breach and used blockchain evidence to track at least $7,000 stolen through the malicious code. \u201cThe malware was a multi-purpose kit. It swapped cryptocurrency wallet addresses for the...",
     "cache_version": 10,
-    "checked_at": "2026-11-18T07:18:40+00:00",
+    "checked_at": "2026-11-25T08:22:34+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -78485,7 +79022,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "",
     "cache_version": 10,
-    "checked_at": "2026-11-17T07:49:36+00:00",
+    "checked_at": "2026-11-25T08:22:36+00:00",
     "direct_relevance_terms_found": [
       "scam",
       "scammer"
@@ -78786,6 +79323,40 @@
     ],
     "weak_generic_terms_found": [],
     "word_count": null
+  },
+  "a9995e5655bb89a2446f7043fb5814d8525ea25e95dee11e19b642e255de23b6": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "a9b2992e6059a5880d4bdbc62771e9f0d976b331dadcc833c36aaf9385f4c020": {
     "access_status": "available",
@@ -79604,6 +80175,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 721
+  },
+  "ab86ce5b4d4cff60e2ccfc3670d74f11a21d9cf046ae3b63ab18f13677742fc1": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "\u2018A handshake with Jensen\u2019: Why tech fought to save Nvidia\u2019s founder Sign up now: Get ST's newsletters delivered to your inbox SpaceX founder Elon Musk (left) was among those who petitioned for Jensen Huang\u2019s reinstatement as Nvidia\u2019s chief executive. PHOTO: HAIYUN LIANG/NYTIMES Published Nov 24, 2026, 03:48 AM Updated Nov 24, 2026, 10:22 AM Set as preferred source Listen WASHINGTON - From Steve Jobs to Elon Musk, Silicon Valley has long rallied behind outsized founders seen as inseparable from the companies they built \u2013 and in Jensen Huang, the tech world found its latest figure to defend at all costs . The idea is central to the industry\u2019s mythology, often distilled as \u201cfounder mode\u201d \u2013 the belief that companies thrive when founders stay hands-on rather than ceding control to executives. The spy scandal that pushed Huang out of Nvidia was treated by a powerful slice of the industry as a threat to that ethos and something to be fought rather than a verdict to be accepted. The campaign to bring him back began within hours of his Nov 12 resignation , led by investors and executives with deep stakes in the AI boom, several of them with close ties to President Donald Trump. It succeeded on Nov 23, when Nvidia\u2019s board reinstated Huang 11 days after accepting his resignation and six days after its chair told investors the company did \u201cnot intend to reinstate Jensen as CEO.\u201d \u201cThe...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity"
+    ],
+    "word_count": 2297
   },
   "ab87b0b26ec72a5bece972753c156da48cd7d3003b649ba10525e56eb40d4988": {
     "access_status": "available",
@@ -87061,6 +87658,30 @@
     ],
     "word_count": 2240
   },
+  "ba7c8a74e8f4263b95d03745fe8d584807ab7b421aa67ff06d18539fd7059fc4": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Tencent Spotlights How AI and Connected Payments Simplify Everyday Services at SFF 2026 Published Nov 25, 2026, 09:00 AM Tencent Spotlights How AI and Connected Payments Simplify Everyday Services at SFF 2026 The issuer is solely responsible for the content of this announcement. Press release Tencent Spotlights How AI and Connected Payments Simplify Everyday Services at SFF 2026 Published Nov 25, 2026, 09:00 AM Tencent Spotlights How AI and Connected Payments Simplify Everyday Services at SFF 2026 The issuer is solely responsible for the content of this announcement. Press release Tencent Spotlights How AI and Connected Payments Simplify Everyday Services at SFF 2026 Published Nov 25, 2026, 09:00 AM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:35+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 154
+  },
   "ba86888a5931b2212f88ac7abddb8cad53d4ba56995657b4765d735bc7181df3": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -89381,6 +90002,40 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 8
+  },
+  "bee947f9e63a8d122187adecdefac6b71740db3ba2feb2ffbfae6afcd7f6252f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:29+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
   },
   "bef9e05cf3a7469918620a1f7dded4d209d0cf6a303af5f4fe47d0a6594d865a": {
     "access_status": "available",
@@ -94580,6 +95235,30 @@
     ],
     "word_count": 24795
   },
+  "cad2326bf4551cd7933818d5cc48157fa9d89b6befbaf7f6469700a81083ad61": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release SANY Advances Toward an AI-Native Robotics Future at bauma CHINA 2026 Published Nov 24, 2026, 06:57 PM SANY Advances Toward an AI-Native Robotics Future at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release SANY Advances Toward an AI-Native Robotics Future at bauma CHINA 2026 Published Nov 24, 2026, 06:57 PM SANY Advances Toward an AI-Native Robotics Future at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release SANY Advances Toward an AI-Native Robotics Future at bauma CHINA 2026 Published Nov 24, 2026, 06:57 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:30+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 144
+  },
   "cad310a4d103edb1fce6278721f0fd1faccafe1b905b7504472b9b10f04336a4": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -97385,6 +98064,30 @@
       "fraud"
     ],
     "word_count": 1026
+  },
+  "d10505fdd2729e4090c576707700eb17a763e467a222c35e5bbd497cb05b0f41": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "deepseek-v4-pro-0813 Text Generation \u00e2\u0080\u00a2 DeepSeek Model ID @cf/deepseek-ai/deepseek-v4-pro-0813 Copy Cloudflare-hosted Function calling Reasoning Deprecated Zero data retention DeepSeek V4 Pro is a high-capability reasoning model from DeepSeek with a one million token context window, built for long-horizon agentic workflows and complex, multi-step problem-solving Model Info Deprecated 11/20/2026 Context Window \u00e2\u0086\u0097 1,048,576 tokens Function calling \u00e2\u0086\u0097 Yes Reasoning none low high (default) max Zero data retention Yes Unit Pricing $1.32 per M input tokens, $3.96 per M output tokens, $0.044 per M cached input tokens Playground Try out this model with Workers AI LLM Playground. It does not require any setup or authentication and is an instant way to preview and test a model directly in the browser. Launch the LLM Playground Usage export interface Env { AI : Ai ; } export default { async fetch ( request , env ) : Promise < Response > { const messages = [ { role: \"system\" , content: \"You are a friendly assistant\" }, { role: \"user\" , content: \"What is the origin of the phrase Hello, World\" , }, ]; const stream = await env. AI . run ( \"@cf/deepseek-ai/deepseek-v4-pro-0813\" , { messages, stream: true , }); return new Response (stream, { headers: { \"content-type\" : \"text/event-stream\" }, }); }, } satisfies ExportedHandler < Env >; export interface Env { AI : Ai ; } export default {...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:33+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2768
   },
   "d10d0e7f90731f8bf5e5967eca1d345c0d965cf6e57206a46b637d62db5d6d56": {
     "access_status": "available",
@@ -103126,6 +103829,37 @@
     ],
     "word_count": 1432
   },
+  "dd419383b8944996a88f7186fce2ee45f66cc5f16db36d95a0b13c5be157b66f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "SentinelOne and Cloudflare \u00e2\u0080\u0094 An AI-driven security ecosystem for autonomous, risk-based protection Abstract This reference architecture outlines how Cloudflare and SentinelOne solutions integrate to create an AI-driven security ecosystem that combines autonomous endpoint protection with Zero Trust network access, shared risk intelligence, and automated remediation and recovery workflows. Organizations can leverage this integration to enforce risk-based access policies, accelerate threat hunting with generative AI, and orchestrate autonomous responses across both platforms. Introduction Today's cybersecurity landscape presents organizations with a complex set of challenges. The expanding attack surface created by remote work, cloud migration, and increasingly automated, AI-assisted threats requires a cohesive approach that spans endpoint protection, network security, and identity. Cloudflare One and the SentinelOne Singularity\u00e2\u0084\u00a2 Platform provide a powerful integrated solution to these challenges. By combining SentinelOne's AI-driven, autonomous endpoint protection with Cloudflare's secure network and Zero Trust capabilities, organizations can implement comprehensive protection that secures both their devices and their network traffic, while simplifying operations through automation, shared risk intelligence, and consistent policy. Why integrate Cloudflare and SentinelOne...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:36+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "phishing",
+      "cybersecurity",
+      "malware",
+      "ransomware",
+      "identity",
+      "trust"
+    ],
+    "word_count": 6066
+  },
   "dd45e41743cc6852ebd23cbb5b7a48c12c235cad9c4b59955579f1e485bff9ea": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -106219,7 +106953,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "ASEAN, major partners seek action on cybercrime at Manila summit Trump and Modi join Philippine gathering; Myanmar and energy in the spotlight Japanese Prime Minister Sanae Takaichi (second from right) and her Indian counterpart Narendra Modi join other ASEAN and dialogue partner leaders for a photo shortly before convening the East Asia Summit in Manila on Nov. 17. \u00a9 Reuters MANILA -- Leaders from ASEAN countries and major partners like China, India and Japan convened for the East Asia Summit in Manila on Tuesday, with efforts to combat transnational and online crimes high on the agenda, and the U.S. seeking to tone down statements on climate change and diversity. Read Next Latest on International relations Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
     "cache_version": 10,
-    "checked_at": "2026-11-18T07:18:38+00:00",
+    "checked_at": "2026-11-25T08:22:32+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -108298,6 +109032,30 @@
       "fraud"
     ],
     "word_count": 2526
+  },
+  "e9f9068bb232ce837a3f1e683453a1db4e32e4fcf10c5695b770e6f356cec603": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Certis and SUTD partner to advance Physical AI, robotics and drone technologies for real-world operations Published Nov 25, 2026, 02:08 PM Certis and SUTD partner to advance Physical AI, robotics and drone technologies for real-world operations The issuer is solely responsible for the content of this announcement. Press release Certis and SUTD partner to advance Physical AI, robotics and drone technologies for real-world operations Published Nov 25, 2026, 02:08 PM Certis and SUTD partner to advance Physical AI, robotics and drone technologies for real-world operations The issuer is solely responsible for the content of this announcement. Press release Certis and SUTD partner to advance Physical AI, robotics and drone technologies for real-world operations Published Nov 25, 2026, 02:08 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:32+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 164
   },
   "ea0b1f710e4adc6906af85e1955a11ab8adbcf41ddbdaf8fb447d9472d89bae0": {
     "access_status": "available",
@@ -113507,6 +114265,32 @@
     "weak_generic_terms_found": [],
     "word_count": 3129
   },
+  "f55ca4fd131735c1aa8baff2c92fe1e964167d3c023dcd6330aeefc6208af746": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "What are the various US federal and state probes faced by Nvidia and Jensen Huang? Sign up now: Get ST's newsletters delivered to your inbox After 12 days, Jensen Huang is back as Nvidia\u2019s CEO following a unanimous board vote to reinstate him. PHOTO: MANUEL ORBEGOZO/NYTIMES Published Nov 24, 2026, 09:35 AM Updated Nov 24, 2026, 06:13 PM Set as preferred source Listen Summarise Trump said Nvidia and Jensen Huang faced no national security risk, but FBI, US intelligence and a board review examined Huang\u2019s links to a Chinese businesswoman and possible foreign influence. The Justice Department, SEC and California Attorney-General opened probes into Nvidia\u2019s deals, sales practices and accounting, with concerns over antitrust issues and complex AI financing arrangements. Congress launched wide-ranging hearings on Nvidia\u2019s conduct, China sales and Megaspeed ties, while lawmakers warned of possible wrongdoing and the risk to US national security. AI generated WASHINGTON \u2013 As US President Donald Trump welcomed Jensen Huang\u2019s reinstatement as Nvidia CEO and declared the tech billionaire\u2019s return posed no national security risk, the company and its boss faced a host of state and federal probes and reviews. Here are details on some of those actions, with their status in certain cases remaining unclear: FBI and US intelligence reviews After reports that the Nvidia CEO had an extramarital...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:34+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3946
+  },
   "f563dfdaf986d581da422b36475ef2c823cb7330e3a4ae50c95f02becbef8183": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -117817,6 +118601,48 @@
       "trust"
     ],
     "word_count": 15537
+  },
+  "fe253b07b70e5c1a48c7784dede08bfa74a3556ee3cb22a4ed8ab5400ee7c4e9": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "singapore FairPrice warns of scammers impersonating company and NTUC affiliates The scams may involve unexpected calls, messages or emails falsely claiming that recipients have won prizes, such as FairPrice vouchers. PHOTO: Google Maps PUBLISHED ON November 23, 2026 8:13 AM BY Asyiqin Nadzri FairPrice has warned the public about scammers impersonating the supermarket chain and its affiliated organisations through phone calls, text messages and phishing emails. In a Facebook post on Monday (Nov 23), FairPrice said it had received reports of scammers posing as representatives of FairPrice, NTUC Income, NTUC Union and FairPrice Loyalty. The scams may involve unexpected calls, messages or emails falsely claiming that recipients have won prizes, such as FairPrice vouchers. Victims may then be pressured into clicking suspicious links to verify their identities or providing personal and banking information. FairPrice stressed that such links do not originate from the company or its affiliates. It also reminded the public that it would never request personal banking information, credit card details or one-time passwords. Members of the public are advised to be wary of callers who create a sense of urgency or demand immediate payment for vouchers or insurance policies. They should also avoid clicking on links in unsolicited emails or messages and hang up if they suspect a call is a...",
+    "cache_version": 10,
+    "checked_at": "2026-11-25T08:22:32+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing"
+    ],
+    "word_count": 888
   },
   "fe53e6c473d6b4ac13934c877d41e0ec9e4521fcedbda41c7a96ef053158d456": {
     "access_status": "paywalled_or_login",
