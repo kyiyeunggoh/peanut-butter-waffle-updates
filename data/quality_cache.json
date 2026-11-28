@@ -3345,6 +3345,52 @@
     "weak_generic_terms_found": [],
     "word_count": 1314
   },
+  "06b4f55108e3165ecdff15af5156fa041f733b4344f8938d79247db9f729f91d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: SALSA : Sampling Adversarial Suffixes from Learned Distributions for LLM Safety Assessment Shivank Rajput* Affiliation: IIIT Delhi Email: shivank23508@iiitd.ac.in Himanshu Singh* Affiliation: IIIT Delhi Email: himanshus@iiitd.ac.in A. V. Subramanyam Affiliation: IIIT Delhi Email: subramanyam@iiitd.ac.in Abstract Large language models (LLMs) remain vulnerable to jailbreak attacks, where adversaries append optimized suffixes to otherwise benign looking prompts to bypass safety alignment. Existing optimization-based GCG-style attacks can be effective, but they are expensive at inference time, and suffer from poor transfer. We present, SALSA , a generative framework that learns a distribution over jailbreak suffixes from optimization-derived attack corpora. Once trained, the model supports efficient sampling-based attacks. On open-source targets, it achieves attack success rates comparable to state-of-the-art optimization baselines, while reducing generation time from 3.46s to 0.04s per prompt. In black-box transfer, it remains highly effective against proprietary systems, including 99% ASR on GPT-3.5-Turbo , and reaches 45% ASR on the substantially harder GPT-4o , more than doubling the strongest baseline at an equal sampling budget. We further offer an intuition for why generative sampling can preserve high attack success, when...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "financial fraud",
+      "identity fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "victim",
+      "manipulation",
+      "phishing",
+      "vulnerability",
+      "fraud",
+      "identity"
+    ],
+    "word_count": 18815
+  },
   "06ba37760e5d7778e419d9a80fd3afc90654f1bdb76268e78b466615be7045a8": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -7403,6 +7449,29 @@
     "weak_generic_terms_found": [],
     "word_count": 1289
   },
+  "104a58d11790ca0c4730746c1bd9be604054e83d81264044ddc46784da5db0d0": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "1055201985899fbd5570af75512220f93c272b35e936f8cb2df689aaac0ee8b9": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -8404,6 +8473,30 @@
     "weak_generic_terms_found": [],
     "word_count": 0
   },
+  "11d1750155faea5f8c35dc165391d3deaf095a23a6e2b2aafe40332b25edce68": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living Published Nov 26, 2026, 07:15 PM Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living The issuer is solely responsible for the content of this announcement. Press release Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living Published Nov 26, 2026, 07:15 PM Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living The issuer is solely responsible for the content of this announcement. Press release Xiaomi and Singtel Singapore Partner to Advance AI-powered Smart Living Published Nov 26, 2026, 07:15 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:02+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 139
+  },
   "11df3ea74a998d8053a0c5e513ff3c4fff452315c97e4144f95ae1a034718862": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -8524,7 +8617,7 @@
     "anti_scam_relevance": "direct",
     "article_excerpt": "Content selection saved. Describe the issue below: ADVERSARIAL ROBUSTNESS EVALUATION Measuring the Residual Jailbreak Surface of Frontier Large Language Models A red-team study of Anthropic Fable 5 & Opus 4.8 models September 2026 ABSTRACT We evaluate the adversarial robustness of three frontier large language models (LLMs) developed by Anthropic, Opus 4.8, Fable 5 and its successor Fable 5.1, against four families of automated jailbreak attack across 7 826 7\\,826 harmful intents spanning a ten-category harm taxonomy. Using the HackAgent 1 1 1 HackAgent is an open-source AI-agent red-teaming toolkit developed by the AI Security Lab at AI4I: it orchestrates an attacker model against a target model under a chosen jailbreak algorithm, scores the target\u2019s responses, and logs every attempt. https://hackagent.dev . red-teaming framework, hundreds of thousands of adversarial attempts were generated and every apparent success was independently re-adjudicated by the same panel of five frontier judge models ( \u2265 4 / 5 \\geq 4/5 agreement) for all three targets. All models resist the majority of attacks, but the residual surface is larger than aggregate framing suggests: it is dominated by adaptive iterative attacks, while static obfuscation is near-fully neutralised. On the two attack families run against all three targets (TAP and PAP), with identical denominators, the ordering does not...",
     "cache_version": 10,
-    "checked_at": "2026-10-28T05:34:33+00:00",
+    "checked_at": "2026-11-28T07:42:12+00:00",
     "direct_relevance_terms_found": [
       "scam"
     ],
@@ -23112,7 +23205,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "Image: 404 Media. We start this week with Joseph\u2019s profile of the man who made OnlyFake, an AI-powered fake ID site. After the break, Jason tells us about the Muse agent that is using Meta. In the subscribers-only section, Jason explains how the Department of Justice is using AI detection tools against defense lawyers. Listen to the weekly podcast on Apple Podcasts , Spotify , or YouTube . Become a paid subscriber for access to this episode's bonus content and to power our journalism. If you become a paid subscriber, check your inbox for an email from our podcast host Transistor for a link to the subscribers-only version! You can also add that subscribers feed to your podcast app of choice and never miss an episode that way. The email should also contain the subscribers-only link for the extended video version too. It will also be in the show notes in your podcast player.",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:40+00:00",
+    "checked_at": "2026-11-28T07:41:57+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -25377,6 +25470,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1933
+  },
+  "37407748b0c27159ea22b472200cda05464f9f62713d0ef572763ed4ce8bac6d": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "South Korean police seek arrest warrant for top scorer in tax accountancy exam Sign up now: Get insights on Asia's fast-moving developments Han Won-seok is being investigated on charges of obstruction of official duties by fraudulent means. PHOTO: REUTERS Published Nov 26, 2026, 11:22 PM Updated Nov 26, 2026, 11:25 PM Set as preferred source Listen Summarise \u4e2d\u6587 South Korean police sought an arrest warrant for Han Won-seok, 34, after he confessed to using AI-powered devices to cheat in the 2026 tax accountant exam. Police say he hid a camera in a correction tape dispenser, sent question images to a laptop at home, and received AI-generated answers on a hidden monitor. The case has fuelled fears over AI-assisted cheating in major exams, and it helped trigger Education Minister Choi Kyo-jin\u2019s resignation after criticism of government preparedness. AI generated SEOUL - The South Korean police sought an arrest warrant on Nov 26 for the top scorer in a state-administered tax accountancy exam, whose confession to using AI-powered devices to cheat triggered nationwide scrutiny of exam integrity. Han Won-seok, 34, is being investigated by the Seoul Metropolitan Police Agency on charges of obstruction of official duties by fraudulent means in connection with the 2026 tax accountant certification examination. He turned himself in on Nov 15 after several days of online scrutiny and...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 1626
   },
   "374380607cdcbf64df33c393adf66ae356cde0ad85c8cf9658d5e45838e1d320": {
     "access_status": "available",
@@ -29303,6 +29422,42 @@
     "weak_generic_terms_found": [],
     "word_count": 2326
   },
+  "3f5a609533d5a14af1fc71137d9a6eed62ccb64dbc5b079d007025eaf5458c96": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Content selection saved. Describe the issue below: ASCENT: First-Order Optimal Fine-Tuning with Recalibration for Safety\u2013Utility Co-Enhancement Weiwei Qi Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Chongyu Wang Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Tianhang Zheng \u2020 \u2020 thanks: Corresponding author. Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Affiliation: Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security Zefeng Wu Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Zhilin Guo Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Xiaojun Jia Affiliation: Nanyang Technological University Zhongjie Ba Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Affiliation: Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security Kui Ren Email: {weiweiqi,chongyuwang,zthzheng,zefengwu}@zju.edu.cn{zhilinguo,zhongjieba,kuiren}@zju.edu.cn jiaxiaojunqaq@gmail.com Affiliation: The State Key Laboratory of Blockchain and Data Security, Zhejiang University Affiliation: Hangzhou High-Tech Zone (Binjiang) Institute of Blockchain and Data Security Abstract Supervised fine-tuning can substantially...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:01+00:00",
+    "direct_relevance_terms_found": [
+      "scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam"
+    ],
+    "downrank_reason": "generic_fraud_ml",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "generic_fraud_ml",
+    "research_relevance_score": -35,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "manipulation",
+      "malware",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 23130
+  },
   "3f5c55ea89afae04d0021ea796a42243ca207bdcc07ca3eb0bec412975d280ca": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -30276,7 +30431,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability Journal: Journal of Network and Computer Applications Saviz Changizi Email: s.changizi@surrey.ac.uk Corresponding author: Corresponding author Address: 6G Innovation Centre, Institute for Communication Systems, University of Surrey, Guildford, United Kingdom Nasibeh Mohammadzadeh Email: nasibeh.m@gmail.com Address: Department of Network Engineering, Universitat Polit\u00e8cnica de Catalunya (UPC), Barcelona, Spain Mohammad Shojafar Email: m.shojafar@surrey.ac.uk Address: 6G Innovation Centre, Institute for Communication Systems, University of Surrey, Guildford, United Kingdom Rahim Tafazolli Email: r.tafazolli@surrey.ac.uk Address: 6G Innovation Centre, Institute for Communication Systems, University of Surrey, Guildford, United Kingdom Abstract When does a second artificial intelligence (AI) component improve a primary network-fraud decision rather than add operational burden? Our results show that supervision is not inherently beneficial: under the evaluated role assignments and operating policies, additional fraud recovery is usually accompanied by enough legitimate-user blocking to worsen the overall error profile. We study this question through a role-aware Decider\u2013Supervisor (DS) framework with blockchain...",
     "cache_version": 10,
-    "checked_at": "2026-11-20T07:06:40+00:00",
+    "checked_at": "2026-11-28T07:42:03+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance, generic_fraud_ml",
@@ -39839,6 +39994,33 @@
     "weak_generic_terms_found": [],
     "word_count": 8
   },
+  "550c579152f47ac5d9cfb6fbbda84b192264fcc9a8ba7c64da2b6e7aa54e460f": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Taiwan\u2019s 2026 local elections could be a game-changer for its politics, say analysts Sign up now: Get insights on Asia's fast-moving developments Taipei Mayor Chiang Wan-an\u2019s (left) opponent is DPP lawmaker Puma Shen, who is riding on a wave of support that seemingly came out of nowhere. PHOTOS: AFP, REUTERS Chew Hui Min Published Nov 27, 2026, 06:45 PM Updated Nov 28, 2026, 05:46 AM Set as preferred source Listen Summarise \u4e2d\u6587 Taiwan\u2019s Nov 28 local elections will choose 11,051 officials and act as a midterm test for President Lai Ching-te and the ruling DPP. The KMT still controls 15 of 22 local governments, but Taipei and New Taipei are too close to call and could reshape the island\u2019s political balance. Strong DPP challenges, economic growth and KMT infighting could change results, with the outcome likely to affect the 2028 presidential race. AI generated TAIPEI \u2013 For Taipei resident Nelly Tang, the top issue in the upcoming Taiwan local elections is urban renewal. \u201cThis part of Taipei is an old residential district, so urban renewal is very important, especially as there are many apartments that are about 40 to 50 years old,\u201d said the 55-year-old housewife living in central Taipei\u2019s Zhongshan district. She is not alone in her focus on municipal issues as Taiwanese head to the polls to elect 11,051 local officials on Nov 28. In these so-called nine-in-one elections, voters...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:08+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "identity",
+      "trust"
+    ],
+    "word_count": 5694
+  },
   "55128241b084c21235f018c2fe06e337d69dfb8dbea9055c8e70aba96b925f29": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42401,6 +42583,30 @@
     "weak_generic_terms_found": [],
     "word_count": 3899
   },
+  "5a4261785510e78dacbb288f15175ebb48da5f8a28f5f5f42cfdd03e92a7b0d8": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Wall Street ends higher as battered AI stocks gain in volatile week Sign up now: Get ST's newsletters delivered to your inbox Traders working on the floor of the New York Stock Exchange in New York City on Nov 27. PHOTO: REUTERS Published Nov 28, 2026, 03:35 AM Updated Nov 28, 2026, 03:35 AM Set as preferred source NEW YORK - Wall Street\u2019s main indexes ended higher on Nov 27 and posted weekly gains as investors returned from the Thanksgiving holiday and flocked to hard-hit AI-linked shares. US stocks have swung sharply this week, with Jensen Huang\u2019s return as Nvidia CEO and Anthropic\u2019s brief fall below its initial public offering price adding to volatility across the AI trade. Investors have alternated between bargain-hunting after a steep selloff and fretting over soaring AI costs, heavy borrowing and doubts about companies\u2019 returns on investment. \u201cThe market is so oversold that a bounce was inevitable,\u201d said Jamie Cox, managing partner at Harris Financial Group. Chipmakers that investors battered this month recovered ground, with Micron and Marvell gaining 7.6% and 7.3% respectively. The broader chip gauge also climbed 4.7%. Nvidia, after remaining weak for most of the session, ended 0.8% higher. The Dow Jones Industrial Average rose 591.99 points, or 1.18%, to 50,774.94, the S&P 500 gained 114.71 points, or 1.60%, to 7,297.49 and the Nasdaq Composite gained 543.70 points...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:04+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1990
+  },
   "5a53b3e9bda42bf9de1b2b6d98dc177a79e152d3a6f22b0c899b9328ba17c42b": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -42585,6 +42791,32 @@
       "trust"
     ],
     "word_count": 2267
+  },
+  "5ae84e887924f3f62c074222904439f86fdc7851cba1cb6109c96086772042fc": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Singapore, China reach 29 deals at top bilateral forum, the highest in recent years Sign up now: Get ST's newsletters delivered to your inbox The 22nd Joint Council for Bilateral Cooperation meeting between Singapore and China was held at the Shangri-La Singapore on Nov 23. ST PHOTO: GAVIN FOO Lim Min Zhang Published Nov 23, 2026, 12:08 PM Updated Nov 23, 2026, 10:36 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore and China signed 29 deals at their top bilateral forum, the most in recent years, covering trade, finance, science, public health and people-to-people ties. Leaders discussed upgrading the China-Singapore Free Trade Agreement, which may take \u201ca year or two\u201d, and adapting key projects like Suzhou, Tianjin and Chongqing. Both sides reaffirmed support for free trade, multilateralism and a rules-based order, while expanding cooperation in AI, digital services, health and regional links. AI generated SINGAPORE \u2013 Singapore and China concluded 29 deals in areas ranging from trade and finance to science and technology and public health at their top bilateral forum on Nov 23 \u2013 the highest number in recent years. Deputy Prime Minister Gan Kim Yong, who co-chairs the Joint Council for Bilateral Cooperation (JCBC) with Chinese Vice-Premier Ding Xuexiang, witnessed the signing of these agreements after the meetings. Both sides also discussed ways to refresh the three...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 3795
   },
   "5afcd2a17bee1a87ff6013386b799151fc4d534016a71f79a2dfc151d8e0d627": {
     "access_status": "available",
@@ -45580,6 +45812,30 @@
     "weak_generic_terms_found": [],
     "word_count": 667
   },
+  "60f1e05714052b0b6fd90cab80ff163d4611693bdfcd9d185123c0d10fdf644f": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "The day AI wrecked my pizza dough and revealed the problem with its confident answers AI\u2019s fluency lulls us into thinking it will flag its own blind spots. But the best thing it can do is to know when to call a human. Sign up now: Get ST's newsletters delivered to your inbox The more we use AI, the more we run into the pitfalls of simply taking its word for things, says the writer. PHOTO: REUTERS Sonny Santos Published Nov 28, 2026, 12:00 PM Updated Nov 28, 2026, 03:14 PM Set as preferred source Unlock audio \u4e2d\u6587 \u201cThat is a significant jump,\u201d Gemini told me when I confessed to adding 50g of salt instead of 25g to my Neapolitana pizza dough. Instead of turning smooth after kneading, it clung to my hands like it had a grudge against me. Gemini suggested doubling the other ingredients to fix it, leaving me with 2kg of sticky dough that still refused to rise. See more on AI/artificial intelligence Retirement Tech life hacks The day AI wrecked my pizza dough and revealed the problem with its confident answers AI\u2019s fluency lulls us into thinking it will flag its own blind spots. But the best thing it can do is to know when to call a human. Sign up now: Get ST's newsletters delivered to your inbox The more we use AI, the more we run into the pitfalls of simply taking its word for things, says the writer. PHOTO: REUTERS Sonny Santos Published Nov 28, 2026, 12:00 PM Updated Nov 28, 2026...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 541
+  },
   "60fb33abf0a97f3b142b487c0898a276ab888d1933d49c671ea0da3a50ae8286": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -45993,6 +46249,83 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 1898
+  },
+  "620aa0e5cc1b8f2fe3f495f9322f1447d451f3358242db160096a72e0fe96f20": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Press release NCS mobilises global AI and Cyber specialists to help CISOs stay ahead of escalating AI-powered Cyber threats Published Nov 27, 2026, 03:57 PM NCS mobilises global AI and Cyber specialists to help CISOs stay ahead of escalating AI-powered Cyber threats The issuer is solely responsible for the content of this announcement. Press release NCS mobilises global AI and Cyber specialists to help CISOs stay ahead of escalating AI-powered Cyber threats Published Nov 27, 2026, 03:57 PM NCS mobilises global AI and Cyber specialists to help CISOs stay ahead of escalating AI-powered Cyber threats The issuer is solely responsible for the content of this announcement. Press release NCS mobilises global AI and Cyber specialists to help CISOs stay ahead of escalating AI-powered Cyber threats Published Nov 27, 2026, 03:57 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:58+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 174
+  },
+  "6215f931a6766565a3d0b648fbd5311fb6408b15da0db706872b97942988d34d": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "TECH FEATURES New scams, old tricks: Why anyone can still fall for a scam when it\u2019s almost 2027 The same tactics that make a sales pitch persuasive can make a scam convincing. by Justin Choo 27 November, 2026 written by Justin Choo 27 November, 2026 Facebook Twitter Linkedin Whatsapp Telegram Email Between Black Friday, 12.12 sales, Christmas shopping and year-end holidays, an inbox full of limited-time offers and parcel notifications hardly warrants a second look. Unfortunately, a fraudulent delivery notification or time-sensitive deal fits right in. While police-reported scam cases fell 14.4 per cent in the first half of 2026, the Financial Industry Disputes Resolution Centre (FIDReC) received a record 5,344 claims in its latest financial year. Fraud and scam claims handled rose 18 per cent to 1,515, accounting for 45 per cent of all cases it handled. What\u2019s more revealing is how scammers get their hands on the money in the first place. According to the Singapore Police Force (SPF), 80.8 per cent of reported scam cases in the first half of 2026 involved victims transferring money themselves. In most cases, scammers didn\u2019t need to break into a bank account \u2014 they just needed to make a convincing pitch. Fraud and scam claims have nearly tripled since FY2022/23. FIDReC FY2025/26 media release; chart redrawn by Potions Nobody is immune If your mental image of a scam victim is an...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:57+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": "victim_psychology_or_persuasion",
+    "research_relevance_score": 60,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "impersonation scam",
+      "fake investment",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "scammer"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "phishing",
+      "cybersecurity",
+      "vulnerability",
+      "fraud",
+      "identity",
+      "trust"
+    ],
+    "word_count": 3036
   },
   "621f5c2351dc6ec910da6d527c4d2a2ddfb575992553e1dccad87c95c2603794": {
     "access_status": "available",
@@ -46871,6 +47204,30 @@
       "trust"
     ],
     "word_count": 6735
+  },
+  "63e4917d5f68cd2ef44b15d680cbbdebc28baa2e6bea26126af80f00e555bbed": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Seniors tap AI to help peers stay on their feet Sign up now: Get ST's newsletters delivered to your inbox Teo Gek Kee, 86, has been training with and representing her western Singapore team in walking football. ST PHOTO: NG SOR LUAN Judith Tan Published Nov 27, 2026, 06:50 PM Updated Nov 27, 2026, 07:47 PM Set as preferred source Listen Summarise \u4e2d\u6587 Singapore\u2019s seniors are ageing fast, with over-80s rising 60% in a decade and falls affecting one in three people aged 65 and above each year. NTUC Health is training 25 seniors to use CaptureProof BalanceScan, an AI tool that checks gait, walking speed and balance to spot fall risk. The Senior-to-Senior programme will grow to 200 seniors over three years, helping older people support peers in familiar community settings. AI generated SINGAPORE \u2013 She may be petite and spritely, but this 86-year-old has been running her opponents ragged on the field. Retired souvenir shop owner Teo Gek Kee is part of the western Singapore Walking Football team. \u201cUnfortunately, the men in the other teams were stronger, so we are not in the finals, but it will not stop me from coming here to cheer others on,\u201d she said. The self-confessed hyperactive granny said she exercises three times a day. \u201cI do taiji in the morning and go brisk walking. I used to swim but not any more.",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2898
   },
   "63ffcf8ec4af811ab035856d1fb0027dc8146cd2d89629a3e5e1f2e6f7ccaa4b": {
     "access_status": "available",
@@ -53796,6 +54153,30 @@
     ],
     "word_count": 54
   },
+  "72a93721f5ec1fe31d2752c422da992b2761761352a11c711a26b83434f4b85b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "SAP weighs cutting at least 10,000 positions in AI restructuring Sign up now: Get ST's newsletters delivered to your inbox The restructuring plan would affect at least 9% of SAP\u2019s global workforce, but the total number of job cuts hasn\u2019t been finalised. PHOTO: REUTERS Published Nov 27, 2026, 06:30 AM Updated Nov 27, 2026, 06:30 AM Set as preferred source Summarise SAP is planning to cut at least 10,000 jobs, or 9% of staff, as it reshapes its software business for the AI era, people familiar with the matter said. Chief Executive Christian Klein is pushing an AI-first strategy, with changes to product, engineering and sales, after earlier AI efforts faced problems and board changes in 2026. The cuts are not final and may change after labour talks; Germany\u2019s labour council has an employment guarantee through 2028, and SAP says it is still reviewing its organisation. AI generated SAP is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era, according to people familiar with the matter. The restructuring would affect at least 9% of the global workforce, the people said, asking not to be identified because discussions are ongoing. The total number of job cuts hasn\u2019t been finalised and might still change after labour negotiations, they added. The plans come after SAP, Europe\u2019s most valuable software company...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:11+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 1696
+  },
   "72ad1ba498ae5db5cd0435232e5ebaeaed9ae93da60f8766732c40828d8f4ab5": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -59350,6 +59731,30 @@
     ],
     "word_count": 1822
   },
+  "7da23757d94a8e7e2d4441c4b89cda28f7da7bb71a18fc82b17e13e1f5720f2b": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "US chip restrictions cast shadow over Chinese AI labs Sign up now: Get insights on Asia's fast-moving developments Huawei flagship store at Mix City in Shenzhen, China on Nov 12. Huawei\u2019s Ascend processors have become China\u2019s leading alternative to Nvidia\u2019s AI chips. PHOTO: QILAI SHEN/NYTIMES Published Nov 27, 2026, 07:20 PM Updated Nov 27, 2026, 07:20 PM Set as preferred source Summarise US chip curbs are squeezing Chinese AI labs such as Z.ai, DeepSeek and Moonshot AI, slowing access to top Nvidia chips and cloud computing power. Washington tightened export controls from 2022, then added new licence rules for data centres serving Chinese clients after the Nvidia scandal. Chinese firms are worried in the short term, but the pressure may speed up use of domestic chips from Huawei and others, making the shift harder to reverse. AI generated BEIJING \u2013 Chinese AI labs like Z.ai, DeepSeek and Moonshot AI have been creeping ever closer to their US rivals in their capabilities, but the fallout from the Nvidia scandal could slow their progress. Experts said tighter US restrictions are curbing access to chips in the short term, which adds incentive for Beijing\u2019s efforts to acclerate development of their own cutting-edge semiconductors. How is Washington cracking down? The US government first introduced export controls on advanced chips destined for China in 2022, citing national...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:05+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2562
+  },
   "7db523606bc4ef4b2c2c99e72498c3642bb0be5ca3dba9ef12dd5eee9538503e": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
@@ -62868,6 +63273,44 @@
     ],
     "word_count": 1218
   },
+  "848dcf0cdce55b978035a9ff4a87b0ade81f823bd1d5f2856bd33ed468c08226": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:55+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "online fraud"
+    ],
+    "weak_generic_terms_found": [
+      "fraud"
+    ],
+    "word_count": 0
+  },
   "849415f30b9538e197d7ebaf0328358071955ff7808aa31ec8b6d5fba795ec12": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -63278,6 +63721,29 @@
     "weak_generic_terms_found": [],
     "word_count": 1991
   },
+  "8563bc1dc99a21a5be9baa205076d0d1f49cfae136ab4dd9d96c84f37ebda953": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
+  },
   "8565de77001aab1dfe4b3305fee5179fb90da88b8de614aa5a407e0780328439": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -63485,7 +63951,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "AI-fuelled cyberattacks drive claims surge at Japan insurers Sign up now: Get insights on Asia's fast-moving developments Attackers are using increasingly sophisticated methods as AI advances, and unauthorised access has led to a string of personal data leaks in Japan. PHOTO ILLUSTRATION: REUTERS Published Nov 20, 2026, 09:19 PM Updated Nov 20, 2026, 09:21 PM Set as preferred source Listen Summarise Japan insurers report a sharp rise in cyberinsurance claims as AI-driven attacks and data leaks increase. Tokio Marine saw three times usual October notifications, and Sompo saw 2\u00bd times more claims. The higher claims may lift payouts, but insurers say losses are still manageable. Tokio Marine expects some full-year impact, while Sompo says customer requests for more cover have tripled. The market is still small for smaller firms, with only 8.8% of Japanese SMEs insured. Insurers are adding prevention tools and tighter terms, as Sompo plans a new monitoring service from December. AI generated Japan\u2019s biggest property insurers are reporting a sharp jump in cyberinsurance claims as artificial intelligence-driven attacks grow more sophisticated and hacking incidents surge nationwide. Tokio Marine Holdings received three times as many cyberinsurance claim notifications in October as usual, according to the company. Sompo Holdings said claims in October were running at 2\u00bd times higher...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:42+00:00",
+    "checked_at": "2026-11-28T07:42:02+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -68774,9 +69240,9 @@
   "923ba2ca671b89c9237d1c25272cc0ecb07e61306d9e7a035d5168e97a4a80f4": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Anthropic researcher says AI chatbot Claude solved maths\u2019 greatest riddle Sign up now: Get ST's newsletters delivered to your inbox Proof of the Riemann Hypothesis has eluded mathematicians for more than 160 years. The claim that Anthropic\u2019s Claude has solved the maths riddle has not been independently verified, and the proof has not yet been reviewed by outside experts. PHOTO: REUTERS Published Nov 21, 2026, 04:00 AM Updated Nov 21, 2026, 08:38 AM Set as preferred source Listen Summarise Anthropic researcher Levent Alpoge says Claude helped prove the Riemann Hypothesis, a 160-year-old maths problem linked to prime numbers and seen as the biggest open question in pure mathematics. The claim is not yet independently verified. It must be peer-reviewed and survive two years of scrutiny to win the Clay Mathematics Institute\u2019s US$1 million Millennium Prize. Alpoge says the proof also covers the Generalised Riemann Hypothesis and is being released in Lean. Experts praised the openness, but said the result is still unconfirmed. AI generated WASHINGTON \u2013 A researcher at AI company Anthropic said on Nov 20 that he had used the firm\u2019s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years. First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers and is widely...",
+    "article_excerpt": "Anthropic researcher says AI chatbot Claude solved maths\u2019 greatest riddle Sign up now: Get ST's newsletters delivered to your inbox Proof of the Riemann Hypothesis has eluded mathematicians for more than 160 years. The claim that Anthropic\u2019s Claude has solved the maths riddle has not been independently verified, and the proof has not yet been reviewed by outside experts. PHOTO: REUTERS Published Nov 21, 2026, 04:00 AM Updated Nov 21, 2026, 04:19 PM Set as preferred source Listen Summarise Anthropic researcher Levent Alpoge says Claude helped prove the Riemann Hypothesis, a 160-year-old maths problem linked to prime numbers and seen as the biggest open question in pure mathematics. The claim is not yet independently verified. It must be peer-reviewed and survive two years of scrutiny to win the Clay Mathematics Institute\u2019s US$1 million Millennium Prize. Alpoge says the proof also covers the Generalised Riemann Hypothesis and is being released in Lean. Experts praised the openness, but said the result is still unconfirmed. AI generated WASHINGTON \u2013 A researcher at AI company Anthropic said on Nov 20 that he had used the firm\u2019s Claude chatbot to prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years. First proposed by German mathematician Bernhard Riemann in 1859, the hypothesis concerns the distribution of prime numbers and is widely...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:41+00:00",
+    "checked_at": "2026-11-28T07:42:00+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -68793,7 +69259,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2235
+    "word_count": 2241
   },
   "924405921f41370ba58e87c335f72a72782990b9a4026ac843a08c70c3d17737": {
     "access_status": "available",
@@ -70925,6 +71391,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2073
   },
+  "96dc362f0f906fea083fdae73d585af601860993fd37c506f2b20d90083ed315": {
+    "access_status": "available",
+    "anti_scam_relevance": "irrelevant",
+    "article_excerpt": "Press release Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026 Published Nov 26, 2026, 01:46 PM Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026 Published Nov 26, 2026, 01:46 PM Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026 The issuer is solely responsible for the content of this announcement. Press release Zoomlion Launches Industry's First AI Excavation Robot Powered by Embodied Intelligence at bauma CHINA 2026 Published Nov 26, 2026, 01:46 PM The issuer is solely responsible for the content of this announcement. E-paper Newsletters Podcasts RSS Feed About Us Terms & Conditions Personal Data Protection Notice Need help? Reach us here. Advertise with us \u4e2d\u6587\u7248 (beta) News titles published by SPH Media",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:56+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": true,
+    "hard_rejection_reason": "vendor_product_launch_no_scam_anchor",
+    "press_release_or_sponsored": true,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 164
+  },
   "96e2075e1468f8c16f956e363ba0b1042b9c5842a7d275edd1c9f3ebf8d6ca9c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -72883,7 +73373,7 @@
     "anti_scam_relevance": "adjacent",
     "article_excerpt": "How Hongqi's supercar plan spun into debt, liquidation and fraud claims Chain of investigations into opaque funding structure of FAW and Silk EV's venture The $1.45 million Hongqi S9 promised great technical abilities, but a planned factory in Italy never broke ground, leading to investigations into suspected attempted fraud involving public funds and possible money laundering. At the Shanghai auto show in April 2021, a red-and-black supercar with sharply sculpted bodywork commanded attention at Hongqi's booth. Xu Liuping, then chairman of the Chinese luxury brand's parent, FAW Group, announced that global orders were opening for an initial run of 99 cars. Read Next Latest on Caixin Sponsored Content About Sponsored Content This content was commissioned by Nikkei's Global Business Bureau.",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:40+00:00",
+    "checked_at": "2026-11-28T07:42:00+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -77918,6 +78408,30 @@
       "fraud"
     ],
     "word_count": 2217
+  },
+  "a61834091b8b04224d630da0f4ff2e5fba9b6717a2e4f13ea2c0503fcad34516": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Latest Videos 1:18 PM Wong attends AMP 35th anniversary gala dinner 2:27 Treat AI as a learning exercise and make sure it helps your daily life: Vivian Balakrishnan 0:27 Twice\u2019s Dahyun and Stray Kids\u2019 Lee Know spotted filming variety show in Singapore 1:24 'When elephants make love, it\u2019s disastrous': Vivian Balakrishnan on US-China relations 12:21 Malaysian Economic Minister Akmal Nasir on Johor-Singapore Special Economic Zone, data centres 0:30 Hospital in Miami hosts DIY Macy\u2019s Thanksgiving Parade with newborn babies 0:21 Bright meteor greets residents in the US and Canada on Thanksgiving Eve 0:13 Driver dies as car crashes through building wall in Makati, plunging onto road below 0:14 Semi-truck loses control and jackknifed on Ohio highway Load more Latest Videos 1:18 PM Wong attends AMP 35th anniversary gala dinner 2:27 Treat AI as a learning exercise and make sure it helps your daily life: Vivian Balakrishnan 0:27 Twice\u2019s Dahyun and Stray Kids\u2019 Lee Know spotted filming variety show in Singapore 1:24 'When elephants make love, it\u2019s disastrous': Vivian Balakrishnan on US-China relations 12:21 Malaysian Economic Minister Akmal Nasir on Johor-Singapore Special Economic Zone, data centres 0:30 Hospital in Miami hosts DIY Macy\u2019s Thanksgiving Parade with newborn babies 0:21 Bright meteor greets residents in the US and Canada on Thanksgiving Eve 0:13 Driver dies as car crashes...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:07+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 287
   },
   "a61acc3f80003a4c1ed61c3a99328333ccd8510e85ed391fd8db93eca7264497": {
     "access_status": "available",
@@ -83365,9 +83879,9 @@
   "b04e7d4f6be4c451cbdb9e94ac49c9fde5deb8c683bdfe949c29a2a2f38f8839": {
     "access_status": "available",
     "anti_scam_relevance": "adjacent",
-    "article_excerpt": "Aim is to \u2018polarise\u2019: Influencer deepfakes used to stoke Canada-US tensions Sign up now: Get ST's newsletters delivered to your inbox Content creators have reportedly had their identities stolen by a network using artificial intelligence to inflame the online conversation around crumbling ties between the US and Canada. PHOTO: ADOBE STOCK Published Nov 21, 2026, 04:49 AM Updated Nov 21, 2026, 04:49 AM Set as preferred source Summarise McGill University researchers found nearly 300 Instagram and TikTok accounts using AI deepfakes of real creators to inflame Canada-US trade war tensions. The network posted thousands of videos, got about 20 million views, and used fake scripts and mixed political claims to \u201cpolarise\u201d viewers. TikTok and Meta removed the accounts, but influencers like Jasmin Laine and Ron Butler said the deception caused harm and was hard to stop. AI generated MONTREAL - Jasmin Laine has hundreds of thousands of subscribers, but some videos of her discussing the Canada-US trade war contain words she says she never spoke. Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using artificial intelligence to inflame the online conversation around the crumbling ties between the North American neighbours. \u201cThere you have your face and your voice and what looks like you speaking, in...",
+    "article_excerpt": "Aim is to \u2018polarise\u2019: Influencer deepfakes used to stoke Canada-US tensions Sign up now: Get ST's newsletters delivered to your inbox Content creators have reportedly had their identities stolen by a network using artificial intelligence to inflame the online conversation around crumbling ties between the US and Canada. PHOTO: ADOBE STOCK Published Nov 21, 2026, 04:49 AM Updated Nov 21, 2026, 04:49 AM Set as preferred source Listen Summarise McGill University researchers found nearly 300 Instagram and TikTok accounts using AI deepfakes of real creators to inflame Canada-US trade war tensions. The network posted thousands of videos, got about 20 million views, and used fake scripts and mixed political claims to \u201cpolarise\u201d viewers. TikTok and Meta removed the accounts, but influencers like Jasmin Laine and Ron Butler said the deception caused harm and was hard to stop. AI generated MONTREAL - Jasmin Laine has hundreds of thousands of subscribers, but some videos of her discussing the Canada-US trade war contain words she says she never spoke. Laine is one of hundreds of content creators who, according to researchers at McGill University, had their identities stolen by a network using artificial intelligence to inflame the online conversation around the crumbling ties between the North American neighbours. \u201cThere you have your face and your voice and what looks like you speaking...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:42+00:00",
+    "checked_at": "2026-11-28T07:42:01+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": null,
@@ -83387,7 +83901,7 @@
       "deception",
       "identity"
     ],
-    "word_count": 2407
+    "word_count": 2409
   },
   "b05968aab122aeba015d5f0538e0e2cb774a95dc072547a8d8198de6152715e7": {
     "access_status": "available",
@@ -83593,9 +84107,9 @@
   "b09a936b97cf6c3a253aa379704591e273df93351e36c10dfcaf7dfc388f6f84": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Trump says he plans to penalise US tech companies that build AI data centres in other countries Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking at a White House news conference on Nov 20. PHOTO: AP Published Nov 21, 2026, 02:21 AM Updated Nov 21, 2026, 02:22 AM Set as preferred source Listen Summarise Trump says US tech firms will face \u201ca tremendous tax\u201d if they build AI data centres abroad, but he gave no details and has not told his officials. He wants Americans to welcome data centres at home and make developers pay more to local communities, while the administration also tightens chip rules to curb China\u2019s AI access. AI data centres are becoming politically toxic after midterm anger, so firms like Google and Meta are offering more money, more openness, and greener promises to calm local fears. AI generated WASHINGTON \u2013 President Donald Trump says US tech companies will face \u201ca tremendous tax\u201d if they build artificial intelligence data centres in other countries. Trump did not provide details Nov 20, and he said he hadn\u2019t yet told his own officials about his plan. The Republican president urged Americans to welcome data centre construction in their communities and extract concessions from the developers, repeating a point he made before the midterms. Trump says, \u201cYou ought to take advantage of the data centres. Make them pay you...",
+    "article_excerpt": "Trump says he plans to penalise US tech companies that build AI data centres in other countries Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump speaking at a White House news conference on Nov 20. PHOTO: AP Published Nov 21, 2026, 02:21 AM Updated Nov 25, 2026, 04:17 PM Set as preferred source Listen Summarise Trump says US tech firms will face \u201ca tremendous tax\u201d if they build AI data centres abroad, but he gave no details and has not told his officials. He wants Americans to welcome data centres at home and make developers pay more to local communities, while the administration also tightens chip rules to curb China\u2019s AI access. AI data centres are becoming politically toxic after midterm anger, so firms like Google and Meta are offering more money, more openness, and greener promises to calm local fears. AI generated WASHINGTON \u2013 President Donald Trump says US tech companies will face \u201ca tremendous tax\u201d if they build artificial intelligence data centres in other countries. Trump did not provide details on Nov 20, and said he had yet to tell his own officials about his plan. The Republican President urged Americans to welcome data centre construction in their communities and extract concessions from the developers, repeating a point he made before the midterms. Trump said: \u201cYou ought to take advantage of the data centres. Make them pay you...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:48+00:00",
+    "checked_at": "2026-11-28T07:42:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -83614,7 +84128,7 @@
     "weak_generic_terms_found": [
       "trust"
     ],
-    "word_count": 1581
+    "word_count": 1578
   },
   "b0ea85851950f58363841db7e01a32457fcdcd2fe3b61c2511726554c8f978d2": {
     "access_status": "available",
@@ -84895,9 +85409,9 @@
   "b3e2a3428554f72e96aa704fdbf28b07464971e1c95a2d123d37a0ee9452838e": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump (left) and Chinese President Xi Jinping meeting in Shenzhen, China, on Nov 19. PHOTO: REUTERS Published Nov 21, 2026, 12:50 AM Updated Nov 21, 2026, 01:31 AM Set as preferred source Listen Summarise Trump and Xi agreed humans must stay involved in military AI decisions. Bessent said \u201cno major military operation\u201d should be launched without a person involved. The deal was presented as a key result of Trump\u2019s Asia trip. Bessent said it would not change US-China competition for AI supremacy. Bessent said China is still behind in chips and buying few H200s. He said US limits on advanced AI chips and remote access are being tightened. AI generated WASHINGTON - US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Nov 20. Bessent told CNBC after returning from Trump\u2019s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump\u2019s trip to Asia. \u201cI think it was very important that President Trump and President Xi agreed that humans should always be involved in any military decisions...",
+    "article_excerpt": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says Sign up now: Get ST's newsletters delivered to your inbox US President Donald Trump (left) and Chinese President Xi Jinping meeting in Shenzhen, China, on Nov 19. PHOTO: REUTERS Published Nov 21, 2026, 12:50 AM Updated Nov 21, 2026, 09:55 PM Set as preferred source Listen Summarise Trump and Xi agreed humans must stay involved in military AI decisions. Bessent said \u201cno major military operation\u201d should be launched without a person involved. The deal was presented as a key result of Trump\u2019s Asia trip. Bessent said it would not change US-China competition for AI supremacy. Bessent said China is still behind in chips and buying few H200s. He said US limits on advanced AI chips and remote access are being tightened. AI generated WASHINGTON \u2013 US President Donald Trump and Chinese President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Nov 20. Bessent told CNBC after returning from Trump\u2019s meeting with Xi in Shenzhen, China, that the agreement was among the major achievements of Trump\u2019s trip to Asia. \u201cI think it was very important that President Trump and President Xi agreed that humans should always be involved in any military decisions...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:47+00:00",
+    "checked_at": "2026-11-28T07:42:06+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -84914,7 +85428,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 1691
+    "word_count": 1676
   },
   "b3f2a06c03e2bed1fdb6b340815dcebcae9053abced63fdb4c7897b5d97cdf8c": {
     "access_status": "available",
@@ -86781,7 +87295,7 @@
     "anti_scam_relevance": "weak",
     "article_excerpt": "Content selection saved. Describe the issue below: Before the Arrest: Benchmarking LLMs on Criminal Profiling from Incomplete Evidence Yutong Yao Email: nlp2ct.yutong@gmail.com Yanjie Cao Affiliation: NLPCT Lab, Faculty of Information Science and Computing, University of Macau Affiliation: Faculty of Social Sciences, University of Macau Email: nlp2ct.guanhua@gmail.com Guanhua Chen Email: nlp2ct.junchao@gmail.com Xu Yang Email: nlp2ct.zeyu@gmail.com Junchao Wu Email: derekfw@um.edu.mo Zeyu Wu Email: lidiasc@um.edu.mo Lidia S. Chao Derek F. Wong \u2020 \u2020 thanks: Corresponding author. Abstract Large Language Models (LLMs) are increasingly applied to legal and criminal justice tasks, yet existing work focuses almost exclusively on post-arrest scenarios where the suspect\u2019s identity is already known, leaving the critical pre-arrest challenge of inferring suspect characteristics from incomplete evidence largely unexplored. To fill this gap, we introduce the P rofiling, I nvestigation, and J udgment ( PIJ ) benchmark 1 1 1 Code and data: https://github.com/NLP2CT/PIJ-benchmark . , comprising 2,500 real homicide cases from five countries. PIJ evaluates LLMs across three tasks that span the entire criminal investigation pipeline: criminal profiling, which requires abductive reasoning to infer suspect attributes from fragmentary scene evidence, crime process reconstruction, which tests...",
     "cache_version": 10,
-    "checked_at": "2026-10-25T04:35:38+00:00",
+    "checked_at": "2026-11-28T07:42:11+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -87730,6 +88244,50 @@
       "cybersecurity"
     ],
     "word_count": 0
+  },
+  "b9587e8a2b492c63db87d7b026c017176db5d6a9032de9a876e3c79cb211451f": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "Man accused of stealing $700,000 from Oregon victim via romance scam Published 12:33 pm Thursday, November 26, 2026 By Emily Rogers A Liberian man accused of stealing more than $707,000 from an Oregon victim through a romance scam has been extradited from C\u00f4te d\u2019Ivoire to face federal wire fraud charges. David Hardy, 39, was also known as David Nyangbor Hardy Jr., \u201cLaski Bozej\u201d and \u201cFabees.\u201d He allegedly posed as a 68-year-old Finnish citizen living in Bend on dating website Plenty of Fish to target an Oregon victim. Hardy claimed he was traveling in Maryland and Mexico and was unable to meet in person. He allegedly told the victim that his grandson had been kidnapped by a Mexican drug cartel and he needed money to secure the child\u2019s release. Hardy also claimed to possess $6 million in gold bars but needed funds to cover fees required to ship and sell the gold. He allegedly instructed the victim not to contact law enforcement, claiming the cartel would kill his grandson if authorities became involved. The victim transferred more than $707,000 between Sept. 14 and Oct. 26, 2020. The victim\u2019s funds allegedly were sent to two bank accounts controlled by individuals who were involved in online relationships with scammers.",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:58+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "scammer",
+      "romance scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "romance scam"
+    ],
+    "weak_generic_terms_found": [
+      "victim",
+      "vulnerability",
+      "fraud",
+      "trust"
+    ],
+    "word_count": 408
   },
   "b96d943b3f38f85294d12cd067302430458377a6babfe35a4f90e8f258f5278d": {
     "access_status": "available",
@@ -93689,6 +94247,29 @@
       "fraud"
     ],
     "word_count": 756
+  },
+  "c5ee59eab62a5f5722cf3c59a5a49a88dab077d51ec55efe7379721145a39b35": {
+    "access_status": "unknown",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:12+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": false,
+    "rejection_reason": "unresolved_google_news_url",
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": null
   },
   "c5ef47e17ba55e03019d520778fef55c4df554dc3e5e0547722870ad0445b6c2": {
     "access_status": "available",
@@ -101884,6 +102465,30 @@
     "weak_generic_terms_found": [],
     "word_count": 2274
   },
+  "d79b1f2df37f88590d63d1523c6fd99f4a136c145751491a10944621e4040a8c": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Women express frustration, concern over Nvidia boss Jensen Huang\u2019s return Sign up now: Get ST's newsletters delivered to your inbox Nvidia employees applauding Jensen Huang\u2019s return to office in Santa Clara, California, on Nov 23. PHOTO: REUTERS Published Nov 27, 2026, 01:50 PM Updated Nov 27, 2026, 06:27 PM Set as preferred source Listen Summarise Jensen Huang returned to Nvidia after resigning over alleged affairs and national security concerns, while Trump posted an AI image that many women saw as sexist and insulting. Supporters, including Elon Musk, backed Huang and called him a \u201chero\u201d, but critics said the reaction showed \u201chero worship\u201d and double standards for powerful men. Colette Kress briefly served as interim CEO under the \u201cglass cliff\u201d effect, but Nvidia said it would not reinstate Huang as CEO until Trump later said, \u201cI made the deal\u201d. AI generated SAN FRANCISCO \u2013 News of Jensen Huang\u2019s shocking return to Nvidia had barely landed when US President Donald Trump posted an AI-generated image of the Nvidia co-founder holding up a red bra, surrounded by security personnel whisking him offstage, blood streaked across his face. The image was based on a real photo taken in 2024 when Trump survived an assassination attempt during a campaign rally in Butler, Pennsylvania, and implied that Huang, too, had survived a bid to take him out. For many women, though, the image...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:03+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [],
+    "word_count": 2809
+  },
   "d7a3dd7275ce52799e0c0aa807de918ea9db0d2bbb29893887d8fe755b37181c": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -105640,6 +106245,33 @@
     ],
     "word_count": 18683
   },
+  "e01645e74ac6aa209eec5fc84a2a1d8334142785bbdfde5d61cda163c905d5e8": {
+    "access_status": "available",
+    "anti_scam_relevance": "adjacent",
+    "article_excerpt": "Singapore did its part in this Nvidia chips controversy The facts show a government that took allegations seriously, pursued investigations diligently and acted where evidence justified action. Sign up now: Get ST's newsletters delivered to your inbox Countries that sit between the two powers have found themselves coming under growing scrutiny, says the writer. PHOTO: ST FILE Chee Wee Kiong Published Nov 26, 2026, 05:00 PM Updated Nov 26, 2026, 05:35 PM Set as preferred source Listen In the intensifying contest between the United States and China over artificial intelligence, semiconductors have become more than commercial products. They are now instruments of geopolitical competition, national security and strategic influence. Countries that sit between the two powers have found themselves coming under growing scrutiny. Singapore is one of those countries. Over the past few months, international headlines have repeatedly linked Singapore to allegations involving the diversion of advanced Nvidia chips and AI infrastructure to entities in China. Stories focusing on export controls, cloud computing and semiconductor supply chains have at times created the impression that Singapore served as a permissive conduit for sensitive technology. That narrative is baseless. The evidence shows the contrary: that Singapore acted responsibly, investigated allegations rigorously, enforced its...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "fraud",
+      "trust"
+    ],
+    "word_count": 4163
+  },
   "e01a20f96234118e20a9fd36eab5f6f60ea3d7b7e80debb63458a632ba2078f3": {
     "access_status": "available",
     "anti_scam_relevance": "direct",
@@ -106087,6 +106719,32 @@
     "weak_generic_terms_found": [],
     "word_count": 5595
   },
+  "e0c1f2c0c0f57da3419503bf375308265cef7c639b589b71fbf681f7e0eef258": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "Asia Future Summit 2026 Singapore has not confirmed reports of Nvidia shipment halts: DPM Gan Sign up now: Get ST's newsletters delivered to your inbox Deputy Prime Minister Gan Kim Yong at a dialogue session moderated by ST\u2019s foreign editor Li Xueying at SPH Media\u2019s Asia Future Summit on Nov 27. ST PHOTO: BRIAN TEO Joyce ZK Lim Published Nov 27, 2026, 12:43 PM Updated Nov 27, 2026, 09:12 PM Set as preferred source Listen \u4e2d\u6587 SINGAPORE \u2013 Singapore has not confirmed reports that US chip giant Nvidia has halted shipments to the Republic , said Deputy Prime Minister Gan Kim Yong on Nov 27. The Government is in the process of engaging local companies to assess the impact of the US\u2019 latest chip curbs , and is working with America to explore how Singaporean firms can continue to have secure access to high-end chips. Businesses are also organising themselves and working with partners for continued chip access, Gan added. He was speaking at a dialogue session at SPH Media\u2019s Asia Future Summit , where he was asked about media reports that Nvidia had told its partners to stop shipping servers containing its chips to South-east Asian countries. This followed the US\u2019 announcement in November of a rule mandating that firms in Singapore, Thailand, Malaysia, Indonesia and Brazil obtain export licences for advanced chips, as America clamps down on what it sees as avenues for China to access...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:10+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2935
+  },
   "e0cacb5c5c600a100ebb1363bb1e1ae6eba24f592f8d0d986b56c7c2a5508a87": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
@@ -106456,6 +107114,42 @@
       "trust"
     ],
     "word_count": 6620
+  },
+  "e1793fbdf45ebf63986185308e6257ac05e0d3fdf307e39468cafdc1570ea9c0": {
+    "access_status": "available",
+    "anti_scam_relevance": "direct",
+    "article_excerpt": "",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:41:56+00:00",
+    "direct_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "direct_scam_relevance_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "downrank_reason": null,
+    "hard_rejected": false,
+    "hard_rejection_reason": null,
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [
+      "scam",
+      "investment scam"
+    ],
+    "weak_generic_terms_found": [],
+    "word_count": 0
   },
   "e198ad345787f8cb2c71922867ca51022db214b1667e5ee325d28350d8949227": {
     "access_status": "available",
@@ -107485,6 +108179,32 @@
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
     "word_count": 149
+  },
+  "e43204ba87c03364cb67f568d423455142515649b507ae8cf23af79d22c3c6d2": {
+    "access_status": "available",
+    "anti_scam_relevance": "weak",
+    "article_excerpt": "South Korean police raid late LEET top scorer\u2019s home in AI cheating probe Sign up now: Get insights on Asia's fast-moving developments The Seoul Metropolitan Police Agency said investigators began searching the former residence of Lee Jin-woo on Nov 26. PHOTO: THE KOREA HERALD/ASIA NEWS NETWORK Published Nov 26, 2026, 05:25 PM Updated Nov 26, 2026, 05:49 PM Set as preferred source Listen Summarise South Korean police raided Lee Jin-woo\u2019s home and school records after AI cheating claims in South Korea\u2019s law school entrance exam. Investigators were expected to check his belongings and papers. The case grew after a tax accountant exam top scorer admitted to cheating using AI. The police kept the probe open because of public interest. Officials also found sharp rises in high scores in 2026 national exams. This has raised fears that AI-assisted cheating may have damaged trust in the testing system. AI generated SEOUL \u2013 The South Korean police raided the home of the deceased first-ever perfect scorer on South Korea\u2019s law school entrance exam on Nov 26 , escalating an investigation into allegations of artificial intelligence-assisted cheating that has shaken public confidence in the country\u2019s testing system. The Seoul Metropolitan Police Agency said investigators began searching the former residence of Lee Jin-woo, 32, in Gwanak-gu, Seoul, at around 11am on Nov 26 . The raid also...",
+    "cache_version": 10,
+    "checked_at": "2026-11-28T07:42:09+00:00",
+    "direct_relevance_terms_found": [],
+    "direct_scam_relevance_terms_found": [],
+    "downrank_reason": "weak_anti_scam_relevance",
+    "hard_rejected": false,
+    "hard_rejection_reason": "weak_generic_only_no_scam_anchor",
+    "press_release_or_sponsored": false,
+    "quality_checked": true,
+    "rejection_reason": null,
+    "research_relevance_category": null,
+    "research_relevance_score": null,
+    "research_reputation_signals": [],
+    "salesy_vendor_pitch": false,
+    "strong_scam_anchor_terms_found": [],
+    "technology_modus_terms_found": [],
+    "title_scam_anchor_terms_found": [],
+    "weak_generic_terms_found": [
+      "trust"
+    ],
+    "word_count": 2518
   },
   "e4473f985e8063ddd2b86da6cc3a1eb18f98c4f28c617d37084d2116b1b3085a": {
     "access_status": "available",
@@ -113610,9 +114330,9 @@
   "f2e39dafc4b7b03c76c7518ebcaefb5eb0f37c1de66defa42714376d77d41d86": {
     "access_status": "available",
     "anti_scam_relevance": "weak",
-    "article_excerpt": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction Sign up now: Get ST's newsletters delivered to your inbox Specialist traders working on the floor of the New York Stock Exchange in New York City, on Nov 20. PHOTO: REUTERS Published Nov 21, 2026, 06:24 AM Updated Nov 21, 2026, 06:25 AM Set as preferred source Listen Summarise US stocks fell sharply as AI shares sold off, pushing the S&P 500 and Dow into correction territory after Anthropic\u2019s weak debut failed to calm fears. The S&P 500 had its seventh straight fall, while the Nasdaq had its worst weekly drop since March 2020. Nvidia, Amazon, Meta and other AI-linked names all slid. Investors now focus on inflation and the Fed, with markets pricing a near-certain December rate hike and next week\u2019s PCE data set to guide policy hopes. AI generated NEW YORK - US stocks extended their rout on Nov 20, and the S&P 500 and the Dow both confirmed corrections after Anthropic\u2019s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year\u2019s stock market rally. All three major US equity indexes ended sharply lower. The Dow and the S&P 500 are now more than 10% below their record closing highs,confirming both indexes have entered a correction. The bellwether S&P 500 notched its seventh consecutive drop, its longest losing streak since February 2020. The S&P 500 and the Dowlogged their...",
+    "article_excerpt": "Wall St ends sharply lower on AI sell-off, S&P 500, Dow in correction Sign up now: Get ST's newsletters delivered to your inbox Specialist traders working on the floor of the New York Stock Exchange on Nov 20. PHOTO: REUTERS Published Nov 21, 2026, 06:24 AM Updated Nov 22, 2026, 12:40 AM Set as preferred source Listen Summarise US stocks fell sharply as AI shares sold off, pushing the S&P 500 and Dow into correction territory after Anthropic\u2019s weak debut failed to calm fears. The S&P 500 had its seventh straight fall, while the Nasdaq had its worst weekly drop since March 2020. Nvidia, Amazon, Meta and other AI-linked names all slid. Investors now focus on inflation and the Fed, with markets pricing a near-certain December rate hike and next week\u2019s PCE data set to guide policy hopes. AI generated NEW YORK \u2013 US stocks extended their rout on Nov 20, and the S&P 500 and the Dow both confirmed corrections after Anthropic\u2019s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year\u2019s stock market rally. All three major US equity indexes ended sharply lower. The Dow and the S&P 500 are now more than 10% below their record closing highs,confirming both indexes have entered a correction. The bellwether S&P 500 notched its seventh consecutive drop, its longest losing streak since February 2020. The S&P 500 and the Dowlogged their largest weekly...",
     "cache_version": 10,
-    "checked_at": "2026-11-21T06:59:45+00:00",
+    "checked_at": "2026-11-28T07:42:04+00:00",
     "direct_relevance_terms_found": [],
     "direct_scam_relevance_terms_found": [],
     "downrank_reason": "weak_anti_scam_relevance",
@@ -113629,7 +114349,7 @@
     "technology_modus_terms_found": [],
     "title_scam_anchor_terms_found": [],
     "weak_generic_terms_found": [],
-    "word_count": 2889
+    "word_count": 2877
   },
   "f3119a2ee724db7bfa878c7dc96da0ac04bd43b3d22415ba7e2c190b276bf110": {
     "access_status": "available",
